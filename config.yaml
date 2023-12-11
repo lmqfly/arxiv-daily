@@ -22,14 +22,14 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "DPI": 
-        filters: ["SLAM", "Visual Odometry"]
+    "DTI": 
+        filters: ["Drug Target Interactions"]
     "DDI":
-        filters: ["SFM", "Structure from Motion"]
-    #"MG":
-        #filters: ["Visual Localization",]
-    #"MPP":
-        #filters: ["Keypoint Detection",]
+        filters: ["Drug Drug Interactions"]
+    "MG":
+        #filters: ["Molecular Generation", ]
+    "MPP":
+        #filters: ["Molecular property prediction", "Self-Supervised", "Pre-Training"]
     "MD":
-        filters: ["Molecular Dynamics Simulations", "Model ", ]
+        filters: ["Molecular Dynamics Simulations"]
     
