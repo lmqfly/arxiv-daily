@@ -32,4 +32,7 @@ keywords:
         filters: ["Molecular property prediction", "Self-Supervised", "Pre-Training"]
     "MD":
         filters: ["Molecular Dynamics Simulations"]
+    "Transformer":
+        filters: ["transformer", "deep learning"]
+
     
