@@ -27,9 +27,9 @@ keywords:
     "DDI":
         filters: ["Drug Drug Interactions"]
     "MG":
-        #filters: ["Molecular Generation", ]
+        filters: ["Molecular Generation", ]
     "MPP":
-        #filters: ["Molecular property prediction", "Self-Supervised", "Pre-Training"]
+        filters: ["Molecular property prediction", "Self-Supervised", "Pre-Training"]
     "MD":
         filters: ["Molecular Dynamics Simulations"]
     
