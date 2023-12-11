@@ -9,7 +9,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#nerf>NeRF</a></li>
     <li><a href=#dti>DTI</a></li>
     <li><a href=#ddi>DDI</a></li>
     <li><a href=#mg>MG</a></li>
@@ -17,6 +16,24 @@
     <li><a href=#md>MD</a></li>
   </ol>
 </details>
+
+## DTI
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-11-25**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
+|**2023-11-24**|**Towards a more inductive world for drug repurposing approaches**|Jesus de la Fuente et.al.|[2311.12670](http://arxiv.org/abs/2311.12670)|**[link](https://github.com/ubioinformat/graphemb)**|
+|**2023-11-04**|**FragXsiteDTI: Revealing Responsible Segments in Drug-Target Interaction with Transformer-Driven Interpretation**|Ali Khodabandeh Yalabadi et.al.|[2311.02326](http://arxiv.org/abs/2311.02326)|**[link](https://github.com/yazdanimehdi/fragxsitedti)**|
+|**2023-11-03**|**PGraphDTA: Improving Drug Target Interaction Prediction using Protein Language Models and Contact Maps**|Rakesh Bal et.al.|[2310.04017](http://arxiv.org/abs/2310.04017)|**[link](https://github.com/yijia-xiao/pgraphdta)**|
+|**2023-09-28**|**Navigating Healthcare Insights: A Birds Eye View of Explainability with Knowledge Graphs**|Satvik Garg et.al.|[2309.16593](http://arxiv.org/abs/2309.16593)|null|
+|**2023-07-11**|**Machine Learning Study of the Extended Drug-target Interaction Network informed by Pain Related Voltage-Gated Sodium Channels**|Long Chen et.al.|[2307.05794](http://arxiv.org/abs/2307.05794)|**[link](https://github.com/weilabmsu/oud-ppi)**|
+|**2023-06-25**|**Meta-Path-based Probabilistic Soft Logic for Drug-Target Interaction Prediction**|Shengming Zhang et.al.|[2306.13770](http://arxiv.org/abs/2306.13770)|null|
+|**2023-11-14**|**Causal Intervention for Measuring Confidence in Drug-Target Interaction Prediction**|Wenting Ye et.al.|[2306.00041](http://arxiv.org/abs/2306.00041)|null|
+|**2023-10-18**|**A Federated Learning Benchmark for Drug-Target Interaction**|Gianluca Mittone et.al.|[2302.07684](http://arxiv.org/abs/2302.07684)|**[link](https://github.com/giemp95/feddti)**|
+|**2023-03-21**|**Fine-Grained Selective Similarity Integration for Drug-Target Interaction Prediction**|Bin Liu et.al.|[2212.00543](http://arxiv.org/abs/2212.00543)|**[link](https://github.com/Nanfeizhilu/FGS_DTI_Predition)**|
+
+<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
+
 ## DDI
 
 |Publish Date|Title|Authors|PDF|Code|
