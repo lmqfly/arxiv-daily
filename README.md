@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -84,7 +84,7 @@
 |**2017-04-19**|**Fast Kronecker product kernel methods via generalized vec trick**|Antti Airola et.al.|[1601.01507](http://arxiv.org/abs/1601.01507)|null|
 |**2015-03-12**|**Classification and its applications for drug-target interaction identification**|Jian-Ping Mei et.al.|[1502.04469](http://arxiv.org/abs/1502.04469)|null|
 
-<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231212>back to top</a>)</p>
 
 ## DDI
 
@@ -188,7 +188,7 @@
 |**2014-11-06**|**A network inference method for large-scale unsupervised identification of novel drug-drug interactions**|Roger Guimera et.al.|[1411.1528](http://arxiv.org/abs/1411.1528)|null|
 |**2012-10-02**|**Evaluation of linear classifiers on articles containing pharmacokinetic evidence of drug-drug interactions**|Artemy Kolchinsky et.al.|[1210.0734](http://arxiv.org/abs/1210.0734)|null|
 
-<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231212>back to top</a>)</p>
 
 ## MG
 
@@ -269,7 +269,7 @@
 |**2017-05-17**|**Molecular Generation with Recurrent Neural Networks (RNNs)**|Esben Jannik Bjerrum et.al.|[1705.04612](http://arxiv.org/abs/1705.04612)|null|
 |**2017-10-16**|**Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control**|Natasha Jaques et.al.|[1611.02796](http://arxiv.org/abs/1611.02796)|null|
 
-<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231212>back to top</a>)</p>
 
 ## MPP
 
@@ -376,14 +376,14 @@
 |**2022-10-25**|**Pre-training via Denoising for Molecular Property Prediction**|Sheheryar Zaidi et.al.|[2206.00133](http://arxiv.org/abs/2206.00133)|**[link](https://github.com/shehzaidi/pre-training-via-denoising)**|
 |**2022-05-26**|**Triangular Contrastive Learning on Molecular Graphs**|MinGyu Choi et.al.|[2205.13279](http://arxiv.org/abs/2205.13279)|null|
 
-<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231212>back to top</a>)</p>
 
 ## MD
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-08**|**Molecular Dynamics Simulation of Nanoporous Tungsten**|Jarod Worden et.al.|[2312.05227](http://arxiv.org/abs/2312.05227)|null|
-|**2023-12-07**|**A self-improvable Polymer Discovery Framework Based on Conditional Generative Model**|Xiangyun Lei et.al.|[2312.04013](http://arxiv.org/abs/2312.04013)|null|
+|**2023-12-07**|**A Self-Improvable Polymer Discovery Framework Based on Conditional Generative Model**|Xiangyun Lei et.al.|[2312.04013](http://arxiv.org/abs/2312.04013)|null|
 |**2023-12-06**|**Reduction of Interlayer Interaction in Multilayer Stacking Graphene with Carbon Nanotube Insertion: Insights from Experiment and Simulation**|Mingda Ding et.al.|[2312.03440](http://arxiv.org/abs/2312.03440)|null|
 |**2023-12-04**|**Insights to Molecular and Bulk Mechanical Properties of Glassy Carbon Through Molecular Dynamics Simulation and Mechanical Tensile Testing**|Manali Kuntea et.al.|[2312.02388](http://arxiv.org/abs/2312.02388)|null|
 |**2023-12-04**|**Hydrodynamic correlation and spectral functions of perfect cubic crystals**|Joel Mabillard et.al.|[2312.01867](http://arxiv.org/abs/2312.01867)|null|
@@ -483,7 +483,7 @@
 |**2023-10-08**|**Pressure-driven homogenization of lithium disilicate glasses**|Yasser Bakhouch et.al.|[2310.05278](http://arxiv.org/abs/2310.05278)|null|
 |**2023-10-07**|**From shear bands to earthquakes in a model granular material with contact aging**|E. A. Jagla et.al.|[2310.04890](http://arxiv.org/abs/2310.04890)|null|
 
-<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231212>back to top</a>)</p>
 
 ## Transformer
 
@@ -524,7 +524,7 @@
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
 |**2023-12-07**|**Probabilistic volumetric speckle suppression in OCT using deep learning**|Bhaskara Rao Chintada et.al.|[2312.04460](http://arxiv.org/abs/2312.04460)|**[link](https://github.com/bhaskarachintada/dltnode)**|
 |**2023-12-07**|**Deep3DSketch: 3D modeling from Free-hand Sketches with View- and Structural-Aware Adversarial Training**|Tianrun Chen et.al.|[2312.04435](http://arxiv.org/abs/2312.04435)|null|
-|**2023-12-07**|**Semi-Supervised Active Learning for Semantic Segmentation in Unknown Environments Using Informative Path Planning**|Julius Rückin et.al.|[2312.04402](http://arxiv.org/abs/2312.04402)|null|
+|**2023-12-07**|**Semi-Supervised Active Learning for Semantic Segmentation in Unknown Environments Using Informative Path Planning**|Julius Rückin et.al.|[2312.04402](http://arxiv.org/abs/2312.04402)|**[link](https://github.com/dmar-bonn/ipp-al)**|
 |**2023-12-07**|**Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning**|Yongqi Dong et.al.|[2312.04398](http://arxiv.org/abs/2312.04398)|null|
 |**2023-12-07**|**Surrogate Modelling for Sea Ice Concentration using Lightweight Neural Ensemble**|Julia Borisova et.al.|[2312.04330](http://arxiv.org/abs/2312.04330)|null|
 |**2023-12-07**|**Learning to sample in Cartesian MRI**|Thomas Sanchez et.al.|[2312.04327](http://arxiv.org/abs/2312.04327)|null|
@@ -590,7 +590,7 @@
 |**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493](http://arxiv.org/abs/2312.02493)|null|
 |**2023-12-05**|**Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery**|Yansheng Li et.al.|[2312.02481](http://arxiv.org/abs/2312.02481)|null|
 
-<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
