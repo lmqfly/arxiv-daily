@@ -15,6 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2005-04-07**|**Design of HIV-1-PR inhibitors which do not create resistance: blocking the folding of single monomers**|R. A. Broglia et.al.|[q-bio/0504011](http://arxiv.org/abs/q-bio/0504011)|null|
+|**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
 |**2023-11-25**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
 |**2023-11-24**|**Towards a more inductive world for drug repurposing approaches**|Jesus de la Fuente et.al.|[2311.12670](http://arxiv.org/abs/2311.12670)|**[link](https://github.com/ubioinformat/graphemb)**|
 |**2023-11-04**|**FragXsiteDTI: Revealing Responsible Segments in Drug-Target Interaction with Transformer-Driven Interpretation**|Ali Khodabandeh Yalabadi et.al.|[2311.02326](http://arxiv.org/abs/2311.02326)|**[link](https://github.com/yazdanimehdi/fragxsitedti)**|
@@ -80,6 +81,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
 |**2023-11-25**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
 |**2023-11-15**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261](http://arxiv.org/abs/2311.09261)|**[link](https://github.com/lars-research/emergnn)**|
 |**2023-10-22**|**UniMAP: Universal SMILES-Graph Representation Learning**|Shikun Feng et.al.|[2310.14216](http://arxiv.org/abs/2310.14216)|**[link](https://github.com/fengshikun/unimap)**|
@@ -366,6 +368,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Enhanced ionic conductivity through crystallization of glass-Li $_3$PS$_4$ by machine learning molecular dynamics simulations**|Koji Shimizu et.al.|[2312.06963](http://arxiv.org/abs/2312.06963)|null|
+|**2023-12-11**|**Tuning Interfacial Water Friction through Moiré Twist**|Chenxing Liang et.al.|[2312.06830](http://arxiv.org/abs/2312.06830)|null|
 |**2023-12-11**|**De novo Design of Polymer Electrolytes with High Conductivity using GPT-based and Diffusion-based Generative Models**|Zhenze Yang et.al.|[2312.06470](http://arxiv.org/abs/2312.06470)|null|
 |**2023-12-11**|**Self-assembly of Colloids with Competing Interactions Confined in Spheres**|Ningyi Li et.al.|[2312.06262](http://arxiv.org/abs/2312.06262)|null|
 |**2023-12-09**|**Can silica nanoparticles improve lithium transport in polymer electrolytes?**|Joel Martin Dalmas et.al.|[2312.05681](http://arxiv.org/abs/2312.05681)|null|
@@ -475,6 +479,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Empirical Validation of Conformal Prediction for Trustworthy Skin Lesions Classification**|Jamil Fayyad et.al.|[2312.07460](http://arxiv.org/abs/2312.07460)|null|
+|**2023-12-12**|**Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven Koopman Modelling**|Daniel Ordoñez-Apraez et.al.|[2312.07457](http://arxiv.org/abs/2312.07457)|null|
+|**2023-12-12**|**Deep Internal Learning: Deep Learning from a Single Input**|Tom Tirer et.al.|[2312.07425](http://arxiv.org/abs/2312.07425)|null|
+|**2023-12-12**|**ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Medical Image**|Hallee E. Wong et.al.|[2312.07381](http://arxiv.org/abs/2312.07381)|null|
+|**2023-12-12**|**Neural Differentiable Integral Control Barrier Functions for Unknown Nonlinear Systems with Input Constraints**|Vrushabh Zinage et.al.|[2312.07345](http://arxiv.org/abs/2312.07345)|null|
+|**2023-12-12**|**Neural Machine Translation of Clinical Text: An Empirical Investigation into Multilingual Pre-Trained Language Models and Transfer-Learning**|Lifeng Han et.al.|[2312.07250](http://arxiv.org/abs/2312.07250)|null|
+|**2023-12-12**|**Super-Resolution on Rotationally Scanned Photoacoustic Microscopy Images Incorporating Scanning Prior**|Kai Pan et.al.|[2312.07226](http://arxiv.org/abs/2312.07226)|**[link](https://github.com/11710615/pamsr)**|
+|**2023-12-12**|**Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review**|Bihui Yu et.al.|[2312.07213](http://arxiv.org/abs/2312.07213)|**[link](https://github.com/ultracoolhub/brain-inspired-computing)**|
+|**2023-12-12**|**SeasFire as a Multivariate Earth System Datacube for Wildfire Dynamics**|Ilektra Karasante et.al.|[2312.07199](http://arxiv.org/abs/2312.07199)|**[link](https://github.com/seasfire/seasfire-datacube-paper)**|
+|**2023-12-12**|**Investigation into the Training Dynamics of Learned Optimizers**|Jan Sobotka et.al.|[2312.07174](http://arxiv.org/abs/2312.07174)|null|
+|**2023-12-12**|**Generating High-Resolution Regional Precipitation Using Conditional Diffusion Model**|Naufal Shidqi et.al.|[2312.07112](http://arxiv.org/abs/2312.07112)|null|
+|**2023-12-12**|**Calibration-free quantitative phase imaging in multi-core fiber endoscopes using end-to-end deep learning**|Jiawei Sun et.al.|[2312.07102](http://arxiv.org/abs/2312.07102)|null|
+|**2023-12-12**|**A review of mechanistic learning in mathematical oncology**|John Metzcar et.al.|[2312.07026](http://arxiv.org/abs/2312.07026)|null|
+|**2023-12-12**|**Hyper-Restormer: A General Hyperspectral Image Restoration Transformer for Remote Sensing Imaging**|Yo-Yu Lai et.al.|[2312.07016](http://arxiv.org/abs/2312.07016)|null|
+|**2023-12-12**|**Securing MIMO Wiretap Channel with Learning-Based Friendly Jamming under Imperfect CSI**|Bui Minh Tuan et.al.|[2312.07011](http://arxiv.org/abs/2312.07011)|null|
+|**2023-12-12**|**RACER: Rational Artificial Intelligence Car-following-model Enhanced by Reality**|Tianyi Li et.al.|[2312.07003](http://arxiv.org/abs/2312.07003)|null|
+|**2023-12-12**|**PatchMorph: A Stochastic Deep Learning Approach for Unsupervised 3D Brain Image Registration with Small Patches**|Henrik Skibbe et.al.|[2312.06958](http://arxiv.org/abs/2312.06958)|null|
+|**2023-12-12**|**Benchmarking Deep Learning Classifiers for SAR Automatic Target Recognition**|Jacob Fein-Ashley et.al.|[2312.06940](http://arxiv.org/abs/2312.06940)|null|
+|**2023-12-12**|**Can a Transformer Represent a Kalman Filter?**|Gautam Goel et.al.|[2312.06937](http://arxiv.org/abs/2312.06937)|null|
+|**2023-12-12**|**When Bio-Inspired Computing meets Deep Learning: Low-Latency, Accurate, & Energy-Efficient Spiking Neural Networks from Artificial Neural Networks**|Gourav Datta et.al.|[2312.06900](http://arxiv.org/abs/2312.06900)|null|
+|**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
+|**2023-12-11**|**Multimodal Pretraining of Medical Time Series and Notes**|Ryan King et.al.|[2312.06855](http://arxiv.org/abs/2312.06855)|**[link](https://github.com/kingrc15/multimodal-clinical-pretraining)**|
+|**2023-12-11**|**Deep Learning based Modeling of Wireless Communication Channel with Fading**|Lee Youngmin et.al.|[2312.06849](http://arxiv.org/abs/2312.06849)|null|
+|**2023-12-11**|**Sequential coronagraphic low-order wavefront control**|Michael Bottom et.al.|[2312.06806](http://arxiv.org/abs/2312.06806)|null|
+|**2023-12-11**|**Large Scale Foundation Models for Intelligent Manufacturing Applications: A Survey**|Haotian Zhang et.al.|[2312.06718](http://arxiv.org/abs/2312.06718)|null|
+|**2023-12-10**|**Physics Informed Neural Network for Option Pricing**|Ashish Dhiman et.al.|[2312.06711](http://arxiv.org/abs/2312.06711)|**[link](https://github.com/ashish1610dhiman/pinn_option_pricing)**|
+|**2023-12-10**|**Perceiving University Student's Opinions from Google App Reviews**|Sakshi Ranjan et.al.|[2312.06705](http://arxiv.org/abs/2312.06705)|null|
 |**2023-12-11**|**Examining the Effect of Implementation Factors on Deep Learning Reproducibility**|Kevin Coakley et.al.|[2312.06633](http://arxiv.org/abs/2312.06633)|null|
 |**2023-12-11**|**Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**|Georgios Milis et.al.|[2312.06613](http://arxiv.org/abs/2312.06613)|**[link](https://github.com/g-milis/NEUTART)**|
 |**2023-12-11**|**Information theory for model reduction in stochastic dynamical systems**|Matthew S. Schmitt et.al.|[2312.06608](http://arxiv.org/abs/2312.06608)|null|
@@ -501,7 +532,7 @@ layout: default
 |**2023-12-10**|**Fast Classification of Large Time Series Datasets**|Muhammad Marwan Muhammad Fuad et.al.|[2312.06029](http://arxiv.org/abs/2312.06029)|null|
 |**2023-12-10**|**Exploiting Representation Bias for Data Distillation in Abstractive Text Summarization**|Yash Kumar Atri et.al.|[2312.06022](http://arxiv.org/abs/2312.06022)|null|
 |**2023-12-10**|**Reconstruction of Cortical Surfaces with Spherical Topology from Infant Brain MRI via Recurrent Deformation Learning**|Xiaoyang Chen et.al.|[2312.05986](http://arxiv.org/abs/2312.05986)|null|
-|**2023-12-10**|**Neural Architecture Codesign for Fast Bragg Peak Analysis**|Luke McDermott et.al.|[2312.05978](http://arxiv.org/abs/2312.05978)|null|
+|**2023-12-12**|**Neural Architecture Codesign for Fast Bragg Peak Analysis**|Luke McDermott et.al.|[2312.05978](http://arxiv.org/abs/2312.05978)|null|
 |**2023-12-10**|**Activating Frequency and ViT for 3D Point Cloud Quality Assessment without Reference**|Oussama Messai et.al.|[2312.05972](http://arxiv.org/abs/2312.05972)|**[link](https://github.com/o-messai/3d-pcqa)**|
 |**2023-12-10**|**RadImageGAN -- A Multi-modal Dataset-Scale Generative AI for Medical Imaging**|Zelong Liu et.al.|[2312.05953](http://arxiv.org/abs/2312.05953)|null|
 |**2023-12-10**|**A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis**|Linxi Zhao et.al.|[2312.05930](http://arxiv.org/abs/2312.05930)|**[link](https://github.com/thu-cs-pi-lab/anfc-automated-nailfold-capillary)**|
