@@ -277,6 +277,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**SE(3)-Invariant Multiparameter Persistent Homology for Chiral-Sensitive Molecular Property Prediction**|Andac Demir et.al.|[2312.07633](http://arxiv.org/abs/2312.07633)|null|
 |**2023-12-06**|**Enhancing Molecular Property Prediction via Mixture of Collaborative Experts**|Xu Yao et.al.|[2312.03292](http://arxiv.org/abs/2312.03292)|**[link](https://github.com/Hyacinth-YX/mixture-of-collaborative-experts)**|
 |**2023-12-05**|**(Provable) Adversarial Robustness for Group Equivariant Tasks: Graphs, Point Clouds, Molecules, and More**|Jan Schuchardt et.al.|[2312.02708](http://arxiv.org/abs/2312.02708)|null|
 |**2023-12-01**|**Removing Biases from Molecular Representations via Information Maximization**|Chenyu Wang et.al.|[2312.00718](http://arxiv.org/abs/2312.00718)|**[link](https://github.com/uhlerlab/infocore)**|
@@ -434,7 +435,7 @@
 |**2023-11-08**|**Structure and polymerization of liquid sulfur across the $λ$ -transition**|Manyi Yang et.al.|[2311.04572](http://arxiv.org/abs/2311.04572)|null|
 |**2023-11-08**|**Molecular mechanism of anion permeation through aquaporin 6**|Eiji Yamamoto et.al.|[2311.04545](http://arxiv.org/abs/2311.04545)|null|
 |**2023-11-08**|**Hydrogen diffusion in the lower mantle revealed by machine learning potentials**|Yihang Peng et.al.|[2311.04461](http://arxiv.org/abs/2311.04461)|null|
-|**2023-11-07**|**Practical Classical Molecular Dynamics Simulations for Low-Temperature Plasma Processing: A review**|Pascal Brault et.al.|[2311.03789](http://arxiv.org/abs/2311.03789)|null|
+|**2023-12-13**|**Practical Classical Molecular Dynamics Simulations for Low-Temperature Plasma Processing: A review**|Pascal Brault et.al.|[2311.03789](http://arxiv.org/abs/2311.03789)|null|
 |**2023-11-06**|**Automated Identification and Tracking of Deformation Twin Structures in Molecular Dynamics Simulations**|H. J. Ehrich et.al.|[2311.03271](http://arxiv.org/abs/2311.03271)|null|
 |**2023-11-07**|**Molecular Dynamics Simulation Analysis of Structural Dynamic Cross Correlation Induced by Odorant Hydrogen-Bonding in Mouse Eugenol Olfactory Receptor**|Chisato Okamoto et.al.|[2311.02654](http://arxiv.org/abs/2311.02654)|null|
 |**2023-11-04**|**Molecular dynamics simulation of the coalescence of surfactant-laden droplets**|Soheil Arbabi et.al.|[2311.02417](http://arxiv.org/abs/2311.02417)|null|
@@ -497,6 +498,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372](http://arxiv.org/abs/2312.08372)|null|
+|**2023-12-13**|**Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4**|Pei Yan et.al.|[2312.08317](http://arxiv.org/abs/2312.08317)|**[link](https://github.com/yan-scnu/prompted_dynamic_detection)**|
+|**2023-12-13**|**Hybrid Sample Synthesis-based Debiasing of Classifier in Limited Data Setting**|Piyush Arora et.al.|[2312.08288](http://arxiv.org/abs/2312.08288)|null|
+|**2023-12-13**|**TABSurfer: a Hybrid Deep Learning Architecture for Subcortical Segmentation**|Aaron Cao et.al.|[2312.08267](http://arxiv.org/abs/2312.08267)|null|
+|**2023-12-13**|**A Compact and Semantic Latent Space for Disentangled and Controllable Image Editing**|Gwilherm Lesné et.al.|[2312.08256](http://arxiv.org/abs/2312.08256)|null|
+|**2023-12-13**|**OCTDL: Optical Coherence Tomography Dataset for Image-Based Deep Learning Methods**|Mikhail Kulyabin et.al.|[2312.08255](http://arxiv.org/abs/2312.08255)|**[link](https://github.com/mikhailkulyabin/octdl)**|
+|**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194](http://arxiv.org/abs/2312.08194)|null|
+|**2023-12-13**|**Universal Adversarial Framework to Improve Adversarial Robustness for Diabetic Retinopathy Detection**|Samrat Mukherjee et.al.|[2312.08193](http://arxiv.org/abs/2312.08193)|null|
+|**2023-12-13**|**ASC: Adaptive Scale Feature Map Compression for Deep Neural Network**|Yuan Yao et.al.|[2312.08176](http://arxiv.org/abs/2312.08176)|null|
+|**2023-12-13**|**Distributed Quantum Learning with co-Management in a Multi-tenant Quantum System**|Anthony D'Onofrio Jr. et.al.|[2312.08158](http://arxiv.org/abs/2312.08158)|null|
+|**2023-12-13**|**Ultra Low Complexity Deep Learning Based Noise Suppression**|Shrishti Saha Shetu et.al.|[2312.08132](http://arxiv.org/abs/2312.08132)|null|
+|**2023-12-13**|**Kimad: Adaptive Gradient Compression with Bandwidth Awareness**|Jihao Xin et.al.|[2312.08053](http://arxiv.org/abs/2312.08053)|null|
+|**2023-12-13**|**Explainable Trajectory Representation through Dictionary Learning**|Yuanbo Tang et.al.|[2312.08052](http://arxiv.org/abs/2312.08052)|null|
+|**2023-12-13**|**Deep learning based photometric redshifts for the Kilo-Degree Survey Bright Galaxy Sample**|Anjitha John William et.al.|[2312.08043](http://arxiv.org/abs/2312.08043)|null|
+|**2023-12-13**|**Convergence of Riemannian Stochastic Gradient Descent on Hadamard Manifold**|Hiroyuki Sakai et.al.|[2312.07990](http://arxiv.org/abs/2312.07990)|null|
+|**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
+|**2023-12-13**|**Plant Disease Recognition Datasets in the Age of Deep Learning: Challenges and Opportunities**|Mingle Xu et.al.|[2312.07905](http://arxiv.org/abs/2312.07905)|null|
+|**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
+|**2023-12-13**|**Morphological Profiling for Drug Discovery in the Era of Deep Learning**|Qiaosi Tang et.al.|[2312.07899](http://arxiv.org/abs/2312.07899)|null|
+|**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843](http://arxiv.org/abs/2312.07843)|null|
+|**2023-12-13**|**On the Dynamics Under the Unhinged Loss and Beyond**|Xiong Zhou et.al.|[2312.07841](http://arxiv.org/abs/2312.07841)|null|
+|**2023-12-13**|**Parameter Estimation for Intermediate-Mass Binary Black Holes through Gravitational Waves Observed by DECIGO**|Mengfei Sun et.al.|[2312.07834](http://arxiv.org/abs/2312.07834)|null|
+|**2023-12-13**|**A new dose calculation system implemented in image domain -- A multi-institutional study**|Jiawei Fan et.al.|[2312.07830](http://arxiv.org/abs/2312.07830)|null|
+|**2023-12-13**|**A Deep Learning-Based System for Automatic Case Summarization**|Minh Duong et.al.|[2312.07824](http://arxiv.org/abs/2312.07824)|null|
+|**2023-12-13**|**Prototypical Self-Explainable Models Without Re-training**|Srishti Gautam et.al.|[2312.07822](http://arxiv.org/abs/2312.07822)|null|
+|**2023-12-12**|**Robust MRI Reconstruction by Smoothed Unrolling (SMUG)**|Shijun Liang et.al.|[2312.07784](http://arxiv.org/abs/2312.07784)|**[link](https://github.com/sjames40/smug_journal)**|
+|**2023-12-12**|**Combining propensity score methods with variational autoencoders for generating synthetic data in presence of latent sub-groups**|Kiana Farhadyar et.al.|[2312.07781](http://arxiv.org/abs/2312.07781)|**[link](https://github.com/kianaf/latentsubgroups)**|
+|**2023-12-12**|**Spatial Knowledge-Infused Hierarchical Learning: An Application in Flood Mapping on Earth Imagery**|Zelin Xu et.al.|[2312.07767](http://arxiv.org/abs/2312.07767)|**[link](https://github.com/zelinxu2000/ski-hl)**|
+|**2023-12-12**|**Coordination of Damping Controllers: A Data-Informed Approach for Adaptability**|Francisco Zelaya-Arrazabal et.al.|[2312.07739](http://arxiv.org/abs/2312.07739)|null|
+|**2023-12-10**|**Investigating YOLO Models Towards Outdoor Obstacle Detection For Visually Impaired People**|Chenhao He et.al.|[2312.07571](http://arxiv.org/abs/2312.07571)|null|
 |**2023-12-12**|**Empirical Validation of Conformal Prediction for Trustworthy Skin Lesions Classification**|Jamil Fayyad et.al.|[2312.07460](http://arxiv.org/abs/2312.07460)|null|
 |**2023-12-12**|**Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven Koopman Modelling**|Daniel Ordoñez-Apraez et.al.|[2312.07457](http://arxiv.org/abs/2312.07457)|null|
 |**2023-12-12**|**Deep Internal Learning: Deep Learning from a Single Input**|Tom Tirer et.al.|[2312.07425](http://arxiv.org/abs/2312.07425)|null|
