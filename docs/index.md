@@ -92,7 +92,7 @@ layout: default
 |**2023-08-18**|**Relation-aware graph structure embedding with co-contrastive learning for drug-drug interaction prediction**|Mengying Jiang et.al.|[2307.01507](http://arxiv.org/abs/2307.01507)|null|
 |**2023-06-08**|**Comprehensive evaluation of deep and graph learning on drug-drug interactions prediction**|Xuan Lin et.al.|[2306.05257](http://arxiv.org/abs/2306.05257)|**[link](https://github.com/xzenglab/resources-for-ddis-prediction-using-dl)**|
 |**2023-03-04**|**Decision Support System for Chronic Diseases Based on Drug-Drug Interactions**|Tian Bian et.al.|[2303.02405](http://arxiv.org/abs/2303.02405)|**[link](https://github.com/tianbian95/dssddi)**|
-|**2023-02-22**|**Principled Drug-Drug Interaction Terms for Bayesian Logistic Regression Models of Drug Safety in Oncology Phase I Combination Trials**|Lukas A. Widmer et.al.|[2302.11437](http://arxiv.org/abs/2302.11437)|null|
+|**2023-02-22**|**Principled Drug-Drug Interaction Terms for Bayesian Logistic Regression Models of Drug Safety in Oncology Phase I Combination Trials**|Lukas A. Widmer et.al.|[2302.11437](http://arxiv.org/abs/2302.11437)|**[link](https://github.com/luwidmer/ddi-manuscript)**|
 |**2023-02-17**|**Modeling Polypharmacy and Predicting Drug-Drug Interactions using Deep Generative Models on Multimodal Graphs**|Nhat Khang Ngo et.al.|[2302.08680](http://arxiv.org/abs/2302.08680)|**[link](https://github.com/hysonlab/drug-interactions)**|
 |**2023-02-07**|**AMFPMC -- An improved method of detecting multiple types of drug-drug interactions using only known drug-drug interactions**|Bar Vered et.al.|[2302.03355](http://arxiv.org/abs/2302.03355)|null|
 |**2023-02-06**|**Predicting Molecule-Target Interaction by Learning Biomedical Network and Molecule Representations**|Jinjiang Guo et.al.|[2302.00981](http://arxiv.org/abs/2302.00981)|null|
@@ -493,7 +493,7 @@ layout: default
 |**2023-12-13**|**Ultra Low Complexity Deep Learning Based Noise Suppression**|Shrishti Saha Shetu et.al.|[2312.08132](http://arxiv.org/abs/2312.08132)|null|
 |**2023-12-13**|**Kimad: Adaptive Gradient Compression with Bandwidth Awareness**|Jihao Xin et.al.|[2312.08053](http://arxiv.org/abs/2312.08053)|null|
 |**2023-12-13**|**Explainable Trajectory Representation through Dictionary Learning**|Yuanbo Tang et.al.|[2312.08052](http://arxiv.org/abs/2312.08052)|null|
-|**2023-12-13**|**Deep learning based photometric redshifts for the Kilo-Degree Survey Bright Galaxy Sample**|Anjitha John William et.al.|[2312.08043](http://arxiv.org/abs/2312.08043)|null|
+|**2023-12-14**|**Deep learning based photometric redshifts for the Kilo-Degree Survey Bright Galaxy Sample**|Anjitha John William et.al.|[2312.08043](http://arxiv.org/abs/2312.08043)|null|
 |**2023-12-13**|**Convergence of Riemannian Stochastic Gradient Descent on Hadamard Manifold**|Hiroyuki Sakai et.al.|[2312.07990](http://arxiv.org/abs/2312.07990)|null|
 |**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
 |**2023-12-13**|**Plant Disease Recognition Datasets in the Age of Deep Learning: Challenges and Opportunities**|Mingle Xu et.al.|[2312.07905](http://arxiv.org/abs/2312.07905)|null|
@@ -528,7 +528,7 @@ layout: default
 |**2023-12-12**|**RACER: Rational Artificial Intelligence Car-following-model Enhanced by Reality**|Tianyi Li et.al.|[2312.07003](http://arxiv.org/abs/2312.07003)|null|
 |**2023-12-12**|**PatchMorph: A Stochastic Deep Learning Approach for Unsupervised 3D Brain Image Registration with Small Patches**|Henrik Skibbe et.al.|[2312.06958](http://arxiv.org/abs/2312.06958)|null|
 |**2023-12-12**|**Benchmarking Deep Learning Classifiers for SAR Automatic Target Recognition**|Jacob Fein-Ashley et.al.|[2312.06940](http://arxiv.org/abs/2312.06940)|null|
-|**2023-12-12**|**Can a Transformer Represent a Kalman Filter?**|Gautam Goel et.al.|[2312.06937](http://arxiv.org/abs/2312.06937)|null|
+|**2023-12-14**|**Can a Transformer Represent a Kalman Filter?**|Gautam Goel et.al.|[2312.06937](http://arxiv.org/abs/2312.06937)|null|
 |**2023-12-12**|**When Bio-Inspired Computing meets Deep Learning: Low-Latency, Accurate, & Energy-Efficient Spiking Neural Networks from Artificial Neural Networks**|Gourav Datta et.al.|[2312.06900](http://arxiv.org/abs/2312.06900)|null|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
 |**2023-12-11**|**Multimodal Pretraining of Medical Time Series and Notes**|Ryan King et.al.|[2312.06855](http://arxiv.org/abs/2312.06855)|**[link](https://github.com/kingrc15/multimodal-clinical-pretraining)**|
