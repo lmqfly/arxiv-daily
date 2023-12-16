@@ -91,6 +91,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-09**|**ALGNet: Attention Light Graph Memory Network for Medical Recommendation System**|Minh-Van Nguyen et.al.|[2312.08377](http://arxiv.org/abs/2312.08377)|null|
 |**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
 |**2023-11-25**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
 |**2023-11-15**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261](http://arxiv.org/abs/2311.09261)|**[link](https://github.com/lars-research/emergnn)**|
@@ -385,6 +386,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**Simulations of Thin Polymer Films on Flat and Curved Substrates**|Gabriel Catalini et.al.|[2312.08582](http://arxiv.org/abs/2312.08582)|null|
 |**2023-12-12**|**Enhanced ionic conductivity through crystallization of glass-Li $_3$PS$_4$ by machine learning molecular dynamics simulations**|Koji Shimizu et.al.|[2312.06963](http://arxiv.org/abs/2312.06963)|null|
 |**2023-12-11**|**Tuning Interfacial Water Friction through Moiré Twist**|Chenxing Liang et.al.|[2312.06830](http://arxiv.org/abs/2312.06830)|null|
 |**2023-12-11**|**De novo Design of Polymer Electrolytes with High Conductivity using GPT-based and Diffusion-based Generative Models**|Zhenze Yang et.al.|[2312.06470](http://arxiv.org/abs/2312.06470)|null|
@@ -498,6 +500,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**Let's do the time-warp-attend: Learning topological invariants of dynamical systems**|Noa Moriel et.al.|[2312.09234](http://arxiv.org/abs/2312.09234)|**[link](https://github.com/nitzanlab/time-warp-attend)**|
+|**2023-12-14**|**WikiMuTe: A web-sourced dataset of semantic descriptions for music audio**|Benno Weck et.al.|[2312.09207](http://arxiv.org/abs/2312.09207)|null|
+|**2023-12-14**|**Split-Ensemble: Efficient OOD-aware Ensemble via Task and Model Splitting**|Anthony Chen et.al.|[2312.09148](http://arxiv.org/abs/2312.09148)|null|
+|**2023-12-14**|**Deep learning with plasma plume image sequences for anomaly detection and prediction of growth kinetics during pulsed laser deposition**|Sumner B. Harris et.al.|[2312.09133](http://arxiv.org/abs/2312.09133)|null|
+|**2023-12-14**|**Applying Pre-Trained Deep-Learning Model on Wrist Angel Data -- An Analysis Plan**|Harald Vilhelm Skat-Rørdam et.al.|[2312.09052](http://arxiv.org/abs/2312.09052)|null|
+|**2023-12-14**|**Impact of Ground Truth Quality on Handwriting Recognition**|Michael Jungo et.al.|[2312.09037](http://arxiv.org/abs/2312.09037)|null|
+|**2023-12-14**|**Design Space Exploration of Low-Bit Quantized Neural Networks for Visual Place Recognition**|Oliver Grainge et.al.|[2312.09028](http://arxiv.org/abs/2312.09028)|null|
+|**2023-12-14**|**Symmetry Breaking and Equivariant Neural Networks**|Sékou-Oumar Kaba et.al.|[2312.09016](http://arxiv.org/abs/2312.09016)|null|
+|**2023-12-14**|**Conformalised data synthesis with statistical quality guarantees**|Julia A. Meister et.al.|[2312.08999](http://arxiv.org/abs/2312.08999)|null|
+|**2023-12-14**|**A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing**|Lorenzo Lamberti et.al.|[2312.08991](http://arxiv.org/abs/2312.08991)|null|
+|**2023-12-14**|**Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model**|Junbo Shen et.al.|[2312.08987](http://arxiv.org/abs/2312.08987)|**[link](https://github.com/ml4bio/uspnet)**|
+|**2023-12-14**|**Multi-Modal Learning-based Reconstruction of High-Resolution Spatial Wind Speed Fields**|Matteo Zambra et.al.|[2312.08933](http://arxiv.org/abs/2312.08933)|null|
+|**2023-12-13**|**N-Gram Unsupervised Compoundation and Feature Injection for Better Symbolic Music Understanding**|Jinhao Tian et.al.|[2312.08931](http://arxiv.org/abs/2312.08931)|null|
+|**2023-12-14**|**Detection and Defense of Unlearnable Examples**|Yifan Zhu et.al.|[2312.08898](http://arxiv.org/abs/2312.08898)|**[link](https://github.com/hala64/udp)**|
+|**2023-12-12**|**What, How, and When Should Object Detectors Update in Continually Changing Test Domains?**|Jayeon Yoo et.al.|[2312.08875](http://arxiv.org/abs/2312.08875)|null|
+|**2023-12-14**|**RankDVQA-mini: Knowledge Distillation-Driven Deep Video Quality Assessment**|Chen Feng et.al.|[2312.08864](http://arxiv.org/abs/2312.08864)|null|
+|**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853](http://arxiv.org/abs/2312.08853)|null|
+|**2023-12-13**|**ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance**|Ling-Hao Chen et.al.|[2312.08852](http://arxiv.org/abs/2312.08852)|null|
+|**2023-12-14**|**Diffusion-C: Unveiling the Generative Challenges of Diffusion Models through Corrupted Data**|Keywoong Bae et.al.|[2312.08843](http://arxiv.org/abs/2312.08843)|null|
+|**2023-12-14**|**Speeding up Photoacoustic Imaging using Diffusion Models**|Irem Loc et.al.|[2312.08834](http://arxiv.org/abs/2312.08834)|null|
+|**2023-12-14**|**Artificial Intelligence and Human Geography**|Song Gao et.al.|[2312.08827](http://arxiv.org/abs/2312.08827)|null|
+|**2023-12-14**|**How to Raise a Robot -- A Case for Neuro-Symbolic AI in Constrained Task Planning for Humanoid Assistive Robots**|Niklas Hemken et.al.|[2312.08820](http://arxiv.org/abs/2312.08820)|null|
+|**2023-12-14**|**A Cyber-Physical Architecture for Microgrids based on Deep learning and LORA Technology**|Mojtaba Mohammadi et.al.|[2312.08818](http://arxiv.org/abs/2312.08818)|null|
+|**2023-12-14**|**Deep Learning-Based Cyber-Attack Detection Model for Smart Grids**|Mojtaba Mohammadi et.al.|[2312.08810](http://arxiv.org/abs/2312.08810)|null|
+|**2023-12-14**|**StemGen: A music generation model that listens**|Julian D. Parker et.al.|[2312.08723](http://arxiv.org/abs/2312.08723)|null|
+|**2023-12-14**|**Deep Learning with Physics Priors as Generalized Regularizers**|Frank Liu et.al.|[2312.08678](http://arxiv.org/abs/2312.08678)|null|
+|**2023-12-14**|**Data and Model Poisoning Backdoor Attacks on Wireless Federated Learning, and the Defense Mechanisms: A Comprehensive Survey**|Yichen Wan et.al.|[2312.08667](http://arxiv.org/abs/2312.08667)|null|
+|**2023-12-14**|**PhyOT: Physics-informed object tracking in surveillance cameras**|Kawisorn Kamtue et.al.|[2312.08650](http://arxiv.org/abs/2312.08650)|null|
+|**2023-12-14**|**CartoMark: a benchmark dataset for map pattern recognition and 1 map content retrieval with machine intelligence**|Xiran Zhou et.al.|[2312.08600](http://arxiv.org/abs/2312.08600)|null|
+|**2023-12-13**|**ConFormer: A Novel Collection of Deep Learning Models to Assist Cardiologists in the Assessment of Cardiac Function**|Ethan Thomas et.al.|[2312.08567](http://arxiv.org/abs/2312.08567)|**[link](https://github.com/aether111/conformer)**|
+|**2023-12-13**|**Contractive error feedback for gradient compression**|Bingcong Li et.al.|[2312.08538](http://arxiv.org/abs/2312.08538)|null|
+|**2023-12-13**|**Simplicial Representation Learning with Neural $k$ -forms**|Kelly Maggs et.al.|[2312.08515](http://arxiv.org/abs/2312.08515)|null|
+|**2023-12-13**|**Deep learning-based estimation of time-dependent parameters in Markov models with application to nonlinear regression and SDEs**|Andrzej Kałuża et.al.|[2312.08493](http://arxiv.org/abs/2312.08493)|**[link](https://github.com/mwiacek8/dl-based-estimation)**|
+|**2023-12-13**|**Vision Transformer-Based Deep Learning for Histologic Classification of Endometrial Cancer**|Manu Goyal et.al.|[2312.08479](http://arxiv.org/abs/2312.08479)|null|
+|**2023-12-13**|**Integrating Particle Flavor into Deep Learning Models for Hadronization**|Jay Chan et.al.|[2312.08453](http://arxiv.org/abs/2312.08453)|null|
+|**2023-12-13**|**Explainable AI in Grassland Monitoring: Enhancing Model Performance and Domain Adaptability**|Shanghua Liu et.al.|[2312.08408](http://arxiv.org/abs/2312.08408)|null|
+|**2023-12-13**|**Earthfarseer: Versatile Spatio-Temporal Dynamical Systems Modeling in One Model**|Hao Wu et.al.|[2312.08403](http://arxiv.org/abs/2312.08403)|**[link](https://github.com/easylearningscores/earthfarseer)**|
+|**2023-12-13**|**Principled Weight Initialization for Hypernetworks**|Oscar Chang et.al.|[2312.08399](http://arxiv.org/abs/2312.08399)|null|
+|**2023-12-11**|**Improving age prediction: Utilizing LSTM-based dynamic forecasting for data augmentation in multivariate time series analysis**|Yutong Gao et.al.|[2312.08383](http://arxiv.org/abs/2312.08383)|null|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372](http://arxiv.org/abs/2312.08372)|null|
 |**2023-12-13**|**Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4**|Pei Yan et.al.|[2312.08317](http://arxiv.org/abs/2312.08317)|**[link](https://github.com/yan-scnu/prompted_dynamic_detection)**|
 |**2023-12-13**|**Hybrid Sample Synthesis-based Debiasing of Classifier in Limited Data Setting**|Piyush Arora et.al.|[2312.08288](http://arxiv.org/abs/2312.08288)|null|
