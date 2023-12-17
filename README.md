@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.16
+## Updated on 2023.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -85,7 +85,7 @@
 |**2017-04-19**|**Fast Kronecker product kernel methods via generalized vec trick**|Antti Airola et.al.|[1601.01507](http://arxiv.org/abs/1601.01507)|null|
 |**2015-03-12**|**Classification and its applications for drug-target interaction identification**|Jian-Ping Mei et.al.|[1502.04469](http://arxiv.org/abs/1502.04469)|null|
 
-<p align=right>(<a href=#updated-on-20231216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231217>back to top</a>)</p>
 
 ## DDI
 
@@ -191,7 +191,7 @@
 |**2014-11-06**|**A network inference method for large-scale unsupervised identification of novel drug-drug interactions**|Roger Guimera et.al.|[1411.1528](http://arxiv.org/abs/1411.1528)|null|
 |**2012-10-02**|**Evaluation of linear classifiers on articles containing pharmacokinetic evidence of drug-drug interactions**|Artemy Kolchinsky et.al.|[1210.0734](http://arxiv.org/abs/1210.0734)|null|
 
-<p align=right>(<a href=#updated-on-20231216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231217>back to top</a>)</p>
 
 ## MG
 
@@ -272,7 +272,7 @@
 |**2017-05-17**|**Molecular Generation with Recurrent Neural Networks (RNNs)**|Esben Jannik Bjerrum et.al.|[1705.04612](http://arxiv.org/abs/1705.04612)|null|
 |**2017-10-16**|**Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control**|Natasha Jaques et.al.|[1611.02796](http://arxiv.org/abs/1611.02796)|null|
 
-<p align=right>(<a href=#updated-on-20231216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231217>back to top</a>)</p>
 
 ## MPP
 
@@ -380,7 +380,7 @@
 |**2022-10-25**|**Pre-training via Denoising for Molecular Property Prediction**|Sheheryar Zaidi et.al.|[2206.00133](http://arxiv.org/abs/2206.00133)|**[link](https://github.com/shehzaidi/pre-training-via-denoising)**|
 |**2022-05-26**|**Triangular Contrastive Learning on Molecular Graphs**|MinGyu Choi et.al.|[2205.13279](http://arxiv.org/abs/2205.13279)|null|
 
-<p align=right>(<a href=#updated-on-20231216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231217>back to top</a>)</p>
 
 ## MD
 
@@ -494,7 +494,7 @@
 |**2023-10-08**|**Pressure-driven homogenization of lithium disilicate glasses**|Yasser Bakhouch et.al.|[2310.05278](http://arxiv.org/abs/2310.05278)|null|
 |**2023-10-07**|**From shear bands to earthquakes in a model granular material with contact aging**|E. A. Jagla et.al.|[2310.04890](http://arxiv.org/abs/2310.04890)|null|
 
-<p align=right>(<a href=#updated-on-20231216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231217>back to top</a>)</p>
 
 ## Transformer
 
@@ -553,12 +553,12 @@
 |**2023-12-13**|**Kimad: Adaptive Gradient Compression with Bandwidth Awareness**|Jihao Xin et.al.|[2312.08053](http://arxiv.org/abs/2312.08053)|null|
 |**2023-12-13**|**Explainable Trajectory Representation through Dictionary Learning**|Yuanbo Tang et.al.|[2312.08052](http://arxiv.org/abs/2312.08052)|null|
 |**2023-12-14**|**Deep learning based photometric redshifts for the Kilo-Degree Survey Bright Galaxy Sample**|Anjitha John William et.al.|[2312.08043](http://arxiv.org/abs/2312.08043)|null|
-|**2023-12-13**|**Convergence of Riemannian Stochastic Gradient Descent on Hadamard Manifold**|Hiroyuki Sakai et.al.|[2312.07990](http://arxiv.org/abs/2312.07990)|null|
+|**2023-12-13**|**Convergence of Riemannian Stochastic Gradient Descent on Hadamard Manifold**|Hiroyuki Sakai et.al.|[2312.07990](http://arxiv.org/abs/2312.07990)|**[link](https://github.com/iiduka-researches/rsgd-kylberg)**|
 |**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
 |**2023-12-13**|**Plant Disease Recognition Datasets in the Age of Deep Learning: Challenges and Opportunities**|Mingle Xu et.al.|[2312.07905](http://arxiv.org/abs/2312.07905)|null|
 |**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
 |**2023-12-13**|**Morphological Profiling for Drug Discovery in the Era of Deep Learning**|Qiaosi Tang et.al.|[2312.07899](http://arxiv.org/abs/2312.07899)|null|
-|**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843](http://arxiv.org/abs/2312.07843)|null|
+|**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843](http://arxiv.org/abs/2312.07843)|**[link](https://github.com/robotics-survey/awesome-robotics-foundation-models)**|
 |**2023-12-13**|**On the Dynamics Under the Unhinged Loss and Beyond**|Xiong Zhou et.al.|[2312.07841](http://arxiv.org/abs/2312.07841)|null|
 |**2023-12-13**|**Parameter Estimation for Intermediate-Mass Binary Black Holes through Gravitational Waves Observed by DECIGO**|Mengfei Sun et.al.|[2312.07834](http://arxiv.org/abs/2312.07834)|null|
 |**2023-12-13**|**A new dose calculation system implemented in image domain -- A multi-institutional study**|Jiawei Fan et.al.|[2312.07830](http://arxiv.org/abs/2312.07830)|null|
@@ -764,7 +764,7 @@
 |**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493](http://arxiv.org/abs/2312.02493)|null|
 |**2023-12-05**|**Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery**|Yansheng Li et.al.|[2312.02481](http://arxiv.org/abs/2312.02481)|null|
 
-<p align=right>(<a href=#updated-on-20231216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

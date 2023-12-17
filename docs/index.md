@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.16
+## Updated on 2023.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -535,12 +535,12 @@ layout: default
 |**2023-12-13**|**Kimad: Adaptive Gradient Compression with Bandwidth Awareness**|Jihao Xin et.al.|[2312.08053](http://arxiv.org/abs/2312.08053)|null|
 |**2023-12-13**|**Explainable Trajectory Representation through Dictionary Learning**|Yuanbo Tang et.al.|[2312.08052](http://arxiv.org/abs/2312.08052)|null|
 |**2023-12-14**|**Deep learning based photometric redshifts for the Kilo-Degree Survey Bright Galaxy Sample**|Anjitha John William et.al.|[2312.08043](http://arxiv.org/abs/2312.08043)|null|
-|**2023-12-13**|**Convergence of Riemannian Stochastic Gradient Descent on Hadamard Manifold**|Hiroyuki Sakai et.al.|[2312.07990](http://arxiv.org/abs/2312.07990)|null|
+|**2023-12-13**|**Convergence of Riemannian Stochastic Gradient Descent on Hadamard Manifold**|Hiroyuki Sakai et.al.|[2312.07990](http://arxiv.org/abs/2312.07990)|**[link](https://github.com/iiduka-researches/rsgd-kylberg)**|
 |**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
 |**2023-12-13**|**Plant Disease Recognition Datasets in the Age of Deep Learning: Challenges and Opportunities**|Mingle Xu et.al.|[2312.07905](http://arxiv.org/abs/2312.07905)|null|
 |**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
 |**2023-12-13**|**Morphological Profiling for Drug Discovery in the Era of Deep Learning**|Qiaosi Tang et.al.|[2312.07899](http://arxiv.org/abs/2312.07899)|null|
-|**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843](http://arxiv.org/abs/2312.07843)|null|
+|**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843](http://arxiv.org/abs/2312.07843)|**[link](https://github.com/robotics-survey/awesome-robotics-foundation-models)**|
 |**2023-12-13**|**On the Dynamics Under the Unhinged Loss and Beyond**|Xiong Zhou et.al.|[2312.07841](http://arxiv.org/abs/2312.07841)|null|
 |**2023-12-13**|**Parameter Estimation for Intermediate-Mass Binary Black Holes through Gravitational Waves Observed by DECIGO**|Mengfei Sun et.al.|[2312.07834](http://arxiv.org/abs/2312.07834)|null|
 |**2023-12-13**|**A new dose calculation system implemented in image domain -- A multi-institutional study**|Jiawei Fan et.al.|[2312.07830](http://arxiv.org/abs/2312.07830)|null|
