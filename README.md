@@ -658,7 +658,7 @@
 |**2023-12-08**|**Loss Functions in the Era of Semantic Segmentation: A Survey and Outlook**|Reza Azad et.al.|[2312.05391](http://arxiv.org/abs/2312.05391)|**[link](https://github.com/yilmazkadir/segmentation_losses)**|
 |**2023-12-08**|**Emergence and Function of Abstract Representations in Self-Supervised Transformers**|Quentin RV. Ferry et.al.|[2312.05361](http://arxiv.org/abs/2312.05361)|null|
 |**2023-12-08**|**A Review of Machine Learning Methods Applied to Video Analysis Systems**|Marios S. Pattichis et.al.|[2312.05352](http://arxiv.org/abs/2312.05352)|null|
-|**2023-12-08**|**Deep Learning for Dynamic NFT Valuation**|Mingxuan He et.al.|[2312.05346](http://arxiv.org/abs/2312.05346)|null|
+|**2023-12-08**|**Deep Learning for Dynamic NFT Valuation**|Mingxuan He et.al.|[2312.05346](http://arxiv.org/abs/2312.05346)|**[link](https://github.com/mingxuan-he/nft-pred)**|
 |**2023-12-08**|**ProsDectNet: Bridging the Gap in Prostate Cancer Detection via Transrectal B-mode Ultrasound Imaging**|Sulaiman Vesal et.al.|[2312.05334](http://arxiv.org/abs/2312.05334)|null|
 |**2023-12-08**|**Data-Centric Machine Learning for Geospatial Remote Sensing Data**|Ribana Roscher et.al.|[2312.05327](http://arxiv.org/abs/2312.05327)|null|
 |**2023-12-08**|**Quantitative perfusion maps using a novelty spatiotemporal convolutional neural network**|Anbo Cao et.al.|[2312.05279](http://arxiv.org/abs/2312.05279)|null|
