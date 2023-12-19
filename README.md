@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.18
+## Updated on 2023.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2022-10-18**|**ImDrug: A Benchmark for Deep Imbalanced Learning in AI-aided Drug Discovery**|Lanqing Li et.al.|[2209.07921](http://arxiv.org/abs/2209.07921)|**[link](https://github.com/DrugLT/ImDrug)**|
 |**2022-08-14**|**Widely Used and Fast De Novo Drug Design by a Protein Sequence-Based Reinforcement Learning Model**|Yaqin Li et.al.|[2209.07405](http://arxiv.org/abs/2209.07405)|null|
 |**2023-01-19**|**Interpretable bilinear attention network with domain adaptation improves drug-target prediction**|Peizhen Bai et.al.|[2208.02194](http://arxiv.org/abs/2208.02194)|**[link](https://github.com/peizhenbai/drugban)**|
-|**2022-07-28**|**Associative Learning Mechanism for Drug-Target Interaction Prediction**|Zhiqin Zhu et.al.|[2205.15364](http://arxiv.org/abs/2205.15364)|null|
+|**2023-12-15**|**Associative Learning Mechanism for Drug-Target Interaction Prediction**|Zhiqin Zhu et.al.|[2205.15364](http://arxiv.org/abs/2205.15364)|null|
 |**2022-08-22**|**CandidateDrug4Cancer: An Open Molecular Graph Learning Benchmark on Drug Discovery for Cancer**|Xianbin Ye et.al.|[2203.00836](http://arxiv.org/abs/2203.00836)|null|
 |**2022-02-14**|**Novel prediction methods for virtual drug screening**|Josip Mesarić et.al.|[2202.06635](http://arxiv.org/abs/2202.06635)|null|
 |**2022-10-21**|**Target-aware Molecular Graph Generation**|Cheng Tan et.al.|[2202.04829](http://arxiv.org/abs/2202.04829)|null|
@@ -85,13 +85,13 @@
 |**2017-04-19**|**Fast Kronecker product kernel methods via generalized vec trick**|Antti Airola et.al.|[1601.01507](http://arxiv.org/abs/1601.01507)|null|
 |**2015-03-12**|**Classification and its applications for drug-target interaction identification**|Jian-Ping Mei et.al.|[1502.04469](http://arxiv.org/abs/1502.04469)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 ## DDI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-09**|**ALGNet: Attention Light Graph Memory Network for Medical Recommendation System**|Minh-Van Nguyen et.al.|[2312.08377](http://arxiv.org/abs/2312.08377)|null|
+|**2023-12-09**|**ALGNet: Attention Light Graph Memory Network for Medical Recommendation System**|Minh-Van Nguyen et.al.|[2312.08377](http://arxiv.org/abs/2312.08377)|**[link](https://github.com/tivivui95/algnet)**|
 |**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
 |**2023-11-25**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
 |**2023-11-15**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261](http://arxiv.org/abs/2311.09261)|**[link](https://github.com/lars-research/emergnn)**|
@@ -191,7 +191,7 @@
 |**2014-11-06**|**A network inference method for large-scale unsupervised identification of novel drug-drug interactions**|Roger Guimera et.al.|[1411.1528](http://arxiv.org/abs/1411.1528)|null|
 |**2012-10-02**|**Evaluation of linear classifiers on articles containing pharmacokinetic evidence of drug-drug interactions**|Artemy Kolchinsky et.al.|[1210.0734](http://arxiv.org/abs/1210.0734)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 ## MG
 
@@ -272,7 +272,7 @@
 |**2017-05-17**|**Molecular Generation with Recurrent Neural Networks (RNNs)**|Esben Jannik Bjerrum et.al.|[1705.04612](http://arxiv.org/abs/1705.04612)|null|
 |**2017-10-16**|**Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control**|Natasha Jaques et.al.|[1611.02796](http://arxiv.org/abs/1611.02796)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 ## MPP
 
@@ -380,12 +380,15 @@
 |**2022-10-25**|**Pre-training via Denoising for Molecular Property Prediction**|Sheheryar Zaidi et.al.|[2206.00133](http://arxiv.org/abs/2206.00133)|**[link](https://github.com/shehzaidi/pre-training-via-denoising)**|
 |**2022-05-26**|**Triangular Contrastive Learning on Molecular Graphs**|MinGyu Choi et.al.|[2205.13279](http://arxiv.org/abs/2205.13279)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 ## MD
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Fate of Boltzmann's breathers: Stokes hypothesis and anomalous thermalization**|M. I. García de Soria et.al.|[2312.09726](http://arxiv.org/abs/2312.09726)|null|
+|**2023-12-15**|**Osmotic Swelling Behavior of Surface-Charged Ionic Microgels**|Mohammed O. Alziyadi et.al.|[2312.09519](http://arxiv.org/abs/2312.09519)|null|
+|**2023-12-15**|**Osmotic Pressure and Swelling Behavior of Ionic Microcapsules**|Mohammed O. Alziyadi et.al.|[2312.09515](http://arxiv.org/abs/2312.09515)|null|
 |**2023-12-14**|**Simulations of Thin Polymer Films on Flat and Curved Substrates**|Gabriel Catalini et.al.|[2312.08582](http://arxiv.org/abs/2312.08582)|null|
 |**2023-12-12**|**Enhanced ionic conductivity through crystallization of glass-Li $_3$PS$_4$ by machine learning molecular dynamics simulations**|Koji Shimizu et.al.|[2312.06963](http://arxiv.org/abs/2312.06963)|null|
 |**2023-12-11**|**Tuning Interfacial Water Friction through Moiré Twist**|Chenxing Liang et.al.|[2312.06830](http://arxiv.org/abs/2312.06830)|null|
@@ -494,12 +497,37 @@
 |**2023-10-08**|**Pressure-driven homogenization of lithium disilicate glasses**|Yasser Bakhouch et.al.|[2310.05278](http://arxiv.org/abs/2310.05278)|null|
 |**2023-10-07**|**From shear bands to earthquakes in a model granular material with contact aging**|E. A. Jagla et.al.|[2310.04890](http://arxiv.org/abs/2310.04890)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Accelerating Neural Network Training: A Brief Review**|Sahil Nokhwal et.al.|[2312.10024](http://arxiv.org/abs/2312.10024)|**[link](https://github.com/sahilnokhwal/annt)**|
+|**2023-12-15**|**Deep Unsupervised Domain Adaptation for Time Series Classification: a Benchmark**|Hassan Ismail Fawaz et.al.|[2312.09857](http://arxiv.org/abs/2312.09857)|**[link](https://github.com/ericssonresearch/uda-4-tsc)**|
+|**2023-12-15**|**Q-Segment: Segmenting Images In-Sensor for Vessel-Based Medical Diagnosis**|Pietro Bonazzi et.al.|[2312.09854](http://arxiv.org/abs/2312.09854)|null|
+|**2023-12-15**|**Fragility, Robustness and Antifragility in Deep Learning**|Chandresh Pravin et.al.|[2312.09821](http://arxiv.org/abs/2312.09821)|null|
+|**2023-12-15**|**IQNet: Image Quality Assessment Guided Just Noticeable Difference Prefiltering For Versatile Video Coding**|Yu-Han Sun et.al.|[2312.09799](http://arxiv.org/abs/2312.09799)|null|
+|**2023-12-15**|**PPFM: Image denoising in photon-counting CT using single-step posterior sampling Poisson flow generative models**|Dennis Hein et.al.|[2312.09754](http://arxiv.org/abs/2312.09754)|**[link](https://github.com/dennishein/cpfgmpp_pcct_denoising)**|
+|**2023-12-15**|**Verification-Friendly Deep Neural Networks**|Anahita Baninajjar et.al.|[2312.09748](http://arxiv.org/abs/2312.09748)|null|
+|**2023-12-15**|**PELP: Pioneer Event Log Prediction Using Sequence-to-Sequence Neural Networks**|Wenjun Zhou et.al.|[2312.09741](http://arxiv.org/abs/2312.09741)|null|
+|**2023-12-15**|**Overcome the Fear Of Missing Out: Active Sensing UAV Scanning for Precision Agriculture**|Marios Krestenitis et.al.|[2312.09730](http://arxiv.org/abs/2312.09730)|null|
+|**2023-12-15**|**nuScenes Knowledge Graph -- A comprehensive semantic representation of traffic scenes for trajectory prediction**|Leon Mlodzian et.al.|[2312.09676](http://arxiv.org/abs/2312.09676)|**[link](https://github.com/boschresearch/nuscenes_knowledge_graph)**|
+|**2023-12-15**|**Toward Deep Drum Source Separation**|Alessandro Ilic Mezza et.al.|[2312.09663](http://arxiv.org/abs/2312.09663)|**[link](https://github.com/polimi-ispl/larsnet)**|
+|**2023-12-15**|**A Malware Classification Survey on Adversarial Attacks and Defences**|Mahesh Datta Sai Ponnuru et.al.|[2312.09636](http://arxiv.org/abs/2312.09636)|null|
+|**2023-12-15**|**Stethoscope-guided Supervised Contrastive Learning for Cross-domain Adaptation on Respiratory Sound Classification**|June-Woo Kim et.al.|[2312.09603](http://arxiv.org/abs/2312.09603)|null|
+|**2023-12-15**|**NeuroFlow: Development of lightweight and efficient model integration scheduling strategy for autonomous driving system**|Eunbin Seo et.al.|[2312.09588](http://arxiv.org/abs/2312.09588)|null|
+|**2023-12-15**|**A 1.6-mW Sparse Deep Learning Accelerator for Speech Separation**|Chih-Chyau Yang et.al.|[2312.09580](http://arxiv.org/abs/2312.09580)|null|
+|**2023-12-15**|**SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma**|Xiangde Luo et.al.|[2312.09576](http://arxiv.org/abs/2312.09576)|null|
+|**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558](http://arxiv.org/abs/2312.09558)|null|
+|**2023-12-15**|**AEGIS-Net: Attention-guided Multi-Level Feature Aggregation for Indoor Place Recognition**|Yuhang Ming et.al.|[2312.09538](http://arxiv.org/abs/2312.09538)|**[link](https://github.com/yuhangming/aegis-net)**|
+|**2023-12-15**|**Single PW takes a shortcut to compound PW in US imaging**|Zhiqiang Li et.al.|[2312.09514](http://arxiv.org/abs/2312.09514)|null|
+|**2023-12-15**|**Fast Sampling generative model for Ultrasound image reconstruction**|Hengrong Lan et.al.|[2312.09510](http://arxiv.org/abs/2312.09510)|null|
+|**2023-12-15**|**Multi-stage Learning for Radar Pulse Activity Segmentation**|Zi Huang et.al.|[2312.09489](http://arxiv.org/abs/2312.09489)|**[link](https://github.com/abcxyzi/radseg)**|
+|**2023-12-15**|**Sequence adaptive field-imperfection estimation (SAFE): retrospective estimation and correction of $B_1^+$ and $B_0$ inhomogeneities for enhanced MRF quantification**|Mengze Gao et.al.|[2312.09488](http://arxiv.org/abs/2312.09488)|null|
+|**2023-12-14**|**Physics-Informed Deep Learning of Rate-and-State Fault Friction**|Cody Rucker et.al.|[2312.09403](http://arxiv.org/abs/2312.09403)|null|
+|**2023-12-14**|**The Expert Knowledge combined with AI outperforms AI Alone in Seizure Onset Zone Localization using resting state fMRI**|Payal Kamboj et.al.|[2312.09360](http://arxiv.org/abs/2312.09360)|null|
+|**2023-12-14**|**Efficient speech detection in environmental audio using acoustic recognition and knowledge distillation**|Drew Priebe et.al.|[2312.09269](http://arxiv.org/abs/2312.09269)|null|
 |**2023-12-14**|**Let's do the time-warp-attend: Learning topological invariants of dynamical systems**|Noa Moriel et.al.|[2312.09234](http://arxiv.org/abs/2312.09234)|**[link](https://github.com/nitzanlab/time-warp-attend)**|
 |**2023-12-14**|**WikiMuTe: A web-sourced dataset of semantic descriptions for music audio**|Benno Weck et.al.|[2312.09207](http://arxiv.org/abs/2312.09207)|null|
 |**2023-12-14**|**Split-Ensemble: Efficient OOD-aware Ensemble via Task and Model Splitting**|Anthony Chen et.al.|[2312.09148](http://arxiv.org/abs/2312.09148)|null|
@@ -512,16 +540,16 @@
 |**2023-12-14**|**A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing**|Lorenzo Lamberti et.al.|[2312.08991](http://arxiv.org/abs/2312.08991)|null|
 |**2023-12-14**|**Unbiased organism-agnostic and highly sensitive signal peptide predictor with deep protein language model**|Junbo Shen et.al.|[2312.08987](http://arxiv.org/abs/2312.08987)|**[link](https://github.com/ml4bio/uspnet)**|
 |**2023-12-14**|**Multi-Modal Learning-based Reconstruction of High-Resolution Spatial Wind Speed Fields**|Matteo Zambra et.al.|[2312.08933](http://arxiv.org/abs/2312.08933)|null|
-|**2023-12-13**|**N-Gram Unsupervised Compoundation and Feature Injection for Better Symbolic Music Understanding**|Jinhao Tian et.al.|[2312.08931](http://arxiv.org/abs/2312.08931)|**[link](https://github.com/wouuyoauin/ng-midiformer)**|
+|**2023-12-15**|**N-Gram Unsupervised Compoundation and Feature Injection for Better Symbolic Music Understanding**|Jinhao Tian et.al.|[2312.08931](http://arxiv.org/abs/2312.08931)|**[link](https://github.com/cinqueorigin/ng-midiformer)**|
 |**2023-12-14**|**Detection and Defense of Unlearnable Examples**|Yifan Zhu et.al.|[2312.08898](http://arxiv.org/abs/2312.08898)|**[link](https://github.com/hala64/udp)**|
 |**2023-12-12**|**What, How, and When Should Object Detectors Update in Continually Changing Test Domains?**|Jayeon Yoo et.al.|[2312.08875](http://arxiv.org/abs/2312.08875)|null|
 |**2023-12-14**|**RankDVQA-mini: Knowledge Distillation-Driven Deep Video Quality Assessment**|Chen Feng et.al.|[2312.08864](http://arxiv.org/abs/2312.08864)|null|
 |**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853](http://arxiv.org/abs/2312.08853)|null|
-|**2023-12-13**|**ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance**|Ling-Hao Chen et.al.|[2312.08852](http://arxiv.org/abs/2312.08852)|null|
+|**2023-12-13**|**ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance**|Ling-Hao Chen et.al.|[2312.08852](http://arxiv.org/abs/2312.08852)|**[link](https://github.com/eraseai/erase)**|
 |**2023-12-14**|**Diffusion-C: Unveiling the Generative Challenges of Diffusion Models through Corrupted Data**|Keywoong Bae et.al.|[2312.08843](http://arxiv.org/abs/2312.08843)|null|
 |**2023-12-14**|**Speeding up Photoacoustic Imaging using Diffusion Models**|Irem Loc et.al.|[2312.08834](http://arxiv.org/abs/2312.08834)|**[link](https://github.com/iremzog/diffpam)**|
 |**2023-12-14**|**Artificial Intelligence and Human Geography**|Song Gao et.al.|[2312.08827](http://arxiv.org/abs/2312.08827)|null|
-|**2023-12-14**|**How to Raise a Robot -- A Case for Neuro-Symbolic AI in Constrained Task Planning for Humanoid Assistive Robots**|Niklas Hemken et.al.|[2312.08820](http://arxiv.org/abs/2312.08820)|null|
+|**2023-12-15**|**How to Raise a Robot -- A Case for Neuro-Symbolic AI in Constrained Task Planning for Humanoid Assistive Robots**|Niklas Hemken et.al.|[2312.08820](http://arxiv.org/abs/2312.08820)|null|
 |**2023-12-14**|**A Cyber-Physical Architecture for Microgrids based on Deep learning and LORA Technology**|Mojtaba Mohammadi et.al.|[2312.08818](http://arxiv.org/abs/2312.08818)|null|
 |**2023-12-14**|**Deep Learning-Based Cyber-Attack Detection Model for Smart Grids**|Mojtaba Mohammadi et.al.|[2312.08810](http://arxiv.org/abs/2312.08810)|null|
 |**2023-12-14**|**StemGen: A music generation model that listens**|Julian D. Parker et.al.|[2312.08723](http://arxiv.org/abs/2312.08723)|null|
@@ -764,7 +792,7 @@
 |**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493](http://arxiv.org/abs/2312.02493)|null|
 |**2023-12-05**|**Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery**|Yansheng Li et.al.|[2312.02481](http://arxiv.org/abs/2312.02481)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
