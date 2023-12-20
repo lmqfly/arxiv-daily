@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -515,7 +515,7 @@ layout: default
 |**2023-12-16**|**Opara: Exploiting Operator Parallelism for Expediting DNN Inference on GPUs**|Aodong Chen et.al.|[2312.10351](http://arxiv.org/abs/2312.10351)|**[link](https://github.com/icloud-ecnu/opara)**|
 |**2023-12-16**|**MMBaT: A Multi-task Framework for mmWave-based Human Body Reconstruction and Translation Prediction**|Jiarui Yang et.al.|[2312.10346](http://arxiv.org/abs/2312.10346)|null|
 |**2023-12-16**|**Spatial-Temporal DAG Convolutional Networks for End-to-End Joint Effective Connectivity Learning and Resting-State fMRI Classification**|Rui Yang et.al.|[2312.10317](http://arxiv.org/abs/2312.10317)|null|
-|**2023-12-16**|**MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion**|Shulei Ji et.al.|[2312.10307](http://arxiv.org/abs/2312.10307)|null|
+|**2023-12-16**|**MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion**|Shulei Ji et.al.|[2312.10307](http://arxiv.org/abs/2312.10307)|**[link](https://github.com/tayjsl97/muser)**|
 |**2023-12-16**|**Mapping Housing Stock Characteristics from Drone Images for Climate Resilience in the Caribbean**|Isabelle Tingzon et.al.|[2312.10306](http://arxiv.org/abs/2312.10306)|null|
 |**2023-12-16**|**Operator-learning-inspired Modeling of Neural Ordinary Differential Equations**|Woojin Cho et.al.|[2312.10274](http://arxiv.org/abs/2312.10274)|null|
 |**2023-12-16**|**Robustness of Deep Learning for Accelerated MRI: Benefits of Diverse Training Data**|Kang Lin et.al.|[2312.10271](http://arxiv.org/abs/2312.10271)|null|

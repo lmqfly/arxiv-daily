@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -85,7 +85,7 @@
 |**2017-04-19**|**Fast Kronecker product kernel methods via generalized vec trick**|Antti Airola et.al.|[1601.01507](http://arxiv.org/abs/1601.01507)|null|
 |**2015-03-12**|**Classification and its applications for drug-target interaction identification**|Jian-Ping Mei et.al.|[1502.04469](http://arxiv.org/abs/1502.04469)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## DDI
 
@@ -191,7 +191,7 @@
 |**2014-11-06**|**A network inference method for large-scale unsupervised identification of novel drug-drug interactions**|Roger Guimera et.al.|[1411.1528](http://arxiv.org/abs/1411.1528)|null|
 |**2012-10-02**|**Evaluation of linear classifiers on articles containing pharmacokinetic evidence of drug-drug interactions**|Artemy Kolchinsky et.al.|[1210.0734](http://arxiv.org/abs/1210.0734)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## MG
 
@@ -272,7 +272,7 @@
 |**2017-05-17**|**Molecular Generation with Recurrent Neural Networks (RNNs)**|Esben Jannik Bjerrum et.al.|[1705.04612](http://arxiv.org/abs/1705.04612)|null|
 |**2017-10-16**|**Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control**|Natasha Jaques et.al.|[1611.02796](http://arxiv.org/abs/1611.02796)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## MPP
 
@@ -380,7 +380,7 @@
 |**2022-10-25**|**Pre-training via Denoising for Molecular Property Prediction**|Sheheryar Zaidi et.al.|[2206.00133](http://arxiv.org/abs/2206.00133)|**[link](https://github.com/shehzaidi/pre-training-via-denoising)**|
 |**2022-05-26**|**Triangular Contrastive Learning on Molecular Graphs**|MinGyu Choi et.al.|[2205.13279](http://arxiv.org/abs/2205.13279)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## MD
 
@@ -498,7 +498,7 @@
 |**2023-10-08**|**Pressure-driven homogenization of lithium disilicate glasses**|Yasser Bakhouch et.al.|[2310.05278](http://arxiv.org/abs/2310.05278)|null|
 |**2023-10-07**|**From shear bands to earthquakes in a model granular material with contact aging**|E. A. Jagla et.al.|[2310.04890](http://arxiv.org/abs/2310.04890)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## Transformer
 
@@ -533,7 +533,7 @@
 |**2023-12-16**|**Opara: Exploiting Operator Parallelism for Expediting DNN Inference on GPUs**|Aodong Chen et.al.|[2312.10351](http://arxiv.org/abs/2312.10351)|**[link](https://github.com/icloud-ecnu/opara)**|
 |**2023-12-16**|**MMBaT: A Multi-task Framework for mmWave-based Human Body Reconstruction and Translation Prediction**|Jiarui Yang et.al.|[2312.10346](http://arxiv.org/abs/2312.10346)|null|
 |**2023-12-16**|**Spatial-Temporal DAG Convolutional Networks for End-to-End Joint Effective Connectivity Learning and Resting-State fMRI Classification**|Rui Yang et.al.|[2312.10317](http://arxiv.org/abs/2312.10317)|null|
-|**2023-12-16**|**MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion**|Shulei Ji et.al.|[2312.10307](http://arxiv.org/abs/2312.10307)|null|
+|**2023-12-16**|**MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion**|Shulei Ji et.al.|[2312.10307](http://arxiv.org/abs/2312.10307)|**[link](https://github.com/tayjsl97/muser)**|
 |**2023-12-16**|**Mapping Housing Stock Characteristics from Drone Images for Climate Resilience in the Caribbean**|Isabelle Tingzon et.al.|[2312.10306](http://arxiv.org/abs/2312.10306)|null|
 |**2023-12-16**|**Operator-learning-inspired Modeling of Neural Ordinary Differential Equations**|Woojin Cho et.al.|[2312.10274](http://arxiv.org/abs/2312.10274)|null|
 |**2023-12-16**|**Robustness of Deep Learning for Accelerated MRI: Benefits of Diverse Training Data**|Kang Lin et.al.|[2312.10271](http://arxiv.org/abs/2312.10271)|null|
@@ -831,7 +831,7 @@
 |**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493](http://arxiv.org/abs/2312.02493)|null|
 |**2023-12-05**|**Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery**|Yansheng Li et.al.|[2312.02481](http://arxiv.org/abs/2312.02481)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
