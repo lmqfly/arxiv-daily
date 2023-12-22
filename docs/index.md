@@ -188,7 +188,7 @@ layout: default
 |**2006-12-18**|**Quantum state transfer from light to molecules via coherent two-color photo-association in an atomic Bose-Einstein condensate**|Hui Jing et.al.|[quant-ph/0512149](http://arxiv.org/abs/quant-ph/0512149)|null|
 |**2023-11-21**|**nach0: Multimodal Natural and Chemical Languages Foundation Model**|Micha Livne et.al.|[2311.12410](http://arxiv.org/abs/2311.12410)|null|
 |**2023-11-02**|**Investigating the Behavior of Diffusion Models for Accelerating Electronic Structure Calculations**|Daniel Rothchild et.al.|[2311.01491](http://arxiv.org/abs/2311.01491)|null|
-|**2023-10-31**|**TacoGFN: Target Conditioned GFlowNet for Structure-Based Drug Design**|Tony Shen et.al.|[2310.03223](http://arxiv.org/abs/2310.03223)|null|
+|**2023-12-20**|**TacoGFN: Target Conditioned GFlowNet for Structure-Based Drug Design**|Tony Shen et.al.|[2310.03223](http://arxiv.org/abs/2310.03223)|null|
 |**2023-10-02**|**Drug Discovery with Dynamic Goal-aware Fragments**|Seul Lee et.al.|[2310.00841](http://arxiv.org/abs/2310.00841)|null|
 |**2023-09-28**|**Compositional Sculpting of Iterative Generative Processes**|Timur Garipov et.al.|[2309.16115](http://arxiv.org/abs/2309.16115)|null|
 |**2023-09-25**|**Beam Enumeration: Probabilistic Explainability For Sample Efficient Self-conditioned Molecular Design**|Jeff Guo et.al.|[2309.13957](http://arxiv.org/abs/2309.13957)|**[link](https://github.com/schwallergroup/augmented_memory)**|
@@ -372,6 +372,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**How precise molecular dynamic simulations are and what we can learn from it?**|M. V. Kondrin et.al.|[2312.13775](http://arxiv.org/abs/2312.13775)|null|
 |**2023-12-20**|**Microscopic model for a Brownian Translator**|Bart Wijns et.al.|[2312.13158](http://arxiv.org/abs/2312.13158)|null|
 |**2023-12-20**|**Accuracy of reaction coordinate based rate theories for modelling chemical reactions: insights from the thermal isomerization in retinal**|Simon Ghysbrecht et.al.|[2312.12948](http://arxiv.org/abs/2312.12948)|null|
 |**2023-12-20**|**On the validity of some equilibrium models for thermodiffusion**|Mario Araujo-Rocha et.al.|[2312.12912](http://arxiv.org/abs/2312.12912)|null|
@@ -433,7 +434,7 @@ layout: default
 |**2023-11-08**|**Molecular mechanism of anion permeation through aquaporin 6**|Eiji Yamamoto et.al.|[2311.04545](http://arxiv.org/abs/2311.04545)|null|
 |**2023-11-08**|**Hydrogen diffusion in the lower mantle revealed by machine learning potentials**|Yihang Peng et.al.|[2311.04461](http://arxiv.org/abs/2311.04461)|null|
 |**2023-12-13**|**Practical Classical Molecular Dynamics Simulations for Low-Temperature Plasma Processing: A review**|Pascal Brault et.al.|[2311.03789](http://arxiv.org/abs/2311.03789)|null|
-|**2023-11-06**|**Automated Identification and Tracking of Deformation Twin Structures in Molecular Dynamics Simulations**|H. J. Ehrich et.al.|[2311.03271](http://arxiv.org/abs/2311.03271)|null|
+|**2023-11-06**|**Automated Identification and Tracking of Deformation Twin Structures in Molecular Dynamics Simulations**|H. J. Ehrich et.al.|[2311.03271](http://arxiv.org/abs/2311.03271)|**[link](https://github.com/hehrich/automated-twin-tracking)**|
 |**2023-11-07**|**Molecular Dynamics Simulation Analysis of Structural Dynamic Cross Correlation Induced by Odorant Hydrogen-Bonding in Mouse Eugenol Olfactory Receptor**|Chisato Okamoto et.al.|[2311.02654](http://arxiv.org/abs/2311.02654)|null|
 |**2023-11-04**|**Molecular dynamics simulation of the coalescence of surfactant-laden droplets**|Soheil Arbabi et.al.|[2311.02417](http://arxiv.org/abs/2311.02417)|null|
 |**2023-11-04**|**Antidurotaxis Droplet Motion onto Gradient Brush Substrates**|Russell Kajouri et.al.|[2311.02412](http://arxiv.org/abs/2311.02412)|null|
@@ -493,6 +494,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Fast and Knowledge-Free Deep Learning for General Game Playing (Student Abstract)**|Michał Maras et.al.|[2312.14121](http://arxiv.org/abs/2312.14121)|null|
+|**2023-12-21**|**Deep Learning Based Face Recognition Method using Siamese Network**|Enoch Solomon et.al.|[2312.14001](http://arxiv.org/abs/2312.14001)|null|
+|**2023-12-21**|**Deep Learning Enabled Design of Terahertz High-Q Metamaterials**|Shan Yin et.al.|[2312.13986](http://arxiv.org/abs/2312.13986)|null|
+|**2023-12-21**|**Joint Sensing and Task-Oriented Communications with Image and Wireless Data Modalities for Dynamic Spectrum Access**|Yalin E. Sagduyu et.al.|[2312.13931](http://arxiv.org/abs/2312.13931)|null|
+|**2023-12-21**|**Pose-based Tremor Type and Level Analysis for Parkinson's Disease from Video**|Haozheng Zhang et.al.|[2312.13776](http://arxiv.org/abs/2312.13776)|null|
+|**2023-12-21**|**Cross-Layer Optimization for Fault-Tolerant Deep Learning**|Qing Zhang et.al.|[2312.13754](http://arxiv.org/abs/2312.13754)|null|
+|**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694](http://arxiv.org/abs/2312.13694)|null|
+|**2023-12-21**|**Peer-to-Peer Learning + Consensus with Non-IID Data**|Srinivasa Pranav et.al.|[2312.13602](http://arxiv.org/abs/2312.13602)|null|
+|**2023-12-21**|**Wave Physics-informed Matrix Factorizations**|Harsha Vardhan Tetali et.al.|[2312.13584](http://arxiv.org/abs/2312.13584)|null|
+|**2023-12-21**|**Automated Clinical Coding for Outpatient Departments**|Viktor Schlegel et.al.|[2312.13533](http://arxiv.org/abs/2312.13533)|null|
+|**2023-12-21**|**New Tools for Peak Memory Scheduling**|Ce Jin et.al.|[2312.13526](http://arxiv.org/abs/2312.13526)|null|
+|**2023-12-21**|**SPDGAN: A Generative Adversarial Network based on SPD Manifold Learning for Automatic Image Colorization**|Youssef Mourchid et.al.|[2312.13506](http://arxiv.org/abs/2312.13506)|null|
+|**2023-12-20**|**Building Lane-Level Maps from Aerial Images**|Jiawei Yao et.al.|[2312.13449](http://arxiv.org/abs/2312.13449)|**[link](https://github.com/jiawei-yao0812/aeriallanenet)**|
+|**2023-12-20**|**EPNet: An Efficient Pyramid Network for Enhanced Single-Image Super-Resolution with Reduced Computational Requirements**|Xin Xu et.al.|[2312.13396](http://arxiv.org/abs/2312.13396)|null|
+|**2023-12-20**|**Responsible Deep Learning for Software as a Medical Device**|Pratik Shah et.al.|[2312.13333](http://arxiv.org/abs/2312.13333)|null|
+|**2023-12-20**|**Unlocking Deep Learning: A BP-Free Approach for Parallel Block-Wise Training of Neural Networks**|Anzhe Cheng et.al.|[2312.13311](http://arxiv.org/abs/2312.13311)|**[link](https://github.com/belis0811/bwbpf)**|
 |**2023-12-20**|**Deep Learning on 3D Neural Fields**|Pierluigi Zama Ramirez et.al.|[2312.13277](http://arxiv.org/abs/2312.13277)|null|
 |**2023-12-20**|**The role of data embedding in equivariant quantum convolutional neural networks**|Sreetama Das et.al.|[2312.13250](http://arxiv.org/abs/2312.13250)|null|
 |**2023-12-20**|**SISMIK for brain MRI: Deep-learning-based motion estimation and model-based motion correction in k-space**|Oscar Dabrowski et.al.|[2312.13220](http://arxiv.org/abs/2312.13220)|null|
@@ -513,7 +530,7 @@ layout: default
 |**2023-12-20**|**Segmenting Messy Text: Detecting Boundaries in Text Derived from Historical Newspaper Images**|Carol Anderson et.al.|[2312.12773](http://arxiv.org/abs/2312.12773)|null|
 |**2023-12-20**|**MetaSegNet: Metadata-collaborative Vision-Language Representation Learning for Semantic Segmentation of Remote Sensing Images**|Libo Wang et.al.|[2312.12735](http://arxiv.org/abs/2312.12735)|null|
 |**2023-12-20**|**DoDo-Code: a Deep Levenshtein Distance Embedding-based Code for IDS Channel and DNA Storage**|Alan J. X. Guo et.al.|[2312.12717](http://arxiv.org/abs/2312.12717)|null|
-|**2023-12-20**|**Data-driven Design of High Pressure Hydride Superconductors using DFT and Deep Learning**|Daniel Wines et.al.|[2312.12694](http://arxiv.org/abs/2312.12694)|null|
+|**2023-12-21**|**Data-driven Design of High Pressure Hydride Superconductors using DFT and Deep Learning**|Daniel Wines et.al.|[2312.12694](http://arxiv.org/abs/2312.12694)|null|
 |**2023-12-20**|**Anderson Accelerated Gauss-Newton-guided deep learning for nonlinear inverse problems with Application to Electrical Impedance Tomography**|Qingping Zhou et.al.|[2312.12693](http://arxiv.org/abs/2312.12693)|null|
 |**2023-12-19**|**Discovering Malicious Signatures in Software from Structural Interactions**|Chenzhong Yin et.al.|[2312.12667](http://arxiv.org/abs/2312.12667)|null|
 |**2023-12-19**|**Diagnosis Of Takotsubo Syndrome By Robust Feature Selection From The Complex Latent Space Of DL-based Segmentation Network**|Fahim Ahmed Zaman et.al.|[2312.12653](http://arxiv.org/abs/2312.12653)|null|
