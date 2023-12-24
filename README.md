@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.23
+## Updated on 2023.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -85,7 +85,7 @@
 |**2017-04-19**|**Fast Kronecker product kernel methods via generalized vec trick**|Antti Airola et.al.|[1601.01507](http://arxiv.org/abs/1601.01507)|null|
 |**2015-03-12**|**Classification and its applications for drug-target interaction identification**|Jian-Ping Mei et.al.|[1502.04469](http://arxiv.org/abs/1502.04469)|null|
 
-<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231224>back to top</a>)</p>
 
 ## DDI
 
@@ -191,7 +191,7 @@
 |**2014-11-06**|**A network inference method for large-scale unsupervised identification of novel drug-drug interactions**|Roger Guimera et.al.|[1411.1528](http://arxiv.org/abs/1411.1528)|null|
 |**2012-10-02**|**Evaluation of linear classifiers on articles containing pharmacokinetic evidence of drug-drug interactions**|Artemy Kolchinsky et.al.|[1210.0734](http://arxiv.org/abs/1210.0734)|null|
 
-<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231224>back to top</a>)</p>
 
 ## MG
 
@@ -272,7 +272,7 @@
 |**2017-05-17**|**Molecular Generation with Recurrent Neural Networks (RNNs)**|Esben Jannik Bjerrum et.al.|[1705.04612](http://arxiv.org/abs/1705.04612)|null|
 |**2017-10-16**|**Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control**|Natasha Jaques et.al.|[1611.02796](http://arxiv.org/abs/1611.02796)|null|
 
-<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231224>back to top</a>)</p>
 
 ## MPP
 
@@ -382,7 +382,7 @@
 |**2022-10-25**|**Pre-training via Denoising for Molecular Property Prediction**|Sheheryar Zaidi et.al.|[2206.00133](http://arxiv.org/abs/2206.00133)|**[link](https://github.com/shehzaidi/pre-training-via-denoising)**|
 |**2022-05-26**|**Triangular Contrastive Learning on Molecular Graphs**|MinGyu Choi et.al.|[2205.13279](http://arxiv.org/abs/2205.13279)|null|
 
-<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231224>back to top</a>)</p>
 
 ## MD
 
@@ -506,7 +506,7 @@
 |**2023-10-08**|**Pressure-driven homogenization of lithium disilicate glasses**|Yasser Bakhouch et.al.|[2310.05278](http://arxiv.org/abs/2310.05278)|null|
 |**2023-10-07**|**From shear bands to earthquakes in a model granular material with contact aging**|E. A. Jagla et.al.|[2310.04890](http://arxiv.org/abs/2310.04890)|null|
 
-<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231224>back to top</a>)</p>
 
 ## Transformer
 
@@ -538,7 +538,7 @@
 |**2023-12-20**|**Multi-sensory Anti-collision Design for Autonomous Nano-swarm Exploration**|Mahyar Pourjabar et.al.|[2312.13086](http://arxiv.org/abs/2312.13086)|null|
 |**2023-12-20**|**BEVSeg2TP: Surround View Camera Bird's-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction**|Sushil Sharma et.al.|[2312.13081](http://arxiv.org/abs/2312.13081)|null|
 |**2023-12-20**|**1D-CNN Optimization for Non-contact Respiration Pattern Classification**|Md Zobaer Islam et.al.|[2312.13035](http://arxiv.org/abs/2312.13035)|null|
-|**2023-12-20**|**Backpropagation and gradient descent for an optimized dynamic mode decomposition**|Andre Weiner et.al.|[2312.12928](http://arxiv.org/abs/2312.12928)|null|
+|**2023-12-20**|**Backpropagation and gradient descent for an optimized dynamic mode decomposition**|Andre Weiner et.al.|[2312.12928](http://arxiv.org/abs/2312.12928)|**[link](https://github.com/andreweiner/optdmd)**|
 |**2023-12-20**|**A Minimal Control Family of Dynamical Syetem for Universal Approximation**|Yifei Duan et.al.|[2312.12903](http://arxiv.org/abs/2312.12903)|null|
 |**2023-12-20**|**Testing the Segment Anything Model on radiology data**|José Guilherme de Almeida et.al.|[2312.12880](http://arxiv.org/abs/2312.12880)|null|
 |**2023-12-20**|**Rule-Extraction Methods From Feedforward Neural Networks: A Systematic Literature Review**|Sara El Mekkaoui et.al.|[2312.12878](http://arxiv.org/abs/2312.12878)|null|
@@ -554,7 +554,7 @@
 |**2023-12-19**|**Diagnosis Of Takotsubo Syndrome By Robust Feature Selection From The Complex Latent Space Of DL-based Segmentation Network**|Fahim Ahmed Zaman et.al.|[2312.12653](http://arxiv.org/abs/2312.12653)|null|
 |**2023-12-19**|**Rotational Augmented Noise2Inverse for Low-dose Computed Tomography Reconstruction**|Hang Xu et.al.|[2312.12644](http://arxiv.org/abs/2312.12644)|null|
 |**2023-12-19**|**Domain-Independent Disperse and Pick method for Robotic Grasping**|Prem Raj et.al.|[2312.12637](http://arxiv.org/abs/2312.12637)|null|
-|**2023-12-19**|**Blox: A Modular Toolkit for Deep Learning Schedulers**|Saurabh Agarwal et.al.|[2312.12621](http://arxiv.org/abs/2312.12621)|null|
+|**2023-12-19**|**Blox: A Modular Toolkit for Deep Learning Schedulers**|Saurabh Agarwal et.al.|[2312.12621](http://arxiv.org/abs/2312.12621)|**[link](https://github.com/msr-fiddle/blox)**|
 |**2023-12-19**|**Optimizing Neural Networks with Gradient Lexicase Selection**|Li Ding et.al.|[2312.12606](http://arxiv.org/abs/2312.12606)|**[link](https://github.com/ld-ing/gradient-lexicase)**|
 |**2023-12-19**|**Studying the Practices of Testing Machine Learning Software in the Wild**|Moses Openja et.al.|[2312.12604](http://arxiv.org/abs/2312.12604)|**[link](https://github.com/swatlab-git/tosem-2021-replication)**|
 |**2023-12-19**|**Real-Time Diagnostic Integrity Meets Efficiency: A Novel Platform-Agnostic Architecture for Physiological Signal Compression**|Neel R Vora et.al.|[2312.12587](http://arxiv.org/abs/2312.12587)|null|
@@ -934,7 +934,7 @@
 |**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493](http://arxiv.org/abs/2312.02493)|null|
 |**2023-12-05**|**Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery**|Yansheng Li et.al.|[2312.02481](http://arxiv.org/abs/2312.02481)|null|
 
-<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231224>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

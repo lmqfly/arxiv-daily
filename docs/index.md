@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.23
+## Updated on 2023.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -520,7 +520,7 @@ layout: default
 |**2023-12-20**|**Multi-sensory Anti-collision Design for Autonomous Nano-swarm Exploration**|Mahyar Pourjabar et.al.|[2312.13086](http://arxiv.org/abs/2312.13086)|null|
 |**2023-12-20**|**BEVSeg2TP: Surround View Camera Bird's-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction**|Sushil Sharma et.al.|[2312.13081](http://arxiv.org/abs/2312.13081)|null|
 |**2023-12-20**|**1D-CNN Optimization for Non-contact Respiration Pattern Classification**|Md Zobaer Islam et.al.|[2312.13035](http://arxiv.org/abs/2312.13035)|null|
-|**2023-12-20**|**Backpropagation and gradient descent for an optimized dynamic mode decomposition**|Andre Weiner et.al.|[2312.12928](http://arxiv.org/abs/2312.12928)|null|
+|**2023-12-20**|**Backpropagation and gradient descent for an optimized dynamic mode decomposition**|Andre Weiner et.al.|[2312.12928](http://arxiv.org/abs/2312.12928)|**[link](https://github.com/andreweiner/optdmd)**|
 |**2023-12-20**|**A Minimal Control Family of Dynamical Syetem for Universal Approximation**|Yifei Duan et.al.|[2312.12903](http://arxiv.org/abs/2312.12903)|null|
 |**2023-12-20**|**Testing the Segment Anything Model on radiology data**|José Guilherme de Almeida et.al.|[2312.12880](http://arxiv.org/abs/2312.12880)|null|
 |**2023-12-20**|**Rule-Extraction Methods From Feedforward Neural Networks: A Systematic Literature Review**|Sara El Mekkaoui et.al.|[2312.12878](http://arxiv.org/abs/2312.12878)|null|
@@ -536,7 +536,7 @@ layout: default
 |**2023-12-19**|**Diagnosis Of Takotsubo Syndrome By Robust Feature Selection From The Complex Latent Space Of DL-based Segmentation Network**|Fahim Ahmed Zaman et.al.|[2312.12653](http://arxiv.org/abs/2312.12653)|null|
 |**2023-12-19**|**Rotational Augmented Noise2Inverse for Low-dose Computed Tomography Reconstruction**|Hang Xu et.al.|[2312.12644](http://arxiv.org/abs/2312.12644)|null|
 |**2023-12-19**|**Domain-Independent Disperse and Pick method for Robotic Grasping**|Prem Raj et.al.|[2312.12637](http://arxiv.org/abs/2312.12637)|null|
-|**2023-12-19**|**Blox: A Modular Toolkit for Deep Learning Schedulers**|Saurabh Agarwal et.al.|[2312.12621](http://arxiv.org/abs/2312.12621)|null|
+|**2023-12-19**|**Blox: A Modular Toolkit for Deep Learning Schedulers**|Saurabh Agarwal et.al.|[2312.12621](http://arxiv.org/abs/2312.12621)|**[link](https://github.com/msr-fiddle/blox)**|
 |**2023-12-19**|**Optimizing Neural Networks with Gradient Lexicase Selection**|Li Ding et.al.|[2312.12606](http://arxiv.org/abs/2312.12606)|**[link](https://github.com/ld-ing/gradient-lexicase)**|
 |**2023-12-19**|**Studying the Practices of Testing Machine Learning Software in the Wild**|Moses Openja et.al.|[2312.12604](http://arxiv.org/abs/2312.12604)|**[link](https://github.com/swatlab-git/tosem-2021-replication)**|
 |**2023-12-19**|**Real-Time Diagnostic Integrity Meets Efficiency: A Novel Platform-Agnostic Architecture for Physiological Signal Compression**|Neel R Vora et.al.|[2312.12587](http://arxiv.org/abs/2312.12587)|null|
