@@ -372,6 +372,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Hydrogel modified evaporation interface for highly stable membrane distillation**|Yanni Ma et.al.|[2312.14166](http://arxiv.org/abs/2312.14166)|null|
 |**2023-12-21**|**How precise molecular dynamic simulations are and what we can learn from it?**|M. V. Kondrin et.al.|[2312.13775](http://arxiv.org/abs/2312.13775)|null|
 |**2023-12-20**|**Microscopic model for a Brownian Translator**|Bart Wijns et.al.|[2312.13158](http://arxiv.org/abs/2312.13158)|null|
 |**2023-12-20**|**Accuracy of reaction coordinate based rate theories for modelling chemical reactions: insights from the thermal isomerization in retinal**|Simon Ghysbrecht et.al.|[2312.12948](http://arxiv.org/abs/2312.12948)|null|
@@ -494,6 +495,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**DRStageNet: Deep Learning for Diabetic Retinopathy Staging from Fundus Images**|Yevgeniy Men et.al.|[2312.14891](http://arxiv.org/abs/2312.14891)|null|
+|**2023-12-22**|**Spatiotemporal-Linear: Towards Universal Multivariate Time Series Forecasting**|Aiyinsi Zuo et.al.|[2312.14869](http://arxiv.org/abs/2312.14869)|null|
+|**2023-12-22**|**SuperVortexNet: Reconstructing Superfluid Vortex Filaments Using Deep Learning**|Nick Keepfer et.al.|[2312.14815](http://arxiv.org/abs/2312.14815)|null|
+|**2023-12-22**|**The Effects of Signal-to-Noise Ratio on Generative Adversarial Networks Applied to Marine Bioacoustic Data**|Georgia Atkinson et.al.|[2312.14806](http://arxiv.org/abs/2312.14806)|null|
+|**2023-12-22**|**The Rate-Distortion-Perception-Classification Tradeoff: Joint Source Coding and Modulation via Inverse-Domain GANs**|Junli Fang et.al.|[2312.14792](http://arxiv.org/abs/2312.14792)|null|
+|**2023-12-22**|**Cross-Age and Cross-Site Domain Shift Impacts on Deep Learning-Based White Matter Fiber Estimation in Newborn and Baby Brains**|Rizhong Lin et.al.|[2312.14773](http://arxiv.org/abs/2312.14773)|null|
+|**2023-12-22**|**Progressing from Anomaly Detection to Automated Log Labeling and Pioneering Root Cause Analysis**|Thorsten Wittkopp et.al.|[2312.14748](http://arxiv.org/abs/2312.14748)|null|
+|**2023-12-22**|**Time-changed normalizing flows for accurate SDE modeling**|Naoufal El Bekri et.al.|[2312.14698](http://arxiv.org/abs/2312.14698)|null|
+|**2023-12-22**|**DeepGreen: Equivariant neural network for Green's functions of molecules and materials**|Xinyang Dong et.al.|[2312.14680](http://arxiv.org/abs/2312.14680)|null|
+|**2023-12-22**|**MEAOD: Model Extraction Attack against Object Detectors**|Zeyu Li et.al.|[2312.14677](http://arxiv.org/abs/2312.14677)|null|
+|**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670](http://arxiv.org/abs/2312.14670)|null|
+|**2023-12-22**|**SAVAE: Leveraging the variational Bayes autoencoder for survival analysis**|Patricia A. Apellániz et.al.|[2312.14651](http://arxiv.org/abs/2312.14651)|null|
+|**2023-12-22**|**Convolutional neural network for retrieval of the time-dependent bond length in a molecule from photoelectron momentum distributions**|N. I. Shvetsov-Shilovski et.al.|[2312.14636](http://arxiv.org/abs/2312.14636)|null|
+|**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630](http://arxiv.org/abs/2312.14630)|null|
+|**2023-12-22**|**Efficient Discrete Physics-informed Neural Networks for Addressing Evolutionary Partial Differential Equations**|Siqi Chen et.al.|[2312.14608](http://arxiv.org/abs/2312.14608)|null|
+|**2023-12-22**|**Accelerated Convergence of Stochastic Heavy Ball Method under Anisotropic Gradient Noise**|Rui Pan et.al.|[2312.14567](http://arxiv.org/abs/2312.14567)|null|
+|**2023-12-22**|**AI Generated Signal for Wireless Sensing**|Hanxiang He et.al.|[2312.14563](http://arxiv.org/abs/2312.14563)|null|
+|**2023-12-22**|**Unsupervised Deep Learning Image Verification Method**|Enoch Solomon et.al.|[2312.14395](http://arxiv.org/abs/2312.14395)|null|
+|**2023-12-21**|**DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**|Qiaoyue Tang et.al.|[2312.14334](http://arxiv.org/abs/2312.14334)|null|
+|**2023-12-21**|**Behaviour Modelling of Social Animals via Causal Structure Discovery and Graph Neural Networks**|Gaël Gendron et.al.|[2312.14333](http://arxiv.org/abs/2312.14333)|null|
+|**2023-12-21**|**Autoencoder Based Face Verification System**|Enoch Solomon et.al.|[2312.14301](http://arxiv.org/abs/2312.14301)|null|
+|**2023-12-21**|**Applications of Lipschitz neural networks to the Run 3 LHCb trigger system**|Blaise Delaney et.al.|[2312.14265](http://arxiv.org/abs/2312.14265)|null|
+|**2023-12-21**|**Low-power event-based face detection with asynchronous neuromorphic hardware**|Caterina Caccavella et.al.|[2312.14261](http://arxiv.org/abs/2312.14261)|null|
+|**2023-12-21**|**Meta Transfer of Self-Supervised Knowledge: Foundation Model in Action for Post-Traumatic Epilepsy Prediction**|Wenhui Cui et.al.|[2312.14204](http://arxiv.org/abs/2312.14204)|null|
 |**2023-12-21**|**Fast and Knowledge-Free Deep Learning for General Game Playing (Student Abstract)**|Michał Maras et.al.|[2312.14121](http://arxiv.org/abs/2312.14121)|null|
 |**2023-12-21**|**Deep Learning Based Face Recognition Method using Siamese Network**|Enoch Solomon et.al.|[2312.14001](http://arxiv.org/abs/2312.14001)|null|
 |**2023-12-21**|**Deep Learning Enabled Design of Terahertz High-Q Metamaterials**|Shan Yin et.al.|[2312.13986](http://arxiv.org/abs/2312.13986)|null|
