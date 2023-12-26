@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -85,7 +85,7 @@
 |**2017-04-19**|**Fast Kronecker product kernel methods via generalized vec trick**|Antti Airola et.al.|[1601.01507](http://arxiv.org/abs/1601.01507)|null|
 |**2015-03-12**|**Classification and its applications for drug-target interaction identification**|Jian-Ping Mei et.al.|[1502.04469](http://arxiv.org/abs/1502.04469)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## DDI
 
@@ -191,7 +191,7 @@
 |**2014-11-06**|**A network inference method for large-scale unsupervised identification of novel drug-drug interactions**|Roger Guimera et.al.|[1411.1528](http://arxiv.org/abs/1411.1528)|null|
 |**2012-10-02**|**Evaluation of linear classifiers on articles containing pharmacokinetic evidence of drug-drug interactions**|Artemy Kolchinsky et.al.|[1210.0734](http://arxiv.org/abs/1210.0734)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## MG
 
@@ -272,7 +272,7 @@
 |**2017-05-17**|**Molecular Generation with Recurrent Neural Networks (RNNs)**|Esben Jannik Bjerrum et.al.|[1705.04612](http://arxiv.org/abs/1705.04612)|null|
 |**2017-10-16**|**Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control**|Natasha Jaques et.al.|[1611.02796](http://arxiv.org/abs/1611.02796)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## MPP
 
@@ -382,7 +382,7 @@
 |**2022-10-25**|**Pre-training via Denoising for Molecular Property Prediction**|Sheheryar Zaidi et.al.|[2206.00133](http://arxiv.org/abs/2206.00133)|**[link](https://github.com/shehzaidi/pre-training-via-denoising)**|
 |**2022-05-26**|**Triangular Contrastive Learning on Molecular Graphs**|MinGyu Choi et.al.|[2205.13279](http://arxiv.org/abs/2205.13279)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## MD
 
@@ -507,7 +507,7 @@
 |**2023-10-08**|**Pressure-driven homogenization of lithium disilicate glasses**|Yasser Bakhouch et.al.|[2310.05278](http://arxiv.org/abs/2310.05278)|null|
 |**2023-10-07**|**From shear bands to earthquakes in a model granular material with contact aging**|E. A. Jagla et.al.|[2310.04890](http://arxiv.org/abs/2310.04890)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## Transformer
 
@@ -524,14 +524,14 @@
 |**2023-12-22**|**DeepGreen: Equivariant neural network for Green's functions of molecules and materials**|Xinyang Dong et.al.|[2312.14680](http://arxiv.org/abs/2312.14680)|null|
 |**2023-12-22**|**MEAOD: Model Extraction Attack against Object Detectors**|Zeyu Li et.al.|[2312.14677](http://arxiv.org/abs/2312.14677)|null|
 |**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670](http://arxiv.org/abs/2312.14670)|null|
-|**2023-12-22**|**SAVAE: Leveraging the variational Bayes autoencoder for survival analysis**|Patricia A. Apellániz et.al.|[2312.14651](http://arxiv.org/abs/2312.14651)|null|
+|**2023-12-22**|**SAVAE: Leveraging the variational Bayes autoencoder for survival analysis**|Patricia A. Apellániz et.al.|[2312.14651](http://arxiv.org/abs/2312.14651)|**[link](https://github.com/patricia-a-apellaniz/savae)**|
 |**2023-12-22**|**Convolutional neural network for retrieval of the time-dependent bond length in a molecule from photoelectron momentum distributions**|N. I. Shvetsov-Shilovski et.al.|[2312.14636](http://arxiv.org/abs/2312.14636)|null|
-|**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630](http://arxiv.org/abs/2312.14630)|null|
+|**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630](http://arxiv.org/abs/2312.14630)|**[link](https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses)**|
 |**2023-12-22**|**Efficient Discrete Physics-informed Neural Networks for Addressing Evolutionary Partial Differential Equations**|Siqi Chen et.al.|[2312.14608](http://arxiv.org/abs/2312.14608)|null|
 |**2023-12-22**|**Accelerated Convergence of Stochastic Heavy Ball Method under Anisotropic Gradient Noise**|Rui Pan et.al.|[2312.14567](http://arxiv.org/abs/2312.14567)|null|
 |**2023-12-22**|**AI Generated Signal for Wireless Sensing**|Hanxiang He et.al.|[2312.14563](http://arxiv.org/abs/2312.14563)|null|
 |**2023-12-22**|**Unsupervised Deep Learning Image Verification Method**|Enoch Solomon et.al.|[2312.14395](http://arxiv.org/abs/2312.14395)|null|
-|**2023-12-21**|**DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**|Qiaoyue Tang et.al.|[2312.14334](http://arxiv.org/abs/2312.14334)|null|
+|**2023-12-21**|**DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**|Qiaoyue Tang et.al.|[2312.14334](http://arxiv.org/abs/2312.14334)|**[link](https://github.com/ubc-systopia/DP-AdamBC)**|
 |**2023-12-21**|**Behaviour Modelling of Social Animals via Causal Structure Discovery and Graph Neural Networks**|Gaël Gendron et.al.|[2312.14333](http://arxiv.org/abs/2312.14333)|null|
 |**2023-12-21**|**Autoencoder Based Face Verification System**|Enoch Solomon et.al.|[2312.14301](http://arxiv.org/abs/2312.14301)|null|
 |**2023-12-21**|**Applications of Lipschitz neural networks to the Run 3 LHCb trigger system**|Blaise Delaney et.al.|[2312.14265](http://arxiv.org/abs/2312.14265)|null|
@@ -959,7 +959,7 @@
 |**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493](http://arxiv.org/abs/2312.02493)|null|
 |**2023-12-05**|**Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery**|Yansheng Li et.al.|[2312.02481](http://arxiv.org/abs/2312.02481)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

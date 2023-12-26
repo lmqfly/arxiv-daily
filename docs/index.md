@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -506,14 +506,14 @@ layout: default
 |**2023-12-22**|**DeepGreen: Equivariant neural network for Green's functions of molecules and materials**|Xinyang Dong et.al.|[2312.14680](http://arxiv.org/abs/2312.14680)|null|
 |**2023-12-22**|**MEAOD: Model Extraction Attack against Object Detectors**|Zeyu Li et.al.|[2312.14677](http://arxiv.org/abs/2312.14677)|null|
 |**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670](http://arxiv.org/abs/2312.14670)|null|
-|**2023-12-22**|**SAVAE: Leveraging the variational Bayes autoencoder for survival analysis**|Patricia A. Apellániz et.al.|[2312.14651](http://arxiv.org/abs/2312.14651)|null|
+|**2023-12-22**|**SAVAE: Leveraging the variational Bayes autoencoder for survival analysis**|Patricia A. Apellániz et.al.|[2312.14651](http://arxiv.org/abs/2312.14651)|**[link](https://github.com/patricia-a-apellaniz/savae)**|
 |**2023-12-22**|**Convolutional neural network for retrieval of the time-dependent bond length in a molecule from photoelectron momentum distributions**|N. I. Shvetsov-Shilovski et.al.|[2312.14636](http://arxiv.org/abs/2312.14636)|null|
-|**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630](http://arxiv.org/abs/2312.14630)|null|
+|**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630](http://arxiv.org/abs/2312.14630)|**[link](https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses)**|
 |**2023-12-22**|**Efficient Discrete Physics-informed Neural Networks for Addressing Evolutionary Partial Differential Equations**|Siqi Chen et.al.|[2312.14608](http://arxiv.org/abs/2312.14608)|null|
 |**2023-12-22**|**Accelerated Convergence of Stochastic Heavy Ball Method under Anisotropic Gradient Noise**|Rui Pan et.al.|[2312.14567](http://arxiv.org/abs/2312.14567)|null|
 |**2023-12-22**|**AI Generated Signal for Wireless Sensing**|Hanxiang He et.al.|[2312.14563](http://arxiv.org/abs/2312.14563)|null|
 |**2023-12-22**|**Unsupervised Deep Learning Image Verification Method**|Enoch Solomon et.al.|[2312.14395](http://arxiv.org/abs/2312.14395)|null|
-|**2023-12-21**|**DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**|Qiaoyue Tang et.al.|[2312.14334](http://arxiv.org/abs/2312.14334)|null|
+|**2023-12-21**|**DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**|Qiaoyue Tang et.al.|[2312.14334](http://arxiv.org/abs/2312.14334)|**[link](https://github.com/ubc-systopia/DP-AdamBC)**|
 |**2023-12-21**|**Behaviour Modelling of Social Animals via Causal Structure Discovery and Graph Neural Networks**|Gaël Gendron et.al.|[2312.14333](http://arxiv.org/abs/2312.14333)|null|
 |**2023-12-21**|**Autoencoder Based Face Verification System**|Enoch Solomon et.al.|[2312.14301](http://arxiv.org/abs/2312.14301)|null|
 |**2023-12-21**|**Applications of Lipschitz neural networks to the Run 3 LHCb trigger system**|Blaise Delaney et.al.|[2312.14265](http://arxiv.org/abs/2312.14265)|null|
