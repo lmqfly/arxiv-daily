@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.26
+## Updated on 2023.12.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -508,7 +508,7 @@ layout: default
 |**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670](http://arxiv.org/abs/2312.14670)|null|
 |**2023-12-22**|**SAVAE: Leveraging the variational Bayes autoencoder for survival analysis**|Patricia A. Apellániz et.al.|[2312.14651](http://arxiv.org/abs/2312.14651)|**[link](https://github.com/patricia-a-apellaniz/savae)**|
 |**2023-12-22**|**Convolutional neural network for retrieval of the time-dependent bond length in a molecule from photoelectron momentum distributions**|N. I. Shvetsov-Shilovski et.al.|[2312.14636](http://arxiv.org/abs/2312.14636)|null|
-|**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630](http://arxiv.org/abs/2312.14630)|**[link](https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses)**|
+|**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630](http://arxiv.org/abs/2312.14630)|null|
 |**2023-12-22**|**Efficient Discrete Physics-informed Neural Networks for Addressing Evolutionary Partial Differential Equations**|Siqi Chen et.al.|[2312.14608](http://arxiv.org/abs/2312.14608)|null|
 |**2023-12-22**|**Accelerated Convergence of Stochastic Heavy Ball Method under Anisotropic Gradient Noise**|Rui Pan et.al.|[2312.14567](http://arxiv.org/abs/2312.14567)|null|
 |**2023-12-22**|**AI Generated Signal for Wireless Sensing**|Hanxiang He et.al.|[2312.14563](http://arxiv.org/abs/2312.14563)|null|
