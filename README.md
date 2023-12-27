@@ -23,6 +23,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2005-04-07**|**Design of HIV-1-PR inhibitors which do not create resistance: blocking the folding of single monomers**|R. A. Broglia et.al.|[q-bio/0504011](http://arxiv.org/abs/q-bio/0504011)|null|
+|**2023-12-23**|**DTIAM: A unified framework for predicting drug-target interactions, binding affinities and activation/inhibition mechanisms**|Zhangli Lu et.al.|[2312.15252](http://arxiv.org/abs/2312.15252)|**[link](https://github.com/csubiogroup/dtiam)**|
 |**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
 |**2023-11-25**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
 |**2023-11-24**|**Towards a more inductive world for drug repurposing approaches**|Jesus de la Fuente et.al.|[2311.12670](http://arxiv.org/abs/2311.12670)|**[link](https://github.com/ubioinformat/graphemb)**|
@@ -513,6 +514,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**JaColBERT and Hard Negatives, Towards Better Japanese-First Embeddings for Retrieval: Early Technical Report**|Benjamin Clavié et.al.|[2312.16144](http://arxiv.org/abs/2312.16144)|null|
+|**2023-12-26**|**Olfactory Label Prediction on aroma-chemical Pairs**|Laura Sisson et.al.|[2312.16124](http://arxiv.org/abs/2312.16124)|null|
+|**2023-12-26**|**Deep learning the nonclassicality within quasi-distribution representations from marginals**|Hong-Bin Chen et.al.|[2312.16055](http://arxiv.org/abs/2312.16055)|null|
+|**2023-12-26**|**A Self Supervised StyleGAN for Image Annotation and Classification with Extremely Limited Labels**|Dana Cohen Hochberg et.al.|[2312.15972](http://arxiv.org/abs/2312.15972)|null|
+|**2023-12-26**|**Enhancing Redundancy-based Automated Program Repair by Fine-grained Pattern Mining**|Jiajun Jiang et.al.|[2312.15955](http://arxiv.org/abs/2312.15955)|null|
+|**2023-12-26**|**ECHO: Efficient Dataset Condensation by Higher-Order Distribution Alignment**|Hansong Zhang et.al.|[2312.15927](http://arxiv.org/abs/2312.15927)|null|
+|**2023-12-26**|**Heterogeneous Encoders Scaling In The Transformer For Neural Machine Translation**|Jia Cheng Hu et.al.|[2312.15872](http://arxiv.org/abs/2312.15872)|null|
+|**2023-12-26**|**Curricular and Cyclical Loss for Time Series Learning Strategy**|Chenxi Sun et.al.|[2312.15853](http://arxiv.org/abs/2312.15853)|null|
+|**2023-12-26**|**ShallowBlocker: Improving Set Similarity Joins for Blocking**|Nils Barlaug et.al.|[2312.15835](http://arxiv.org/abs/2312.15835)|null|
+|**2023-12-25**|**Contrastive Learning-Based Framework for Sim-to-Real Mapping of Lidar Point Clouds in Autonomous Driving Systems**|Hamed Haghighi et.al.|[2312.15817](http://arxiv.org/abs/2312.15817)|**[link](https://github.com/hamedhaghighi/cls2r)**|
+|**2023-12-25**|**Deep Reinforcement Learning for Quantitative Trading**|Maochun Xu et.al.|[2312.15730](http://arxiv.org/abs/2312.15730)|null|
+|**2023-12-25**|**Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration**|Jiahong Fu et.al.|[2312.15701](http://arxiv.org/abs/2312.15701)|**[link](https://github.com/jiahong-fu/equivariant-proximal-operator)**|
+|**2023-12-25**|**A graph-based multimodal framework to predict gentrification**|Javad Eshtiyagh et.al.|[2312.15646](http://arxiv.org/abs/2312.15646)|null|
+|**2023-12-25**|**DSNet: Disentangled Siamese Network with Neutral Calibration for Speech Emotion Recognition**|Chengxin Chen et.al.|[2312.15593](http://arxiv.org/abs/2312.15593)|null|
+|**2023-12-24**|**Deep Copula-Based Survival Analysis for Dependent Censoring with Identifiability Guarantees**|Weijia Zhang et.al.|[2312.15566](http://arxiv.org/abs/2312.15566)|**[link](https://github.com/weijiazhang24/dcsurvival)**|
+|**2023-12-24**|**Multi-level biomedical NER through multi-granularity embeddings and enhanced labeling**|Fahime Shahrokh et.al.|[2312.15550](http://arxiv.org/abs/2312.15550)|null|
+|**2023-12-24**|**Towards Reliable AI Model Deployments: Multiple Input Mixup for Out-of-Distribution Detection**|Dasol Choi et.al.|[2312.15514](http://arxiv.org/abs/2312.15514)|**[link](https://github.com/ndb796/multipleinputmixup)**|
+|**2023-12-24**|**DeLTA-BIT: an open-source probabilistic tractography-based deep learning framework for thalamic targeting in functional neurological disorders**|Mattia Romeo et.al.|[2312.15462](http://arxiv.org/abs/2312.15462)|null|
+|**2023-12-24**|**Variation-Resilient FeFET-Based In-Memory Computing Leveraging Probabilistic Deep Learning**|Bibhas Manna et.al.|[2312.15444](http://arxiv.org/abs/2312.15444)|null|
+|**2023-12-24**|**Debiased Learning for Remote Sensing Data**|Chun-Hsiao Yeh et.al.|[2312.15393](http://arxiv.org/abs/2312.15393)|null|
+|**2023-12-23**|**Accelerating Plasmonic Hydrogen Sensors for Inert Gas Environments by Transformer-Based Deep Learning**|Viktor Martvall et.al.|[2312.15372](http://arxiv.org/abs/2312.15372)|null|
+|**2023-12-23**|**WildScenes: A Benchmark for 2D and 3D Semantic Segmentation in Large-scale Natural Environments**|Kavisha Vidanapathirana et.al.|[2312.15364](http://arxiv.org/abs/2312.15364)|null|
+|**2023-12-23**|**Scout-Net: Prospective Personalized Estimation of CT Organ Doses from Scout Views**|Abdullah-Al-Zubaer Imran et.al.|[2312.15354](http://arxiv.org/abs/2312.15354)|null|
+|**2023-12-23**|**Towards Generalization in Subitizing with Neuro-Symbolic Loss using Holographic Reduced Representations**|Mohammad Mahmudul Alam et.al.|[2312.15310](http://arxiv.org/abs/2312.15310)|**[link](https://github.com/mahmudulalam/subitizing)**|
+|**2023-12-23**|**AdamL: A fast adaptive gradient method incorporating loss function**|Lu Xia et.al.|[2312.15295](http://arxiv.org/abs/2312.15295)|null|
+|**2023-12-23**|**Self-Supervised Depth Completion Guided by 3D Perception and Geometry Consistency**|Yu Cai et.al.|[2312.15263](http://arxiv.org/abs/2312.15263)|null|
+|**2023-12-23**|**Sample selection with noise rate estimation in noise learning of medical image analysis**|Maolin Li et.al.|[2312.15233](http://arxiv.org/abs/2312.15233)|null|
+|**2023-12-23**|**Generalized Neural Networks for Real-Time Earthquake Early Warning**|Xiong Zhang et.al.|[2312.15218](http://arxiv.org/abs/2312.15218)|null|
+|**2023-12-23**|**Automatic Tooth Arrangement with Joint Features of Point and Mesh Representations via Diffusion Probabilistic Models**|Changsong Lei et.al.|[2312.15139](http://arxiv.org/abs/2312.15139)|null|
+|**2023-12-23**|**Towards End-to-End Structure Solutions from Information-Compromised Diffraction Data via Generative Deep Learning**|Gabe Guo et.al.|[2312.15136](http://arxiv.org/abs/2312.15136)|null|
+|**2023-12-22**|**Fix-Con: Automatic Fault Localization and Repair of Deep Learning Model Conversions**|Nikolaos Louloudakis et.al.|[2312.15101](http://arxiv.org/abs/2312.15101)|null|
+|**2023-12-22**|**Unsupervised Auditory and Semantic Entrainment Models with Deep Neural Networks**|Jay Kejriwal et.al.|[2312.15098](http://arxiv.org/abs/2312.15098)|null|
+|**2023-12-22**|**Automated forest inventory: analysis of high-density airborne LiDAR point clouds with 3D deep learning**|Binbin Xiang et.al.|[2312.15084](http://arxiv.org/abs/2312.15084)|null|
+|**2023-12-22**|**Joint Self-Supervised and Supervised Contrastive Learning for Multimodal MRI Data: Towards Predicting Abnormal Neurodevelopment**|Zhiyuan Li et.al.|[2312.15064](http://arxiv.org/abs/2312.15064)|null|
+|**2023-12-22**|**The S-PLUS Transient Extension Program: Imaging Pipeline, Transient Identification, and Survey Optimization for Multi-Messenger Astronomy**|A. Santos et.al.|[2312.15057](http://arxiv.org/abs/2312.15057)|null|
+|**2023-12-22**|**Deep Learning for Efficient GWAS Feature Selection**|Kexuan Li et.al.|[2312.15055](http://arxiv.org/abs/2312.15055)|null|
+|**2023-12-22**|**Towards a Unified Multimodal Reasoning Framework**|Abhinav Arun et.al.|[2312.15021](http://arxiv.org/abs/2312.15021)|null|
+|**2023-12-21**|**Stacked tensorial neural networks for reduced-order modeling of a parametric partial differential equation**|Caleb G. Wagner et.al.|[2312.14979](http://arxiv.org/abs/2312.14979)|null|
+|**2023-12-20**|**Interactive Visualization of Time-Varying Flow Fields Using Particle Tracing Neural Networks**|Mengjiao Han et.al.|[2312.14973](http://arxiv.org/abs/2312.14973)|null|
 |**2023-12-22**|**DRStageNet: Deep Learning for Diabetic Retinopathy Staging from Fundus Images**|Yevgeniy Men et.al.|[2312.14891](http://arxiv.org/abs/2312.14891)|null|
 |**2023-12-22**|**Spatiotemporal-Linear: Towards Universal Multivariate Time Series Forecasting**|Aiyinsi Zuo et.al.|[2312.14869](http://arxiv.org/abs/2312.14869)|null|
 |**2023-12-22**|**SuperVortexNet: Reconstructing Superfluid Vortex Filaments Using Deep Learning**|Nick Keepfer et.al.|[2312.14815](http://arxiv.org/abs/2312.14815)|null|
@@ -546,7 +586,7 @@
 |**2023-12-21**|**Data Transformation to Construct a Dataset for Generating Entity-Relationship Model from Natural Language**|Zhenwen Li et.al.|[2312.13694](http://arxiv.org/abs/2312.13694)|null|
 |**2023-12-21**|**Peer-to-Peer Learning + Consensus with Non-IID Data**|Srinivasa Pranav et.al.|[2312.13602](http://arxiv.org/abs/2312.13602)|null|
 |**2023-12-21**|**Wave Physics-informed Matrix Factorizations**|Harsha Vardhan Tetali et.al.|[2312.13584](http://arxiv.org/abs/2312.13584)|null|
-|**2023-12-21**|**Automated Clinical Coding for Outpatient Departments**|Viktor Schlegel et.al.|[2312.13533](http://arxiv.org/abs/2312.13533)|null|
+|**2023-12-24**|**Automated Clinical Coding for Outpatient Departments**|Viktor Schlegel et.al.|[2312.13533](http://arxiv.org/abs/2312.13533)|null|
 |**2023-12-21**|**New Tools for Peak Memory Scheduling**|Ce Jin et.al.|[2312.13526](http://arxiv.org/abs/2312.13526)|null|
 |**2023-12-21**|**SPDGAN: A Generative Adversarial Network based on SPD Manifold Learning for Automatic Image Colorization**|Youssef Mourchid et.al.|[2312.13506](http://arxiv.org/abs/2312.13506)|null|
 |**2023-12-20**|**Building Lane-Level Maps from Aerial Images**|Jiawei Yao et.al.|[2312.13449](http://arxiv.org/abs/2312.13449)|**[link](https://github.com/jiawei-yao0812/aeriallanenet)**|
