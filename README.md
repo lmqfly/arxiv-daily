@@ -662,7 +662,7 @@
 |**2023-12-19**|**Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation**|Junxiang Wang et.al.|[2312.12276](http://arxiv.org/abs/2312.12276)|null|
 |**2023-12-19**|**Teeth Localization and Lesion Segmentation in CBCT Images using SpatialConfiguration-Net and U-Net**|Arnela Hadzic et.al.|[2312.12189](http://arxiv.org/abs/2312.12189)|null|
 |**2023-12-19**|**Object Detection for Automated Coronary Artery Using Deep Learning**|Hadis Keshavarz et.al.|[2312.12135](http://arxiv.org/abs/2312.12135)|null|
-|**2023-12-19**|**Towards Learning-Based Gyrocompassing**|Daniel Engelsman et.al.|[2312.12121](http://arxiv.org/abs/2312.12121)|null|
+|**2023-12-19**|**Towards Learning-Based Gyrocompassing**|Daniel Engelsman et.al.|[2312.12121](http://arxiv.org/abs/2312.12121)|**[link](https://github.com/ansfl/learning-based-mems-gyrocompassing)**|
 |**2023-12-19**|**Shaping Up SHAP: Enhancing Stability through Layer-Wise Neighbor Selection**|Gwladys Kelodjou et.al.|[2312.12115](http://arxiv.org/abs/2312.12115)|null|
 |**2023-12-19**|**LightGCNet: A Lightweight Geometric Constructive Neural Network for Data-Driven Soft sensors**|Jing Nan et.al.|[2312.12022](http://arxiv.org/abs/2312.12022)|null|
 |**2023-12-19**|**GroupMixNorm Layer for Learning Fair Models**|Anubha Pandey et.al.|[2312.11969](http://arxiv.org/abs/2312.11969)|null|
@@ -717,7 +717,7 @@
 |**2023-12-17**|**Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc Retrieval**|Weihang Su et.al.|[2312.10661](http://arxiv.org/abs/2312.10661)|**[link](https://github.com/oneal2000/wikiformer)**|
 |**2023-12-17**|**Graft: Efficient Inference Serving for Hybrid Deep Learning with SLO Guarantees via DNN Re-alignment**|Jing Wu et.al.|[2312.10636](http://arxiv.org/abs/2312.10636)|null|
 |**2023-12-17**|**A Survey on Query-based API Recommendation**|Moshi Wei et.al.|[2312.10623](http://arxiv.org/abs/2312.10623)|null|
-|**2023-12-17**|**A Dual Domain Multi-exposure Image Fusion Network based on the Spatial-Frequency Integration**|Guang Yang et.al.|[2312.10604](http://arxiv.org/abs/2312.10604)|null|
+|**2023-12-17**|**A Dual Domain Multi-exposure Image Fusion Network based on the Spatial-Frequency Integration**|Guang Yang et.al.|[2312.10604](http://arxiv.org/abs/2312.10604)|**[link](https://github.com/ssyangguang/mef-freq)**|
 |**2023-12-17**|**A Weighted K-Center Algorithm for Data Subset Selection**|Srikumar Ramalingam et.al.|[2312.10602](http://arxiv.org/abs/2312.10602)|null|
 |**2023-12-17**|**DER-GCN: Dialogue and Event Relation-Aware Graph Convolutional Neural Network for Multimodal Dialogue Emotion Recognition**|Wei Ai et.al.|[2312.10579](http://arxiv.org/abs/2312.10579)|null|
 |**2023-12-17**|**SAME: Sample Reconstruction Against Model Extraction Attacks**|Yi Xie et.al.|[2312.10578](http://arxiv.org/abs/2312.10578)|**[link](https://github.com/xythink/same)**|
