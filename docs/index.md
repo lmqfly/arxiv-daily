@@ -265,6 +265,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Integrating Chemical Language and Molecular Graph in Multimodal Fused Deep Learning for Drug Property Prediction**|Xiaohua Lu et.al.|[2312.17495](http://arxiv.org/abs/2312.17495)|null|
 |**2023-12-28**|**Molecular Property Prediction Based on Graph Structure Learning**|Bangyi Zhao et.al.|[2312.16855](http://arxiv.org/abs/2312.16855)|null|
 |**2023-12-20**|**Pre-training of Molecular GNNs as Conditional Boltzmann Generator**|Daiki Koge et.al.|[2312.13110](http://arxiv.org/abs/2312.13110)|null|
 |**2023-12-19**|**Accurate harmonic vibrational frequencies for diatomic molecules via quantum computing**|Shih-Kai Chou et.al.|[2312.12320](http://arxiv.org/abs/2312.12320)|null|
@@ -374,6 +375,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Spinodal enhancement of fluctuations in nucleus-nucleus collisions**|Roman Poberezhnyuk et.al.|[2312.17685](http://arxiv.org/abs/2312.17685)|null|
 |**2023-12-28**|**Rheological softening of metal nanocontacts sheared under oscillatory strains**|Ali Khosravi et.al.|[2312.17094](http://arxiv.org/abs/2312.17094)|null|
 |**2023-12-27**|**High Capacity Hydrogen Storage on Zirconium decorated γ-graphyne: A systematic first-principles study**|Mukesh Singh et.al.|[2312.16440](http://arxiv.org/abs/2312.16440)|null|
 |**2023-12-25**|**Virialized equation of state for warm and dense stellar plasmas in proto-neutron stars and Supernova matter**|D. Barba-González et.al.|[2312.16252](http://arxiv.org/abs/2312.16252)|null|
@@ -500,6 +502,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Grasping, Part Identification, and Pose Refinement in One Shot with a Tactile Gripper**|Joyce Xin-Yan Lim et.al.|[2312.17650](http://arxiv.org/abs/2312.17650)|null|
+|**2023-12-29**|**Research on the Laws of Multimodal Perception and Cognition from a Cross-cultural Perspective -- Taking Overseas Chinese Gardens as an Example**|Ran Chen et.al.|[2312.17642](http://arxiv.org/abs/2312.17642)|null|
+|**2023-12-29**|**MoD2T:Model-Data-Driven Motion-Static Object Tracking Method**|Yang Feng et.al.|[2312.17641](http://arxiv.org/abs/2312.17641)|null|
+|**2023-12-29**|**Enhancing the Performance of DeepReach on High-Dimensional Systems through Optimizing Activation Functions**|Qian Wang et.al.|[2312.17583](http://arxiv.org/abs/2312.17583)|null|
+|**2023-12-29**|**A Fully Automated Pipeline Using Swin Transformers for Deep Learning-Based Blood Segmentation on Head CT Scans After Aneurysmal Subarachnoid Hemorrhage**|Sergio Garcia Garcia et.al.|[2312.17553](http://arxiv.org/abs/2312.17553)|null|
+|**2023-12-29**|**RS-DGC: Exploring Neighborhood Statistics for Dynamic Gradient Compression on Remote Sensing Image Interpretation**|Weiying Xie et.al.|[2312.17530](http://arxiv.org/abs/2312.17530)|null|
+|**2023-12-29**|**Noise-free Optimization in Early Training Steps for Image Super-Resolution**|MinKyu Lee et.al.|[2312.17526](http://arxiv.org/abs/2312.17526)|**[link](https://github.com/2minkyulee/eco)**|
+|**2023-12-29**|**Integrating Chemical Language and Molecular Graph in Multimodal Fused Deep Learning for Drug Property Prediction**|Xiaohua Lu et.al.|[2312.17495](http://arxiv.org/abs/2312.17495)|null|
+|**2023-12-29**|**ClST: A Convolutional Transformer Framework for Automatic Modulation Recognition by Knowledge Distillation**|Dongbin Hou et.al.|[2312.17446](http://arxiv.org/abs/2312.17446)|null|
+|**2023-12-28**|**Discovery of Small Ultra-short-period Planets Orbiting KG Dwarfs in Kepler Survey Using GPU Phase Folding and Deep Learning Detection System**|Kaitlyn Wang et.al.|[2312.17382](http://arxiv.org/abs/2312.17382)|null|
+|**2023-12-28**|**Can you See me? On the Visibility of NOPs against Android Malware Detectors**|Diego Soi et.al.|[2312.17356](http://arxiv.org/abs/2312.17356)|null|
+|**2023-12-28**|**Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods**|Beata E. Kowal et.al.|[2312.17298](http://arxiv.org/abs/2312.17298)|**[link](https://github.com/bekowal/carbonelectronneuralnetwork)**|
+|**2023-12-28**|**$μ$ GUIDE: a framework for microstructure imaging via generalized uncertainty-driven inference using deep learning**|Maëliss Jallais et.al.|[2312.17293](http://arxiv.org/abs/2312.17293)|null|
+|**2023-12-28**|**Gravitational wave: generation and detection techniques**|Saibal Ray et.al.|[2312.17291](http://arxiv.org/abs/2312.17291)|null|
+|**2023-12-28**|**Combining Convolution Neural Networks with Long-Short Time Memory Layers to Predict Parkinson's Disease Progression**|Maria Frasca et.al.|[2312.17290](http://arxiv.org/abs/2312.17290)|null|
+|**2023-12-28**|**Understanding Distributed Representations of Concepts in Deep Neural Networks without Supervision**|Wonjoon Chang et.al.|[2312.17285](http://arxiv.org/abs/2312.17285)|null|
+|**2023-12-25**|**$μ$ -Net: ConvNext-Based U-Nets for Cosmic Muon Tomography**|Li Xin Jed Lim et.al.|[2312.17265](http://arxiv.org/abs/2312.17265)|**[link](https://github.com/jedlimlx/Muon-Tomography-AI)**|
+|**2023-12-22**|**Transformer-Based Multi-Object Smoothing with Decoupled Data Association and Smoothing**|Juliano Pinto et.al.|[2312.17261](http://arxiv.org/abs/2312.17261)|null|
 |**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238](http://arxiv.org/abs/2312.17238)|**[link](https://github.com/dvmazur/mixtral-offloading)**|
 |**2023-12-28**|**EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**|Trung Tuan Dao et.al.|[2312.17205](http://arxiv.org/abs/2312.17205)|null|
 |**2023-12-28**|**Securing NextG Systems against Poisoning Attacks on Federated Learning: A Game-Theoretic Solution**|Yalin E. Sagduyu et.al.|[2312.17164](http://arxiv.org/abs/2312.17164)|null|
@@ -511,7 +531,7 @@ layout: default
 |**2023-12-28**|**Efficient Physics-Based Learned Reconstruction Methods for Real-Time 3D Near-Field MIMO Radar Imaging**|Irfan Manisali et.al.|[2312.16959](http://arxiv.org/abs/2312.16959)|**[link](https://github.com/metu-space-lab/efficient-learned-3d-near-field-mimo-imaging)**|
 |**2023-12-28**|**Attack Tree Analysis for Adversarial Evasion Attacks**|Yuki Yamaguchi et.al.|[2312.16957](http://arxiv.org/abs/2312.16957)|null|
 |**2023-12-28**|**SAR-Net: Multi-scale Direction-aware SAR Network via Global Information Fusion**|Mingxiang Cao et.al.|[2312.16943](http://arxiv.org/abs/2312.16943)|null|
-|**2023-12-28**|**Automatic Scoring of Cognition Drawings: Assessing the Quality of Machine-Based Scores Against a Gold Standard**|Arne Bethmann et.al.|[2312.16887](http://arxiv.org/abs/2312.16887)|null|
+|**2023-12-29**|**Automatic Scoring of Cognition Drawings: Assessing the Quality of Machine-Based Scores Against a Gold Standard**|Arne Bethmann et.al.|[2312.16887](http://arxiv.org/abs/2312.16887)|null|
 |**2023-12-28**|**Adversarial Attacks on Image Classification Models: Analysis and Defense**|Jaydip Sen et.al.|[2312.16880](http://arxiv.org/abs/2312.16880)|null|
 |**2023-12-28**|**METER: A Dynamic Concept Adaptation Framework for Online Anomaly Detection**|Jiaqi Zhu et.al.|[2312.16831](http://arxiv.org/abs/2312.16831)|null|
 |**2023-12-28**|**GUITAR: Gradient Pruning toward Fast Neural Ranking**|Weijie Zhao et.al.|[2312.16828](http://arxiv.org/abs/2312.16828)|null|
