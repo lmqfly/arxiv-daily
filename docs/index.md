@@ -506,6 +506,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822](http://arxiv.org/abs/2401.01822)|null|
+|**2024-01-03**|**Machine learning-assisted search for novel coagulants: when machine learning can be efficient even if data availability is low**|Andrij Rovenchak et.al.|[2401.01811](http://arxiv.org/abs/2401.01811)|null|
+|**2024-01-03**|**Deep learning the Hurst parameter of linear fractional processes and assessing its reliability**|Dániel Boros et.al.|[2401.01789](http://arxiv.org/abs/2401.01789)|null|
+|**2024-01-03**|**Ravnest: Decentralized Asynchronous Training on Heterogeneous Devices**|Anirudh Rajiv Menon et.al.|[2401.01728](http://arxiv.org/abs/2401.01728)|null|
+|**2024-01-03**|**AID-DTI: Accelerating High-fidelity Diffusion Tensor Imaging with Detail-Preserving Model-based Deep Learning**|Wenxin Fan et.al.|[2401.01693](http://arxiv.org/abs/2401.01693)|null|
+|**2024-01-03**|**Zero-shot Active Learning Using Self Supervised Learning**|Abhishek Sinha et.al.|[2401.01690](http://arxiv.org/abs/2401.01690)|null|
+|**2024-01-03**|**LESEN: Label-Efficient deep learning for Multi-parametric MRI-based Visual Pathway Segmentation**|Alou Diakite et.al.|[2401.01654](http://arxiv.org/abs/2401.01654)|null|
+|**2024-01-03**|**Synthetic Data in AI: Challenges, Applications, and Ethical Implications**|Shuang Hao et.al.|[2401.01629](http://arxiv.org/abs/2401.01629)|null|
+|**2024-01-03**|**On the Expressive Power of Graph Neural Networks**|Ashwin Nalwade et.al.|[2401.01626](http://arxiv.org/abs/2401.01626)|null|
+|**2024-01-03**|**Entropy-based Probing Beam Selection and Beam Prediction via Deep Learning**|Fan Meng et.al.|[2401.01609](http://arxiv.org/abs/2401.01609)|null|
+|**2024-01-03**|**Deep Learning Based Superposition Coded Modulation for Hierarchical Semantic Communications over Broadcast Channels**|Yufei Bo et.al.|[2401.01564](http://arxiv.org/abs/2401.01564)|null|
+|**2024-01-03**|**Multi-modal Learning with Missing Modality in Predicting Axillary Lymph Node Metastasis**|Shichuan Zhang et.al.|[2401.01553](http://arxiv.org/abs/2401.01553)|null|
+|**2024-01-03**|**Will 6G be Semantic Communications? Opportunities and Challenges from Task Oriented and Secure Communications to Integrated Sensing**|Yalin E. Sagduyu et.al.|[2401.01531](http://arxiv.org/abs/2401.01531)|null|
+|**2024-01-03**|**Expected Transaction Value Optimization for Precise Marketing in FinTech Platforms**|Yunpeng Weng et.al.|[2401.01525](http://arxiv.org/abs/2401.01525)|null|
+|**2024-01-03**|**Multimodal self-supervised learning for lesion localization**|Hao Yang et.al.|[2401.01524](http://arxiv.org/abs/2401.01524)|null|
+|**2024-01-03**|**Uncertainty Regularized Evidential Regression**|Kai Ye et.al.|[2401.01484](http://arxiv.org/abs/2401.01484)|**[link](https://github.com/flynnye/ur-ern)**|
+|**2024-01-02**|**A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook**|Mingyu Liu et.al.|[2401.01454](http://arxiv.org/abs/2401.01454)|null|
+|**2024-01-02**|**Calculating Quasi-Normal Modes of Schwarzschild Black Holes with Physics Informed Neural Networks**|Nirmal Patel et.al.|[2401.01440](http://arxiv.org/abs/2401.01440)|null|
+|**2024-01-02**|**Off-Road LiDAR Intensity Based Semantic Segmentation**|Kasi Viswanath et.al.|[2401.01439](http://arxiv.org/abs/2401.01439)|**[link](https://github.com/moonlabiiserb/lidar-intensity-predictor)**|
+|**2024-01-02**|**Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference**|Md Musfiqur Rahman et.al.|[2401.01426](http://arxiv.org/abs/2401.01426)|null|
+|**2024-01-01**|**Predicting Infant Brain Connectivity with Federated Multi-Trajectory GNNs using Scarce Data**|Michalis Pistos et.al.|[2401.01383](http://arxiv.org/abs/2401.01383)|null|
 |**2024-01-02**|**Learning solutions to some toy constrained optimization problems in infinite dimensional Hilbert spaces**|Pinak Mandal et.al.|[2401.01306](http://arxiv.org/abs/2401.01306)|null|
 |**2024-01-02**|**Integrating Edges into U-Net Models with Explainable Activation Maps for Brain Tumor Segmentation using MR Images**|Subin Sahayam et.al.|[2401.01303](http://arxiv.org/abs/2401.01303)|null|
 |**2024-01-02**|**Physics-informed Generalizable Wireless Channel Modeling with Segmentation and Deep Learning: Fundamentals, Methodologies, and Challenges**|Ethan Zhu et.al.|[2401.01288](http://arxiv.org/abs/2401.01288)|null|
@@ -540,7 +561,7 @@ layout: default
 |**2024-01-01**|**Graph-Convolutional Autoencoder Ensembles for the Humanities, Illustrated with a Study of the American Slave Trade**|Tom Lippincott et.al.|[2401.00824](http://arxiv.org/abs/2401.00824)|null|
 |**2024-01-01**|**GLIMPSE: Generalized Local Imaging with MLPs**|AmirEhsan Khorashadizadeh et.al.|[2401.00816](http://arxiv.org/abs/2401.00816)|null|
 |**2024-01-01**|**MPRE: Multi-perspective Patient Representation Extractor for Disease Prediction**|Ziyue Yu et.al.|[2401.00756](http://arxiv.org/abs/2401.00756)|null|
-|**2024-01-02**|**Harmonizing Covariance and Expressiveness for Deep Hamiltonian Regression in Crystalline Material Research: a Hybrid Cascaded Regression Framework**|Shi Yin et.al.|[2401.00744](http://arxiv.org/abs/2401.00744)|null|
+|**2024-01-03**|**Harmonizing Covariance and Expressiveness for Deep Hamiltonian Regression in Crystalline Material Research: a Hybrid Cascaded Regression Framework**|Shi Yin et.al.|[2401.00744](http://arxiv.org/abs/2401.00744)|null|
 |**2024-01-01**|**NightRain: Nighttime Video Deraining via Adaptive-Rain-Removal and Adaptive-Correction**|Beibei Lin et.al.|[2401.00729](http://arxiv.org/abs/2401.00729)|null|
 |**2024-01-01**|**MultiFusionNet: Multilayer Multimodal Fusion of Deep Neural Networks for Chest X-Ray Image Classification**|Saurabh Agarwal et.al.|[2401.00728](http://arxiv.org/abs/2401.00728)|null|
 |**2024-01-02**|**A Survey on Graph Neural Networks in Intelligent Transportation Systems**|Hourun Li et.al.|[2401.00713](http://arxiv.org/abs/2401.00713)|null|
