@@ -624,7 +624,7 @@ layout: default
 |**2023-12-28**|**Discovery of Small Ultra-short-period Planets Orbiting KG Dwarfs in Kepler Survey Using GPU Phase Folding and Deep Learning Detection System**|Kaitlyn Wang et.al.|[2312.17382](http://arxiv.org/abs/2312.17382)|null|
 |**2023-12-28**|**Can you See me? On the Visibility of NOPs against Android Malware Detectors**|Diego Soi et.al.|[2312.17356](http://arxiv.org/abs/2312.17356)|null|
 |**2023-12-28**|**Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods**|Beata E. Kowal et.al.|[2312.17298](http://arxiv.org/abs/2312.17298)|**[link](https://github.com/bekowal/carbonelectronneuralnetwork)**|
-|**2023-12-28**|**$μ$ GUIDE: a framework for microstructure imaging via generalized uncertainty-driven inference using deep learning**|Maëliss Jallais et.al.|[2312.17293](http://arxiv.org/abs/2312.17293)|null|
+|**2023-12-28**|**$μ$ GUIDE: a framework for microstructure imaging via generalized uncertainty-driven inference using deep learning**|Maëliss Jallais et.al.|[2312.17293](http://arxiv.org/abs/2312.17293)|**[link](https://github.com/mjallais/uguide)**|
 |**2023-12-28**|**Gravitational wave: generation and detection techniques**|Saibal Ray et.al.|[2312.17291](http://arxiv.org/abs/2312.17291)|null|
 |**2023-12-28**|**Combining Convolution Neural Networks with Long-Short Time Memory Layers to Predict Parkinson's Disease Progression**|Maria Frasca et.al.|[2312.17290](http://arxiv.org/abs/2312.17290)|null|
 |**2023-12-28**|**Understanding Distributed Representations of Concepts in Deep Neural Networks without Supervision**|Wonjoon Chang et.al.|[2312.17285](http://arxiv.org/abs/2312.17285)|null|
@@ -634,7 +634,7 @@ layout: default
 |**2023-12-30**|**EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**|Trung Tuan Dao et.al.|[2312.17205](http://arxiv.org/abs/2312.17205)|null|
 |**2023-12-28**|**Securing NextG Systems against Poisoning Attacks on Federated Learning: A Game-Theoretic Solution**|Yalin E. Sagduyu et.al.|[2312.17164](http://arxiv.org/abs/2312.17164)|null|
 |**2023-12-28**|**BEAST: Online Joint Beat and Downbeat Tracking Based on Streaming Transformer**|Chih-Cheng Chang et.al.|[2312.17156](http://arxiv.org/abs/2312.17156)|**[link](https://github.com/WildHoneyPie/BEAST)**|
-|**2023-12-28**|**AI Powered Road Network Prediction with Multi-Modal Data**|Necip Enes Gengec et.al.|[2312.17040](http://arxiv.org/abs/2312.17040)|null|
+|**2023-12-28**|**AI Powered Road Network Prediction with Multi-Modal Data**|Necip Enes Gengec et.al.|[2312.17040](http://arxiv.org/abs/2312.17040)|**[link](https://github.com/nagellette/sentinel_traj_nn)**|
 |**2023-12-28**|**Continual Learning in Medical Imaging Analysis: A Comprehensive Review of Recent Advancements and Future Prospects**|Pratibha Kumari et.al.|[2312.17004](http://arxiv.org/abs/2312.17004)|null|
 |**2023-12-28**|**Deep Unfolding Network with Spatial Alignment for multi-modal MRI reconstruction**|Hao Zhang et.al.|[2312.16998](http://arxiv.org/abs/2312.16998)|null|
 |**2023-12-28**|**3DTINC: Time-Equivariant Non-Contrastive Learning for Predicting Disease Progression from Longitudinal OCTs**|Taha Emre et.al.|[2312.16980](http://arxiv.org/abs/2312.16980)|null|
@@ -663,7 +663,7 @@ layout: default
 |**2023-12-26**|**Deep learning the nonclassicality within quasi-distribution representations from marginals**|Hong-Bin Chen et.al.|[2312.16055](http://arxiv.org/abs/2312.16055)|null|
 |**2023-12-26**|**A Self Supervised StyleGAN for Image Annotation and Classification with Extremely Limited Labels**|Dana Cohen Hochberg et.al.|[2312.15972](http://arxiv.org/abs/2312.15972)|null|
 |**2023-12-26**|**Enhancing Redundancy-based Automated Program Repair by Fine-grained Pattern Mining**|Jiajun Jiang et.al.|[2312.15955](http://arxiv.org/abs/2312.15955)|null|
-|**2023-12-26**|**ECHO: Efficient Dataset Condensation by Higher-Order Distribution Alignment**|Hansong Zhang et.al.|[2312.15927](http://arxiv.org/abs/2312.15927)|null|
+|**2023-12-26**|**ECHO: Efficient Dataset Condensation by Higher-Order Distribution Alignment**|Hansong Zhang et.al.|[2312.15927](http://arxiv.org/abs/2312.15927)|**[link](https://github.com/hansong-zhang/echo)**|
 |**2023-12-26**|**Heterogeneous Encoders Scaling In The Transformer For Neural Machine Translation**|Jia Cheng Hu et.al.|[2312.15872](http://arxiv.org/abs/2312.15872)|null|
 |**2023-12-26**|**Curricular and Cyclical Loss for Time Series Learning Strategy**|Chenxi Sun et.al.|[2312.15853](http://arxiv.org/abs/2312.15853)|null|
 |**2023-12-26**|**ShallowBlocker: Improving Set Similarity Joins for Blocking**|Nils Barlaug et.al.|[2312.15835](http://arxiv.org/abs/2312.15835)|null|
@@ -716,7 +716,7 @@ layout: default
 |**2023-12-22**|**AI Generated Signal for Wireless Sensing**|Hanxiang He et.al.|[2312.14563](http://arxiv.org/abs/2312.14563)|null|
 |**2023-12-22**|**Unsupervised Deep Learning Image Verification Method**|Enoch Solomon et.al.|[2312.14395](http://arxiv.org/abs/2312.14395)|null|
 |**2023-12-21**|**DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**|Qiaoyue Tang et.al.|[2312.14334](http://arxiv.org/abs/2312.14334)|**[link](https://github.com/ubc-systopia/DP-AdamBC)**|
-|**2023-12-21**|**Behaviour Modelling of Social Animals via Causal Structure Discovery and Graph Neural Networks**|Gaël Gendron et.al.|[2312.14333](http://arxiv.org/abs/2312.14333)|null|
+|**2023-12-21**|**Behaviour Modelling of Social Animals via Causal Structure Discovery and Graph Neural Networks**|Gaël Gendron et.al.|[2312.14333](http://arxiv.org/abs/2312.14333)|**[link](https://github.com/strong-ai-lab/behavior-causal-discovery)**|
 |**2023-12-21**|**Autoencoder Based Face Verification System**|Enoch Solomon et.al.|[2312.14301](http://arxiv.org/abs/2312.14301)|null|
 |**2023-12-21**|**Applications of Lipschitz neural networks to the Run 3 LHCb trigger system**|Blaise Delaney et.al.|[2312.14265](http://arxiv.org/abs/2312.14265)|null|
 |**2023-12-21**|**Low-power event-based face detection with asynchronous neuromorphic hardware**|Caterina Caccavella et.al.|[2312.14261](http://arxiv.org/abs/2312.14261)|null|
@@ -824,7 +824,7 @@ layout: default
 |**2023-12-19**|**Traffic Incident Database with Multiple Labels Including Various Perspective Environmental Information**|Shota Nishiyama et.al.|[2312.10737](http://arxiv.org/abs/2312.10737)|**[link](https://github.com/nissy-shota/v-tidb)**|
 |**2023-12-19**|**A Computationally Efficient Neural Video Compression Accelerator Based on a Sparse CNN-Transformer Hybrid Network**|Siyu Zhang et.al.|[2312.10716](http://arxiv.org/abs/2312.10716)|null|
 |**2023-12-17**|**CLDR: Contrastive Learning Drug Response Models from Natural Language Supervision**|Kun Li et.al.|[2312.10707](http://arxiv.org/abs/2312.10707)|null|
-|**2023-12-17**|**An Interpretable Deep Learning Approach for Skin Cancer Categorization**|Faysal Mahmud et.al.|[2312.10696](http://arxiv.org/abs/2312.10696)|null|
+|**2023-12-17**|**An Interpretable Deep Learning Approach for Skin Cancer Categorization**|Faysal Mahmud et.al.|[2312.10696](http://arxiv.org/abs/2312.10696)|**[link](https://github.com/faysal-md/an-interpretable-deep-learning-approach-for-skin-cancer-categorization-ieee2023)**|
 |**2023-12-17**|**An appointment with Reproducing Kernel Hilbert Space generated by Generalized Gaussian RBF as $L^2-$ measure**|Himanshu Singh et.al.|[2312.10693](http://arxiv.org/abs/2312.10693)|null|
 |**2023-12-17**|**Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc Retrieval**|Weihang Su et.al.|[2312.10661](http://arxiv.org/abs/2312.10661)|**[link](https://github.com/oneal2000/wikiformer)**|
 |**2023-12-17**|**Graft: Efficient Inference Serving for Hybrid Deep Learning with SLO Guarantees via DNN Re-alignment**|Jing Wu et.al.|[2312.10636](http://arxiv.org/abs/2312.10636)|null|
@@ -866,7 +866,7 @@ layout: default
 |**2023-12-15**|**nuScenes Knowledge Graph -- A comprehensive semantic representation of traffic scenes for trajectory prediction**|Leon Mlodzian et.al.|[2312.09676](http://arxiv.org/abs/2312.09676)|**[link](https://github.com/boschresearch/nuscenes_knowledge_graph)**|
 |**2023-12-15**|**Toward Deep Drum Source Separation**|Alessandro Ilic Mezza et.al.|[2312.09663](http://arxiv.org/abs/2312.09663)|**[link](https://github.com/polimi-ispl/larsnet)**|
 |**2023-12-15**|**A Malware Classification Survey on Adversarial Attacks and Defences**|Mahesh Datta Sai Ponnuru et.al.|[2312.09636](http://arxiv.org/abs/2312.09636)|null|
-|**2023-12-15**|**Stethoscope-guided Supervised Contrastive Learning for Cross-domain Adaptation on Respiratory Sound Classification**|June-Woo Kim et.al.|[2312.09603](http://arxiv.org/abs/2312.09603)|null|
+|**2023-12-15**|**Stethoscope-guided Supervised Contrastive Learning for Cross-domain Adaptation on Respiratory Sound Classification**|June-Woo Kim et.al.|[2312.09603](http://arxiv.org/abs/2312.09603)|**[link](https://github.com/kaen2891/stethoscope-guided_supervised_contrastive_learning)**|
 |**2023-12-15**|**NeuroFlow: Development of lightweight and efficient model integration scheduling strategy for autonomous driving system**|Eunbin Seo et.al.|[2312.09588](http://arxiv.org/abs/2312.09588)|null|
 |**2023-12-15**|**A 1.6-mW Sparse Deep Learning Accelerator for Speech Separation**|Chih-Chyau Yang et.al.|[2312.09580](http://arxiv.org/abs/2312.09580)|null|
 |**2023-12-15**|**SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma**|Xiangde Luo et.al.|[2312.09576](http://arxiv.org/abs/2312.09576)|null|
