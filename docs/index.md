@@ -375,6 +375,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**Scaling Laws Governing the Elastic Properties of 3D-Graphenes**|Ming Li et.al.|[2401.02689](http://arxiv.org/abs/2401.02689)|null|
+|**2024-01-05**|**Thermal transport of confined water molecules in quasi-one-dimensional nanotubes**|Shun Imamura et.al.|[2401.02595](http://arxiv.org/abs/2401.02595)|null|
 |**2024-01-04**|**Sensitivity of peptide conformational dynamics in carbon nanotubes to directional mechanical forces**|Felipe C. Nepomuceno et.al.|[2401.02352](http://arxiv.org/abs/2401.02352)|null|
 |**2024-01-04**|**Factors resisting protein adsorption on hydrophilic/hydrophobic self-assembled monolayers terminated with hydrophilic hydroxyl groups**|Dangxin Mao et.al.|[2401.02169](http://arxiv.org/abs/2401.02169)|null|
 |**2024-01-03**|**Observation of Liquid Glass in Molecular Dynamics Simulations**|Mohammed Alhissi et.al.|[2401.01938](http://arxiv.org/abs/2401.01938)|null|
@@ -509,6 +511,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**State Derivative Normalization for Continuous-Time Deep Neural Networks**|Jonas Weigand et.al.|[2401.02902](http://arxiv.org/abs/2401.02902)|null|
+|**2024-01-05**|**Nonlinear functional regression by functional deep neural network with kernel embedding**|Zhongjie Shi et.al.|[2401.02890](http://arxiv.org/abs/2401.02890)|null|
+|**2024-01-05**|**SpatialVisVR: An Immersive, Multiplexed Medical Image Viewer With Contextual Similar-Patient Search**|Jai Prakash Veerla et.al.|[2401.02882](http://arxiv.org/abs/2401.02882)|null|
+|**2024-01-05**|**Detection and Classification of Diabetic Retinopathy using Deep Learning Algorithms for Segmentation to Facilitate Referral Recommendation for Test and Treatment Prediction**|Manoj S H et.al.|[2401.02759](http://arxiv.org/abs/2401.02759)|**[link](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System)**|
+|**2024-01-05**|**The Vulnerability Is in the Details: Locating Fine-grained Information of Vulnerable Code Identified by Graph-based Detectors**|Baijun Cheng et.al.|[2401.02737](http://arxiv.org/abs/2401.02737)|null|
+|**2024-01-05**|**Predicting Traffic Flow with Federated Learning and Graph Neural with Asynchronous Computations Network**|Muhammad Yaqub et.al.|[2401.02723](http://arxiv.org/abs/2401.02723)|null|
+|**2024-01-05**|**Beyond Fidelity: Explaining Vulnerability Localization of Learning-based Detectors**|Baijun Cheng et.al.|[2401.02686](http://arxiv.org/abs/2401.02686)|null|
+|**2024-01-05**|**Zero-shot Microclimate Prediction with Deep Learning**|Iman Deznabi et.al.|[2401.02665](http://arxiv.org/abs/2401.02665)|null|
+|**2024-01-05**|**A backdoor attack against link prediction tasks with graph neural networks**|Jiazhu Dai et.al.|[2401.02663](http://arxiv.org/abs/2401.02663)|null|
+|**2024-01-05**|**MalModel: Hiding Malicious Payload in Mobile Deep Learning Models with Black-box Backdoor Attack**|Jiayi Hua et.al.|[2401.02659](http://arxiv.org/abs/2401.02659)|null|
+|**2024-01-05**|**Model-Agnostic Interpretation Framework in Machine Learning: A Comparative Study in NBA Sports**|Shun Liu et.al.|[2401.02630](http://arxiv.org/abs/2401.02630)|null|
+|**2024-01-05**|**Importance Matching Lemma for Lossy Compression with Side Information**|Buu Phan et.al.|[2401.02609](http://arxiv.org/abs/2401.02609)|null|
+|**2024-01-05**|**Neural Causal Abstractions**|Kevin Xia et.al.|[2401.02602](http://arxiv.org/abs/2401.02602)|null|
+|**2024-01-05**|**Synthetic Information towards Maximum Posterior Ratio for deep learning on Imbalanced Data**|Hung Nguyen et.al.|[2401.02591](http://arxiv.org/abs/2401.02591)|null|
+|**2024-01-04**|**Autonomous Multi-Rotor UAVs: A Holistic Approach to Design, Optimization, and Fabrication**|Aniruth A et.al.|[2401.02541](http://arxiv.org/abs/2401.02541)|null|
+|**2024-01-04**|**Image-based Deep Learning for Smart Digital Twins: a Review**|Md Ruman Islam et.al.|[2401.02523](http://arxiv.org/abs/2401.02523)|null|
+|**2024-01-04**|**A comprehensive survey of research towards AI-enabled unmanned aerial systems in pre-, active-, and post-wildfire management**|Sayed Pedram Haeri Boroujeni et.al.|[2401.02456](http://arxiv.org/abs/2401.02456)|null|
+|**2024-01-03**|**Locally Differentially Private Embedding Models in Distributed Fraud Prevention Systems**|Iker Perez et.al.|[2401.02450](http://arxiv.org/abs/2401.02450)|null|
 |**2024-01-04**|**Generating synthetic data for neural operators**|Erisa Hasani et.al.|[2401.02398](http://arxiv.org/abs/2401.02398)|**[link](https://github.com/erisahasani/synthetic-data-for-neural-operators)**|
 |**2024-01-04**|**Integration of physics-informed operator learning and finite element method for parametric learning of partial differential equations**|Shahed Rezaei et.al.|[2401.02363](http://arxiv.org/abs/2401.02363)|null|
 |**2024-01-04**|**A novel method to enhance pneumonia detection via a model-level ensembling of CNN and vision transformer**|Sandeep Angara et.al.|[2401.02358](http://arxiv.org/abs/2401.02358)|null|
