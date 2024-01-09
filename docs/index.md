@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -520,7 +520,7 @@ layout: default
 |**2024-01-05**|**Beyond Fidelity: Explaining Vulnerability Localization of Learning-based Detectors**|Baijun Cheng et.al.|[2401.02686](http://arxiv.org/abs/2401.02686)|null|
 |**2024-01-05**|**Zero-shot Microclimate Prediction with Deep Learning**|Iman Deznabi et.al.|[2401.02665](http://arxiv.org/abs/2401.02665)|null|
 |**2024-01-05**|**A backdoor attack against link prediction tasks with graph neural networks**|Jiazhu Dai et.al.|[2401.02663](http://arxiv.org/abs/2401.02663)|null|
-|**2024-01-05**|**MalModel: Hiding Malicious Payload in Mobile Deep Learning Models with Black-box Backdoor Attack**|Jiayi Hua et.al.|[2401.02659](http://arxiv.org/abs/2401.02659)|null|
+|**2024-01-05**|**MalModel: Hiding Malicious Payload in Mobile Deep Learning Models with Black-box Backdoor Attack**|Jiayi Hua et.al.|[2401.02659](http://arxiv.org/abs/2401.02659)|**[link](https://github.com/hjygh/malmodel)**|
 |**2024-01-05**|**Model-Agnostic Interpretation Framework in Machine Learning: A Comparative Study in NBA Sports**|Shun Liu et.al.|[2401.02630](http://arxiv.org/abs/2401.02630)|null|
 |**2024-01-05**|**Importance Matching Lemma for Lossy Compression with Side Information**|Buu Phan et.al.|[2401.02609](http://arxiv.org/abs/2401.02609)|null|
 |**2024-01-05**|**Neural Causal Abstractions**|Kevin Xia et.al.|[2401.02602](http://arxiv.org/abs/2401.02602)|null|
@@ -545,7 +545,7 @@ layout: default
 |**2024-01-03**|**A Comparative Study with Traditional and Transfer Learning-enhanced Machine Learning Algorithms for Geotechnical Characterisation of Coal Spoil**|Sureka Thiruchittampalam et.al.|[2401.01969](http://arxiv.org/abs/2401.01969)|null|
 |**2024-01-01**|**Backdoor Attack on Unpaired Medical Image-Text Foundation Models: A Pilot Study on MedCLIP**|Ruinan Jin et.al.|[2401.01911](http://arxiv.org/abs/2401.01911)|null|
 |**2024-01-04**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822](http://arxiv.org/abs/2401.01822)|null|
-|**2024-01-03**|**Machine learning-assisted search for novel coagulants: when machine learning can be efficient even if data availability is low**|Andrij Rovenchak et.al.|[2401.01811](http://arxiv.org/abs/2401.01811)|null|
+|**2024-01-03**|**Machine learning-assisted search for novel coagulants: when machine learning can be efficient even if data availability is low**|Andrij Rovenchak et.al.|[2401.01811](http://arxiv.org/abs/2401.01811)|**[link](https://github.com/mksmd/ae100_for_coagulants)**|
 |**2024-01-03**|**Deep learning the Hurst parameter of linear fractional processes and assessing its reliability**|Dániel Boros et.al.|[2401.01789](http://arxiv.org/abs/2401.01789)|null|
 |**2024-01-03**|**Ravnest: Decentralized Asynchronous Training on Heterogeneous Devices**|Anirudh Rajiv Menon et.al.|[2401.01728](http://arxiv.org/abs/2401.01728)|null|
 |**2024-01-03**|**AID-DTI: Accelerating High-fidelity Diffusion Tensor Imaging with Detail-Preserving Model-based Deep Learning**|Wenxin Fan et.al.|[2401.01693](http://arxiv.org/abs/2401.01693)|null|
