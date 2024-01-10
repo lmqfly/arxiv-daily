@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.09
+## Updated on 2024.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -550,7 +550,7 @@ layout: default
 |**2024-01-06**|**Deep learning algorithms for FBSDEs with jumps: Applications to option pricing and a MFG model for smart grids**|Clémence Alasseur et.al.|[2401.03245](http://arxiv.org/abs/2401.03245)|null|
 |**2024-01-06**|**Interpreting Adaptive Gradient Methods by Parameter Scaling for Learning-Rate-Free Optimization**|Min-Kook Suh et.al.|[2401.03240](http://arxiv.org/abs/2401.03240)|null|
 |**2024-01-06**|**Convergence Rate Maximization for Split Learning-based Control of EMG Prosthetic Devices**|Matea Marinova et.al.|[2401.03233](http://arxiv.org/abs/2401.03233)|null|
-|**2024-01-06**|**MetaISP -- Exploiting Global Scene Structure for Accurate Multi-Device Color Rendition**|Matheus Souza et.al.|[2401.03220](http://arxiv.org/abs/2401.03220)|null|
+|**2024-01-06**|**MetaISP -- Exploiting Global Scene Structure for Accurate Multi-Device Color Rendition**|Matheus Souza et.al.|[2401.03220](http://arxiv.org/abs/2401.03220)|**[link](https://github.com/vccimaging/MetaISP)**|
 |**2024-01-06**|**End-to-End Anti-Backdoor Learning on Images and Time Series**|Yujing Jiang et.al.|[2401.03215](http://arxiv.org/abs/2401.03215)|null|
 |**2024-01-06**|**Distribution-aware Interactive Attention Network and Large-scale Cloud Recognition Benchmark on FY-4A Satellite Image**|Jiaqing Zhang et.al.|[2401.03182](http://arxiv.org/abs/2401.03182)|null|
 |**2024-01-06**|**Part-of-Speech Tagger for Bodo Language using Deep Learning approach**|Dhrubajyoti Pathak et.al.|[2401.03175](http://arxiv.org/abs/2401.03175)|null|
@@ -582,7 +582,7 @@ layout: default
 |**2024-01-05**|**Model-Agnostic Interpretation Framework in Machine Learning: A Comparative Study in NBA Sports**|Shun Liu et.al.|[2401.02630](http://arxiv.org/abs/2401.02630)|null|
 |**2024-01-05**|**Importance Matching Lemma for Lossy Compression with Side Information**|Buu Phan et.al.|[2401.02609](http://arxiv.org/abs/2401.02609)|null|
 |**2024-01-05**|**Neural Causal Abstractions**|Kevin Xia et.al.|[2401.02602](http://arxiv.org/abs/2401.02602)|null|
-|**2024-01-05**|**Synthetic Information towards Maximum Posterior Ratio for deep learning on Imbalanced Data**|Hung Nguyen et.al.|[2401.02591](http://arxiv.org/abs/2401.02591)|null|
+|**2024-01-05**|**Synthetic Information towards Maximum Posterior Ratio for deep learning on Imbalanced Data**|Hung Nguyen et.al.|[2401.02591](http://arxiv.org/abs/2401.02591)|**[link](https://github.com/nsh135/_simpor_)**|
 |**2024-01-04**|**Autonomous Multi-Rotor UAVs: A Holistic Approach to Design, Optimization, and Fabrication**|Aniruth A et.al.|[2401.02541](http://arxiv.org/abs/2401.02541)|null|
 |**2024-01-04**|**Image-based Deep Learning for Smart Digital Twins: a Review**|Md Ruman Islam et.al.|[2401.02523](http://arxiv.org/abs/2401.02523)|null|
 |**2024-01-04**|**A comprehensive survey of research towards AI-enabled unmanned aerial systems in pre-, active-, and post-wildfire management**|Sayed Pedram Haeri Boroujeni et.al.|[2401.02456](http://arxiv.org/abs/2401.02456)|null|
