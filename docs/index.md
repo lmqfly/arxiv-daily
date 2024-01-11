@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.10
+## Updated on 2024.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -555,7 +555,7 @@ layout: default
 |**2024-01-08**|**End-to-End Crystal Structure Prediction from Powder X-Ray Diffraction**|Qingsi Lai et.al.|[2401.03862](http://arxiv.org/abs/2401.03862)|null|
 |**2024-01-08**|**A topological description of loss surfaces based on Betti Numbers**|Maria Sofia Bucarelli et.al.|[2401.03824](http://arxiv.org/abs/2401.03824)|null|
 |**2024-01-08**|**Towards interpreting the thermally activated $β$ dynamics in metallic glass with the structural constraint neural network**|Xiao Jiang et.al.|[2401.03743](http://arxiv.org/abs/2401.03743)|null|
-|**2024-01-08**|**Universal Time-Series Representation Learning: A Survey**|Patara Trirat et.al.|[2401.03717](http://arxiv.org/abs/2401.03717)|null|
+|**2024-01-08**|**Universal Time-Series Representation Learning: A Survey**|Patara Trirat et.al.|[2401.03717](http://arxiv.org/abs/2401.03717)|**[link](https://github.com/itouchz/awesome-deep-time-series-representations)**|
 |**2024-01-08**|**A Large-scale Empirical Study on Improving the Fairness of Deep Learning Models**|Junjie Yang et.al.|[2401.03695](http://arxiv.org/abs/2401.03695)|**[link](https://github.com/junjie1003/DL-Fairness-Study)**|
 |**2024-01-08**|**An exploratory study on automatic identification of assumptions in the development of deep learning frameworks**|Chen Yanga et.al.|[2401.03653](http://arxiv.org/abs/2401.03653)|null|
 |**2024-01-08**|**Deep Learning for Visual Neuroprosthesis**|Peter Beech et.al.|[2401.03639](http://arxiv.org/abs/2401.03639)|null|
