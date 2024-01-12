@@ -377,6 +377,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Giant piezoelectric effects of topological structures in stretched ferroelectric membranes**|Yihao Hu et.al.|[2401.05789](http://arxiv.org/abs/2401.05789)|null|
+|**2024-01-10**|**Phase discovery with active learning: Application to structural phase transitions in equiatomic NiTi**|Jonathan Vandermause et.al.|[2401.05568](http://arxiv.org/abs/2401.05568)|null|
 |**2024-01-05**|**Tailoring Frictional Properties of Surfaces Using Diffusion Models**|Even Marius Nordhagen et.al.|[2401.05206](http://arxiv.org/abs/2401.05206)|null|
 |**2024-01-10**|**Thermomechanical Dissipative behaviour of CuZr metallic glasses**|Matias Sepulveda-Macias et.al.|[2401.05117](http://arxiv.org/abs/2401.05117)|null|
 |**2024-01-10**|**Exploring the formation of gold/silver nanoalloys with gas-phase synthesis and machine-learning assisted simulations**|Quentin Gromoff et.al.|[2401.05106](http://arxiv.org/abs/2401.05106)|null|
@@ -521,6 +523,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Modeling the Asymptotic Behavior of Higher-Order Aftershocks with Deep Learning**|Leila Mizrahi et.al.|[2401.06075](http://arxiv.org/abs/2401.06075)|null|
+|**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040](http://arxiv.org/abs/2401.06040)|**[link](https://github.com/qqian99/wavgcrn)**|
+|**2024-01-11**|**Automatic UAV-based Airport Pavement Inspection Using Mixed Real and Virtual Scenarios**|Pablo Alonso et.al.|[2401.06019](http://arxiv.org/abs/2401.06019)|null|
+|**2024-01-11**|**An attempt to generate new bridge types from latent space of PixelCNN**|Hongjun Zhang et.al.|[2401.05964](http://arxiv.org/abs/2401.05964)|**[link](https://github.com/QQ583304953/Bridge-PixelCNN)**|
+|**2024-01-11**|**Time Series Forecasting of HIV/AIDS in the Philippines Using Deep Learning: Does COVID-19 Epidemic Matter?**|Sales G. Aribe Jr. et.al.|[2401.05933](http://arxiv.org/abs/2401.05933)|null|
+|**2024-01-11**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
+|**2024-01-11**|**ConKeD: Multiview contrastive descriptor learning for keypoint-based retinal image registration**|David Rivas-Villar et.al.|[2401.05901](http://arxiv.org/abs/2401.05901)|null|
+|**2024-01-11**|**The Role of Deep Learning in Advancing Proactive Cybersecurity Measures for Smart Grid Networks: A Survey**|Nima Abdi et.al.|[2401.05896](http://arxiv.org/abs/2401.05896)|null|
+|**2024-01-11**|**Giant piezoelectric effects of topological structures in stretched ferroelectric membranes**|Yihao Hu et.al.|[2401.05789](http://arxiv.org/abs/2401.05789)|null|
+|**2024-01-11**|**Knowledge Translation: A New Pathway for Model Compression**|Wujie Sun et.al.|[2401.05772](http://arxiv.org/abs/2401.05772)|**[link](https://github.com/zju-swj/kt)**|
+|**2024-01-11**|**Evaluating Data Augmentation Techniques for Coffee Leaf Disease Classification**|Adrian Gheorghiu et.al.|[2401.05768](http://arxiv.org/abs/2401.05768)|null|
+|**2024-01-11**|**Feature Selection for Functional Data Classification**|Tobia Boschi et.al.|[2401.05765](http://arxiv.org/abs/2401.05765)|null|
+|**2024-01-11**|**Self Expanding Convolutional Neural Networks**|Blaise Appolinary et.al.|[2401.05686](http://arxiv.org/abs/2401.05686)|null|
+|**2024-01-11**|**Deep Learning Meets Mechanism Design: Key Results and Some Novel Applications**|V. Udaya Sankar et.al.|[2401.05683](http://arxiv.org/abs/2401.05683)|null|
+|**2024-01-11**|**End-to-End Learning for SLP-Based ISAC Systems**|Yixian Zheng et.al.|[2401.05663](http://arxiv.org/abs/2401.05663)|null|
+|**2024-01-11**|**MatSAM: Efficient Materials Microstructure Extraction via Visual Large Model**|Changtai Li et.al.|[2401.05638](http://arxiv.org/abs/2401.05638)|null|
+|**2024-01-11**|**Face-GPS: A Comprehensive Technique for Quantifying Facial Muscle Dynamics in Videos**|Juni Kim et.al.|[2401.05625](http://arxiv.org/abs/2401.05625)|null|
+|**2024-01-11**|**Galactic-Seismology Substructures and Streams Hunter with LAMOST and Gaia. I. Methodology and Local Halo Results**|Guan-Yu Wang et.al.|[2401.05620](http://arxiv.org/abs/2401.05620)|null|
+|**2024-01-11**|**Self-Attention and Hybrid Features for Replay and Deep-Fake Audio Detection**|Lian Huang et.al.|[2401.05614](http://arxiv.org/abs/2401.05614)|null|
+|**2024-01-10**|**Siamese Networks with Soft Labels for Unsupervised Lesion Detection and Patch Pretraining on Screening Mammograms**|Kevin Van Vorst et.al.|[2401.05570](http://arxiv.org/abs/2401.05570)|null|
+|**2024-01-10**|**SENet: Visual Detection of Online Social Engineering Attack Campaigns**|Irfan Ozen et.al.|[2401.05569](http://arxiv.org/abs/2401.05569)|null|
+|**2024-01-10**|**VI-PANN: Harnessing Transfer Learning and Uncertainty-Aware Variational Inference for Improved Generalization in Audio Pattern Recognition**|John Fischer et.al.|[2401.05531](http://arxiv.org/abs/2401.05531)|null|
+|**2024-01-10**|**Standardizing Your Training Process for Human Activity Recognition Models: A Comprehensive Review in the Tunable Factors**|Yiran Huang et.al.|[2401.05477](http://arxiv.org/abs/2401.05477)|null|
+|**2024-01-10**|**Modelling Species Distributions with Deep Learning to Predict Plant Extinction Risk and Assess Climate Change Impacts**|Joaquim Estopinan et.al.|[2401.05470](http://arxiv.org/abs/2401.05470)|**[link](https://github.com/estopinj/iucn_classification)**|
+|**2024-01-09**|**Cuff-less Arterial Blood Pressure Waveform Synthesis from Single-site PPG using Transformer & Frequency-domain Learning**|Muhammad Ahmad Tahir et.al.|[2401.05452](http://arxiv.org/abs/2401.05452)|null|
+|**2024-01-09**|**Data discovery of low dimensional fluid dynamics of turbulent flows**|X. Lin et.al.|[2401.05449](http://arxiv.org/abs/2401.05449)|null|
+|**2024-01-09**|**Self-supervised Learning for Electroencephalogram: A Systematic Survey**|Weining Weng et.al.|[2401.05446](http://arxiv.org/abs/2401.05446)|null|
+|**2024-01-08**|**Physics-informed Deep Learning to Solve Three-dimensional Terzaghi Consolidation Equation: Forward and Inverse Problems**|Biao Yuan et.al.|[2401.05439](http://arxiv.org/abs/2401.05439)|null|
+|**2024-01-07**|**Deep OFDM Channel Estimation: Capturing Frequency Recurrence**|Abu Shafin Mohammad Mahdee Jameel et.al.|[2401.05436](http://arxiv.org/abs/2401.05436)|null|
 |**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223](http://arxiv.org/abs/2401.05223)|null|
 |**2024-01-10**|**Video-based Automatic Lameness Detection of Dairy Cows using Pose Estimation and Multiple Locomotion Traits**|Helena Russello et.al.|[2401.05202](http://arxiv.org/abs/2401.05202)|null|
 |**2024-01-10**|**CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**|Yinghui Xing et.al.|[2401.05153](http://arxiv.org/abs/2401.05153)|null|
@@ -558,7 +589,7 @@ layout: default
 |**2024-01-09**|**Fine-Grained Embedding Dimension Optimization During Training for Recommender Systems**|Qinyi Luo et.al.|[2401.04408](http://arxiv.org/abs/2401.04408)|null|
 |**2024-01-09**|**MapAI: Precision in Building Segmentation**|Sander Riisøen Jyhne et.al.|[2401.04406](http://arxiv.org/abs/2401.04406)|**[link](https://github.com/sjyhne/mapai-competition)**|
 |**2024-01-09**|**IGNITE: Individualized GeNeration of Imputations in Time-series Electronic health records**|Ghadeer O. Ghosheh et.al.|[2401.04402](http://arxiv.org/abs/2401.04402)|**[link](https://github.com/ghadeer-ghosheh/ignite)**|
-|**2024-01-09**|**OrthoSeisnet: Seismic Inversion through Orthogonal Multi-scale Frequency Domain U-Net for Geophysical Exploration**|Supriyo Chakraborty et.al.|[2401.04393](http://arxiv.org/abs/2401.04393)|null|
+|**2024-01-09**|**OrthoSeisnet: Seismic Inversion through Orthogonal Multi-scale Frequency Domain U-Net for Geophysical Exploration**|Supriyo Chakraborty et.al.|[2401.04393](http://arxiv.org/abs/2401.04393)|**[link](https://github.com/supriyo100/orthoseisnet)**|
 |**2024-01-09**|**Learning with Noisy Labels: Interconnection of Two Expectation-Maximizations**|Heewon Kim et.al.|[2401.04390](http://arxiv.org/abs/2401.04390)|null|
 |**2024-01-09**|**G-Meta: Distributed Meta Learning in GPU Clusters for Large-Scale Recommender Systems**|Youshao Xiao et.al.|[2401.04338](http://arxiv.org/abs/2401.04338)|null|
 |**2024-01-09**|**BD-MSA: Body decouple VHR Remote Sensing Image Change Detection method guided by multi-scale feature information aggregation**|Yonghui Tan et.al.|[2401.04330](http://arxiv.org/abs/2401.04330)|null|
