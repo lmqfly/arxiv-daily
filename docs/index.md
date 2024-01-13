@@ -557,7 +557,7 @@ layout: default
 |**2024-01-10**|**CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**|Yinghui Xing et.al.|[2401.05153](http://arxiv.org/abs/2401.05153)|null|
 |**2024-01-10**|**Disorder-induced enhancement of lithium-ion transport in solid-state electrolytes**|Zhimin Chen et.al.|[2401.05151](http://arxiv.org/abs/2401.05151)|null|
 |**2024-01-10**|**DISCOVER: 2-D Multiview Summarization of Optical Coherence Tomography Angiography for Automatic Diabetic Retinopathy Diagnosis**|Mostafa El Habib Daho et.al.|[2401.05137](http://arxiv.org/abs/2401.05137)|null|
-|**2024-01-10**|**Code Review Automation: Strengths and Weaknesses of the State of the Art**|Rosalia Tufano et.al.|[2401.05136](http://arxiv.org/abs/2401.05136)|null|
+|**2024-01-10**|**Code Review Automation: Strengths and Weaknesses of the State of the Art**|Rosalia Tufano et.al.|[2401.05136](http://arxiv.org/abs/2401.05136)|**[link](https://github.com/codereviewautomationsota/code_review_automation_sota)**|
 |**2024-01-10**|**Search for Long-lived Particles at Future Lepton Colliders Using Deep Learning Techniques**|Yulei Zhang et.al.|[2401.05094](http://arxiv.org/abs/2401.05094)|null|
 |**2024-01-10**|**Hierarchical Classification of Transversal Skills in Job Ads Based on Sentence Embeddings**|Florin Leon et.al.|[2401.05073](http://arxiv.org/abs/2401.05073)|null|
 |**2024-01-10**|**Application of Deep Learning in Blind Motion Deblurring: Current Status and Future Prospects**|Yawen Xiang et.al.|[2401.05055](http://arxiv.org/abs/2401.05055)|**[link](https://github.com/visionverse/blind-motion-deblurring-survey)**|
