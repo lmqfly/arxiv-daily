@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.12
+## Updated on 2024.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -548,7 +548,7 @@ layout: default
 |**2024-01-10**|**Standardizing Your Training Process for Human Activity Recognition Models: A Comprehensive Review in the Tunable Factors**|Yiran Huang et.al.|[2401.05477](http://arxiv.org/abs/2401.05477)|null|
 |**2024-01-10**|**Modelling Species Distributions with Deep Learning to Predict Plant Extinction Risk and Assess Climate Change Impacts**|Joaquim Estopinan et.al.|[2401.05470](http://arxiv.org/abs/2401.05470)|**[link](https://github.com/estopinj/iucn_classification)**|
 |**2024-01-09**|**Cuff-less Arterial Blood Pressure Waveform Synthesis from Single-site PPG using Transformer & Frequency-domain Learning**|Muhammad Ahmad Tahir et.al.|[2401.05452](http://arxiv.org/abs/2401.05452)|null|
-|**2024-01-09**|**Data discovery of low dimensional fluid dynamics of turbulent flows**|X. Lin et.al.|[2401.05449](http://arxiv.org/abs/2401.05449)|null|
+|**2024-01-09**|**Data discovery of low dimensional fluid dynamics of turbulent flows**|X. Lin et.al.|[2401.05449](http://arxiv.org/abs/2401.05449)|**[link](https://github.com/CFD-NIROM/SAE-POD-SINDy)**|
 |**2024-01-09**|**Self-supervised Learning for Electroencephalogram: A Systematic Survey**|Weining Weng et.al.|[2401.05446](http://arxiv.org/abs/2401.05446)|null|
 |**2024-01-08**|**Physics-informed Deep Learning to Solve Three-dimensional Terzaghi Consolidation Equation: Forward and Inverse Problems**|Biao Yuan et.al.|[2401.05439](http://arxiv.org/abs/2401.05439)|null|
 |**2024-01-07**|**Deep OFDM Channel Estimation: Capturing Frequency Recurrence**|Abu Shafin Mohammad Mahdee Jameel et.al.|[2401.05436](http://arxiv.org/abs/2401.05436)|null|
