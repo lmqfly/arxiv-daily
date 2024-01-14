@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.13
+## Updated on 2024.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -86,7 +86,7 @@
 |**2017-04-19**|**Fast Kronecker product kernel methods via generalized vec trick**|Antti Airola et.al.|[1601.01507](http://arxiv.org/abs/1601.01507)|null|
 |**2015-03-12**|**Classification and its applications for drug-target interaction identification**|Jian-Ping Mei et.al.|[1502.04469](http://arxiv.org/abs/1502.04469)|null|
 
-<p align=right>(<a href=#updated-on-20240113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240114>back to top</a>)</p>
 
 ## DDI
 
@@ -192,7 +192,7 @@
 |**2014-11-06**|**A network inference method for large-scale unsupervised identification of novel drug-drug interactions**|Roger Guimera et.al.|[1411.1528](http://arxiv.org/abs/1411.1528)|null|
 |**2012-10-02**|**Evaluation of linear classifiers on articles containing pharmacokinetic evidence of drug-drug interactions**|Artemy Kolchinsky et.al.|[1210.0734](http://arxiv.org/abs/1210.0734)|null|
 
-<p align=right>(<a href=#updated-on-20240113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240114>back to top</a>)</p>
 
 ## MG
 
@@ -273,7 +273,7 @@
 |**2017-05-17**|**Molecular Generation with Recurrent Neural Networks (RNNs)**|Esben Jannik Bjerrum et.al.|[1705.04612](http://arxiv.org/abs/1705.04612)|null|
 |**2017-10-16**|**Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control**|Natasha Jaques et.al.|[1611.02796](http://arxiv.org/abs/1611.02796)|null|
 
-<p align=right>(<a href=#updated-on-20240113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240114>back to top</a>)</p>
 
 ## MPP
 
@@ -387,7 +387,7 @@
 |**2022-10-25**|**Pre-training via Denoising for Molecular Property Prediction**|Sheheryar Zaidi et.al.|[2206.00133](http://arxiv.org/abs/2206.00133)|**[link](https://github.com/shehzaidi/pre-training-via-denoising)**|
 |**2022-05-26**|**Triangular Contrastive Learning on Molecular Graphs**|MinGyu Choi et.al.|[2205.13279](http://arxiv.org/abs/2205.13279)|null|
 
-<p align=right>(<a href=#updated-on-20240113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240114>back to top</a>)</p>
 
 ## MD
 
@@ -535,7 +535,7 @@
 |**2023-10-08**|**Pressure-driven homogenization of lithium disilicate glasses**|Yasser Bakhouch et.al.|[2310.05278](http://arxiv.org/abs/2310.05278)|null|
 |**2023-10-07**|**From shear bands to earthquakes in a model granular material with contact aging**|E. A. Jagla et.al.|[2310.04890](http://arxiv.org/abs/2310.04890)|null|
 
-<p align=right>(<a href=#updated-on-20240113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240114>back to top</a>)</p>
 
 ## Transformer
 
@@ -634,7 +634,7 @@
 |**2024-01-10**|**An exploratory study on automatic identification of assumptions in the development of deep learning frameworks**|Chen Yang et.al.|[2401.03653](http://arxiv.org/abs/2401.03653)|null|
 |**2024-01-08**|**Deep Learning for Visual Neuroprosthesis**|Peter Beech et.al.|[2401.03639](http://arxiv.org/abs/2401.03639)|null|
 |**2024-01-08**|**A Video Coding Method Based on Neural Network for CLIC2024**|Zhengang Li et.al.|[2401.03623](http://arxiv.org/abs/2401.03623)|null|
-|**2024-01-08**|**Machine Learning Applications in Traumatic Brain Injury Diagnosis and Prognosis: A Spotlight on Mild TBI and CT Imaging**|Hanem Ellethy et.al.|[2401.03621](http://arxiv.org/abs/2401.03621)|null|
+|**2024-01-11**|**Machine Learning Applications in Traumatic Brain Injury: A Spotlight on Mild TBI**|Hanem Ellethy et.al.|[2401.03621](http://arxiv.org/abs/2401.03621)|null|
 |**2024-01-08**|**AA-DLADMM: An Accelerated ADMM-based Framework for Training Deep Neural Networks**|Zeinab Ebrahimi et.al.|[2401.03619](http://arxiv.org/abs/2401.03619)|null|
 |**2024-01-07**|**Big Data and Deep Learning in Smart Cities: A Comprehensive Dataset for AI-Driven Traffic Accident Detection and Computer Vision Systems**|Victor Adewopo et.al.|[2401.03587](http://arxiv.org/abs/2401.03587)|null|
 |**2024-01-07**|**Involution Fused ConvNet for Classifying Eye-Tracking Patterns of Children with Autism Spectrum Disorder**|Md. Farhadul Islam et.al.|[2401.03575](http://arxiv.org/abs/2401.03575)|null|
@@ -650,7 +650,7 @@
 |**2024-01-07**|**Advancing Noise-Resilient Twist Angle Characterization in Bilayer Graphene through Raman Spectroscopy via GAN-CNN Modeling**|Dan Hu et.al.|[2401.03371](http://arxiv.org/abs/2401.03371)|null|
 |**2024-01-09**|**Multi-Modal Representation Learning for Molecular Property Prediction: Sequence, Graph, Geometry**|Zeyu Wang et.al.|[2401.03369](http://arxiv.org/abs/2401.03369)|**[link](https://github.com/vencent-won/sggrl)**|
 |**2024-01-06**|**A deep learning framework for jointly extracting spectra and source-count distributions in astronomy**|Florian Wolf et.al.|[2401.03336](http://arxiv.org/abs/2401.03336)|null|
-|**2024-01-06**|**Realism in Action: Anomaly-Aware Diagnosis of Brain Tumors from Medical Images Using YOLOv8 and DeiT**|Seyed Mohammad Hossein Hashemi et.al.|[2401.03302](http://arxiv.org/abs/2401.03302)|null|
+|**2024-01-10**|**Realism in Action: Anomaly-Aware Diagnosis of Brain Tumors from Medical Images Using YOLOv8 and DeiT**|Seyed Mohammad Hossein Hashemi et.al.|[2401.03302](http://arxiv.org/abs/2401.03302)|null|
 |**2024-01-06**|**Real Time Human Detection by Unmanned Aerial Vehicles**|Walid Guettala et.al.|[2401.03275](http://arxiv.org/abs/2401.03275)|null|
 |**2024-01-06**|**Group Activity Recognition using Unreliable Tracked Pose**|Haritha Thilakarathne et.al.|[2401.03262](http://arxiv.org/abs/2401.03262)|null|
 |**2024-01-06**|**Large Language Models as Visual Cross-Domain Learners**|Shuhao Chen et.al.|[2401.03253](http://arxiv.org/abs/2401.03253)|null|
@@ -1328,7 +1328,7 @@
 |**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493](http://arxiv.org/abs/2312.02493)|null|
 |**2023-12-05**|**Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery**|Yansheng Li et.al.|[2312.02481](http://arxiv.org/abs/2312.02481)|null|
 
-<p align=right>(<a href=#updated-on-20240113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
