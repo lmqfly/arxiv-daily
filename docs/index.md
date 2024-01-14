@@ -552,7 +552,7 @@ layout: default
 |**2024-01-09**|**Self-supervised Learning for Electroencephalogram: A Systematic Survey**|Weining Weng et.al.|[2401.05446](http://arxiv.org/abs/2401.05446)|null|
 |**2024-01-08**|**Physics-informed Deep Learning to Solve Three-dimensional Terzaghi Consolidation Equation: Forward and Inverse Problems**|Biao Yuan et.al.|[2401.05439](http://arxiv.org/abs/2401.05439)|null|
 |**2024-01-07**|**Deep OFDM Channel Estimation: Capturing Frequency Recurrence**|Abu Shafin Mohammad Mahdee Jameel et.al.|[2401.05436](http://arxiv.org/abs/2401.05436)|null|
-|**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223](http://arxiv.org/abs/2401.05223)|null|
+|**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223](http://arxiv.org/abs/2401.05223)|**[link](https://github.com/usccolumbia/dssl)**|
 |**2024-01-10**|**Video-based Automatic Lameness Detection of Dairy Cows using Pose Estimation and Multiple Locomotion Traits**|Helena Russello et.al.|[2401.05202](http://arxiv.org/abs/2401.05202)|null|
 |**2024-01-10**|**CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**|Yinghui Xing et.al.|[2401.05153](http://arxiv.org/abs/2401.05153)|null|
 |**2024-01-10**|**Disorder-induced enhancement of lithium-ion transport in solid-state electrolytes**|Zhimin Chen et.al.|[2401.05151](http://arxiv.org/abs/2401.05151)|null|
