@@ -199,6 +199,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-12-18**|**Quantum state transfer from light to molecules via coherent two-color photo-association in an atomic Bose-Einstein condensate**|Hui Jing et.al.|[quant-ph/0512149](http://arxiv.org/abs/quant-ph/0512149)|null|
+|**2023-12-21**|**De novo Drug Design using Reinforcement Learning with Multiple GPT Agents**|Xiuyuan Hu et.al.|[2401.06155](http://arxiv.org/abs/2401.06155)|null|
 |**2023-11-21**|**nach0: Multimodal Natural and Chemical Languages Foundation Model**|Micha Livne et.al.|[2311.12410](http://arxiv.org/abs/2311.12410)|null|
 |**2023-11-02**|**Investigating the Behavior of Diffusion Models for Accelerating Electronic Structure Calculations**|Daniel Rothchild et.al.|[2311.01491](http://arxiv.org/abs/2311.01491)|null|
 |**2023-12-20**|**TacoGFN: Target Conditioned GFlowNet for Structure-Based Drug Design**|Tony Shen et.al.|[2310.03223](http://arxiv.org/abs/2310.03223)|null|
@@ -279,6 +280,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Adjustable Molecular Representation for Unified Pre-training Strategy**|Yan Ding et.al.|[2401.06166](http://arxiv.org/abs/2401.06166)|null|
 |**2024-01-09**|**TwinBooster: Synergising Large Language Models with Barlow Twins and Gradient Boosting for Enhanced Molecular Property Prediction**|Maximilian G. Schuh et.al.|[2401.04478](http://arxiv.org/abs/2401.04478)|**[link](https://github.com/maxischuh/twinbooster)**|
 |**2024-01-09**|**Multi-Modal Representation Learning for Molecular Property Prediction: Sequence, Graph, Geometry**|Zeyu Wang et.al.|[2401.03369](http://arxiv.org/abs/2401.03369)|**[link](https://github.com/vencent-won/sggrl)**|
 |**2023-12-29**|**Integrating Chemical Language and Molecular Graph in Multimodal Fused Deep Learning for Drug Property Prediction**|Xiaohua Lu et.al.|[2312.17495](http://arxiv.org/abs/2312.17495)|null|
@@ -393,6 +395,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Graph-Network-Based Predictive Modeling for Highly Cross-Linked Polymer Systems**|Wonseok Lee et.al.|[2401.06152](http://arxiv.org/abs/2401.06152)|null|
 |**2024-01-11**|**Giant piezoelectric effects of topological structures in stretched ferroelectric membranes**|Yihao Hu et.al.|[2401.05789](http://arxiv.org/abs/2401.05789)|null|
 |**2024-01-10**|**Phase discovery with active learning: Application to structural phase transitions in equiatomic NiTi**|Jonathan Vandermause et.al.|[2401.05568](http://arxiv.org/abs/2401.05568)|null|
 |**2024-01-05**|**Tailoring Frictional Properties of Surfaces Using Diffusion Models**|Even Marius Nordhagen et.al.|[2401.05206](http://arxiv.org/abs/2401.05206)|null|
@@ -541,6 +544,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**A deep implicit-explicit minimizing movement method for option pricing in jump-diffusion models**|Emmanuil H. Georgoulis et.al.|[2401.06740](http://arxiv.org/abs/2401.06740)|null|
+|**2024-01-12**|**Embedded Planogram Compliance Control System**|M. Erkin Yücel et.al.|[2401.06690](http://arxiv.org/abs/2401.06690)|null|
+|**2024-01-12**|**PolyTOPS: Reconfigurable and Flexible Polyhedral Scheduler**|Gianpietro Consolaro et.al.|[2401.06665](http://arxiv.org/abs/2401.06665)|null|
+|**2024-01-12**|**SeizNet: An AI-enabled Implantable Sensor Network System for Seizure Prediction**|Ali Saeizadeh et.al.|[2401.06644](http://arxiv.org/abs/2401.06644)|null|
+|**2024-01-12**|**Resource-Efficient Gesture Recognition using Low-Resolution Thermal Camera via Spiking Neural Networks and Sparse Segmentation**|Ali Safa et.al.|[2401.06563](http://arxiv.org/abs/2401.06563)|null|
+|**2024-01-12**|**Multimodal Learning for detecting urban functional zones using remote sensing image and multi-semantic information**|Chuanji Shi et.al.|[2401.06550](http://arxiv.org/abs/2401.06550)|null|
+|**2024-01-12**|**Enhancing Consistency and Mitigating Bias: A Data Replay Approach for Incremental Learning**|Chenyang Wang et.al.|[2401.06548](http://arxiv.org/abs/2401.06548)|null|
+|**2024-01-12**|**Domain Adaptation for Time series Transformers using One-step fine-tuning**|Subina Khanal et.al.|[2401.06524](http://arxiv.org/abs/2401.06524)|null|
+|**2024-01-12**|**Swin Transformer-Based CSI Feedback for Massive MIMO**|Jiaming Cheng et.al.|[2401.06435](http://arxiv.org/abs/2401.06435)|null|
+|**2024-01-12**|**Mutual Distillation Learning For Person Re-Identification**|Huiyuan Fu et.al.|[2401.06430](http://arxiv.org/abs/2401.06430)|**[link](https://github.com/kuilongcui/mdpr)**|
+|**2024-01-12**|**Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction**|Geethen Singh et.al.|[2401.06421](http://arxiv.org/abs/2401.06421)|**[link](https://github.com/geethen/geeconformal)**|
+|**2024-01-12**|**Time series prediction of open quantum system dynamics**|Zhao-Wei Wang et.al.|[2401.06380](http://arxiv.org/abs/2401.06380)|null|
+|**2024-01-12**|**SamLP: A Customized Segment Anything Model for License Plate Detection**|Haoxuan Ding et.al.|[2401.06374](http://arxiv.org/abs/2401.06374)|null|
+|**2024-01-12**|**Application Of Vision-Language Models For Assessing Osteoarthritis Disease Severity**|Banafshe Felfeliyan et.al.|[2401.06331](http://arxiv.org/abs/2401.06331)|null|
+|**2024-01-11**|**Transformer Masked Autoencoders for Next-Generation Wireless Communications: Architecture and Opportunities**|Abdullah Zayat et.al.|[2401.06274](http://arxiv.org/abs/2401.06274)|null|
+|**2024-01-11**|**AGSPNet: A framework for parcel-scale crop fine-grained semantic change detection from UAV high-resolution imagery with agricultural geographic scene constraints**|Shaochun Li et.al.|[2401.06252](http://arxiv.org/abs/2401.06252)|null|
+|**2024-01-11**|**Remixing Music for Hearing Aids Using Ensemble of Fine-Tuned Source Separators**|Matthew Daly et.al.|[2401.06203](http://arxiv.org/abs/2401.06203)|null|
+|**2024-01-11**|**Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks**|Jing Wu et.al.|[2401.06187](http://arxiv.org/abs/2401.06187)|null|
+|**2024-01-10**|**MTAD: Tools and Benchmarks for Multivariate Time Series Anomaly Detection**|Jinyang Liu et.al.|[2401.06175](http://arxiv.org/abs/2401.06175)|**[link](https://github.com/opspai/mtad)**|
 |**2024-01-11**|**Modeling the Asymptotic Behavior of Higher-Order Aftershocks with Deep Learning**|Leila Mizrahi et.al.|[2401.06075](http://arxiv.org/abs/2401.06075)|null|
 |**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040](http://arxiv.org/abs/2401.06040)|**[link](https://github.com/qqian99/wavgcrn)**|
 |**2024-01-11**|**Automatic UAV-based Airport Pavement Inspection Using Mixed Real and Virtual Scenarios**|Pablo Alonso et.al.|[2401.06019](http://arxiv.org/abs/2401.06019)|null|
