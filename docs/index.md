@@ -641,7 +641,7 @@ layout: default
 |**2024-01-06**|**Convergence Rate Maximization for Split Learning-based Control of EMG Prosthetic Devices**|Matea Marinova et.al.|[2401.03233](http://arxiv.org/abs/2401.03233)|null|
 |**2024-01-06**|**MetaISP -- Exploiting Global Scene Structure for Accurate Multi-Device Color Rendition**|Matheus Souza et.al.|[2401.03220](http://arxiv.org/abs/2401.03220)|**[link](https://github.com/vccimaging/MetaISP)**|
 |**2024-01-06**|**End-to-End Anti-Backdoor Learning on Images and Time Series**|Yujing Jiang et.al.|[2401.03215](http://arxiv.org/abs/2401.03215)|null|
-|**2024-01-06**|**Distribution-aware Interactive Attention Network and Large-scale Cloud Recognition Benchmark on FY-4A Satellite Image**|Jiaqing Zhang et.al.|[2401.03182](http://arxiv.org/abs/2401.03182)|null|
+|**2024-01-06**|**Distribution-aware Interactive Attention Network and Large-scale Cloud Recognition Benchmark on FY-4A Satellite Image**|Jiaqing Zhang et.al.|[2401.03182](http://arxiv.org/abs/2401.03182)|**[link](https://github.com/icey-zhang/DIAnet)**|
 |**2024-01-06**|**Part-of-Speech Tagger for Bodo Language using Deep Learning approach**|Dhrubajyoti Pathak et.al.|[2401.03175](http://arxiv.org/abs/2401.03175)|null|
 |**2024-01-06**|**Exploration of Adolescent Depression Risk Prediction Based on Census Surveys and General Life Issues**|Qiang Li et.al.|[2401.03171](http://arxiv.org/abs/2401.03171)|null|
 |**2024-01-06**|**Data-Dependent Stability Analysis of Adversarial Training**|Yihan Wang et.al.|[2401.03156](http://arxiv.org/abs/2401.03156)|null|
@@ -655,7 +655,7 @@ layout: default
 |**2024-01-05**|**Towards Enhancing the Reproducibility of Deep Learning Bugs: An Empirical Study**|Mehil B. Shah et.al.|[2401.03069](http://arxiv.org/abs/2401.03069)|null|
 |**2024-01-05**|**Super-Resolution Multi-Contrast Unbiased Eye Atlases With Deep Probabilistic Refinement**|Ho Hin Lee et.al.|[2401.03060](http://arxiv.org/abs/2401.03060)|null|
 |**2024-01-05**|**SAPNet: a deep learning model for identification of single-molecule peptide post-translational modifications with surface enhanced Raman spectroscopy**|Mulusew W. Yaltaye et.al.|[2401.03004](http://arxiv.org/abs/2401.03004)|null|
-|**2024-01-05**|**Prompt-driven Latent Domain Generalization for Medical Image Classification**|Siyuan Yan et.al.|[2401.03002](http://arxiv.org/abs/2401.03002)|null|
+|**2024-01-05**|**Prompt-driven Latent Domain Generalization for Medical Image Classification**|Siyuan Yan et.al.|[2401.03002](http://arxiv.org/abs/2401.03002)|**[link](https://github.com/siyuanyan1/pldg)**|
 |**2024-01-04**|**An AI-enabled Bias-Free Respiratory Disease Diagnosis Model using Cough Audio: A Case Study for COVID-19**|Tabish Saeed et.al.|[2401.02996](http://arxiv.org/abs/2401.02996)|null|
 |**2024-01-03**|**On the selection and effectiveness of pseudo-absences for species distribution modeling with deep learning**|Robin Zbinden et.al.|[2401.02989](http://arxiv.org/abs/2401.02989)|null|
 |**2024-01-05**|**State Derivative Normalization for Continuous-Time Deep Neural Networks**|Jonas Weigand et.al.|[2401.02902](http://arxiv.org/abs/2401.02902)|null|
@@ -744,7 +744,7 @@ layout: default
 |**2023-12-29**|**Tensor Networks for Explainable Machine Learning in Cybersecurity**|Borja Aizpurua et.al.|[2401.00867](http://arxiv.org/abs/2401.00867)|null|
 |**2024-01-01**|**Rethinking RAFT for Efficient Optical Flow**|Navid Eslami et.al.|[2401.00833](http://arxiv.org/abs/2401.00833)|**[link](https://github.com/n3slami/Ef-RAFT)**|
 |**2024-01-01**|**Graph-Convolutional Autoencoder Ensembles for the Humanities, Illustrated with a Study of the American Slave Trade**|Tom Lippincott et.al.|[2401.00824](http://arxiv.org/abs/2401.00824)|null|
-|**2024-01-01**|**GLIMPSE: Generalized Local Imaging with MLPs**|AmirEhsan Khorashadizadeh et.al.|[2401.00816](http://arxiv.org/abs/2401.00816)|null|
+|**2024-01-01**|**GLIMPSE: Generalized Local Imaging with MLPs**|AmirEhsan Khorashadizadeh et.al.|[2401.00816](http://arxiv.org/abs/2401.00816)|**[link](https://github.com/swing-research/glimpse)**|
 |**2024-01-01**|**MPRE: Multi-perspective Patient Representation Extractor for Disease Prediction**|Ziyue Yu et.al.|[2401.00756](http://arxiv.org/abs/2401.00756)|null|
 |**2024-01-03**|**Harmonizing Covariance and Expressiveness for Deep Hamiltonian Regression in Crystalline Material Research: a Hybrid Cascaded Regression Framework**|Shi Yin et.al.|[2401.00744](http://arxiv.org/abs/2401.00744)|null|
 |**2024-01-01**|**NightRain: Nighttime Video Deraining via Adaptive-Rain-Removal and Adaptive-Correction**|Beibei Lin et.al.|[2401.00729](http://arxiv.org/abs/2401.00729)|null|
@@ -1101,7 +1101,7 @@ layout: default
 |**2023-12-14**|**Deep learning based photometric redshifts for the Kilo-Degree Survey Bright Galaxy Sample**|Anjitha John William et.al.|[2312.08043](http://arxiv.org/abs/2312.08043)|null|
 |**2023-12-13**|**Convergence of Riemannian Stochastic Gradient Descent on Hadamard Manifold**|Hiroyuki Sakai et.al.|[2312.07990](http://arxiv.org/abs/2312.07990)|**[link](https://github.com/iiduka-researches/rsgd-kylberg)**|
 |**2023-12-13**|**ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**|Haowen Bai et.al.|[2312.07943](http://arxiv.org/abs/2312.07943)|null|
-|**2023-12-13**|**Plant Disease Recognition Datasets in the Age of Deep Learning: Challenges and Opportunities**|Mingle Xu et.al.|[2312.07905](http://arxiv.org/abs/2312.07905)|null|
+|**2023-12-13**|**Plant Disease Recognition Datasets in the Age of Deep Learning: Challenges and Opportunities**|Mingle Xu et.al.|[2312.07905](http://arxiv.org/abs/2312.07905)|**[link](https://github.com/xml94/ppdrd)**|
 |**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
 |**2023-12-13**|**Morphological Profiling for Drug Discovery in the Era of Deep Learning**|Qiaosi Tang et.al.|[2312.07899](http://arxiv.org/abs/2312.07899)|null|
 |**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843](http://arxiv.org/abs/2312.07843)|**[link](https://github.com/robotics-survey/awesome-robotics-foundation-models)**|
@@ -1160,7 +1160,7 @@ layout: default
 |**2023-12-11**|**Exploiting Label Skews in Federated Learning with Model Concatenation**|Yiqun Diao et.al.|[2312.06290](http://arxiv.org/abs/2312.06290)|**[link](https://github.com/sjtudyq/fedconcat)**|
 |**2023-12-11**|**Regional Correlation Aided Mobile Traffic Prediction with Spatiotemporal Deep Learning**|JeongJun Park et.al.|[2312.06279](http://arxiv.org/abs/2312.06279)|null|
 |**2023-12-11**|**Recent Advances in Deterministic Human Motion Prediction: A Review**|Tenghao Deng et.al.|[2312.06184](http://arxiv.org/abs/2312.06184)|null|
-|**2023-12-11**|**Implicit Shape Modeling for Anatomical Structure Refinement of Volumetric Medical Images**|Minghui Zhang et.al.|[2312.06164](http://arxiv.org/abs/2312.06164)|null|
+|**2023-12-11**|**Implicit Shape Modeling for Anatomical Structure Refinement of Volumetric Medical Images**|Minghui Zhang et.al.|[2312.06164](http://arxiv.org/abs/2312.06164)|**[link](https://github.com/endoluminalsurgicalvision-imr/ismm)**|
 |**2023-12-11**|**Analysis of Synchrosqueezed Transforms and Application Perspectives**|Rayyan Abdalla et.al.|[2312.06092](http://arxiv.org/abs/2312.06092)|null|
 |**2023-12-11**|**XAI meets Biology: A Comprehensive Review of Explainable AI in Bioinformatics Applications**|Zhongliang Zhou et.al.|[2312.06082](http://arxiv.org/abs/2312.06082)|null|
 |**2023-12-11**|**An Ambiguity Measure for Recognizing the Unknowns in Deep Learning**|Roozbeh Yousefzadeh et.al.|[2312.06077](http://arxiv.org/abs/2312.06077)|null|
