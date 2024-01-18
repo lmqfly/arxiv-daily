@@ -380,13 +380,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Entropic force in a dilute solution of real ring polymer chains with different topological structures in a slit of two parallel walls with mixed boundary conditions**|P. Kuterba et.al.|[2401.09353](http://arxiv.org/abs/2401.09353)|null|
+|**2024-01-17**|**Role of Elastic Phonon Couplings in Dictating the Thermal Transport across Atomically Sharp SiC/Si Interfaces**|Qinqin He et.al.|[2401.09212](http://arxiv.org/abs/2401.09212)|null|
 |**2024-01-15**|**Predicting heteropolymer interactions: demixing and hypermixing of disordered protein sequences**|Kyosuke Adachi et.al.|[2401.07826](http://arxiv.org/abs/2401.07826)|null|
 |**2024-01-15**|**Electrical Conductivity of Hydrogen Plasmas: Low-density Benchmarks and Virial Expansion Including $e-e$ Collisions**|G. Röpke et.al.|[2401.07765](http://arxiv.org/abs/2401.07765)|null|
 |**2024-01-13**|**Unveiling the hidden reaction kinetic network of carbon in water with first-principles Markov state models**|Chu Li et.al.|[2401.07019](http://arxiv.org/abs/2401.07019)|null|
 |**2024-01-12**|**Disorder-Induced Heating in Molecular Atmospheric Pressure Plasmas**|Jarett LeVan et.al.|[2401.06873](http://arxiv.org/abs/2401.06873)|null|
 |**2023-12-18**|**Unoccupied space and short-range order characterization in polymers under heat treatment**|Hossein Goodarzi-Hosseinabadi et.al.|[2401.06776](http://arxiv.org/abs/2401.06776)|null|
 |**2023-12-21**|**Graph-Network-Based Predictive Modeling for Highly Cross-Linked Polymer Systems**|Wonseok Lee et.al.|[2401.06152](http://arxiv.org/abs/2401.06152)|null|
-|**2024-01-11**|**Giant piezoelectric effects of topological structures in stretched ferroelectric membranes**|Yihao Hu et.al.|[2401.05789](http://arxiv.org/abs/2401.05789)|**[link](https://github.com/huiihao/spiral)**|
+|**2024-01-17**|**Giant piezoelectric effects of topological structures in stretched ferroelectric membranes**|Yihao Hu et.al.|[2401.05789](http://arxiv.org/abs/2401.05789)|**[link](https://github.com/huiihao/spiral)**|
 |**2024-01-10**|**Phase discovery with active learning: Application to structural phase transitions in equiatomic NiTi**|Jonathan Vandermause et.al.|[2401.05568](http://arxiv.org/abs/2401.05568)|null|
 |**2024-01-05**|**Tailoring Frictional Properties of Surfaces Using Diffusion Models**|Even Marius Nordhagen et.al.|[2401.05206](http://arxiv.org/abs/2401.05206)|null|
 |**2024-01-10**|**Thermomechanical Dissipative behaviour of CuZr metallic glasses**|Matias Sepulveda-Macias et.al.|[2401.05117](http://arxiv.org/abs/2401.05117)|null|
@@ -532,6 +534,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Online Stability Improvement of Groebner Basis Solvers using Deep Learning**|Wanting Xu et.al.|[2401.09328](http://arxiv.org/abs/2401.09328)|null|
+|**2024-01-17**|**Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery**|Jia Jia et.al.|[2401.09325](http://arxiv.org/abs/2401.09325)|null|
+|**2024-01-17**|**Can Synthetic Data Boost the Training of Deep Acoustic Vehicle Counting Networks?**|Stefano Damiano et.al.|[2401.09308](http://arxiv.org/abs/2401.09308)|null|
+|**2024-01-17**|**PixelDINO: Semi-Supervised Semantic Segmentation for Detecting Permafrost Disturbances**|Konrad Heidler et.al.|[2401.09271](http://arxiv.org/abs/2401.09271)|null|
+|**2024-01-17**|**P $^2$ OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering**|Chuyu Zhang et.al.|[2401.09266](http://arxiv.org/abs/2401.09266)|null|
+|**2024-01-17**|**DaFoEs: Mixing Datasets towards the generalization of vision-state deep-learning Force Estimation in Minimally Invasive Robotic Surgery**|Mikel De Iturrate Reyzabal et.al.|[2401.09239](http://arxiv.org/abs/2401.09239)|null|
+|**2024-01-17**|**Classification and Reconstruction Processes in Deep Predictive Coding Networks: Antagonists or Allies?**|Jan Rathjens et.al.|[2401.09237](http://arxiv.org/abs/2401.09237)|null|
+|**2024-01-17**|**An Optimal Transport Approach for Computing Adversarial Training Lower Bounds in Multiclass Classification**|Nicolas Garcia Trillos et.al.|[2401.09191](http://arxiv.org/abs/2401.09191)|null|
+|**2024-01-17**|**Exploring the Role of Convolutional Neural Networks (CNN) in Dental Radiography Segmentation: A Comprehensive Systematic Literature Review**|Walid Brahmi et.al.|[2401.09190](http://arxiv.org/abs/2401.09190)|null|
+|**2024-01-17**|**A Two-Scale Complexity Measure for Deep Learning Models**|Massimiliano Datres et.al.|[2401.09184](http://arxiv.org/abs/2401.09184)|null|
+|**2024-01-17**|**ADCNet: a unified framework for predicting the activity of antibody-drug conjugates**|Liye Chen et.al.|[2401.09176](http://arxiv.org/abs/2401.09176)|**[link](https://github.com/idruglab/adcnet)**|
+|**2024-01-17**|**Machine Learning for Healthcare-IoT Security: A Review and Risk Mitigation**|Mirza Akhi Khatun et.al.|[2401.09124](http://arxiv.org/abs/2401.09124)|null|
+|**2024-01-17**|**Trapped in texture bias? A large scale comparison of deep instance segmentation**|Johannes Theodoridis et.al.|[2401.09109](http://arxiv.org/abs/2401.09109)|**[link](https://github.com/johannestheo/trapped-in-texture-bias)**|
+|**2024-01-17**|**A Novel Interpretable Fusion Analytic Framework for Investigating Functional Brain Connectivity Differences in Cognitive Impairments**|Yeseul Jeon et.al.|[2401.09028](http://arxiv.org/abs/2401.09028)|null|
+|**2024-01-17**|**Residual Alignment: Uncovering the Mechanisms of Residual Networks**|Jianing Li et.al.|[2401.09018](http://arxiv.org/abs/2401.09018)|null|
+|**2024-01-17**|**Attack and Reset for Unlearning: Exploiting Adversarial Noise toward Machine Unlearning through Parameter Re-initialization**|Yoonhwa Jung et.al.|[2401.08998](http://arxiv.org/abs/2401.08998)|null|
+|**2024-01-17**|**AntiPhishStack: LSTM-based Stacked Generalization Model for Optimized Phishing URLs Detection**|Saba Aslam et.al.|[2401.08947](http://arxiv.org/abs/2401.08947)|null|
+|**2024-01-17**|**Subwavelength Imaging using a Solid-Immersion Diffractive Optical Processor**|Jingtian Hu et.al.|[2401.08923](http://arxiv.org/abs/2401.08923)|null|
+|**2024-01-17**|**Unveiling Galaxy Morphology through an Unsupervised-Supervised Hybrid Approach**|I. Kolesnikov et.al.|[2401.08906](http://arxiv.org/abs/2401.08906)|null|
+|**2024-01-17**|**MADA: Meta-Adaptive Optimizers through hyper-gradient Descent**|Kaan Ozkara et.al.|[2401.08893](http://arxiv.org/abs/2401.08893)|null|
+|**2024-01-16**|**MambaTab: A Simple Yet Effective Approach for Handling Tabular Data**|Md Atik Ahamed et.al.|[2401.08867](http://arxiv.org/abs/2401.08867)|null|
+|**2024-01-16**|**RIDGE: Reproducibility, Integrity, Dependability, Generalizability, and Efficiency Assessment of Medical Image Segmentation Models**|Farhad Maleki et.al.|[2401.08847](http://arxiv.org/abs/2401.08847)|null|
+|**2024-01-16**|**Surface-Enhanced Raman Spectroscopy and Transfer Learning Toward Accurate Reconstruction of the Surgical Zone**|Ashutosh Raman et.al.|[2401.08821](http://arxiv.org/abs/2401.08821)|null|
+|**2024-01-16**|**HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance**|Huanjun Kong et.al.|[2401.08772](http://arxiv.org/abs/2401.08772)|**[link](https://github.com/internlm/huixiangdou)**|
+|**2024-01-16**|**Unsupervised Pre-Training for 3D Leaf Instance Segmentation**|Gianmarco Roggiolani et.al.|[2401.08720](http://arxiv.org/abs/2401.08720)|null|
+|**2024-01-16**|**MICA: Towards Explainable Skin Lesion Diagnosis via Multi-Level Image-Concept Alignment**|Yequan Bie et.al.|[2401.08527](http://arxiv.org/abs/2401.08527)|**[link](https://github.com/tommy-bie/mica)**|
+|**2024-01-16**|**CLIPRerank: An Extremely Simple Method for Improving Ad-hoc Video Search**|Aozhu Chen et.al.|[2401.08449](http://arxiv.org/abs/2401.08449)|null|
 |**2024-01-16**|**Three ways that non-differentiability affects neural network training**|Siddharth Krishna Kumar et.al.|[2401.08426](http://arxiv.org/abs/2401.08426)|null|
 |**2024-01-16**|**Training and Comparison of nnU-Net and DeepMedic Methods for Autosegmentation of Pediatric Brain Tumors**|Arastoo Vossough et.al.|[2401.08404](http://arxiv.org/abs/2401.08404)|null|
 |**2024-01-16**|**Deep Learning-based Group Causal Inference in Multivariate Time-series**|Wasim Ahmad et.al.|[2401.08386](http://arxiv.org/abs/2401.08386)|null|
@@ -561,11 +590,11 @@ layout: default
 |**2024-01-15**|**How does self-supervised pretraining improve robustness against noisy labels across various medical image classification datasets?**|Bidur Khanal et.al.|[2401.07990](http://arxiv.org/abs/2401.07990)|null|
 |**2024-01-15**|**Do stable neural networks exist for classification problems? -- A new view on stability in AI**|Z. N. D. Liu et.al.|[2401.07874](http://arxiv.org/abs/2401.07874)|null|
 |**2024-01-15**|**Information hiding cameras: optical concealment of object information into ordinary images**|Bijie Bai et.al.|[2401.07856](http://arxiv.org/abs/2401.07856)|null|
-|**2024-01-15**|**Phenotyping calcification in vascular tissues using artificial intelligence**|Mehdi Ramezanpour et.al.|[2401.07825](http://arxiv.org/abs/2401.07825)|null|
+|**2024-01-17**|**Phenotyping calcification in vascular tissues using artificial intelligence**|Mehdi Ramezanpour et.al.|[2401.07825](http://arxiv.org/abs/2401.07825)|null|
 |**2024-01-15**|**Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey**|Bahareh Ghari et.al.|[2401.07801](http://arxiv.org/abs/2401.07801)|null|
 |**2024-01-15**|**Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification**|Nathan Painchaud et.al.|[2401.07796](http://arxiv.org/abs/2401.07796)|null|
 |**2024-01-15**|**DeepThalamus: A novel deep learning method for automatic segmentation of brain thalamic nuclei from multimodal ultra-high resolution MRI**|Marina Ruiz-Perez et.al.|[2401.07751](http://arxiv.org/abs/2401.07751)|null|
-|**2024-01-15**|**E3x: $\mathrm{E}(3)$ -Equivariant Deep Learning Made Easy**|Oliver T. Unke et.al.|[2401.07595](http://arxiv.org/abs/2401.07595)|**[link](https://github.com/google-research/e3x)**|
+|**2024-01-17**|**E3x: $\mathrm{E}(3)$ -Equivariant Deep Learning Made Easy**|Oliver T. Unke et.al.|[2401.07595](http://arxiv.org/abs/2401.07595)|**[link](https://github.com/google-research/e3x)**|
 |**2024-01-15**|**Semantic Scene Segmentation for Robotics**|Juana Valeria Hurtado et.al.|[2401.07589](http://arxiv.org/abs/2401.07589)|null|
 |**2024-01-15**|**Curriculum for Crowd Counting -- Is it Worthy?**|Muhammad Asif Khan et.al.|[2401.07586](http://arxiv.org/abs/2401.07586)|null|
 |**2024-01-15**|**TDD Without Tears: Towards Test Case Generation from Requirements through Deep Reinforcement Learning**|Wannita Takerngsaksiri et.al.|[2401.07576](http://arxiv.org/abs/2401.07576)|**[link](https://github.com/tddpytester/pytester)**|
