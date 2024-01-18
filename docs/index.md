@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -187,7 +187,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-18**|**Quantum state transfer from light to molecules via coherent two-color photo-association in an atomic Bose-Einstein condensate**|Hui Jing et.al.|[quant-ph/0512149](http://arxiv.org/abs/quant-ph/0512149)|null|
-|**2023-09-24**|**Curiosity as a Self-Supervised Method to Improve Exploration in De novo Drug Design**|Mohamed-Amine Chadi et.al.|[2401.06771](http://arxiv.org/abs/2401.06771)|null|
+|**2023-09-24**|**Curiosity as a Self-Supervised Method to Improve Exploration in De novo Drug Design**|Mohamed-Amine Chadi et.al.|[2401.06771](http://arxiv.org/abs/2401.06771)|**[link](https://github.com/amine179/curiosity-rl-for-drug-design)**|
 |**2023-12-21**|**De novo Drug Design using Reinforcement Learning with Multiple GPT Agents**|Xiuyuan Hu et.al.|[2401.06155](http://arxiv.org/abs/2401.06155)|**[link](https://github.com/hxyfighter/molrl-mgpt)**|
 |**2023-11-21**|**nach0: Multimodal Natural and Chemical Languages Foundation Model**|Micha Livne et.al.|[2311.12410](http://arxiv.org/abs/2311.12410)|null|
 |**2023-11-02**|**Investigating the Behavior of Diffusion Models for Accelerating Electronic Structure Calculations**|Daniel Rothchild et.al.|[2311.01491](http://arxiv.org/abs/2311.01491)|null|
@@ -532,24 +532,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Three ways that non-differentiability affects neural network training**|Siddharth Krishna Kumar et.al.|[2401.08426](http://arxiv.org/abs/2401.08426)|null|
 |**2024-01-16**|**Training and Comparison of nnU-Net and DeepMedic Methods for Autosegmentation of Pediatric Brain Tumors**|Arastoo Vossough et.al.|[2401.08404](http://arxiv.org/abs/2401.08404)|null|
 |**2024-01-16**|**Deep Learning-based Group Causal Inference in Multivariate Time-series**|Wasim Ahmad et.al.|[2401.08386](http://arxiv.org/abs/2401.08386)|null|
 |**2024-01-16**|**A Hypernetwork Based Framework for Non-Stationary Channel Prediction**|Guanzhang Liu et.al.|[2401.08338](http://arxiv.org/abs/2401.08338)|null|
 |**2024-01-16**|**Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging**|Zahra Tabatabaei et.al.|[2401.08272](http://arxiv.org/abs/2401.08272)|null|
 |**2024-01-16**|**Probabilistically Robust Watermarking of Neural Networks**|Mikhail Pautov et.al.|[2401.08261](http://arxiv.org/abs/2401.08261)|null|
 |**2024-01-16**|**Enhancing Wind Speed and Wind Power Forecasting Using Shape-Wise Feature Engineering: A Novel Approach for Improved Accuracy and Robustness**|Mulomba Mukendi Christian et.al.|[2401.08233](http://arxiv.org/abs/2401.08233)|null|
-|**2024-01-16**|**Towards Causal Relationship in Indefinite Data: Baseline Model and New Datasets**|Hang Chen et.al.|[2401.08221](http://arxiv.org/abs/2401.08221)|null|
+|**2024-01-16**|**Towards Causal Relationship in Indefinite Data: Baseline Model and New Datasets**|Hang Chen et.al.|[2401.08221](http://arxiv.org/abs/2401.08221)|**[link](https://github.com/zodiark-ch/master-of-paper-towards-causal-relationship-in-indefinite-data-baseline-model-and-new-datasets)**|
 |**2024-01-16**|**Ship Detection in SAR Images with Human-in-the-Loop**|Hecheng Jia et.al.|[2401.08213](http://arxiv.org/abs/2401.08213)|null|
 |**2024-01-16**|**Photonic Modes Prediction via Multi-Modal Diffusion Model**|Jinyang Sun et.al.|[2401.08199](http://arxiv.org/abs/2401.08199)|null|
 |**2024-01-16**|**End-to-End Optimized Image Compression with the Frequency-Oriented Transform**|Yuefeng Zhang et.al.|[2401.08194](http://arxiv.org/abs/2401.08194)|null|
 |**2024-01-16**|**DeMM: A Decoupled Matrix Multiplication Engine Supporting Relaxed Structured Sparsity**|Christodoulos Peltekis et.al.|[2401.08179](http://arxiv.org/abs/2401.08179)|null|
 |**2024-01-16**|**EEG-based Cognitive Load Estimation of Acoustic Parameters for Data Sonification**|Gulshan Sharma et.al.|[2401.08164](http://arxiv.org/abs/2401.08164)|null|
-|**2024-01-16**|**GMLake: Efficient and Transparent GPU Memory Defragmentation for Large-scale DNN Training with Virtual Memory Stitching**|Cong Guo et.al.|[2401.08156](http://arxiv.org/abs/2401.08156)|null|
+|**2024-01-16**|**GMLake: Efficient and Transparent GPU Memory Defragmentation for Large-scale DNN Training with Virtual Memory Stitching**|Cong Guo et.al.|[2401.08156](http://arxiv.org/abs/2401.08156)|**[link](https://github.com/intelligent-machine-learning/glake)**|
 |**2024-01-16**|**Game Rewards Vulnerabilities: Software Vulnerability Detection with Zero-Sum Game and Prototype Learning**|Xin-Cheng Wen et.al.|[2401.08131](http://arxiv.org/abs/2401.08131)|null|
 |**2024-01-16**|**E2HQV: High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning**|Qiang Qu et.al.|[2401.08117](http://arxiv.org/abs/2401.08117)|**[link](https://github.com/vincentqqu/e2hqv)**|
 |**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115](http://arxiv.org/abs/2401.08115)|null|
 |**2024-01-16**|**Mobile Contactless Palmprint Recognition: Use of Multiscale, Multimodel Embeddings**|Steven A. Grosz et.al.|[2401.08111](http://arxiv.org/abs/2401.08111)|null|
-|**2024-01-16**|**Hardware Acceleration for Real-Time Wildfire Detection Onboard Drone Networks**|Austin Briley et.al.|[2401.08105](http://arxiv.org/abs/2401.08105)|null|
+|**2024-01-16**|**Hardware Acceleration for Real-Time Wildfire Detection Onboard Drone Networks**|Austin Briley et.al.|[2401.08105](http://arxiv.org/abs/2401.08105)|**[link](https://github.com/austin-thetrueshinobi/is-win-research)**|
 |**2024-01-16**|**A Study of Fairness Concerns in AI-based Mobile App Reviews**|Ali Rezaei Nasab et.al.|[2401.08097](http://arxiv.org/abs/2401.08097)|null|
 |**2024-01-16**|**Achieve Fairness without Demographics for Dermatological Disease Diagnosis**|Ching-Hao Chiu et.al.|[2401.08066](http://arxiv.org/abs/2401.08066)|null|
 |**2024-01-16**|**Fundamental Convergence Analysis of Sharpness-Aware Minimization**|Pham Duy Khanh et.al.|[2401.08060](http://arxiv.org/abs/2401.08060)|null|
@@ -567,7 +568,7 @@ layout: default
 |**2024-01-15**|**E3x: $\mathrm{E}(3)$ -Equivariant Deep Learning Made Easy**|Oliver T. Unke et.al.|[2401.07595](http://arxiv.org/abs/2401.07595)|**[link](https://github.com/google-research/e3x)**|
 |**2024-01-15**|**Semantic Scene Segmentation for Robotics**|Juana Valeria Hurtado et.al.|[2401.07589](http://arxiv.org/abs/2401.07589)|null|
 |**2024-01-15**|**Curriculum for Crowd Counting -- Is it Worthy?**|Muhammad Asif Khan et.al.|[2401.07586](http://arxiv.org/abs/2401.07586)|null|
-|**2024-01-15**|**TDD Without Tears: Towards Test Case Generation from Requirements through Deep Reinforcement Learning**|Wannita Takerngsaksiri et.al.|[2401.07576](http://arxiv.org/abs/2401.07576)|null|
+|**2024-01-15**|**TDD Without Tears: Towards Test Case Generation from Requirements through Deep Reinforcement Learning**|Wannita Takerngsaksiri et.al.|[2401.07576](http://arxiv.org/abs/2401.07576)|**[link](https://github.com/tddpytester/pytester)**|
 |**2024-01-15**|**Eco-driving Intelligent Systems and Algorithms: A Patent Review**|Zhipeng Ma et.al.|[2401.07559](http://arxiv.org/abs/2401.07559)|null|
 |**2024-01-15**|**Must: Maximizing Latent Capacity of Spatial Transcriptomics Data**|Zelin Zang et.al.|[2401.07543](http://arxiv.org/abs/2401.07543)|null|
 |**2024-01-15**|**Combining Image- and Geometric-based Deep Learning for Shape Regression: A Comparison to Pixel-level Methods for Segmentation in Chest X-Ray**|Ron Keuth et.al.|[2401.07542](http://arxiv.org/abs/2401.07542)|null|
