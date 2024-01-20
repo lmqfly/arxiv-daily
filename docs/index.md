@@ -548,10 +548,10 @@ layout: default
 |**2024-01-18**|**Real-time and On-site Aerodynamics using Stereoscopic PIV and Deep Optical Flow Learning**|Mohamed Elrefaie et.al.|[2401.09932](http://arxiv.org/abs/2401.09932)|null|
 |**2024-01-18**|**Enabling On-device Continual Learning with Binary Neural Networks**|Lorenzo Vorabbi et.al.|[2401.09916](http://arxiv.org/abs/2401.09916)|null|
 |**2024-01-18**|**Meme-ingful Analysis: Enhanced Understanding of Cyberbullying in Memes Through Multimodal Explanations**|Prince Jha et.al.|[2401.09899](http://arxiv.org/abs/2401.09899)|**[link](https://github.com/jhaprince/memeexplanation)**|
-|**2024-01-18**|**GA-SmaAt-GNet: Generative Adversarial Small Attention GNet for Extreme Precipitation Nowcasting**|Eloy Reulen et.al.|[2401.09881](http://arxiv.org/abs/2401.09881)|null|
+|**2024-01-18**|**GA-SmaAt-GNet: Generative Adversarial Small Attention GNet for Extreme Precipitation Nowcasting**|Eloy Reulen et.al.|[2401.09881](http://arxiv.org/abs/2401.09881)|**[link](https://github.com/eloyreulen/ga-smaat-gnet)**|
 |**2024-01-18**|**Behavioral Simulation: Exploring A Possible Next Paradigm for Science**|Cheng Wang et.al.|[2401.09851](http://arxiv.org/abs/2401.09851)|null|
 |**2024-01-18**|**Enhancing Small Object Encoding in Deep Neural Networks: Introducing Fast&Focused-Net with Volume-wise Dot Product Layer**|Ali Tofik et.al.|[2401.09823](http://arxiv.org/abs/2401.09823)|null|
-|**2024-01-18**|**PatchAD: Patch-based MLP-Mixer for Time Series Anomaly Detection**|Zhijie Zhong et.al.|[2401.09793](http://arxiv.org/abs/2401.09793)|null|
+|**2024-01-18**|**PatchAD: Patch-based MLP-Mixer for Time Series Anomaly Detection**|Zhijie Zhong et.al.|[2401.09793](http://arxiv.org/abs/2401.09793)|**[link](https://github.com/emorzz1g/patchad)**|
 |**2024-01-18**|**BreastRegNet: A Deep Learning Framework for Registration of Breast Faxitron and Histopathology Images**|Negar Golestani et.al.|[2401.09791](http://arxiv.org/abs/2401.09791)|null|
 |**2024-01-18**|**Querying Easily Flip-flopped Samples for Deep Active Learning**|Seong Jin Cho et.al.|[2401.09787](http://arxiv.org/abs/2401.09787)|null|
 |**2024-01-18**|**On the Effectiveness of Function-Level Vulnerability Detectors for Inter-Procedural Vulnerabilities**|Zhen Li et.al.|[2401.09767](http://arxiv.org/abs/2401.09767)|null|
