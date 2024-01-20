@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.19
+## Updated on 2024.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -573,7 +573,7 @@ layout: default
 |**2024-01-17**|**Can Synthetic Data Boost the Training of Deep Acoustic Vehicle Counting Networks?**|Stefano Damiano et.al.|[2401.09308](http://arxiv.org/abs/2401.09308)|null|
 |**2024-01-17**|**PixelDINO: Semi-Supervised Semantic Segmentation for Detecting Permafrost Disturbances**|Konrad Heidler et.al.|[2401.09271](http://arxiv.org/abs/2401.09271)|**[link](https://github.com/khdlr/pixeldino)**|
 |**2024-01-17**|**P $^2$ OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering**|Chuyu Zhang et.al.|[2401.09266](http://arxiv.org/abs/2401.09266)|**[link](https://github.com/rhfeiyang/ppot)**|
-|**2024-01-17**|**DaFoEs: Mixing Datasets towards the generalization of vision-state deep-learning Force Estimation in Minimally Invasive Robotic Surgery**|Mikel De Iturrate Reyzabal et.al.|[2401.09239](http://arxiv.org/abs/2401.09239)|null|
+|**2024-01-17**|**DaFoEs: Mixing Datasets towards the generalization of vision-state deep-learning Force Estimation in Minimally Invasive Robotic Surgery**|Mikel De Iturrate Reyzabal et.al.|[2401.09239](http://arxiv.org/abs/2401.09239)|**[link](https://github.com/mikelitu/dafoes)**|
 |**2024-01-17**|**Classification and Reconstruction Processes in Deep Predictive Coding Networks: Antagonists or Allies?**|Jan Rathjens et.al.|[2401.09237](http://arxiv.org/abs/2401.09237)|**[link](https://github.com/wiskott-lab/classification-reconstruction-encoder)**|
 |**2024-01-17**|**An Optimal Transport Approach for Computing Adversarial Training Lower Bounds in Multiclass Classification**|Nicolas Garcia Trillos et.al.|[2401.09191](http://arxiv.org/abs/2401.09191)|**[link](https://github.com/mattwerenski/adversarial-ot)**|
 |**2024-01-17**|**Exploring the Role of Convolutional Neural Networks (CNN) in Dental Radiography Segmentation: A Comprehensive Systematic Literature Review**|Walid Brahmi et.al.|[2401.09190](http://arxiv.org/abs/2401.09190)|null|
