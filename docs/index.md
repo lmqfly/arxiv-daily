@@ -380,13 +380,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-18**|**Stability of C $_{59}$ Knockout Fragments from Femtoseconds to Infinity**|Michael Gatchell et.al.|[2401.10063](http://arxiv.org/abs/2401.10063)|null|
-|**2024-01-18**|**Unified theoretical description of thermal and nonthermal laser-induced ultrafast structural changes in solids**|Bernd Bauerhenne et.al.|[2401.09922](http://arxiv.org/abs/2401.09922)|null|
+|**2024-01-19**|**Influence of particle size polydispersity on dynamical heterogeneities in dense particle packings**|Rajkumar Biswas et.al.|[2401.10784](http://arxiv.org/abs/2401.10784)|null|
+|**2024-01-19**|**Exact analytical algorithm for solvent accessible surface area and derivatives in implicit solvent molecular simulations on GPUs**|Xin Cao et.al.|[2401.10462](http://arxiv.org/abs/2401.10462)|null|
+|**2024-01-19**|**Diffusion of intrinsically disordered proteins within viscoelastic membraneless droplets**|Fuga Watanabe et.al.|[2401.10438](http://arxiv.org/abs/2401.10438)|null|
+|**2024-01-19**|**Stability of C $_{59}$ Knockout Fragments from Femtoseconds to Infinity**|Michael Gatchell et.al.|[2401.10063](http://arxiv.org/abs/2401.10063)|null|
+|**2024-01-19**|**Unified theoretical description of thermal and nonthermal laser-induced ultrafast structural changes in solids**|Bernd Bauerhenne et.al.|[2401.09922](http://arxiv.org/abs/2401.09922)|null|
 |**2024-01-18**|**Enhanced thermal conductance at gold-amorphous silicon interfaces**|Julien El Hajj et.al.|[2401.09869](http://arxiv.org/abs/2401.09869)|null|
 |**2024-01-18**|**Rational Materials Design for In Operando Electropolymerization of Evolvable Organic Electrochemical Transistors**|J. Y. Gerasimov et.al.|[2401.09835](http://arxiv.org/abs/2401.09835)|null|
 |**2024-01-17**|**Entropic force in a dilute solution of real ring polymer chains with different topological structures in a slit of two parallel walls with mixed boundary conditions**|P. Kuterba et.al.|[2401.09353](http://arxiv.org/abs/2401.09353)|null|
 |**2024-01-17**|**Role of Elastic Phonon Couplings in Dictating the Thermal Transport across Atomically Sharp SiC/Si Interfaces**|Qinqin He et.al.|[2401.09212](http://arxiv.org/abs/2401.09212)|null|
-|**2024-01-15**|**Predicting heteropolymer interactions: demixing and hypermixing of disordered protein sequences**|Kyosuke Adachi et.al.|[2401.07826](http://arxiv.org/abs/2401.07826)|null|
+|**2024-01-19**|**Predicting heteropolymer interactions: demixing and hypermixing of disordered protein sequences**|Kyosuke Adachi et.al.|[2401.07826](http://arxiv.org/abs/2401.07826)|null|
 |**2024-01-15**|**Electrical Conductivity of Hydrogen Plasmas: Low-density Benchmarks and Virial Expansion Including $e-e$ Collisions**|G. Röpke et.al.|[2401.07765](http://arxiv.org/abs/2401.07765)|null|
 |**2024-01-13**|**Unveiling the hidden reaction kinetic network of carbon in water with first-principles Markov state models**|Chu Li et.al.|[2401.07019](http://arxiv.org/abs/2401.07019)|null|
 |**2024-01-12**|**Disorder-Induced Heating in Molecular Atmospheric Pressure Plasmas**|Jarett LeVan et.al.|[2401.06873](http://arxiv.org/abs/2401.06873)|null|
@@ -414,7 +417,7 @@ layout: default
 |**2023-12-29**|**Spinodal enhancement of fluctuations in nucleus-nucleus collisions**|Roman Poberezhnyuk et.al.|[2312.17685](http://arxiv.org/abs/2312.17685)|null|
 |**2023-12-28**|**Rheological softening of metal nanocontacts sheared under oscillatory strains**|Ali Khosravi et.al.|[2312.17094](http://arxiv.org/abs/2312.17094)|null|
 |**2023-12-27**|**High Capacity Hydrogen Storage on Zirconium decorated γ-graphyne: A systematic first-principles study**|Mukesh Singh et.al.|[2312.16440](http://arxiv.org/abs/2312.16440)|null|
-|**2023-12-25**|**Virialized equation of state for warm and dense stellar plasmas in proto-neutron stars and Supernova matter**|D. Barba-González et.al.|[2312.16252](http://arxiv.org/abs/2312.16252)|null|
+|**2024-01-19**|**Virialized equation of state for warm and dense stellar plasmas in proto-neutron stars and Supernova matter**|D. Barba-González et.al.|[2312.16252](http://arxiv.org/abs/2312.16252)|null|
 |**2023-12-06**|**Hydrogel modified evaporation interface for highly stable membrane distillation**|Yanni Ma et.al.|[2312.14166](http://arxiv.org/abs/2312.14166)|null|
 |**2023-12-21**|**How precise molecular dynamic simulations are and what we can learn from it?**|M. V. Kondrin et.al.|[2312.13775](http://arxiv.org/abs/2312.13775)|null|
 |**2023-12-20**|**Microscopic model for a Brownian Translator**|Bart Wijns et.al.|[2312.13158](http://arxiv.org/abs/2312.13158)|null|
@@ -538,6 +541,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Ensembler: Combating model inversion attacks using model ensemble during collaborative inference**|Dancheng Liu et.al.|[2401.10859](http://arxiv.org/abs/2401.10859)|null|
+|**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857](http://arxiv.org/abs/2401.10857)|null|
+|**2024-01-19**|**Advancements in eHealth Data Analytics through Natural Language Processing and Deep Learning**|Elena-Simona Apostol et.al.|[2401.10850](http://arxiv.org/abs/2401.10850)|null|
+|**2024-01-19**|**Optimisation in Neurosymbolic Learning Systems**|Emile van Krieken et.al.|[2401.10819](http://arxiv.org/abs/2401.10819)|null|
+|**2024-01-19**|**Neglected Hessian component explains mysteries in Sharpness regularization**|Yann N. Dauphin et.al.|[2401.10809](http://arxiv.org/abs/2401.10809)|null|
+|**2024-01-19**|**Early alignment in two-layer networks training is a two-edged sword**|Etienne Boursier et.al.|[2401.10791](http://arxiv.org/abs/2401.10791)|null|
+|**2024-01-19**|**A Systematic Evaluation of Euclidean Alignment with Deep Learning for EEG Decoding**|Bruna Junqueira et.al.|[2401.10746](http://arxiv.org/abs/2401.10746)|null|
+|**2024-01-19**|**A Lightweight Multi-Attack CAN Intrusion Detection System on Hybrid FPGAs**|Shashwat Khandelwal et.al.|[2401.10689](http://arxiv.org/abs/2401.10689)|null|
+|**2024-01-19**|**Deep Learning-based Embedded Intrusion Detection System for Automotive CAN**|Shashwat Khandelwal et.al.|[2401.10674](http://arxiv.org/abs/2401.10674)|null|
+|**2024-01-19**|**AutoChunk: Automated Activation Chunk for Memory-Efficient Long Sequence Inference**|Xuanlei Zhao et.al.|[2401.10652](http://arxiv.org/abs/2401.10652)|null|
+|**2024-01-19**|**A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges**|Ali Amiri et.al.|[2401.10643](http://arxiv.org/abs/2401.10643)|null|
+|**2024-01-19**|**A deep learning initialized iterative method for Navier-Stokes Darcy model**|Jianguo Huang et.al.|[2401.10557](http://arxiv.org/abs/2401.10557)|null|
+|**2024-01-19**|**Learning Position-Aware Implicit Neural Network for Real-World Face Inpainting**|Bo Zhao et.al.|[2401.10537](http://arxiv.org/abs/2401.10537)|null|
+|**2024-01-19**|**SAGE-HB: Swift Adaptation and Generalization in Massive MIMO Hybrid Beamforming**|Ali Hasanzadeh Karkan et.al.|[2401.10513](http://arxiv.org/abs/2401.10513)|null|
+|**2024-01-19**|**Enhancing Scalability in Recommender Systems through Lottery Ticket Hypothesis and Knowledge Distillation-based Neural Network Pruning**|Rajaram R et.al.|[2401.10484](http://arxiv.org/abs/2401.10484)|null|
+|**2024-01-19**|**Fully automated planning for anatomical fetal brain MRI on 0.55T**|Sara Neves Silva et.al.|[2401.10441](http://arxiv.org/abs/2401.10441)|null|
+|**2024-01-18**|**SSR: Spatial Sequential Hybrid Architecture for Latency Throughput Tradeoff in Transformer Acceleration**|Jinming Zhuang et.al.|[2401.10417](http://arxiv.org/abs/2401.10417)|null|
+|**2024-01-18**|**Deep Dict: Deep Learning-based Lossy Time Series Compressor for IoT Data**|Jinxin Liu et.al.|[2401.10396](http://arxiv.org/abs/2401.10396)|null|
+|**2024-01-18**|**Deep learning and random light structuring ensure robust free-space communications**|Xiaofei Li et.al.|[2401.10392](http://arxiv.org/abs/2401.10392)|null|
+|**2024-01-18**|**Harmonized Spatial and Spectral Learning for Robust and Generalized Medical Image Segmentation**|Vandan Gorade et.al.|[2401.10373](http://arxiv.org/abs/2401.10373)|null|
+|**2024-01-18**|**Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting**|Hao Li et.al.|[2401.10359](http://arxiv.org/abs/2401.10359)|null|
+|**2024-01-18**|**Mathematical Algorithm Design for Deep Learning under Societal and Judicial Constraints: The Algorithmic Transparency Requirement**|Holger Boche et.al.|[2401.10310](http://arxiv.org/abs/2401.10310)|null|
+|**2024-01-18**|**A Hierarchical Framework with Spatio-Temporal Consistency Learning for Emergence Detection in Complex Adaptive Systems**|Siyuan Chen et.al.|[2401.10300](http://arxiv.org/abs/2401.10300)|null|
+|**2024-01-17**|**Detecting Post-Stroke Aphasia Via Brain Responses to Speech in a Deep Learning Framework**|Pieter De Clercq et.al.|[2401.10291](http://arxiv.org/abs/2401.10291)|null|
 |**2024-01-18**|**Tailoring Semantic Communication at Network Edge: A Novel Approach Using Dynamic Knowledge Distillation**|Abdullatif Albaseer et.al.|[2401.10214](http://arxiv.org/abs/2401.10214)|null|
 |**2024-01-18**|**Transfer Learning in Human Activity Recognition: A Survey**|Sourish Gunesh Dhekane et.al.|[2401.10185](http://arxiv.org/abs/2401.10185)|null|
 |**2024-01-17**|**Exploiting Hierarchical Interactions for Protein Surface Learning**|Yiqun Lin et.al.|[2401.10144](http://arxiv.org/abs/2401.10144)|**[link](https://github.com/xmed-lab/hcgnet)**|
