@@ -897,7 +897,7 @@
 |**2024-01-02**|**Calculating Quasi-Normal Modes of Schwarzschild Black Holes with Physics Informed Neural Networks**|Nirmal Patel et.al.|[2401.01440](http://arxiv.org/abs/2401.01440)|null|
 |**2024-01-02**|**Off-Road LiDAR Intensity Based Semantic Segmentation**|Kasi Viswanath et.al.|[2401.01439](http://arxiv.org/abs/2401.01439)|**[link](https://github.com/moonlabiiserb/lidar-intensity-predictor)**|
 |**2024-01-02**|**Modular Learning of Deep Causal Generative Models for High-dimensional Causal Inference**|Md Musfiqur Rahman et.al.|[2401.01426](http://arxiv.org/abs/2401.01426)|null|
-|**2024-01-01**|**Predicting Infant Brain Connectivity with Federated Multi-Trajectory GNNs using Scarce Data**|Michalis Pistos et.al.|[2401.01383](http://arxiv.org/abs/2401.01383)|null|
+|**2024-01-01**|**Predicting Infant Brain Connectivity with Federated Multi-Trajectory GNNs using Scarce Data**|Michalis Pistos et.al.|[2401.01383](http://arxiv.org/abs/2401.01383)|**[link](https://github.com/basiralab/fedgmte-net-plus)**|
 |**2024-01-02**|**Learning solutions to some toy constrained optimization problems in infinite dimensional Hilbert spaces**|Pinak Mandal et.al.|[2401.01306](http://arxiv.org/abs/2401.01306)|null|
 |**2024-01-02**|**Integrating Edges into U-Net Models with Explainable Activation Maps for Brain Tumor Segmentation using MR Images**|Subin Sahayam et.al.|[2401.01303](http://arxiv.org/abs/2401.01303)|null|
 |**2024-01-02**|**Physics-informed Generalizable Wireless Channel Modeling with Segmentation and Deep Learning: Fundamentals, Methodologies, and Challenges**|Ethan Zhu et.al.|[2401.01288](http://arxiv.org/abs/2401.01288)|null|
@@ -916,7 +916,7 @@
 |**2024-01-02**|**NU-Class Net: A Novel Deep Learning-based Approach for Video Quality Enhancement**|Parham Zilouchian Moghaddam et.al.|[2401.01163](http://arxiv.org/abs/2401.01163)|null|
 |**2024-01-02**|**Train-Free Segmentation in MRI with Cubical Persistent Homology**|Anton François et.al.|[2401.01160](http://arxiv.org/abs/2401.01160)|**[link](https://github.com/antonfrancois/gliomasegmentation_tda)**|
 |**2024-01-02**|**Deep Learning-Based Detection for Marker Codes over Insertion and Deletion Channels**|Guochen Ma et.al.|[2401.01155](http://arxiv.org/abs/2401.01155)|null|
-|**2024-01-02**|**HAAQI-Net: A non-intrusive neural music quality assessment model for hearing aids**|Dyah A. M. G. Wisnu et.al.|[2401.01145](http://arxiv.org/abs/2401.01145)|null|
+|**2024-01-02**|**HAAQI-Net: A non-intrusive neural music quality assessment model for hearing aids**|Dyah A. M. G. Wisnu et.al.|[2401.01145](http://arxiv.org/abs/2401.01145)|**[link](https://github.com/dyahayumgw/HAAQI-Net)**|
 |**2024-01-02**|**Aircraft Landing Time Prediction with Deep Learning on Trajectory Images**|Liping Huang et.al.|[2401.01083](http://arxiv.org/abs/2401.01083)|null|
 |**2024-01-02**|**Enhancing Automatic Modulation Recognition through Robust Global Feature Extraction**|Yunpeng Qu et.al.|[2401.01056](http://arxiv.org/abs/2401.01056)|null|
 |**2024-01-02**|**Relating Events and Frames Based on Self-Supervised Learning and Uncorrelated Conditioning for Unsupervised Domain Adaptation**|Mohammad Rostami et.al.|[2401.01042](http://arxiv.org/abs/2401.01042)|null|
@@ -1143,7 +1143,7 @@
 |**2023-12-18**|**ACCL+: an FPGA-Based Collective Engine for Distributed Applications**|Zhenhao He et.al.|[2312.11742](http://arxiv.org/abs/2312.11742)|null|
 |**2023-12-18**|**Multiple Hypothesis Dropout: Estimating the Parameters of Multi-Modal Output Distributions**|David D. Nguyen et.al.|[2312.11735](http://arxiv.org/abs/2312.11735)|null|
 |**2023-12-18**|**Detecting the edges of galaxies with deep learning**|Jesús Fernández et.al.|[2312.11654](http://arxiv.org/abs/2312.11654)|null|
-|**2023-12-18**|**ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**|Zhi Jin et.al.|[2312.11584](http://arxiv.org/abs/2312.11584)|null|
+|**2023-12-18**|**ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**|Zhi Jin et.al.|[2312.11584](http://arxiv.org/abs/2312.11584)|**[link](https://github.com/beam-labs/contranovo)**|
 |**2023-12-18**|**AI-Based Energy Transportation Safety: Pipeline Radial Threat Estimation Using Intelligent Sensing System**|Chengyuan Zhu et.al.|[2312.11583](http://arxiv.org/abs/2312.11583)|null|
 |**2023-12-18**|**PlaNet-S: Automatic Semantic Segmentation of Placenta**|Shinnosuke Yamamoto et.al.|[2312.11580](http://arxiv.org/abs/2312.11580)|null|
 |**2023-12-18**|**Application of AI in Nutrition**|Ritu Ramakrishnan et.al.|[2312.11569](http://arxiv.org/abs/2312.11569)|null|
