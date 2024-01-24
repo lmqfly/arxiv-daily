@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.23
+## Updated on 2024.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -556,7 +556,7 @@ layout: default
 |**2024-01-22**|**Feature Denoising Diffusion Model for Blind Image Quality Assessment**|Xudong Li et.al.|[2401.11949](http://arxiv.org/abs/2401.11949)|null|
 |**2024-01-22**|**Multimodal Deep Learning of Word-of-Mouth Text and Demographics to Predict Customer Rating: Handling Consumer Heterogeneity in Marketing**|Junichiro Niimi et.al.|[2401.11888](http://arxiv.org/abs/2401.11888)|null|
 |**2024-01-22**|**Evaluating the Feasibility of Standard Facial Expression Recognition in Individuals with Moderate to Severe Intellectual Disabilities**|F. Xavier Gaya-Morey et.al.|[2401.11877](http://arxiv.org/abs/2401.11877)|null|
-|**2024-01-22**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859](http://arxiv.org/abs/2401.11859)|null|
+|**2024-01-22**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859](http://arxiv.org/abs/2401.11859)|**[link](https://github.com/sad192/large-kernel-transformer)**|
 |**2024-01-22**|**MOSformer: Momentum encoder-based inter-slice fusion transformer for medical image segmentation**|De-Xing Huang et.al.|[2401.11856](http://arxiv.org/abs/2401.11856)|null|
 |**2024-01-22**|**Unveiling the Human-like Similarities of Automatic Facial Expression Recognition: An Empirical Exploration through Explainable AI**|F. Xavier Gaya-Morey et.al.|[2401.11835](http://arxiv.org/abs/2401.11835)|null|
 |**2024-01-22**|**A Fair Evaluation of Various Deep Learning-Based Document Image Binarization Approaches**|Richin Sukesh et.al.|[2401.11831](http://arxiv.org/abs/2401.11831)|**[link](https://github.com/richsu95/document_binarization_collection)**|
@@ -604,7 +604,7 @@ layout: default
 |**2024-01-19**|**Advancements in eHealth Data Analytics through Natural Language Processing and Deep Learning**|Elena-Simona Apostol et.al.|[2401.10850](http://arxiv.org/abs/2401.10850)|null|
 |**2024-01-19**|**Optimisation in Neurosymbolic Learning Systems**|Emile van Krieken et.al.|[2401.10819](http://arxiv.org/abs/2401.10819)|null|
 |**2024-01-19**|**Neglected Hessian component explains mysteries in Sharpness regularization**|Yann N. Dauphin et.al.|[2401.10809](http://arxiv.org/abs/2401.10809)|null|
-|**2024-01-19**|**Early alignment in two-layer networks training is a two-edged sword**|Etienne Boursier et.al.|[2401.10791](http://arxiv.org/abs/2401.10791)|null|
+|**2024-01-19**|**Early alignment in two-layer networks training is a two-edged sword**|Etienne Boursier et.al.|[2401.10791](http://arxiv.org/abs/2401.10791)|**[link](https://github.com/eboursier/early_alignment)**|
 |**2024-01-19**|**A Systematic Evaluation of Euclidean Alignment with Deep Learning for EEG Decoding**|Bruna Junqueira et.al.|[2401.10746](http://arxiv.org/abs/2401.10746)|null|
 |**2024-01-19**|**A Lightweight Multi-Attack CAN Intrusion Detection System on Hybrid FPGAs**|Shashwat Khandelwal et.al.|[2401.10689](http://arxiv.org/abs/2401.10689)|null|
 |**2024-01-19**|**Deep Learning-based Embedded Intrusion Detection System for Automotive CAN**|Shashwat Khandelwal et.al.|[2401.10674](http://arxiv.org/abs/2401.10674)|null|
@@ -619,7 +619,7 @@ layout: default
 |**2024-01-18**|**Deep Dict: Deep Learning-based Lossy Time Series Compressor for IoT Data**|Jinxin Liu et.al.|[2401.10396](http://arxiv.org/abs/2401.10396)|null|
 |**2024-01-18**|**Deep learning and random light structuring ensure robust free-space communications**|Xiaofei Li et.al.|[2401.10392](http://arxiv.org/abs/2401.10392)|null|
 |**2024-01-18**|**Harmonized Spatial and Spectral Learning for Robust and Generalized Medical Image Segmentation**|Vandan Gorade et.al.|[2401.10373](http://arxiv.org/abs/2401.10373)|null|
-|**2024-01-18**|**Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting**|Hao Li et.al.|[2401.10359](http://arxiv.org/abs/2401.10359)|null|
+|**2024-01-18**|**Keeping Deep Learning Models in Check: A History-Based Approach to Mitigate Overfitting**|Hao Li et.al.|[2401.10359](http://arxiv.org/abs/2401.10359)|**[link](https://github.com/asgaardlab/overfitguard)**|
 |**2024-01-18**|**Mathematical Algorithm Design for Deep Learning under Societal and Judicial Constraints: The Algorithmic Transparency Requirement**|Holger Boche et.al.|[2401.10310](http://arxiv.org/abs/2401.10310)|null|
 |**2024-01-18**|**A Hierarchical Framework with Spatio-Temporal Consistency Learning for Emergence Detection in Complex Adaptive Systems**|Siyuan Chen et.al.|[2401.10300](http://arxiv.org/abs/2401.10300)|null|
 |**2024-01-17**|**Detecting Post-Stroke Aphasia Via Brain Responses to Speech in a Deep Learning Framework**|Pieter De Clercq et.al.|[2401.10291](http://arxiv.org/abs/2401.10291)|null|
