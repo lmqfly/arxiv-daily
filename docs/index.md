@@ -380,6 +380,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Transport Dynamics of Water Molecules Confined between Lipid Membranes**|Minho Lee et.al.|[2401.13253](http://arxiv.org/abs/2401.13253)|null|
+|**2024-01-24**|**On the Statistical Mechanics of Mass Accommodation at Liquid-Vapor Interfaces**|Kritanjan Polley et.al.|[2401.13234](http://arxiv.org/abs/2401.13234)|null|
+|**2024-01-23**|**Liquid-crystal-like dynamic transition in ferroelectric/dielectric superlattices**|Fernando Gómez-Ortiz et.al.|[2401.13026](http://arxiv.org/abs/2401.13026)|null|
 |**2024-01-22**|**Two-dimensional silk**|Chenyang Shi et.al.|[2401.12400](http://arxiv.org/abs/2401.12400)|null|
 |**2024-01-21**|**Tunable thermal conductivity of sustainable geopolymers by Si/Al ratio and moisture content: insights from atomistic simulations**|Wenkai Liu et.al.|[2401.11522](http://arxiv.org/abs/2401.11522)|null|
 |**2024-01-21**|**Liquid water based optoelectronic computing chip**|Minhui Yang et.al.|[2401.11514](http://arxiv.org/abs/2401.11514)|null|
@@ -546,6 +549,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Inadequacy of common stochastic neural networks for reliable clinical decision support**|Adrian Lindenmeyer et.al.|[2401.13657](http://arxiv.org/abs/2401.13657)|null|
+|**2024-01-24**|**PLATE: A perception-latency aware estimator,**|Rodrigo Aldana-López et.al.|[2401.13596](http://arxiv.org/abs/2401.13596)|null|
+|**2024-01-24**|**Deep Learning Based Adaptive Joint mmWave Beam Alignment**|Daniel Tandler et.al.|[2401.13587](http://arxiv.org/abs/2401.13587)|null|
+|**2024-01-24**|**CNN architecture extraction on edge GPU**|Peter Horvath et.al.|[2401.13575](http://arxiv.org/abs/2401.13575)|null|
+|**2024-01-24**|**NSNO: Neumann Series Neural Operator for Solving Helmholtz Equations in Inhomogeneous Medium**|Fukai Chen et.al.|[2401.13494](http://arxiv.org/abs/2401.13494)|null|
+|**2024-01-24**|**Segmenting Cardiac Muscle Z-disks with Deep Neural Networks**|Mihaela Croitor Ibrahim et.al.|[2401.13472](http://arxiv.org/abs/2401.13472)|null|
+|**2024-01-24**|**Generating stellar spectra using Neural Networks**|Marwan Gebran et.al.|[2401.13411](http://arxiv.org/abs/2401.13411)|null|
+|**2024-01-24**|**Privacy-Preserving Face Recognition in Hybrid Frequency-Color Domain**|Dong Han et.al.|[2401.13386](http://arxiv.org/abs/2401.13386)|null|
+|**2024-01-24**|**Deep Learning for Improved Polyp Detection from Synthetic Narrow-Band Imaging**|Mathias Ramm Haugland et.al.|[2401.13315](http://arxiv.org/abs/2401.13315)|null|
+|**2024-01-24**|**SCNet: Sparse Compression Network for Music Source Separation**|Weinan Tong et.al.|[2401.13276](http://arxiv.org/abs/2401.13276)|null|
+|**2024-01-24**|**Dual-modal Dynamic Traceback Learning for Medical Report Generation**|Shuchang Ye et.al.|[2401.13267](http://arxiv.org/abs/2401.13267)|null|
+|**2024-01-24**|**AMANet: Advancing SAR Ship Detection with Adaptive Multi-Hierarchical Attention Network**|Xiaolin Ma et.al.|[2401.13214](http://arxiv.org/abs/2401.13214)|null|
+|**2024-01-24**|**Self-Improving Interference Management Based on Deep Learning With Uncertainty Quantification**|Hyun-Suk Lee et.al.|[2401.13206](http://arxiv.org/abs/2401.13206)|null|
+|**2024-01-24**|**Predicting Mitral Valve mTEER Surgery Outcomes Using Machine Learning and Deep Learning Techniques**|Tejas Vyas et.al.|[2401.13197](http://arxiv.org/abs/2401.13197)|null|
+|**2024-01-24**|**Catch-Up Mix: Catch-Up Class for Struggling Filters in CNN**|Minsoo Kang et.al.|[2401.13193](http://arxiv.org/abs/2401.13193)|null|
+|**2024-01-24**|**Towards Multi-domain Face Landmark Detection with Synthetic Data from Diffusion model**|Yuanming Li et.al.|[2401.13191](http://arxiv.org/abs/2401.13191)|null|
+|**2024-01-24**|**Deep Learning Model Reuse in the HuggingFace Community: Challenges, Benefit and Trends**|Mina Taraghi et.al.|[2401.13177](http://arxiv.org/abs/2401.13177)|**[link](https://github.com/mina-taraghi/saner2024replicationpackage)**|
+|**2024-01-24**|**A Repository-Level Dataset For Detecting, Classifying and Repairing Software Vulnerabilities**|Xinchen Wang et.al.|[2401.13169](http://arxiv.org/abs/2401.13169)|null|
+|**2024-01-23**|**Gravity-Informed Deep Learning Framework for Predicting Ship Traffic Flow and Invasion Risk of Non-Indigenous Species via Ballast Water Discharge**|Ruixin Song et.al.|[2401.13098](http://arxiv.org/abs/2401.13098)|null|
+|**2024-01-23**|**Digital Divides in Scene Recognition: Uncovering Socioeconomic Biases in Deep Learning Systems**|Michelle R. Greene et.al.|[2401.13097](http://arxiv.org/abs/2401.13097)|null|
+|**2024-01-23**|**Local Background Estimation for Improved Gas Plume Identification in Hyperspectral Images**|Scout Jarman et.al.|[2401.13068](http://arxiv.org/abs/2401.13068)|null|
+|**2024-01-23**|**CIS-UNet: Multi-Class Segmentation of the Aorta in Computed Tomography Angiography via Context-Aware Shifted Window Self-Attention**|Muhammad Imran et.al.|[2401.13049](http://arxiv.org/abs/2401.13049)|null|
+|**2024-01-23**|**CIMGEN: Controlled Image Manipulation by Finetuning Pretrained Generative Models on Limited Data**|Chandrakanth Gudavalli et.al.|[2401.13006](http://arxiv.org/abs/2401.13006)|null|
+|**2024-01-22**|**Quantum-Inspired Machine Learning for Molecular Docking**|Runqiu Shu et.al.|[2401.12999](http://arxiv.org/abs/2401.12999)|null|
 |**2024-01-23**|**SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI**|Hanxue Gu et.al.|[2401.12974](http://arxiv.org/abs/2401.12974)|null|
 |**2024-01-23**|**Unlocking the Potential: Multi-task Deep Learning for Spaceborne Quantitative Monitoring of Fugitive Methane Plumes**|Guoxin Si et.al.|[2401.12870](http://arxiv.org/abs/2401.12870)|null|
 |**2024-01-23**|**Deep Learning Based Simulators for the Phosphorus Removal Process Control in Wastewater Treatment via Deep Reinforcement Learning Algorithms**|Esmaeel Mohammadi et.al.|[2401.12822](http://arxiv.org/abs/2401.12822)|null|
@@ -584,7 +611,7 @@ layout: default
 |**2024-01-22**|**Feature Denoising Diffusion Model for Blind Image Quality Assessment**|Xudong Li et.al.|[2401.11949](http://arxiv.org/abs/2401.11949)|null|
 |**2024-01-22**|**Multimodal Deep Learning of Word-of-Mouth Text and Demographics to Predict Customer Rating: Handling Consumer Heterogeneity in Marketing**|Junichiro Niimi et.al.|[2401.11888](http://arxiv.org/abs/2401.11888)|null|
 |**2024-01-22**|**Evaluating the Feasibility of Standard Facial Expression Recognition in Individuals with Moderate to Severe Intellectual Disabilities**|F. Xavier Gaya-Morey et.al.|[2401.11877](http://arxiv.org/abs/2401.11877)|null|
-|**2024-01-22**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859](http://arxiv.org/abs/2401.11859)|**[link](https://github.com/sad192/large-kernel-transformer)**|
+|**2024-01-24**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859](http://arxiv.org/abs/2401.11859)|**[link](https://github.com/sad192/large-kernel-transformer)**|
 |**2024-01-22**|**MOSformer: Momentum encoder-based inter-slice fusion transformer for medical image segmentation**|De-Xing Huang et.al.|[2401.11856](http://arxiv.org/abs/2401.11856)|null|
 |**2024-01-22**|**Unveiling the Human-like Similarities of Automatic Facial Expression Recognition: An Empirical Exploration through Explainable AI**|F. Xavier Gaya-Morey et.al.|[2401.11835](http://arxiv.org/abs/2401.11835)|null|
 |**2024-01-22**|**A Fair Evaluation of Various Deep Learning-Based Document Image Binarization Approaches**|Richin Sukesh et.al.|[2401.11831](http://arxiv.org/abs/2401.11831)|**[link](https://github.com/richsu95/document_binarization_collection)**|
