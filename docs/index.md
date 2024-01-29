@@ -664,13 +664,13 @@ layout: default
 |**2024-01-20**|**Machine learning based state observer for discrete time systems evolving on Lie groups**|Soham Shanbhag et.al.|[2401.11196](http://arxiv.org/abs/2401.11196)|null|
 |**2024-01-20**|**Data-Driven Target Localization: Benchmarking Gradient Descent Using the Cramér-Rao Bound**|Shyam Venkatasubramanian et.al.|[2401.11176](http://arxiv.org/abs/2401.11176)|null|
 |**2024-01-20**|**Data-driven Option Pricing**|Min Dai et.al.|[2401.11158](http://arxiv.org/abs/2401.11158)|null|
-|**2024-01-20**|**Deep Learning-Based Adaptive Joint Source-Channel Coding using Hypernetworks**|Songjie Xie et.al.|[2401.11155](http://arxiv.org/abs/2401.11155)|null|
+|**2024-01-20**|**Deep Learning-Based Adaptive Joint Source-Channel Coding using Hypernetworks**|Songjie Xie et.al.|[2401.11155](http://arxiv.org/abs/2401.11155)|**[link](https://github.com/songjiexie/hyper-ajscc)**|
 |**2024-01-20**|**Wideband Beamforming for RIS Assisted Near-Field Communications**|Ji Wang et.al.|[2401.11141](http://arxiv.org/abs/2401.11141)|null|
 |**2024-01-20**|**ASM: Audio Spectrogram Mixer**|Qingfeng Ji et.al.|[2401.11102](http://arxiv.org/abs/2401.11102)|null|
 |**2024-01-20**|**Neural auto-designer for enhanced quantum kernels**|Cong Lei et.al.|[2401.11098](http://arxiv.org/abs/2401.11098)|null|
 |**2024-01-20**|**Learned Image Compression with Dual-Branch Encoder and Conditional Information Coding**|Haisheng Fu et.al.|[2401.11093](http://arxiv.org/abs/2401.11093)|null|
 |**2024-01-19**|**Learned Image resizing with efficient training (LRET) facilitates improved performance of large-scale digital histopathology image classification models**|Md Zahangir Alom et.al.|[2401.11062](http://arxiv.org/abs/2401.11062)|null|
-|**2024-01-19**|**Time-Delayed Koopman Network-Based Model Predictive Control for the FRIB RFQ**|Jinyu Wan et.al.|[2401.11031](http://arxiv.org/abs/2401.11031)|null|
+|**2024-01-19**|**Time-Delayed Koopman Network-Based Model Predictive Control for the FRIB RFQ**|Jinyu Wan et.al.|[2401.11031](http://arxiv.org/abs/2401.11031)|**[link](https://github.com/jinyu95/lstm-based-koopman-network-for-mpc)**|
 |**2024-01-19**|**Analysis and Detection of Multilingual Hate Speech Using Transformer Based Deep Learning**|Arijit Das et.al.|[2401.11021](http://arxiv.org/abs/2401.11021)|null|
 |**2024-01-19**|**BioFinBERT: Finetuning Large Language Models (LLMs) to Analyze Sentiment of Press Releases and Financial Text Around Inflection Points of Biotech Stocks**|Valentina Aparicio et.al.|[2401.11011](http://arxiv.org/abs/2401.11011)|null|
 |**2024-01-19**|**Detection of Thermal Events by Semi-Supervised Learning for Tokamak First Wall Safety**|Christian Staron et.al.|[2401.10958](http://arxiv.org/abs/2401.10958)|null|
@@ -690,7 +690,7 @@ layout: default
 |**2024-01-19**|**SAGE-HB: Swift Adaptation and Generalization in Massive MIMO Hybrid Beamforming**|Ali Hasanzadeh Karkan et.al.|[2401.10513](http://arxiv.org/abs/2401.10513)|null|
 |**2024-01-19**|**Enhancing Scalability in Recommender Systems through Lottery Ticket Hypothesis and Knowledge Distillation-based Neural Network Pruning**|Rajaram R et.al.|[2401.10484](http://arxiv.org/abs/2401.10484)|null|
 |**2024-01-19**|**Fully automated planning for anatomical fetal brain MRI on 0.55T**|Sara Neves Silva et.al.|[2401.10441](http://arxiv.org/abs/2401.10441)|null|
-|**2024-01-18**|**SSR: Spatial Sequential Hybrid Architecture for Latency Throughput Tradeoff in Transformer Acceleration**|Jinming Zhuang et.al.|[2401.10417](http://arxiv.org/abs/2401.10417)|null|
+|**2024-01-18**|**SSR: Spatial Sequential Hybrid Architecture for Latency Throughput Tradeoff in Transformer Acceleration**|Jinming Zhuang et.al.|[2401.10417](http://arxiv.org/abs/2401.10417)|**[link](https://github.com/arc-research-lab/ssr)**|
 |**2024-01-18**|**Deep Dict: Deep Learning-based Lossy Time Series Compressor for IoT Data**|Jinxin Liu et.al.|[2401.10396](http://arxiv.org/abs/2401.10396)|null|
 |**2024-01-18**|**Deep learning and random light structuring ensure robust free-space communications**|Xiaofei Li et.al.|[2401.10392](http://arxiv.org/abs/2401.10392)|null|
 |**2024-01-18**|**Harmonized Spatial and Spectral Learning for Robust and Generalized Medical Image Segmentation**|Vandan Gorade et.al.|[2401.10373](http://arxiv.org/abs/2401.10373)|null|
@@ -727,7 +727,7 @@ layout: default
 |**2024-01-17**|**4D-ONIX: A deep learning approach for reconstructing 3D movies from sparse X-ray projections**|Yuhe Zhang et.al.|[2401.09508](http://arxiv.org/abs/2401.09508)|null|
 |**2024-01-17**|**Learning to Generalize over Subpartitions for Heterogeneity-aware Domain Adaptive Nuclei Segmentation**|Jianan Fan et.al.|[2401.09496](http://arxiv.org/abs/2401.09496)|null|
 |**2024-01-17**|**VeriBug: An Attention-based Framework for Bug-Localization in Hardware Designs**|Giuseppe Stracquadanio et.al.|[2401.09494](http://arxiv.org/abs/2401.09494)|null|
-|**2024-01-15**|**Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning**|Rahul Vishwakarma et.al.|[2401.09479](http://arxiv.org/abs/2401.09479)|null|
+|**2024-01-15**|**Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning**|Rahul Vishwakarma et.al.|[2401.09479](http://arxiv.org/abs/2401.09479)|**[link](https://github.com/cars-lab-repo/noodle)**|
 |**2024-01-17**|**Online Stability Improvement of Groebner Basis Solvers using Deep Learning**|Wanting Xu et.al.|[2401.09328](http://arxiv.org/abs/2401.09328)|null|
 |**2024-01-17**|**Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery**|Jia Jia et.al.|[2401.09325](http://arxiv.org/abs/2401.09325)|null|
 |**2024-01-17**|**Can Synthetic Data Boost the Training of Deep Acoustic Vehicle Counting Networks?**|Stefano Damiano et.al.|[2401.09308](http://arxiv.org/abs/2401.09308)|null|
@@ -1536,7 +1536,7 @@ layout: default
 |**2023-12-08**|**ProsDectNet: Bridging the Gap in Prostate Cancer Detection via Transrectal B-mode Ultrasound Imaging**|Sulaiman Vesal et.al.|[2312.05334](http://arxiv.org/abs/2312.05334)|null|
 |**2023-12-08**|**Data-Centric Machine Learning for Geospatial Remote Sensing Data**|Ribana Roscher et.al.|[2312.05327](http://arxiv.org/abs/2312.05327)|null|
 |**2023-12-08**|**Quantitative perfusion maps using a novelty spatiotemporal convolutional neural network**|Anbo Cao et.al.|[2312.05279](http://arxiv.org/abs/2312.05279)|null|
-|**2023-12-07**|**Image and AIS Data Fusion Technique for Maritime Computer Vision Applications**|Emre Gülsoylu et.al.|[2312.05270](http://arxiv.org/abs/2312.05270)|null|
+|**2023-12-07**|**Image and AIS Data Fusion Technique for Maritime Computer Vision Applications**|Emre Gülsoylu et.al.|[2312.05270](http://arxiv.org/abs/2312.05270)|**[link](https://github.com/egulsoylu/image-ais-fusion)**|
 |**2023-12-08**|**TaskMet: Task-Driven Metric Learning for Model Learning**|Dishank Bansal et.al.|[2312.05250](http://arxiv.org/abs/2312.05250)|null|
 |**2023-12-08**|**Enhancing Facial Classification and Recognition using 3D Facial Models and Deep Learning**|Houting Li et.al.|[2312.05219](http://arxiv.org/abs/2312.05219)|null|
 |**2023-12-08**|**Embedding theory in ML toward real-time tracking of structural dynamics through hyperspectral datasets**|Jonathan D Hollenbach et.al.|[2312.05201](http://arxiv.org/abs/2312.05201)|null|
