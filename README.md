@@ -396,6 +396,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Three phase equilibria of the methane hydrate in NaCl solutions: A simulation study**|S. Blazquez et.al.|[2401.15060](http://arxiv.org/abs/2401.15060)|null|
+|**2024-01-26**|**Predictive power of polynomial machine learning potentials for liquid states in 22 elemental systems**|Hayato Wakai et.al.|[2401.14877](http://arxiv.org/abs/2401.14877)|null|
+|**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-01-25**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 |**2024-01-24**|**Experimental and theoretical confirmation of an orthorhombic phase transition in niobium at high pressure and temperature**|Daniel Errandonea et.al.|[2401.13818](http://arxiv.org/abs/2401.13818)|null|
 |**2024-01-24**|**Transport Dynamics of Water Molecules Confined between Lipid Membranes**|Minho Lee et.al.|[2401.13253](http://arxiv.org/abs/2401.13253)|null|
@@ -569,6 +572,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Deep learning-based approach for tomato classification in complex scenes**|Mikael A. Mousse et.al.|[2401.15055](http://arxiv.org/abs/2401.15055)|null|
+|**2024-01-26**|**Microwave lymphedema assessment using deep learning with contour assisted backprojection**|Yuyi Chang et.al.|[2401.14970](http://arxiv.org/abs/2401.14970)|null|
+|**2024-01-26**|**Adaptive Point Transformer**|Alessandro Baiocchi et.al.|[2401.14845](http://arxiv.org/abs/2401.14845)|null|
+|**2024-01-26**|**Adversarial Attacks and Defenses in 6G Network-Assisted IoT Systems**|Bui Duc Son et.al.|[2401.14780](http://arxiv.org/abs/2401.14780)|null|
+|**2024-01-26**|**pLitterStreet: Street Level Plastic Litter Detection and Mapping**|Sriram Reddy Mandhati et.al.|[2401.14719](http://arxiv.org/abs/2401.14719)|null|
+|**2024-01-26**|**Additional Look into GAN-based Augmentation for Deep Learning COVID-19 Image Classification**|Oleksandr Fedoruk et.al.|[2401.14705](http://arxiv.org/abs/2401.14705)|null|
+|**2024-01-26**|**TA-RNN: an Attention-based Time-aware Recurrent Neural Network Architecture for Electronic Health Records**|Mohammad Al Olaimat et.al.|[2401.14694](http://arxiv.org/abs/2401.14694)|null|
+|**2024-01-26**|**Diversity-guided Search Exploration for Self-driving Cars Test Generation through Frenet Space Encoding**|Timo Blattner et.al.|[2401.14682](http://arxiv.org/abs/2401.14682)|null|
+|**2024-01-26**|**PepGB: Facilitating peptide drug discovery via graph neural networks**|Yipin Lei et.al.|[2401.14665](http://arxiv.org/abs/2401.14665)|null|
+|**2024-01-26**|**Inferring Data Preconditions from Deep Learning Models for Trustworthy Prediction in Deployment**|Shibbir Ahmed et.al.|[2401.14628](http://arxiv.org/abs/2401.14628)|null|
+|**2024-01-26**|**A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research**|Sicong Cao et.al.|[2401.14617](http://arxiv.org/abs/2401.14617)|null|
+|**2024-01-26**|**Deep-learning-based prediction of the tetragonal $\rightarrow$ cubic transition in davemaoite**|Fulun Wu et.al.|[2401.14588](http://arxiv.org/abs/2401.14588)|null|
+|**2024-01-25**|**Investigating the Quality of DermaMNIST and Fitzpatrick17k Dermatological Image Datasets**|Kumar Abhishek et.al.|[2401.14497](http://arxiv.org/abs/2401.14497)|null|
+|**2024-01-25**|**The Case for Co-Designing Model Architectures with Hardware**|Quentin Anthony et.al.|[2401.14489](http://arxiv.org/abs/2401.14489)|null|
+|**2024-01-24**|**Location Agnostic Source-Free Domain Adaptive Learning to Predict Solar Power Generation**|Md Shazid Islam et.al.|[2401.14422](http://arxiv.org/abs/2401.14422)|null|
+|**2024-01-22**|**Acoustic characterization of speech rhythm: going beyond metrics with recurrent neural networks**|François Deloche et.al.|[2401.14416](http://arxiv.org/abs/2401.14416)|null|
 |**2024-01-25**|**Inconsistency Masks: Removing the Uncertainty from Input-Pseudo-Label Pairs**|Michael R. H. Vorndran et.al.|[2401.14387](http://arxiv.org/abs/2401.14387)|**[link](https://github.com/michaelvorndran/inconsistencymasks)**|
 |**2024-01-25**|**Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs**|Martin Hanik et.al.|[2401.14381](http://arxiv.org/abs/2401.14381)|null|
 |**2024-01-25**|**Uncovering Heterogeneity of Solar Flare Mechanism With Mixture Models**|Bach Viet Do et.al.|[2401.14345](http://arxiv.org/abs/2401.14345)|null|
