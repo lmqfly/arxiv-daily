@@ -281,6 +281,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299](http://arxiv.org/abs/2401.16299)|null|
 |**2023-12-28**|**Adjustable Molecular Representation for Unified Pre-training Strategy**|Yan Ding et.al.|[2401.06166](http://arxiv.org/abs/2401.06166)|null|
 |**2024-01-09**|**TwinBooster: Synergising Large Language Models with Barlow Twins and Gradient Boosting for Enhanced Molecular Property Prediction**|Maximilian G. Schuh et.al.|[2401.04478](http://arxiv.org/abs/2401.04478)|**[link](https://github.com/maxischuh/twinbooster)**|
 |**2024-01-09**|**Multi-Modal Representation Learning for Molecular Property Prediction: Sequence, Graph, Geometry**|Zeyu Wang et.al.|[2401.03369](http://arxiv.org/abs/2401.03369)|**[link](https://github.com/vencent-won/sggrl)**|
@@ -396,6 +397,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Majority of water hides deep in the interiors of exoplanets**|Haiyang Luo et.al.|[2401.16394](http://arxiv.org/abs/2401.16394)|null|
+|**2024-01-29**|**Molecular dynamics simulations of heat transport using machine-learned potentials: A mini review and tutorial on GPUMD with neuroevolution potentials**|Haikuan Dong et.al.|[2401.16249](http://arxiv.org/abs/2401.16249)|null|
+|**2024-01-29**|**Enhancing Protein-Ligand Binding Affinity Predictions using Neural Network Potentials**|Francesc Sabanes Zariquiey et.al.|[2401.16062](http://arxiv.org/abs/2401.16062)|null|
+|**2024-01-29**|**Generalized Algorithm for Recognition of Complex Point Defects in Large-Scale β- $\rm {Ga_2O_3}$**|Mengzhi Yan et.al.|[2401.15920](http://arxiv.org/abs/2401.15920)|null|
 |**2024-01-26**|**Three phase equilibria of the methane hydrate in NaCl solutions: A simulation study**|S. Blazquez et.al.|[2401.15060](http://arxiv.org/abs/2401.15060)|null|
 |**2024-01-26**|**Predictive power of polynomial machine learning potentials for liquid states in 22 elemental systems**|Hayato Wakai et.al.|[2401.14877](http://arxiv.org/abs/2401.14877)|null|
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
@@ -572,10 +577,64 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Amazon's 2023 Drought: Sentinel-1 Reveals Extreme Rio Negro River Contraction**|Fabien H Wagner et.al.|[2401.16393](http://arxiv.org/abs/2401.16393)|null|
+|**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388](http://arxiv.org/abs/2401.16388)|null|
+|**2024-01-29**|**Leveraging Positional Encoding for Robust Multi-Reference-Based Object 6D Pose Estimation**|Jaewoo Park et.al.|[2401.16284](http://arxiv.org/abs/2401.16284)|null|
+|**2024-01-29**|**YingLong: Skillful High Resolution Regional Short Term Forecasting with Boundary Smoothing**|Pengbo Xu et.al.|[2401.16254](http://arxiv.org/abs/2401.16254)|null|
+|**2024-01-29**|**Contributing Dimension Structure of Deep Feature for Coreset Selection**|Zhijing Wan et.al.|[2401.16193](http://arxiv.org/abs/2401.16193)|null|
+|**2024-01-29**|**AI prediction of cardiovascular events using opportunistic epicardial adipose tissue assessments from CT calcium score**|Tao Hu et.al.|[2401.16190](http://arxiv.org/abs/2401.16190)|null|
+|**2024-01-29**|**Graph Neural Network-based Joint Equalization and Decoding**|Jannis Clausius et.al.|[2401.16187](http://arxiv.org/abs/2401.16187)|null|
+|**2024-01-29**|**On the Semantics of LM Latent Space: A Vocabulary-defined Approach**|Jian Gu et.al.|[2401.16184](http://arxiv.org/abs/2401.16184)|null|
+|**2024-01-29**|**Reconfigurable AI Modules Aided Channel Estimation and MIMO Detection**|Xiangzhao Qin et.al.|[2401.16141](http://arxiv.org/abs/2401.16141)|null|
+|**2024-01-29**|**A 2D Sinogram-Based Approach to Defect Localization in Computed Tomography**|Yuzhong Zhou et.al.|[2401.16104](http://arxiv.org/abs/2401.16104)|null|
+|**2024-01-29**|**Flexible Parallel Neural Network Architecture Model for Early Prediction of Lithium Battery Life**|Lidang Jiang et.al.|[2401.16102](http://arxiv.org/abs/2401.16102)|null|
+|**2024-01-29**|**High Resolution Image Quality Database**|Huang Huang et.al.|[2401.16087](http://arxiv.org/abs/2401.16087)|null|
+|**2024-01-29**|**A symmetric silicon microring resonator optical crossbar array for accelerated inference and training in deep learning**|Rui Tang et.al.|[2401.16072](http://arxiv.org/abs/2401.16072)|null|
+|**2024-01-29**|**Data-Driven Filter Design in FBP: Transforming CT Reconstruction with Trainable Fourier Series**|Yipeng Sun et.al.|[2401.16039](http://arxiv.org/abs/2401.16039)|null|
+|**2024-01-29**|**Domain adaptation strategies for 3D reconstruction of the lumbar spine using real fluoroscopy data**|Sascha Jecklin et.al.|[2401.16027](http://arxiv.org/abs/2401.16027)|null|
+|**2024-01-29**|**LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection**|Jiwei Tian et.al.|[2401.16001](http://arxiv.org/abs/2401.16001)|null|
+|**2024-01-29**|**HICH Image/Text (HICH-IT): Comprehensive Text and Image Datasets for Hypertensive Intracerebral Hemorrhage Research**|Jie Li et.al.|[2401.15934](http://arxiv.org/abs/2401.15934)|null|
+|**2024-01-29**|**A Gated MLP Architecture for Learning Topological Dependencies in Spatio-Temporal Graphs**|Yun Young Choi et.al.|[2401.15894](http://arxiv.org/abs/2401.15894)|null|
+|**2024-01-29**|**Arbitrary-Scale Downscaling of Tidal Current Data Using Implicit Continuous Representation**|Dongheon Lee et.al.|[2401.15893](http://arxiv.org/abs/2401.15893)|null|
+|**2024-01-29**|**Combining Satellite and Weather Data for Crop Type Mapping: An Inverse Modelling Approach**|Praveen Ravirathinam et.al.|[2401.15875](http://arxiv.org/abs/2401.15875)|null|
+|**2024-01-29**|**Importance-Aware Adaptive Dataset Distillation**|Guang Li et.al.|[2401.15863](http://arxiv.org/abs/2401.15863)|null|
+|**2024-01-29**|**LSTM-based Deep Neural Network With A Focus on Sentence Representation for Sequential Sentence Classification in Medical Scientific Abstracts**|Phat Lam et.al.|[2401.15854](http://arxiv.org/abs/2401.15854)|null|
+|**2024-01-29**|**Green Runner: A tool for efficient deep learning component selection**|Jai Kannan et.al.|[2401.15810](http://arxiv.org/abs/2401.15810)|null|
+|**2024-01-28**|**An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion**|Sharib Ali et.al.|[2401.15753](http://arxiv.org/abs/2401.15753)|null|
+|**2024-01-28**|**SegmentAnyTree: A sensor and platform agnostic deep learning model for tree segmentation using laser scanning data**|Maciej Wielgosz et.al.|[2401.15739](http://arxiv.org/abs/2401.15739)|null|
+|**2024-01-28**|**A Study of Acquisition Functions for Medical Imaging Deep Active Learning**|Bonaventure F. P. Dossou et.al.|[2401.15721](http://arxiv.org/abs/2401.15721)|null|
+|**2024-01-28**|**Detecting highly collimated photon-jets from Higgs boson exotic decays with deep learning**|Xiaocong Ai et.al.|[2401.15690](http://arxiv.org/abs/2401.15690)|null|
+|**2024-01-28**|**Detection of a facemask in real-time using deep learning methods: Prevention of Covid 19**|Gautam Siddharth Kashyap et.al.|[2401.15675](http://arxiv.org/abs/2401.15675)|null|
+|**2024-01-28**|**Low-resolution Prior Equilibrium Network for CT Reconstruction**|Yijie Yang et.al.|[2401.15663](http://arxiv.org/abs/2401.15663)|null|
+|**2024-01-28**|**Data-Free Generalized Zero-Shot Learning**|Bowen Tang et.al.|[2401.15657](http://arxiv.org/abs/2401.15657)|null|
+|**2024-01-28**|**Deep Learning for Gamma-Ray Bursts: A data driven event framework for X/Gamma-Ray analysis in space telescopes**|Riccardo Crupi et.al.|[2401.15632](http://arxiv.org/abs/2401.15632)|null|
+|**2024-01-28**|**Data-Driven Strategies for Coping with Incomplete DVL Measurements**|Nadav Cohen et.al.|[2401.15620](http://arxiv.org/abs/2401.15620)|null|
+|**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613](http://arxiv.org/abs/2401.15613)|null|
+|**2024-01-28**|**Anomaly Detection of Particle Orbit in Accelerator using LSTM Deep Learning Technology**|Zhiyuan Chen et.al.|[2401.15543](http://arxiv.org/abs/2401.15543)|null|
+|**2024-01-27**|**Exploring the Transferability of a Foundation Model for Fundus Images: Application to Hypertensive Retinopathy**|Julio Silva-Rodriguez et.al.|[2401.15526](http://arxiv.org/abs/2401.15526)|null|
+|**2024-01-27**|**FloodLense: A Framework for ChatGPT-based Real-time Flood Detection**|Pranath Reddy Kumbam et.al.|[2401.15501](http://arxiv.org/abs/2401.15501)|null|
+|**2024-01-27**|**Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport**|Muhammad Haseeb Aslam et.al.|[2401.15489](http://arxiv.org/abs/2401.15489)|null|
+|**2024-01-27**|**Unsupervised Solution Operator Learning for Mean-Field Games via Sampling-Invariant Parametrizations**|Han Huang et.al.|[2401.15482](http://arxiv.org/abs/2401.15482)|null|
+|**2024-01-27**|**Large Language Model as Synthesizer: Fusing Diverse Inputs for Better Automatic Vulnerability Repair**|Xin Zhou et.al.|[2401.15459](http://arxiv.org/abs/2401.15459)|null|
+|**2024-01-27**|**Bayesian Inference Accelerator for Spiking Neural Networks**|Prabodh Katti et.al.|[2401.15453](http://arxiv.org/abs/2401.15453)|null|
+|**2024-01-27**|**DeepGI: An Automated Approach for Gastrointestinal Tract Segmentation in MRI Scans**|Ye Zhang et.al.|[2401.15354](http://arxiv.org/abs/2401.15354)|null|
+|**2024-01-27**|**Deep Learning with Information Fusion and Model Interpretation for Health Monitoring of Fetus based on Long-term Prenatal Electronic Fetal Heart Rate Monitoring Data**|Zenghui Lin et.al.|[2401.15337](http://arxiv.org/abs/2401.15337)|null|
+|**2024-01-27**|**Benchmarking with MIMIC-IV, an irregular, spare clinical time series dataset**|Hung Bui et.al.|[2401.15290](http://arxiv.org/abs/2401.15290)|null|
+|**2024-01-26**|**Better Representations via Adversarial Training in Pre-Training: A Theoretical Perspective**|Yue Xing et.al.|[2401.15248](http://arxiv.org/abs/2401.15248)|null|
+|**2024-01-26**|**MEA-Defender: A Robust Watermark against Model Extraction Attack**|Peizhuo Lv et.al.|[2401.15239](http://arxiv.org/abs/2401.15239)|null|
+|**2024-01-26**|**Deep Learning with Tabular Data: A Self-supervised Approach**|Tirth Kiranbhai Vyas et.al.|[2401.15238](http://arxiv.org/abs/2401.15238)|null|
+|**2024-01-26**|**Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones**|Beatrice Alessandra Motetti et.al.|[2401.15236](http://arxiv.org/abs/2401.15236)|null|
+|**2024-01-26**|**Harnessing Deep Learning of Point Clouds for Inverse Control of 3D Shape Morphing**|Jue Wang et.al.|[2401.15219](http://arxiv.org/abs/2401.15219)|null|
+|**2024-01-26**|**LYT-Net: Lightweight YUV Transformer-based Network for Low-Light Image Enhancement**|A. Brateanu et.al.|[2401.15204](http://arxiv.org/abs/2401.15204)|null|
+|**2024-01-26**|**The Zwicky Transient Facility Bright Transient Survey. III. $\texttt{BTSbot}$ : Automated Identification and Follow-up of Bright Transients with Deep Learning**|Nabeel Rehemtulla et.al.|[2401.15167](http://arxiv.org/abs/2401.15167)|**[link](https://github.com/nabeelre/btsbot)**|
+|**2024-01-26**|**Interpreting Time Series Transformer Models and Sensitivity Analysis of Population Age Groups to COVID-19 Infections**|Md Khairul Islam et.al.|[2401.15119](http://arxiv.org/abs/2401.15119)|null|
+|**2024-01-25**|**Towards Global Glacier Mapping with Deep Learning and Open Earth Observation Data**|Konstantin A. Maslov et.al.|[2401.15113](http://arxiv.org/abs/2401.15113)|null|
+|**2024-01-25**|**Improving Fairness of Automated Chest X-ray Diagnosis by Contrastive Learning**|Mingquan Lin et.al.|[2401.15111](http://arxiv.org/abs/2401.15111)|null|
+|**2024-01-25**|**Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery**|Jialu Sui et.al.|[2401.15105](http://arxiv.org/abs/2401.15105)|null|
 |**2024-01-26**|**Deep learning-based approach for tomato classification in complex scenes**|Mikael A. Mousse et.al.|[2401.15055](http://arxiv.org/abs/2401.15055)|null|
 |**2024-01-26**|**Microwave lymphedema assessment using deep learning with contour assisted backprojection**|Yuyi Chang et.al.|[2401.14970](http://arxiv.org/abs/2401.14970)|null|
 |**2024-01-26**|**Adaptive Point Transformer**|Alessandro Baiocchi et.al.|[2401.14845](http://arxiv.org/abs/2401.14845)|null|
-|**2024-01-26**|**Adversarial Attacks and Defenses in 6G Network-Assisted IoT Systems**|Bui Duc Son et.al.|[2401.14780](http://arxiv.org/abs/2401.14780)|null|
+|**2024-01-29**|**Adversarial Attacks and Defenses in 6G Network-Assisted IoT Systems**|Bui Duc Son et.al.|[2401.14780](http://arxiv.org/abs/2401.14780)|null|
 |**2024-01-26**|**pLitterStreet: Street Level Plastic Litter Detection and Mapping**|Sriram Reddy Mandhati et.al.|[2401.14719](http://arxiv.org/abs/2401.14719)|null|
 |**2024-01-26**|**Additional Look into GAN-based Augmentation for Deep Learning COVID-19 Image Classification**|Oleksandr Fedoruk et.al.|[2401.14705](http://arxiv.org/abs/2401.14705)|null|
 |**2024-01-26**|**TA-RNN: an Attention-based Time-aware Recurrent Neural Network Architecture for Electronic Health Records**|Mohammad Al Olaimat et.al.|[2401.14694](http://arxiv.org/abs/2401.14694)|null|
