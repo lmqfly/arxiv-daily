@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.30
+## Updated on 2024.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -617,15 +617,15 @@ layout: default
 |**2024-01-26**|**Microwave lymphedema assessment using deep learning with contour assisted backprojection**|Yuyi Chang et.al.|[2401.14970](http://arxiv.org/abs/2401.14970)|null|
 |**2024-01-26**|**Adaptive Point Transformer**|Alessandro Baiocchi et.al.|[2401.14845](http://arxiv.org/abs/2401.14845)|null|
 |**2024-01-29**|**Adversarial Attacks and Defenses in 6G Network-Assisted IoT Systems**|Bui Duc Son et.al.|[2401.14780](http://arxiv.org/abs/2401.14780)|null|
-|**2024-01-26**|**pLitterStreet: Street Level Plastic Litter Detection and Mapping**|Sriram Reddy Mandhati et.al.|[2401.14719](http://arxiv.org/abs/2401.14719)|null|
+|**2024-01-26**|**pLitterStreet: Street Level Plastic Litter Detection and Mapping**|Sriram Reddy Mandhati et.al.|[2401.14719](http://arxiv.org/abs/2401.14719)|**[link](https://github.com/gicait/plitter)**|
 |**2024-01-26**|**Additional Look into GAN-based Augmentation for Deep Learning COVID-19 Image Classification**|Oleksandr Fedoruk et.al.|[2401.14705](http://arxiv.org/abs/2401.14705)|null|
-|**2024-01-26**|**TA-RNN: an Attention-based Time-aware Recurrent Neural Network Architecture for Electronic Health Records**|Mohammad Al Olaimat et.al.|[2401.14694](http://arxiv.org/abs/2401.14694)|null|
+|**2024-01-26**|**TA-RNN: an Attention-based Time-aware Recurrent Neural Network Architecture for Electronic Health Records**|Mohammad Al Olaimat et.al.|[2401.14694](http://arxiv.org/abs/2401.14694)|**[link](https://github.com/bozdaglab/ta-rnn)**|
 |**2024-01-26**|**Diversity-guided Search Exploration for Self-driving Cars Test Generation through Frenet Space Encoding**|Timo Blattner et.al.|[2401.14682](http://arxiv.org/abs/2401.14682)|null|
 |**2024-01-26**|**PepGB: Facilitating peptide drug discovery via graph neural networks**|Yipin Lei et.al.|[2401.14665](http://arxiv.org/abs/2401.14665)|null|
-|**2024-01-26**|**Inferring Data Preconditions from Deep Learning Models for Trustworthy Prediction in Deployment**|Shibbir Ahmed et.al.|[2401.14628](http://arxiv.org/abs/2401.14628)|null|
+|**2024-01-26**|**Inferring Data Preconditions from Deep Learning Models for Trustworthy Prediction in Deployment**|Shibbir Ahmed et.al.|[2401.14628](http://arxiv.org/abs/2401.14628)|**[link](https://github.com/shibbirtanvin/deepinfer)**|
 |**2024-01-26**|**A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research**|Sicong Cao et.al.|[2401.14617](http://arxiv.org/abs/2401.14617)|null|
 |**2024-01-26**|**Deep-learning-based prediction of the tetragonal $\rightarrow$ cubic transition in davemaoite**|Fulun Wu et.al.|[2401.14588](http://arxiv.org/abs/2401.14588)|null|
-|**2024-01-25**|**Investigating the Quality of DermaMNIST and Fitzpatrick17k Dermatological Image Datasets**|Kumar Abhishek et.al.|[2401.14497](http://arxiv.org/abs/2401.14497)|null|
+|**2024-01-25**|**Investigating the Quality of DermaMNIST and Fitzpatrick17k Dermatological Image Datasets**|Kumar Abhishek et.al.|[2401.14497](http://arxiv.org/abs/2401.14497)|**[link](https://github.com/kakumarabhishek/corrected-skin-image-datasets)**|
 |**2024-01-25**|**The Case for Co-Designing Model Architectures with Hardware**|Quentin Anthony et.al.|[2401.14489](http://arxiv.org/abs/2401.14489)|null|
 |**2024-01-24**|**Location Agnostic Source-Free Domain Adaptive Learning to Predict Solar Power Generation**|Md Shazid Islam et.al.|[2401.14422](http://arxiv.org/abs/2401.14422)|null|
 |**2024-01-22**|**Acoustic characterization of speech rhythm: going beyond metrics with recurrent neural networks**|François Deloche et.al.|[2401.14416](http://arxiv.org/abs/2401.14416)|null|
