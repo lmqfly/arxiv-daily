@@ -23,6 +23,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2005-04-07**|**Design of HIV-1-PR inhibitors which do not create resistance: blocking the folding of single monomers**|R. A. Broglia et.al.|[q-bio/0504011](http://arxiv.org/abs/q-bio/0504011)|null|
+|**2024-01-30**|**A large dataset curation and benchmark for drug target interaction**|Alex Golts et.al.|[2401.17174](http://arxiv.org/abs/2401.17174)|null|
+|**2024-01-30**|**Fast Dual-Regularized Autoencoder for Sparse Biological Data**|Aleksandar Poleksic et.al.|[2401.16664](http://arxiv.org/abs/2401.16664)|null|
 |**2023-12-23**|**DTIAM: A unified framework for predicting drug-target interactions, binding affinities and activation/inhibition mechanisms**|Zhangli Lu et.al.|[2312.15252](http://arxiv.org/abs/2312.15252)|**[link](https://github.com/csubiogroup/dtiam)**|
 |**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
 |**2023-11-25**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
@@ -281,9 +283,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**MolPLA: A Molecular Pretraining Framework for Learning Cores, R-Groups and their Linker Joints**|Mogan Gim et.al.|[2401.16771](http://arxiv.org/abs/2401.16771)|null|
 |**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299](http://arxiv.org/abs/2401.16299)|null|
 |**2023-12-28**|**Adjustable Molecular Representation for Unified Pre-training Strategy**|Yan Ding et.al.|[2401.06166](http://arxiv.org/abs/2401.06166)|null|
-|**2024-01-09**|**TwinBooster: Synergising Large Language Models with Barlow Twins and Gradient Boosting for Enhanced Molecular Property Prediction**|Maximilian G. Schuh et.al.|[2401.04478](http://arxiv.org/abs/2401.04478)|**[link](https://github.com/maxischuh/twinbooster)**|
+|**2024-01-30**|**TwinBooster: Synergising Large Language Models with Barlow Twins and Gradient Boosting for Enhanced Molecular Property Prediction**|Maximilian G. Schuh et.al.|[2401.04478](http://arxiv.org/abs/2401.04478)|**[link](https://github.com/maxischuh/twinbooster)**|
 |**2024-01-09**|**Multi-Modal Representation Learning for Molecular Property Prediction: Sequence, Graph, Geometry**|Zeyu Wang et.al.|[2401.03369](http://arxiv.org/abs/2401.03369)|**[link](https://github.com/vencent-won/sggrl)**|
 |**2023-12-29**|**Integrating Chemical Language and Molecular Graph in Multimodal Fused Deep Learning for Drug Property Prediction**|Xiaohua Lu et.al.|[2312.17495](http://arxiv.org/abs/2312.17495)|null|
 |**2023-12-28**|**Molecular Property Prediction Based on Graph Structure Learning**|Bangyi Zhao et.al.|[2312.16855](http://arxiv.org/abs/2312.16855)|null|
@@ -577,6 +580,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Effect of Weight Quantization on Learning Models by Typical Case Analysis**|Shuhei Kashiwamura et.al.|[2401.17269](http://arxiv.org/abs/2401.17269)|null|
+|**2024-01-30**|**SLIC: A Learned Image Codec Using Structure and Color**|Srivatsa Prativadibhayankaram et.al.|[2401.17246](http://arxiv.org/abs/2401.17246)|null|
+|**2024-01-30**|**NormEnsembleXAI: Unveiling the Strengths and Weaknesses of XAI Ensemble Techniques**|Weronika Hryniewska-Guzik et.al.|[2401.17200](http://arxiv.org/abs/2401.17200)|null|
+|**2024-01-30**|**H-SynEx: Using synthetic images and ultra-high resolution ex vivo MRI for hypothalamus subregion segmentation**|Livia Rodrigues et.al.|[2401.17104](http://arxiv.org/abs/2401.17104)|**[link](https://github.com/liviamarodrigues/hsynex)**|
+|**2024-01-30**|**Atlanta Scaled layouts from non-central panoramas**|Bruno Berenguel-Baeta et.al.|[2401.17058](http://arxiv.org/abs/2401.17058)|**[link](https://github.com/jesusbermudezcameo/noncentralindoordataset)**|
+|**2024-01-30**|**Making Parametric Anomaly Detection on Tabular Data Non-Parametric Again**|Hugo Thimonier et.al.|[2401.17052](http://arxiv.org/abs/2401.17052)|null|
+|**2024-01-30**|**ViTree: Single-path Neural Tree for Step-wise Interpretable Fine-grained Visual Categorization**|Danning Lao et.al.|[2401.17050](http://arxiv.org/abs/2401.17050)|null|
+|**2024-01-30**|**Forecasting VIX using Bayesian Deep Learning**|Héctor J. Hortúa et.al.|[2401.17042](http://arxiv.org/abs/2401.17042)|null|
+|**2024-01-30**|**LADDER: Revisiting the Cosmic Distance Ladder with Deep Learning Approaches and Exploring its Applications**|Rahul Shah et.al.|[2401.17029](http://arxiv.org/abs/2401.17029)|null|
+|**2024-01-30**|**Heterogeneous treatment effect estimation with subpopulation identification for personalized medicine in opioid use disorder**|Seungyeon Lee et.al.|[2401.17027](http://arxiv.org/abs/2401.17027)|null|
+|**2024-01-30**|**DeepH-2: Enhancing deep-learning electronic structure via an equivariant local-coordinate transformer**|Yuxiang Wang et.al.|[2401.17015](http://arxiv.org/abs/2401.17015)|null|
+|**2024-01-30**|**Multiple Yield Curve Modeling and Forecasting using Deep Learning**|Ronald Richman et.al.|[2401.16985](http://arxiv.org/abs/2401.16985)|null|
+|**2024-01-30**|**Selection of gamma events from IACT images with deep learning methods**|E. O. Gres et.al.|[2401.16981](http://arxiv.org/abs/2401.16981)|null|
+|**2024-01-30**|**Segmentation and Characterization of Macerated Fibers and Vessels Using Deep Learning**|Saqib Qamar et.al.|[2401.16937](http://arxiv.org/abs/2401.16937)|null|
+|**2024-01-30**|**Multi-modal Representation Learning for Cross-modal Prediction of Continuous Weather Patterns from Discrete Low-Dimensional Data**|Alif Bin Abdul Qayyum et.al.|[2401.16936](http://arxiv.org/abs/2401.16936)|null|
+|**2024-01-30**|**Checkmating One, by Using Many: Combining Mixture of Experts with MCTS to Improve in Chess**|Felix Helfenstein et.al.|[2401.16852](http://arxiv.org/abs/2401.16852)|**[link](https://github.com/helpstonex/crazyara)**|
+|**2024-01-30**|**Spatial-Temporal Activity-Informed Diarization and Separation**|Yicheng Hsu et.al.|[2401.16850](http://arxiv.org/abs/2401.16850)|null|
+|**2024-01-30**|**Enhancing Compiler Transformation Robustness with Large Language Models**|Yanzhao Wang et.al.|[2401.16797](http://arxiv.org/abs/2401.16797)|null|
+|**2024-01-30**|**Learnable Prompt as Pseudo-Imputation: Reassessing the Necessity of Traditional EHR Data Imputation in Downstream Clinical Prediction**|Weibin Liao et.al.|[2401.16796](http://arxiv.org/abs/2401.16796)|null|
+|**2024-01-30**|**WideSA: A High Array Utilization Mapping Scheme for Uniform Recurrences on the Versal ACAP Architecture**|Tuo Dai et.al.|[2401.16792](http://arxiv.org/abs/2401.16792)|null|
+|**2024-01-30**|**A Literature Review on Fetus Brain Motion Correction in MRI**|Haoran Zhang et.al.|[2401.16782](http://arxiv.org/abs/2401.16782)|null|
+|**2024-01-30**|**All-optical complex field imaging using diffractive processors**|Jingxi Li et.al.|[2401.16779](http://arxiv.org/abs/2401.16779)|null|
+|**2024-01-30**|**Detection and Recovery Against Deep Neural Network Fault Injection Attacks Based on Contrastive Learning**|Chenan Wang et.al.|[2401.16766](http://arxiv.org/abs/2401.16766)|null|
+|**2024-01-30**|**SwapNet: Efficient Swapping for DNN Inference on Edge AI Devices Beyond the Memory Budget**|Kun Wang et.al.|[2401.16757](http://arxiv.org/abs/2401.16757)|null|
+|**2024-01-30**|**Detecting Racist Text in Bengali: An Ensemble Deep Learning Framework**|S. S. Saruar et.al.|[2401.16748](http://arxiv.org/abs/2401.16748)|null|
+|**2024-01-30**|**Engineering A Large Language Model From Scratch**|Abiodun Finbarrs Oketunji et.al.|[2401.16736](http://arxiv.org/abs/2401.16736)|null|
+|**2024-01-30**|**EdgeOL: Efficient in-situ Online Learning on Edge Devices**|Sheng Li et.al.|[2401.16694](http://arxiv.org/abs/2401.16694)|null|
+|**2024-01-30**|**Calibration-then-Calculation: A Variance Reduced Metric Framework in Deep Click-Through Rate Prediction Models**|Yewen Fan et.al.|[2401.16692](http://arxiv.org/abs/2401.16692)|null|
+|**2024-01-30**|**Using Motion Forecasting for Behavior-Based Virtual Reality (VR) Authentication**|Mingjun Li et.al.|[2401.16649](http://arxiv.org/abs/2401.16649)|**[link](https://github.com/Terascale-All-sensing-Research-Studio/Forecasting_for_Authentication)**|
+|**2024-01-29**|**Accelerating superconductor discovery through tempered deep learning of the electron-phonon spectral function**|Jason B. Gibson et.al.|[2401.16611](http://arxiv.org/abs/2401.16611)|null|
+|**2024-01-29**|**Data and Physics driven Deep Learning Models for Fast MRI Reconstruction: Fundamentals and Methodologies**|Jiahao Huang et.al.|[2401.16564](http://arxiv.org/abs/2401.16564)|null|
+|**2024-01-29**|**Multi-class Regret Detection in Hindi Devanagari Script**|Renuka Sharma et.al.|[2401.16561](http://arxiv.org/abs/2401.16561)|null|
+|**2024-01-29**|**Deep Learning for Multi-Label Learning: A Comprehensive Survey**|Adane Nega Tarekegn et.al.|[2401.16549](http://arxiv.org/abs/2401.16549)|null|
+|**2024-01-29**|**GuReT: Distinguishing Guilt and Regret related Text**|Sabur Butt et.al.|[2401.16541](http://arxiv.org/abs/2401.16541)|null|
+|**2024-01-29**|**Dropout Concrete Autoencoder for Band Selection on HSI Scenes**|Lei Xu et.al.|[2401.16522](http://arxiv.org/abs/2401.16522)|null|
+|**2024-01-29**|**Validation, Robustness, and Accuracy of Perturbation-Based Sensitivity Analysis Methods for Time-Series Deep Learning Models**|Zhengguang Wang et.al.|[2401.16521](http://arxiv.org/abs/2401.16521)|null|
+|**2024-01-29**|**MT-HCCAR: Multi-Task Deep Learning with Hierarchical Classification and Attention-based Regression for Cloud Property Retrieval**|Xingyan Li et.al.|[2401.16520](http://arxiv.org/abs/2401.16520)|**[link](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)**|
+|**2024-01-29**|**GPU Cluster Scheduling for Network-Sensitive Deep Learning**|Aakash Sharma et.al.|[2401.16492](http://arxiv.org/abs/2401.16492)|null|
+|**2024-01-27**|**FaKnow: A Unified Library for Fake News Detection**|Yiyuan Zhu et.al.|[2401.16441](http://arxiv.org/abs/2401.16441)|**[link](https://github.com/npurg/faknow)**|
+|**2024-01-26**|**Do deep neural networks utilize the weight space efficiently?**|Onur Can Koyun et.al.|[2401.16438](http://arxiv.org/abs/2401.16438)|null|
+|**2024-01-26**|**A Benchmark Dataset for Tornado Detection and Prediction using Full-Resolution Polarimetric Weather Radar Data**|Mark S. Veillette et.al.|[2401.16437](http://arxiv.org/abs/2401.16437)|null|
 |**2024-01-29**|**Amazon's 2023 Drought: Sentinel-1 Reveals Extreme Rio Negro River Contraction**|Fabien H Wagner et.al.|[2401.16393](http://arxiv.org/abs/2401.16393)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388](http://arxiv.org/abs/2401.16388)|null|
 |**2024-01-29**|**Leveraging Positional Encoding for Robust Multi-Reference-Based Object 6D Pose Estimation**|Jaewoo Park et.al.|[2401.16284](http://arxiv.org/abs/2401.16284)|null|
@@ -625,7 +669,7 @@
 |**2024-01-26**|**Deep Learning with Tabular Data: A Self-supervised Approach**|Tirth Kiranbhai Vyas et.al.|[2401.15238](http://arxiv.org/abs/2401.15238)|null|
 |**2024-01-26**|**Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones**|Beatrice Alessandra Motetti et.al.|[2401.15236](http://arxiv.org/abs/2401.15236)|null|
 |**2024-01-26**|**Harnessing Deep Learning of Point Clouds for Inverse Control of 3D Shape Morphing**|Jue Wang et.al.|[2401.15219](http://arxiv.org/abs/2401.15219)|null|
-|**2024-01-26**|**LYT-Net: Lightweight YUV Transformer-based Network for Low-Light Image Enhancement**|A. Brateanu et.al.|[2401.15204](http://arxiv.org/abs/2401.15204)|null|
+|**2024-01-30**|**LYT-Net: Lightweight YUV Transformer-based Network for Low-Light Image Enhancement**|A. Brateanu et.al.|[2401.15204](http://arxiv.org/abs/2401.15204)|**[link](https://github.com/albrateanu/lyt-net)**|
 |**2024-01-26**|**The Zwicky Transient Facility Bright Transient Survey. III. $\texttt{BTSbot}$ : Automated Identification and Follow-up of Bright Transients with Deep Learning**|Nabeel Rehemtulla et.al.|[2401.15167](http://arxiv.org/abs/2401.15167)|**[link](https://github.com/nabeelre/btsbot)**|
 |**2024-01-26**|**Interpreting Time Series Transformer Models and Sensitivity Analysis of Population Age Groups to COVID-19 Infections**|Md Khairul Islam et.al.|[2401.15119](http://arxiv.org/abs/2401.15119)|null|
 |**2024-01-25**|**Towards Global Glacier Mapping with Deep Learning and Open Earth Observation Data**|Konstantin A. Maslov et.al.|[2401.15113](http://arxiv.org/abs/2401.15113)|null|
