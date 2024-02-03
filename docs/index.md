@@ -595,11 +595,11 @@ layout: default
 |**2024-02-01**|**High-Quality Medical Image Generation from Free-hand Sketch**|Quan Huu Cap et.al.|[2402.00353](http://arxiv.org/abs/2402.00353)|null|
 |**2024-02-01**|**PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks**|Sifan Wang et.al.|[2402.00326](http://arxiv.org/abs/2402.00326)|**[link](https://github.com/predictiveintelligencelab/jaxpi)**|
 |**2024-02-01**|**DARCS: Memory-Efficient Deep Compressed Sensing Reconstruction for Acceleration of 3D Whole-Heart Coronary MR Angiography**|Zhihao Xue et.al.|[2402.00320](http://arxiv.org/abs/2402.00320)|null|
-|**2024-02-01**|**Seismic Traveltime Tomography with Label-free Learning**|Feng Wang et.al.|[2402.00310](http://arxiv.org/abs/2402.00310)|null|
+|**2024-02-01**|**Seismic Traveltime Tomography with Label-free Learning**|Feng Wang et.al.|[2402.00310](http://arxiv.org/abs/2402.00310)|**[link](https://github.com/linfengyu77/sttwll)**|
 |**2024-02-01**|**Comparative Evaluation of Traditional and Deep Learning-Based Segmentation Methods for Spoil Pile Delineation Using UAV Images**|Sureka Thiruchittampalam et.al.|[2402.00295](http://arxiv.org/abs/2402.00295)|null|
 |**2024-01-31**|**Capacity Constraint Analysis Using Object Detection for Smart Manufacturing**|Hafiz Mughees Ahmad et.al.|[2402.00243](http://arxiv.org/abs/2402.00243)|null|
 |**2024-01-31**|**Uncover the nature of overlapping community in cities**|Peng Luo et.al.|[2402.00222](http://arxiv.org/abs/2402.00222)|null|
-|**2024-01-31**|**Determination of Trace Organic Contaminant Concentration via Machine Classification of Surface-Enhanced Raman Spectra**|Vishnu Jayaprakash et.al.|[2402.00197](http://arxiv.org/abs/2402.00197)|null|
+|**2024-01-31**|**Determination of Trace Organic Contaminant Concentration via Machine Classification of Surface-Enhanced Raman Spectra**|Vishnu Jayaprakash et.al.|[2402.00197](http://arxiv.org/abs/2402.00197)|**[link](https://github.com/VishnuJay/Determination-of-Trace-Organic-Contaminant-Concentration-via-Machine-Classification-of-Raman-Spectra)**|
 |**2024-01-31**|**Optimizing NILC Extractions of the Thermal Sunyaev-Zeldovich Effect with Deep Learning**|Cameron T. Pratt et.al.|[2402.00167](http://arxiv.org/abs/2402.00167)|null|
 |**2024-01-31**|**The Impact of Language Adapters in Cross-Lingual Transfer for NLU**|Jenny Kunz et.al.|[2402.00149](http://arxiv.org/abs/2402.00149)|**[link](https://github.com/oskarholmstrom/lang-adapters-impact)**|
 |**2024-01-29**|**TrackGPT -- A generative pre-trained transformer for cross-domain entity trajectory forecasting**|Nicholas Stroh et.al.|[2402.00066](http://arxiv.org/abs/2402.00066)|null|
@@ -607,7 +607,7 @@ layout: default
 |**2024-01-31**|**Epidemic Modeling using Hybrid of Time-varying SIRD, Particle Swarm Optimization, and Deep Learning**|Naresh Kumar et.al.|[2401.18047](http://arxiv.org/abs/2401.18047)|null|
 |**2024-01-31**|**Optimizing contrastive learning for cortical folding pattern detection**|Aymeric Gaudin et.al.|[2401.18035](http://arxiv.org/abs/2401.18035)|**[link](https://github.com/neurospin-projects/2022_jchavas_cingulate_inhibitory_control)**|
 |**2024-01-31**|**EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation**|Jonathan W. Kim et.al.|[2401.18006](http://arxiv.org/abs/2401.18006)|null|
-|**2024-01-31**|**Development and Adaptation of Robotic Vision in the Real-World: the Challenge of Door Detection**|Michele Antonazzi et.al.|[2401.17996](http://arxiv.org/abs/2401.17996)|null|
+|**2024-01-31**|**Development and Adaptation of Robotic Vision in the Real-World: the Challenge of Door Detection**|Michele Antonazzi et.al.|[2401.17996](http://arxiv.org/abs/2401.17996)|**[link](https://github.com/micheleantonazzi/gibsonenv)**|
 |**2024-01-31**|**Shrub of a thousand faces: an individual segmentation from satellite images using deep learning**|Rohaifa Khaldi et.al.|[2401.17985](http://arxiv.org/abs/2401.17985)|null|
 |**2024-01-31**|**MelNet: A Real-Time Deep Learning Algorithm for Object Detection**|Yashar Azadvatan et.al.|[2401.17972](http://arxiv.org/abs/2401.17972)|null|
 |**2024-01-31**|**CONCORD: Towards a DSL for Configurable Graph Code Representation**|Mootez Saad et.al.|[2401.17967](http://arxiv.org/abs/2401.17967)|null|
