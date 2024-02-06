@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.05
+## Updated on 2024.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -88,7 +88,7 @@
 |**2017-04-19**|**Fast Kronecker product kernel methods via generalized vec trick**|Antti Airola et.al.|[1601.01507](http://arxiv.org/abs/1601.01507)|null|
 |**2015-03-12**|**Classification and its applications for drug-target interaction identification**|Jian-Ping Mei et.al.|[1502.04469](http://arxiv.org/abs/1502.04469)|null|
 
-<p align=right>(<a href=#updated-on-20240205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
 
 ## DDI
 
@@ -195,7 +195,7 @@
 |**2014-11-06**|**A network inference method for large-scale unsupervised identification of novel drug-drug interactions**|Roger Guimera et.al.|[1411.1528](http://arxiv.org/abs/1411.1528)|null|
 |**2012-10-02**|**Evaluation of linear classifiers on articles containing pharmacokinetic evidence of drug-drug interactions**|Artemy Kolchinsky et.al.|[1210.0734](http://arxiv.org/abs/1210.0734)|null|
 
-<p align=right>(<a href=#updated-on-20240205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
 
 ## MG
 
@@ -279,7 +279,7 @@
 |**2017-05-17**|**Molecular Generation with Recurrent Neural Networks (RNNs)**|Esben Jannik Bjerrum et.al.|[1705.04612](http://arxiv.org/abs/1705.04612)|null|
 |**2017-10-16**|**Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control**|Natasha Jaques et.al.|[1611.02796](http://arxiv.org/abs/1611.02796)|null|
 
-<p align=right>(<a href=#updated-on-20240205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
 
 ## MPP
 
@@ -397,7 +397,7 @@
 |**2022-10-25**|**Pre-training via Denoising for Molecular Property Prediction**|Sheheryar Zaidi et.al.|[2206.00133](http://arxiv.org/abs/2206.00133)|**[link](https://github.com/shehzaidi/pre-training-via-denoising)**|
 |**2022-05-26**|**Triangular Contrastive Learning on Molecular Graphs**|MinGyu Choi et.al.|[2205.13279](http://arxiv.org/abs/2205.13279)|null|
 
-<p align=right>(<a href=#updated-on-20240205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
 
 ## MD
 
@@ -411,7 +411,7 @@
 |**2024-01-31**|**Dimensional Analysis Theory and Molecular Dynamics Simulation of Polypropylene Melt Flow during Injection Molding Process**|Jinrong Zhang et.al.|[2401.17792](http://arxiv.org/abs/2401.17792)|null|
 |**2024-01-31**|**Structures and stabilities of mixed clusters of fullerene and coronene molecules**|Naemi Florin et.al.|[2401.17650](http://arxiv.org/abs/2401.17650)|null|
 |**2024-01-31**|**Bond breaking and making in mixed clusters of fullerene and coronene molecules following keV-ion impact**|Naemi Florin et.al.|[2401.17638](http://arxiv.org/abs/2401.17638)|null|
-|**2024-01-30**|**Development of biochar molecular models with controlled porosity**|Audrey Ngambia Ondřej Mašek et.al.|[2401.17414](http://arxiv.org/abs/2401.17414)|**[link](https://github.com/erastova-group/porous_biochars_models)**|
+|**2024-01-30**|**Development of biochar molecular models with controlled porosity**|Audrey Ngambia et.al.|[2401.17414](http://arxiv.org/abs/2401.17414)|**[link](https://github.com/erastova-group/porous_biochars_models)**|
 |**2024-01-29**|**Majority of water hides deep in the interiors of exoplanets**|Haiyang Luo et.al.|[2401.16394](http://arxiv.org/abs/2401.16394)|null|
 |**2024-01-29**|**Molecular dynamics simulations of heat transport using machine-learned potentials: A mini review and tutorial on GPUMD with neuroevolution potentials**|Haikuan Dong et.al.|[2401.16249](http://arxiv.org/abs/2401.16249)|**[link](https://gitlab.com/brucefan1983/nep-data)**|
 |**2024-01-29**|**Enhancing Protein-Ligand Binding Affinity Predictions using Neural Network Potentials**|Francesc Sabanes Zariquiey et.al.|[2401.16062](http://arxiv.org/abs/2401.16062)|null|
@@ -586,7 +586,7 @@
 |**2023-10-08**|**Pressure-driven homogenization of lithium disilicate glasses**|Yasser Bakhouch et.al.|[2310.05278](http://arxiv.org/abs/2310.05278)|null|
 |**2023-10-07**|**From shear bands to earthquakes in a model granular material with contact aging**|E. A. Jagla et.al.|[2310.04890](http://arxiv.org/abs/2310.04890)|null|
 
-<p align=right>(<a href=#updated-on-20240205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
 
 ## Transformer
 
@@ -1884,7 +1884,7 @@
 |**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493](http://arxiv.org/abs/2312.02493)|**[link](https://github.com/sahiltyagi4/artopk)**|
 |**2023-12-05**|**Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery**|Yansheng Li et.al.|[2312.02481](http://arxiv.org/abs/2312.02481)|null|
 
-<p align=right>(<a href=#updated-on-20240205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

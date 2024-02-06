@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.05
+## Updated on 2024.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -395,7 +395,7 @@ layout: default
 |**2024-01-31**|**Dimensional Analysis Theory and Molecular Dynamics Simulation of Polypropylene Melt Flow during Injection Molding Process**|Jinrong Zhang et.al.|[2401.17792](http://arxiv.org/abs/2401.17792)|null|
 |**2024-01-31**|**Structures and stabilities of mixed clusters of fullerene and coronene molecules**|Naemi Florin et.al.|[2401.17650](http://arxiv.org/abs/2401.17650)|null|
 |**2024-01-31**|**Bond breaking and making in mixed clusters of fullerene and coronene molecules following keV-ion impact**|Naemi Florin et.al.|[2401.17638](http://arxiv.org/abs/2401.17638)|null|
-|**2024-01-30**|**Development of biochar molecular models with controlled porosity**|Audrey Ngambia Ondřej Mašek et.al.|[2401.17414](http://arxiv.org/abs/2401.17414)|**[link](https://github.com/erastova-group/porous_biochars_models)**|
+|**2024-01-30**|**Development of biochar molecular models with controlled porosity**|Audrey Ngambia et.al.|[2401.17414](http://arxiv.org/abs/2401.17414)|**[link](https://github.com/erastova-group/porous_biochars_models)**|
 |**2024-01-29**|**Majority of water hides deep in the interiors of exoplanets**|Haiyang Luo et.al.|[2401.16394](http://arxiv.org/abs/2401.16394)|null|
 |**2024-01-29**|**Molecular dynamics simulations of heat transport using machine-learned potentials: A mini review and tutorial on GPUMD with neuroevolution potentials**|Haikuan Dong et.al.|[2401.16249](http://arxiv.org/abs/2401.16249)|**[link](https://gitlab.com/brucefan1983/nep-data)**|
 |**2024-01-29**|**Enhancing Protein-Ligand Binding Affinity Predictions using Neural Network Potentials**|Francesc Sabanes Zariquiey et.al.|[2401.16062](http://arxiv.org/abs/2401.16062)|null|
