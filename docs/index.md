@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.10
+## Updated on 2024.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -275,7 +275,7 @@ layout: default
 |**2024-02-07**|**Triplet Interaction Improves Graph Transformers: Accurate Molecular Graph Learning with Triplet Graph Transformers**|Md Shamim Hussain et.al.|[2402.04538](http://arxiv.org/abs/2402.04538)|**[link](https://github.com/shamim-hussain/tgt)**|
 |**2024-02-03**|**Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks**|Duy M. H. Nguyen et.al.|[2402.01975](http://arxiv.org/abs/2402.01975)|null|
 |**2024-02-02**|**Graph Multi-Similarity Learning for Molecular Property Prediction**|Hao Xu et.al.|[2401.17615](http://arxiv.org/abs/2401.17615)|null|
-|**2024-01-30**|**MolPLA: A Molecular Pretraining Framework for Learning Cores, R-Groups and their Linker Joints**|Mogan Gim et.al.|[2401.16771](http://arxiv.org/abs/2401.16771)|null|
+|**2024-01-30**|**MolPLA: A Molecular Pretraining Framework for Learning Cores, R-Groups and their Linker Joints**|Mogan Gim et.al.|[2401.16771](http://arxiv.org/abs/2401.16771)|**[link](https://github.com/dmis-lab/molpla)**|
 |**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299](http://arxiv.org/abs/2401.16299)|**[link](https://github.com/vishaldeyiiest/graphta)**|
 |**2023-12-28**|**Adjustable Molecular Representation for Unified Pre-training Strategy**|Yan Ding et.al.|[2401.06166](http://arxiv.org/abs/2401.06166)|null|
 |**2024-01-30**|**TwinBooster: Synergising Large Language Models with Barlow Twins and Gradient Boosting for Enhanced Molecular Property Prediction**|Maximilian G. Schuh et.al.|[2401.04478](http://arxiv.org/abs/2401.04478)|**[link](https://github.com/maxischuh/twinbooster)**|
@@ -396,11 +396,11 @@ layout: default
 |**2024-01-30**|**Ionomer structure and component transport in the cathode catalyst layer of PEM fuel cells: A molecular dynamics study**|Yichao Huang et.al.|[2402.04270](http://arxiv.org/abs/2402.04270)|null|
 |**2024-02-06**|**On the growing length scale in a replica-coupled glassforming liquid**|Niklas Küchler et.al.|[2402.04205](http://arxiv.org/abs/2402.04205)|null|
 |**2024-02-06**|**Electric Field Induced Associations in the Double Layer of Salt-in-Ionic-Liquid Electrolytes**|Daniel M. Markiewitz et.al.|[2402.04039](http://arxiv.org/abs/2402.04039)|null|
-|**2024-02-06**|**Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations**|Yutack Park et.al.|[2402.03789](http://arxiv.org/abs/2402.03789)|null|
+|**2024-02-06**|**Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations**|Yutack Park et.al.|[2402.03789](http://arxiv.org/abs/2402.03789)|**[link](https://github.com/mdil-snu/sevennet)**|
 |**2024-02-06**|**Enhanced sampling of robust molecular datasets with uncertainty-based collective variables**|Aik Rui Tan et.al.|[2402.03753](http://arxiv.org/abs/2402.03753)|null|
 |**2024-02-05**|**Classical molecular dynamics simulations of hydrogen plasmas and development of an analytical statistical model for computational validity assessment**|M. A. Gigosos et.al.|[2402.03401](http://arxiv.org/abs/2402.03401)|null|
 |**2024-02-05**|**Elementary vibrational model for thermal conductivity of Lennard-Jones fluids: Applicability domain and accuracy level**|S. A. Khrapak et.al.|[2402.03020](http://arxiv.org/abs/2402.03020)|null|
-|**2024-02-04**|**The effect of ligands on the size distribution of copper nanoclusters: insights from molecular dynamics simulations**|Oren Elishav et.al.|[2402.02568](http://arxiv.org/abs/2402.02568)|null|
+|**2024-02-04**|**The effect of ligands on the size distribution of copper nanoclusters: insights from molecular dynamics simulations**|Oren Elishav et.al.|[2402.02568](http://arxiv.org/abs/2402.02568)|**[link](https://github.com/oreneli/copper-nucleation)**|
 |**2024-02-02**|**Deep learning path-like collective variable for enhanced sampling molecular dynamics**|Thorben Fröhlking et.al.|[2402.01508](http://arxiv.org/abs/2402.01508)|**[link](https://github.com/thorbenf/deeplne)**|
 |**2024-02-02**|**Unveiling the early stage evolution of local atomic structures in the crystallization process of a metallic glass**|Lin Ma et.al.|[2402.01325](http://arxiv.org/abs/2402.01325)|null|
 |**2024-02-02**|**Conditional Normalizing Flows for Active Learning of Coarse-Grained Molecular Representations**|Henrik Schopmans et.al.|[2402.01195](http://arxiv.org/abs/2402.01195)|null|
@@ -622,7 +622,7 @@ layout: default
 |**2024-02-07**|**Streamlined Hybrid Annotation Framework using Scalable Codestream for Bandwidth-Restricted UAV Object Detection**|Karim El Khoury et.al.|[2402.04673](http://arxiv.org/abs/2402.04673)|null|
 |**2024-02-07**|**An Over Complete Deep Learning Method for Inverse Problems**|Moshe Eliasof et.al.|[2402.04653](http://arxiv.org/abs/2402.04653)|null|
 |**2024-02-07**|**Domain Bridge: Generative model-based domain forensic for black-box models**|Jiyi Zhang et.al.|[2402.04640](http://arxiv.org/abs/2402.04640)|null|
-|**2024-02-07**|**Validity-Preserving Delta Debugging via Generator**|Luyao Ren et.al.|[2402.04623](http://arxiv.org/abs/2402.04623)|null|
+|**2024-02-07**|**Validity-Preserving Delta Debugging via Generator**|Luyao Ren et.al.|[2402.04623](http://arxiv.org/abs/2402.04623)|**[link](https://github.com/greduce/greduce)**|
 |**2024-02-07**|**Towards Improved Imbalance Robustness in Continual Multi-Label Learning with Dual Output Spiking Architecture (DOSA)**|Sourav Mishra et.al.|[2402.04596](http://arxiv.org/abs/2402.04596)|null|
 |**2024-02-07**|**Long Short-Term Memory for Early Warning Detection of Gravitational Waves**|Reem Alfaidi et.al.|[2402.04589](http://arxiv.org/abs/2402.04589)|null|
 |**2024-02-07**|**Curvature-Informed SGD via General Purpose Lie-Group Preconditioners**|Omead Pooladzandi et.al.|[2402.04553](http://arxiv.org/abs/2402.04553)|null|
@@ -654,7 +654,7 @@ layout: default
 |**2024-02-06**|**Endmember Extraction Algorithms Fusing for Hyperspectral Unmixing**|H. M. K. D. Wickramathilaka et.al.|[2402.03835](http://arxiv.org/abs/2402.03835)|null|
 |**2024-02-06**|**OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**|Guohang Yan et.al.|[2402.03830](http://arxiv.org/abs/2402.03830)|**[link](https://github.com/pjlab-adg/oasim)**|
 |**2024-02-07**|**AirPhyNet: Harnessing Physics-Guided Neural Networks for Air Quality Prediction**|Kethmi Hirushini Hettige et.al.|[2402.03784](http://arxiv.org/abs/2402.03784)|null|
-|**2024-02-06**|**Encoding Version History Context for Better Code Representation**|Huy Nguyen et.al.|[2402.03773](http://arxiv.org/abs/2402.03773)|null|
+|**2024-02-06**|**Encoding Version History Context for Better Code Representation**|Huy Nguyen et.al.|[2402.03773](http://arxiv.org/abs/2402.03773)|**[link](https://github.com/huynxvn/encodingversionhistory4coderepresentation)**|
 |**2024-02-06**|**AttackNet: Enhancing Biometric Security via Tailored Convolutional Neural Network Architectures for Liveness Detection**|Oleksandr Kuznetsov et.al.|[2402.03769](http://arxiv.org/abs/2402.03769)|**[link](https://github.com/ZamDimon/liveness-detection)**|
 |**2024-02-06**|**Deep Learning-Based Correction and Unmixing of Hyperspectral Images for Brain Tumor Surgery**|David Black et.al.|[2402.03761](http://arxiv.org/abs/2402.03761)|null|
 |**2024-02-06**|**An invariance constrained deep learning network for PDE discovery**|Chao Chen et.al.|[2402.03747](http://arxiv.org/abs/2402.03747)|null|
