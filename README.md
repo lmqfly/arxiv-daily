@@ -406,6 +406,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Physical, chemical and morphological evolution of incipient soot obtained from molecular dynamics simulation of acetylene pyrolysis**|Khaled Mosharraf Mukut et.al.|[2402.06460](http://arxiv.org/abs/2402.06460)|null|
+|**2024-02-09**|**Internal structure of incipient soot from acetylene pyrolysis obtained via molecular dynamics simulations**|Khaled Mosharraf Mukut et.al.|[2402.06456](http://arxiv.org/abs/2402.06456)|null|
+|**2024-02-09**|**Radiationless Decay Spectrum of O 1s Double Core Holes in Liquid Water**|Florian Trinter et.al.|[2402.06419](http://arxiv.org/abs/2402.06419)|null|
+|**2024-02-09**|**Bayesian Committee Machine Potential for Isothermal-Isobaric Molecular Dynamics Simulations**|Soohaeng Yoo Willow et.al.|[2402.06256](http://arxiv.org/abs/2402.06256)|null|
+|**2024-02-09**|**Thermal transport in fullerene-based molecular junctions: Molecular dynamics simulations**|Joanna Li et.al.|[2402.06172](http://arxiv.org/abs/2402.06172)|null|
 |**2024-02-08**|**Hydrogen abstraction from metal surfaces: When electron-hole pair excitations strongly affect hot-atom recombination**|Oihana Galparsoro et.al.|[2402.05743](http://arxiv.org/abs/2402.05743)|null|
 |**2024-02-07**|**Energy Dissipation to Tungsten Surfaces upon Eley-Rideal Recombination of N2 and H2**|O. Galparsoro et.al.|[2402.04949](http://arxiv.org/abs/2402.04949)|null|
 |**2024-02-07**|**Seebeck coefficient of ionic conductors from Bayesian regression analysis**|Enrico Drigo et.al.|[2402.04873](http://arxiv.org/abs/2402.04873)|null|
@@ -458,7 +463,7 @@
 |**2024-01-12**|**Disorder-Induced Heating in Molecular Atmospheric Pressure Plasmas**|Jarett LeVan et.al.|[2401.06873](http://arxiv.org/abs/2401.06873)|null|
 |**2023-12-18**|**Unoccupied space and short-range order characterization in polymers under heat treatment**|Hossein Goodarzi-Hosseinabadi et.al.|[2401.06776](http://arxiv.org/abs/2401.06776)|null|
 |**2023-12-21**|**Graph-Network-Based Predictive Modeling for Highly Cross-Linked Polymer Systems**|Wonseok Lee et.al.|[2401.06152](http://arxiv.org/abs/2401.06152)|null|
-|**2024-01-17**|**Giant piezoelectric effects of topological structures in stretched ferroelectric membranes**|Yihao Hu et.al.|[2401.05789](http://arxiv.org/abs/2401.05789)|**[link](https://github.com/huiihao/spiral)**|
+|**2024-02-09**|**Giant piezoelectric effects of topological structures in stretched ferroelectric membranes**|Yihao Hu et.al.|[2401.05789](http://arxiv.org/abs/2401.05789)|**[link](https://github.com/huiihao/spiral)**|
 |**2024-01-10**|**Phase discovery with active learning: Application to structural phase transitions in equiatomic NiTi**|Jonathan Vandermause et.al.|[2401.05568](http://arxiv.org/abs/2401.05568)|null|
 |**2024-01-05**|**Tailoring Frictional Properties of Surfaces Using Diffusion Models**|Even Marius Nordhagen et.al.|[2401.05206](http://arxiv.org/abs/2401.05206)|null|
 |**2024-01-10**|**Thermomechanical Dissipative behaviour of CuZr metallic glasses**|Matias Sepulveda-Macias et.al.|[2401.05117](http://arxiv.org/abs/2401.05117)|null|
@@ -606,6 +611,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Image-based Deep Learning for the time-dependent prediction of fresh concrete properties**|Max Meyer et.al.|[2402.06611](http://arxiv.org/abs/2402.06611)|null|
+|**2024-02-09**|**Transferring facade labels between point clouds with semantic octrees while considering change detection**|Sophia Schwarz et.al.|[2402.06531](http://arxiv.org/abs/2402.06531)|**[link](https://github.com/schwarzsophia/transferring_urban_labels_between_pointclouds)**|
+|**2024-02-09**|**Multimodal Clinical Trial Outcome Prediction with Large Language Models**|Wenhao Zheng et.al.|[2402.06512](http://arxiv.org/abs/2402.06512)|null|
+|**2024-02-09**|**Classifying point clouds at the facade-level using geometric features and deep learning networks**|Yue Tan et.al.|[2402.06506](http://arxiv.org/abs/2402.06506)|**[link](https://github.com/yue-t99/pointnet2-geometricfeatures-facade)**|
+|**2024-02-09**|**BarlowTwins-CXR : Enhancing Chest X-Ray abnormality localization in heterogeneous data with cross-domain self-supervised learning**|Haoyue Sheng et.al.|[2402.06499](http://arxiv.org/abs/2402.06499)|null|
+|**2024-02-09**|**Deep Learning-Based Auto-Segmentation of Planning Target Volume for Total Marrow and Lymph Node Irradiation**|Ricardo Coimbra Brioso et.al.|[2402.06494](http://arxiv.org/abs/2402.06494)|null|
+|**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390](http://arxiv.org/abs/2402.06390)|**[link](https://github.com/quereste/implicit-deepfake)**|
+|**2024-02-09**|**Maia: A Real-time Non-Verbal Chat for Human-AI Interaction**|Dragos Costea et.al.|[2402.06385](http://arxiv.org/abs/2402.06385)|null|
+|**2024-02-09**|**Multisource Semisupervised Adversarial Domain Generalization Network for Cross-Scene Sea\textendash Land Clutter Classification**|Xiaoxuan Zhang et.al.|[2402.06315](http://arxiv.org/abs/2402.06315)|null|
+|**2024-02-09**|**A plastic correction algorithm for full-field elasto-plastic finite element simulations : critical assessment of predictive capabilities and improvement by machine learning**|Abhishek Palchoudhary et.al.|[2402.06313](http://arxiv.org/abs/2402.06313)|null|
+|**2024-02-09**|**Insomnia Identification via Electroencephalography**|Olviya Udeshika et.al.|[2402.06251](http://arxiv.org/abs/2402.06251)|null|
+|**2024-02-09**|**Anomaly Unveiled: Securing Image Classification against Adversarial Patch Attacks**|Nandish Chattopadhyay et.al.|[2402.06249](http://arxiv.org/abs/2402.06249)|null|
+|**2024-02-09**|**Improved Evidential Deep Learning via a Mixture of Dirichlet Distributions**|J. Jon Ryu et.al.|[2402.06160](http://arxiv.org/abs/2402.06160)|null|
+|**2024-02-08**|**Solving high dimensional FBSDE with deep signature techniques with application to nonlinear options pricing**|Hui Sun et.al.|[2402.06042](http://arxiv.org/abs/2402.06042)|null|
+|**2024-02-08**|**Deep Learning for Data-Driven Districting-and-Routing**|Arthur Ferraz et.al.|[2402.06040](http://arxiv.org/abs/2402.06040)|null|
+|**2024-02-08**|**NPSVC++: Nonparallel Classifiers Encounter Representation Learning**|Junhong Zhang et.al.|[2402.06010](http://arxiv.org/abs/2402.06010)|**[link](https://github.com/apple-zhang/npsvcpp)**|
+|**2024-02-08**|**Capability enhancement of the X-ray micro-tomography system via ML-assisted approaches**|Dhruvi Shah et.al.|[2402.05983](http://arxiv.org/abs/2402.05983)|null|
+|**2024-02-08**|**Anfinsen Goes Neural: a Graphical Model for Conditional Antibody Design**|Nayoung Kim et.al.|[2402.05982](http://arxiv.org/abs/2402.05982)|**[link](https://github.com/lkny123/agn)**|
+|**2024-02-08**|**Exploring the Impact of In-Browser Deep Learning Inference on Quality of User Experience and Performance**|Qipeng Wang et.al.|[2402.05981](http://arxiv.org/abs/2402.05981)|null|
 |**2024-02-08**|**YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**|D. Cornu et.al.|[2402.05925](http://arxiv.org/abs/2402.05925)|null|
 |**2024-02-08**|**Jacquard V2: Refining Datasets using the Human In the Loop Data Correction Method**|Qiuhao Li et.al.|[2402.05747](http://arxiv.org/abs/2402.05747)|null|
 |**2024-02-08**|**Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback**|Shilong Mu et.al.|[2402.05725](http://arxiv.org/abs/2402.05725)|null|
@@ -635,7 +659,7 @@
 |**2024-02-07**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836](http://arxiv.org/abs/2402.04836)|null|
 |**2024-02-07**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821](http://arxiv.org/abs/2402.04821)|**[link](https://github.com/hysonlab/equimesh)**|
 |**2024-02-07**|**BOWLL: A Deceptively Simple Open World Lifelong Learner**|Roshni Kamath et.al.|[2402.04814](http://arxiv.org/abs/2402.04814)|**[link](https://github.com/ml-research/bowll)**|
-|**2024-02-07**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxaun Liu et.al.|[2402.04798](http://arxiv.org/abs/2402.04798)|null|
+|**2024-02-09**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxuan Liu et.al.|[2402.04798](http://arxiv.org/abs/2402.04798)|null|
 |**2024-02-07**|**Analyzing the Neural Tangent Kernel of Periodically Activated Coordinate Networks**|Hemanth Saratchandran et.al.|[2402.04783](http://arxiv.org/abs/2402.04783)|null|
 |**2024-02-07**|**Streamlined Hybrid Annotation Framework using Scalable Codestream for Bandwidth-Restricted UAV Object Detection**|Karim El Khoury et.al.|[2402.04673](http://arxiv.org/abs/2402.04673)|null|
 |**2024-02-07**|**An Over Complete Deep Learning Method for Inverse Problems**|Moshe Eliasof et.al.|[2402.04653](http://arxiv.org/abs/2402.04653)|null|
