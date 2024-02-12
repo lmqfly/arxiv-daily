@@ -763,7 +763,7 @@
 |**2024-02-03**|**Enhancing the efficiency of protein language models with minimal wet-lab data through few-shot learning**|Ziyi Zhou et.al.|[2402.02004](http://arxiv.org/abs/2402.02004)|null|
 |**2024-02-03**|**A Novel Hyperdimensional Computing Framework for Online Time Series Forecasting on the Edge**|Mohamed Mejri et.al.|[2402.01999](http://arxiv.org/abs/2402.01999)|**[link](https://github.com/tsfhd2024/tsf-hd)**|
 |**2024-02-03**|**Low-power scalable multilayer optoelectronic neural networks enabled with incoherent light**|Alexander Song et.al.|[2402.01988](http://arxiv.org/abs/2402.01988)|null|
-|**2024-02-02**|**Sample, estimate, aggregate: A recipe for causal discovery foundation models**|Menghua Wu et.al.|[2402.01929](http://arxiv.org/abs/2402.01929)|null|
+|**2024-02-02**|**Sample, estimate, aggregate: A recipe for causal discovery foundation models**|Menghua Wu et.al.|[2402.01929](http://arxiv.org/abs/2402.01929)|**[link](https://github.com/rmwu/sea)**|
 |**2024-02-02**|**SPDE priors for uncertainty quantification of end-to-end neural data assimilation schemes**|Maxime Beauchamp et.al.|[2402.01855](http://arxiv.org/abs/2402.01855)|null|
 |**2024-02-02**|**Predicting ATP binding sites in protein sequences using Deep Learning and Natural Language Processing**|Shreyas V et.al.|[2402.01829](http://arxiv.org/abs/2402.01829)|null|
 |**2024-02-02**|**Improved Quantization Strategies for Managing Heavy-tailed Gradients in Distributed Learning**|Guangfeng Yan et.al.|[2402.01798](http://arxiv.org/abs/2402.01798)|null|
@@ -1624,7 +1624,7 @@
 |**2023-12-22**|**Time-changed normalizing flows for accurate SDE modeling**|Naoufal El Bekri et.al.|[2312.14698](http://arxiv.org/abs/2312.14698)|null|
 |**2023-12-22**|**DeepGreen: Equivariant neural network for Green's functions of molecules and materials**|Xinyang Dong et.al.|[2312.14680](http://arxiv.org/abs/2312.14680)|null|
 |**2023-12-22**|**MEAOD: Model Extraction Attack against Object Detectors**|Zeyu Li et.al.|[2312.14677](http://arxiv.org/abs/2312.14677)|null|
-|**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670](http://arxiv.org/abs/2312.14670)|null|
+|**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670](http://arxiv.org/abs/2312.14670)|**[link](https://github.com/idsia-papers/causal-llms)**|
 |**2023-12-22**|**SAVAE: Leveraging the variational Bayes autoencoder for survival analysis**|Patricia A. Apellániz et.al.|[2312.14651](http://arxiv.org/abs/2312.14651)|**[link](https://github.com/patricia-a-apellaniz/savae)**|
 |**2023-12-22**|**Convolutional neural network for retrieval of the time-dependent bond length in a molecule from photoelectron momentum distributions**|N. I. Shvetsov-Shilovski et.al.|[2312.14636](http://arxiv.org/abs/2312.14636)|null|
 |**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630](http://arxiv.org/abs/2312.14630)|**[link](https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses)**|
