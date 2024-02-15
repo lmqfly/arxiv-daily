@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -602,7 +602,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-13**|**NeuroBench: An Open-Source Benchmark Framework for the Standardization of Methodology in Brainwave-based Authentication Research**|Avinash Kumar Chaurasia et.al.|[2402.08656](http://arxiv.org/abs/2402.08656)|null|
+|**2024-02-13**|**NeuroBench: An Open-Source Benchmark Framework for the Standardization of Methodology in Brainwave-based Authentication Research**|Avinash Kumar Chaurasia et.al.|[2402.08656](http://arxiv.org/abs/2402.08656)|**[link](https://github.com/Avichaurasia/Brain-Models)**|
 |**2024-02-13**|**BdSLW60: A Word-Level Bangla Sign Language Dataset**|Husne Ara Rubaiyeat et.al.|[2402.08635](http://arxiv.org/abs/2402.08635)|**[link](https://github.com/hasanssl/bdslw60_code)**|
 |**2024-02-13**|**Generative VS non-Generative Models in Engineering Shape Optimization**|Muhammad Usama et.al.|[2402.08540](http://arxiv.org/abs/2402.08540)|null|
 |**2024-02-13**|**A Physics-Informed Deep Learning Description of Knudsen Layer Reactivity Reduction**|Christopher J. McDevitt et.al.|[2402.08495](http://arxiv.org/abs/2402.08495)|null|
@@ -615,7 +615,7 @@ layout: default
 |**2024-02-13**|**A Neural-network Enhanced Video Coding Framework beyond ECM**|Yanchen Zhao et.al.|[2402.08397](http://arxiv.org/abs/2402.08397)|null|
 |**2024-02-13**|**NfgTransformer: Equivariant Representation Learning for Normal-form Games**|Siqi Liu et.al.|[2402.08393](http://arxiv.org/abs/2402.08393)|null|
 |**2024-02-13**|**Selective Learning: Towards Robust Calibration with Dynamic Regularization**|Zongbo Han et.al.|[2402.08384](http://arxiv.org/abs/2402.08384)|null|
-|**2024-02-13**|**Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution**|Tailin Wu et.al.|[2402.08383](http://arxiv.org/abs/2402.08383)|null|
+|**2024-02-13**|**Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution**|Tailin Wu et.al.|[2402.08383](http://arxiv.org/abs/2402.08383)|**[link](https://github.com/ai4science-westlakeu/le-pde-uq)**|
 |**2024-02-13**|**Rethinking U-net Skip Connections for Biomedical Image Segmentation**|Frauke Wilm et.al.|[2402.08276](http://arxiv.org/abs/2402.08276)|null|
 |**2024-02-13**|**Object Detection in Thermal Images Using Deep Learning for Unmanned Aerial Vehicles**|Minh Dang Tu et.al.|[2402.08251](http://arxiv.org/abs/2402.08251)|null|
 |**2024-02-13**|**APALU: A Trainable, Adaptive Activation Function for Deep Learning Networks**|Barathi Subramanian et.al.|[2402.08244](http://arxiv.org/abs/2402.08244)|null|
@@ -635,7 +635,7 @@ layout: default
 |**2024-02-12**|**Low Cost Carriers induce specific and identifiable delay propagation patterns: an analysis of the EU and US systems**|Sofia Gil-Rodrigo et.al.|[2402.07656](http://arxiv.org/abs/2402.07656)|null|
 |**2024-02-12**|**Tighter Bounds on the Information Bottleneck with Application to Deep Learning**|Nir Weingarten et.al.|[2402.07639](http://arxiv.org/abs/2402.07639)|**[link](https://github.com/hopl1t/vub)**|
 |**2024-02-12**|**Developing a Multi-variate Prediction Model For COVID-19 From Crowd-sourced Respiratory Voice Data**|Yuyang Yan et.al.|[2402.07619](http://arxiv.org/abs/2402.07619)|null|
-|**2024-02-13**|**Comparative Analysis of ImageNet Pre-Trained Deep Learning Models and DINOv2 in Medical Imaging Classification**|Yuning Huang et.al.|[2402.07595](http://arxiv.org/abs/2402.07595)|null|
+|**2024-02-13**|**Comparative Analysis of ImageNet Pre-Trained Deep Learning Models and DINOv2 in Medical Imaging Classification**|Yuning Huang et.al.|[2402.07595](http://arxiv.org/abs/2402.07595)|**[link](https://github.com/guanghuifu/medical_dino_eval)**|
 |**2024-02-12**|**A Precision-Optimized Fixed-Point Near-Memory Digital Processing Unit for Analog In-Memory Computing**|Elena Ferro et.al.|[2402.07549](http://arxiv.org/abs/2402.07549)|null|
 |**2024-02-12**|**Accelerating Distributed Deep Learning using Lossless Homomorphic Compression**|Haoyu Li et.al.|[2402.07529](http://arxiv.org/abs/2402.07529)|**[link](https://github.com/lihy0529/lossless_homomorphic_compression)**|
 |**2024-02-12**|**ClusterTabNet: Supervised clustering method for table detection and table structure recognition**|Marek Polewczyk et.al.|[2402.07502](http://arxiv.org/abs/2402.07502)|null|
@@ -688,7 +688,7 @@ layout: default
 |**2024-02-09**|**Anomaly Unveiled: Securing Image Classification against Adversarial Patch Attacks**|Nandish Chattopadhyay et.al.|[2402.06249](http://arxiv.org/abs/2402.06249)|null|
 |**2024-02-09**|**Improved Evidential Deep Learning via a Mixture of Dirichlet Distributions**|J. Jon Ryu et.al.|[2402.06160](http://arxiv.org/abs/2402.06160)|null|
 |**2024-02-08**|**Solving high dimensional FBSDE with deep signature techniques with application to nonlinear options pricing**|Hui Sun et.al.|[2402.06042](http://arxiv.org/abs/2402.06042)|null|
-|**2024-02-08**|**Deep Learning for Data-Driven Districting-and-Routing**|Arthur Ferraz et.al.|[2402.06040](http://arxiv.org/abs/2402.06040)|null|
+|**2024-02-08**|**Deep Learning for Data-Driven Districting-and-Routing**|Arthur Ferraz et.al.|[2402.06040](http://arxiv.org/abs/2402.06040)|**[link](https://github.com/vidalt/districting-routing)**|
 |**2024-02-08**|**NPSVC++: Nonparallel Classifiers Encounter Representation Learning**|Junhong Zhang et.al.|[2402.06010](http://arxiv.org/abs/2402.06010)|**[link](https://github.com/apple-zhang/npsvcpp)**|
 |**2024-02-08**|**Capability enhancement of the X-ray micro-tomography system via ML-assisted approaches**|Dhruvi Shah et.al.|[2402.05983](http://arxiv.org/abs/2402.05983)|null|
 |**2024-02-08**|**Anfinsen Goes Neural: a Graphical Model for Conditional Antibody Design**|Nayoung Kim et.al.|[2402.05982](http://arxiv.org/abs/2402.05982)|**[link](https://github.com/lkny123/agn)**|
