@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.15
+## Updated on 2024.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -621,7 +621,7 @@ layout: default
 |**2024-02-14**|**End-to-End Training Induces Information Bottleneck through Layer-Role Differentiation: A Comparative Analysis with Layer-wise Training**|Keitaro Sakamoto et.al.|[2402.09050](http://arxiv.org/abs/2402.09050)|**[link](https://github.com/keitaroskmt/e2e-info)**|
 |**2024-02-14**|**Pyramid Attention Network for Medical Image Registration**|Zhuoyuan Wang et.al.|[2402.09016](http://arxiv.org/abs/2402.09016)|**[link](https://github.com/juliuswang-7/pan)**|
 |**2024-02-14**|**Exploring Federated Deep Learning for Standardising Naming Conventions in Radiotherapy Data**|Ali Haidar et.al.|[2402.08999](http://arxiv.org/abs/2402.08999)|null|
-|**2024-02-14**|**Lightweight Deep Learning Based Channel Estimation for Extremely Large-Scale Massive MIMO Systems**|Shen Gao et.al.|[2402.08916](http://arxiv.org/abs/2402.08916)|null|
+|**2024-02-14**|**Lightweight Deep Learning Based Channel Estimation for Extremely Large-Scale Massive MIMO Systems**|Shen Gao et.al.|[2402.08916](http://arxiv.org/abs/2402.08916)|**[link](https://github.com/gaoshen90/XLCNet)**|
 |**2024-02-14**|**Moving Object Proposals with Deep Learned Optical Flow for Video Object Segmentation**|Ge Shi et.al.|[2402.08882](http://arxiv.org/abs/2402.08882)|null|
 |**2024-02-14**|**Position Paper: Challenges and Opportunities in Topological Deep Learning**|Theodore Papamarkou et.al.|[2402.08871](http://arxiv.org/abs/2402.08871)|null|
 |**2024-02-14**|**DeepPolar: Inventing Nonlinear Large-Kernel Polar Codes via Deep Learning**|S Ashwin Hebbar et.al.|[2402.08864](http://arxiv.org/abs/2402.08864)|null|
