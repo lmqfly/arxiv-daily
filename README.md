@@ -698,7 +698,7 @@
 |**2024-02-13**|**LOSS-GAT: Label Propagation and One-Class Semi-Supervised Graph Attention Network for Fake News Detection**|Batool Lakzaei et.al.|[2402.08401](http://arxiv.org/abs/2402.08401)|null|
 |**2024-02-13**|**Deep Learning-based Real-time Smartphone Pose Detection for Ultra-wideband Tagless Gate**|Junyoung Choi et.al.|[2402.08399](http://arxiv.org/abs/2402.08399)|null|
 |**2024-02-13**|**A Neural-network Enhanced Video Coding Framework beyond ECM**|Yanchen Zhao et.al.|[2402.08397](http://arxiv.org/abs/2402.08397)|null|
-|**2024-02-13**|**NfgTransformer: Equivariant Representation Learning for Normal-form Games**|Siqi Liu et.al.|[2402.08393](http://arxiv.org/abs/2402.08393)|null|
+|**2024-02-13**|**NfgTransformer: Equivariant Representation Learning for Normal-form Games**|Siqi Liu et.al.|[2402.08393](http://arxiv.org/abs/2402.08393)|**[link](https://github.com/google-deepmind/nfg_transformer)**|
 |**2024-02-13**|**Selective Learning: Towards Robust Calibration with Dynamic Regularization**|Zongbo Han et.al.|[2402.08384](http://arxiv.org/abs/2402.08384)|null|
 |**2024-02-13**|**Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution**|Tailin Wu et.al.|[2402.08383](http://arxiv.org/abs/2402.08383)|**[link](https://github.com/ai4science-westlakeu/le-pde-uq)**|
 |**2024-02-13**|**Rethinking U-net Skip Connections for Biomedical Image Segmentation**|Frauke Wilm et.al.|[2402.08276](http://arxiv.org/abs/2402.08276)|null|
