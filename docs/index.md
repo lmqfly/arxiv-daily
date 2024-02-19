@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -191,7 +191,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-18**|**Quantum state transfer from light to molecules via coherent two-color photo-association in an atomic Bose-Einstein condensate**|Hui Jing et.al.|[quant-ph/0512149](http://arxiv.org/abs/quant-ph/0512149)|null|
-|**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708](http://arxiv.org/abs/2402.08708)|**[link](https://github.com/rokasel/simgen)**|
+|**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708](http://arxiv.org/abs/2402.08708)|**[link](https://github.com/zincware/zndraw)**|
 |**2024-02-10**|**ChemLLM: A Chemical Large Language Model**|Di Zhang et.al.|[2402.06852](http://arxiv.org/abs/2402.06852)|null|
 |**2023-12-28**|**Hybrid quantum cycle generative adversarial network for small molecule generation**|Matvei Anoshin et.al.|[2402.00014](http://arxiv.org/abs/2402.00014)|null|
 |**2023-09-24**|**Curiosity as a Self-Supervised Method to Improve Exploration in De novo Drug Design**|Mohamed-Amine Chadi et.al.|[2401.06771](http://arxiv.org/abs/2401.06771)|**[link](https://github.com/amine179/curiosity-rl-for-drug-design)**|
@@ -607,7 +607,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192](http://arxiv.org/abs/2402.10192)|null|
-|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|null|
+|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|**[link](https://github.com/baussel/zooboteuclid)**|
 |**2024-02-15**|**DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**|Sathwik Tejaswi Madhusudhan et.al.|[2402.10168](http://arxiv.org/abs/2402.10168)|null|
 |**2024-02-15**|**Random features and polynomial rules**|Fabián Aguirre-López et.al.|[2402.10164](http://arxiv.org/abs/2402.10164)|null|
 |**2024-02-15**|**InfoNet: Neural Estimation of Mutual Information without Test-Time Optimization**|Zhengyang Hu et.al.|[2402.10158](http://arxiv.org/abs/2402.10158)|null|

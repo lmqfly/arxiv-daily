@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -89,7 +89,7 @@
 |**2017-04-19**|**Fast Kronecker product kernel methods via generalized vec trick**|Antti Airola et.al.|[1601.01507](http://arxiv.org/abs/1601.01507)|null|
 |**2015-03-12**|**Classification and its applications for drug-target interaction identification**|Jian-Ping Mei et.al.|[1502.04469](http://arxiv.org/abs/1502.04469)|null|
 
-<p align=right>(<a href=#updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240219>back to top</a>)</p>
 
 ## DDI
 
@@ -196,14 +196,14 @@
 |**2014-11-06**|**A network inference method for large-scale unsupervised identification of novel drug-drug interactions**|Roger Guimera et.al.|[1411.1528](http://arxiv.org/abs/1411.1528)|null|
 |**2012-10-02**|**Evaluation of linear classifiers on articles containing pharmacokinetic evidence of drug-drug interactions**|Artemy Kolchinsky et.al.|[1210.0734](http://arxiv.org/abs/1210.0734)|null|
 
-<p align=right>(<a href=#updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240219>back to top</a>)</p>
 
 ## MG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-12-18**|**Quantum state transfer from light to molecules via coherent two-color photo-association in an atomic Bose-Einstein condensate**|Hui Jing et.al.|[quant-ph/0512149](http://arxiv.org/abs/quant-ph/0512149)|null|
-|**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708](http://arxiv.org/abs/2402.08708)|**[link](https://github.com/rokasel/simgen)**|
+|**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708](http://arxiv.org/abs/2402.08708)|**[link](https://github.com/zincware/zndraw)**|
 |**2024-02-10**|**ChemLLM: A Chemical Large Language Model**|Di Zhang et.al.|[2402.06852](http://arxiv.org/abs/2402.06852)|null|
 |**2023-12-28**|**Hybrid quantum cycle generative adversarial network for small molecule generation**|Matvei Anoshin et.al.|[2402.00014](http://arxiv.org/abs/2402.00014)|null|
 |**2023-09-24**|**Curiosity as a Self-Supervised Method to Improve Exploration in De novo Drug Design**|Mohamed-Amine Chadi et.al.|[2401.06771](http://arxiv.org/abs/2401.06771)|**[link](https://github.com/amine179/curiosity-rl-for-drug-design)**|
@@ -282,7 +282,7 @@
 |**2017-05-17**|**Molecular Generation with Recurrent Neural Networks (RNNs)**|Esben Jannik Bjerrum et.al.|[1705.04612](http://arxiv.org/abs/1705.04612)|null|
 |**2017-10-16**|**Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control**|Natasha Jaques et.al.|[1611.02796](http://arxiv.org/abs/1611.02796)|null|
 
-<p align=right>(<a href=#updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240219>back to top</a>)</p>
 
 ## MPP
 
@@ -404,7 +404,7 @@
 |**2022-10-25**|**Pre-training via Denoising for Molecular Property Prediction**|Sheheryar Zaidi et.al.|[2206.00133](http://arxiv.org/abs/2206.00133)|**[link](https://github.com/shehzaidi/pre-training-via-denoising)**|
 |**2022-05-26**|**Triangular Contrastive Learning on Molecular Graphs**|MinGyu Choi et.al.|[2205.13279](http://arxiv.org/abs/2205.13279)|null|
 
-<p align=right>(<a href=#updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240219>back to top</a>)</p>
 
 ## MD
 
@@ -618,14 +618,14 @@
 |**2023-10-08**|**Pressure-driven homogenization of lithium disilicate glasses**|Yasser Bakhouch et.al.|[2310.05278](http://arxiv.org/abs/2310.05278)|null|
 |**2023-10-07**|**From shear bands to earthquakes in a model granular material with contact aging**|E. A. Jagla et.al.|[2310.04890](http://arxiv.org/abs/2310.04890)|null|
 
-<p align=right>(<a href=#updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240219>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192](http://arxiv.org/abs/2402.10192)|null|
-|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|null|
+|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|**[link](https://github.com/baussel/zooboteuclid)**|
 |**2024-02-15**|**DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**|Sathwik Tejaswi Madhusudhan et.al.|[2402.10168](http://arxiv.org/abs/2402.10168)|null|
 |**2024-02-15**|**Random features and polynomial rules**|Fabián Aguirre-López et.al.|[2402.10164](http://arxiv.org/abs/2402.10164)|null|
 |**2024-02-15**|**InfoNet: Neural Estimation of Mutual Information without Test-Time Optimization**|Zhengyang Hu et.al.|[2402.10158](http://arxiv.org/abs/2402.10158)|null|
@@ -2232,7 +2232,7 @@
 |**2023-12-05**|**Flexible Communication for Optimal Distributed Learning over Unpredictable Networks**|Sahil Tyagi et.al.|[2312.02493](http://arxiv.org/abs/2312.02493)|**[link](https://github.com/sahiltyagi4/artopk)**|
 |**2023-12-05**|**Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery**|Yansheng Li et.al.|[2312.02481](http://arxiv.org/abs/2312.02481)|null|
 
-<p align=right>(<a href=#updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
