@@ -410,6 +410,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**A Gauss-Newton method for iterative optimization of memory kernels for generalized Langevin thermostats in coarse-grained molecular dynamics simulations**|V. Klippenstein et.al.|[2402.10652](http://arxiv.org/abs/2402.10652)|null|
 |**2024-02-15**|**Dopant concentration effects on Si $_{1-x}$Ge$_{x}$ crystals for emerging light-source technologies: A molecular dynamics study**|Matthew D. Dickers et.al.|[2402.10120](http://arxiv.org/abs/2402.10120)|null|
 |**2024-02-14**|**On the system size dependence of the diffusion coefficients in MD simulations: A simple correction formula for pure dense fluids**|Sergey Khrapak et.al.|[2402.09348](http://arxiv.org/abs/2402.09348)|null|
 |**2024-02-14**|**The Photochemistry of Rydberg Excited Cyclobutanone: Photoinduced Processes and Ground State Dynamics**|Julien Eng et.al.|[2402.09140](http://arxiv.org/abs/2402.09140)|null|
@@ -498,7 +499,7 @@
 |**2023-12-29**|**Spinodal enhancement of fluctuations in nucleus-nucleus collisions**|Roman Poberezhnyuk et.al.|[2312.17685](http://arxiv.org/abs/2312.17685)|null|
 |**2023-12-28**|**Rheological softening of metal nanocontacts sheared under oscillatory strains**|Ali Khosravi et.al.|[2312.17094](http://arxiv.org/abs/2312.17094)|null|
 |**2023-12-27**|**High Capacity Hydrogen Storage on Zirconium decorated γ-graphyne: A systematic first-principles study**|Mukesh Singh et.al.|[2312.16440](http://arxiv.org/abs/2312.16440)|null|
-|**2024-01-19**|**Virialized equation of state for warm and dense stellar plasmas in proto-neutron stars and Supernova matter**|D. Barba-González et.al.|[2312.16252](http://arxiv.org/abs/2312.16252)|null|
+|**2024-02-16**|**Virialized equation of state for warm and dense stellar plasmas in proto-neutron stars and Supernova matter**|D. Barba-González et.al.|[2312.16252](http://arxiv.org/abs/2312.16252)|null|
 |**2023-12-06**|**Hydrogel modified evaporation interface for highly stable membrane distillation**|Yanni Ma et.al.|[2312.14166](http://arxiv.org/abs/2312.14166)|null|
 |**2023-12-21**|**How precise molecular dynamic simulations are and what we can learn from it?**|M. V. Kondrin et.al.|[2312.13775](http://arxiv.org/abs/2312.13775)|null|
 |**2023-12-20**|**Microscopic model for a Brownian Translator**|Bart Wijns et.al.|[2312.13158](http://arxiv.org/abs/2312.13158)|null|
@@ -624,6 +625,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation**|Ziyang Wang et.al.|[2402.10887](http://arxiv.org/abs/2402.10887)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
+|**2024-02-16**|**GAN-driven Electromagnetic Imaging of 2-D Dielectric Scatterers**|Ehtasham Naseer et.al.|[2402.10831](http://arxiv.org/abs/2402.10831)|null|
+|**2024-02-16**|**BioFusionNet: Deep Learning-Based Survival Risk Stratification in ER+ Breast Cancer Through Multifeature and Multimodal Data Fusion**|Raktim Kumar Mondol et.al.|[2402.10717](http://arxiv.org/abs/2402.10717)|null|
+|**2024-02-16**|**A Predictive Surrogate Model for Heat Transfer of an Impinging Jet on a Concave Surface**|Sajad Salavatidezfouli et.al.|[2402.10641](http://arxiv.org/abs/2402.10641)|null|
+|**2024-02-16**|**Robust Beamforming for RIS-aided Communications: Gradient-based Manifold Meta Learning**|Fenghao Zhu et.al.|[2402.10626](http://arxiv.org/abs/2402.10626)|**[link](https://github.com/fenghaozhu/GMML)**|
+|**2024-02-16**|**Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism**|Yujia Zhou et.al.|[2402.10548](http://arxiv.org/abs/2402.10548)|null|
+|**2024-02-16**|**CodaMal: Contrastive Domain Adaptation for Malaria Detection in Low-Cost Microscopes**|Ishan Rajendrakumar Dave et.al.|[2402.10478](http://arxiv.org/abs/2402.10478)|**[link](https://github.com/daveishan/codamal)**|
+|**2024-02-16**|**Optimizing Skin Lesion Classification via Multimodal Data and Auxiliary Task Integration**|Mahapara Khurshid et.al.|[2402.10454](http://arxiv.org/abs/2402.10454)|null|
+|**2024-02-16**|**Prompt Learning for Multi-Label Code Smell Detection: A Promising Approach**|Haiyang Liu et.al.|[2402.10398](http://arxiv.org/abs/2402.10398)|null|
+|**2024-02-15**|**Backdoor Attack against One-Class Sequential Anomaly Detection Models**|He Cheng et.al.|[2402.10283](http://arxiv.org/abs/2402.10283)|null|
+|**2024-02-15**|**SusFL: Energy-Aware Federated Learning-based Monitoring for Sustainable Smart Farms**|Dian Chen et.al.|[2402.10280](http://arxiv.org/abs/2402.10280)|null|
+|**2024-02-14**|**A Language Model for Particle Tracking**|Andris Huang et.al.|[2402.10239](http://arxiv.org/abs/2402.10239)|null|
 |**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192](http://arxiv.org/abs/2402.10192)|null|
 |**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|**[link](https://github.com/baussel/zooboteuclid)**|
 |**2024-02-15**|**DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**|Sathwik Tejaswi Madhusudhan et.al.|[2402.10168](http://arxiv.org/abs/2402.10168)|null|
