@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.21
+## Updated on 2024.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -697,7 +697,7 @@ layout: default
 |**2024-02-16**|**Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism**|Yujia Zhou et.al.|[2402.10548](http://arxiv.org/abs/2402.10548)|null|
 |**2024-02-16**|**CodaMal: Contrastive Domain Adaptation for Malaria Detection in Low-Cost Microscopes**|Ishan Rajendrakumar Dave et.al.|[2402.10478](http://arxiv.org/abs/2402.10478)|**[link](https://github.com/daveishan/codamal)**|
 |**2024-02-16**|**Optimizing Skin Lesion Classification via Multimodal Data and Auxiliary Task Integration**|Mahapara Khurshid et.al.|[2402.10454](http://arxiv.org/abs/2402.10454)|null|
-|**2024-02-16**|**Prompt Learning for Multi-Label Code Smell Detection: A Promising Approach**|Haiyang Liu et.al.|[2402.10398](http://arxiv.org/abs/2402.10398)|null|
+|**2024-02-16**|**Prompt Learning for Multi-Label Code Smell Detection: A Promising Approach**|Haiyang Liu et.al.|[2402.10398](http://arxiv.org/abs/2402.10398)|**[link](https://github.com/hyliu-cn/promptsmell)**|
 |**2024-02-15**|**Backdoor Attack against One-Class Sequential Anomaly Detection Models**|He Cheng et.al.|[2402.10283](http://arxiv.org/abs/2402.10283)|null|
 |**2024-02-15**|**SusFL: Energy-Aware Federated Learning-based Monitoring for Sustainable Smart Farms**|Dian Chen et.al.|[2402.10280](http://arxiv.org/abs/2402.10280)|null|
 |**2024-02-14**|**A Language Model for Particle Tracking**|Andris Huang et.al.|[2402.10239](http://arxiv.org/abs/2402.10239)|null|
