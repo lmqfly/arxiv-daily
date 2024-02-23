@@ -205,6 +205,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-12-18**|**Quantum state transfer from light to molecules via coherent two-color photo-association in an atomic Bose-Einstein condensate**|Hui Jing et.al.|[quant-ph/0512149](http://arxiv.org/abs/quant-ph/0512149)|null|
+|**2024-02-22**|**Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling**|Yuwei Yang et.al.|[2402.14315](http://arxiv.org/abs/2402.14315)|null|
 |**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708](http://arxiv.org/abs/2402.08708)|**[link](https://github.com/zincware/zndraw)**|
 |**2024-02-10**|**ChemLLM: A Chemical Large Language Model**|Di Zhang et.al.|[2402.06852](http://arxiv.org/abs/2402.06852)|null|
 |**2023-12-28**|**Hybrid quantum cycle generative adversarial network for small molecule generation**|Matvei Anoshin et.al.|[2402.00014](http://arxiv.org/abs/2402.00014)|null|
@@ -634,6 +635,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Difference Learning for Air Quality Forecasting Transport Emulation**|Reed River Chen et.al.|[2402.14806](http://arxiv.org/abs/2402.14806)|null|
+|**2024-02-22**|**Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach**|Andrea Giuseppe Di Francesco et.al.|[2402.14802](http://arxiv.org/abs/2402.14802)|null|
+|**2024-02-22**|**Zero-Shot Pediatric Tuberculosis Detection in Chest X-Rays using Self-Supervised Learning**|Daniel Capellán-Martín et.al.|[2402.14741](http://arxiv.org/abs/2402.14741)|null|
+|**2024-02-22**|**Autonomy Oriented Digital Twins for Real2Sim2Real Autoware Deployment**|Chinmay Vilas Samak et.al.|[2402.14739](http://arxiv.org/abs/2402.14739)|null|
+|**2024-02-22**|**Deep Learning Models for Conditioning Extremely Noisy Signals**|Andrea Faúndez Quezada et.al.|[2402.14713](http://arxiv.org/abs/2402.14713)|null|
+|**2024-02-22**|**A Quick Introduction to Quantum Machine Learning for Non-Practitioners**|Ethan N. Evans et.al.|[2402.14694](http://arxiv.org/abs/2402.14694)|null|
+|**2024-02-22**|**Quadruplet Loss For Improving the Robustness to Face Morphing Attacks**|Iurii Medvedev et.al.|[2402.14665](http://arxiv.org/abs/2402.14665)|null|
+|**2024-02-22**|**GazeTrak: Exploring Acoustic-based Eye Tracking on a Glass Frame**|Ke Li et.al.|[2402.14634](http://arxiv.org/abs/2402.14634)|null|
+|**2024-02-22**|**Deep vessel segmentation based on a new combination of vesselness filters**|Guillaume Garret et.al.|[2402.14509](http://arxiv.org/abs/2402.14509)|null|
+|**2024-02-22**|**SpanSeq: Similarity-based sequence data splitting method for improved development and assessment of deep learning projects**|Alfred Ferrer Florensa et.al.|[2402.14482](http://arxiv.org/abs/2402.14482)|**[link](https://github.com/genomicepidemiology/spanseq)**|
+|**2024-02-22**|**Reimagining Anomalies: What If Anomalies Were Normal?**|Philipp Liznerski et.al.|[2402.14469](http://arxiv.org/abs/2402.14469)|null|
+|**2024-02-22**|**VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning**|Jingyao Li et.al.|[2402.14456](http://arxiv.org/abs/2402.14456)|null|
+|**2024-02-22**|**Text me the data: Generating Ground Pressure Sequence from Textual Descriptions for HAR**|Lala Shakti Swarup Ray et.al.|[2402.14427](http://arxiv.org/abs/2402.14427)|null|
+|**2024-02-22**|**WindDragon: Enhancing wind power forecasting with Automated Deep Learning**|Julie Keisler et.al.|[2402.14385](http://arxiv.org/abs/2402.14385)|null|
+|**2024-02-22**|**TIE-KD: Teacher-Independent and Explainable Knowledge Distillation for Monocular Depth Estimation**|Sangwon Choi et.al.|[2402.14340](http://arxiv.org/abs/2402.14340)|null|
+|**2024-02-22**|**HyperFast: Instant Classification for Tabular Data**|David Bonet et.al.|[2402.14335](http://arxiv.org/abs/2402.14335)|**[link](https://github.com/ai-sandbox/hyperfast)**|
+|**2024-02-22**|**Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling**|Yuwei Yang et.al.|[2402.14315](http://arxiv.org/abs/2402.14315)|null|
+|**2024-02-22**|**A Simple Framework Uniting Visual In-context Learning with Masked Image Modeling to Improve Ultrasound Segmentation**|Yuyue Zhou et.al.|[2402.14300](http://arxiv.org/abs/2402.14300)|**[link](https://github.com/yuyue2uofa/simicl)**|
+|**2024-02-22**|**SICRN: Advancing Speech Enhancement through State Space Model and Inplace Convolution Techniques**|Changjiang Zhao et.al.|[2402.14225](http://arxiv.org/abs/2402.14225)|null|
+|**2024-02-22**|**Compression Robust Synthetic Speech Detection Using Patched Spectrogram Transformer**|Amit Kumar Singh Yadav et.al.|[2402.14205](http://arxiv.org/abs/2402.14205)|null|
+|**2024-02-21**|**DeiSAM: Segment Anything with Deictic Prompting**|Hikaru Shindo et.al.|[2402.14123](http://arxiv.org/abs/2402.14123)|**[link](https://github.com/ml-research/deictic-segment-anything)**|
+|**2024-02-21**|**Formal Definitions and Performance Comparison of Consistency Models for Parallel File Systems**|Chen Wang et.al.|[2402.14105](http://arxiv.org/abs/2402.14105)|null|
+|**2024-02-21**|**EXACT-Net:EHR-guided lung tumor auto-segmentation for non-small cell lung cancer radiotherapy**|Hamed Hooshangnejad et.al.|[2402.14099](http://arxiv.org/abs/2402.14099)|null|
+|**2024-02-21**|**EyeTrans: Merging Human and Machine Attention for Neural Code Summarization**|Yifan Zhang et.al.|[2402.14096](http://arxiv.org/abs/2402.14096)|**[link](https://zenodo.org/record/10684985)**|
+|**2024-02-21**|**Efficient Normalized Conformal Prediction and Uncertainty Quantification for Anti-Cancer Drug Sensitivity Prediction with Deep Regression Forests**|Daniel Nolte et.al.|[2402.14080](http://arxiv.org/abs/2402.14080)|null|
+|**2024-02-21**|**Generative Adversarial Models for Extreme Downscaling of Climate Datasets**|Guiye Li et.al.|[2402.14049](http://arxiv.org/abs/2402.14049)|null|
+|**2024-02-21**|**Simple and Effective Transfer Learning for Neuro-Symbolic Integration**|Alessandro Daniele et.al.|[2402.14047](http://arxiv.org/abs/2402.14047)|null|
+|**2024-02-21**|**Quantum Annealing and Graph Neural Networks for Solving TSP with QUBO**|Haoqi He et.al.|[2402.14036](http://arxiv.org/abs/2402.14036)|null|
 |**2024-02-21**|**The Importance of Architecture Choice in Deep Learning for Climate Applications**|Simon Dräger et.al.|[2402.13979](http://arxiv.org/abs/2402.13979)|null|
 |**2024-02-21**|**Tumor segmentation on whole slide images: training or prompting?**|Huaqian Wu et.al.|[2402.13932](http://arxiv.org/abs/2402.13932)|null|
 |**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918](http://arxiv.org/abs/2402.13918)|**[link](https://github.com/toelt-llc/cloud_segmentation_comparative)**|
@@ -648,7 +677,7 @@
 |**2024-02-21**|**Adversarial Purification and Fine-tuning for Robust UDC Image Restoration**|Zhenbo Song et.al.|[2402.13629](http://arxiv.org/abs/2402.13629)|null|
 |**2024-02-21**|**YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information**|Chien-Yao Wang et.al.|[2402.13616](http://arxiv.org/abs/2402.13616)|**[link](https://github.com/wongkinyiu/yolov9)**|
 |**2024-02-21**|**Convergence Acceleration of Markov Chain Monte Carlo-based Gradient Descent by Deep Unfolding**|Ryo Hagiwara et.al.|[2402.13608](http://arxiv.org/abs/2402.13608)|null|
-|**2024-02-21**|**A Two-Stage Dual-Path Framework for Text Tampering Detection and Recognition**|Guandong Li et.al.|[2402.13545](http://arxiv.org/abs/2402.13545)|null|
+|**2024-02-22**|**A Two-Stage Dual-Path Framework for Text Tampering Detection and Recognition**|Guandong Li et.al.|[2402.13545](http://arxiv.org/abs/2402.13545)|null|
 |**2024-02-21**|**EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization**|Zhendong Xiao et.al.|[2402.13537](http://arxiv.org/abs/2402.13537)|null|
 |**2024-02-21**|**Statistical Analyses of Solar Prominences and Active Region Features in 304 Å Filtergrams detected via Deep Learning**|T. Zhang et.al.|[2402.13502](http://arxiv.org/abs/2402.13502)|null|
 |**2024-02-21**|**Benchmarking and Dissecting the Nvidia Hopper GPU Architecture**|Weile Luo et.al.|[2402.13499](http://arxiv.org/abs/2402.13499)|null|
@@ -682,9 +711,9 @@
 |**2024-02-19**|**Graph-based Virtual Sensing from Sparse and Partial Multivariate Observations**|Giovanni De Felice et.al.|[2402.12598](http://arxiv.org/abs/2402.12598)|**[link](https://github.com/gdefe/ggnet-virtual-sensing)**|
 |**2024-02-19**|**Truncated Polynomial Expansion-Based Detection in Massive MIMO: A Model-Driven Deep Learning Approach**|Kazem Izadinasab et.al.|[2402.12595](http://arxiv.org/abs/2402.12595)|null|
 |**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551](http://arxiv.org/abs/2402.12551)|null|
-|**2024-02-19**|**Designing High-Performing Networks for Multi-Scale Computer Vision**|Cédric Picron et.al.|[2402.12536](http://arxiv.org/abs/2402.12536)|null|
-|**2024-02-19**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|null|
-|**2024-02-19**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[2402.12532](http://arxiv.org/abs/2402.12532)|null|
+|**2024-02-19**|**Designing High-Performing Networks for Multi-Scale Computer Vision**|Cédric Picron et.al.|[2402.12536](http://arxiv.org/abs/2402.12536)|**[link](https://github.com/cedricpicron/detseg)**|
+|**2024-02-19**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
+|**2024-02-22**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[2402.12532](http://arxiv.org/abs/2402.12532)|null|
 |**2024-02-19**|**An evaluation of Deep Learning based stereo dense matching dataset shift from aerial images and a large scale stereo dataset**|Teng Wu et.al.|[2402.12522](http://arxiv.org/abs/2402.12522)|**[link](https://github.com/whuwuteng/aerial_stereo_dataset)**|
 |**2024-02-19**|**Gaussian Process Neural Additive Models**|Wei Zhang et.al.|[2402.12518](http://arxiv.org/abs/2402.12518)|**[link](https://github.com/wei2624/gpnam)**|
 |**2024-02-21**|**PARCv2: Physics-aware Recurrent Convolutional Neural Networks for Spatiotemporal Dynamics Modeling**|Phong C. H. Nguyen et.al.|[2402.12503](http://arxiv.org/abs/2402.12503)|null|
