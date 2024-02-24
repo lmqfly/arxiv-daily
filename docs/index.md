@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.23
+## Updated on 2024.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -666,7 +666,7 @@ layout: default
 |**2024-02-21**|**Inverse-designed Photonic Computing Core for Parallel Matrix-vector Multiplication**|Kaiyuan Wang et.al.|[2402.13447](http://arxiv.org/abs/2402.13447)|null|
 |**2024-02-21**|**A Neuro-Symbolic Approach to Multi-Agent RL for Interpretability and Probabilistic Decision Making**|Chitra Subramanian et.al.|[2402.13440](http://arxiv.org/abs/2402.13440)|null|
 |**2024-02-20**|**Quantitative causality, causality-guided scientific discovery, and causal machine learning**|X. San Liang et.al.|[2402.13427](http://arxiv.org/abs/2402.13427)|null|
-|**2024-02-20**|**Investigating the Histogram Loss in Regression**|Ehsan Imani et.al.|[2402.13425](http://arxiv.org/abs/2402.13425)|null|
+|**2024-02-20**|**Investigating the Histogram Loss in Regression**|Ehsan Imani et.al.|[2402.13425](http://arxiv.org/abs/2402.13425)|**[link](https://github.com/marthawhite/histogram_loss)**|
 |**2024-02-20**|**Xling: A Learned Filter Framework for Accelerating High-Dimensional Approximate Similarity Join**|Yifan Wang et.al.|[2402.13397](http://arxiv.org/abs/2402.13397)|null|
 |**2024-02-20**|**Toward TransfORmers: Revolutionizing the Solution of Mixed Integer Programs with Transformers**|Joshua F. Cooper et.al.|[2402.13380](http://arxiv.org/abs/2402.13380)|null|
 |**2024-02-20**|**FIDLAR: Forecast-Informed Deep Learning Architecture for Flood Mitigation**|Jimeng Shi et.al.|[2402.13371](http://arxiv.org/abs/2402.13371)|**[link](https://github.com/jimengshi/fidlar)**|
