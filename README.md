@@ -205,6 +205,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-12-18**|**Quantum state transfer from light to molecules via coherent two-color photo-association in an atomic Bose-Einstein condensate**|Hui Jing et.al.|[quant-ph/0512149](http://arxiv.org/abs/quant-ph/0512149)|null|
+|**2024-01-18**|**Attention Based Molecule Generation via Hierarchical Variational Autoencoder**|Divahar Sivanesan et.al.|[2402.16854](http://arxiv.org/abs/2402.16854)|null|
 |**2024-02-22**|**Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling**|Yuwei Yang et.al.|[2402.14315](http://arxiv.org/abs/2402.14315)|null|
 |**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708](http://arxiv.org/abs/2402.08708)|**[link](https://github.com/zincware/zndraw)**|
 |**2024-02-10**|**ChemLLM: A Chemical Large Language Model**|Di Zhang et.al.|[2402.06852](http://arxiv.org/abs/2402.06852)|null|
@@ -415,6 +416,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**A Bayesian Committee Machine Potential for Organic Nitrogen Compounds**|Hyun Gyu Park et.al.|[2402.17132](http://arxiv.org/abs/2402.17132)|null|
+|**2024-02-27**|**Virial Equation of State for a Granular System**|Subhanker Howlader et.al.|[2402.17100](http://arxiv.org/abs/2402.17100)|null|
 |**2024-02-24**|**Distinguishable-particle Glassy Crystal: the simplest molecular model of glass**|Leo S. I. Lam et.al.|[2402.15805](http://arxiv.org/abs/2402.15805)|null|
 |**2024-02-24**|**Prediction of Superionic State in LiH2 at Conditions Enroute to Nuclear Fusion**|Fude Li et.al.|[2402.15791](http://arxiv.org/abs/2402.15791)|null|
 |**2024-02-23**|**The origin of phase separation in binary aluminosilicate glasses**|Houssam Kharouji et.al.|[2402.15314](http://arxiv.org/abs/2402.15314)|null|
@@ -511,7 +514,7 @@
 |**2024-01-04**|**Factors resisting protein adsorption on hydrophilic/hydrophobic self-assembled monolayers terminated with hydrophilic hydroxyl groups**|Dangxin Mao et.al.|[2401.02169](http://arxiv.org/abs/2401.02169)|null|
 |**2024-01-03**|**Observation of Liquid Glass in Molecular Dynamics Simulations**|Mohammed Alhissi et.al.|[2401.01938](http://arxiv.org/abs/2401.01938)|null|
 |**2024-01-01**|**Tuning Thermal Conductivity of Hybrid Perovskites through Halide Alloying**|Guang Wang et.al.|[2401.00647](http://arxiv.org/abs/2401.00647)|null|
-|**2023-12-31**|**Generating High-Precision Force Fields for Molecular Dynamics Simulations to Study Chemical Reaction Mechanisms using Molecular Configuration Transformer**|Sihao Yuan et.al.|[2401.00499](http://arxiv.org/abs/2401.00499)|null|
+|**2024-02-27**|**Generating High-Precision Force Fields for Molecular Dynamics Simulations to Study Chemical Reaction Mechanisms using Molecular Configuration Transformer**|Sihao Yuan et.al.|[2401.00499](http://arxiv.org/abs/2401.00499)|null|
 |**2023-12-31**|**Analytical Model for Atomic Relaxation in Twisted Moiré Materials**|Mohammed M. Al Ezzi et.al.|[2401.00498](http://arxiv.org/abs/2401.00498)|null|
 |**2023-12-29**|**Superconductivity in CH4 and BH4- Containing Compounds Derived from the High-Pressure Superhydrides**|Nisha Geng et.al.|[2401.00088](http://arxiv.org/abs/2401.00088)|null|
 |**2023-12-29**|**Spinodal enhancement of fluctuations in nucleus-nucleus collisions**|Roman Poberezhnyuk et.al.|[2312.17685](http://arxiv.org/abs/2312.17685)|null|
@@ -643,6 +646,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**LoDIP: Low light phase retrieval with deep image prior**|Raunak Manekar et.al.|[2402.17745](http://arxiv.org/abs/2402.17745)|null|
+|**2024-02-27**|**Real-time Low-latency Music Source Separation using Hybrid Spectrogram-TasNet**|Satvik Venkatesh et.al.|[2402.17701](http://arxiv.org/abs/2402.17701)|null|
+|**2024-02-27**|**Geometric Deep Learning for Computer-Aided Design: A Survey**|Negar Heidari et.al.|[2402.17695](http://arxiv.org/abs/2402.17695)|null|
+|**2024-02-27**|**SDF2Net: Shallow to Deep Feature Fusion Network for PolSAR Image Classification**|Mohammed Q. Alkhatib et.al.|[2402.17672](http://arxiv.org/abs/2402.17672)|**[link](https://github.com/mqalkhatib/sdf2net)**|
+|**2024-02-27**|**Multi-Agent Deep Reinforcement Learning for Distributed Satellite Routing**|Federico Lozano-Cuadra et.al.|[2402.17666](http://arxiv.org/abs/2402.17666)|null|
+|**2024-02-27**|**Bayesian Differentiable Physics for Cloth Digitalization**|Deshan Gong et.al.|[2402.17664](http://arxiv.org/abs/2402.17664)|null|
+|**2024-02-27**|**Hyperdimensional computing: a fast, robust and interpretable paradigm for biological data**|Michiel Stock et.al.|[2402.17572](http://arxiv.org/abs/2402.17572)|null|
+|**2024-02-27**|**Extreme Miscalibration and the Illusion of Adversarial Robustness**|Vyas Raina et.al.|[2402.17509](http://arxiv.org/abs/2402.17509)|null|
+|**2024-02-27**|**MGE: A Training-Free and Efficient Model Generation and Enhancement Scheme**|Xuan Wang et.al.|[2402.17486](http://arxiv.org/abs/2402.17486)|null|
+|**2024-02-27**|**Automated Classification of Phonetic Segments in Child Speech Using Raw Ultrasound Imaging**|Saja Al Ani et.al.|[2402.17482](http://arxiv.org/abs/2402.17482)|null|
+|**2024-02-27**|**Natural Language Processing Methods for Symbolic Music Generation and Information Retrieval: a Survey**|Dinh-Viet-Toan Le et.al.|[2402.17467](http://arxiv.org/abs/2402.17467)|null|
+|**2024-02-27**|**Why do Learning Rates Transfer? Reconciling Optimization and Scaling Limits for Deep Learning**|Lorenzo Noci et.al.|[2402.17457](http://arxiv.org/abs/2402.17457)|null|
+|**2024-02-27**|**Segment anything model for head and neck tumor segmentation with CT, PET and MRI multi-modality images**|Jintao Ren et.al.|[2402.17454](http://arxiv.org/abs/2402.17454)|null|
+|**2024-02-27**|**Conformal Shield: A Novel Adversarial Attack Detection Framework for Automatic Modulation Classification**|Tailai Wen et.al.|[2402.17450](http://arxiv.org/abs/2402.17450)|null|
+|**2024-02-27**|**Deep Learning Based Named Entity Recognition Models for Recipes**|Mansi Goel et.al.|[2402.17447](http://arxiv.org/abs/2402.17447)|null|
+|**2024-02-27**|**V2C-Long: Longitudinal Cortex Reconstruction with Spatiotemporal Correspondence**|Fabian Bongratz et.al.|[2402.17438](http://arxiv.org/abs/2402.17438)|null|
+|**2024-02-27**|**Utilizing U-Net Architectures with Auxiliary Information for Scatter Correction in CBCT Across Different Field-of-View Settings**|Harshit Agrawal et.al.|[2402.17397](http://arxiv.org/abs/2402.17397)|null|
+|**2024-02-27**|**Outdoor Environment Reconstruction with Deep Learning on Radio Propagation Paths**|Hrant Khachatrian et.al.|[2402.17336](http://arxiv.org/abs/2402.17336)|null|
+|**2024-02-27**|**How we won BraTS 2023 Adult Glioma challenge? Just faking it! Enhanced Synthetic Data Augmentation and Model Ensemble for brain tumour segmentation**|André Ferreira et.al.|[2402.17317](http://arxiv.org/abs/2402.17317)|null|
+|**2024-02-27**|**Towards Robust and Efficient Cloud-Edge Elastic Model Adaptation via Selective Entropy Distillation**|Yaofo Chen et.al.|[2402.17316](http://arxiv.org/abs/2402.17316)|**[link](https://github.com/chenyaofo/cema)**|
+|**2024-02-27**|**Deep Learning-Based Speech and Vision Synthesis to Improve Phishing Attack Detection through a Multi-layer Adaptive Framework**|Tosin Ige et.al.|[2402.17249](http://arxiv.org/abs/2402.17249)|null|
+|**2024-02-27**|**Chain-of-Thought Prompting of Large Language Models for Discovering and Fixing Software Vulnerabilities**|Yu Nong et.al.|[2402.17230](http://arxiv.org/abs/2402.17230)|null|
+|**2024-02-27**|**Application of Machine Learning Optimization in Cloud Computing Resource Scheduling and Management**|Yifan Zhang et.al.|[2402.17216](http://arxiv.org/abs/2402.17216)|null|
+|**2024-02-27**|**Deep Learning-based Kinetic Analysis in Paper-based Analytical Cartridges Integrated with Field-effect Transistors**|Hyun-June Jang et.al.|[2402.17209](http://arxiv.org/abs/2402.17209)|null|
+|**2024-02-27**|**Prediction of the SYM-H Index Using a Bayesian Deep Learning Method with Uncertainty Quantification**|Yasser Abduallah et.al.|[2402.17196](http://arxiv.org/abs/2402.17196)|null|
+|**2024-02-27**|**Inpainting Computational Fluid Dynamics with Deep Learning**|Dule Shu et.al.|[2402.17185](http://arxiv.org/abs/2402.17185)|null|
+|**2024-02-27**|**NeuralSI: Neural Design of Semantic Interaction for Interactive Deep Learning**|Yali Bian et.al.|[2402.17178](http://arxiv.org/abs/2402.17178)|null|
+|**2024-02-27**|**DeepDRK: Deep Dependency Regularized Knockoff for Feature Selection**|Hongyu Shen et.al.|[2402.17176](http://arxiv.org/abs/2402.17176)|**[link](https://github.com/nowonder2000/deepdrk)**|
+|**2024-02-27**|**Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations**|Jiaqi Zhai et.al.|[2402.17152](http://arxiv.org/abs/2402.17152)|null|
+|**2024-02-27**|**Experimental Study: Enhancing Voice Spoofing Detection Models with wav2vec 2.0**|Taein Kang et.al.|[2402.17127](http://arxiv.org/abs/2402.17127)|null|
+|**2024-02-27**|**In Defense and Revival of Bayesian Filtering for Thermal Infrared Object Tracking**|Peng Gao et.al.|[2402.17098](http://arxiv.org/abs/2402.17098)|null|
+|**2024-02-27**|**A Pioneering Study and An Innovative Information Theory-based Approach to Enhance The Transparency in Phishing Detection**|Van Nguyen et.al.|[2402.17092](http://arxiv.org/abs/2402.17092)|null|
+|**2024-02-26**|**Asphalt Concrete Characterization Using Digital Image Correlation: A Systematic Review of Best Practices, Applications, and Future Vision**|Siqi Wang et.al.|[2402.17074](http://arxiv.org/abs/2402.17074)|null|
+|**2024-02-26**|**One-Shot Graph Representation Learning Using Hyperdimensional Computing**|Abhishek Dalvi et.al.|[2402.17073](http://arxiv.org/abs/2402.17073)|null|
+|**2024-02-26**|**Leveraging power of deep learning for fast and efficient elite pixel selection in time series SAR interferometry**|Ashutosh Tiwari et.al.|[2402.17069](http://arxiv.org/abs/2402.17069)|null|
+|**2024-02-26**|**Deep Learning Algorithms Used in Intrusion Detection Systems -- A Review**|Richard Kimanzi et.al.|[2402.17020](http://arxiv.org/abs/2402.17020)|null|
+|**2024-02-26**|**Discovering Symmetry Group Structures via Implicit Orthogonality Bias**|Dongsung Huh et.al.|[2402.17002](http://arxiv.org/abs/2402.17002)|null|
+|**2024-02-26**|**Towards Decoding Brain Activity During Passive Listening of Speech**|Milán András Fodor et.al.|[2402.16996](http://arxiv.org/abs/2402.16996)|**[link](https://github.com/milaniusz/speech2brain2speech)**|
+|**2024-02-26**|**A Phase Transition in Diffusion Models Reveals the Hierarchical Nature of Data**|Antonio Sclocchi et.al.|[2402.16991](http://arxiv.org/abs/2402.16991)|null|
+|**2024-02-26**|**An inexact Bregman proximal point method and its acceleration version for unbalanced optimal transport**|Xiang Chen et.al.|[2402.16978](http://arxiv.org/abs/2402.16978)|null|
+|**2024-02-25**|**PDETime: Rethinking Long-Term Multivariate Time Series Forecasting from the perspective of partial differential equations**|Shiyi Qi et.al.|[2402.16913](http://arxiv.org/abs/2402.16913)|null|
+|**2024-02-26**|**Training Neural Networks from Scratch with Parallel Low-Rank Adapters**|Minyoung Huh et.al.|[2402.16828](http://arxiv.org/abs/2402.16828)|null|
+|**2024-02-26**|**A Survey on Data Selection for Language Models**|Alon Albalak et.al.|[2402.16827](http://arxiv.org/abs/2402.16827)|null|
+|**2024-02-26**|**CARTE: pretraining and transfer for tabular learning**|Myung Jun Kim et.al.|[2402.16785](http://arxiv.org/abs/2402.16785)|null|
+|**2024-02-26**|**Video-Based Autism Detection with Deep Learning**|M. Serna-Aguilera et.al.|[2402.16774](http://arxiv.org/abs/2402.16774)|null|
+|**2024-02-26**|**Towards Environmental Preference Based Speech Enhancement For Individualised Multi-Modal Hearing Aids**|Jasper Kirton-Wingate et.al.|[2402.16757](http://arxiv.org/abs/2402.16757)|null|
+|**2024-02-26**|**Investigating the Robustness of Vision Transformers against Label Noise in Medical Image Classification**|Bidur Khanal et.al.|[2402.16734](http://arxiv.org/abs/2402.16734)|null|
+|**2024-02-23**|**Multi-Objective Learning for Deformable Image Registration**|Monika Grewal et.al.|[2402.16658](http://arxiv.org/abs/2402.16658)|null|
+|**2024-02-26**|**Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning**|Luca Barbieri et.al.|[2402.16656](http://arxiv.org/abs/2402.16656)|null|
+|**2024-02-26**|**Quantum process tomography of structured optical gates with convolutional neural networks**|Tareq Jaouni et.al.|[2402.16616](http://arxiv.org/abs/2402.16616)|null|
 |**2024-02-26**|**Beyond Accuracy: An Empirical Study on Unit Testing in Open-source Deep Learning Projects**|Han Wang et.al.|[2402.16546](http://arxiv.org/abs/2402.16546)|null|
 |**2024-02-26**|**Photonic Neural Network Fabricated on Thin Film Lithium Niobate for High-Fidelity and Power-Efficient Matrix Computation**|Yong Zheng et.al.|[2402.16513](http://arxiv.org/abs/2402.16513)|null|
 |**2024-02-26**|**Self Supervised Correlation-based Permutations for Multi-View Clustering**|Ran Eisenberg et.al.|[2402.16383](http://arxiv.org/abs/2402.16383)|null|
