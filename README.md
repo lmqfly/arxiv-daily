@@ -95,6 +95,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Hierarchical Multi-Relational Graph Representation Learning for Large-Scale Prediction of Drug-Drug Interactions**|Mengying Jiang et.al.|[2402.18127](http://arxiv.org/abs/2402.18127)|**[link](https://github.com/mengyingjiang/hmgrl)**|
 |**2024-02-21**|**Contextual Molecule Representation Learning from Chemical Reaction Knowledge**|Han Tang et.al.|[2402.13779](http://arxiv.org/abs/2402.13779)|null|
 |**2024-02-18**|**DDIPrompt: Drug-Drug Interaction Event Prediction based on Graph Prompt Learning**|Yingying Wang et.al.|[2402.11472](http://arxiv.org/abs/2402.11472)|null|
 |**2024-02-05**|**Comparative Analysis of LLaMA and ChatGPT Embeddings for Molecule Embedding**|Shaghayegh Sadeghi et.al.|[2402.00024](http://arxiv.org/abs/2402.00024)|**[link](https://github.com/sshaghayeghs/llama-vs-chatgpt)**|
@@ -416,6 +417,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Hydrogen bonding in water under extreme confinement unveiled by nanoscale vibrational spectroscopy and simulations**|Xintong Xu et.al.|[2402.17989](http://arxiv.org/abs/2402.17989)|null|
 |**2024-02-27**|**A Bayesian Committee Machine Potential for Organic Nitrogen Compounds**|Hyun Gyu Park et.al.|[2402.17132](http://arxiv.org/abs/2402.17132)|null|
 |**2024-02-27**|**Virial Equation of State for a Granular System**|Subhanker Howlader et.al.|[2402.17100](http://arxiv.org/abs/2402.17100)|null|
 |**2024-02-24**|**Distinguishable-particle Glassy Crystal: the simplest molecular model of glass**|Leo S. I. Lam et.al.|[2402.15805](http://arxiv.org/abs/2402.15805)|null|
@@ -494,7 +496,7 @@
 |**2024-01-17**|**Role of Elastic Phonon Couplings in Dictating the Thermal Transport across Atomically Sharp SiC/Si Interfaces**|Qinqin He et.al.|[2401.09212](http://arxiv.org/abs/2401.09212)|null|
 |**2024-01-19**|**Predicting heteropolymer interactions: demixing and hypermixing of disordered protein sequences**|Kyosuke Adachi et.al.|[2401.07826](http://arxiv.org/abs/2401.07826)|null|
 |**2024-01-15**|**Electrical Conductivity of Hydrogen Plasmas: Low-density Benchmarks and Virial Expansion Including $e-e$ Collisions**|G. Röpke et.al.|[2401.07765](http://arxiv.org/abs/2401.07765)|null|
-|**2024-02-07**|**Unveiling the hidden reaction kinetic network of carbon in water with unsupervised machine learning**|Chu Li et.al.|[2401.07019](http://arxiv.org/abs/2401.07019)|null|
+|**2024-02-28**|**Unveiling the hidden reaction kinetic network of carbon in water with unsupervised machine learning**|Chu Li et.al.|[2401.07019](http://arxiv.org/abs/2401.07019)|null|
 |**2024-01-12**|**Disorder-Induced Heating in Molecular Atmospheric Pressure Plasmas**|Jarett LeVan et.al.|[2401.06873](http://arxiv.org/abs/2401.06873)|null|
 |**2023-12-18**|**Unoccupied space and short-range order characterization in polymers under heat treatment**|Hossein Goodarzi-Hosseinabadi et.al.|[2401.06776](http://arxiv.org/abs/2401.06776)|null|
 |**2023-12-21**|**Graph-Network-Based Predictive Modeling for Highly Cross-Linked Polymer Systems**|Wonseok Lee et.al.|[2401.06152](http://arxiv.org/abs/2401.06152)|null|
@@ -646,6 +648,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Do galaxy mergers prefer under-dense environments?**|U. Sureshkumar et.al.|[2402.18520](http://arxiv.org/abs/2402.18520)|null|
+|**2024-02-28**|**Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling**|Mahdi Karami et.al.|[2402.18508](http://arxiv.org/abs/2402.18508)|null|
+|**2024-02-28**|**Multimodal Learning To Improve Cardiac Late Mechanical Activation Detection From Cine MR Images**|Jiarui Xing et.al.|[2402.18507](http://arxiv.org/abs/2402.18507)|null|
+|**2024-02-28**|**FinAgent: A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**|Wentao Zhang et.al.|[2402.18485](http://arxiv.org/abs/2402.18485)|null|
+|**2024-02-28**|**Robust Quantification of Percent Emphysema on CT via Domain Attention: the Multi-Ethnic Study of Atherosclerosis (MESA) Lung Study**|Xuzhe Zhang et.al.|[2402.18383](http://arxiv.org/abs/2402.18383)|null|
+|**2024-02-28**|**Out-of-Domain Generalization in Dynamical Systems Reconstruction**|Niclas Göring et.al.|[2402.18377](http://arxiv.org/abs/2402.18377)|null|
+|**2024-02-28**|**Comparative Analysis of XGBoost and Minirocket Algortihms for Human Activity Recognition**|Celal Alagoz et.al.|[2402.18296](http://arxiv.org/abs/2402.18296)|null|
+|**2024-02-28**|**PiShield: A NeSy Framework for Learning with Requirements**|Mihaela Cătălina Stoian et.al.|[2402.18285](http://arxiv.org/abs/2402.18285)|**[link](https://github.com/mihaela-stoian/pishield)**|
+|**2024-02-28**|**Image2Flow: A hybrid image and graph convolutional neural network for rapid patient-specific pulmonary artery segmentation and CFD flow field calculation from 3D cardiac MRI data**|Tina Yao et.al.|[2402.18236](http://arxiv.org/abs/2402.18236)|null|
+|**2024-02-28**|**Misalignment-Robust Frequency Distribution Loss for Image Transformation**|Zhangkai Ni et.al.|[2402.18192](http://arxiv.org/abs/2402.18192)|null|
+|**2024-02-28**|**VulMCI : Code Splicing-based Pixel-row Oversampling for More Continuous Vulnerability Image Generation**|Tao Peng et.al.|[2402.18189](http://arxiv.org/abs/2402.18189)|null|
+|**2024-02-28**|**Diffusion-based Neural Network Weights Generation**|Bedionita Soro et.al.|[2402.18153](http://arxiv.org/abs/2402.18153)|null|
+|**2024-02-28**|**A Lightweight Low-Light Image Enhancement Network via Channel Prior and Gamma Correction**|Shyang-En Weng et.al.|[2402.18147](http://arxiv.org/abs/2402.18147)|null|
+|**2024-02-28**|**Simple But Effective: Rethinking the Ability of Deep Learning in fNIRS to Exclude Abnormal Input**|Zhihao Cao et.al.|[2402.18112](http://arxiv.org/abs/2402.18112)|null|
+|**2024-02-28**|**Automated Discovery of Integral with Deep Learning**|Xiaoxin Yin et.al.|[2402.18040](http://arxiv.org/abs/2402.18040)|null|
+|**2024-02-28**|**Conformer: Embedding Continuous Attention in Vision Transformer for Weather Forecasting**|Hira Saleem et.al.|[2402.17966](http://arxiv.org/abs/2402.17966)|null|
+|**2024-02-27**|**4CNet: A Confidence-Aware, Contrastive, Conditional, Consistency Model for Robot Map Prediction in Multi-Robot Environments**|Aaron Hao Tan et.al.|[2402.17904](http://arxiv.org/abs/2402.17904)|null|
+|**2024-02-27**|**Predicting machine failures from multivariate time series: an industrial case study**|Nicolò Oreste Pinciroli Vago et.al.|[2402.17804](http://arxiv.org/abs/2402.17804)|null|
 |**2024-02-27**|**LoDIP: Low light phase retrieval with deep image prior**|Raunak Manekar et.al.|[2402.17745](http://arxiv.org/abs/2402.17745)|null|
 |**2024-02-27**|**Real-time Low-latency Music Source Separation using Hybrid Spectrogram-TasNet**|Satvik Venkatesh et.al.|[2402.17701](http://arxiv.org/abs/2402.17701)|null|
 |**2024-02-27**|**Geometric Deep Learning for Computer-Aided Design: A Survey**|Negar Heidari et.al.|[2402.17695](http://arxiv.org/abs/2402.17695)|null|
@@ -704,7 +724,7 @@
 |**2024-02-26**|**MV-Swin-T: Mammogram Classification with Multi-view Swin Transformer**|Sushmita Sarker et.al.|[2402.16298](http://arxiv.org/abs/2402.16298)|**[link](https://github.com/prithuls/mv-swin-t)**|
 |**2024-02-26**|**A Comparison of Deep Learning Models for Proton Background Rejection with the AMS Electromagnetic Calorimeter**|Raheem Karim Hashmani et.al.|[2402.16285](http://arxiv.org/abs/2402.16285)|null|
 |**2024-02-26**|**Pre-merger detection of massive black hole binaries using deep learning**|Wen-Hong Ruan et.al.|[2402.16282](http://arxiv.org/abs/2402.16282)|null|
-|**2024-02-26**|**Few-Shot Learning for Annotation-Efficient Nucleus Instance Segmentation**|Yu Ming et.al.|[2402.16280](http://arxiv.org/abs/2402.16280)|null|
+|**2024-02-28**|**Few-Shot Learning for Annotation-Efficient Nucleus Instance Segmentation**|Yu Ming et.al.|[2402.16280](http://arxiv.org/abs/2402.16280)|null|
 |**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|null|
 |**2024-02-26**|**Real-Time Vehicle Detection and Urban Traffic Behavior Analysis Based on UAV Traffic Videos on Mobile Devices**|Yuan Zhu et.al.|[2402.16246](http://arxiv.org/abs/2402.16246)|null|
 |**2024-02-26**|**Two mass-imbalanced atoms in a hard-wall trap: Deep learning integrability of many-body systems**|Liheng Lang et.al.|[2402.16244](http://arxiv.org/abs/2402.16244)|null|
