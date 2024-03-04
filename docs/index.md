@@ -632,7 +632,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-29**|**Probing the Information Encoded in Neural-based Acoustic Models of Automatic Speech Recognition Systems**|Quentin Raymondaud et.al.|[2402.19443](http://arxiv.org/abs/2402.19443)|null|
-|**2024-02-29**|**Digital Twin Aided Massive MIMO: CSI Compression and Feedback**|Shuaifeng Jiang et.al.|[2402.19434](http://arxiv.org/abs/2402.19434)|null|
+|**2024-03-01**|**Digital Twin Aided Massive MIMO: CSI Compression and Feedback**|Shuaifeng Jiang et.al.|[2402.19434](http://arxiv.org/abs/2402.19434)|null|
 |**2024-02-29**|**OzMAC: An Energy-Efficient Sparsity-Exploiting Multiply-Accumulate-Unit Design for DL Inference**|Harideep Nair et.al.|[2402.19376](http://arxiv.org/abs/2402.19376)|null|
 |**2024-02-29**|**SoK: Exploring the Potential of Large Language Models for Improving Digital Forensic Investigation Efficiency**|Akila Wickramasekara et.al.|[2402.19366](http://arxiv.org/abs/2402.19366)|null|
 |**2024-02-29**|**Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook**|Xingchen Zou et.al.|[2402.19348](http://arxiv.org/abs/2402.19348)|**[link](https://github.com/yoshall/awesome-multimodal-urban-computing)**|
@@ -645,7 +645,7 @@ layout: default
 |**2024-02-29**|**FlatNAS: optimizing Flatness in Neural Architecture Search for Out-of-Distribution Robustness**|Matteo Gambella et.al.|[2402.19102](http://arxiv.org/abs/2402.19102)|null|
 |**2024-02-29**|**A Protein Structure Prediction Approach Leveraging Transformer and CNN Integration**|Yanlin Zhou et.al.|[2402.19095](http://arxiv.org/abs/2402.19095)|null|
 |**2024-02-29**|**Automatic Radar Signal Detection and FFT Estimation using Deep Learning**|Akila Pemasiri et.al.|[2402.19073](http://arxiv.org/abs/2402.19073)|null|
-|**2024-02-29**|**Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062](http://arxiv.org/abs/2402.19062)|null|
+|**2024-03-01**|**Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062](http://arxiv.org/abs/2402.19062)|null|
 |**2024-02-29**|**Atmospheric Turbulence Removal with Video Sequence Deep Visual Priors**|P. Hill et.al.|[2402.19041](http://arxiv.org/abs/2402.19041)|null|
 |**2024-02-29**|**A Deep-Learning Technique to Locate Cryptographic Operations in Side-Channel Traces**|Giuseppe Chiari et.al.|[2402.19037](http://arxiv.org/abs/2402.19037)|null|
 |**2024-02-29**|**Mode-resolved thermometry of trapped ion with Deep Learning**|Yi Tao et.al.|[2402.19022](http://arxiv.org/abs/2402.19022)|null|
@@ -654,8 +654,8 @@ layout: default
 |**2024-02-29**|**Theoretically Achieving Continuous Representation of Oriented Bounding Boxes**|Zikai Xiao et.al.|[2402.18975](http://arxiv.org/abs/2402.18975)|**[link](https://github.com/Jittor/JDet)**|
 |**2024-02-29**|**Towards Out-of-Distribution Detection for breast cancer classification in Point-of-Care Ultrasound Imaging**|Jennie Karlsson et.al.|[2402.18960](http://arxiv.org/abs/2402.18960)|null|
 |**2024-02-29**|**Improving Group Connectivity for Generalization of Federated Deep Learning**|Zexi Li et.al.|[2402.18949](http://arxiv.org/abs/2402.18949)|null|
-|**2024-02-29**|**End-to-End Quantum Vision Transformer: Towards Practical Quantum Speedup in Large-Scale Models**|Cheng Xue et.al.|[2402.18940](http://arxiv.org/abs/2402.18940)|null|
-|**2024-02-29**|**Navigating Beyond Dropout: An Intriguing Solution Towards Generalizable Image Super Resolution**|Hongjun Wang et.al.|[2402.18929](http://arxiv.org/abs/2402.18929)|null|
+|**2024-03-01**|**End-to-End Quantum Vision Transformer: Towards Practical Quantum Speedup in Large-Scale Models**|Cheng Xue et.al.|[2402.18940](http://arxiv.org/abs/2402.18940)|null|
+|**2024-03-01**|**Navigating Beyond Dropout: An Intriguing Solution Towards Generalizable Image Super Resolution**|Hongjun Wang et.al.|[2402.18929](http://arxiv.org/abs/2402.18929)|null|
 |**2024-02-29**|**Dose Prediction Driven Radiotherapy Paramters Regression via Intra- and Inter-Relation Modeling**|Jiaqi Cui et.al.|[2402.18879](http://arxiv.org/abs/2402.18879)|null|
 |**2024-02-29**|**Loss-aware Curriculum Learning for Heterogeneous Graph Neural Networks**|Zhen Hao Wong et.al.|[2402.18875](http://arxiv.org/abs/2402.18875)|**[link](https://github.com/lars-research/clgnn)**|
 |**2024-02-29**|**Multi-Fidelity Residual Neural Processes for Scalable Surrogate Modeling**|Ruijia Niu et.al.|[2402.18846](http://arxiv.org/abs/2402.18846)|null|
