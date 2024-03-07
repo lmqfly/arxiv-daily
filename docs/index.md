@@ -194,6 +194,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-18**|**Quantum state transfer from light to molecules via coherent two-color photo-association in an atomic Bose-Einstein condensate**|Hui Jing et.al.|[quant-ph/0512149](http://arxiv.org/abs/quant-ph/0512149)|null|
+|**2024-03-06**|**Sculpting Molecules in 3D: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization**|Kaiwei Zhang et.al.|[2403.03425](http://arxiv.org/abs/2403.03425)|null|
 |**2024-01-15**|**Binding-Adaptive Diffusion Models for Structure-Based Drug Design**|Zhilin Huang et.al.|[2402.18583](http://arxiv.org/abs/2402.18583)|**[link](https://github.com/yangling0818/binddm)**|
 |**2024-01-18**|**Attention Based Molecule Generation via Hierarchical Variational Autoencoder**|Divahar Sivanesan et.al.|[2402.16854](http://arxiv.org/abs/2402.16854)|null|
 |**2024-02-22**|**Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling**|Yuwei Yang et.al.|[2402.14315](http://arxiv.org/abs/2402.14315)|null|
@@ -402,6 +403,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Collision Cascade-Driven Evolution of Vacancy Defects in Ni-Based Concentrated Solid-Solution Alloys**|A. Aligayev et.al.|[2403.03922](http://arxiv.org/abs/2403.03922)|null|
+|**2024-03-06**|**Optical and spin properties of nitrogen vacancy centers formed along the tracks of high energy heavy ions**|Wei Liu et.al.|[2403.03570](http://arxiv.org/abs/2403.03570)|null|
+|**2024-03-06**|**Lattice thermal conductivity and mechanical properties of the single-layer penta-NiN2 explored by a deep-learning interatomic potential**|Pedram Mirchi et.al.|[2403.03515](http://arxiv.org/abs/2403.03515)|null|
+|**2024-03-05**|**First Principles Validation of Energy Barriers in Ni $_{75}$Al$_{25}$**|Adam Fisher et.al.|[2403.03282](http://arxiv.org/abs/2403.03282)|null|
 |**2024-03-04**|**Numerical Simulation of Phase Transition with the Hyperbolic Godunov-Peshkov-Romenski Model**|Pascal Mossier et.al.|[2403.01847](http://arxiv.org/abs/2403.01847)|null|
 |**2024-03-02**|**Exploring Structural and Electrochemical Properties of Li $_3$TiCl$_6$ : A Machine Learning Molecular Dynamics Study**|Selva Chandrasekaran Selvaraj et.al.|[2403.01077](http://arxiv.org/abs/2403.01077)|null|
 |**2024-03-01**|**Atomic scale insights into NaCl nucleation in nanoconfined environments**|Ruiyu Wang et.al.|[2403.00925](http://arxiv.org/abs/2403.00925)|null|
@@ -636,6 +641,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Joint multi-task learning improves weakly-supervised biomarker prediction in computational pathology**|Omar S. M. El Nahhas et.al.|[2403.03891](http://arxiv.org/abs/2403.03891)|**[link](https://github.com/avic3nna/joint-mtl-cpath)**|
+|**2024-03-06**|**Redefining cystoscopy with ai: bladder cancer diagnosis using an efficient hybrid cnn-transformer model**|Meryem Amaouche et.al.|[2403.03879](http://arxiv.org/abs/2403.03879)|null|
+|**2024-03-06**|**Temporal Enhanced Floating Car Observers**|Jeremias Gerner et.al.|[2403.03825](http://arxiv.org/abs/2403.03825)|null|
+|**2024-03-06**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821](http://arxiv.org/abs/2403.03821)|null|
+|**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767](http://arxiv.org/abs/2403.03767)|null|
+|**2024-03-06**|**MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition**|Yufan Chen et.al.|[2403.03691](http://arxiv.org/abs/2403.03691)|**[link](https://github.com/cyf2000127/molnextr)**|
+|**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
+|**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|null|
+|**2024-03-06**|**Assessing the Aesthetic Evaluation Capabilities of GPT-4 with Vision: Insights from Group and Individual Assessments**|Yoshia Abe et.al.|[2403.03594](http://arxiv.org/abs/2403.03594)|null|
+|**2024-03-06**|**Do You Trust Your Model? Emerging Malware Threats in the Deep Learning Ecosystem**|Dorjan Hitaj et.al.|[2403.03593](http://arxiv.org/abs/2403.03593)|null|
+|**2024-03-06**|**DeepEclipse: How to Break White-Box DNN-Watermarking Schemes**|Alessandro Pegoraro et.al.|[2403.03590](http://arxiv.org/abs/2403.03590)|null|
+|**2024-03-06**|**Enhancing ASD detection accuracy: a combined approach of machine learning and deep learning models with natural language processing**|Sergio Rubio-Martín et.al.|[2403.03581](http://arxiv.org/abs/2403.03581)|null|
+|**2024-03-06**|**Gadolinium dose reduction for brain MRI using conditional deep learning**|Thomas Pinetz et.al.|[2403.03539](http://arxiv.org/abs/2403.03539)|null|
+|**2024-03-06**|**Lattice thermal conductivity and mechanical properties of the single-layer penta-NiN2 explored by a deep-learning interatomic potential**|Pedram Mirchi et.al.|[2403.03515](http://arxiv.org/abs/2403.03515)|null|
+|**2024-03-06**|**Probing the Robustness of Time-series Forecasting Models with CounterfacTS**|Håkon Hanisch Kjærnli et.al.|[2403.03508](http://arxiv.org/abs/2403.03508)|**[link](https://github.com/lluism/counterfacts)**|
+|**2024-03-06**|**VastTrack: Vast Category Visual Object Tracking**|Liang Peng et.al.|[2403.03493](http://arxiv.org/abs/2403.03493)|null|
+|**2024-03-06**|**Inverse-Free Fast Natural Gradient Descent Method for Deep Learning**|Xinwei Ou et.al.|[2403.03473](http://arxiv.org/abs/2403.03473)|null|
+|**2024-03-06**|**Sculpting Molecules in 3D: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization**|Kaiwei Zhang et.al.|[2403.03425](http://arxiv.org/abs/2403.03425)|null|
+|**2024-03-06**|**Advancing Out-of-Distribution Detection through Data Purification and Dynamic Activation Function Design**|Yingrui Ji et.al.|[2403.03412](http://arxiv.org/abs/2403.03412)|null|
+|**2024-03-06**|**Multi-modal Deep Learning**|Chen Yuhua et.al.|[2403.03385](http://arxiv.org/abs/2403.03385)|null|
+|**2024-03-05**|**Hypothesis Spaces for Deep Learning**|Rui Wang et.al.|[2403.03353](http://arxiv.org/abs/2403.03353)|null|
+|**2024-03-05**|**AnatoMix: Anatomy-aware Data Augmentation for Multi-organ Segmentation**|Chang Liu et.al.|[2403.03326](http://arxiv.org/abs/2403.03326)|null|
+|**2024-03-05**|**Deep Configuration Performance Learning: A Systematic Survey and Taxonomy**|Jingzhi Gong et.al.|[2403.03322](http://arxiv.org/abs/2403.03322)|**[link](https://github.com/ideas-labo/dcpl-slr)**|
+|**2024-03-05**|**Best of Both Worlds: A Pliable and Generalizable Neuro-Symbolic Approach for Relation Classification**|Robert Vacareanu et.al.|[2403.03305](http://arxiv.org/abs/2403.03305)|null|
+|**2024-03-05**|**DINOv2 based Self Supervised Learning For Few Shot Medical Image Segmentation**|Lev Ayzenberg et.al.|[2403.03273](http://arxiv.org/abs/2403.03273)|null|
+|**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241](http://arxiv.org/abs/2403.03241)|null|
+|**2024-03-04**|**Machine and deep learning methods for predicting 3D genome organization**|Brydon P. G. Wall et.al.|[2403.03231](http://arxiv.org/abs/2403.03231)|null|
 |**2024-03-05**|**Deep-Learned Compression for Radio-Frequency Signal Classification**|Armani Rodriguez et.al.|[2403.03150](http://arxiv.org/abs/2403.03150)|null|
 |**2024-03-05**|**A Federated Deep Learning Approach for Privacy-Preserving Real-Time Transient Stability Predictions in Power Systems**|Maeshal Hijazi et.al.|[2403.03126](http://arxiv.org/abs/2403.03126)|null|
 |**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111](http://arxiv.org/abs/2403.03111)|null|
@@ -688,7 +720,7 @@ layout: default
 |**2024-03-04**|**Fast Benchmarking of Asynchronous Multi-Fidelity Optimization on Zero-Cost Benchmarks**|Shuhei Watanabe et.al.|[2403.01888](http://arxiv.org/abs/2403.01888)|null|
 |**2024-03-04**|**COLA: Cross-city Mobility Transformer for Human Trajectory Simulation**|Yu Wang et.al.|[2403.01801](http://arxiv.org/abs/2403.01801)|**[link](https://github.com/star607/cross-city-mobility-transformer)**|
 |**2024-03-04**|**Integrating Efficient Optimal Transport and Functional Maps For Unsupervised Shape Correspondence Learning**|Tung Le et.al.|[2403.01781](http://arxiv.org/abs/2403.01781)|null|
-|**2024-03-04**|**Improving Visual Perception of a Social Robot for Controlled and In-the-wild Human-robot Interaction**|Wangjie Zhong et.al.|[2403.01766](http://arxiv.org/abs/2403.01766)|null|
+|**2024-03-05**|**Improving Visual Perception of a Social Robot for Controlled and In-the-wild Human-robot Interaction**|Wangjie Zhong et.al.|[2403.01766](http://arxiv.org/abs/2403.01766)|null|
 |**2024-03-04**|**DyCE: Dynamic Configurable Exiting for Deep Learning Compression and Scaling**|Qingyuan Wang et.al.|[2403.01695](http://arxiv.org/abs/2403.01695)|null|
 |**2024-03-04**|**CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables**|Jiecheng Lu et.al.|[2403.01673](http://arxiv.org/abs/2403.01673)|null|
 |**2024-03-04**|**Day-ahead regional solar power forecasting with hierarchical temporal convolutional neural networks using historical power generation and weather data**|Maneesha Perera et.al.|[2403.01653](http://arxiv.org/abs/2403.01653)|null|
