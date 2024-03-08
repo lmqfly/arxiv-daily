@@ -331,7 +331,7 @@ layout: default
 |**2023-07-25**|**Curvature-based Transformer for Molecular Property Prediction**|Yili Chen et.al.|[2307.13275](http://arxiv.org/abs/2307.13275)|null|
 |**2023-07-19**|**Uncertainty Quantification for Molecular Property Predictions with Graph Neural Architecture Search**|Shengli Jiang et.al.|[2307.10438](http://arxiv.org/abs/2307.10438)|null|
 |**2023-07-14**|**Can Large Language Models Empower Molecular Property Prediction?**|Chen Qian et.al.|[2307.07443](http://arxiv.org/abs/2307.07443)|**[link](https://github.com/chnq/llm4mol)**|
-|**2024-01-31**|**Predicting small molecules solubilities on endpoint devices using deep ensemble neural networks**|Mayk Caldas Ramos et.al.|[2307.05318](http://arxiv.org/abs/2307.05318)|**[link](https://github.com/ur-whitelab/mol.dev)**|
+|**2024-03-07**|**Predicting small molecules solubilities on endpoint devices using deep ensemble neural networks**|Mayk Caldas Ramos et.al.|[2307.05318](http://arxiv.org/abs/2307.05318)|**[link](https://github.com/ur-whitelab/mol.dev)**|
 |**2023-07-10**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|**[link](https://github.com/gmum/chienn)**|
 |**2023-08-22**|**Variational Autoencoding Molecular Graphs with Denoising Diffusion Probabilistic Model**|Daiki Koge et.al.|[2307.00623](http://arxiv.org/abs/2307.00623)|null|
 |**2023-06-30**|**Why Deep Models Often cannot Beat Non-deep Counterparts on Molecular Property Prediction?**|Jun Xia et.al.|[2306.17702](http://arxiv.org/abs/2306.17702)|null|
@@ -403,6 +403,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Induced charges in a Thomas-Fermi metal: insights from molecular simulations**|Swetha Nair et.al.|[2403.04487](http://arxiv.org/abs/2403.04487)|null|
+|**2024-03-07**|**OH $^-$ ions can reduce the iodide migration in MAPI**|R. E. Brophy et.al.|[2403.04188](http://arxiv.org/abs/2403.04188)|null|
 |**2024-03-06**|**Collision Cascade-Driven Evolution of Vacancy Defects in Ni-Based Concentrated Solid-Solution Alloys**|A. Aligayev et.al.|[2403.03922](http://arxiv.org/abs/2403.03922)|null|
 |**2024-03-06**|**Optical and spin properties of nitrogen vacancy centers formed along the tracks of high energy heavy ions**|Wei Liu et.al.|[2403.03570](http://arxiv.org/abs/2403.03570)|null|
 |**2024-03-06**|**Lattice thermal conductivity and mechanical properties of the single-layer penta-NiN2 explored by a deep-learning interatomic potential**|Pedram Mirchi et.al.|[2403.03515](http://arxiv.org/abs/2403.03515)|null|
@@ -641,10 +643,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**JAX-SPH: A Differentiable Smoothed Particle Hydrodynamics Framework**|Artur P. Toshev et.al.|[2403.04750](http://arxiv.org/abs/2403.04750)|**[link](https://github.com/tumaer/jax-sph)**|
+|**2024-03-07**|**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images**|Cristiana Tiago et.al.|[2403.04612](http://arxiv.org/abs/2403.04612)|null|
+|**2024-03-07**|**Machine learning and information theory concepts towards an AI Mathematician**|Yoshua Bengio et.al.|[2403.04571](http://arxiv.org/abs/2403.04571)|null|
+|**2024-03-07**|**Reducing self-supervised learning complexity improves weakly-supervised classification performance in computational pathology**|Tim Lenz et.al.|[2403.04558](http://arxiv.org/abs/2403.04558)|null|
+|**2024-03-07**|**Improvements & Evaluations on the MLCommons CloudMask Benchmark**|Varshitha Chennamsetti et.al.|[2403.04553](http://arxiv.org/abs/2403.04553)|null|
+|**2024-03-07**|**T-TAME: Trainable Attention Mechanism for Explaining Convolutional Networks and Vision Transformers**|Mariano V. Ntrougkas et.al.|[2403.04523](http://arxiv.org/abs/2403.04523)|null|
+|**2024-03-07**|**A Learnable Prior Improves Inverse Tumor Growth Modeling**|Jonas Weidner et.al.|[2403.04500](http://arxiv.org/abs/2403.04500)|null|
+|**2024-03-07**|**Improved Focus on Hard Samples for Lung Nodule Detection**|Yujiang Chen et.al.|[2403.04478](http://arxiv.org/abs/2403.04478)|null|
+|**2024-03-07**|**Hyperparameter Tuning MLPs for Probabilistic Time Series Forecasting**|Kiran Madhusudhanan et.al.|[2403.04477](http://arxiv.org/abs/2403.04477)|**[link](https://github.com/18kiran12/tsbench)**|
+|**2024-03-07**|**SGNet: Folding Symmetrical Protein Complex with Deep Learning**|Zhaoqun Li et.al.|[2403.04395](http://arxiv.org/abs/2403.04395)|null|
+|**2024-03-07**|**Comparison of Deep Learning Techniques on Human Activity Recognition using Ankle Inertial Signals**|Farhad Nazari et.al.|[2403.04387](http://arxiv.org/abs/2403.04387)|null|
+|**2024-03-07**|**Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning**|Martin Willbo et.al.|[2403.04385](http://arxiv.org/abs/2403.04385)|null|
+|**2024-03-07**|**Spatiotemporal Pooling on Appropriate Topological Maps Represented as Two-Dimensional Images for EEG Classification**|Takuto Fukushima et.al.|[2403.04353](http://arxiv.org/abs/2403.04353)|null|
+|**2024-03-07**|**Edge-based Parametric Digital Twins for Intelligent Building Indoor Climate Modeling**|Zhongjun Ni et.al.|[2403.04326](http://arxiv.org/abs/2403.04326)|null|
+|**2024-03-07**|**LORS: Low-rank Residual Structure for Parameter-Efficient Network Stacking**|Jialin Li et.al.|[2403.04303](http://arxiv.org/abs/2403.04303)|null|
+|**2024-03-07**|**3DTextureTransformer: Geometry Aware Texture Generation for Arbitrary Mesh Topology**|Dharma KC et.al.|[2403.04225](http://arxiv.org/abs/2403.04225)|null|
+|**2024-03-07**|**HeteroSwitch: Characterizing and Taming System-Induced Data Heterogeneity in Federated Learning**|Gyudong Kim et.al.|[2403.04207](http://arxiv.org/abs/2403.04207)|null|
+|**2024-03-07**|**GRAWA: Gradient-based Weighted Averaging for Distributed Training of Deep Learning Models**|Tolga Dimlioglu et.al.|[2403.04206](http://arxiv.org/abs/2403.04206)|**[link](https://github.com/tolgadimli/grawa)**|
+|**2024-03-07**|**MAP: MAsk-Pruning for Source-Free Model Intellectual Property Protection**|Boyang Peng et.al.|[2403.04149](http://arxiv.org/abs/2403.04149)|**[link](https://github.com/ispc-lab/map)**|
+|**2024-03-06**|**Hitchhiker's guide to cancer-associated lymphoid aggregates in histology images: manual and deep learning-based quantification approaches**|Karina Silina et.al.|[2403.04142](http://arxiv.org/abs/2403.04142)|null|
+|**2024-03-07**|**An Explainable AI Framework for Artificial Intelligence of Medical Things**|Al Amin et.al.|[2403.04130](http://arxiv.org/abs/2403.04130)|null|
+|**2024-03-07**|**Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs**|Nikhil Mishra et.al.|[2403.04114](http://arxiv.org/abs/2403.04114)|**[link](https://github.com/nikhilmishra000/cov-nerf)**|
+|**2024-03-06**|**On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors**|Elia Cereda et.al.|[2403.04071](http://arxiv.org/abs/2403.04071)|null|
+|**2024-03-06**|**Cascaded Self-supervised Learning for Subject-independent EEG-based Emotion Recognition**|Hanqi Wang et.al.|[2403.04041](http://arxiv.org/abs/2403.04041)|null|
+|**2024-03-06**|**Unsupervised Contrastive Learning for Robust RF Device Fingerprinting Under Time-Domain Shift**|Jun Chen et.al.|[2403.04036](http://arxiv.org/abs/2403.04036)|null|
+|**2024-03-06**|**Temporal Cross-Attention for Dynamic Embedding and Tokenization of Multimodal Electronic Health Records**|Yingbo Ma et.al.|[2403.04012](http://arxiv.org/abs/2403.04012)|null|
+|**2024-03-06**|**Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message Passing and Hyperbolic Neural Networks**|Jing Gu et.al.|[2403.04010](http://arxiv.org/abs/2403.04010)|**[link](https://github.com/jing-ds/hnn_gad)**|
+|**2024-03-06**|**Media Bias Matters: Understanding the Impact of Politically Biased News on Vaccine Attitudes in Social Media**|Bohan Jiang et.al.|[2403.04009](http://arxiv.org/abs/2403.04009)|null|
 |**2024-03-06**|**Joint multi-task learning improves weakly-supervised biomarker prediction in computational pathology**|Omar S. M. El Nahhas et.al.|[2403.03891](http://arxiv.org/abs/2403.03891)|**[link](https://github.com/avic3nna/joint-mtl-cpath)**|
 |**2024-03-06**|**Redefining cystoscopy with ai: bladder cancer diagnosis using an efficient hybrid cnn-transformer model**|Meryem Amaouche et.al.|[2403.03879](http://arxiv.org/abs/2403.03879)|null|
 |**2024-03-06**|**Temporal Enhanced Floating Car Observers**|Jeremias Gerner et.al.|[2403.03825](http://arxiv.org/abs/2403.03825)|null|
-|**2024-03-06**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821](http://arxiv.org/abs/2403.03821)|null|
+|**2024-03-07**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821](http://arxiv.org/abs/2403.03821)|null|
 |**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767](http://arxiv.org/abs/2403.03767)|null|
 |**2024-03-06**|**MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition**|Yufan Chen et.al.|[2403.03691](http://arxiv.org/abs/2403.03691)|**[link](https://github.com/cyf2000127/molnextr)**|
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
