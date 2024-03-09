@@ -675,7 +675,7 @@ layout: default
 |**2024-03-06**|**Redefining cystoscopy with ai: bladder cancer diagnosis using an efficient hybrid cnn-transformer model**|Meryem Amaouche et.al.|[2403.03879](http://arxiv.org/abs/2403.03879)|null|
 |**2024-03-06**|**Temporal Enhanced Floating Car Observers**|Jeremias Gerner et.al.|[2403.03825](http://arxiv.org/abs/2403.03825)|null|
 |**2024-03-07**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821](http://arxiv.org/abs/2403.03821)|null|
-|**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767](http://arxiv.org/abs/2403.03767)|null|
+|**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767](http://arxiv.org/abs/2403.03767)|**[link](https://github.com/brozosc/predicting-the-temperature-dependence-of-surfactant-cmcs-using-graph-neural-networks)**|
 |**2024-03-06**|**MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition**|Yufan Chen et.al.|[2403.03691](http://arxiv.org/abs/2403.03691)|**[link](https://github.com/cyf2000127/molnextr)**|
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|null|
@@ -686,7 +686,7 @@ layout: default
 |**2024-03-06**|**Gadolinium dose reduction for brain MRI using conditional deep learning**|Thomas Pinetz et.al.|[2403.03539](http://arxiv.org/abs/2403.03539)|null|
 |**2024-03-06**|**Lattice thermal conductivity and mechanical properties of the single-layer penta-NiN2 explored by a deep-learning interatomic potential**|Pedram Mirchi et.al.|[2403.03515](http://arxiv.org/abs/2403.03515)|null|
 |**2024-03-06**|**Probing the Robustness of Time-series Forecasting Models with CounterfacTS**|Håkon Hanisch Kjærnli et.al.|[2403.03508](http://arxiv.org/abs/2403.03508)|**[link](https://github.com/lluism/counterfacts)**|
-|**2024-03-06**|**VastTrack: Vast Category Visual Object Tracking**|Liang Peng et.al.|[2403.03493](http://arxiv.org/abs/2403.03493)|null|
+|**2024-03-06**|**VastTrack: Vast Category Visual Object Tracking**|Liang Peng et.al.|[2403.03493](http://arxiv.org/abs/2403.03493)|**[link](https://github.com/henglan/vasttrack)**|
 |**2024-03-06**|**Inverse-Free Fast Natural Gradient Descent Method for Deep Learning**|Xinwei Ou et.al.|[2403.03473](http://arxiv.org/abs/2403.03473)|null|
 |**2024-03-06**|**Sculpting Molecules in 3D: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization**|Kaiwei Zhang et.al.|[2403.03425](http://arxiv.org/abs/2403.03425)|null|
 |**2024-03-06**|**Advancing Out-of-Distribution Detection through Data Purification and Dynamic Activation Function Design**|Yingrui Ji et.al.|[2403.03412](http://arxiv.org/abs/2403.03412)|null|
@@ -710,7 +710,7 @@ layout: default
 |**2024-03-05**|**FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive Models**|Younghan Lee et.al.|[2403.02846](http://arxiv.org/abs/2403.02846)|**[link](https://github.com/201younghanlee/flguard)**|
 |**2024-03-05**|**SOFIM: Stochastic Optimization Using Regularized Fisher Information Matrix**|Gayathri C et.al.|[2403.02833](http://arxiv.org/abs/2403.02833)|null|
 |**2024-03-05**|**Dynamic Gaussian Graph Operator: Learning parametric partial differential equations in arbitrary discrete mechanics problems**|Chu Wang et.al.|[2403.02810](http://arxiv.org/abs/2403.02810)|null|
-|**2024-03-05**|**Intelligent Traffic Monitoring with Distributed Acoustic Sensing**|Dongzi Xie et.al.|[2403.02791](http://arxiv.org/abs/2403.02791)|null|
+|**2024-03-05**|**Intelligent Traffic Monitoring with Distributed Acoustic Sensing**|Dongzi Xie et.al.|[2403.02791](http://arxiv.org/abs/2403.02791)|**[link](https://github.com/ttmutian/itm)**|
 |**2024-03-05**|**G4-Attention: Deep Learning Model with Attention for predicting DNA G-Quadruplexes**|Shrimon Mukherjee et.al.|[2403.02765](http://arxiv.org/abs/2403.02765)|null|
 |**2024-03-05**|**Speckle Noise Reduction in Ultrasound Images using Denoising Auto-encoder with Skip Connection**|Suraj Bhute et.al.|[2403.02750](http://arxiv.org/abs/2403.02750)|null|
 |**2024-03-05**|**A genome-scale deep learning model to predict gene expression changes of genetic perturbations from multiplex biological networks**|Lingmin Zhan et.al.|[2403.02724](http://arxiv.org/abs/2403.02724)|null|
