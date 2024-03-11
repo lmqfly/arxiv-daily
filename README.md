@@ -419,6 +419,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Electric field of DNA in solution: who is in charge?**|Jonathan G. Hedley et.al.|[2403.04949](http://arxiv.org/abs/2403.04949)|null|
 |**2024-03-07**|**Induced charges in a Thomas-Fermi metal: insights from molecular simulations**|Swetha Nair et.al.|[2403.04487](http://arxiv.org/abs/2403.04487)|null|
 |**2024-03-07**|**OH $^-$ ions can reduce the iodide migration in MAPI**|R. E. Brophy et.al.|[2403.04188](http://arxiv.org/abs/2403.04188)|null|
 |**2024-03-06**|**Collision Cascade-Driven Evolution of Vacancy Defects in Ni-Based Concentrated Solid-Solution Alloys**|A. Aligayev et.al.|[2403.03922](http://arxiv.org/abs/2403.03922)|null|
@@ -661,6 +662,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy**|Amir Aghabiglou et.al.|[2403.05452](http://arxiv.org/abs/2403.05452)|null|
+|**2024-03-08**|**HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction**|Zhengrui Guo et.al.|[2403.05396](http://arxiv.org/abs/2403.05396)|**[link](https://github.com/dddavid4real/HistGen)**|
+|**2024-03-08**|**A Deep Learning Method for Classification of Biophilic Artworks**|Purna Kar et.al.|[2403.05394](http://arxiv.org/abs/2403.05394)|null|
+|**2024-03-08**|**A Data Augmentation Pipeline to Generate Synthetic Labeled Datasets of 3D Echocardiography Images using a GAN**|Cristiana Tiago et.al.|[2403.05384](http://arxiv.org/abs/2403.05384)|null|
+|**2024-03-08**|**Self-Supervised Multiple Instance Learning for Acute Myeloid Leukemia Classification**|Salome Kazeminia et.al.|[2403.05379](http://arxiv.org/abs/2403.05379)|null|
+|**2024-03-08**|**Hybridized Convolutional Neural Networks and Long Short-Term Memory for Improved Alzheimer's Disease Diagnosis from MRI Scans**|Maleka Khatun et.al.|[2403.05353](http://arxiv.org/abs/2403.05353)|null|
+|**2024-03-08**|**Advances of Deep Learning in Protein Science: A Comprehensive Survey**|Bozhen Hu et.al.|[2403.05314](http://arxiv.org/abs/2403.05314)|null|
+|**2024-03-08**|**ContrastDiagnosis: Enhancing Interpretability in Lung Nodule Diagnosis Using Contrastive Learning**|Chenglong Wang et.al.|[2403.05280](http://arxiv.org/abs/2403.05280)|null|
+|**2024-03-08**|**3D Face Reconstruction Using A Spectral-Based Graph Convolution Encoder**|Haoxin Xu et.al.|[2403.05218](http://arxiv.org/abs/2403.05218)|null|
+|**2024-03-08**|**MarkupLens: An AI-Powered Tool to Support Designers in Video-Based Analysis at Scale**|Tianhao He et.al.|[2403.05201](http://arxiv.org/abs/2403.05201)|null|
+|**2024-03-08**|**Robust Semantic Communications for Speech-to-Text Translation**|Zhenzi Weng et.al.|[2403.05187](http://arxiv.org/abs/2403.05187)|null|
+|**2024-03-08**|**Continual Learning and Catastrophic Forgetting**|Gido M. van de Ven et.al.|[2403.05175](http://arxiv.org/abs/2403.05175)|null|
+|**2024-03-08**|**RIS-empowered Topology Control for Distributed Learning in Urban Air Mobility**|Kai Xiong et.al.|[2403.05133](http://arxiv.org/abs/2403.05133)|null|
+|**2024-03-08**|**APPLE: Adversarial Privacy-aware Perturbations on Latent Embedding for Unfairness Mitigation**|Zikang Xu et.al.|[2403.05114](http://arxiv.org/abs/2403.05114)|null|
+|**2024-03-08**|**From Registration Uncertainty to Segmentation Uncertainty**|Junyu Chen et.al.|[2403.05111](http://arxiv.org/abs/2403.05111)|null|
+|**2024-03-08**|**Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**|Ping Guo et.al.|[2403.05100](http://arxiv.org/abs/2403.05100)|null|
+|**2024-03-08**|**UI Semantic Group Detection: Grouping UI Elements with Similar Semantics in Mobile Graphical User Interface**|Shuhong Xiao et.al.|[2403.04984](http://arxiv.org/abs/2403.04984)|null|
+|**2024-03-08**|**Towards Data-center Level Carbon Modeling and Optimization for Deep Learning Inference**|Shixin Ji et.al.|[2403.04976](http://arxiv.org/abs/2403.04976)|null|
+|**2024-03-07**|**A physics-constrained deep learning surrogate model of the runaway electron avalanche growth rate**|Jonathan S. Arnaud et.al.|[2403.04948](http://arxiv.org/abs/2403.04948)|null|
+|**2024-03-07**|**Deep-Learning Classification and Parameter Inference of Rotational Core-Collapse Supernovae**|Solange Nunes et.al.|[2403.04938](http://arxiv.org/abs/2403.04938)|null|
+|**2024-03-07**|**Solving Inverse Problems with Model Mismatch using Untrained Neural Networks within Model-based Architectures**|Peimeng Guan et.al.|[2403.04847](http://arxiv.org/abs/2403.04847)|null|
+|**2024-03-07**|**Storm Surge Modeling in the AI ERA: Using LSTM-based Machine Learning for Enhancing Forecasting Accuracy**|Stefanos Giaremis et.al.|[2403.04818](http://arxiv.org/abs/2403.04818)|null|
+|**2024-03-07**|**TrafPS: A Shapley-based Visual Analytics Approach to Interpret Traffic**|Zezheng Feng et.al.|[2403.04812](http://arxiv.org/abs/2403.04812)|null|
+|**2024-03-06**|**Restricted Bayesian Neural Network**|Sourav Ganguly et.al.|[2403.04810](http://arxiv.org/abs/2403.04810)|null|
+|**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
+|**2024-03-06**|**Mathematics of Neural Networks (Lecture Notes Graduate Course)**|Bart M. N. Smets et.al.|[2403.04807](http://arxiv.org/abs/2403.04807)|null|
+|**2024-03-05**|**Enhancing Security in Federated Learning through Adaptive Consensus-Based Model Update Validation**|Zahir Alsulaimawi et.al.|[2403.04803](http://arxiv.org/abs/2403.04803)|null|
 |**2024-03-07**|**JAX-SPH: A Differentiable Smoothed Particle Hydrodynamics Framework**|Artur P. Toshev et.al.|[2403.04750](http://arxiv.org/abs/2403.04750)|**[link](https://github.com/tumaer/jax-sph)**|
 |**2024-03-07**|**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images**|Cristiana Tiago et.al.|[2403.04612](http://arxiv.org/abs/2403.04612)|null|
 |**2024-03-07**|**Machine learning and information theory concepts towards an AI Mathematician**|Yoshua Bengio et.al.|[2403.04571](http://arxiv.org/abs/2403.04571)|null|
