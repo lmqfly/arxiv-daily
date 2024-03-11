@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -364,7 +364,7 @@ layout: default
 |**2023-10-06**|**Implicit Geometry and Interaction Embeddings Improve Few-Shot Molecular Property Prediction**|Christopher Fifty et.al.|[2302.02055](http://arxiv.org/abs/2302.02055)|**[link](https://github.com/cfifty/ignite)**|
 |**2023-01-21**|**An open unified deep graph learning framework for discovering drug leads**|Yueming Yin et.al.|[2301.03424](http://arxiv.org/abs/2301.03424)|**[link](https://github.com/yueming-yin/gafse)**|
 |**2023-09-22**|**MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning**|Cameron Diao et.al.|[2212.10614](http://arxiv.org/abs/2212.10614)|null|
-|**2023-10-27**|**Implicit Convolutional Kernels for Steerable CNNs**|Maksim Zhdanov et.al.|[2212.06096](http://arxiv.org/abs/2212.06096)|null|
+|**2023-10-27**|**Implicit Convolutional Kernels for Steerable CNNs**|Maksim Zhdanov et.al.|[2212.06096](http://arxiv.org/abs/2212.06096)|**[link](https://github.com/maxxxzdn/implicit-steerable-kernels)**|
 |**2022-12-06**|**GPS++: An Optimised Hybrid MPNN/Transformer for Molecular Property Prediction**|Dominic Masters et.al.|[2212.02229](http://arxiv.org/abs/2212.02229)|**[link](https://github.com/graphcore/ogb-lsc-pcqm4mv2)**|
 |**2022-11-30**|**Coordinating Cross-modal Distillation for Molecular Property Prediction**|Hao Zhang et.al.|[2211.16712](http://arxiv.org/abs/2211.16712)|null|
 |**2022-11-23**|**Supervised Pretraining for Molecular Force Fields and Properties Prediction**|Xiang Gao et.al.|[2211.14429](http://arxiv.org/abs/2211.14429)|null|
@@ -420,7 +420,7 @@ layout: default
 |**2024-02-24**|**Distinguishable-particle Glassy Crystal: the simplest molecular model of glass**|Leo S. I. Lam et.al.|[2402.15805](http://arxiv.org/abs/2402.15805)|null|
 |**2024-02-24**|**Prediction of Superionic State in LiH2 at Conditions Enroute to Nuclear Fusion**|Fude Li et.al.|[2402.15791](http://arxiv.org/abs/2402.15791)|null|
 |**2024-02-23**|**The origin of phase separation in binary aluminosilicate glasses**|Houssam Kharouji et.al.|[2402.15314](http://arxiv.org/abs/2402.15314)|null|
-|**2024-02-23**|**Vibronics of multi-material nanopillared membranes and impact on the thermal conductivity**|Lina Yang et.al.|[2402.15295](http://arxiv.org/abs/2402.15295)|null|
+|**2024-03-07**|**Vibronics of multi-material nanopillared membranes and impact on the thermal conductivity**|Lina Yang et.al.|[2402.15295](http://arxiv.org/abs/2402.15295)|null|
 |**2024-02-23**|**E(n)-Equivariant Cartesian Tensor Passing Potential**|Junjie Wang et.al.|[2402.15286](http://arxiv.org/abs/2402.15286)|null|
 |**2024-02-23**|**How to distinguish capture events from mass-energy distributions**|Hong Yao et.al.|[2402.15224](http://arxiv.org/abs/2402.15224)|null|
 |**2024-02-23**|**Dynamics and energetics of ion adsorption at the interface between a pure ionic liquid and carbon electrodes**|Nicolas Gaudy et.al.|[2402.15199](http://arxiv.org/abs/2402.15199)|null|
@@ -676,7 +676,7 @@ layout: default
 |**2024-03-06**|**Temporal Enhanced Floating Car Observers**|Jeremias Gerner et.al.|[2403.03825](http://arxiv.org/abs/2403.03825)|null|
 |**2024-03-07**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821](http://arxiv.org/abs/2403.03821)|null|
 |**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767](http://arxiv.org/abs/2403.03767)|**[link](https://github.com/brozosc/predicting-the-temperature-dependence-of-surfactant-cmcs-using-graph-neural-networks)**|
-|**2024-03-06**|**MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition**|Yufan Chen et.al.|[2403.03691](http://arxiv.org/abs/2403.03691)|**[link](https://github.com/cyf2000127/molnextr)**|
+|**2024-03-08**|**MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition**|Yufan Chen et.al.|[2403.03691](http://arxiv.org/abs/2403.03691)|**[link](https://github.com/cyf2000127/molnextr)**|
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|null|
 |**2024-03-06**|**Assessing the Aesthetic Evaluation Capabilities of GPT-4 with Vision: Insights from Group and Individual Assessments**|Yoshia Abe et.al.|[2403.03594](http://arxiv.org/abs/2403.03594)|null|
