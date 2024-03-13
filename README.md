@@ -665,6 +665,48 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis**|Sahar Moradizeyveh et.al.|[2403.07834](http://arxiv.org/abs/2403.07834)|null|
+|**2024-03-12**|**Label Dropout: Improved Deep Learning Echocardiography Segmentation Using Multiple Datasets With Domain Shift and Partial Labelling**|Iman Islam et.al.|[2403.07818](http://arxiv.org/abs/2403.07818)|null|
+|**2024-03-12**|**Chronos: Learning the Language of Time Series**|Abdul Fatir Ansari et.al.|[2403.07815](http://arxiv.org/abs/2403.07815)|null|
+|**2024-03-12**|**BraSyn 2023 challenge: Missing MRI synthesis and the effect of different learning objectives**|Ivo M. Baltruschat et.al.|[2403.07800](http://arxiv.org/abs/2403.07800)|null|
+|**2024-03-12**|**Generative deep learning-enabled ultra-large field-of-view lens-free imaging**|Ronald B. Liu et.al.|[2403.07786](http://arxiv.org/abs/2403.07786)|**[link](https://github.com/rl-arch/lensgan)**|
+|**2024-03-12**|**Equipping Computational Pathology Systems with Artifact Processing Pipelines: A Showcase for Computation and Performance Trade-offs**|Neel Kanwal et.al.|[2403.07743](http://arxiv.org/abs/2403.07743)|**[link](https://github.com/neelkanwal/equipping-computational-pathology-systems-with-artifact-processing-pipeline)**|
+|**2024-03-12**|**Uncertainty Quantification with Deep Ensembles for 6D Object Pose Estimation**|Kira Wursthorn et.al.|[2403.07741](http://arxiv.org/abs/2403.07741)|null|
+|**2024-03-12**|**Performance Analysis of Matrix Multiplication for Deep Learning on the Edge**|Cristian Ramírez et.al.|[2403.07731](http://arxiv.org/abs/2403.07731)|null|
+|**2024-03-12**|**SATDAUG -- A Balanced and Augmented Dataset for Detecting Self-Admitted Technical Debt**|Edi Sutoyo et.al.|[2403.07690](http://arxiv.org/abs/2403.07690)|null|
+|**2024-03-12**|**Machine Learning for Soccer Match Result Prediction**|Rory Bunker et.al.|[2403.07669](http://arxiv.org/abs/2403.07669)|null|
+|**2024-03-12**|**Analyzing Adversarial Attacks on Sequence-to-Sequence Relevance Models**|Andrew Parry et.al.|[2403.07654](http://arxiv.org/abs/2403.07654)|**[link](https://github.com/parry-parry/ecir24-adversarial-evaluation)**|
+|**2024-03-12**|**Characterization of Large Language Model Development in the Datacenter**|Qinghao Hu et.al.|[2403.07648](http://arxiv.org/abs/2403.07648)|**[link](https://github.com/internlm/acmetrace)**|
+|**2024-03-12**|**Smartphone region-wise image indoor localization using deep learning for indoor tourist attraction**|Gabriel Toshio Hirokawa Higa et.al.|[2403.07621](http://arxiv.org/abs/2403.07621)|null|
+|**2024-03-12**|**Couler: Unified Machine Learning Workflow Optimization in Cloud**|Xiaoda Wang et.al.|[2403.07608](http://arxiv.org/abs/2403.07608)|**[link](https://github.com/couler-proj/couler)**|
+|**2024-03-12**|**Accurate Spatial Gene Expression Prediction by integrating Multi-resolution features**|Youngmin Chung et.al.|[2403.07592](http://arxiv.org/abs/2403.07592)|**[link](https://github.com/nexgem/triplex)**|
+|**2024-03-12**|**Exploring Challenges in Deep Learning of Single-Station Ground Motion Records**|Ümit Mert Çağlar et.al.|[2403.07569](http://arxiv.org/abs/2403.07569)|null|
+|**2024-03-12**|**D4D: An RGBD diffusion model to boost monocular depth estimation**|L. Papa et.al.|[2403.07516](http://arxiv.org/abs/2403.07516)|**[link](https://github.com/lorenzopapa5/diffusion4d)**|
+|**2024-03-12**|**Spatiotemporal Representation Learning for Short and Long Medical Image Time Series**|Chengzhi Shen et.al.|[2403.07513](http://arxiv.org/abs/2403.07513)|null|
+|**2024-03-12**|**A Deep Learning Approach to Diabetes Diagnosis**|Zeyu Zhang et.al.|[2403.07483](http://arxiv.org/abs/2403.07483)|null|
+|**2024-03-12**|**Predicting the Risk of Ischemic Stroke in Patients with Atrial Fibrillation using Heterogeneous Drug-protein-disease Network-based Deep Learning**|Zhiheng Lyu et.al.|[2403.07475](http://arxiv.org/abs/2403.07475)|null|
+|**2024-03-12**|**Imbalance-aware Presence-only Loss Function for Species Distribution Modeling**|Robin Zbinden et.al.|[2403.07472](http://arxiv.org/abs/2403.07472)|null|
+|**2024-03-12**|**In-context learning enables multimodal large language models to classify cancer pathology images**|Dyke Ferber et.al.|[2403.07407](http://arxiv.org/abs/2403.07407)|null|
+|**2024-03-12**|**Hybrid Kinetics Embedding Framework for Dynamic PET Reconstruction**|Yubo Ye et.al.|[2403.07364](http://arxiv.org/abs/2403.07364)|null|
+|**2024-03-12**|**Vector Quantization for Deep-Learning-Based CSI Feedback in Massive MIMO Systems**|Junyong Shin et.al.|[2403.07355](http://arxiv.org/abs/2403.07355)|null|
+|**2024-03-12**|**IM-Unpack: Training and Inference with Arbitrarily Low Precision Integers**|Zhanpeng Zeng et.al.|[2403.07339](http://arxiv.org/abs/2403.07339)|null|
+|**2024-03-12**|**LIST: Learning to Index Spatio-Textual Data for Embedding based Spatial Keyword Queries**|Ziqi Yin et.al.|[2403.07331](http://arxiv.org/abs/2403.07331)|null|
+|**2024-03-12**|**A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**|Hengyuan Zhang et.al.|[2403.07322](http://arxiv.org/abs/2403.07322)|null|
+|**2024-03-12**|**Taming Pre-trained LLMs for Generalised Time Series Forecasting via Cross-modal Knowledge Distillation**|Peiyuan Liu et.al.|[2403.07300](http://arxiv.org/abs/2403.07300)|**[link](https://github.com/hank0626/llata)**|
+|**2024-03-12**|**Advancements in Continuous Glucose Monitoring: Integrating Deep Learning and ECG Signal**|MohammadReza Hosseinzadehketilateh et.al.|[2403.07296](http://arxiv.org/abs/2403.07296)|null|
+|**2024-03-12**|**The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models**|Lei Chen et.al.|[2403.07257](http://arxiv.org/abs/2403.07257)|null|
+|**2024-03-12**|**Deep Learning-Assisted Parallel Interference Cancellation for Grant-Free NOMA in Machine-Type Communication**|Yongjeong Oh et.al.|[2403.07255](http://arxiv.org/abs/2403.07255)|null|
+|**2024-03-12**|**Dataset Condensation for Time Series Classification via Dual Domain Matching**|Zhanyu Liu et.al.|[2403.07245](http://arxiv.org/abs/2403.07245)|null|
+|**2024-03-12**|**Learn and Search: An Elegant Technique for Object Lookup using Contrastive Learning**|Chandan Kumar et.al.|[2403.07231](http://arxiv.org/abs/2403.07231)|null|
+|**2024-03-12**|**Physics-constrained Active Learning for Soil Moisture Estimation and Optimal Sensor Placement**|Jianxin Xie et.al.|[2403.07228](http://arxiv.org/abs/2403.07228)|null|
+|**2024-03-11**|**MAP-Elites with Transverse Assessment for Multimodal Problems in Creative Domains**|Marvin Zammit et.al.|[2403.07182](http://arxiv.org/abs/2403.07182)|null|
+|**2024-03-11**|**Water Isotope Separation using Deep Learning and a Catalytically Active Ultrathin Membrane**|Jinu Jeong et.al.|[2403.07163](http://arxiv.org/abs/2403.07163)|null|
+|**2024-03-11**|**A New Machine Learning Dataset of Bulldog Nostril Images for Stenosis Degree Classification**|Gabriel Toshio Hirokawa Higa et.al.|[2403.07132](http://arxiv.org/abs/2403.07132)|null|
+|**2024-03-11**|**Simulation-Based Segmentation of Blood Vessels in Cerebral 3D OCTA Images**|Bastian Wittmann et.al.|[2403.07116](http://arxiv.org/abs/2403.07116)|null|
+|**2024-03-11**|**A cascaded deep network for automated tumor detection and segmentation in clinical PET imaging of diffuse large B-cell lymphoma**|Shadab Ahamed et.al.|[2403.07092](http://arxiv.org/abs/2403.07092)|null|
+|**2024-03-11**|**Improving deep learning with prior knowledge and cognitive models: A survey on enhancing explainability, adversarial robustness and zero-shot learning**|Fuseinin Mumuni et.al.|[2403.07078](http://arxiv.org/abs/2403.07078)|null|
+|**2024-03-11**|**Dark Matter-induced electron excitations in silicon and germanium with Deep Learning**|Riccardo Catena et.al.|[2403.07053](http://arxiv.org/abs/2403.07053)|null|
+|**2024-03-09**|**AdaNovo: Adaptive \emph{De Novo} Peptide Sequencing with Conditional Mutual Information**|Jun Xia et.al.|[2403.07013](http://arxiv.org/abs/2403.07013)|null|
 |**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
 |**2024-03-11**|**Quadruped-Frog: Rapid Online Optimization of Continuous Quadruped Jumping**|Guillaume Bellegarda et.al.|[2403.06954](http://arxiv.org/abs/2403.06954)|null|
 |**2024-03-11**|**Optimizing Latent Graph Representations of Surgical Scenes for Zero-Shot Domain Transfer**|Siddhant Satyanaik et.al.|[2403.06953](http://arxiv.org/abs/2403.06953)|null|
