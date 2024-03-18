@@ -834,7 +834,7 @@
 |**2024-03-11**|**Quadruped-Frog: Rapid Online Optimization of Continuous Quadruped Jumping**|Guillaume Bellegarda et.al.|[2403.06954](http://arxiv.org/abs/2403.06954)|null|
 |**2024-03-11**|**Optimizing Latent Graph Representations of Surgical Scenes for Zero-Shot Domain Transfer**|Siddhant Satyanaik et.al.|[2403.06953](http://arxiv.org/abs/2403.06953)|null|
 |**2024-03-11**|**LIBR+: Improving Intraoperative Liver Registration by Learning the Residual of Biomechanics-Based Deformable Registration**|Dingrong Wang et.al.|[2403.06901](http://arxiv.org/abs/2403.06901)|null|
-|**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad et.al.|[2403.06872](http://arxiv.org/abs/2403.06872)|null|
+|**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad et.al.|[2403.06872](http://arxiv.org/abs/2403.06872)|**[link](https://github.com/nishchalprasad/mesc)**|
 |**2024-03-11**|**A Geospatial Approach to Predicting Desert Locust Breeding Grounds in Africa**|Ibrahim Salihu Yusuf et.al.|[2403.06860](http://arxiv.org/abs/2403.06860)|null|
 |**2024-03-11**|**Concurrent Speaker Detection: A multi-microphone Transformer-Based Approach**|Amit Eliav et.al.|[2403.06856](http://arxiv.org/abs/2403.06856)|null|
 |**2024-03-11**|**Are Targeted Messages More Effective?**|Martin Grohe et.al.|[2403.06817](http://arxiv.org/abs/2403.06817)|null|
