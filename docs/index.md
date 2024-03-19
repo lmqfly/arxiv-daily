@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -407,7 +407,7 @@ layout: default
 |**2024-02-29**|**Simulations of Classical Three-Body Thermalization in One Dimension**|M. Eltohfa et.al.|[2403.00089](http://arxiv.org/abs/2403.00089)|null|
 |**2024-02-28**|**Hydrogen bonding in water under extreme confinement unveiled by nanoscale vibrational spectroscopy and simulations**|Xintong Xu et.al.|[2402.17989](http://arxiv.org/abs/2402.17989)|null|
 |**2024-02-27**|**A Bayesian Committee Machine Potential for Organic Nitrogen Compounds**|Hyun Gyu Park et.al.|[2402.17132](http://arxiv.org/abs/2402.17132)|null|
-|**2024-02-27**|**Virial Equation of State for a Granular System**|Subhanker Howlader et.al.|[2402.17100](http://arxiv.org/abs/2402.17100)|null|
+|**2024-03-16**|**Virial Equation of State for a Granular System**|Subhanker Howlader et.al.|[2402.17100](http://arxiv.org/abs/2402.17100)|null|
 |**2024-02-24**|**Distinguishable-particle Glassy Crystal: the simplest molecular model of glass**|Leo S. I. Lam et.al.|[2402.15805](http://arxiv.org/abs/2402.15805)|null|
 |**2024-02-24**|**Prediction of Superionic State in LiH2 at Conditions Enroute to Nuclear Fusion**|Fude Li et.al.|[2402.15791](http://arxiv.org/abs/2402.15791)|null|
 |**2024-02-23**|**The origin of phase separation in binary aluminosilicate glasses**|Houssam Kharouji et.al.|[2402.15314](http://arxiv.org/abs/2402.15314)|null|
