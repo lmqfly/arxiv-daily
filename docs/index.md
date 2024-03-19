@@ -382,6 +382,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Surface hopping molecular dynamics simulation of ultrafast methyl iodide photodissociation mapped by Coulomb explosion imaging**|Yijue Ding et.al.|[2403.11592](http://arxiv.org/abs/2403.11592)|null|
+|**2024-03-15**|**Good rates from bad coordinates: the exponential average time-dependent rate approach**|Nicodemo Mazzaferro et.al.|[2403.10668](http://arxiv.org/abs/2403.10668)|null|
+|**2024-02-24**|**Coalescence of sessile aqueous droplets laden with surfactant**|S. Arbabi et.al.|[2403.10535](http://arxiv.org/abs/2403.10535)|null|
 |**2024-03-15**|**Defect design in ferroelectrics -- new insights on agglomeration**|Sheng-Han Teng et.al.|[2403.10467](http://arxiv.org/abs/2403.10467)|null|
 |**2024-03-15**|**Hessian-free force-gradient integrators**|Kevin Schäfers et.al.|[2403.10370](http://arxiv.org/abs/2403.10370)|null|
 |**2024-03-15**|**GradNav: Accelerated Exploration of Potential Energy Surfaces with Gradient-Based Navigation**|Janghoon Ock et.al.|[2403.10358](http://arxiv.org/abs/2403.10358)|null|
@@ -487,6 +490,63 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**MedMerge: Merging Models for Effective Transfer Learning to Medical Imaging Tasks**|Ibrahim Almakky et.al.|[2403.11646](http://arxiv.org/abs/2403.11646)|null|
+|**2024-03-18**|**MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation**|Chih-Chung Hsu et.al.|[2403.11576](http://arxiv.org/abs/2403.11576)|null|
+|**2024-03-18**|**Augment Before Copy-Paste: Data and Memory Efficiency-Oriented Instance Segmentation Framework for Sport-scenes**|Chih-Chung Hsu et.al.|[2403.11572](http://arxiv.org/abs/2403.11572)|null|
+|**2024-03-18**|**LOOPer: A Learned Automatic Code Optimizer For Polyhedral Compilers**|Massinissa Merouani et.al.|[2403.11522](http://arxiv.org/abs/2403.11522)|null|
+|**2024-03-18**|**Covid-19 detection from CT scans using EfficientNet and Attention mechanism**|Ramy Farag et.al.|[2403.11505](http://arxiv.org/abs/2403.11505)|null|
+|**2024-03-18**|**MLVICX: Multi-Level Variance-Covariance Exploration for Chest X-ray Self-Supervised Representation Learning**|Azad Singh et.al.|[2403.11504](http://arxiv.org/abs/2403.11504)|null|
+|**2024-03-18**|**SeisFusion: Constrained Diffusion Model with Input Guidance for 3D Seismic Data Interpolation and Reconstruction**|Shuang Wang et.al.|[2403.11482](http://arxiv.org/abs/2403.11482)|**[link](https://github.com/WAL-l/SeisFusion)**|
+|**2024-03-18**|**Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure**|Ziyi Chen et.al.|[2403.11425](http://arxiv.org/abs/2403.11425)|null|
+|**2024-03-18**|**A Deep Learning Method for Beat-Level Risk Analysis and Interpretation of Atrial Fibrillation Patients during Sinus Rhythm**|Jun Lei et.al.|[2403.11405](http://arxiv.org/abs/2403.11405)|null|
+|**2024-03-18**|**Automated data processing and feature engineering for deep learning and big data applications: a survey**|Alhassan Mumuni amd Fuseini Mumuni et.al.|[2403.11395](http://arxiv.org/abs/2403.11395)|null|
+|**2024-03-17**|**Approximations of the quasi-local Bartnik mass in general relativity**|Leon Escobar-Diaz et.al.|[2403.11372](http://arxiv.org/abs/2403.11372)|null|
+|**2024-03-17**|**Solvent-Aware 2D NMR Prediction: Leveraging Multi-Tasking Training and Iterative Self-Training Strategies**|Yunrui Li et.al.|[2403.11353](http://arxiv.org/abs/2403.11353)|null|
+|**2024-03-17**|**StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining**|Tushar Kataria et.al.|[2403.11340](http://arxiv.org/abs/2403.11340)|null|
+|**2024-03-17**|**Enhancing Bandwidth Efficiency for Video Motion Transfer Applications using Deep Learning Based Keypoint Prediction**|Xue Bai et.al.|[2403.11337](http://arxiv.org/abs/2403.11337)|null|
+|**2024-03-17**|**Diffusion and Multi-Domain Adaptation Methods for Eosinophil Segmentation**|Kevin Lin et.al.|[2403.11323](http://arxiv.org/abs/2403.11323)|null|
+|**2024-03-17**|**Advanced Knowledge Extraction of Physical Design Drawings, Translation and conversion to CAD formats using Deep Learning**|Jesher Joshua M et.al.|[2403.11291](http://arxiv.org/abs/2403.11291)|null|
+|**2024-03-17**|**Neural-network density functional theory**|Yang Li et.al.|[2403.11287](http://arxiv.org/abs/2403.11287)|null|
+|**2024-03-17**|**A Dynamically Weighted Loss Function for Unsupervised Image Segmentation**|Boujemaa Guermazi et.al.|[2403.11266](http://arxiv.org/abs/2403.11266)|null|
+|**2024-03-17**|**Simple 2D Convolutional Neural Network-based Approach for COVID-19 Detection**|Chih-Chung Hsu et.al.|[2403.11230](http://arxiv.org/abs/2403.11230)|null|
+|**2024-03-17**|**Multiple Teachers-Meticulous Student: A Domain Adaptive Meta-Knowledge Distillation Model for Medical Image Classification**|Shahabedin Nabavi et.al.|[2403.11226](http://arxiv.org/abs/2403.11226)|null|
+|**2024-03-17**|**Causality from Bottom to Top: A Survey**|Abraham Itzhak Weinberg et.al.|[2403.11219](http://arxiv.org/abs/2403.11219)|null|
+|**2024-03-17**|**CBR - Boosting Adaptive Classification By Retrieval of Encrypted Network Traffic with Out-of-distribution**|Amir Lukach et.al.|[2403.11206](http://arxiv.org/abs/2403.11206)|null|
+|**2024-03-17**|**Partitioned Neural Network Training via Synthetic Intermediate Labels**|Cevat Volkan Karadağ et.al.|[2403.11204](http://arxiv.org/abs/2403.11204)|null|
+|**2024-03-17**|**Neural Markov Random Field for Stereo Matching**|Tongfan Guan et.al.|[2403.11193](http://arxiv.org/abs/2403.11193)|**[link](https://github.com/aeolusguan/NMRF)**|
+|**2024-03-17**|**A Selective Review on Statistical Methods for Massive Data Computation: Distributed Computing, Subsampling, and Minibatch Techniques**|Xuetong Li et.al.|[2403.11163](http://arxiv.org/abs/2403.11163)|null|
+|**2024-03-17**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|null|
+|**2024-03-17**|**A lightweight deep learning pipeline with DRDA-Net and MobileNet for breast cancer classification**|Mahdie Ahmadi et.al.|[2403.11135](http://arxiv.org/abs/2403.11135)|null|
+|**2024-03-17**|**Self-Supervised Quantization-Aware Knowledge Distillation**|Kaiqi Zhao et.al.|[2403.11106](http://arxiv.org/abs/2403.11106)|**[link](https://github.com/kaiqi123/sqakd)**|
+|**2024-03-17**|**Bridging Expert Knowledge with Deep Learning Techniques for Just-In-Time Defect Prediction**|Xin Zhou et.al.|[2403.11079](http://arxiv.org/abs/2403.11079)|null|
+|**2024-03-17**|**Deep Learning-based Sentiment Analysis in Persian Language**|Mohammad Heydari et.al.|[2403.11069](http://arxiv.org/abs/2403.11069)|null|
+|**2024-03-17**|**From Pixels to Predictions: Spectrogram and Vision Transformer for Better Time Series Forecasting**|Zhen Zeng et.al.|[2403.11047](http://arxiv.org/abs/2403.11047)|null|
+|**2024-03-16**|**Multiplane Quantitative Phase Imaging Using a Wavelength-Multiplexed Diffractive Optical Processor**|Che-Yung Shen et.al.|[2403.11035](http://arxiv.org/abs/2403.11035)|null|
+|**2024-03-16**|**FH-TabNet: Multi-Class Familial Hypercholesterolemia Detection via a Multi-Stage Tabular Deep Learning**|Sadaf Khademi et.al.|[2403.11032](http://arxiv.org/abs/2403.11032)|null|
+|**2024-03-16**|**MASSM: An End-to-End Deep Learning Framework for Multi-Anatomy Statistical Shape Modeling Directly From Images**|Janmesh Ukey et.al.|[2403.11008](http://arxiv.org/abs/2403.11008)|null|
+|**2024-03-16**|**IoTCO2: Assessing the End-To-End Carbon Footprint of Internet-of-Things-Enabled Deep Learning**|Ahmad Faiz et.al.|[2403.10984](http://arxiv.org/abs/2403.10984)|null|
+|**2024-03-16**|**Function-space Parameterization of Neural Networks for Sequential Learning**|Aidan Scannell et.al.|[2403.10929](http://arxiv.org/abs/2403.10929)|**[link](https://github.com/AaltoML/sfr-experiments)**|
+|**2024-03-16**|**Automatic location detection based on deep learning**|Anjali Karangiya et.al.|[2403.10912](http://arxiv.org/abs/2403.10912)|null|
+|**2024-03-16**|**Could We Generate Cytology Images from Histopathology Images? An Empirical Study**|Soumyajyoti Dey et.al.|[2403.10885](http://arxiv.org/abs/2403.10885)|null|
+|**2024-03-16**|**Regularizing CNNs using Confusion Penalty Based Label Smoothing for Histopathology Images**|Somenath Kuiry et.al.|[2403.10881](http://arxiv.org/abs/2403.10881)|null|
+|**2024-03-16**|**Neural-Kernel Conditional Mean Embeddings**|Eiki Shimizu et.al.|[2403.10859](http://arxiv.org/abs/2403.10859)|null|
+|**2024-03-16**|**RetMIL: Retentive Multiple Instance Learning for Histopathological Whole Slide Image Classification**|Hongbo Chu et.al.|[2403.10858](http://arxiv.org/abs/2403.10858)|null|
+|**2024-03-16**|**Deep learning generative model for crystal structure prediction**|Xiaoshan Luo et.al.|[2403.10846](http://arxiv.org/abs/2403.10846)|null|
+|**2024-03-16**|**MSI-NeRF: Linking Omni-Depth with View Synthesis through Multi-Sphere Image aided Generalizable Neural Radiance Field**|Dongyu Yan et.al.|[2403.10840](http://arxiv.org/abs/2403.10840)|null|
+|**2024-03-16**|**SF(DA) $^2$ : Source-free Domain Adaptation Through the Lens of Data Augmentation**|Uiwon Hwang et.al.|[2403.10834](http://arxiv.org/abs/2403.10834)|**[link](https://github.com/shinyflight/sfda2)**|
+|**2024-03-16**|**DUE: Dynamic Uncertainty-Aware Explanation Supervision via 3D Imputation**|Qilong Zhao et.al.|[2403.10831](http://arxiv.org/abs/2403.10831)|null|
+|**2024-03-16**|**Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples**|Ziqi Zhou et.al.|[2403.10801](http://arxiv.org/abs/2403.10801)|**[link](https://github.com/cgcl-codes/gen-af)**|
+|**2024-03-16**|**CoPlay: Audio-agnostic Cognitive Scaling for Acoustic Sensing**|Yin Li et.al.|[2403.10796](http://arxiv.org/abs/2403.10796)|null|
+|**2024-03-16**|**HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection**|Shibiao Xu et.al.|[2403.10778](http://arxiv.org/abs/2403.10778)|**[link](https://github.com/zhengshuchen/hcfnet)**|
+|**2024-03-16**|**LIGHTCODE: Light Analytical and Neural Codes for Channels with Feedback**|Sravan Kumar Ankireddy et.al.|[2403.10751](http://arxiv.org/abs/2403.10751)|null|
+|**2024-03-15**|**Robust Influence-based Training Methods for Noisy Brain MRI**|Minh-Hao Van et.al.|[2403.10698](http://arxiv.org/abs/2403.10698)|null|
+|**2024-03-15**|**EAGLE: An Edge-Aware Gradient Localization Enhanced Loss for CT Image Reconstruction**|Yipeng Sun et.al.|[2403.10695](http://arxiv.org/abs/2403.10695)|**[link](https://github.com/sypsyp97/eagle_loss)**|
+|**2024-03-15**|**Hessian-Free Laplace in Bayesian Deep Learning**|James McInerney et.al.|[2403.10671](http://arxiv.org/abs/2403.10671)|null|
+|**2024-03-15**|**Leveraging CLIP for Inferring Sensitive Information and Improving Model Fairness**|Miao Zhang et.al.|[2403.10624](http://arxiv.org/abs/2403.10624)|null|
+|**2024-03-15**|**Lyapunov Neural Network with Region of Attraction Search**|Zili Wang et.al.|[2403.10621](http://arxiv.org/abs/2403.10621)|null|
+|**2024-03-15**|**SurvRNC: Learning Ordered Representations for Survival Prediction using Rank-N-Contrast**|Numan Saeed et.al.|[2403.10603](http://arxiv.org/abs/2403.10603)|null|
+|**2024-03-15**|**Medical Unlearnable Examples: Securing Medical Data from Unauthorized Traning via Sparsity-Aware Local Masking**|Weixiang Sun et.al.|[2403.10573](http://arxiv.org/abs/2403.10573)|null|
+|**2024-03-14**|**JaxDecompiler: Redefining Gradient-Informed Software Design**|Pierrick Pochelu et.al.|[2403.10571](http://arxiv.org/abs/2403.10571)|null|
 |**2024-03-15**|**ATOM: Asynchronous Training of Massive Models for Deep Learning in a Decentralized Environment**|Xiaofeng Wu et.al.|[2403.10504](http://arxiv.org/abs/2403.10504)|null|
 |**2024-03-15**|**PnP Restoration with Domain Adaptation for SANS**|Shirin Shoushtari et.al.|[2403.10495](http://arxiv.org/abs/2403.10495)|null|
 |**2024-03-15**|**Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**|Haoyang Liu et.al.|[2403.10476](http://arxiv.org/abs/2403.10476)|null|
