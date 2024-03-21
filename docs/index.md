@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -506,7 +506,7 @@ layout: default
 |**2024-03-19**|**Is open source software culture enough to make AI a common ?**|Robin Quillivic et.al.|[2403.12774](http://arxiv.org/abs/2403.12774)|null|
 |**2024-03-19**|**Building Brain Tumor Segmentation Networks with User-Assisted Filter Estimation and Selection**|Matheus A. Cerqueira et.al.|[2403.12748](http://arxiv.org/abs/2403.12748)|null|
 |**2024-03-18**|**Posterior Uncertainty Quantification in Neural Networks using Data Augmentation**|Luhuan Wu et.al.|[2403.12729](http://arxiv.org/abs/2403.12729)|null|
-|**2024-03-19**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660](http://arxiv.org/abs/2403.12660)|**[link](https://github.com/jia-py/erase)**|
+|**2024-03-20**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660](http://arxiv.org/abs/2403.12660)|**[link](https://github.com/jia-py/erase)**|
 |**2024-03-19**|**Zeolite Adsorption Property Prediction using Deep Learning**|Marko Petković et.al.|[2403.12659](http://arxiv.org/abs/2403.12659)|null|
 |**2024-03-19**|**SUN Team's Contribution to ABAW 2024 Competition: Audio-visual Valence-Arousal Estimation and Expression Recognition**|Denis Dresvyanskiy et.al.|[2403.12609](http://arxiv.org/abs/2403.12609)|null|
 |**2024-03-19**|**AlphaFin: Benchmarking Financial Analysis with Retrieval-Augmented Stock-Chain Framework**|Xiang Li et.al.|[2403.12582](http://arxiv.org/abs/2403.12582)|null|
