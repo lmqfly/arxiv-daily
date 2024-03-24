@@ -23,17 +23,19 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "DTI": 
-        filters: ["Drug Target Interactions"]
+        filters: ["Drug Target Interactions", "Drug Target Interaction", "DTI", "Molecular interaction"]
     "DDI":
-        filters: ["Drug Drug Interactions"]
+        filters: ["Drug Drug Interactions", "DDI", "Drug-Drug Interaction"]
     "MG":
-        filters: ["Molecular Generation", ]
+        filters: ["Molecular Generation", "Molecular Optimization"]
     "MPP":
         filters: ["Molecular property prediction", "Self-Supervised", "Pre-Training"]
     "MD":
-        filters: ["Molecular Dynamics Simulations"]
+        filters: ["Molecular Dynamics Simulations", "AIMD", "MLMD", "MD17", "OC20"]
     "Transformer":
         filters: ["transformer", "deep learning"]
-    "bind":
-        filters: ["protein ligand bind", "docking"]
+    "Binding":
+        filters: ["protein ligand bind", "docking", "binding", "protein ligand interaction", "Binding affinity", "Binding affinity prediction"]
+    "Geometric deep learning":
+        filters: ["Equivariant", "Geometric deep learning", "Invariant"]
     
