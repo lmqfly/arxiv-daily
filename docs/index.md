@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -486,7 +486,7 @@ layout: default
 |**2024-03-15**|**Distinguishing fission-like events from deep-inelastic collisions**|Hong Yao et.al.|[2402.15224](http://arxiv.org/abs/2402.15224)|null|
 |**2024-02-23**|**Dynamics and energetics of ion adsorption at the interface between a pure ionic liquid and carbon electrodes**|Nicolas Gaudy et.al.|[2402.15199](http://arxiv.org/abs/2402.15199)|null|
 |**2024-02-23**|**Friction and Memory Effects in Homogeneous Gas-Liquid Nucleation: Quest for Quantitative Rate Calculation**|Subhajit Acharya et.al.|[2402.15126](http://arxiv.org/abs/2402.15126)|null|
-|**2024-02-21**|**Thermal transport in a 2D amorphous material**|Yuxi Wang et.al.|[2402.13471](http://arxiv.org/abs/2402.13471)|null|
+|**2024-03-22**|**Thermal transport in a 2D amorphous material**|Yuxi Wang et.al.|[2402.13471](http://arxiv.org/abs/2402.13471)|null|
 |**2024-02-20**|**Positive temperature-dependent thermal conductivity induced by wavelike phonons in complex Ag-based argyrodites**|Niuchang Ouyang et.al.|[2402.12699](http://arxiv.org/abs/2402.12699)|null|
 |**2024-02-19**|**Molecular Dynamics Simulations of Anisotropic Particles Accelerated by Neural-Net Predicted Interactions**|B. Rusen Argun et.al.|[2402.12199](http://arxiv.org/abs/2402.12199)|null|
 |**2024-02-18**|**AI-assisted inverse design of sequence-ordered high intrinsic thermal conductivity polymers**|Xiang Huang et.al.|[2402.11600](http://arxiv.org/abs/2402.11600)|null|
