@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Self-Consistent Atmosphere Representation and Interaction in Photon Monte Carlo Simulations**|J. R. Peterson et.al.|[2403.15562](http://arxiv.org/abs/2403.15562)|null|
 |**2024-03-21**|**NaNa and MiGu: Semantic Data Augmentation Techniques to Enhance Protein Classification in Graph Neural Networks**|Yi-Shan Lan et.al.|[2403.14736](http://arxiv.org/abs/2403.14736)|null|
 |**2024-03-04**|**Numerical Simulation of Phase Transition with the Hyperbolic Godunov-Peshkov-Romenski Model**|Pascal Mossier et.al.|[2403.01847](http://arxiv.org/abs/2403.01847)|null|
 |**2024-02-18**|**DDIPrompt: Drug-Drug Interaction Event Prediction based on Graph Prompt Learning**|Yingying Wang et.al.|[2402.11472](http://arxiv.org/abs/2402.11472)|null|
@@ -435,6 +436,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Phase separation dynamics in a symmetric binary mixture of ultrasoft particles**|Tanmay Biswas et.al.|[2403.16663](http://arxiv.org/abs/2403.16663)|null|
+|**2024-03-24**|**Isoleucine gate blocks K+ conduction in C-type inactivation**|Werner Treptow et.al.|[2403.16179](http://arxiv.org/abs/2403.16179)|null|
+|**2024-03-23**|**Tutorial: AI-assisted exploration and active design of polymers with high intrinsic thermal conductivity**|Xiang Huang et.al.|[2403.15887](http://arxiv.org/abs/2403.15887)|null|
 |**2024-03-22**|**Benchmarking of machine learning interatomic potentials for reactive hydrogen dynamics at metal surfaces**|Wojciech G. Stark et.al.|[2403.15334](http://arxiv.org/abs/2403.15334)|null|
 |**2024-03-21**|**Toward a realistic model of multilayered bacterial colonies**|M. T. Khan et.al.|[2403.14855](http://arxiv.org/abs/2403.14855)|null|
 |**2024-03-21**|**Shape changes of a single hairy particle with mobile ligands at a liquid-liquid interface**|T. Staszewski et.al.|[2403.14823](http://arxiv.org/abs/2403.14823)|null|
@@ -543,6 +547,61 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Assessing the Performance of Deep Learning for Automated Gleason Grading in Prostate Cancer**|Dominik Müller et.al.|[2403.16695](http://arxiv.org/abs/2403.16695)|null|
+|**2024-03-25**|**DeepGleason: a System for Automated Gleason Grading of Prostate Cancer using Deep Neural Networks**|Dominik Müller et.al.|[2403.16678](http://arxiv.org/abs/2403.16678)|**[link](https://github.com/frankkramer-lab/deepgleason)**|
+|**2024-03-25**|**Multi-Scale Texture Loss for CT denoising with GANs**|Francesco Di Feola et.al.|[2403.16640](http://arxiv.org/abs/2403.16640)|**[link](https://github.com/francescodifeola/denotextureloss)**|
+|**2024-03-25**|**Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus**|Chen Li et.al.|[2403.16607](http://arxiv.org/abs/2403.16607)|null|
+|**2024-03-25**|**EDUE: Expert Disagreement-Guided One-Pass Uncertainty Estimation for Medical Image Segmentation**|Kudaibergen Abutalip et.al.|[2403.16594](http://arxiv.org/abs/2403.16594)|null|
+|**2024-03-25**|**In the Search for Optimal Multi-view Learning Models for Crop Classification with Global Remote Sensing Data**|Francisco Mena et.al.|[2403.16582](http://arxiv.org/abs/2403.16582)|null|
+|**2024-03-25**|**PE: A Poincare Explanation Method for Fast Text Hierarchy Generation**|Qian Chen et.al.|[2403.16554](http://arxiv.org/abs/2403.16554)|**[link](https://github.com/qq31415926/pe)**|
+|**2024-03-25**|**ModeTv2: GPU-accelerated Motion Decomposition Transformer for Pairwise Optimization in Medical Image Registration**|Haiqiao Wang et.al.|[2403.16526](http://arxiv.org/abs/2403.16526)|**[link](https://github.com/zax130/modetv2)**|
+|**2024-03-25**|**Deep Learning Based Measure of Name Concentration Risk**|Eva Lütkebohmert et.al.|[2403.16525](http://arxiv.org/abs/2403.16525)|null|
+|**2024-03-25**|**Return to Tradition: Learning Reliable Heuristics with Classical Machine Learning**|Dillon Z. Chen et.al.|[2403.16508](http://arxiv.org/abs/2403.16508)|null|
+|**2024-03-25**|**Medical Image Registration and Its Application in Retinal Images: A Review**|Qiushi Nie et.al.|[2403.16502](http://arxiv.org/abs/2403.16502)|null|
+|**2024-03-25**|**Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models**|Mingyi Zhou et.al.|[2403.16479](http://arxiv.org/abs/2403.16479)|null|
+|**2024-03-25**|**Plaintext-Free Deep Learning for Privacy-Preserving Medical Image Analysis via Frequency Information Embedding**|Mengyu Sun et.al.|[2403.16473](http://arxiv.org/abs/2403.16473)|null|
+|**2024-03-25**|**DeepMachining: Online Prediction of Machining Errors of Lathe Machines**|Xiang-Li Lu et.al.|[2403.16451](http://arxiv.org/abs/2403.16451)|null|
+|**2024-03-25**|**Real-Time Recognition of Vortex Beams Modes Through Random Diffusive at the Speed of Light**|Tong Fu et.al.|[2403.16420](http://arxiv.org/abs/2403.16420)|null|
+|**2024-03-25**|**Ensemble Adversarial Defense via Integration of Multiple Dispersed Low Curvature Models**|Kaikang Zhao et.al.|[2403.16405](http://arxiv.org/abs/2403.16405)|null|
+|**2024-03-25**|**ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation**|Hannah Schieber et.al.|[2403.16400](http://arxiv.org/abs/2403.16400)|null|
+|**2024-03-25**|**RSTAR: Rotational Streak Artifact Reduction in 4D CBCT using Separable and Circular Convolutions**|Ziheng Deng et.al.|[2403.16361](http://arxiv.org/abs/2403.16361)|null|
+|**2024-03-24**|**Modeling Analog Dynamic Range Compressors using Deep Learning and State-space Models**|Hanzhi Yin et.al.|[2403.16331](http://arxiv.org/abs/2403.16331)|null|
+|**2024-03-24**|**Object Detectors in the Open Environment:Challenges, Solutions, and Outlook**|Siyuan Liang et.al.|[2403.16271](http://arxiv.org/abs/2403.16271)|null|
+|**2024-03-24**|**Emotion Recognition from the perspective of Activity Recognition**|Savinay Nagendra et.al.|[2403.16263](http://arxiv.org/abs/2403.16263)|null|
+|**2024-03-24**|**An early warning indicator trained on stochastic disease-spreading models with different noises**|Amit K. Chakraborty et.al.|[2403.16233](http://arxiv.org/abs/2403.16233)|**[link](https://github.com/amitkchakraborty/ewsofinfectiousdiseases)**|
+|**2024-03-24**|**On machine learning analysis of atomic force microscopy images for image classification, sample surface recognition**|Igor Sokolov et.al.|[2403.16230](http://arxiv.org/abs/2403.16230)|null|
+|**2024-03-24**|**Leveraging Deep Learning and Xception Architecture for High-Accuracy MRI Classification in Alzheimer Diagnosis**|Shaojie Li et.al.|[2403.16212](http://arxiv.org/abs/2403.16212)|null|
+|**2024-03-24**|**Site-Specific Beam Alignment in 6G via Deep Learning**|Yuqiang Heng et.al.|[2403.16186](http://arxiv.org/abs/2403.16186)|null|
+|**2024-03-24**|**Enhancing MRI-Based Classification of Alzheimer's Disease with Explainable 3D Hybrid Compact Convolutional Transformers**|Arindam Majee et.al.|[2403.16175](http://arxiv.org/abs/2403.16175)|null|
+|**2024-03-24**|**An Analytic Solution to Covariance Propagation in Neural Networks**|Oren Wright et.al.|[2403.16163](http://arxiv.org/abs/2403.16163)|**[link](https://github.com/omwright/cov-prop-nn)**|
+|**2024-03-24**|**Runtime Monitoring and Fault Detection for Neural Network-Controlled Systems**|Jianglin Lan et.al.|[2403.16132](http://arxiv.org/abs/2403.16132)|null|
+|**2024-03-24**|**AKBR: Learning Adaptive Kernel-based Representations for Graph Classification**|Feifei Qian et.al.|[2403.16130](http://arxiv.org/abs/2403.16130)|null|
+|**2024-03-24**|**A Survey on Lexical Ambiguity Detection and Word Sense Disambiguation**|Miuru Abeysiriwardana et.al.|[2403.16129](http://arxiv.org/abs/2403.16129)|null|
+|**2024-03-24**|**Landmark-Guided Cross-Speaker Lip Reading with Mutual Information Regularization**|Linzhi Wu et.al.|[2403.16071](http://arxiv.org/abs/2403.16071)|null|
+|**2024-03-24**|**Enhancing Demand Prediction in Open Systems by Cartogram-aided Deep Learning**|Sangjoon Park et.al.|[2403.16049](http://arxiv.org/abs/2403.16049)|null|
+|**2024-03-24**|**FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools**|Han Liu et.al.|[2403.16032](http://arxiv.org/abs/2403.16032)|null|
+|**2024-03-24**|**PaPr: Training-Free One-Step Patch Pruning with Lightweight ConvNets for Faster Inference**|Tanvir Mahmud et.al.|[2403.16020](http://arxiv.org/abs/2403.16020)|null|
+|**2024-03-24**|**PSHop: A Lightweight Feed-Forward Method for 3D Prostate Gland Segmentation**|Yijing Yang et.al.|[2403.15971](http://arxiv.org/abs/2403.15971)|null|
+|**2024-03-24**|**PCa-RadHop: A Transparent and Lightweight Feed-forward Method for Clinically Significant Prostate Cancer Segmentation**|Vasileios Magoulianitis et.al.|[2403.15969](http://arxiv.org/abs/2403.15969)|null|
+|**2024-03-23**|**Risk-Calibrated Human-Robot Interaction via Set-Valued Intent Prediction**|Justin Lidard et.al.|[2403.15959](http://arxiv.org/abs/2403.15959)|null|
+|**2024-03-23**|**Feature Manipulation for DDPM based Change Detection**|Zhenglin Li et.al.|[2403.15943](http://arxiv.org/abs/2403.15943)|null|
+|**2024-03-23**|**MatchSeg: Towards Better Segmentation via Reference Image Matching**|Ruiqiang Xiao et.al.|[2403.15901](http://arxiv.org/abs/2403.15901)|**[link](https://github.com/keeplearning-again/matchseg)**|
+|**2024-03-23**|**A Deep Learning Architectures for Kidney Disease Classification**|Muhammad Shoaib Farooq et.al.|[2403.15895](http://arxiv.org/abs/2403.15895)|null|
+|**2024-03-23**|**An edge detection-based deep learning approach for tear meniscus height measurement**|Kesheng Wang et.al.|[2403.15853](http://arxiv.org/abs/2403.15853)|null|
+|**2024-03-23**|**VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Human Annotation-Free Pathological Image Classification**|Lanfeng Zhong et.al.|[2403.15836](http://arxiv.org/abs/2403.15836)|null|
+|**2024-03-23**|**Graph Image Prior for Unsupervised Dynamic MRI Reconstruction**|Zhongsen Li et.al.|[2403.15770](http://arxiv.org/abs/2403.15770)|**[link](https://github.com/lizs17/gip_cardiac_mri)**|
+|**2024-03-23**|**BEND: Bagging Deep Learning Training Based on Efficient Neural Network Diffusion**|Jia Wei et.al.|[2403.15766](http://arxiv.org/abs/2403.15766)|null|
+|**2024-03-23**|**Deep Learning Approach to Forecasting COVID-19 Cases in Residential Buildings of Hong Kong Public Housing Estates: The Role of Environment and Sociodemographics**|E. Leung et.al.|[2403.15759](http://arxiv.org/abs/2403.15759)|null|
+|**2024-03-23**|**Towards Channel-Resilient CSI-Based RF Fingerprinting using Deep Learning**|Ruiqi Kong et.al.|[2403.15739](http://arxiv.org/abs/2403.15739)|null|
+|**2024-03-23**|**Spatio-Temporal Graph Convolutional Network Combined Large Language Model: A Deep Learning Framework for Bike Demand Forecasting**|Peisen Li et.al.|[2403.15733](http://arxiv.org/abs/2403.15733)|null|
+|**2024-03-23**|**Radical-Cylon: A Heterogeneous Data Pipeline for Scientific Computing**|Arup Kumar Sarker et.al.|[2403.15721](http://arxiv.org/abs/2403.15721)|null|
+|**2024-03-23**|**The Limits of Perception: Analyzing Inconsistencies in Saliency Maps in XAI**|Anna Stubbin et.al.|[2403.15684](http://arxiv.org/abs/2403.15684)|null|
+|**2024-03-23**|**An active learning model to classify animal species in Hong Kong**|Gareth Lamb et.al.|[2403.15675](http://arxiv.org/abs/2403.15675)|null|
+|**2024-03-22**|**Towards Automatic Abdominal MRI Organ Segmentation: Leveraging Synthesized Data Generated From CT Labels**|Cosmin Ciausu et.al.|[2403.15609](http://arxiv.org/abs/2403.15609)|null|
+|**2024-03-22**|**Just another copy and paste? Comparing the security vulnerabilities of ChatGPT generated code and StackOverflow answers**|Sivana Hamer et.al.|[2403.15600](http://arxiv.org/abs/2403.15600)|null|
+|**2024-03-22**|**Analyzing Male Domestic Violence through Exploratory Data Analysis and Explainable Machine Learning Insights**|Md Abrar Jahin et.al.|[2403.15594](http://arxiv.org/abs/2403.15594)|null|
+|**2024-03-22**|**Latent Neural Cellular Automata for Resource-Efficient Image Restoration**|Andrea Menta et.al.|[2403.15525](http://arxiv.org/abs/2403.15525)|null|
+|**2024-03-22**|**Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation**|Kyohoon Jin et.al.|[2403.15512](http://arxiv.org/abs/2403.15512)|null|
 |**2024-03-22**|**Learning Topological Representations for Deep Image Understanding**|Xiaoling Hu et.al.|[2403.15361](http://arxiv.org/abs/2403.15361)|null|
 |**2024-03-22**|**CO-Fun: A German Dataset on Company Outsourcing in Fund Prospectuses for Named Entity Recognition and Relation Extraction**|Neda Foroutan et.al.|[2403.15322](http://arxiv.org/abs/2403.15322)|null|
 |**2024-03-22**|**Global Control for Local SO(3)-Equivariant Scale-Invariant Vessel Segmentation**|Patryk Rygiel et.al.|[2403.15314](http://arxiv.org/abs/2403.15314)|null|
@@ -681,6 +740,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization**|Xiangxin Zhou et.al.|[2403.16576](http://arxiv.org/abs/2403.16576)|null|
 |**2024-03-07**|**DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization**|Xiangxin Zhou et.al.|[2403.13829](http://arxiv.org/abs/2403.13829)|null|
 |**2024-03-19**|**Elucidating the Nature of $π$ -hydrogen Bonding in Liquid Water and Ammonia**|Krystof Brezina et.al.|[2403.12937](http://arxiv.org/abs/2403.12937)|null|
 |**2024-03-07**|**Stabilizing Policy Gradients for Stochastic Differential Equations via Consistency with Perturbation Process**|Xiangxin Zhou et.al.|[2403.04154](http://arxiv.org/abs/2403.04154)|null|
