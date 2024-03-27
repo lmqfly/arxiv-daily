@@ -133,6 +133,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**CADGL: Context-Aware Deep Graph Learning for Predicting Drug-Drug Interactions**|Azmine Toushik Wasi et.al.|[2403.17210](http://arxiv.org/abs/2403.17210)|null|
 |**2024-03-13**|**Learning to Describe for Predicting Zero-shot Drug-Drug Interactions**|Fangqi Zhu et.al.|[2403.08377](http://arxiv.org/abs/2403.08377)|**[link](https://github.com/zhufq00/ddis-prediction)**|
 |**2024-02-28**|**Hierarchical Multi-Relational Graph Representation Learning for Large-Scale Prediction of Drug-Drug Interactions**|Mengying Jiang et.al.|[2402.18127](http://arxiv.org/abs/2402.18127)|**[link](https://github.com/mengyingjiang/hmgrl)**|
 |**2024-02-21**|**Contextual Molecule Representation Learning from Chemical Reaction Knowledge**|Han Tang et.al.|[2402.13779](http://arxiv.org/abs/2402.13779)|null|
@@ -454,6 +455,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**A unified framework for coarse grained molecular dynamics of proteins**|Jinzhen Zhu et.al.|[2403.17513](http://arxiv.org/abs/2403.17513)|null|
 |**2024-03-25**|**Phase separation dynamics in a symmetric binary mixture of ultrasoft particles**|Tanmay Biswas et.al.|[2403.16663](http://arxiv.org/abs/2403.16663)|null|
 |**2024-03-24**|**Isoleucine gate blocks K+ conduction in C-type inactivation**|Werner Treptow et.al.|[2403.16179](http://arxiv.org/abs/2403.16179)|null|
 |**2024-03-23**|**Tutorial: AI-assisted exploration and active design of polymers with high intrinsic thermal conductivity**|Xiang Huang et.al.|[2403.15887](http://arxiv.org/abs/2403.15887)|null|
@@ -537,7 +539,7 @@
 |**2024-02-07**|**Seebeck coefficient of ionic conductors from Bayesian regression analysis**|Enrico Drigo et.al.|[2402.04873](http://arxiv.org/abs/2402.04873)|null|
 |**2024-01-30**|**Ionomer structure and component transport in the cathode catalyst layer of PEM fuel cells: A molecular dynamics study**|Yichao Huang et.al.|[2402.04270](http://arxiv.org/abs/2402.04270)|null|
 |**2024-02-06**|**On the growing length scale in a replica-coupled glassforming liquid**|Niklas Küchler et.al.|[2402.04205](http://arxiv.org/abs/2402.04205)|null|
-|**2024-02-06**|**Electric Field Induced Associations in the Double Layer of Salt-in-Ionic-Liquid Electrolytes**|Daniel M. Markiewitz et.al.|[2402.04039](http://arxiv.org/abs/2402.04039)|null|
+|**2024-03-26**|**Electric Field Induced Associations in the Double Layer of Salt-in-Ionic-Liquid Electrolytes**|Daniel M. Markiewitz et.al.|[2402.04039](http://arxiv.org/abs/2402.04039)|null|
 |**2024-02-06**|**Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations**|Yutack Park et.al.|[2402.03789](http://arxiv.org/abs/2402.03789)|**[link](https://github.com/mdil-snu/sevennet)**|
 |**2024-02-06**|**Enhanced sampling of robust molecular datasets with uncertainty-based collective variables**|Aik Rui Tan et.al.|[2402.03753](http://arxiv.org/abs/2402.03753)|null|
 |**2024-02-05**|**Classical molecular dynamics simulations of hydrogen plasmas and development of an analytical statistical model for computational validity assessment**|M. A. Gigosos et.al.|[2402.03401](http://arxiv.org/abs/2402.03401)|null|
@@ -567,6 +569,43 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Towards Explaining Hypercomplex Neural Networks**|Eleonora Lopez et.al.|[2403.17929](http://arxiv.org/abs/2403.17929)|**[link](https://github.com/ispamm/hxai)**|
+|**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909](http://arxiv.org/abs/2403.17909)|**[link](https://github.com/techmn/elgcnet)**|
+|**2024-03-26**|**Image-based Novel Fault Detection with Deep Learning Classifiers using Hierarchical Labels**|Nurettin Sergin et.al.|[2403.17891](http://arxiv.org/abs/2403.17891)|null|
+|**2024-03-26**|**ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on Historical American Newspaper Pages**|Bhawna Piryani et.al.|[2403.17859](http://arxiv.org/abs/2403.17859)|**[link](https://github.com/datascienceuibk/chroniclingamericaqa)**|
+|**2024-03-26**|**Climate Downscaling: A Deep-Learning Based Super-resolution Model of Precipitation Data with Attention Block and Skip Connections**|Chia-Hao Chiang et.al.|[2403.17847](http://arxiv.org/abs/2403.17847)|null|
+|**2024-03-26**|**Mechanistic Design and Scaling of Hybrid Architectures**|Michael Poli et.al.|[2403.17844](http://arxiv.org/abs/2403.17844)|null|
+|**2024-03-26**|**GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction**|Hrishav Bakul Barua et.al.|[2403.17837](http://arxiv.org/abs/2403.17837)|null|
+|**2024-03-26**|**D-PAD: Deep-Shallow Multi-Frequency Patterns Disentangling for Time Series Forecasting**|Xiaobing Yuan et.al.|[2403.17814](http://arxiv.org/abs/2403.17814)|null|
+|**2024-03-26**|**Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields**|Rüveyda Yilmaz et.al.|[2403.17808](http://arxiv.org/abs/2403.17808)|null|
+|**2024-03-26**|**CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation**|Yongrui Yu et.al.|[2403.17770](http://arxiv.org/abs/2403.17770)|null|
+|**2024-03-26**|**Deep Learning for Segmentation of Cracks in High-Resolution Images of Steel Bridges**|Andrii Kompanets et.al.|[2403.17725](http://arxiv.org/abs/2403.17725)|null|
+|**2024-03-26**|**Onboard deep lossless and near-lossless predictive coding of hyperspectral images with line-based attention**|Diego Valsesia et.al.|[2403.17677](http://arxiv.org/abs/2403.17677)|null|
+|**2024-03-26**|**Predicting Perceived Gloss: Do Weak Labels Suffice?**|Julia Guerrero-Viu et.al.|[2403.17672](http://arxiv.org/abs/2403.17672)|null|
+|**2024-03-26**|**CANOS: A Fast and Scalable Neural AC-OPF Solver Robust To N-1 Perturbations**|Luis Piloto et.al.|[2403.17660](http://arxiv.org/abs/2403.17660)|null|
+|**2024-03-26**|**Intrinsic Subgraph Generation for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2403.17647](http://arxiv.org/abs/2403.17647)|**[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)**|
+|**2024-03-26**|**Grad-CAMO: Learning Interpretable Single-Cell Morphological Profiles from 3D Cell Painting Images**|Vivek Gopalakrishnan et.al.|[2403.17615](http://arxiv.org/abs/2403.17615)|null|
+|**2024-03-26**|**Deep functional multiple index models with an application to SER**|Matthieu Saumard et.al.|[2403.17562](http://arxiv.org/abs/2403.17562)|null|
+|**2024-03-26**|**A Survey on Deep Learning and State-of-the-arts Applications**|Mohd Halim Mohd Noor et.al.|[2403.17561](http://arxiv.org/abs/2403.17561)|null|
+|**2024-03-26**|**ILLUMINER: Instruction-tuned Large Language Models as Few-shot Intent Classifier and Slot Filler**|Paramita Mirza et.al.|[2403.17536](http://arxiv.org/abs/2403.17536)|**[link](https://github.com/opengptx/illuminer)**|
+|**2024-03-26**|**Boosting Few-Shot Learning with Disentangled Self-Supervised Learning and Meta-Learning for Medical Image Classification**|Eva Pachetti et.al.|[2403.17530](http://arxiv.org/abs/2403.17530)|null|
+|**2024-03-26**|**Compensating for charge sharing by a deep-learning method: a preliminary experimental study**|Shengzi Zhao et.al.|[2403.17375](http://arxiv.org/abs/2403.17375)|null|
+|**2024-03-26**|**Staircase Localization for Autonomous Exploration in Urban Environments**|Jinrae Kim et.al.|[2403.17330](http://arxiv.org/abs/2403.17330)|null|
+|**2024-03-26**|**Deep Support Vectors**|Junhoo Lee et.al.|[2403.17329](http://arxiv.org/abs/2403.17329)|null|
+|**2024-03-26**|**JMultiWOZ: A Large-Scale Japanese Multi-Domain Task-Oriented Dialogue Dataset**|Atsumoto Ohashi et.al.|[2403.17319](http://arxiv.org/abs/2403.17319)|**[link](https://github.com/nu-dialogue/jmultiwoz)**|
+|**2024-03-26**|**Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving**|Junhao Zheng et.al.|[2403.17301](http://arxiv.org/abs/2403.17301)|**[link](https://github.com/gandolfczjh/3d2fool)**|
+|**2024-03-26**|**Tracing and segmentation of molecular patterns in 3-dimensional cryo-et/em density maps through algorithmic image processing and deep learning-based techniques**|Salim Sazzed et.al.|[2403.17293](http://arxiv.org/abs/2403.17293)|null|
+|**2024-03-25**|**Co-Occurring of Object Detection and Identification towards unlabeled object discovery**|Binay Kumar Singh et.al.|[2403.17223](http://arxiv.org/abs/2403.17223)|null|
+|**2024-03-25**|**AnimateMe: 4D Facial Expressions via Diffusion Models**|Dimitrios Gerogiannis et.al.|[2403.17213](http://arxiv.org/abs/2403.17213)|null|
+|**2024-03-25**|**LOTUS: Evasive and Resilient Backdoor Attacks through Sub-Partitioning**|Siyuan Cheng et.al.|[2403.17188](http://arxiv.org/abs/2403.17188)|**[link](https://github.com/megum1/lotus)**|
+|**2024-03-25**|**Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study**|Ahmed Soliman et.al.|[2403.17177](http://arxiv.org/abs/2403.17177)|null|
+|**2024-03-25**|**Histogram Layers for Neural Engineered Features**|Joshua Peeples et.al.|[2403.17176](http://arxiv.org/abs/2403.17176)|null|
+|**2024-03-25**|**Engagement Measurement Based on Facial Landmarks and Spatial-Temporal Graph Convolutional Networks**|Ali Abedi et.al.|[2403.17175](http://arxiv.org/abs/2403.17175)|null|
+|**2024-03-25**|**RepairAgent: An Autonomous, LLM-Based Agent for Program Repair**|Islem Bouzenia et.al.|[2403.17134](http://arxiv.org/abs/2403.17134)|null|
+|**2024-03-25**|**Deep learning-based predictive modelling of transonic flow over an aerofoil**|Li-Wei Chen et.al.|[2403.17131](http://arxiv.org/abs/2403.17131)|null|
+|**2024-03-25**|**Enhancing UAV Security Through Zero Trust Architecture: An Advanced Deep Learning and Explainable AI Analysis**|Ekramul Haque et.al.|[2403.17093](http://arxiv.org/abs/2403.17093)|null|
+|**2024-03-25**|**Self-STORM: Deep Unrolled Self-Supervised Learning for Super-Resolution Microscopy**|Yair Ben Sahel et.al.|[2403.16974](http://arxiv.org/abs/2403.16974)|null|
+|**2024-03-25**|**Joint chest X-ray diagnosis and clinical visual attention prediction with multi-stage cooperative learning: enhancing interpretability**|Zirui Qiu et.al.|[2403.16970](http://arxiv.org/abs/2403.16970)|null|
 |**2024-03-25**|**Cluster-Based Normalization Layer for Neural Networks**|Bilal Faye et.al.|[2403.16798](http://arxiv.org/abs/2403.16798)|null|
 |**2024-03-25**|**The Anatomy of Adversarial Attacks: Concept-based XAI Dissection**|Georgii Mikriukov et.al.|[2403.16782](http://arxiv.org/abs/2403.16782)|null|
 |**2024-03-25**|**DeepKnowledge: Generalisation-Driven Deep Learning Testing**|Sondess Missaoui et.al.|[2403.16768](http://arxiv.org/abs/2403.16768)|null|
@@ -874,6 +913,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**AnimateMe: 4D Facial Expressions via Diffusion Models**|Dimitrios Gerogiannis et.al.|[2403.17213](http://arxiv.org/abs/2403.17213)|null|
 |**2024-03-10**|**An End-to-End Deep Learning Generative Framework for Refinable Shape Matching and Generation**|Soodeh Kalaie et.al.|[2403.06317](http://arxiv.org/abs/2403.06317)|null|
 |**2024-03-07**|**3DTextureTransformer: Geometry Aware Texture Generation for Arbitrary Mesh Topology**|Dharma KC et.al.|[2403.04225](http://arxiv.org/abs/2403.04225)|null|
 |**2024-02-27**|**Geometric Deep Learning for Computer-Aided Design: A Survey**|Negar Heidari et.al.|[2402.17695](http://arxiv.org/abs/2402.17695)|null|
