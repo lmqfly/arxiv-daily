@@ -332,6 +332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-10**|**Sort & Slice: A Simple and Superior Alternative to Hash-Based Folding for Extended-Connectivity Fingerprints**|Markus Dablander et.al.|[2403.17954](http://arxiv.org/abs/2403.17954)|null|
 |**2024-02-21**|**BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**|Xueliang Zhao et.al.|[2402.13577](http://arxiv.org/abs/2402.13577)|null|
 |**2024-02-20**|**Equivariant Pretrained Transformer for Unified Geometric Learning on Multi-Domain 3D Molecules**|Rui Jiao et.al.|[2402.12714](http://arxiv.org/abs/2402.12714)|null|
 |**2024-02-18**|**The Impact of Domain Knowledge and Multi-Modality on Intelligent Molecular Property Prediction: A Systematic Survey**|Taojie Kuang et.al.|[2402.07249](http://arxiv.org/abs/2402.07249)|null|
@@ -437,6 +438,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**IR Spectroscopy of Carboxylate-Passivated Semiconducting Nanocrystals: Simulation and Experiment**|Jakub K. Sowa et.al.|[2403.18779](http://arxiv.org/abs/2403.18779)|null|
 |**2024-03-26**|**A unified framework for coarse grained molecular dynamics of proteins**|Jinzhen Zhu et.al.|[2403.17513](http://arxiv.org/abs/2403.17513)|null|
 |**2024-03-25**|**Phase separation dynamics in a symmetric binary mixture of ultrasoft particles**|Tanmay Biswas et.al.|[2403.16663](http://arxiv.org/abs/2403.16663)|null|
 |**2024-03-24**|**Isoleucine gate blocks K+ conduction in C-type inactivation**|Werner Treptow et.al.|[2403.16179](http://arxiv.org/abs/2403.16179)|null|
@@ -549,6 +551,50 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Is Modularity Transferable? A Case Study through the Lens of Knowledge Distillation**|Mateusz Klimaszewski et.al.|[2403.18804](http://arxiv.org/abs/2403.18804)|null|
+|**2024-03-27**|**Peregrine: ML-based Malicious Traffic Detection for Terabit Networks**|João Romeiras Amado et.al.|[2403.18788](http://arxiv.org/abs/2403.18788)|null|
+|**2024-03-27**|**Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray**|Guglielmo Gallone et.al.|[2403.18756](http://arxiv.org/abs/2403.18756)|null|
+|**2024-03-27**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread, Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755](http://arxiv.org/abs/2403.18755)|null|
+|**2024-03-27**|**A vascular synthetic model for improved aneurysm segmentation and detection via Deep Neural Networks**|Rafic Nader et.al.|[2403.18734](http://arxiv.org/abs/2403.18734)|null|
+|**2024-03-27**|**Phasing segmented telescopes via deep learning methods: application to a deployable CubeSat**|Maxime Dumont et.al.|[2403.18712](http://arxiv.org/abs/2403.18712)|null|
+|**2024-03-27**|**Deep Learning for Traffic Flow Prediction using Cellular Automata-based Model and CNN-LSTM architecture**|Zhaohui Yang et.al.|[2403.18710](http://arxiv.org/abs/2403.18710)|null|
+|**2024-03-27**|**Annolid: Annotate, Segment, and Track Anything You Need**|Chen Yang et.al.|[2403.18690](http://arxiv.org/abs/2403.18690)|null|
+|**2024-03-27**|**Deep Learning for Robust and Explainable Models in Computer Vision**|Mohammadreza Amirian et.al.|[2403.18674](http://arxiv.org/abs/2403.18674)|null|
+|**2024-03-27**|**Transformers-based architectures for stroke segmentation: A review**|Yalda Zafari-Ghadim et.al.|[2403.18637](http://arxiv.org/abs/2403.18637)|null|
+|**2024-03-27**|**A survey on learning models of spiking neural membrane systems and spiking neural networks**|Prithwineel Paul et.al.|[2403.18609](http://arxiv.org/abs/2403.18609)|null|
+|**2024-03-27**|**MisGUIDE : Defense Against Data-Free Deep Learning Model Extraction**|Mahendra Gurve et.al.|[2403.18580](http://arxiv.org/abs/2403.18580)|null|
+|**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|null|
+|**2024-03-27**|**PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction**|Yuxiang Zhao et.al.|[2403.18569](http://arxiv.org/abs/2403.18569)|null|
+|**2024-03-27**|**Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review**|Mohammadreza Amirian et.al.|[2403.18565](http://arxiv.org/abs/2403.18565)|null|
+|**2024-03-27**|**A Semi-supervised Nighttime Dehazing Baseline with Spatial-Frequency Aware and Realistic Brightness Constraint**|Xiaofeng Cong et.al.|[2403.18548](http://arxiv.org/abs/2403.18548)|**[link](https://github.com/xiaofeng-life/sfsnid)**|
+|**2024-03-27**|**Optimal Resource Efficiency with Fairness in Heterogeneous GPU Clusters**|Zizhao Mo et.al.|[2403.18545](http://arxiv.org/abs/2403.18545)|null|
+|**2024-03-27**|**Multi-View Deep Learning for Imaging Atmospheric Cherenkov Telescopes**|Hannes Warnhofer et.al.|[2403.18516](http://arxiv.org/abs/2403.18516)|null|
+|**2024-03-27**|**Direct mineral content prediction from drill core images via transfer learning**|Romana Boiger et.al.|[2403.18495](http://arxiv.org/abs/2403.18495)|null|
+|**2024-03-27**|**Impact of Employing Weather Forecast Data as Input to the Estimation of Evapotranspiration by Deep Neural Network Models**|Pedro J. Vaz et.al.|[2403.18489](http://arxiv.org/abs/2403.18489)|null|
+|**2024-03-27**|**DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face Forgery Analysis**|Zhongxi Chen et.al.|[2403.18471](http://arxiv.org/abs/2403.18471)|**[link](https://github.com/rapisurazurite/diffface)**|
+|**2024-03-27**|**Deep Learning Segmentation and Classification of Red Blood Cells Using a Large Multi-Scanner Dataset**|Mohamed Elmanna et.al.|[2403.18468](http://arxiv.org/abs/2403.18468)|null|
+|**2024-03-27**|**Global Vegetation Modeling with Pre-Trained Weather Transformers**|Pascal Janetzky et.al.|[2403.18438](http://arxiv.org/abs/2403.18438)|null|
+|**2024-03-27**|**Colour and Brush Stroke Pattern Recognition in Abstract Art using Modified Deep Convolutional Generative Adversarial Networks**|Srinitish Srinivasan et.al.|[2403.18397](http://arxiv.org/abs/2403.18397)|**[link](https://github.com/Deceptrax123/Pattern-Recognition-in-Abstract-art-)**|
+|**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370](http://arxiv.org/abs/2403.18370)|**[link](https://github.com/luigisigillo/shipinsight)**|
+|**2024-03-27**|**Supervised Multiple Kernel Learning approaches for multi-omics data integration**|Mitja Briscik et.al.|[2403.18355](http://arxiv.org/abs/2403.18355)|**[link](https://github.com/gabrieletaz/mkl_mo)**|
+|**2024-03-27**|**Evaluation of Semantic Search and its Role in Retrieved-Augmented-Generation (RAG) for Arabic Language**|Ali Mahboub et.al.|[2403.18350](http://arxiv.org/abs/2403.18350)|null|
+|**2024-03-27**|**The Artificial Neural Twin -- Process Optimization and Continual Learning in Distributed Process Chains**|Johannes Emmert et.al.|[2403.18343](http://arxiv.org/abs/2403.18343)|null|
+|**2024-03-27**|**Macroscale fracture surface segmentation via semi-supervised learning considering the structural similarity**|Johannes Rosenberger et.al.|[2403.18337](http://arxiv.org/abs/2403.18337)|null|
+|**2024-03-27**|**PIPNet3D: Interpretable Detection of Alzheimer in MRI Scans**|Lisa Anita De Santi et.al.|[2403.18328](http://arxiv.org/abs/2403.18328)|null|
+|**2024-03-27**|**A thermodynamically consistent physics-informed deep learning material model for short fiber/polymer nanocomposites**|Betim Bahtiri et.al.|[2403.18310](http://arxiv.org/abs/2403.18310)|null|
+|**2024-03-27**|**Identification and Uses of Deep Learning Backbones via Pattern Mining**|Michael Livanos et.al.|[2403.18278](http://arxiv.org/abs/2403.18278)|**[link](https://github.com/mlivanos/backbonessdm24)**|
+|**2024-03-27**|**A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements**|Darwin Alexander O. Co et.al.|[2403.18265](http://arxiv.org/abs/2403.18265)|null|
+|**2024-03-27**|**Benchmarking Image Transformers for Prostate Cancer Detection from Ultrasound Data**|Mohamed Harmanani et.al.|[2403.18233](http://arxiv.org/abs/2403.18233)|null|
+|**2024-03-27**|**A Transformer-Based Framework for Payload Malware Detection and Classification**|Kyle Stein et.al.|[2403.18223](http://arxiv.org/abs/2403.18223)|null|
+|**2024-03-27**|**Looking Beyond What You See: An Empirical Analysis on Subgroup Intersectional Fairness for Multi-label Chest X-ray Classification Using Social Determinants of Racial Health Inequities**|Dana Moukheiber et.al.|[2403.18196](http://arxiv.org/abs/2403.18196)|null|
+|**2024-03-27**|**Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples**|Ao Zhou et.al.|[2403.18192](http://arxiv.org/abs/2403.18192)|null|
+|**2024-03-27**|**Vision-Based Force Estimation for Minimally Invasive Telesurgery Through Contact Detection and Local Stiffness Models**|Shuyuan Yang et.al.|[2403.18172](http://arxiv.org/abs/2403.18172)|null|
+|**2024-03-26**|**QuakeSet: A Dataset and Low-Resource Models to Monitor Earthquakes through Sentinel-1**|Daniele Rege Cambrin et.al.|[2403.18116](http://arxiv.org/abs/2403.18116)|null|
+|**2024-03-26**|**A Personalized Video-Based Hand Taxonomy: Application for Individuals with Spinal Cord Injury**|Mehdy Dousty et.al.|[2403.18094](http://arxiv.org/abs/2403.18094)|null|
+|**2024-03-26**|**State of the art applications of deep learning within tracking and detecting marine debris: A survey**|Zoe Moorton et.al.|[2403.18067](http://arxiv.org/abs/2403.18067)|null|
+|**2024-03-26**|**Global Point Cloud Registration Network for Large Transformations**|Hanz Cuevas-Velasquez et.al.|[2403.18040](http://arxiv.org/abs/2403.18040)|null|
+|**2024-03-26**|**Cross-system biological image quality enhancement based on the generative adversarial network as a foundation for establishing a multi-institute microscopy cooperative network**|Dominik Panek et.al.|[2403.18026](http://arxiv.org/abs/2403.18026)|null|
+|**2024-03-26**|**DORE: A Dataset For Portuguese Definition Generation**|Anna Beatriz Dimas Furtado et.al.|[2403.18018](http://arxiv.org/abs/2403.18018)|null|
 |**2024-03-26**|**Towards Explaining Hypercomplex Neural Networks**|Eleonora Lopez et.al.|[2403.17929](http://arxiv.org/abs/2403.17929)|null|
 |**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909](http://arxiv.org/abs/2403.17909)|**[link](https://github.com/techmn/elgcnet)**|
 |**2024-03-26**|**Image-based Novel Fault Detection with Deep Learning Classifiers using Hierarchical Labels**|Nurettin Sergin et.al.|[2403.17891](http://arxiv.org/abs/2403.17891)|null|
