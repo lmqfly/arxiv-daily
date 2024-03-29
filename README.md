@@ -456,6 +456,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**MiMiC: A High-Performance Framework for Multiscale Molecular Dynamics Simulations**|Andrej Antalík et.al.|[2403.19035](http://arxiv.org/abs/2403.19035)|null|
 |**2024-03-27**|**IR Spectroscopy of Carboxylate-Passivated Semiconducting Nanocrystals: Simulation and Experiment**|Jakub K. Sowa et.al.|[2403.18779](http://arxiv.org/abs/2403.18779)|null|
 |**2024-03-26**|**A unified framework for coarse grained molecular dynamics of proteins**|Jinzhen Zhu et.al.|[2403.17513](http://arxiv.org/abs/2403.17513)|null|
 |**2024-03-25**|**Phase separation dynamics in a symmetric binary mixture of ultrasoft particles**|Tanmay Biswas et.al.|[2403.16663](http://arxiv.org/abs/2403.16663)|null|
@@ -571,6 +572,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**GrINd: Grid Interpolation Network for Scattered Observations**|Andrzej Dulny et.al.|[2403.19570](http://arxiv.org/abs/2403.19570)|null|
+|**2024-03-28**|**Debiasing Cardiac Imaging with Controlled Latent Diffusion Models**|Grzegorz Skorupko et.al.|[2403.19508](http://arxiv.org/abs/2403.19508)|null|
+|**2024-03-28**|**Deep decomposition method for the limited aperture inverse obstacle scattering problem**|Yunwen Yin et.al.|[2403.19470](http://arxiv.org/abs/2403.19470)|null|
+|**2024-03-28**|**Quantitatively rating galaxy simulations against real observations with anomaly detection**|Zehao Jin et.al.|[2403.19464](http://arxiv.org/abs/2403.19464)|null|
+|**2024-03-28**|**Transparent and Clinically Interpretable AI for Lung Cancer Detection in Chest X-Rays**|Amy Rafferty et.al.|[2403.19444](http://arxiv.org/abs/2403.19444)|null|
+|**2024-03-28**|**A Novel Stochastic Transformer-based Approach for Post-Traumatic Stress Disorder Detection using Audio Recording of Clinical Interviews**|Mamadou Dia et.al.|[2403.19441](http://arxiv.org/abs/2403.19441)|null|
+|**2024-03-28**|**NIGHT -- Non-Line-of-Sight Imaging from Indirect Time of Flight Data**|Matteo Caligiuri et.al.|[2403.19376](http://arxiv.org/abs/2403.19376)|null|
+|**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[2403.19366](http://arxiv.org/abs/2403.19366)|null|
+|**2024-03-28**|**Artificial Intelligence (AI) Based Prediction of Mortality, for COVID-19 Patients**|Mahbubunnabi Tamala et.al.|[2403.19355](http://arxiv.org/abs/2403.19355)|null|
+|**2024-03-28**|**Gain-Only Neural Operator Approximators of PDE Backstepping Controllers**|Rafael Vazquez et.al.|[2403.19344](http://arxiv.org/abs/2403.19344)|null|
+|**2024-03-28**|**Deep Learning-based Modulation Classification of Practical OFDM Signals for Spectrum Sensing**|Byungjun Kim et.al.|[2403.19292](http://arxiv.org/abs/2403.19292)|null|
+|**2024-03-28**|**MPXGAT: An Attention based Deep Learning Model for Multiplex Graphs Embedding**|Marco Bongiovanni et.al.|[2403.19246](http://arxiv.org/abs/2403.19246)|**[link](https://github.com/marcob46/mpxgat)**|
+|**2024-03-28**|**A piecewise neural network method for solving large interval solution to initial value problem of ordinary differential equations**|Dongpeng Han et.al.|[2403.19218](http://arxiv.org/abs/2403.19218)|null|
+|**2024-03-28**|**Deep CSI Compression for Dual-Polarized Massive MIMO Channels with Disentangled Representation Learning**|Suhang Fan et.al.|[2403.19185](http://arxiv.org/abs/2403.19185)|null|
+|**2024-03-28**|**Uncertainty-Aware Deep Video Compression with Ensembles**|Wufei Ma et.al.|[2403.19158](http://arxiv.org/abs/2403.19158)|null|
+|**2024-03-28**|**Patch Spatio-Temporal Relation Prediction for Video Anomaly Detection**|Hao Shen et.al.|[2403.19111](http://arxiv.org/abs/2403.19111)|null|
+|**2024-03-28**|**SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection**|Xin-Cheng Wen et.al.|[2403.19096](http://arxiv.org/abs/2403.19096)|null|
+|**2024-03-28**|**Improving Cancer Imaging Diagnosis with Bayesian Networks and Deep Learning: A Bayesian Deep Learning Approach**|Pei Xi et.al.|[2403.19083](http://arxiv.org/abs/2403.19083)|null|
+|**2024-03-28**|**Tiny Machine Learning: Progress and Futures**|Ji Lin et.al.|[2403.19076](http://arxiv.org/abs/2403.19076)|null|
+|**2024-03-28**|**Dataflow-Aware PIM-Enabled Manycore Architecture for Deep Learning Workloads**|Harsh Sharma et.al.|[2403.19073](http://arxiv.org/abs/2403.19073)|null|
+|**2024-03-27**|**Equity in Healthcare: Analyzing Disparities in Machine Learning Predictions of Diabetic Patient Readmissions**|Zainab Al-Zanbouri et.al.|[2403.19057](http://arxiv.org/abs/2403.19057)|null|
+|**2024-03-27**|**Quantum to Classical Neural Network Transfer Learning Applied to Drug Toxicity Prediction**|Anthony M. Smaldone et.al.|[2403.18997](http://arxiv.org/abs/2403.18997)|null|
+|**2024-03-27**|**Envisioning MedCLIP: A Deep Dive into Explainability for Medical Vision-Language Models**|Anees Ur Rehman Hashmi et.al.|[2403.18996](http://arxiv.org/abs/2403.18996)|null|
+|**2024-03-27**|**Causal-StoNet: Causal Inference for High-Dimensional Complex Data**|Yaxin Fang et.al.|[2403.18994](http://arxiv.org/abs/2403.18994)|null|
+|**2024-03-27**|**A Survey on Large Language Models from Concept to Implementation**|Chen Wang et.al.|[2403.18969](http://arxiv.org/abs/2403.18969)|null|
+|**2024-03-27**|**Neural Post-Einsteinian Framework for Efficient Theory-Agnostic Tests of General Relativity with Gravitational Waves**|Yiqi Xie et.al.|[2403.18936](http://arxiv.org/abs/2403.18936)|null|
+|**2024-03-26**|**Predicting risk of cardiovascular disease using retinal OCT imaging**|Cynthia Maldonado-Garcia et.al.|[2403.18873](http://arxiv.org/abs/2403.18873)|null|
+|**2024-03-26**|**Clinical Domain Knowledge-Derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification**|Han Yuan et.al.|[2403.18871](http://arxiv.org/abs/2403.18871)|null|
 |**2024-03-27**|**Is Modularity Transferable? A Case Study through the Lens of Knowledge Distillation**|Mateusz Klimaszewski et.al.|[2403.18804](http://arxiv.org/abs/2403.18804)|null|
 |**2024-03-27**|**Peregrine: ML-based Malicious Traffic Detection for Terabit Networks**|João Romeiras Amado et.al.|[2403.18788](http://arxiv.org/abs/2403.18788)|null|
 |**2024-03-27**|**Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray**|Guglielmo Gallone et.al.|[2403.18756](http://arxiv.org/abs/2403.18756)|null|
