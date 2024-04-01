@@ -696,7 +696,7 @@
 |**2024-03-25**|**Deep Learning Based Measure of Name Concentration Risk**|Eva Lütkebohmert et.al.|[2403.16525](http://arxiv.org/abs/2403.16525)|null|
 |**2024-03-25**|**Return to Tradition: Learning Reliable Heuristics with Classical Machine Learning**|Dillon Z. Chen et.al.|[2403.16508](http://arxiv.org/abs/2403.16508)|null|
 |**2024-03-25**|**Medical Image Registration and Its Application in Retinal Images: A Review**|Qiushi Nie et.al.|[2403.16502](http://arxiv.org/abs/2403.16502)|null|
-|**2024-03-25**|**Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models**|Mingyi Zhou et.al.|[2403.16479](http://arxiv.org/abs/2403.16479)|null|
+|**2024-03-25**|**Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models**|Mingyi Zhou et.al.|[2403.16479](http://arxiv.org/abs/2403.16479)|**[link](https://github.com/zhoumingyi/customdlcoder)**|
 |**2024-03-25**|**Plaintext-Free Deep Learning for Privacy-Preserving Medical Image Analysis via Frequency Information Embedding**|Mengyu Sun et.al.|[2403.16473](http://arxiv.org/abs/2403.16473)|null|
 |**2024-03-28**|**DeepMachining: Online Prediction of Machining Errors of Lathe Machines**|Xiang-Li Lu et.al.|[2403.16451](http://arxiv.org/abs/2403.16451)|null|
 |**2024-03-25**|**Real-Time Recognition of Vortex Beams Modes Through Random Diffusive at the Speed of Light**|Tong Fu et.al.|[2403.16420](http://arxiv.org/abs/2403.16420)|null|
@@ -726,7 +726,7 @@
 |**2024-03-23**|**MatchSeg: Towards Better Segmentation via Reference Image Matching**|Ruiqiang Xiao et.al.|[2403.15901](http://arxiv.org/abs/2403.15901)|**[link](https://github.com/keeplearning-again/matchseg)**|
 |**2024-03-23**|**A Deep Learning Architectures for Kidney Disease Classification**|Muhammad Shoaib Farooq et.al.|[2403.15895](http://arxiv.org/abs/2403.15895)|null|
 |**2024-03-23**|**An edge detection-based deep learning approach for tear meniscus height measurement**|Kesheng Wang et.al.|[2403.15853](http://arxiv.org/abs/2403.15853)|null|
-|**2024-03-23**|**VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Human Annotation-Free Pathological Image Classification**|Lanfeng Zhong et.al.|[2403.15836](http://arxiv.org/abs/2403.15836)|null|
+|**2024-03-23**|**VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Human Annotation-Free Pathological Image Classification**|Lanfeng Zhong et.al.|[2403.15836](http://arxiv.org/abs/2403.15836)|**[link](https://github.com/lanfz2000/vlm-cpl)**|
 |**2024-03-23**|**Graph Image Prior for Unsupervised Dynamic MRI Reconstruction**|Zhongsen Li et.al.|[2403.15770](http://arxiv.org/abs/2403.15770)|**[link](https://github.com/lizs17/gip_cardiac_mri)**|
 |**2024-03-23**|**BEND: Bagging Deep Learning Training Based on Efficient Neural Network Diffusion**|Jia Wei et.al.|[2403.15766](http://arxiv.org/abs/2403.15766)|null|
 |**2024-03-23**|**Deep Learning Approach to Forecasting COVID-19 Cases in Residential Buildings of Hong Kong Public Housing Estates: The Role of Environment and Sociodemographics**|E. Leung et.al.|[2403.15759](http://arxiv.org/abs/2403.15759)|null|
@@ -752,8 +752,8 @@
 |**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218](http://arxiv.org/abs/2403.15218)|**[link](https://github.com/um2ii/sam_dataannotation)**|
 |**2024-03-22**|**Your Image is My Video: Reshaping the Receptive Field via Image-To-Video Differentiable AutoAugmentation and Fusion**|Sofia Casarin et.al.|[2403.15194](http://arxiv.org/abs/2403.15194)|null|
 |**2024-03-22**|**Towards Deep Learning Enabled Cybersecurity Risk Assessment for Microservice Architectures**|Majid Abdulsatar et.al.|[2403.15169](http://arxiv.org/abs/2403.15169)|null|
-|**2024-03-22**|**An In-Depth Analysis of Data Reduction Methods for Sustainable Deep Learning**|Víctor Toscano-Durán et.al.|[2403.15150](http://arxiv.org/abs/2403.15150)|null|
-|**2024-03-22**|**On the Generalizability of Deep Learning-based Code Completion Across Programming Language Versions**|Matteo Ciniselli et.al.|[2403.15149](http://arxiv.org/abs/2403.15149)|null|
+|**2024-03-22**|**An In-Depth Analysis of Data Reduction Methods for Sustainable Deep Learning**|Víctor Toscano-Durán et.al.|[2403.15150](http://arxiv.org/abs/2403.15150)|**[link](https://github.com/cimagroup/surveygreenai)**|
+|**2024-03-22**|**On the Generalizability of Deep Learning-based Code Completion Across Programming Language Versions**|Matteo Ciniselli et.al.|[2403.15149](http://arxiv.org/abs/2403.15149)|**[link](https://github.com/java-generalization/java-generalization-replication)**|
 |**2024-03-22**|**Modular Deep Active Learning Framework for Image Annotation: A Technical Report for the Ophthalmo-AI Project**|Md Abdul Kadir et.al.|[2403.15143](http://arxiv.org/abs/2403.15143)|null|
 |**2024-03-22**|**Transfer CLIP for Generalizable Image Denoising**|Jun Cheng et.al.|[2403.15132](http://arxiv.org/abs/2403.15132)|null|
 |**2024-03-22**|**An Open-World, Diverse, Cross-Spatial-Temporal Benchmark for Dynamic Wild Person Re-Identification**|Lei Zhang et.al.|[2403.15119](http://arxiv.org/abs/2403.15119)|null|
@@ -772,7 +772,7 @@
 |**2024-03-21**|**Diffusion Attack: Leveraging Stable Diffusion for Naturalistic Image Attacking**|Qianyu Guo et.al.|[2403.14778](http://arxiv.org/abs/2403.14778)|null|
 |**2024-03-21**|**A task of anomaly detection for a smart satellite Internet of things system**|Zilong Shao et.al.|[2403.14738](http://arxiv.org/abs/2403.14738)|null|
 |**2024-03-21**|**FedMef: Towards Memory-efficient Federated Dynamic Pruning**|Hong Huang et.al.|[2403.14737](http://arxiv.org/abs/2403.14737)|null|
-|**2024-03-21**|**A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**|Qiushi Sun et.al.|[2403.14734](http://arxiv.org/abs/2403.14734)|null|
+|**2024-03-21**|**A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**|Qiushi Sun et.al.|[2403.14734](http://arxiv.org/abs/2403.14734)|**[link](https://github.com/qiushisun/ncisurvey)**|
 |**2024-03-21**|**Estimating Physical Information Consistency of Channel Data Augmentation for Remote Sensing Images**|Tom Burgert et.al.|[2403.14547](http://arxiv.org/abs/2403.14547)|null|
 |**2024-03-21**|**Universal Differential Equations as a Common Modeling Language for Neuroscience**|Ahmed ElGazzar et.al.|[2403.14510](http://arxiv.org/abs/2403.14510)|null|
 |**2024-03-21**|**Adversary-Robust Graph-Based Learning of WSIs**|Saba Heidari Gheshlaghi et.al.|[2403.14489](http://arxiv.org/abs/2403.14489)|null|
@@ -803,7 +803,7 @@
 |**2024-03-20**|**Practical End-to-End Optical Music Recognition for Pianoform Music**|Jiří Mayer et.al.|[2403.13763](http://arxiv.org/abs/2403.13763)|**[link](https://github.com/ufal/olimpic-icdar24)**|
 |**2024-03-20**|**Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning**|Raffaele Paolino et.al.|[2403.13749](http://arxiv.org/abs/2403.13749)|**[link](https://github.com/rpaolino/loopy)**|
 |**2024-03-23**|**Emotion Recognition Using Transformers with Masked Learning**|Seongjae Min et.al.|[2403.13731](http://arxiv.org/abs/2403.13731)|null|
-|**2024-03-20**|**M-HOF-Opt: Multi-Objective Hierarchical Output Feedback Optimization via Multiplier Induced Loss Landscape Scheduling**|Xudong Sun et.al.|[2403.13728](http://arxiv.org/abs/2403.13728)|null|
+|**2024-03-20**|**M-HOF-Opt: Multi-Objective Hierarchical Output Feedback Optimization via Multiplier Induced Loss Landscape Scheduling**|Xudong Sun et.al.|[2403.13728](http://arxiv.org/abs/2403.13728)|**[link](https://github.com/marrlab/domainlab)**|
 |**2024-03-20**|**Insight Into the Collocation of Multi-Source Satellite Imagery for Multi-Scale Vessel Detection**|Tran-Vu La et.al.|[2403.13698](http://arxiv.org/abs/2403.13698)|null|
 |**2024-03-20**|**Bridging deep learning force fields and electronic structures with a physics-informed approach**|Yubo Qi et.al.|[2403.13675](http://arxiv.org/abs/2403.13675)|**[link](https://github.com/yuboqiuab/multifunctional)**|
 |**2024-03-20**|**ZoDi: Zero-Shot Domain Adaptation with Diffusion-Based Image Transfer**|Hiroki Azuma et.al.|[2403.13652](http://arxiv.org/abs/2403.13652)|null|
@@ -820,7 +820,7 @@
 |**2024-03-20**|**Centroidal State Estimation based on the Koopman Embedding for Dynamic Legged Locomotion**|Shahram Khorshidi et.al.|[2403.13366](http://arxiv.org/abs/2403.13366)|null|
 |**2024-03-20**|**Bridging scales in multiscale bubble growth dynamics with correlated fluctuations using neural operator learning**|Minglei Lu et.al.|[2403.13299](http://arxiv.org/abs/2403.13299)|null|
 |**2024-03-19**|**Hermite coordinate interpolation kernels: application to image zooming**|Konstantinos K. Delibasis et.al.|[2403.13195](http://arxiv.org/abs/2403.13195)|null|
-|**2024-03-19**|**Predictive, scalable and interpretable knowledge tracing on structured domains**|Hanqi Zhou et.al.|[2403.13179](http://arxiv.org/abs/2403.13179)|null|
+|**2024-03-19**|**Predictive, scalable and interpretable knowledge tracing on structured domains**|Hanqi Zhou et.al.|[2403.13179](http://arxiv.org/abs/2403.13179)|**[link](https://github.com/mlcolab/psi-kt)**|
 |**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170](http://arxiv.org/abs/2403.13170)|null|
 |**2024-03-19**|**Improving tracking algorithms with machine learning: a case for line-segment tracking at the High Luminosity LHC**|Jonathan Guiang et.al.|[2403.13166](http://arxiv.org/abs/2403.13166)|null|
 |**2024-03-19**|**Robust NAS under adversarial training: benchmark, theory, and beyond**|Yongtao Wu et.al.|[2403.13134](http://arxiv.org/abs/2403.13134)|null|
@@ -851,7 +851,7 @@
 |**2024-03-19**|**Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing**|Zijian Zhao et.al.|[2403.12400](http://arxiv.org/abs/2403.12400)|**[link](https://github.com/rs2002/csi-bert)**|
 |**2024-03-19**|**Low-Trace Adaptation of Zero-shot Self-supervised Blind Image Denoising**|Jintong Hu et.al.|[2403.12382](http://arxiv.org/abs/2403.12382)|null|
 |**2024-03-19**|**Sim2Real in Reconstructive Spectroscopy: Deep Learning with Augmented Device-Informed Data Simulation**|Jiyi Chen et.al.|[2403.12354](http://arxiv.org/abs/2403.12354)|**[link](https://github.com/j1goblue/rec_spectrometer)**|
-|**2024-03-19**|**Friendly Sharpness-Aware Minimization**|Tao Li et.al.|[2403.12350](http://arxiv.org/abs/2403.12350)|null|
+|**2024-03-19**|**Friendly Sharpness-Aware Minimization**|Tao Li et.al.|[2403.12350](http://arxiv.org/abs/2403.12350)|**[link](https://github.com/nblt/f-sam)**|
 |**2024-03-19**|**Deep Few-view High-resolution Photon-counting Extremity CT at Halved Dose for a Clinical Trial**|Mengzhou Li et.al.|[2403.12331](http://arxiv.org/abs/2403.12331)|null|
 |**2024-03-18**|**Adaptive LPD Radar Waveform Design with Generative Deep Learning**|Matthew R. Ziemann et.al.|[2403.12254](http://arxiv.org/abs/2403.12254)|null|
 |**2024-03-18**|**Synthetic Image Generation in Cyber Influence Operations: An Emergent Threat?**|Melanie Mathys et.al.|[2403.12207](http://arxiv.org/abs/2403.12207)|null|
