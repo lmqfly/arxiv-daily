@@ -227,6 +227,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-directed Molecular Generation**|Jinyeong Park et.al.|[2403.20109](http://arxiv.org/abs/2403.20109)|**[link](https://github.com/DevSlem/Mol-AIR)**|
 |**2024-03-07**|**DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization**|Xiangxin Zhou et.al.|[2403.13829](http://arxiv.org/abs/2403.13829)|null|
 |**2024-03-20**|**Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model**|Peng Zhou et.al.|[2403.13244](http://arxiv.org/abs/2403.13244)|**[link](https://github.com/hhw-zhou/tsmmg)**|
 |**2024-03-14**|**Leap: molecular synthesisability scoring with intermediates**|Antonia Calvi et.al.|[2403.13005](http://arxiv.org/abs/2403.13005)|null|
@@ -332,6 +333,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**A Python library for efficient computation of molecular fingerprints**|Michał Szafarczyk et.al.|[2403.19718](http://arxiv.org/abs/2403.19718)|**[link](https://github.com/arch4ngel21/scikit-fingerprints)**|
 |**2024-03-10**|**Sort & Slice: A Simple and Superior Alternative to Hash-Based Folding for Extended-Connectivity Fingerprints**|Markus Dablander et.al.|[2403.17954](http://arxiv.org/abs/2403.17954)|null|
 |**2024-02-21**|**BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**|Xueliang Zhao et.al.|[2402.13577](http://arxiv.org/abs/2402.13577)|null|
 |**2024-02-20**|**Equivariant Pretrained Transformer for Unified Geometric Learning on Multi-Domain 3D Molecules**|Rui Jiao et.al.|[2402.12714](http://arxiv.org/abs/2402.12714)|null|
@@ -552,6 +554,39 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Localising the Seizure Onset Zone from Single-Pulse Electrical Stimulation Responses with a Transformer**|Jamie Norris et.al.|[2403.20324](http://arxiv.org/abs/2403.20324)|**[link](https://github.com/norrisjamie23/localising_soz_from_spes)**|
+|**2024-03-29**|**MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning**|Ahmed Agiza et.al.|[2403.20320](http://arxiv.org/abs/2403.20320)|**[link](https://github.com/scale-lab/mtlora)**|
+|**2024-03-29**|**CATSNet: a context-aware network for Height Estimation in a Forested Area based on Pol-TomoSAR data**|Wenyu Yang et.al.|[2403.20273](http://arxiv.org/abs/2403.20273)|null|
+|**2024-03-29**|**FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation**|Kaiyuan Gao et.al.|[2403.20261](http://arxiv.org/abs/2403.20261)|**[link](https://github.com/qizhipei/fabind)**|
+|**2024-03-29**|**Prototype-based Interpretable Breast Cancer Prediction Models: Analysis and Challenges**|Shreyasi Pathak et.al.|[2403.20260](http://arxiv.org/abs/2403.20260)|null|
+|**2024-03-29**|**MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation**|Taha Koleilat et.al.|[2403.20253](http://arxiv.org/abs/2403.20253)|null|
+|**2024-03-29**|**Shallow Cross-Encoders for Low-Latency Retrieval**|Aleksandr V. Petrov et.al.|[2403.20222](http://arxiv.org/abs/2403.20222)|**[link](https://github.com/asash/shallow-cross-encoders)**|
+|**2024-03-29**|**Minimizing End-to-End Latency for Joint Source-Channel Coding Systems**|Kaiyi Chi et.al.|[2403.20198](http://arxiv.org/abs/2403.20198)|null|
+|**2024-03-29**|**HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM**|Shuangjian Li et.al.|[2403.20183](http://arxiv.org/abs/2403.20183)|null|
+|**2024-03-29**|**TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods**|Xiangfei Qiu et.al.|[2403.20150](http://arxiv.org/abs/2403.20150)|**[link](https://github.com/decisionintelligence/tfb)**|
+|**2024-03-29**|**Sound event localization and classification using WASN in Outdoor Environment**|Dongzhe Zhang et.al.|[2403.20130](http://arxiv.org/abs/2403.20130)|null|
+|**2024-03-29**|**ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning**|Beomyoung Kim et.al.|[2403.20126](http://arxiv.org/abs/2403.20126)|**[link](https://github.com/clovaai/ECLIPSE)**|
+|**2024-03-29**|**Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring**|Hu Gao et.al.|[2403.20106](http://arxiv.org/abs/2403.20106)|null|
+|**2024-03-29**|**Colorful Cutout: Enhancing Image Data Augmentation with Curriculum Learning**|Juhwan Choi et.al.|[2403.20012](http://arxiv.org/abs/2403.20012)|null|
+|**2024-03-29**|**DeepHeteroIoT: Deep Local and Global Learning over Heterogeneous IoT Sensor Data**|Muhammad Sakib Khan Inan et.al.|[2403.19996](http://arxiv.org/abs/2403.19996)|null|
+|**2024-03-29**|**Multi-task Magnetic Resonance Imaging Reconstruction using Meta-learning**|Wanyu Bian et.al.|[2403.19966](http://arxiv.org/abs/2403.19966)|null|
+|**2024-03-29**|**FairCLIP: Harnessing Fairness in Vision-Language Learning**|Yan Luo et.al.|[2403.19949](http://arxiv.org/abs/2403.19949)|null|
+|**2024-03-29**|**TDANet: A Novel Temporal Denoise Convolutional Neural Network With Attention for Fault Diagnosis**|Zhongzhi Li et.al.|[2403.19943](http://arxiv.org/abs/2403.19943)|null|
+|**2024-03-29**|**Using Images as Covariates: Measuring Curb Appeal with Deep Learning**|Ardyn Nordstrom et.al.|[2403.19915](http://arxiv.org/abs/2403.19915)|null|
+|**2024-03-29**|**Automated Identification and Segmentation of Hi Sources in CRAFTS Using Deep Learning Method**|Zihao Song et.al.|[2403.19912](http://arxiv.org/abs/2403.19912)|**[link](https://github.com/fishszh/hisf)**|
+|**2024-03-29**|**Classification of Diabetic Retinopathy using Pre-Trained Deep Learning Models**|Inas Al-Kamachy et.al.|[2403.19905](http://arxiv.org/abs/2403.19905)|null|
+|**2024-03-29**|**Heterogeneous Network Based Contrastive Learning Method for PolSAR Land Cover Classification**|Jianfeng Cai et.al.|[2403.19902](http://arxiv.org/abs/2403.19902)|**[link](https://github.com/cai-jianfeng/HCLNet)**|
+|**2024-03-29**|**MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection**|Ali Behrouz et.al.|[2403.19888](http://arxiv.org/abs/2403.19888)|null|
+|**2024-03-28**|**Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks**|Pooria Ashrafian et.al.|[2403.19880](http://arxiv.org/abs/2403.19880)|**[link](https://github.com/pooria90/diffecho)**|
+|**2024-03-28**|**Is Synthetic Image Useful for Transfer Learning? An Investigation into Data Generation, Volume, and Utilization**|Yuhang Li et.al.|[2403.19866](http://arxiv.org/abs/2403.19866)|null|
+|**2024-03-28**|**Incubating Advances in Integrated Photonics with Emerging Sensing and Computational Capabilities**|Sourabh Jain et.al.|[2403.19850](http://arxiv.org/abs/2403.19850)|null|
+|**2024-03-28**|**The State of Lithium-Ion Battery Health Prognostics in the CPS Era**|Gaurav Shinde et.al.|[2403.19816](http://arxiv.org/abs/2403.19816)|null|
+|**2024-03-28**|**ENet-21: An Optimized light CNN Structure for Lane Detection**|Seyed Rasoul Hosseini et.al.|[2403.19782](http://arxiv.org/abs/2403.19782)|null|
+|**2024-03-28**|**CLoRA: A Contrastive Approach to Compose Multiple LoRA Models**|Tuna Han Salih Meral et.al.|[2403.19776](http://arxiv.org/abs/2403.19776)|null|
+|**2024-03-28**|**Hierarchical Deep Learning for Intention Estimation of Teleoperation Manipulation in Assembly Tasks**|Mingyu Cai et.al.|[2403.19770](http://arxiv.org/abs/2403.19770)|null|
+|**2024-03-28**|**Using Deep Learning to Increase Eye-Tracking Robustness, Accuracy, and Precision in Virtual Reality**|Kevin Barkevich et.al.|[2403.19768](http://arxiv.org/abs/2403.19768)|null|
+|**2024-03-28**|**IDP-Bert: Predicting Properties of Intrinsically Disordered Proteins (IDP) Using Large Language Models**|Parisa Mollaei et.al.|[2403.19762](http://arxiv.org/abs/2403.19762)|null|
+|**2024-03-28**|**Deep Learning Framework with Uncertainty Quantification for Survey Data: Assessing and Predicting Diabetes Mellitus Risk in the American Population**|Marcos Matabuena et.al.|[2403.19752](http://arxiv.org/abs/2403.19752)|null|
 |**2024-03-28**|**GrINd: Grid Interpolation Network for Scattered Observations**|Andrzej Dulny et.al.|[2403.19570](http://arxiv.org/abs/2403.19570)|null|
 |**2024-03-28**|**Debiasing Cardiac Imaging with Controlled Latent Diffusion Models**|Grzegorz Skorupko et.al.|[2403.19508](http://arxiv.org/abs/2403.19508)|**[link](https://github.com/faildeny/debiasing-cardiac-mri)**|
 |**2024-03-28**|**Deep decomposition method for the limited aperture inverse obstacle scattering problem**|Yunwen Yin et.al.|[2403.19470](http://arxiv.org/abs/2403.19470)|null|
@@ -900,6 +935,7 @@ layout: default
 |**2024-03-28**|**Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design**|Hannes Stärk et.al.|[2310.05764](http://arxiv.org/abs/2310.05764)|**[link](https://github.com/hannesstark/flowsite)**|
 |**2024-02-11**|**PGraphDTA: Improving Drug Target Interaction Prediction using Protein Language Models and Contact Maps**|Rakesh Bal et.al.|[2310.04017](http://arxiv.org/abs/2310.04017)|**[link](https://github.com/yijia-xiao/pgraphdta)**|
 |**2024-02-12**|**Improved prediction of ligand-protein binding affinities by meta-modeling**|Ho-Joon Lee et.al.|[2310.03946](http://arxiv.org/abs/2310.03946)|**[link](https://github.com/lee1701/lee2023a)**|
+|**2024-03-29**|**TacoGFN: Target-conditioned GFlowNet for Structure-based Drug Design**|Tony Shen et.al.|[2310.03223](http://arxiv.org/abs/2310.03223)|null|
 |**2023-10-03**|**Controlling the size and adhesion of DNA droplets using surface-active DNA molecules**|Daqian Gao et.al.|[2310.02425](http://arxiv.org/abs/2310.02425)|null|
 |**2023-12-18**|**PharmacoNet: Accelerating Large-Scale Virtual Screening by Deep Pharmacophore Modeling**|Seonghwan Seo et.al.|[2310.00681](http://arxiv.org/abs/2310.00681)|**[link](https://github.com/seonghwanseo/molvoxel)**|
 |**2023-08-02**|**Target-aware Variational Auto-encoders for Ligand Generation with Multimodal Protein Representation Learning**|Nhat Khang Ngo et.al.|[2309.16685](http://arxiv.org/abs/2309.16685)|**[link](https://github.com/hysonlab/ligand_generation)**|
@@ -911,6 +947,7 @@ layout: default
 |**2023-08-04**|**Delete: Deep Lead Optimization Enveloped in Protein Pocket through Unified Deleting Strategies and a Structure-aware Network**|Haotian Zhang et.al.|[2308.02172](http://arxiv.org/abs/2308.02172)|null|
 |**2023-09-15**|**Transferable Graph Neural Fingerprint Models for Quick Response to Future Bio-Threats**|Wei Chen et.al.|[2308.01921](http://arxiv.org/abs/2308.01921)|**[link](https://github.com/BC3D/BC3D_2021)**|
 |**2023-07-29**|**Developing novel ligands with enhanced binding affinity for the sphingosine 1-phosphate receptor 1 using machine learning**|Colin Zhang et.al.|[2307.16037](http://arxiv.org/abs/2307.16037)|null|
+|**2024-03-28**|**Design principles of transcription factors with intrinsically disordered regions**|Wencheng Ji et.al.|[2307.11180](http://arxiv.org/abs/2307.11180)|null|
 |**2023-07-18**|**GraphCL-DTA: a graph contrastive learning with molecular semantics for drug-target binding affinity prediction**|Xinxing Yang et.al.|[2307.08989](http://arxiv.org/abs/2307.08989)|null|
 |**2023-07-09**|**Profiling Of Volatiles In Tissues Of Salacia Reticulata Wight. With Anti-Diabetic Potential Using GC-MS And Molecular Docking**|Anurabh Charkravarty et.al.|[2307.04109](http://arxiv.org/abs/2307.04109)|null|
 |**2023-07-17**|**PIGNet2: A Versatile Deep Learning-based Protein-Ligand Interaction Prediction Model for Binding Affinity Scoring and Virtual Screening**|Seokhyun Moon et.al.|[2307.01066](http://arxiv.org/abs/2307.01066)|**[link](https://github.com/ace-kaist/pignet2)**|
