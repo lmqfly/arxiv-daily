@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.31
+## Updated on 2024.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -245,7 +245,7 @@ layout: default
 |**2023-12-21**|**De novo Drug Design using Reinforcement Learning with Multiple GPT Agents**|Xiuyuan Hu et.al.|[2401.06155](http://arxiv.org/abs/2401.06155)|**[link](https://github.com/hxyfighter/molrl-mgpt)**|
 |**2023-11-21**|**nach0: Multimodal Natural and Chemical Languages Foundation Model**|Micha Livne et.al.|[2311.12410](http://arxiv.org/abs/2311.12410)|null|
 |**2023-11-02**|**Investigating the Behavior of Diffusion Models for Accelerating Electronic Structure Calculations**|Daniel Rothchild et.al.|[2311.01491](http://arxiv.org/abs/2311.01491)|null|
-|**2023-12-20**|**TacoGFN: Target Conditioned GFlowNet for Structure-Based Drug Design**|Tony Shen et.al.|[2310.03223](http://arxiv.org/abs/2310.03223)|null|
+|**2024-03-29**|**TacoGFN: Target-conditioned GFlowNet for Structure-based Drug Design**|Tony Shen et.al.|[2310.03223](http://arxiv.org/abs/2310.03223)|null|
 |**2024-02-06**|**Drug Discovery with Dynamic Goal-aware Fragments**|Seul Lee et.al.|[2310.00841](http://arxiv.org/abs/2310.00841)|null|
 |**2023-09-28**|**Compositional Sculpting of Iterative Generative Processes**|Timur Garipov et.al.|[2309.16115](http://arxiv.org/abs/2309.16115)|null|
 |**2024-03-03**|**Beam Enumeration: Probabilistic Explainability For Sample Efficient Self-conditioned Molecular Design**|Jeff Guo et.al.|[2309.13957](http://arxiv.org/abs/2309.13957)|**[link](https://github.com/schwallergroup/augmented_memory)**|
@@ -897,7 +897,7 @@ layout: default
 |**2024-03-07**|**ProFSA: Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment**|Bowen Gao et.al.|[2310.07229](http://arxiv.org/abs/2310.07229)|null|
 |**2024-01-09**|**FABind: Fast and Accurate Protein-Ligand Binding**|Qizhi Pei et.al.|[2310.06763](http://arxiv.org/abs/2310.06763)|**[link](https://github.com/qizhipei/fabind)**|
 |**2023-10-10**|**DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**|Bowen Gao et.al.|[2310.06367](http://arxiv.org/abs/2310.06367)|null|
-|**2023-11-04**|**Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design**|Hannes Stärk et.al.|[2310.05764](http://arxiv.org/abs/2310.05764)|**[link](https://github.com/hannesstark/flowsite)**|
+|**2024-03-28**|**Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design**|Hannes Stärk et.al.|[2310.05764](http://arxiv.org/abs/2310.05764)|**[link](https://github.com/hannesstark/flowsite)**|
 |**2024-02-11**|**PGraphDTA: Improving Drug Target Interaction Prediction using Protein Language Models and Contact Maps**|Rakesh Bal et.al.|[2310.04017](http://arxiv.org/abs/2310.04017)|**[link](https://github.com/yijia-xiao/pgraphdta)**|
 |**2024-02-12**|**Improved prediction of ligand-protein binding affinities by meta-modeling**|Ho-Joon Lee et.al.|[2310.03946](http://arxiv.org/abs/2310.03946)|**[link](https://github.com/lee1701/lee2023a)**|
 |**2023-10-03**|**Controlling the size and adhesion of DNA droplets using surface-active DNA molecules**|Daqian Gao et.al.|[2310.02425](http://arxiv.org/abs/2310.02425)|null|
