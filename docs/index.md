@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.01
+## Updated on 2024.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -605,7 +605,7 @@ layout: default
 |**2024-03-28**|**Patch Spatio-Temporal Relation Prediction for Video Anomaly Detection**|Hao Shen et.al.|[2403.19111](http://arxiv.org/abs/2403.19111)|null|
 |**2024-03-28**|**SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection**|Xin-Cheng Wen et.al.|[2403.19096](http://arxiv.org/abs/2403.19096)|null|
 |**2024-03-28**|**Improving Cancer Imaging Diagnosis with Bayesian Networks and Deep Learning: A Bayesian Deep Learning Approach**|Pei Xi et.al.|[2403.19083](http://arxiv.org/abs/2403.19083)|null|
-|**2024-03-28**|**Tiny Machine Learning: Progress and Futures**|Ji Lin et.al.|[2403.19076](http://arxiv.org/abs/2403.19076)|null|
+|**2024-03-29**|**Tiny Machine Learning: Progress and Futures**|Ji Lin et.al.|[2403.19076](http://arxiv.org/abs/2403.19076)|null|
 |**2024-03-28**|**Dataflow-Aware PIM-Enabled Manycore Architecture for Deep Learning Workloads**|Harsh Sharma et.al.|[2403.19073](http://arxiv.org/abs/2403.19073)|null|
 |**2024-03-27**|**Equity in Healthcare: Analyzing Disparities in Machine Learning Predictions of Diabetic Patient Readmissions**|Zainab Al-Zanbouri et.al.|[2403.19057](http://arxiv.org/abs/2403.19057)|null|
 |**2024-03-27**|**Quantum to Classical Neural Network Transfer Learning Applied to Drug Toxicity Prediction**|Anthony M. Smaldone et.al.|[2403.18997](http://arxiv.org/abs/2403.18997)|**[link](https://github.com/anthonysmaldone/quantum-to-classical-transfer-learning)**|
