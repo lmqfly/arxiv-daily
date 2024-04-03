@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.02
+## Updated on 2024.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -462,7 +462,7 @@ layout: default
 |**2024-03-18**|**Grain Boundary Defect Production during Successive Displacement Cascades on a Tungsten Surface**|Yang Zhang et.al.|[2403.12261](http://arxiv.org/abs/2403.12261)|null|
 |**2024-03-18**|**Primary Defect Production in Doped Iron Grain Boundaries during Low Energy Collision Cascades**|Yang Zhang et.al.|[2403.12257](http://arxiv.org/abs/2403.12257)|null|
 |**2024-03-18**|**Microscopic derivation of the thin film equation using the Mori-Zwanzig formalism**|Michael te Vrugt et.al.|[2403.12253](http://arxiv.org/abs/2403.12253)|null|
-|**2024-03-18**|**Exploring Conformational Landscapes Along Anharmonic Low-Frequency Vibrations**|Michael A. Sauer et.al.|[2403.12174](http://arxiv.org/abs/2403.12174)|null|
+|**2024-04-01**|**Exploring Conformational Landscapes Along Anharmonic Low-Frequency Vibrations**|Souvik Mondal et.al.|[2403.12174](http://arxiv.org/abs/2403.12174)|null|
 |**2024-03-18**|**Mineral and cross-linking in collagen fibrils: The mechanical behavior of bone tissue at the nano-scale**|Julia Kamml et.al.|[2403.11753](http://arxiv.org/abs/2403.11753)|null|
 |**2024-03-18**|**Surface hopping molecular dynamics simulation of ultrafast methyl iodide photodissociation mapped by Coulomb explosion imaging**|Yijue Ding et.al.|[2403.11592](http://arxiv.org/abs/2403.11592)|null|
 |**2024-03-15**|**Good rates from bad coordinates: the exponential average time-dependent rate approach**|Nicodemo Mazzaferro et.al.|[2403.10668](http://arxiv.org/abs/2403.10668)|null|
@@ -647,7 +647,7 @@ layout: default
 |**2024-03-27**|**PIPNet3D: Interpretable Detection of Alzheimer in MRI Scans**|Lisa Anita De Santi et.al.|[2403.18328](http://arxiv.org/abs/2403.18328)|null|
 |**2024-03-27**|**A thermodynamically consistent physics-informed deep learning material model for short fiber/polymer nanocomposites**|Betim Bahtiri et.al.|[2403.18310](http://arxiv.org/abs/2403.18310)|null|
 |**2024-03-27**|**Identification and Uses of Deep Learning Backbones via Pattern Mining**|Michael Livanos et.al.|[2403.18278](http://arxiv.org/abs/2403.18278)|**[link](https://github.com/mlivanos/backbonessdm24)**|
-|**2024-03-27**|**A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements**|Darwin Alexander O. Co et.al.|[2403.18265](http://arxiv.org/abs/2403.18265)|**[link](https://github.com/darwinnerco/dnn-for-ts-vs-poles)**|
+|**2024-04-02**|**A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements**|Darwin Alexander O. Co et.al.|[2403.18265](http://arxiv.org/abs/2403.18265)|**[link](https://github.com/darwinnerco/dnn-for-ts-vs-poles)**|
 |**2024-03-27**|**Benchmarking Image Transformers for Prostate Cancer Detection from Ultrasound Data**|Mohamed Harmanani et.al.|[2403.18233](http://arxiv.org/abs/2403.18233)|null|
 |**2024-03-27**|**A Transformer-Based Framework for Payload Malware Detection and Classification**|Kyle Stein et.al.|[2403.18223](http://arxiv.org/abs/2403.18223)|null|
 |**2024-03-27**|**Looking Beyond What You See: An Empirical Analysis on Subgroup Intersectional Fairness for Multi-label Chest X-ray Classification Using Social Determinants of Racial Health Inequities**|Dana Moukheiber et.al.|[2403.18196](http://arxiv.org/abs/2403.18196)|null|
