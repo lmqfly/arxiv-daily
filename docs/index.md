@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -567,7 +567,7 @@ layout: default
 |**2024-04-02**|**Towards Leveraging AutoML for Sustainable Deep Learning: A Multi-Objective HPO Approach on Deep Shift Neural Networks**|Leona Hennig et.al.|[2404.01965](http://arxiv.org/abs/2404.01965)|null|
 |**2024-04-02**|**Automatic Wood Pith Detector: Local Orientation Estimation and Robust Accumulation**|Henry Marichal et.al.|[2404.01952](http://arxiv.org/abs/2404.01952)|**[link](https://github.com/hmarichal93/apd)**|
 |**2024-04-02**|**Synthetic Data for Robust Stroke Segmentation**|Liam Chalcroft et.al.|[2404.01946](http://arxiv.org/abs/2404.01946)|**[link](https://github.com/liamchalcroft/synthstroke)**|
-|**2024-04-02**|**Real, fake and synthetic faces - does the coin have three sides?**|Shahzeb Naeem et.al.|[2404.01878](http://arxiv.org/abs/2404.01878)|null|
+|**2024-04-02**|**Real, fake and synthetic faces -- does the coin have three sides?**|Shahzeb Naeem et.al.|[2404.01878](http://arxiv.org/abs/2404.01878)|null|
 |**2024-04-02**|**Spectral Map: Embedding Slow Kinetics in Collective Variables**|Jakub Rydzewski et.al.|[2404.01809](http://arxiv.org/abs/2404.01809)|null|
 |**2024-04-02**|**Guidelines for Cerebrovascular Segmentation: Managing Imperfect Annotations in the context of Semi-Supervised Learning**|Pierre Rougé et.al.|[2404.01765](http://arxiv.org/abs/2404.01765)|null|
 |**2024-04-02**|**Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning**|Joshua Dimasaka et.al.|[2404.01748](http://arxiv.org/abs/2404.01748)|null|
@@ -659,7 +659,7 @@ layout: default
 |**2024-03-29**|**Heterogeneous Network Based Contrastive Learning Method for PolSAR Land Cover Classification**|Jianfeng Cai et.al.|[2403.19902](http://arxiv.org/abs/2403.19902)|**[link](https://github.com/cai-jianfeng/HCLNet)**|
 |**2024-03-29**|**MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection**|Ali Behrouz et.al.|[2403.19888](http://arxiv.org/abs/2403.19888)|null|
 |**2024-03-28**|**Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks**|Pooria Ashrafian et.al.|[2403.19880](http://arxiv.org/abs/2403.19880)|**[link](https://github.com/pooria90/diffecho)**|
-|**2024-03-28**|**Is Synthetic Image Useful for Transfer Learning? An Investigation into Data Generation, Volume, and Utilization**|Yuhang Li et.al.|[2403.19866](http://arxiv.org/abs/2403.19866)|null|
+|**2024-04-02**|**Is Synthetic Image Useful for Transfer Learning? An Investigation into Data Generation, Volume, and Utilization**|Yuhang Li et.al.|[2403.19866](http://arxiv.org/abs/2403.19866)|null|
 |**2024-03-28**|**Incubating Advances in Integrated Photonics with Emerging Sensing and Computational Capabilities**|Sourabh Jain et.al.|[2403.19850](http://arxiv.org/abs/2403.19850)|null|
 |**2024-03-28**|**The State of Lithium-Ion Battery Health Prognostics in the CPS Era**|Gaurav Shinde et.al.|[2403.19816](http://arxiv.org/abs/2403.19816)|null|
 |**2024-03-28**|**ENet-21: An Optimized light CNN Structure for Lane Detection**|Seyed Rasoul Hosseini et.al.|[2403.19782](http://arxiv.org/abs/2403.19782)|null|
@@ -974,7 +974,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-02**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
+|**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
 |**2024-03-25**|**Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization**|Xiangxin Zhou et.al.|[2403.16576](http://arxiv.org/abs/2403.16576)|null|
 |**2024-03-07**|**DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization**|Xiangxin Zhou et.al.|[2403.13829](http://arxiv.org/abs/2403.13829)|null|
 |**2024-03-19**|**Elucidating the Nature of $π$ -hydrogen Bonding in Liquid Water and Ammonia**|Krystof Brezina et.al.|[2403.12937](http://arxiv.org/abs/2403.12937)|null|
