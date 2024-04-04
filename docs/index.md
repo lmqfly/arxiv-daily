@@ -443,6 +443,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**A Framework for a High Throughput Screening Method to Assess Polymer/Plasticizer Miscibility**|Lois Smith et.al.|[2404.02676](http://arxiv.org/abs/2404.02676)|null|
+|**2024-04-03**|**Bacterial cell death: Atomistic simulations reveal pore formation as a mode of action of structurally nano engineered star peptide polymers**|Amal Jayawardena et.al.|[2404.02501](http://arxiv.org/abs/2404.02501)|null|
 |**2024-04-02**|**Equilibrium and Non-Equilibrium Molecular Dynamics Simulation of Thermo-Osmosis: Enhanced Effects on Polarized Graphene Surfaces**|Mehdi Ouadfel et.al.|[2404.01708](http://arxiv.org/abs/2404.01708)|null|
 |**2024-04-01**|**Comment on "Brownian motion of droplets induced by thermal noise"**|J. B. Bell et.al.|[2404.01444](http://arxiv.org/abs/2404.01444)|null|
 |**2024-04-01**|**The curious case of A31P, a topology-switching mutant of the Repressor of Primer protein : A molecular dynamics study of its folding and misfolding**|Olympia-Dialekti Vouzina et.al.|[2404.01405](http://arxiv.org/abs/2404.01405)|null|
@@ -562,6 +564,43 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Deep Image Composition Meets Image Forgery**|Eren Tahir et.al.|[2404.02897](http://arxiv.org/abs/2404.02897)|**[link](https://github.com/99eren99/dis25k)**|
+|**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877](http://arxiv.org/abs/2404.02877)|**[link](https://github.com/toelt-llc/flightscope_bench)**|
+|**2024-04-03**|**Enhancing Interpretability of Vertebrae Fracture Grading using Human-interpretable Prototypes**|Poulami Sinhamahapatra et.al.|[2404.02830](http://arxiv.org/abs/2404.02830)|null|
+|**2024-04-03**|**AQuA -- Combining Experts' and Non-Experts' Views To Assess Deliberation Quality in Online Discussions Using LLMs**|Maike Behrendt et.al.|[2404.02761](http://arxiv.org/abs/2404.02761)|null|
+|**2024-04-03**|**Mixing Individual and Collective Behaviours to Predict Out-of-Routine Mobility**|Sebastiano Bontorin et.al.|[2404.02740](http://arxiv.org/abs/2404.02740)|null|
+|**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
+|**2024-04-03**|**Can We Understand Plasticity Through Neural Collapse?**|Guglielmo Bonifazi et.al.|[2404.02719](http://arxiv.org/abs/2404.02719)|**[link](https://github.com/gianhess/dl_project)**|
+|**2024-04-03**|**A Satellite Band Selection Framework for Amazon Forest Deforestation Detection Task**|Eduardo Neto et.al.|[2404.02659](http://arxiv.org/abs/2404.02659)|null|
+|**2024-04-03**|**A Universal Deep Neural Network for Signal Detection in Wireless Communication Systems**|Khalid Albagami et.al.|[2404.02648](http://arxiv.org/abs/2404.02648)|null|
+|**2024-04-03**|**Ensemble Deep Learning for enhanced seismic data reconstruction**|Mohammad Mahdi Abedi et.al.|[2404.02632](http://arxiv.org/abs/2404.02632)|null|
+|**2024-04-03**|**A Differentiable Integer Linear Programming Solver for Explanation-Based Natural Language Inference**|Mokanarangan Thayaparan et.al.|[2404.02625](http://arxiv.org/abs/2404.02625)|null|
+|**2024-04-03**|**Vestibular schwannoma growth_prediction from longitudinal MRI by time conditioned neural fields**|Yunjie Chen et.al.|[2404.02614](http://arxiv.org/abs/2404.02614)|**[link](https://github.com/cyjdswx/deepgrowth)**|
+|**2024-04-03**|**Deep learning for flow observables in high energy heavy-ion collisions**|H. Hirvonen et.al.|[2404.02602](http://arxiv.org/abs/2404.02602)|null|
+|**2024-04-03**|**Active learning for efficient annotation in precision agriculture: a use-case on crop-weed semantic segmentation**|Bart M. van Marrewijk et.al.|[2404.02580](http://arxiv.org/abs/2404.02580)|null|
+|**2024-04-03**|**Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones**|Luca Crupi et.al.|[2404.02567](http://arxiv.org/abs/2404.02567)|null|
+|**2024-04-03**|**Representation Alignment Contrastive Regularization for Multi-Object Tracking**|Shujie Chen et.al.|[2404.02562](http://arxiv.org/abs/2404.02562)|null|
+|**2024-04-03**|**An Interpretable Power System Transient Stability Assessment Method with Expert Guiding Neural-Regression-Tree**|Hanxuan Wang et.al.|[2404.02555](http://arxiv.org/abs/2404.02555)|null|
+|**2024-04-03**|**Solar synthetic imaging: Introducing denoising diffusion probabilistic models on SDO/AIA data**|Francesco P. Ramunno et.al.|[2404.02552](http://arxiv.org/abs/2404.02552)|null|
+|**2024-04-03**|**Computationally Efficient Unsupervised Deep Learning for Robust Joint AP Clustering and Beamforming Design in Cell-Free Systems**|Guanghui Chen et.al.|[2404.02531](http://arxiv.org/abs/2404.02531)|null|
+|**2024-04-03**|**A Neural Multigrid Solver for Helmholtz Equations with High Wavenumber and Heterogeneous Media**|Chen Cui et.al.|[2404.02493](http://arxiv.org/abs/2404.02493)|null|
+|**2024-04-03**|**New methods for drug synergy prediction**|Fatemeh Abbasi et.al.|[2404.02484](http://arxiv.org/abs/2404.02484)|null|
+|**2024-04-03**|**SSwsrNet: A Semi-Supervised Few-Shot Learning Framework for Wireless Signal Recognition**|Hao Zhang et.al.|[2404.02467](http://arxiv.org/abs/2404.02467)|null|
+|**2024-04-03**|**TSNet:A Two-stage Network for Image Dehazing with Multi-scale Fusion and Adaptive Learning**|Xiaolin Gong et.al.|[2404.02460](http://arxiv.org/abs/2404.02460)|null|
+|**2024-04-03**|**MOPAR: A Model Partitioning Framework for Deep Learning Inference Services on Serverless Platforms**|Jiaang Duan et.al.|[2404.02445](http://arxiv.org/abs/2404.02445)|null|
+|**2024-04-03**|**A neuroergonomics model to evaluating nuclear power plants operators' performance under heat stress driven by ECG time-frequency spectrums and fNIRS prefrontal cortex network: a CNN-GAT fusion model**|Yan Zhang et.al.|[2404.02439](http://arxiv.org/abs/2404.02439)|null|
+|**2024-04-03**|**APC2Mesh: Bridging the gap from occluded building façades to full 3D models**|Perpetual Hope Akwensi et.al.|[2404.02391](http://arxiv.org/abs/2404.02391)|null|
+|**2024-04-03**|**Inline AI: Open-source Deep Learning Inference for Cardiac MR**|Hui Xue et.al.|[2404.02384](http://arxiv.org/abs/2404.02384)|null|
+|**2024-04-02**|**Semantic Augmentation in Images using Language**|Sahiti Yerramilli et.al.|[2404.02353](http://arxiv.org/abs/2404.02353)|null|
+|**2024-04-02**|**COVID-19 Detection Based on Blood Test Parameters using Various Artificial Intelligence Methods**|Kavian Khanjani et.al.|[2404.02348](http://arxiv.org/abs/2404.02348)|null|
+|**2024-04-02**|**Improved model-free bounds for multi-asset options using option-implied information and deep learning**|Evangelia Dragazi et.al.|[2404.02343](http://arxiv.org/abs/2404.02343)|null|
+|**2024-04-02**|**Unmasking Correlations in Nuclear Cross Sections with Graph Neural Networks**|Sinjini Mitra et.al.|[2404.02332](http://arxiv.org/abs/2404.02332)|null|
+|**2024-04-02**|**Smooth Deep Saliency**|Rudolf Herdt et.al.|[2404.02282](http://arxiv.org/abs/2404.02282)|null|
+|**2024-04-02**|**CHOSEN: Contrastive Hypothesis Selection for Multi-View Depth Refinement**|Di Qiu et.al.|[2404.02225](http://arxiv.org/abs/2404.02225)|null|
+|**2024-04-02**|**Insights from the Use of Previously Unseen Neural Architecture Search Datasets**|Rob Geada et.al.|[2404.02189](http://arxiv.org/abs/2404.02189)|null|
+|**2024-04-02**|**A Generative Deep Learning Approach for Crash Severity Modeling with Imbalanced Data**|Junlan Chen et.al.|[2404.02187](http://arxiv.org/abs/2404.02187)|null|
+|**2024-04-02**|**Remote sensing framework for geological mapping via stacked autoencoders and clustering**|Sandeep Nagar et.al.|[2404.02180](http://arxiv.org/abs/2404.02180)|null|
+|**2024-04-01**|**Exploring Quantum-Enhanced Machine Learning for Computer Vision: Applications and Insights on Noisy Intermediate-Scale Quantum Devices**|Purnachandra Mandadapu et.al.|[2404.02177](http://arxiv.org/abs/2404.02177)|null|
 |**2024-04-02**|**Deep Learning for AGILE Anticoincidence System's Background Prediction from Orbital and Attitude Parameters**|N. Parmiggiani et.al.|[2404.02107](http://arxiv.org/abs/2404.02107)|null|
 |**2024-04-02**|**BERTopic-Driven Stock Market Predictions: Unraveling Sentiment Insights**|Enmin Zhu et.al.|[2404.02053](http://arxiv.org/abs/2404.02053)|null|
 |**2024-04-02**|**Towards Leveraging AutoML for Sustainable Deep Learning: A Multi-Objective HPO Approach on Deep Shift Neural Networks**|Leona Hennig et.al.|[2404.01965](http://arxiv.org/abs/2404.01965)|null|
@@ -578,7 +617,7 @@ layout: default
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690](http://arxiv.org/abs/2404.01690)|null|
 |**2024-04-02**|**Automating Vessel Segmentation in the Heart and Brain: A Trend to Develop Multi-Modality and Label-Efficient Deep Learning Techniques**|Nazik Elsayed et.al.|[2404.01671](http://arxiv.org/abs/2404.01671)|null|
 |**2024-04-02**|**Intelligent Optimization of Mine Environmental Damage Assessment and Repair Strategies Based on Deep Learning**|Qishuo Cheng et.al.|[2404.01624](http://arxiv.org/abs/2404.01624)|null|
-|**2024-04-02**|**WaveDH: Wavelet Sub-bands Guided ConvNet for Efficient Image Dehazing**|Seongmin Hwang et.al.|[2404.01604](http://arxiv.org/abs/2404.01604)|null|
+|**2024-04-02**|**WaveDH: Wavelet Sub-bands Guided ConvNet for Efficient Image Dehazing**|Seongmin Hwang et.al.|[2404.01604](http://arxiv.org/abs/2404.01604)|**[link](https://github.com/awesomehwang/wavedh)**|
 |**2024-04-02**|**Leveraging YOLO-World and GPT-4V LMMs for Zero-Shot Person Detection and Action Recognition in Drone Imagery**|Christian Limberg et.al.|[2404.01571](http://arxiv.org/abs/2404.01571)|null|
 |**2024-04-01**|**Categorical semiotics: Foundations for Knowledge Integration**|Carlos Leandro et.al.|[2404.01526](http://arxiv.org/abs/2404.01526)|null|
 |**2024-04-01**|**Can Biases in ImageNet Models Explain Generalization?**|Paul Gavrikov et.al.|[2404.01509](http://arxiv.org/abs/2404.01509)|**[link](https://github.com/paulgavrikov/biases_vs_generalization)**|
