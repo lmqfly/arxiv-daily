@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Drug-target interaction prediction by integrating heterogeneous information with mutual attention network**|Yuanyuan Zhang et.al.|[2404.03516](http://arxiv.org/abs/2404.03516)|null|
 |**2024-03-22**|**Self-Consistent Atmosphere Representation and Interaction in Photon Monte Carlo Simulations**|J. R. Peterson et.al.|[2403.15562](http://arxiv.org/abs/2403.15562)|null|
 |**2024-03-26**|**NaNa and MiGu: Semantic Data Augmentation Techniques to Enhance Protein Classification in Graph Neural Networks**|Yi-Shan Lan et.al.|[2403.14736](http://arxiv.org/abs/2403.14736)|**[link](https://github.com/r08b46009/code_for_migu_nana)**|
 |**2024-03-04**|**Numerical Simulation of Phase Transition with the Hyperbolic Godunov-Peshkov-Romenski Model**|Pascal Mossier et.al.|[2403.01847](http://arxiv.org/abs/2403.01847)|null|
@@ -564,10 +565,37 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617](http://arxiv.org/abs/2404.03617)|null|
+|**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611](http://arxiv.org/abs/2404.03611)|null|
+|**2024-04-04**|**Leveraging Interpolation Models and Error Bounds for Verifiable Scientific Machine Learning**|Tyler Chang et.al.|[2404.03586](http://arxiv.org/abs/2404.03586)|**[link](https://github.com/llnl/interpml)**|
+|**2024-04-04**|**Factored Task and Motion Planning with Combined Optimization, Sampling and Learning**|Joaquim Ortiz-Haro et.al.|[2404.03567](http://arxiv.org/abs/2404.03567)|null|
+|**2024-04-04**|**Alzheimer's disease detection in PSG signals**|Lorena Gallego-Viñarás et.al.|[2404.03549](http://arxiv.org/abs/2404.03549)|null|
+|**2024-04-04**|**Physics Informed Neural Networks for Free Shear Flows**|Siddharth Raghu et.al.|[2404.03542](http://arxiv.org/abs/2404.03542)|null|
+|**2024-04-04**|**Segmentation-Guided Knee Radiograph Generation using Conditional Diffusion Models**|Siyuan Mei et.al.|[2404.03541](http://arxiv.org/abs/2404.03541)|null|
+|**2024-04-03**|**Drug-target interaction prediction by integrating heterogeneous information with mutual attention network**|Yuanyuan Zhang et.al.|[2404.03516](http://arxiv.org/abs/2404.03516)|null|
+|**2024-04-04**|**Towards Automated Movie Trailer Generation**|Dawit Mureja Argaw et.al.|[2404.03477](http://arxiv.org/abs/2404.03477)|null|
+|**2024-04-04**|**How Much Data are Enough? Investigating Dataset Requirements for Patch-Based Brain MRI Segmentation Tasks**|Dongang Wang et.al.|[2404.03451](http://arxiv.org/abs/2404.03451)|null|
+|**2024-04-04**|**SP $^2$ OT: Semantic-Regularized Progressive Partial Optimal Transport for Imbalanced Clustering**|Chuyu Zhang et.al.|[2404.03446](http://arxiv.org/abs/2404.03446)|**[link](https://github.com/rhfeiyang/SPPOT)**|
+|**2024-04-04**|**Interpreting End-to-End Deep Learning Models for Speech Source Localization Using Layer-wise Relevance Propagation**|Luca Comanducci et.al.|[2404.03436](http://arxiv.org/abs/2404.03436)|null|
+|**2024-04-04**|**Learning From Simplicial Data Based on Random Walks and 1D Convolutions**|Florian Frantzen et.al.|[2404.03434](http://arxiv.org/abs/2404.03434)|**[link](https://git.rwth-aachen.de/netsci/scrawl)**|
+|**2024-04-04**|**Data harvesting vs data farming: A study of the importance of variation vs sample size in deep learning-based auto-segmentation for breast cancer patients**|ES Buhl et.al.|[2404.03369](http://arxiv.org/abs/2404.03369)|null|
+|**2024-04-04**|**A Comprehensive Survey on Self-Supervised Learning for Recommendation**|Xubin Ren et.al.|[2404.03354](http://arxiv.org/abs/2404.03354)|**[link](https://github.com/hkuds/awesome-sslrec-papers)**|
+|**2024-04-04**|**LancBiO: dynamic Lanczos-aided bilevel optimization via Krylov subspace**|Bin Gao et.al.|[2404.03331](http://arxiv.org/abs/2404.03331)|null|
+|**2024-04-04**|**Exploring Lightweight Federated Learning for Distributed Load Forecasting**|Abhishek Duttagupta et.al.|[2404.03320](http://arxiv.org/abs/2404.03320)|null|
+|**2024-04-04**|**Knowledge-Based Convolutional Neural Network for the Simulation and Prediction of Two-Phase Darcy Flows**|Zakaria Elabid et.al.|[2404.03240](http://arxiv.org/abs/2404.03240)|null|
+|**2024-04-04**|**FACTUAL: A Novel Framework for Contrastive Learning Based Robust SAR Image Classification**|Xu Wang et.al.|[2404.03225](http://arxiv.org/abs/2404.03225)|null|
+|**2024-04-04**|**CSR-dMRI: Continuous Super-Resolution of Diffusion MRI with Anatomical Structure-assisted Implicit Neural Representation Learning**|Ruoyou Wu et.al.|[2404.03209](http://arxiv.org/abs/2404.03209)|null|
+|**2024-04-04**|**Multimodal hierarchical multi-task deep learning framework for jointly predicting and explaining Alzheimer disease progression**|Sayantan Kumar et.al.|[2404.03208](http://arxiv.org/abs/2404.03208)|null|
+|**2024-04-04**|**Classification of Nasopharyngeal Cases using DenseNet Deep Learning Architecture**|W. S. H. M. W. Ahmad et.al.|[2404.03188](http://arxiv.org/abs/2404.03188)|null|
+|**2024-04-03**|**Deep Learning-Based Weather-Related Power Outage Prediction with Socio-Economic and Power Infrastructure Data**|Xuesong Wang et.al.|[2404.03115](http://arxiv.org/abs/2404.03115)|null|
+|**2024-04-03**|**Decentralised Moderation for Interoperable Social Networks: A Conversation-based Approach for Pleroma and the Fediverse**|Vibhor Agarwal et.al.|[2404.03048](http://arxiv.org/abs/2404.03048)|null|
+|**2024-04-03**|**The Artificial Intelligence Ontology: LLM-assisted construction of AI concept hierarchies**|Marcin P. Joachimiak et.al.|[2404.03044](http://arxiv.org/abs/2404.03044)|**[link](https://github.com/berkeleybop/artificial-intelligence-ontology)**|
+|**2024-04-03**|**Skeleton Recall Loss for Connectivity Conserving and Resource Efficient Segmentation of Thin Tubular Structures**|Yannick Kirchhoff et.al.|[2404.03010](http://arxiv.org/abs/2404.03010)|null|
+|**2024-04-03**|**Explainable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|null|
 |**2024-04-03**|**Deep Image Composition Meets Image Forgery**|Eren Tahir et.al.|[2404.02897](http://arxiv.org/abs/2404.02897)|**[link](https://github.com/99eren99/dis25k)**|
 |**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877](http://arxiv.org/abs/2404.02877)|null|
 |**2024-04-03**|**Enhancing Interpretability of Vertebrae Fracture Grading using Human-interpretable Prototypes**|Poulami Sinhamahapatra et.al.|[2404.02830](http://arxiv.org/abs/2404.02830)|null|
-|**2024-04-04**|**AQuA - Combining Experts' and Non-Experts' Views To Assess Deliberation Quality in Online Discussions Using LLMs**|Maike Behrendt et.al.|[2404.02761](http://arxiv.org/abs/2404.02761)|null|
+|**2024-04-04**|**AQuA -- Combining Experts' and Non-Experts' Views To Assess Deliberation Quality in Online Discussions Using LLMs**|Maike Behrendt et.al.|[2404.02761](http://arxiv.org/abs/2404.02761)|null|
 |**2024-04-03**|**Mixing Individual and Collective Behaviours to Predict Out-of-Routine Mobility**|Sebastiano Bontorin et.al.|[2404.02740](http://arxiv.org/abs/2404.02740)|null|
 |**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
 |**2024-04-03**|**Can We Understand Plasticity Through Neural Collapse?**|Guglielmo Bonifazi et.al.|[2404.02719](http://arxiv.org/abs/2404.02719)|**[link](https://github.com/gianhess/dl_project)**|
