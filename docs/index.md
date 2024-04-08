@@ -336,6 +336,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Transformers for molecular property prediction: Lessons learned from the past five years**|Afnan Sultan et.al.|[2404.03969](http://arxiv.org/abs/2404.03969)|null|
 |**2024-04-02**|**Generalizable, Fast, and Accurate DeepQSPR with fastprop Part 1: Framework and Benchmarks**|Jackson Burns et.al.|[2404.02058](http://arxiv.org/abs/2404.02058)|**[link](https://github.com/jacksonburns/fastprop)**|
 |**2024-03-27**|**A Python library for efficient computation of molecular fingerprints**|Michał Szafarczyk et.al.|[2403.19718](http://arxiv.org/abs/2403.19718)|**[link](https://github.com/arch4ngel21/scikit-fingerprints)**|
 |**2024-03-10**|**Sort & Slice: A Simple and Superior Alternative to Hash-Based Folding for Extended-Connectivity Fingerprints**|Markus Dablander et.al.|[2403.17954](http://arxiv.org/abs/2403.17954)|null|
@@ -444,6 +445,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Numerical study of neutral and charged microgel suspensions: from single-particle to collective behavior**|Giovanni Del Monte et.al.|[2404.04032](http://arxiv.org/abs/2404.04032)|null|
 |**2024-04-03**|**A Framework for a High Throughput Screening Method to Assess Polymer/Plasticizer Miscibility**|Lois Smith et.al.|[2404.02676](http://arxiv.org/abs/2404.02676)|null|
 |**2024-04-04**|**Bacterial cell death: Atomistic simulations reveal pore formation as a mode of action of structurally nano engineered star peptide polymers**|Amal Jayawardena et.al.|[2404.02501](http://arxiv.org/abs/2404.02501)|null|
 |**2024-04-02**|**Equilibrium and Non-Equilibrium Molecular Dynamics Simulation of Thermo-Osmosis: Enhanced Effects on Polarized Graphene Surfaces**|Mehdi Ouadfel et.al.|[2404.01708](http://arxiv.org/abs/2404.01708)|null|
@@ -565,6 +567,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Active Causal Learning for Decoding Chemical Complexities with Targeted Interventions**|Zachary R. Fox et.al.|[2404.04224](http://arxiv.org/abs/2404.04224)|null|
+|**2024-04-05**|**Deep-learning Segmentation of Small Volumes in CT images for Radiotherapy Treatment Planning**|Jianxin Zhou et.al.|[2404.04202](http://arxiv.org/abs/2404.04202)|null|
+|**2024-04-05**|**SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers**|Weile Li et.al.|[2404.04179](http://arxiv.org/abs/2404.04179)|**[link](https://github.com/lisavilalee/scaresnet_mmdet)**|
+|**2024-04-05**|**Noisy Label Processing for Classification: A Survey**|Mengting Li et.al.|[2404.04159](http://arxiv.org/abs/2404.04159)|null|
+|**2024-04-05**|**Generalizable Temperature Nowcasting with Physics-Constrained RNNs for Predictive Maintenance of Wind Turbine Components**|Johannes Exenberger et.al.|[2404.04126](http://arxiv.org/abs/2404.04126)|**[link](https://github.com/jxnb/pcrnn-wtg)**|
+|**2024-04-05**|**GNNBENCH: Fair and Productive Benchmarking for Single-GPU GNN System**|Yidong Gong et.al.|[2404.04118](http://arxiv.org/abs/2404.04118)|null|
+|**2024-04-05**|**The Unreasonable Effectiveness Of Early Discarding After One Epoch In Neural Network Hyperparameter Optimization**|Romain Egele et.al.|[2404.04111](http://arxiv.org/abs/2404.04111)|null|
+|**2024-04-05**|**A Comparison of Methods for Evaluating Generative IR**|Negar Arabzadeh et.al.|[2404.04044](http://arxiv.org/abs/2404.04044)|**[link](https://github.com/narabzad/genir-evaluation)**|
+|**2024-04-05**|**Finsler-Laplace-Beltrami Operators with Application to Shape Analysis**|Simon Weber et.al.|[2404.03999](http://arxiv.org/abs/2404.03999)|null|
+|**2024-04-05**|**Physics-Inspired Synthesized Underwater Image Dataset**|Reina Kaneko et.al.|[2404.03998](http://arxiv.org/abs/2404.03998)|null|
+|**2024-04-05**|**Rolling the dice for better deep learning performance: A study of randomness techniques in deep neural networks**|Mohammed Ghaith Altarabichi et.al.|[2404.03992](http://arxiv.org/abs/2404.03992)|null|
+|**2024-04-05**|**Model Selection with Model Zoo via Graph Learning**|Ziyu Li et.al.|[2404.03988](http://arxiv.org/abs/2404.03988)|**[link](https://github.com/transfergraph/transfergraph)**|
+|**2024-04-05**|**Transformers for molecular property prediction: Lessons learned from the past five years**|Afnan Sultan et.al.|[2404.03969](http://arxiv.org/abs/2404.03969)|null|
+|**2024-04-05**|**Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks**|Ana-Maria Cretu et.al.|[2404.03948](http://arxiv.org/abs/2404.03948)|null|
+|**2024-04-05**|**Deep Learning for Satellite Image Time Series Analysis: A Review**|Lynn Miller et.al.|[2404.03936](http://arxiv.org/abs/2404.03936)|null|
+|**2024-04-05**|**Multi-Task Learning for Lung sound & Lung disease classification**|Suma K V et.al.|[2404.03908](http://arxiv.org/abs/2404.03908)|null|
+|**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906](http://arxiv.org/abs/2404.03906)|null|
+|**2024-04-05**|**Nonparametric Modern Hopfield Models**|Jerry Yao-Chieh Hu et.al.|[2404.03900](http://arxiv.org/abs/2404.03900)|**[link](https://github.com/magics-lab/nonparametrichopfield)**|
+|**2024-04-05**|**Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**|Maryam Ahmed et.al.|[2404.03892](http://arxiv.org/abs/2404.03892)|null|
+|**2024-04-04**|**Uniform Memory Retrieval with Larger Capacity for Modern Hopfield Models**|Dennis Wu et.al.|[2404.03827](http://arxiv.org/abs/2404.03827)|**[link](https://github.com/magics-lab/uhop)**|
+|**2024-04-04**|**TransformerLSR: Attentive Joint Model of Longitudinal Data, Survival, and Recurrent Events with Concurrent Latent Structure**|Zhiyue Zhang et.al.|[2404.03804](http://arxiv.org/abs/2404.03804)|null|
+|**2024-04-04**|**Learning smooth functions in high dimensions: from sparse polynomials to deep neural networks**|Ben Adcock et.al.|[2404.03761](http://arxiv.org/abs/2404.03761)|null|
+|**2024-04-04**|**Explaining Explainability: Understanding Concept Activation Vectors**|Angus Nicolson et.al.|[2404.03713](http://arxiv.org/abs/2404.03713)|null|
+|**2024-04-04**|**Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning**|Spyridon Chavlis et.al.|[2404.03708](http://arxiv.org/abs/2404.03708)|null|
 |**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617](http://arxiv.org/abs/2404.03617)|null|
 |**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611](http://arxiv.org/abs/2404.03611)|null|
 |**2024-04-04**|**Leveraging Interpolation Models and Error Bounds for Verifiable Scientific Machine Learning**|Tyler Chang et.al.|[2404.03586](http://arxiv.org/abs/2404.03586)|**[link](https://github.com/llnl/interpml)**|
@@ -1150,6 +1176,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Finsler-Laplace-Beltrami Operators with Application to Shape Analysis**|Simon Weber et.al.|[2404.03999](http://arxiv.org/abs/2404.03999)|null|
 |**2024-03-25**|**AnimateMe: 4D Facial Expressions via Diffusion Models**|Dimitrios Gerogiannis et.al.|[2403.17213](http://arxiv.org/abs/2403.17213)|null|
 |**2024-03-10**|**An End-to-End Deep Learning Generative Framework for Refinable Shape Matching and Generation**|Soodeh Kalaie et.al.|[2403.06317](http://arxiv.org/abs/2403.06317)|null|
 |**2024-03-07**|**3DTextureTransformer: Geometry Aware Texture Generation for Arbitrary Mesh Topology**|Dharma KC et.al.|[2403.04225](http://arxiv.org/abs/2403.04225)|null|
