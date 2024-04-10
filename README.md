@@ -463,6 +463,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**The Effects of Splayed Lipid Molecules on Lubrication by Lipid Bilayers**|Di Jin et.al.|[2404.06074](http://arxiv.org/abs/2404.06074)|null|
 |**2024-04-08**|**Size dependent solid-solid crystallization of halide perovskites**|Paramvir Ahlawat et.al.|[2404.05644](http://arxiv.org/abs/2404.05644)|null|
 |**2024-04-08**|**Prediction of topotactic transition from black to blue phosphorus induced by surface Br adsorption**|Hao Tian et.al.|[2404.05575](http://arxiv.org/abs/2404.05575)|null|
 |**2024-04-08**|**In silico bioactivity prediction of proteins interacting with graphene-based nanomaterials guides rational design of biosensor**|Jing Ye et.al.|[2404.05329](http://arxiv.org/abs/2404.05329)|null|
@@ -590,6 +591,40 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**|Bochao Zou et.al.|[2404.06483](http://arxiv.org/abs/2404.06483)|null|
+|**2024-04-09**|**Learning Locally Interacting Discrete Dynamical Systems: Towards Data-Efficient and Scalable Prediction**|Beomseok Kang et.al.|[2404.06460](http://arxiv.org/abs/2404.06460)|null|
+|**2024-04-09**|**A comparative analysis of deep learning models for lung segmentation on X-ray images**|Weronika Hryniewska-Guzik et.al.|[2404.06455](http://arxiv.org/abs/2404.06455)|**[link](https://github.com/hryniewska/lung-segmentation-on-x-rays)**|
+|**2024-04-09**|**Deep-Learning Database of Density Functional Theory Hamiltonians for Twisted Materials**|Ting Bao et.al.|[2404.06449](http://arxiv.org/abs/2404.06449)|null|
+|**2024-04-09**|**Seasonal Fire Prediction using Spatio-Temporal Deep Neural Networks**|Dimitrios Michail et.al.|[2404.06437](http://arxiv.org/abs/2404.06437)|null|
+|**2024-04-09**|**Bayesian Survival Analysis by Approximate Inference of Neural Networks**|Christian Marius Lillelund et.al.|[2404.06421](http://arxiv.org/abs/2404.06421)|null|
+|**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400](http://arxiv.org/abs/2404.06400)|null|
+|**2024-04-09**|**Exploring Neural Network Landscapes: Star-Shaped and Geodesic Connectivity**|Zhanran Lin et.al.|[2404.06391](http://arxiv.org/abs/2404.06391)|null|
+|**2024-04-09**|**On adversarial training and the 1 Nearest Neighbor classifier**|Amir Hagai et.al.|[2404.06313](http://arxiv.org/abs/2404.06313)|**[link](https://github.com/amirhagai/on-adversarial-training-and-the-1-nearest-neighbor-classifier)**|
+|**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277](http://arxiv.org/abs/2404.06277)|null|
+|**2024-04-09**|**PGTNet: A Process Graph Transformer Network for Remaining Time Prediction of Business Process Instances**|Keyvan Amiri Elyasi et.al.|[2404.06267](http://arxiv.org/abs/2404.06267)|**[link](https://github.com/keyvan-amiri/pgtnet)**|
+|**2024-04-09**|**ActNetFormer: Transformer-ResNet Hybrid Method for Semi-Supervised Action Recognition in Videos**|Sharana Dharshikgan Suresh Dass et.al.|[2404.06243](http://arxiv.org/abs/2404.06243)|**[link](https://github.com/rana2149/actnetformer)**|
+|**2024-04-09**|**Automatic Defect Detection in Sewer Network Using Deep Learning Based Object Detector**|Bach Ha et.al.|[2404.06219](http://arxiv.org/abs/2404.06219)|null|
+|**2024-04-09**|**Deep Learning Method for Computing Committor Functions with Adaptive Sampling**|Bo Lin et.al.|[2404.06206](http://arxiv.org/abs/2404.06206)|null|
+|**2024-04-09**|**Automated National Urban Map Extraction**|Hasan Nasrallah et.al.|[2404.06202](http://arxiv.org/abs/2404.06202)|null|
+|**2024-04-09**|**Uncertainty-aware Evidential Fusion-based Learning for Semi-supervised Medical Image Segmentation**|Yuanpeng He et.al.|[2404.06177](http://arxiv.org/abs/2404.06177)|null|
+|**2024-04-09**|**Protection of Guizhou Miao Batik Culture Based on Knowledge Graph and Deep Learning**|Huafeng Quan et.al.|[2404.06168](http://arxiv.org/abs/2404.06168)|null|
+|**2024-04-09**|**(Not) Understanding Latin Poetic Style with Deep Learning**|Ben Nagy et.al.|[2404.06150](http://arxiv.org/abs/2404.06150)|**[link](https://github.com/bnagy/fail-paper)**|
+|**2024-04-09**|**Communication-Efficient Large-Scale Distributed Deep Learning: A Comprehensive Survey**|Feng Liang et.al.|[2404.06114](http://arxiv.org/abs/2404.06114)|null|
+|**2024-04-09**|**Unifying Low Dimensional Observations in Deep Learning Through the Deep Linear Unconstrained Feature Model**|Connall Garrod et.al.|[2404.06106](http://arxiv.org/abs/2404.06106)|null|
+|**2024-04-09**|**Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion**|Pan Mu et.al.|[2404.06033](http://arxiv.org/abs/2404.06033)|**[link](https://github.com/zhiyingdu/bhfmef)**|
+|**2024-04-09**|**Improving Facial Landmark Detection Accuracy and Efficiency with Knowledge Distillation**|Zong-Wei Hong et.al.|[2404.06029](http://arxiv.org/abs/2404.06029)|null|
+|**2024-04-09**|**Concept-Attention Whitening for Interpretable Skin Lesion Diagnosis**|Junlin Hou et.al.|[2404.05997](http://arxiv.org/abs/2404.05997)|null|
+|**2024-04-09**|**Boosting Digital Safeguards: Blending Cryptography and Steganography**|Anamitra Maiti et.al.|[2404.05985](http://arxiv.org/abs/2404.05985)|null|
+|**2024-04-09**|**Resolution enhancement of SOHO/MDI Magnetograms**|Ying Qin et.al.|[2404.05968](http://arxiv.org/abs/2404.05968)|null|
+|**2024-04-09**|**Deep Learning-Based Out-of-distribution Source Code Data Identification: How Far We Have Gone?**|Van Nguyen et.al.|[2404.05964](http://arxiv.org/abs/2404.05964)|null|
+|**2024-04-09**|**AdaGossip: Adaptive Consensus Step-size for Decentralized Deep Learning with Communication Compression**|Sai Aparna Aketi et.al.|[2404.05919](http://arxiv.org/abs/2404.05919)|null|
+|**2024-04-08**|**Privacy-Preserving Deep Learning Using Deformable Operators for Secure Task Learning**|Fabian Perez et.al.|[2404.05828](http://arxiv.org/abs/2404.05828)|**[link](https://github.com/factral/privdl)**|
+|**2024-04-08**|**Downscaling GRACE-derived ocean bottom pressure anomalies using self-supervised data fusion**|Junyang Gou et.al.|[2404.05818](http://arxiv.org/abs/2404.05818)|null|
+|**2024-04-08**|**Deep Learning the Intergalactic Medium using Lyman-alpha Forest at $4 \leq z \leq 5$**|Fahad Nasir et.al.|[2404.05794](http://arxiv.org/abs/2404.05794)|null|
+|**2024-04-07**|**Streamlining Ocean Dynamics Modeling with Fourier Neural Operators: A Multiobjective Hyperparameter and Architecture Optimization Approach**|Yixuan Sun et.al.|[2404.05768](http://arxiv.org/abs/2404.05768)|null|
+|**2024-04-06**|**A Novel Bi-LSTM And Transformer Architecture For Generating Tabla Music**|Roopa Mayya et.al.|[2404.05765](http://arxiv.org/abs/2404.05765)|null|
+|**2024-04-06**|**Deep Learning-Based Brain Image Segmentation for Automated Tumour Detection**|Suman Sourabh et.al.|[2404.05763](http://arxiv.org/abs/2404.05763)|null|
+|**2024-04-06**|**Evaluating the Effectiveness of Artificial Intelligence in Predicting Adverse Drug Reactions among Cancer Patients: A Systematic Review and Meta-Analysis**|Fatma Zahra Abdeldjouad et.al.|[2404.05762](http://arxiv.org/abs/2404.05762)|null|
 |**2024-04-08**|**Automated discovery of symbolic laws governing skill acquisition from naturally occurring data**|Sannyuya Liu et.al.|[2404.05689](http://arxiv.org/abs/2404.05689)|**[link](https://github.com/ccnu-mathits/adm)**|
 |**2024-04-08**|**Causality Extraction from Nuclear Licensee Event Reports Using a Hybrid Framework**|Sohag Rahman et.al.|[2404.05656](http://arxiv.org/abs/2404.05656)|null|
 |**2024-04-08**|**Deep Representation Learning for Multi-functional Degradation Modeling of Community-dwelling Aging Population**|Suiyao Chen et.al.|[2404.05613](http://arxiv.org/abs/2404.05613)|null|
@@ -1139,6 +1174,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481](http://arxiv.org/abs/2404.06481)|null|
 |**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
 |**2024-03-25**|**Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization**|Xiangxin Zhou et.al.|[2403.16576](http://arxiv.org/abs/2403.16576)|null|
 |**2024-03-07**|**DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization**|Xiangxin Zhou et.al.|[2403.13829](http://arxiv.org/abs/2403.13829)|null|
