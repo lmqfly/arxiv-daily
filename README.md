@@ -242,6 +242,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Latent Chemical Space Searching for Plug-in Multi-objective Molecule Generation**|Ningfeng Liu et.al.|[2404.06691](http://arxiv.org/abs/2404.06691)|null|
 |**2024-03-29**|**Molecular Generative Adversarial Network with Multi-Property Optimization**|Huidong Tang et.al.|[2404.00081](http://arxiv.org/abs/2404.00081)|null|
 |**2024-03-15**|**Deep Geometry Handling and Fragment-wise Molecular 3D Graph Generation**|Odin Zhang et.al.|[2404.00014](http://arxiv.org/abs/2404.00014)|null|
 |**2024-03-29**|**Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-directed Molecular Generation**|Jinyeong Park et.al.|[2403.20109](http://arxiv.org/abs/2403.20109)|**[link](https://github.com/DevSlem/Mol-AIR)**|
@@ -591,6 +592,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176](http://arxiv.org/abs/2404.07176)|null|
+|**2024-04-10**|**Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots**|Yuan Wang et.al.|[2404.07168](http://arxiv.org/abs/2404.07168)|null|
+|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112](http://arxiv.org/abs/2404.07112)|null|
+|**2024-04-10**|**Learning Priors for Non Rigid SfM from Casual Videos**|Yoni Kasten et.al.|[2404.07097](http://arxiv.org/abs/2404.07097)|null|
+|**2024-04-10**|**Multiscale structure-property discovery via active learning in scanning tunneling microscopy**|Ganesh Narasimha et.al.|[2404.07074](http://arxiv.org/abs/2404.07074)|null|
+|**2024-04-10**|**Implicit Multi-Spectral Transformer: An Lightweight and Effective Visible to Infrared Image Translation Model**|Yijia Chen et.al.|[2404.07072](http://arxiv.org/abs/2404.07072)|**[link](https://github.com/CXH-Research/IRFormer)**|
+|**2024-04-10**|**Ray-driven Spectral CT Reconstruction Based on Neural Base-Material Fields**|Ligen Shi et.al.|[2404.06991](http://arxiv.org/abs/2404.06991)|null|
+|**2024-04-10**|**Accelerating Cardiac MRI Reconstruction with CMRatt: An Attention-Driven Approach**|Anam Hashmi et.al.|[2404.06941](http://arxiv.org/abs/2404.06941)|null|
+|**2024-04-10**|**Set-Encoder: Permutation-Invariant Inter-Passage Attention for Listwise Passage Re-Ranking with Cross-Encoders**|Ferdinand Schlatt et.al.|[2404.06912](http://arxiv.org/abs/2404.06912)|null|
+|**2024-04-10**|**PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles**|Zhengru Fang et.al.|[2404.06891](http://arxiv.org/abs/2404.06891)|null|
+|**2024-04-10**|**Research on Detection of Floating Objects in River and Lake Based on AI Intelligent Image Recognition**|Jingyu Zhang et.al.|[2404.06883](http://arxiv.org/abs/2404.06883)|null|
+|**2024-04-10**|**SleepPPG-Net2: Deep learning generalization for sleep staging from photoplethysmography**|Shirel Attia et.al.|[2404.06869](http://arxiv.org/abs/2404.06869)|null|
+|**2024-04-10**|**The 'Sandwich' meta-framework for architecture agnostic deep privacy-preserving transfer learning for non-invasive brainwave decoding**|Xiaoxi Wei et.al.|[2404.06868](http://arxiv.org/abs/2404.06868)|null|
+|**2024-04-10**|**RESSCAL3D: Resolution Scalable 3D Semantic Segmentation of Point Clouds**|Remco Royen et.al.|[2404.06863](http://arxiv.org/abs/2404.06863)|null|
+|**2024-04-10**|**Monocular 3D lane detection for Autonomous Driving: Recent Achievements, Challenges, and Outlooks**|Fulong Ma et.al.|[2404.06860](http://arxiv.org/abs/2404.06860)|null|
+|**2024-04-10**|**Beyond Gait: Learning Knee Angle for Seamless Prosthesis Control in Multiple Scenarios**|Pengwei Wang et.al.|[2404.06772](http://arxiv.org/abs/2404.06772)|**[link](https://github.com/penway/Beyond-Gait-AEPM)**|
+|**2024-04-10**|**Global Contrastive Training for Multimodal Electronic Health Records with Language Supervision**|Yingbo Ma et.al.|[2404.06723](http://arxiv.org/abs/2404.06723)|null|
+|**2024-04-10**|**Neural Optimizer Equation, Decay Function, and Learning Rate Schedule Joint Evolution**|Brandon Morgan et.al.|[2404.06679](http://arxiv.org/abs/2404.06679)|null|
+|**2024-04-10**|**Forecasting the Future with Future Technologies: Advancements in Large Meteorological Models**|Hailong Shu et.al.|[2404.06668](http://arxiv.org/abs/2404.06668)|null|
+|**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665](http://arxiv.org/abs/2404.06665)|**[link](https://github.com/yongquan-qu/slams)**|
+|**2024-04-09**|**Res-U2Net: Untrained Deep Learning for Phase Retrieval and Image Reconstruction**|Carlos Osorio Quero et.al.|[2404.06657](http://arxiv.org/abs/2404.06657)|null|
+|**2024-04-09**|**From Protoscience to Epistemic Monoculture: How Benchmarking Set the Stage for the Deep Learning Revolution**|Bernard J. Koch et.al.|[2404.06647](http://arxiv.org/abs/2404.06647)|null|
+|**2024-04-09**|**Symmetric Discrete Optimal Control and Deep Learning**|Anthony M. Bloch et.al.|[2404.06556](http://arxiv.org/abs/2404.06556)|null|
+|**2024-04-09**|**Variational Stochastic Gradient Descent for Deep Neural Networks**|Haotian Chen et.al.|[2404.06549](http://arxiv.org/abs/2404.06549)|**[link](https://github.com/generativeai-tue/vsgd)**|
+|**2024-04-09**|**Onboard Processing of Hyperspectral Imagery: Deep Learning Advancements, Methodologies, Challenges, and Emerging Trends**|Nafiseh Ghasemi et.al.|[2404.06526](http://arxiv.org/abs/2404.06526)|null|
 |**2024-04-09**|**RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**|Bochao Zou et.al.|[2404.06483](http://arxiv.org/abs/2404.06483)|null|
 |**2024-04-09**|**Learning Locally Interacting Discrete Dynamical Systems: Towards Data-Efficient and Scalable Prediction**|Beomseok Kang et.al.|[2404.06460](http://arxiv.org/abs/2404.06460)|null|
 |**2024-04-09**|**A comparative analysis of deep learning models for lung segmentation on X-ray images**|Weronika Hryniewska-Guzik et.al.|[2404.06455](http://arxiv.org/abs/2404.06455)|**[link](https://github.com/hryniewska/lung-segmentation-on-x-rays)**|
