@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.13
+## Updated on 2024.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -597,7 +597,7 @@ layout: default
 |**2024-04-11**|**Trashbusters: Deep Learning Approach for Litter Detection and Tracking**|Kashish Jain et.al.|[2404.07467](http://arxiv.org/abs/2404.07467)|null|
 |**2024-04-11**|**Parameterized Fast and Safe Tracking (FaSTrack) using Deepreach**|Hyun Joe Jeong et.al.|[2404.07431](http://arxiv.org/abs/2404.07431)|null|
 |**2024-04-11**|**Simplifying Two-Stage Detectors for On-Device Inference in Remote Sensing**|Jaemin Kang et.al.|[2404.07405](http://arxiv.org/abs/2404.07405)|null|
-|**2024-04-11**|**A fine-tuning workflow for automatic first-break picking with deep learning**|Amir Mardan et.al.|[2404.07400](http://arxiv.org/abs/2404.07400)|null|
+|**2024-04-11**|**A fine-tuning workflow for automatic first-break picking with deep learning**|Amir Mardan et.al.|[2404.07400](http://arxiv.org/abs/2404.07400)|**[link](https://github.com/geo-stack/first_break_picking)**|
 |**2024-04-11**|**Post-hurricane building damage assessment using street-view imagery and structured data: A multi-modal deep learning approach**|Zhuoqun Xue et.al.|[2404.07399](http://arxiv.org/abs/2404.07399)|null|
 |**2024-04-11**|**Global versus Local: Evaluating AlexNet Architectures for Tropical Cyclone Intensity Estimation**|Vikas Dwivedi et.al.|[2404.07395](http://arxiv.org/abs/2404.07395)|**[link](https://github.com/vikas-dwivedi-2022/cyclone_intensity_estimation_with_alexnets)**|
 |**2024-04-10**|**Deep Generative Sampling in the Dual Divergence Space: A Data-efficient & Interpretative Approach for Generative AI**|Sahil Garg et.al.|[2404.07377](http://arxiv.org/abs/2404.07377)|null|
