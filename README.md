@@ -724,7 +724,7 @@
 |**2024-04-08**|**Robust Data Pruning: Uncovering and Overcoming Implicit Bias**|Artem Vysogorets et.al.|[2404.05579](http://arxiv.org/abs/2404.05579)|**[link](https://github.com/avysogorets/fair-data-pruning)**|
 |**2024-04-08**|**Impact of LiDAR visualisations on semantic segmentation of archaeological objects**|Raveerat Jaturapitpornchai et.al.|[2404.05512](http://arxiv.org/abs/2404.05512)|null|
 |**2024-04-09**|**Two-Person Interaction Augmentation with Skeleton Priors**|Baiyi Li et.al.|[2404.05490](http://arxiv.org/abs/2404.05490)|null|
-|**2024-04-08**|**WaveCatBoost for Probabilistic Forecasting of Regional Air Quality Data**|Jintu Borah et.al.|[2404.05482](http://arxiv.org/abs/2404.05482)|null|
+|**2024-04-08**|**WaveCatBoost for Probabilistic Forecasting of Regional Air Quality Data**|Jintu Borah et.al.|[2404.05482](http://arxiv.org/abs/2404.05482)|**[link](https://github.com/jborah2/WaveCatBoost-Time-Series-Model)**|
 |**2024-04-08**|**Relation Extraction Using Large Language Models: A Case Study on Acupuncture Point Locations**|Yiming Li et.al.|[2404.05415](http://arxiv.org/abs/2404.05415)|null|
 |**2024-04-09**|**Generating Galaxy Clusters Mass Density Maps from Mock Multiview Images via Deep Learning**|Daniel de Andres et.al.|[2404.05400](http://arxiv.org/abs/2404.05400)|null|
 |**2024-04-08**|**Certified PEFTSmoothing: Parameter-Efficient Fine-Tuning with Randomized Smoothing**|Chengyan Fu et.al.|[2404.05350](http://arxiv.org/abs/2404.05350)|null|
@@ -935,7 +935,7 @@
 |**2024-03-29**|**TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods**|Xiangfei Qiu et.al.|[2403.20150](http://arxiv.org/abs/2403.20150)|**[link](https://github.com/decisionintelligence/tfb)**|
 |**2024-03-29**|**Sound event localization and classification using WASN in Outdoor Environment**|Dongzhe Zhang et.al.|[2403.20130](http://arxiv.org/abs/2403.20130)|null|
 |**2024-03-29**|**ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning**|Beomyoung Kim et.al.|[2403.20126](http://arxiv.org/abs/2403.20126)|**[link](https://github.com/clovaai/ECLIPSE)**|
-|**2024-03-29**|**Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring**|Hu Gao et.al.|[2403.20106](http://arxiv.org/abs/2403.20106)|null|
+|**2024-03-29**|**Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring**|Hu Gao et.al.|[2403.20106](http://arxiv.org/abs/2403.20106)|**[link](https://github.com/Tombs98/ALGNet)**|
 |**2024-03-29**|**Colorful Cutout: Enhancing Image Data Augmentation with Curriculum Learning**|Juhwan Choi et.al.|[2403.20012](http://arxiv.org/abs/2403.20012)|null|
 |**2024-03-29**|**DeepHeteroIoT: Deep Local and Global Learning over Heterogeneous IoT Sensor Data**|Muhammad Sakib Khan Inan et.al.|[2403.19996](http://arxiv.org/abs/2403.19996)|null|
 |**2024-03-29**|**Multi-task Magnetic Resonance Imaging Reconstruction using Meta-learning**|Wanyu Bian et.al.|[2403.19966](http://arxiv.org/abs/2403.19966)|null|
@@ -963,7 +963,7 @@
 |**2024-03-28**|**Transparent and Clinically Interpretable AI for Lung Cancer Detection in Chest X-Rays**|Amy Rafferty et.al.|[2403.19444](http://arxiv.org/abs/2403.19444)|null|
 |**2024-03-28**|**A Novel Stochastic Transformer-based Approach for Post-Traumatic Stress Disorder Detection using Audio Recording of Clinical Interviews**|Mamadou Dia et.al.|[2403.19441](http://arxiv.org/abs/2403.19441)|null|
 |**2024-03-28**|**NIGHT -- Non-Line-of-Sight Imaging from Indirect Time of Flight Data**|Matteo Caligiuri et.al.|[2403.19376](http://arxiv.org/abs/2403.19376)|**[link](https://github.com/matteocali/nlos-imaging-from-itof-data)**|
-|**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[2403.19366](http://arxiv.org/abs/2403.19366)|null|
+|**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[2403.19366](http://arxiv.org/abs/2403.19366)|**[link](https://github.com/ying-fu/mshnet)**|
 |**2024-03-28**|**Artificial Intelligence (AI) Based Prediction of Mortality, for COVID-19 Patients**|Mahbubunnabi Tamala et.al.|[2403.19355](http://arxiv.org/abs/2403.19355)|null|
 |**2024-03-28**|**Gain-Only Neural Operator Approximators of PDE Backstepping Controllers**|Rafael Vazquez et.al.|[2403.19344](http://arxiv.org/abs/2403.19344)|null|
 |**2024-03-28**|**Deep Learning-based Modulation Classification of Practical OFDM Signals for Spectrum Sensing**|Byungjun Kim et.al.|[2403.19292](http://arxiv.org/abs/2403.19292)|null|
@@ -1028,7 +1028,7 @@
 |**2024-03-26**|**Global Point Cloud Registration Network for Large Transformations**|Hanz Cuevas-Velasquez et.al.|[2403.18040](http://arxiv.org/abs/2403.18040)|null|
 |**2024-03-26**|**Cross-system biological image quality enhancement based on the generative adversarial network as a foundation for establishing a multi-institute microscopy cooperative network**|Dominik Panek et.al.|[2403.18026](http://arxiv.org/abs/2403.18026)|null|
 |**2024-03-28**|**DORE: A Dataset For Portuguese Definition Generation**|Anna Beatriz Dimas Furtado et.al.|[2403.18018](http://arxiv.org/abs/2403.18018)|null|
-|**2024-03-26**|**Towards Explaining Hypercomplex Neural Networks**|Eleonora Lopez et.al.|[2403.17929](http://arxiv.org/abs/2403.17929)|null|
+|**2024-03-26**|**Towards Explaining Hypercomplex Neural Networks**|Eleonora Lopez et.al.|[2403.17929](http://arxiv.org/abs/2403.17929)|**[link](https://github.com/ispamm/hxai)**|
 |**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909](http://arxiv.org/abs/2403.17909)|**[link](https://github.com/techmn/elgcnet)**|
 |**2024-03-26**|**Image-based Novel Fault Detection with Deep Learning Classifiers using Hierarchical Labels**|Nurettin Sergin et.al.|[2403.17891](http://arxiv.org/abs/2403.17891)|null|
 |**2024-03-26**|**ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on Historical American Newspaper Pages**|Bhawna Piryani et.al.|[2403.17859](http://arxiv.org/abs/2403.17859)|**[link](https://github.com/datascienceuibk/chroniclingamericaqa)**|
@@ -1063,7 +1063,7 @@
 |**2024-03-25**|**RepairAgent: An Autonomous, LLM-Based Agent for Program Repair**|Islem Bouzenia et.al.|[2403.17134](http://arxiv.org/abs/2403.17134)|null|
 |**2024-03-25**|**Deep learning-based predictive modelling of transonic flow over an aerofoil**|Li-Wei Chen et.al.|[2403.17131](http://arxiv.org/abs/2403.17131)|null|
 |**2024-03-25**|**Enhancing UAV Security Through Zero Trust Architecture: An Advanced Deep Learning and Explainable AI Analysis**|Ekramul Haque et.al.|[2403.17093](http://arxiv.org/abs/2403.17093)|null|
-|**2024-03-25**|**Self-STORM: Deep Unrolled Self-Supervised Learning for Super-Resolution Microscopy**|Yair Ben Sahel et.al.|[2403.16974](http://arxiv.org/abs/2403.16974)|null|
+|**2024-03-25**|**Self-STORM: Deep Unrolled Self-Supervised Learning for Super-Resolution Microscopy**|Yair Ben Sahel et.al.|[2403.16974](http://arxiv.org/abs/2403.16974)|**[link](https://github.com/yairbs/Self-STORM)**|
 |**2024-03-25**|**Joint chest X-ray diagnosis and clinical visual attention prediction with multi-stage cooperative learning: enhancing interpretability**|Zirui Qiu et.al.|[2403.16970](http://arxiv.org/abs/2403.16970)|null|
 |**2024-03-25**|**Cluster-Based Normalization Layer for Neural Networks**|Bilal Faye et.al.|[2403.16798](http://arxiv.org/abs/2403.16798)|null|
 |**2024-03-25**|**The Anatomy of Adversarial Attacks: Concept-based XAI Dissection**|Georgii Mikriukov et.al.|[2403.16782](http://arxiv.org/abs/2403.16782)|null|
@@ -1132,7 +1132,7 @@
 |**2024-03-22**|**Federated Bayesian Deep Learning: The Application of Statistical Aggregation Methods to Bayesian Models**|John Fischer et.al.|[2403.15263](http://arxiv.org/abs/2403.15263)|null|
 |**2024-03-22**|**Hyperbolic Metric Learning for Visual Outlier Detection**|Alvaro Gonzalez-Jimenez et.al.|[2403.15260](http://arxiv.org/abs/2403.15260)|null|
 |**2024-03-22**|**Self-Supervised Backbone Framework for Diverse Agricultural Vision Tasks**|Sudhir Sornapudi et.al.|[2403.15248](http://arxiv.org/abs/2403.15248)|null|
-|**2024-03-22**|**WEEP: A method for spatial interpretation of weakly supervised CNN models in computational pathology**|Abhinav Sharma et.al.|[2403.15238](http://arxiv.org/abs/2403.15238)|null|
+|**2024-03-22**|**WEEP: A method for spatial interpretation of weakly supervised CNN models in computational pathology**|Abhinav Sharma et.al.|[2403.15238](http://arxiv.org/abs/2403.15238)|**[link](https://github.com/rantalainengroup/weep)**|
 |**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218](http://arxiv.org/abs/2403.15218)|**[link](https://github.com/um2ii/sam_dataannotation)**|
 |**2024-03-22**|**Your Image is My Video: Reshaping the Receptive Field via Image-To-Video Differentiable AutoAugmentation and Fusion**|Sofia Casarin et.al.|[2403.15194](http://arxiv.org/abs/2403.15194)|null|
 |**2024-03-22**|**Towards Deep Learning Enabled Cybersecurity Risk Assessment for Microservice Architectures**|Majid Abdulsatar et.al.|[2403.15169](http://arxiv.org/abs/2403.15169)|null|
