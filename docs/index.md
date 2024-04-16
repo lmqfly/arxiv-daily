@@ -377,7 +377,7 @@ layout: default
 |**2023-10-08**|**PointGAT: A quantum chemical property prediction model integrating graph attention and 3D geometry**|Rong Zhang et.al.|[2310.05217](http://arxiv.org/abs/2310.05217)|null|
 |**2023-10-10**|**GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction**|Suryanarayanan Balaji et.al.|[2310.03030](http://arxiv.org/abs/2310.03030)|null|
 |**2023-08-25**|**Synergistic Fusion of Graph and Transformer Features for Enhanced Molecular Property Prediction**|M V Sai Prakash et.al.|[2310.03027](http://arxiv.org/abs/2310.03027)|null|
-|**2023-10-04**|**On the Stability of Expressive Positional Encodings for Graph Neural Networks**|Yinan Huang et.al.|[2310.02579](http://arxiv.org/abs/2310.02579)|**[link](https://github.com/Graph-COM/SPE)**|
+|**2024-04-15**|**On the Stability of Expressive Positional Encodings for Graphs**|Yinan Huang et.al.|[2310.02579](http://arxiv.org/abs/2310.02579)|**[link](https://github.com/Graph-COM/SPE)**|
 |**2023-10-01**|**Hierarchical Adaptation with Hypernetworks for Few-shot Molecular Property Prediction**|Shiguang Wu et.al.|[2310.00614](http://arxiv.org/abs/2310.00614)|null|
 |**2024-01-18**|**3D-Mol: A Novel Contrastive Learning Framework for Molecular Property Prediction with 3D Information**|Taojie Kuang et.al.|[2309.17366](http://arxiv.org/abs/2309.17366)|null|
 |**2023-09-08**|**Motif-aware Attribute Masking for Molecular Graph Pre-training**|Eric Inae et.al.|[2309.04589](http://arxiv.org/abs/2309.04589)|**[link](https://github.com/einae-nd/moama-dev)**|
@@ -446,6 +446,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Thermodynamic and Transport Properties of Binary Mixtures of Polyethylene and Higher n-Alkanes from Physics-Informed and Machine-Learned Models**|Maria Ley-Flores et.al.|[2404.09676](http://arxiv.org/abs/2404.09676)|null|
+|**2024-04-12**|**Hydroxide Transport and Mechanical Properties of Polyolefin-Based Anion Exchange Membranes from Atomistic Molecular Dynamics Simulations**|Mohammed Al Otmi et.al.|[2404.08804](http://arxiv.org/abs/2404.08804)|null|
 |**2024-04-12**|**Evidence of ferroelectric features in low-density supercooled water from ab initio deep neural-network simulations**|Cesare Malosso et.al.|[2404.08338](http://arxiv.org/abs/2404.08338)|null|
 |**2024-04-11**|**Deuteration removes quantum dipolar defects from KDP crystals**|Bingjia Yang et.al.|[2404.08125](http://arxiv.org/abs/2404.08125)|null|
 |**2024-04-11**|**Overcoming the chemical complexity bottleneck in on-the-fly machine learned molecular dynamics simulations**|Lucas R. Timmerman et.al.|[2404.07961](http://arxiv.org/abs/2404.07961)|null|
@@ -577,6 +579,37 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**AMPCliff: quantitative definition and benchmarking of activity cliffs in antimicrobial peptides**|Kewei Li et.al.|[2404.09738](http://arxiv.org/abs/2404.09738)|**[link](https://github.com/kewei2023/ampcliff-generation)**|
+|**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
+|**2024-04-15**|**AntBatchInfer: Elastic Batch Inference in the Kubernetes Cluster**|Siyuan Li et.al.|[2404.09686](http://arxiv.org/abs/2404.09686)|null|
+|**2024-04-15**|**Post-Training Network Compression for 3D Medical Image Segmentation: Reducing Computational Efforts via Tucker Decomposition**|Tobias Weber et.al.|[2404.09683](http://arxiv.org/abs/2404.09683)|**[link](https://github.com/clinicaldatascience/tucker-cnn)**|
+|**2024-04-15**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
+|**2024-04-15**|**Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation**|Shangqing Liu et.al.|[2404.09599](http://arxiv.org/abs/2404.09599)|null|
+|**2024-04-15**|**MTKD: Multi-Teacher Knowledge Distillation for Image Super-Resolution**|Yuxuan Jiang et.al.|[2404.09571](http://arxiv.org/abs/2404.09571)|null|
+|**2024-04-15**|**WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**|Bin Wang et.al.|[2404.09533](http://arxiv.org/abs/2404.09533)|null|
+|**2024-04-15**|**RanLayNet: A Dataset for Document Layout Detection used for Domain Adaptation and Generalization**|Avinash Anand et.al.|[2404.09530](http://arxiv.org/abs/2404.09530)|**[link](https://github.com/midas-research/randomlaynet)**|
+|**2024-04-15**|**State Space Model for New-Generation Network Alternative to Transformers: A Survey**|Xiao Wang et.al.|[2404.09516](http://arxiv.org/abs/2404.09516)|**[link](https://github.com/event-ahu/mamba_state_space_model_paper_list)**|
+|**2024-04-15**|**Deep Learning for Cosmological Parameter Inference from Dark Matter Halo Density Field**|Zhiwei Min et.al.|[2404.09483](http://arxiv.org/abs/2404.09483)|null|
+|**2024-04-15**|**Experimental Analysis of Deep Hedging Using Artificial Market Simulations for Underlying Asset Simulators**|Masanori Hirano et.al.|[2404.09462](http://arxiv.org/abs/2404.09462)|null|
+|**2024-04-15**|**Developing Lagrangian-based Methods for Nonsmooth Nonconvex Optimization**|Nachuan Xiao et.al.|[2404.09438](http://arxiv.org/abs/2404.09438)|null|
+|**2024-04-15**|**Privacy at a Price: Exploring its Dual Impact on AI Fairness**|Mengmeng Yang et.al.|[2404.09391](http://arxiv.org/abs/2404.09391)|null|
+|**2024-04-14**|**Foundational GPT Model for MEG**|Richard Csaky et.al.|[2404.09256](http://arxiv.org/abs/2404.09256)|**[link](https://github.com/ricsinaruto/meg-transfer-decoding)**|
+|**2024-04-14**|**Breast Cancer Image Classification Method Based on Deep Transfer Learning**|Weimin Wang et.al.|[2404.09226](http://arxiv.org/abs/2404.09226)|null|
+|**2024-04-14**|**HANet: A Hierarchical Attention Network for Change Detection With Bitemporal Very-High-Resolution Remote Sensing Images**|Chengxi Han et.al.|[2404.09178](http://arxiv.org/abs/2404.09178)|**[link](https://github.com/chengxihan/hanet-cd)**|
+|**2024-04-14**|**TransformerFAM: Feedback attention is working memory**|Dongseong Hwang et.al.|[2404.09173](http://arxiv.org/abs/2404.09173)|null|
+|**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/abs/2404.09169)|null|
+|**2024-04-14**|**Survey on Embedding Models for Knowledge Graph and its Applications**|Manita Pote et.al.|[2404.09167](http://arxiv.org/abs/2404.09167)|null|
+|**2024-04-14**|**Extreme quantile regression with deep learning**|Jordan Richards et.al.|[2404.09154](http://arxiv.org/abs/2404.09154)|null|
+|**2024-04-13**|**Proof-of-Learning with Incentive Security**|Zishuo Zhao et.al.|[2404.09005](http://arxiv.org/abs/2404.09005)|null|
+|**2024-04-13**|**NeurIT: Pushing the Limit of Neural Inertial Tracking for Indoor Robotic IoT**|Xinzhe Zheng et.al.|[2404.08939](http://arxiv.org/abs/2404.08939)|**[link](https://github.com/neurit-project/neurit)**|
+|**2024-04-13**|**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model**|Kai Tang et.al.|[2404.08892](http://arxiv.org/abs/2404.08892)|null|
+|**2024-04-12**|**Single-image driven 3d viewpoint training data augmentation for effective wine label recognition**|Yueh-Cheng Huang et.al.|[2404.08820](http://arxiv.org/abs/2404.08820)|null|
+|**2024-04-12**|**Real-time guidewire tracking and segmentation in intraoperative x-ray**|Baochang Zhang et.al.|[2404.08805](http://arxiv.org/abs/2404.08805)|null|
+|**2024-04-12**|**Transient Classifiers for Fink: Benchmarks for LSST**|B. M. O. Fraga et.al.|[2404.08798](http://arxiv.org/abs/2404.08798)|null|
+|**2024-04-12**|**Diffusion-Based Joint Temperature and Precipitation Emulation of Earth System Models**|Katie Christensen et.al.|[2404.08797](http://arxiv.org/abs/2404.08797)|null|
+|**2024-04-12**|**Leveraging Normalizing Flows for Orbital-Free Density Functional Theory**|Alexandre de Camargo et.al.|[2404.08764](http://arxiv.org/abs/2404.08764)|null|
+|**2024-04-11**|**Synthetic Brain Images: Bridging the Gap in Brain Mapping With Generative Adversarial Model**|Drici Mourad et.al.|[2404.08703](http://arxiv.org/abs/2404.08703)|null|
+|**2024-04-11**|**Predictive Modelling of Air Quality Index (AQI) Across Diverse Cities and States of India using Machine Learning: Investigating the Influence of Punjab's Stubble Burning on AQI Variability**|Kamaljeet Kaur Sidhu et.al.|[2404.08702](http://arxiv.org/abs/2404.08702)|null|
 |**2024-04-12**|**Regularized Gradient Clipping Provably Trains Wide and Deep Neural Networks**|Matteo Tucat et.al.|[2404.08624](http://arxiv.org/abs/2404.08624)|**[link](https://github.com/matteo-tucat/delta-gradient-clipping)**|
 |**2024-04-12**|**Generating Synthetic Time Series Data for Cyber-Physical Systems**|Alexander Sommers et.al.|[2404.08601](http://arxiv.org/abs/2404.08601)|null|
 |**2024-04-12**|**Benchmarking the Cell Image Segmentation Models Robustness under the Microscope Optical Aberrations**|Boyuan Peng et.al.|[2404.08549](http://arxiv.org/abs/2404.08549)|null|
@@ -592,7 +625,7 @@ layout: default
 |**2024-04-12**|**Multi-Step Traffic Prediction for Multi-Period Planning in Optical Networks**|Hafsa Maryam et.al.|[2404.08314](http://arxiv.org/abs/2404.08314)|null|
 |**2024-04-12**|**Subtoxic Questions: Dive Into Attitude Change of LLM's Response in Jailbreak Attempts**|Tianyu Zhang et.al.|[2404.08309](http://arxiv.org/abs/2404.08309)|null|
 |**2024-04-12**|**Interference Motion Removal for Doppler Radar Vital Sign Detection Using Variational Encoder-Decoder Neural Network**|Mikolaj Czerkawski et.al.|[2404.08298](http://arxiv.org/abs/2404.08298)|null|
-|**2024-04-12**|**A Survey of Neural Network Robustness Assessment in Image Recognition**|Jie Wang et.al.|[2404.08285](http://arxiv.org/abs/2404.08285)|null|
+|**2024-04-15**|**A Survey of Neural Network Robustness Assessment in Image Recognition**|Jie Wang et.al.|[2404.08285](http://arxiv.org/abs/2404.08285)|null|
 |**2024-04-12**|**Quantum molecular docking with quantum-inspired algorithm**|Yunting Li et.al.|[2404.08265](http://arxiv.org/abs/2404.08265)|null|
 |**2024-04-12**|**A Mutual Inclusion Mechanism for Precise Boundary Segmentation in Medical Images**|Yizhi Pan et.al.|[2404.08201](http://arxiv.org/abs/2404.08201)|null|
 |**2024-04-12**|**Measuring Domain Shifts using Deep Learning Remote Photoplethysmography Model Similarity**|Nathan Vance et.al.|[2404.08184](http://arxiv.org/abs/2404.08184)|null|
@@ -1417,7 +1450,7 @@ layout: default
 |**2023-03-17**|**Geometric Deep Learning for Molecular Crystal Structure Prediction**|Michael Kilgour et.al.|[2303.10140](http://arxiv.org/abs/2303.10140)|null|
 |**2023-03-17**|**Fluid Dynamics Network: Topology-Agnostic 4D Reconstruction via Fluid Dynamics Priors**|Daniele Baieri et.al.|[2303.09871](http://arxiv.org/abs/2303.09871)|null|
 |**2023-08-03**|**On the Use of Geometric Deep Learning for the Iterative Classification and Down-Selection of Analog Electric Circuits**|Anthony Sirico Jr. et.al.|[2303.09770](http://arxiv.org/abs/2303.09770)|**[link](https://github.com/anthonysirico/gdl-for-engineering-design)**|
-|**2023-03-13**|**An elementary method to compute equivariant convolutional kernels on homogeneous spaces for geometric deep learning**|Vincent Knibbeler et.al.|[2303.07157](http://arxiv.org/abs/2303.07157)|null|
+|**2024-04-15**|**Computing equivariant matrices on homogeneous spaces for Geometric Deep Learning and Automorphic Lie Algebras**|Vincent Knibbeler et.al.|[2303.07157](http://arxiv.org/abs/2303.07157)|null|
 |**2023-03-03**|**Skeletal Point Representations with Geometric Deep Learning**|Ninad Khargonkar et.al.|[2303.02123](http://arxiv.org/abs/2303.02123)|**[link](https://github.com/kninad/skeleton-nn)**|
 |**2023-12-15**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410](http://arxiv.org/abs/2302.11410)|**[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)**|
 |**2023-02-17**|**Generative Ornstein-Uhlenbeck Markets via Geometric Deep Learning**|Anastasis Kratsios et.al.|[2302.09176](http://arxiv.org/abs/2302.09176)|null|
