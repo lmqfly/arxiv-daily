@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.15
+## Updated on 2024.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -577,7 +577,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-12**|**Regularized Gradient Clipping Provably Trains Wide and Deep Neural Networks**|Matteo Tucat et.al.|[2404.08624](http://arxiv.org/abs/2404.08624)|null|
+|**2024-04-12**|**Regularized Gradient Clipping Provably Trains Wide and Deep Neural Networks**|Matteo Tucat et.al.|[2404.08624](http://arxiv.org/abs/2404.08624)|**[link](https://github.com/matteo-tucat/delta-gradient-clipping)**|
 |**2024-04-12**|**Generating Synthetic Time Series Data for Cyber-Physical Systems**|Alexander Sommers et.al.|[2404.08601](http://arxiv.org/abs/2404.08601)|null|
 |**2024-04-12**|**Benchmarking the Cell Image Segmentation Models Robustness under the Microscope Optical Aberrations**|Boyuan Peng et.al.|[2404.08549](http://arxiv.org/abs/2404.08549)|null|
 |**2024-04-12**|**Analyzing Decades-Long Environmental Changes in Namibia Using Archival Aerial Photography and Deep Learning**|Girmaw Abebe Tadesse et.al.|[2404.08544](http://arxiv.org/abs/2404.08544)|null|
@@ -634,7 +634,7 @@ layout: default
 |**2024-04-10**|**GANsemble for Small and Imbalanced Data Sets: A Baseline for Synthetic Microplastics Data**|Daniel Platnick et.al.|[2404.07356](http://arxiv.org/abs/2404.07356)|**[link](https://github.com/DanielPlatnick/GANsemble)**|
 |**2024-04-10**|**PEAVS: Perceptual Evaluation of Audio-Visual Synchrony Grounded in Viewers' Opinion Scores**|Lucas Goncalves et.al.|[2404.07336](http://arxiv.org/abs/2404.07336)|**[link](https://github.com/amazon-science/avgen-eval-toolkit)**|
 |**2024-04-10**|**AI-Guided Defect Detection Techniques to Model Single Crystal Diamond Growth**|Rohan Reddy Mekala et.al.|[2404.07306](http://arxiv.org/abs/2404.07306)|null|
-|**2024-04-10**|**Predicting Mergers and Acquisitions in Competitive Industries: A Model Based on Temporal Dynamics and Industry Networks**|Dayu Yang et.al.|[2404.07298](http://arxiv.org/abs/2404.07298)|**[link](https://github.com/dayuyang1999/merger_acquisition_prediction)**|
+|**2024-04-13**|**Predicting Mergers and Acquisitions: Temporal Dynamic Industry Networks**|Dayu Yang et.al.|[2404.07298](http://arxiv.org/abs/2404.07298)|**[link](https://github.com/dayuyang1999/merger_acquisition_prediction)**|
 |**2024-04-08**|**Lightweight Deep Learning for Resource-Constrained Environments: A Survey**|Hou-I Liu et.al.|[2404.07236](http://arxiv.org/abs/2404.07236)|null|
 |**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176](http://arxiv.org/abs/2404.07176)|null|
 |**2024-04-10**|**Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots**|Yuan Wang et.al.|[2404.07168](http://arxiv.org/abs/2404.07168)|null|
