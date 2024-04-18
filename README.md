@@ -465,6 +465,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**A methodology of quantifying membrane permeability based on returning probability theory and molecular dynamics simulation**|Yuya Matsubara et.al.|[2404.11363](http://arxiv.org/abs/2404.11363)|null|
+|**2024-04-17**|**Dynamic Local Symmetry Fluctuations of Electron Density in Halide Perovskites**|Colin M. Hylton-Farrington et.al.|[2404.11247](http://arxiv.org/abs/2404.11247)|null|
 |**2024-04-17**|**Efficient Electrochemical CO2 Reduction Reaction over Cu-decorated Biphenylene**|Radha N Somaiya et.al.|[2404.10409](http://arxiv.org/abs/2404.10409)|null|
 |**2024-04-15**|**Time-Heterogeneity of the Förster Radius from Dipole Orientational Dynamics Explains Observed Dynamic Shift**|David Frost et.al.|[2404.09883](http://arxiv.org/abs/2404.09883)|null|
 |**2024-04-15**|**Accurate quantum Monte Carlo forces for machine-learned force fields: Ethanol as a benchmark**|Emiel Slootman et.al.|[2404.09755](http://arxiv.org/abs/2404.09755)|null|
@@ -604,6 +606,43 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Explainable Artificial Intelligence Techniques for Accurate Fault Detection and Diagnosis: A Review**|Ahmed Maged et.al.|[2404.11597](http://arxiv.org/abs/2404.11597)|null|
+|**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
+|**2024-04-17**|**Simple Image Signal Processing using Global Context Guidance**|Omar Elezabi et.al.|[2404.11569](http://arxiv.org/abs/2404.11569)|null|
+|**2024-04-17**|**On the Scalability of GNNs for Molecular Graphs**|Maciej Sypetkowski et.al.|[2404.11568](http://arxiv.org/abs/2404.11568)|null|
+|**2024-04-17**|**A Comparison of Traditional and Deep Learning Methods for Parameter Estimation of the Ornstein-Uhlenbeck Process**|Jacob Fein-Ashley et.al.|[2404.11526](http://arxiv.org/abs/2404.11526)|null|
+|**2024-04-17**|**A Federated Learning Approach to Privacy Preserving Offensive Language Identification**|Marcos Zampieri et.al.|[2404.11470](http://arxiv.org/abs/2404.11470)|null|
+|**2024-04-17**|**AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts**|Meng Jiang et.al.|[2404.11449](http://arxiv.org/abs/2404.11449)|null|
+|**2024-04-17**|**Research on emotionally intelligent dialogue generation based on automatic dialogue system**|Jin Wang et.al.|[2404.11447](http://arxiv.org/abs/2404.11447)|null|
+|**2024-04-17**|**Explainable Lung Disease Classification from Chest X-Ray Images Utilizing Deep Learning and XAI**|Tanzina Taher Ifty et.al.|[2404.11428](http://arxiv.org/abs/2404.11428)|null|
+|**2024-04-17**|**Tensor Factorisation for Polypharmacy Side Effect Prediction**|Oliver Lloyd et.al.|[2404.11374](http://arxiv.org/abs/2404.11374)|null|
+|**2024-04-17**|**Boosting Medical Image Segmentation Performance with Adaptive Convolution Layer**|Seyed M. R. Modaresi et.al.|[2404.11361](http://arxiv.org/abs/2404.11361)|null|
+|**2024-04-17**|**Consisaug: A Consistency-based Augmentation for Polyp Detection in Endoscopy Image Analysis**|Ziyu Zhou et.al.|[2404.11355](http://arxiv.org/abs/2404.11355)|**[link](https://github.com/zhouziyuya/consisaug)**|
+|**2024-04-17**|**Best Practices for a Handwritten Text Recognition System**|George Retsinas et.al.|[2404.11339](http://arxiv.org/abs/2404.11339)|**[link](https://github.com/georgeretsi/htr-best-practices)**|
+|**2024-04-17**|**RD2Bench: Toward Data-Centric Automatic R&D**|Haotian Chen et.al.|[2404.11276](http://arxiv.org/abs/2404.11276)|null|
+|**2024-04-17**|**Criteria for Uncertainty-based Corner Cases Detection in Instance Segmentation**|Florian Heidecker et.al.|[2404.11266](http://arxiv.org/abs/2404.11266)|null|
+|**2024-04-17**|**Deep Joint Learning valuation of Bermudan Swaptions**|Francisco Gómez Casanova et.al.|[2404.11257](http://arxiv.org/abs/2404.11257)|null|
+|**2024-04-17**|**Learning Social Navigation from Demonstrations with Deep Neural Networks**|Yigit Yildirim et.al.|[2404.11246](http://arxiv.org/abs/2404.11246)|null|
+|**2024-04-17**|**Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case**|João Gabriel Vinholi et.al.|[2404.11243](http://arxiv.org/abs/2404.11243)|null|
+|**2024-04-17**|**Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge**|Muhammad Zawish et.al.|[2404.11230](http://arxiv.org/abs/2404.11230)|null|
+|**2024-04-17**|**Deep Neural Networks via Complex Network Theory: a Perspective**|Emanuele La Malfa et.al.|[2404.11172](http://arxiv.org/abs/2404.11172)|null|
+|**2024-04-17**|**Context-Aware Siamese Networks for Efficient Emotion Recognition in Conversation**|Barbara Gendron et.al.|[2404.11141](http://arxiv.org/abs/2404.11141)|null|
+|**2024-04-17**|**MHLR: Moving Haar Learning Rate Scheduler for Large-scale Face Recognition Training with One GPU**|Xueyuan Gong et.al.|[2404.11118](http://arxiv.org/abs/2404.11118)|null|
+|**2024-04-17**|**Reuse out-of-year data to enhance land cover mappingvia feature disentanglement and contrastive learning**|Cassio F. Dantas et.al.|[2404.11114](http://arxiv.org/abs/2404.11114)|null|
+|**2024-04-17**|**Synthesizing Realistic Data for Table Recognition**|Qiyu Hou et.al.|[2404.11100](http://arxiv.org/abs/2404.11100)|null|
+|**2024-04-17**|**Efficient Approaches for GEMM Acceleration on Leading AI-Optimized FPGAs**|Endri Taka et.al.|[2404.11066](http://arxiv.org/abs/2404.11066)|null|
+|**2024-04-17**|**Multimodal Fusion of Echocardiography and Electronic Health Records for the Detection of Cardiac Amyloidosis**|Zishun Feng et.al.|[2404.11058](http://arxiv.org/abs/2404.11058)|null|
+|**2024-04-17**|**WPS-Dataset: A benchmark for wood plate segmentation in bark removal processing**|Rijun Wang et.al.|[2404.11051](http://arxiv.org/abs/2404.11051)|null|
+|**2024-04-17**|**Cross-Platform Hate Speech Detection with Weakly Supervised Causal Disentanglement**|Paras Sheth et.al.|[2404.11036](http://arxiv.org/abs/2404.11036)|null|
+|**2024-04-17**|**A Survey on Retrieval-Augmented Text Generation for Large Language Models**|Yizheng Huang et.al.|[2404.10981](http://arxiv.org/abs/2404.10981)|null|
+|**2024-04-17**|**Hyper Evidential Deep Learning to Quantify Composite Classification Uncertainty**|Changbin Li et.al.|[2404.10980](http://arxiv.org/abs/2404.10980)|**[link](https://github.com/hugo101/hyperevidentialnn)**|
+|**2024-04-17**|**IMIL: Interactive Medical Image Learning Framework**|Adrit Rao et.al.|[2404.10965](http://arxiv.org/abs/2404.10965)|null|
+|**2024-04-16**|**Tao: Re-Thinking DL-based Microarchitecture Simulation**|Santosh Pandey et.al.|[2404.10921](http://arxiv.org/abs/2404.10921)|null|
+|**2024-04-16**|**Causal Effect Estimation Using Random Hyperplane Tessellations**|Abhishek Dalvi et.al.|[2404.10907](http://arxiv.org/abs/2404.10907)|null|
+|**2024-04-16**|**Automatic classification of prostate MR series type using image content and metadata**|Deepa Krishnaswamy et.al.|[2404.10892](http://arxiv.org/abs/2404.10892)|**[link](https://github.com/deepakri201/dicomscanclassification)**|
+|**2024-04-16**|**Deep Learning Methods for Colloidal Silver Nanoparticle Concentration and Size Distribution Determination from UV-Vis Extinction Spectra**|Tomas Klinavičius et.al.|[2404.10891](http://arxiv.org/abs/2404.10891)|null|
+|**2024-04-16**|**Geometric Neural Operators (GNPs) for Data-Driven Deep Learning of Non-Euclidean Operators**|Blaine Quackenbush et.al.|[2404.10843](http://arxiv.org/abs/2404.10843)|null|
+|**2024-04-15**|**Black-box Adversarial Transferability: An Empirical Study in Cybersecurity Perspective**|Khushnaseeb Roshan et.al.|[2404.10796](http://arxiv.org/abs/2404.10796)|null|
 |**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
 |**2024-04-16**|**How Deep Networks Learn Sparse and Hierarchical Data: the Sparse Random Hierarchy Model**|Umberto Tomasini et.al.|[2404.10727](http://arxiv.org/abs/2404.10727)|null|
 |**2024-04-16**|**Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks**|Mohsen Hami et.al.|[2404.10664](http://arxiv.org/abs/2404.10664)|null|
