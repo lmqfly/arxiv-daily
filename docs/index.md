@@ -586,6 +586,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Learning the Domain Specific Inverse NUFFT for Accelerated Spiral MRI using Diffusion Models**|Trevor J. Chan et.al.|[2404.12361](http://arxiv.org/abs/2404.12361)|null|
+|**2024-04-18**|**When Medical Imaging Met Self-Attention: A Love Story That Didn't Quite Work Out**|Tristan Piater et.al.|[2404.12295](http://arxiv.org/abs/2404.12295)|null|
+|**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285](http://arxiv.org/abs/2404.12285)|null|
+|**2024-04-18**|**DeepLocalization: Using change point detection for Temporal Action Localization**|Mohammed Shaiqur Rahman et.al.|[2404.12258](http://arxiv.org/abs/2404.12258)|null|
+|**2024-04-18**|**Deep Gaussian mixture model for unsupervised image segmentation**|Matthias Schwab et.al.|[2404.12252](http://arxiv.org/abs/2404.12252)|null|
+|**2024-04-17**|**Mushroom Segmentation and 3D Pose Estimation from Point Clouds using Fully Convolutional Geometric Features and Implicit Pose Encoding**|George Retsinas et.al.|[2404.12144](http://arxiv.org/abs/2404.12144)|null|
+|**2024-04-18**|**Enhancing Suicide Risk Assessment: A Speech-Based Automated Approach in Emergency Medicine**|Shahin Amiriparian et.al.|[2404.12132](http://arxiv.org/abs/2404.12132)|null|
+|**2024-04-18**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|Weikang Yu et.al.|[2404.12081](http://arxiv.org/abs/2404.12081)|**[link](https://github.com/ericyu97/maskcd)**|
+|**2024-04-18**|**TIMIT Speaker Profiling: A Comparison of Multi-task learning and Single-task learning Approaches**|Rong Wang et.al.|[2404.12077](http://arxiv.org/abs/2404.12077)|null|
+|**2024-04-18**|**PureForest: A Large-scale Aerial Lidar and Aerial Imagery Dataset for Tree Species Classification in Monospecific Forests**|Charles Gaydon et.al.|[2404.12064](http://arxiv.org/abs/2404.12064)|null|
+|**2024-04-18**|**Deep learning to detect gravitational waves from binary close encounters: Fast parameter estimation using normalizing flows**|Federico De Santi et.al.|[2404.12028](http://arxiv.org/abs/2404.12028)|null|
+|**2024-04-18**|**PID Tuning using Cross-Entropy Deep Learning: a Lyapunov Stability Analysis**|Hector Kohler et.al.|[2404.12025](http://arxiv.org/abs/2404.12025)|null|
+|**2024-04-18**|**DST-GTN: Dynamic Spatio-Temporal Graph Transformer Network for Traffic Forecasting**|Songtao Huang et.al.|[2404.11996](http://arxiv.org/abs/2404.11996)|null|
+|**2024-04-18**|**Large Language Models: From Notes to Musical Form**|Lilac Atassi et.al.|[2404.11976](http://arxiv.org/abs/2404.11976)|null|
+|**2024-04-18**|**Device (In)Dependence of Deep Learning-based Image Age Approximation**|Robert Jöchl et.al.|[2404.11974](http://arxiv.org/abs/2404.11974)|null|
+|**2024-04-18**|**EN-TensorCore: Advancing TensorCores Performance through Encoder-Based Methodology**|Qizhe Wu et.al.|[2404.11887](http://arxiv.org/abs/2404.11887)|null|
+|**2024-04-18**|**Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation**|Yang Lu et.al.|[2404.11858](http://arxiv.org/abs/2404.11858)|null|
+|**2024-04-17**|**When are Foundation Models Effective? Understanding the Suitability for Pixel-Level Classification Using Multispectral Imagery**|Yiqun Xie et.al.|[2404.11797](http://arxiv.org/abs/2404.11797)|null|
+|**2024-04-17**|**End-to-End Mesh Optimization of a Hybrid Deep Learning Black-Box PDE Solver**|Shaocong Ma et.al.|[2404.11766](http://arxiv.org/abs/2404.11766)|null|
+|**2024-04-17**|**Virtual Foundry Graphnet for Metal Sintering Deformation Prediction**|Rachel et.al.|[2404.11753](http://arxiv.org/abs/2404.11753)|null|
+|**2024-04-17**|**Mapping Violence: Developing an Extensive Framework to Build a Bangla Sectarian Expression Dataset from Social Media Interactions**|Nazia Tasnim et.al.|[2404.11752](http://arxiv.org/abs/2404.11752)|null|
+|**2024-04-17**|**Learning with 3D rotations, a hitchhiker's guide to SO(3)**|A. René Geist et.al.|[2404.11735](http://arxiv.org/abs/2404.11735)|**[link](https://github.com/martius-lab/hitchhiking-rotations)**|
+|**2024-04-17**|**Deep Learning for Video-Based Assessment of Endotracheal Intubation Skills**|Jean-Paul Ainam et.al.|[2404.11727](http://arxiv.org/abs/2404.11727)|null|
+|**2024-04-17**|**GEOBIND: Binding Text, Image, and Audio through Satellite Images**|Aayush Dhakal et.al.|[2404.11720](http://arxiv.org/abs/2404.11720)|null|
+|**2024-04-17**|**Improvement in Semantic Address Matching using Natural Language Processing**|Vansh Gupta et.al.|[2404.11691](http://arxiv.org/abs/2404.11691)|null|
+|**2024-04-17**|**Deep Dependency Networks and Advanced Inference Schemes for Multi-Label Classification**|Shivvrat Arya et.al.|[2404.11667](http://arxiv.org/abs/2404.11667)|null|
 |**2024-04-17**|**Explainable Artificial Intelligence Techniques for Accurate Fault Detection and Diagnosis: A Review**|Ahmed Maged et.al.|[2404.11597](http://arxiv.org/abs/2404.11597)|null|
 |**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
 |**2024-04-17**|**Simple Image Signal Processing using Global Context Guidance**|Omar Elezabi et.al.|[2404.11569](http://arxiv.org/abs/2404.11569)|**[link](https://github.com/mv-lab/AISP)**|
@@ -1365,6 +1391,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space**|Yanru Qu et.al.|[2404.12141](http://arxiv.org/abs/2404.12141)|**[link](https://github.com/algomole/molcraft)**|
 |**2024-04-12**|**Ligand Equilibrium Influences Photoluminescence Blinking in CsPbBr3: A Change Point Analysis of Widefield Imaging Data**|Shaun Gallagher et.al.|[2404.08166](http://arxiv.org/abs/2404.08166)|null|
 |**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481](http://arxiv.org/abs/2404.06481)|null|
 |**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
