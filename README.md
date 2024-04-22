@@ -265,7 +265,7 @@
 |**2023-12-21**|**De novo Drug Design using Reinforcement Learning with Multiple GPT Agents**|Xiuyuan Hu et.al.|[2401.06155](http://arxiv.org/abs/2401.06155)|**[link](https://github.com/hxyfighter/molrl-mgpt)**|
 |**2023-11-21**|**nach0: Multimodal Natural and Chemical Languages Foundation Model**|Micha Livne et.al.|[2311.12410](http://arxiv.org/abs/2311.12410)|null|
 |**2023-11-02**|**Investigating the Behavior of Diffusion Models for Accelerating Electronic Structure Calculations**|Daniel Rothchild et.al.|[2311.01491](http://arxiv.org/abs/2311.01491)|null|
-|**2024-03-29**|**TacoGFN: Target-conditioned GFlowNet for Structure-based Drug Design**|Tony Shen et.al.|[2310.03223](http://arxiv.org/abs/2310.03223)|null|
+|**2024-03-29**|**TacoGFN: Target-conditioned GFlowNet for Structure-based Drug Design**|Tony Shen et.al.|[2310.03223](http://arxiv.org/abs/2310.03223)|**[link](https://github.com/tsa87/TacoGFN-SBDD)**|
 |**2024-02-06**|**Drug Discovery with Dynamic Goal-aware Fragments**|Seul Lee et.al.|[2310.00841](http://arxiv.org/abs/2310.00841)|null|
 |**2023-09-28**|**Compositional Sculpting of Iterative Generative Processes**|Timur Garipov et.al.|[2309.16115](http://arxiv.org/abs/2309.16115)|null|
 |**2024-03-03**|**Beam Enumeration: Probabilistic Explainability For Sample Efficient Self-conditioned Molecular Design**|Jeff Guo et.al.|[2309.13957](http://arxiv.org/abs/2309.13957)|**[link](https://github.com/schwallergroup/augmented_memory)**|
@@ -738,12 +738,12 @@
 |**2024-04-14**|**Extreme quantile regression with deep learning**|Jordan Richards et.al.|[2404.09154](http://arxiv.org/abs/2404.09154)|null|
 |**2024-04-13**|**Proof-of-Learning with Incentive Security**|Zishuo Zhao et.al.|[2404.09005](http://arxiv.org/abs/2404.09005)|null|
 |**2024-04-13**|**NeurIT: Pushing the Limit of Neural Inertial Tracking for Indoor Robotic IoT**|Xinzhe Zheng et.al.|[2404.08939](http://arxiv.org/abs/2404.08939)|**[link](https://github.com/neurit-project/neurit)**|
-|**2024-04-13**|**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model**|Kai Tang et.al.|[2404.08892](http://arxiv.org/abs/2404.08892)|null|
+|**2024-04-13**|**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model**|Kai Tang et.al.|[2404.08892](http://arxiv.org/abs/2404.08892)|**[link](https://github.com/tangkai-rs/changeanywhere)**|
 |**2024-04-12**|**Single-image driven 3d viewpoint training data augmentation for effective wine label recognition**|Yueh-Cheng Huang et.al.|[2404.08820](http://arxiv.org/abs/2404.08820)|null|
 |**2024-04-12**|**Real-time guidewire tracking and segmentation in intraoperative x-ray**|Baochang Zhang et.al.|[2404.08805](http://arxiv.org/abs/2404.08805)|null|
 |**2024-04-12**|**Transient Classifiers for Fink: Benchmarks for LSST**|B. M. O. Fraga et.al.|[2404.08798](http://arxiv.org/abs/2404.08798)|null|
 |**2024-04-12**|**Diffusion-Based Joint Temperature and Precipitation Emulation of Earth System Models**|Katie Christensen et.al.|[2404.08797](http://arxiv.org/abs/2404.08797)|null|
-|**2024-04-12**|**Leveraging Normalizing Flows for Orbital-Free Density Functional Theory**|Alexandre de Camargo et.al.|[2404.08764](http://arxiv.org/abs/2404.08764)|null|
+|**2024-04-12**|**Leveraging Normalizing Flows for Orbital-Free Density Functional Theory**|Alexandre de Camargo et.al.|[2404.08764](http://arxiv.org/abs/2404.08764)|**[link](https://github.com/RodrigoAVargasHdz/ofdft_normalizing-flows)**|
 |**2024-04-11**|**Synthetic Brain Images: Bridging the Gap in Brain Mapping With Generative Adversarial Model**|Drici Mourad et.al.|[2404.08703](http://arxiv.org/abs/2404.08703)|null|
 |**2024-04-11**|**Predictive Modelling of Air Quality Index (AQI) Across Diverse Cities and States of India using Machine Learning: Investigating the Influence of Punjab's Stubble Burning on AQI Variability**|Kamaljeet Kaur Sidhu et.al.|[2404.08702](http://arxiv.org/abs/2404.08702)|null|
 |**2024-04-12**|**Regularized Gradient Clipping Provably Trains Wide and Deep Neural Networks**|Matteo Tucat et.al.|[2404.08624](http://arxiv.org/abs/2404.08624)|**[link](https://github.com/matteo-tucat/delta-gradient-clipping)**|
@@ -1066,7 +1066,7 @@
 |**2024-03-30**|**Radio Frequency Interference Detection Using Efficient Multi-Scale Convolutional Attention UNet**|Fei Gu et.al.|[2404.00277](http://arxiv.org/abs/2404.00277)|null|
 |**2024-03-30**|**GreenSaliency: A Lightweight and Efficient Image Saliency Detection Method**|Zhanxuan Mei et.al.|[2404.00253](http://arxiv.org/abs/2404.00253)|null|
 |**2024-03-30**|**Functor String Diagrams: A Novel Approach to Flexible Diagrams for Applied Category Theory**|Vincent Abbott et.al.|[2404.00249](http://arxiv.org/abs/2404.00249)|null|
-|**2024-03-30**|**Attention-based Shape-Deformation Networks for Artifact-Free Geometry Reconstruction of Lumbar Spine from MR Images**|Linchen Qian et.al.|[2404.00231](http://arxiv.org/abs/2404.00231)|null|
+|**2024-03-30**|**Attention-based Shape-Deformation Networks for Artifact-Free Geometry Reconstruction of Lumbar Spine from MR Images**|Linchen Qian et.al.|[2404.00231](http://arxiv.org/abs/2404.00231)|**[link](https://github.com/linchenq/transdeformer-mesh)**|
 |**2024-03-29**|**On Inherent Adversarial Robustness of Active Vision Systems**|Amitangshu Mukherjee et.al.|[2404.00185](http://arxiv.org/abs/2404.00185)|null|
 |**2024-03-29**|**Universal Bovine Identification via Depth Data and Deep Metric Learning**|Asheesh Sharma et.al.|[2404.00172](http://arxiv.org/abs/2404.00172)|null|
 |**2024-03-29**|**Where Are You From? Let Me Guess! Subdialect Recognition of Speeches in Sorani Kurdish**|Sana Isam et.al.|[2404.00124](http://arxiv.org/abs/2404.00124)|null|
@@ -1237,7 +1237,7 @@
 |**2024-03-25**|**ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation**|Hannah Schieber et.al.|[2403.16400](http://arxiv.org/abs/2403.16400)|null|
 |**2024-03-25**|**RSTAR: Rotational Streak Artifact Reduction in 4D CBCT using Separable and Circular Convolutions**|Ziheng Deng et.al.|[2403.16361](http://arxiv.org/abs/2403.16361)|null|
 |**2024-03-24**|**Modeling Analog Dynamic Range Compressors using Deep Learning and State-space Models**|Hanzhi Yin et.al.|[2403.16331](http://arxiv.org/abs/2403.16331)|null|
-|**2024-03-26**|**Object Detectors in the Open Environment: Challenges, Solutions, and Outlook**|Siyuan Liang et.al.|[2403.16271](http://arxiv.org/abs/2403.16271)|null|
+|**2024-03-26**|**Object Detectors in the Open Environment: Challenges, Solutions, and Outlook**|Siyuan Liang et.al.|[2403.16271](http://arxiv.org/abs/2403.16271)|**[link](https://github.com/liangsiyuan21/oeod_survey)**|
 |**2024-03-24**|**Emotion Recognition from the perspective of Activity Recognition**|Savinay Nagendra et.al.|[2403.16263](http://arxiv.org/abs/2403.16263)|null|
 |**2024-03-24**|**An early warning indicator trained on stochastic disease-spreading models with different noises**|Amit K. Chakraborty et.al.|[2403.16233](http://arxiv.org/abs/2403.16233)|**[link](https://github.com/amitkchakraborty/ewsofinfectiousdiseases)**|
 |**2024-03-24**|**On machine learning analysis of atomic force microscopy images for image classification, sample surface recognition**|Igor Sokolov et.al.|[2403.16230](http://arxiv.org/abs/2403.16230)|null|
