@@ -465,6 +465,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**Molecular heat transport across a time-periodic temperature gradient**|Renai Chen et.al.|[2404.12579](http://arxiv.org/abs/2404.12579)|null|
 |**2024-04-17**|**A methodology of quantifying membrane permeability based on returning probability theory and molecular dynamics simulation**|Yuya Matsubara et.al.|[2404.11363](http://arxiv.org/abs/2404.11363)|null|
 |**2024-04-17**|**Dynamic Local Symmetry Fluctuations of Electron Density in Halide Perovskites**|Colin M. Hylton-Farrington et.al.|[2404.11247](http://arxiv.org/abs/2404.11247)|null|
 |**2024-04-17**|**Efficient Electrochemical CO2 Reduction Reaction over Cu-decorated Biphenylene**|Radha N Somaiya et.al.|[2404.10409](http://arxiv.org/abs/2404.10409)|null|
@@ -606,6 +607,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**FinLangNet: A Novel Deep Learning Framework for Credit Risk Prediction Using Linguistic Analogy in Financial Data**|Yu Lei et.al.|[2404.13004](http://arxiv.org/abs/2404.13004)|**[link](https://github.com/leiyu0210/finlangnet)**|
+|**2024-04-19**|**Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction**|Paulo Henrique dos Santos et.al.|[2404.13002](http://arxiv.org/abs/2404.13002)|null|
+|**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000](http://arxiv.org/abs/2404.13000)|null|
+|**2024-04-19**|**RedactBuster: Entity Type Recognition from Redacted Documents**|Mirco Beltrame et.al.|[2404.12991](http://arxiv.org/abs/2404.12991)|null|
+|**2024-04-19**|**Improving Pediatric Pneumonia Diagnosis with Adult Chest X-ray Images Utilizing Contrastive Learning and Embedding Similarity**|Mohammad Zunaed et.al.|[2404.12958](http://arxiv.org/abs/2404.12958)|null|
+|**2024-04-19**|**Zero-Shot Stitching in Reinforcement Learning using Relative Representations**|Antonio Pio Ricciardi et.al.|[2404.12917](http://arxiv.org/abs/2404.12917)|null|
+|**2024-04-19**|**Explainable Deepfake Video Detection using Convolutional Neural Network and CapsuleNet**|Gazi Hasin Ishrak et.al.|[2404.12841](http://arxiv.org/abs/2404.12841)|null|
+|**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832](http://arxiv.org/abs/2404.12832)|**[link](https://github.com/dmytro-shvetsov/counterfactual-search)**|
+|**2024-04-19**|**Enhancing Interval Type-2 Fuzzy Logic Systems: Learning for Precision and Prediction Intervals**|Ata Koklu et.al.|[2404.12802](http://arxiv.org/abs/2404.12802)|null|
+|**2024-04-19**|**Zadeh's Type-2 Fuzzy Logic Systems: Precision and High-Quality Prediction Intervals**|Yusuf Guven et.al.|[2404.12800](http://arxiv.org/abs/2404.12800)|null|
+|**2024-04-19**|**Efficient Learning of Fuzzy Logic Systems for Large-Scale Data Using Deep Learning**|Ata Koklu et.al.|[2404.12792](http://arxiv.org/abs/2404.12792)|**[link](https://github.com/atakoklu/efficient-learning-of-fuzzy-logic-systems-for-large-scale-data-using-deep-learning)**|
+|**2024-04-19**|**Recurrent Neural Networks for Modelling Gross Primary Production**|David Montero et.al.|[2404.12745](http://arxiv.org/abs/2404.12745)|null|
+|**2024-04-19**|**DLoRA-TrOCR: Mixed Text Mode Optical Character Recognition Based On Transformer**|Da Chang et.al.|[2404.12734](http://arxiv.org/abs/2404.12734)|null|
+|**2024-04-19**|**uTRAND: Unsupervised Anomaly Detection in Traffic Trajectories**|Giacomo D'Amicantonio et.al.|[2404.12712](http://arxiv.org/abs/2404.12712)|null|
+|**2024-04-19**|**Modeling Multi-Granularity Context Information Flow for Pavement Crack Detection**|Junbiao Pang et.al.|[2404.12702](http://arxiv.org/abs/2404.12702)|null|
+|**2024-04-19**|**SOPHON: Non-Fine-Tunable Learning to Restrain Task Transferability For Pre-trained Models**|Jiangyi Deng et.al.|[2404.12699](http://arxiv.org/abs/2404.12699)|null|
+|**2024-04-19**|**MLSD-GAN -- Generating Strong High Quality Face Morphing Attacks using Latent Semantic Disentanglement**|Aravinda Reddy PN et.al.|[2404.12679](http://arxiv.org/abs/2404.12679)|null|
+|**2024-04-19**|**SOS-1K: A Fine-grained Suicide Risk Classification Dataset for Chinese Social Media Analysis**|Hongzhi Qi et.al.|[2404.12659](http://arxiv.org/abs/2404.12659)|null|
+|**2024-04-19**|**A Soft e-Textile Sensor for Enhanced Deep Learning-based Shape Sensing of Soft Continuum Robots**|Eric Vincent Galeta et.al.|[2404.12627](http://arxiv.org/abs/2404.12627)|null|
+|**2024-04-18**|**Latent Concept-based Explanation of NLP Models**|Xuemin Yu et.al.|[2404.12545](http://arxiv.org/abs/2404.12545)|null|
+|**2024-04-18**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/abs/2404.12538)|null|
+|**2024-04-18**|**Proteus: Preserving Model Confidentiality during Graph Optimizations**|Yubo Gao et.al.|[2404.12512](http://arxiv.org/abs/2404.12512)|null|
+|**2024-04-18**|**Advancing Applications of Satellite Photogrammetry: Novel Approaches for Built-up Area Modeling and Natural Environment Monitoring using Stereo/Multi-view Satellite Image-derived 3D Data**|Shengxi Gui et.al.|[2404.12487](http://arxiv.org/abs/2404.12487)|null|
+|**2024-04-18**|**Explainable Deep Learning Models for Dynamic and Online Malware Classification**|Quincy Card et.al.|[2404.12473](http://arxiv.org/abs/2404.12473)|null|
+|**2024-04-18**|**NLP-enabled trajectory map-matching in urban road networks using transformer sequence-to-sequence model**|Sevin Mohammadi et.al.|[2404.12460](http://arxiv.org/abs/2404.12460)|null|
+|**2024-04-18**|**Enhancing AI Diagnostics: Autonomous Lesion Masking via Semi-Supervised Deep Learning**|Ting-Ruen Wei et.al.|[2404.12450](http://arxiv.org/abs/2404.12450)|null|
+|**2024-04-18**|**Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds**|Oliver Lemke et.al.|[2404.12440](http://arxiv.org/abs/2404.12440)|null|
+|**2024-04-17**|**Soil Fertility Prediction Using Combined USB-microscope Based Soil Image, Auxiliary Variables, and Portable X-Ray Fluorescence Spectrometry**|Shubhadip Dasgupta et.al.|[2404.12415](http://arxiv.org/abs/2404.12415)|null|
 |**2024-04-18**|**Learning the Domain Specific Inverse NUFFT for Accelerated Spiral MRI using Diffusion Models**|Trevor J. Chan et.al.|[2404.12361](http://arxiv.org/abs/2404.12361)|null|
 |**2024-04-18**|**When Medical Imaging Met Self-Attention: A Love Story That Didn't Quite Work Out**|Tristan Piater et.al.|[2404.12295](http://arxiv.org/abs/2404.12295)|null|
 |**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285](http://arxiv.org/abs/2404.12285)|null|
