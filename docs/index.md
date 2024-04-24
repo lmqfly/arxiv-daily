@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -637,7 +637,7 @@ layout: default
 |**2024-04-20**|**Transfer Learning for Molecular Property Predictions from Small Data Sets**|Thorren Kirschbaum et.al.|[2404.13393](http://arxiv.org/abs/2404.13393)|null|
 |**2024-04-20**|**DNA: Differentially private Neural Augmentation for contact tracing**|Rob Romijnders et.al.|[2404.13381](http://arxiv.org/abs/2404.13381)|null|
 |**2024-04-20**|**Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction**|Quancheng Du et.al.|[2404.13378](http://arxiv.org/abs/2404.13378)|null|
-|**2024-04-20**|**Comparative Analysis on Snowmelt-Driven Streamflow Forecasting Using Machine Learning Techniques**|Ukesh Thapa et.al.|[2404.13327](http://arxiv.org/abs/2404.13327)|null|
+|**2024-04-23**|**Comparative Analysis on Snowmelt-Driven Streamflow Forecasting Using Machine Learning Techniques**|Ukesh Thapa et.al.|[2404.13327](http://arxiv.org/abs/2404.13327)|null|
 |**2024-04-20**|**Seismic Interpolation Transformer for Consecutively Missing Data: A Case Study in DAS-VSP Data**|Ming Cheng et.al.|[2404.13312](http://arxiv.org/abs/2404.13312)|null|
 |**2024-04-20**|**Track Role Prediction of Single-Instrumental Sequences**|Changheon Han et.al.|[2404.13286](http://arxiv.org/abs/2404.13286)|null|
 |**2024-04-20**|**Backdoor Attacks and Defenses on Semantic-Symbol Reconstruction in Semantic Communications**|Yuan Zhou et.al.|[2404.13279](http://arxiv.org/abs/2404.13279)|null|
@@ -659,7 +659,7 @@ layout: default
 |**2024-04-19**|**Zadeh's Type-2 Fuzzy Logic Systems: Precision and High-Quality Prediction Intervals**|Yusuf Guven et.al.|[2404.12800](http://arxiv.org/abs/2404.12800)|null|
 |**2024-04-19**|**Efficient Learning of Fuzzy Logic Systems for Large-Scale Data Using Deep Learning**|Ata Koklu et.al.|[2404.12792](http://arxiv.org/abs/2404.12792)|**[link](https://github.com/atakoklu/efficient-learning-of-fuzzy-logic-systems-for-large-scale-data-using-deep-learning)**|
 |**2024-04-19**|**Recurrent Neural Networks for Modelling Gross Primary Production**|David Montero et.al.|[2404.12745](http://arxiv.org/abs/2404.12745)|null|
-|**2024-04-22**|**DLoRA-TrOCR: Mixed Text Mode Optical Character Recognition Based On Transformer**|Da Chang et.al.|[2404.12734](http://arxiv.org/abs/2404.12734)|null|
+|**2024-04-23**|**DLoRA-TrOCR: Mixed Text Mode Optical Character Recognition Based On Transformer**|Da Chang et.al.|[2404.12734](http://arxiv.org/abs/2404.12734)|null|
 |**2024-04-19**|**uTRAND: Unsupervised Anomaly Detection in Traffic Trajectories**|Giacomo D'Amicantonio et.al.|[2404.12712](http://arxiv.org/abs/2404.12712)|null|
 |**2024-04-19**|**Modeling Multi-Granularity Context Information Flow for Pavement Crack Detection**|Junbiao Pang et.al.|[2404.12702](http://arxiv.org/abs/2404.12702)|null|
 |**2024-04-19**|**SOPHON: Non-Fine-Tunable Learning to Restrain Task Transferability For Pre-trained Models**|Jiangyi Deng et.al.|[2404.12699](http://arxiv.org/abs/2404.12699)|null|
@@ -1480,7 +1480,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-18**|**MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space**|Yanru Qu et.al.|[2404.12141](http://arxiv.org/abs/2404.12141)|**[link](https://github.com/algomole/molcraft)**|
+|**2024-04-23**|**MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space**|Yanru Qu et.al.|[2404.12141](http://arxiv.org/abs/2404.12141)|**[link](https://github.com/algomole/molcraft)**|
 |**2024-04-12**|**Ligand Equilibrium Influences Photoluminescence Blinking in CsPbBr3: A Change Point Analysis of Widefield Imaging Data**|Shaun Gallagher et.al.|[2404.08166](http://arxiv.org/abs/2404.08166)|null|
 |**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481](http://arxiv.org/abs/2404.06481)|null|
 |**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
