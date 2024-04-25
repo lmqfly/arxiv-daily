@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Treatment of seeds by cold ambient air plasma: Combining impedance measurements with water sorption modeling to understand the impact of seed hydration**|Jonas August et.al.|[2404.15365](http://arxiv.org/abs/2404.15365)|null|
 |**2024-04-20**|**Synergistic integration of physical embedding and machine learning enabling precise and reliable force field**|Lifeng Xu et.al.|[2404.13368](http://arxiv.org/abs/2404.13368)|null|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102](http://arxiv.org/abs/2404.13102)|null|
 |**2024-04-16**|**HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction**|Bin Liu et.al.|[2404.10561](http://arxiv.org/abs/2404.10561)|null|
@@ -450,6 +451,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Thermal boundary conductance and thermal conductivity strongly depend on nearby environment**|Khalid Zobaid Adnan et.al.|[2404.15439](http://arxiv.org/abs/2404.15439)|null|
 |**2024-04-23**|**Unveiling the crystallization kinetics in Ge-rich Ge $_x$ Te alloys by large scale simulations with a machine-learned interatomic potential**|Dario Baratella et.al.|[2404.15128](http://arxiv.org/abs/2404.15128)|null|
 |**2024-04-22**|**Dynamic Nanodomains Dictate Macroscopic Properties in Lead Halide Perovskites**|Milos Dubajic et.al.|[2404.14598](http://arxiv.org/abs/2404.14598)|null|
 |**2024-04-22**|**Managing Expectations and Imbalanced Training Data in Reactive Force Field Development: an Application to Water Adsorption on Alumina**|Loïc Dumortier et.al.|[2404.14338](http://arxiv.org/abs/2404.14338)|null|
@@ -597,9 +599,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**An Electromagnetism-Inspired Method for Estimating In-Grasp Torque from Visuotactile Sensors**|Yuni Fuchioka et.al.|[2404.15626](http://arxiv.org/abs/2404.15626)|null|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
+|**2024-04-24**|**MDDD: Manifold-based Domain Adaptation with Dynamic Distribution for Non-Deep Transfer Learning in Cross-subject and Cross-session EEG-based Emotion Recognition**|Ting Luo et.al.|[2404.15615](http://arxiv.org/abs/2404.15615)|null|
+|**2024-04-24**|**VulEval: Towards Repository-Level Evaluation of Software Vulnerability Detection**|Xin-Cheng Wen et.al.|[2404.15596](http://arxiv.org/abs/2404.15596)|null|
+|**2024-04-24**|**A Survey of Deep Long-Tail Classification Advancements**|Charika de Alvis et.al.|[2404.15593](http://arxiv.org/abs/2404.15593)|null|
+|**2024-04-24**|**Security Analysis of WiFi-based Sensing Systems: Threats from Perturbation Attacks**|Hangcheng Cao et.al.|[2404.15587](http://arxiv.org/abs/2404.15587)|null|
+|**2024-04-24**|**Brain Storm Optimization Based Swarm Learning for Diabetic Retinopathy Image Classification**|Liang Qu et.al.|[2404.15585](http://arxiv.org/abs/2404.15585)|null|
+|**2024-04-24**|**Research on OPF control of three-phase four-wire low-voltage distribution network considering uncertainty**|Rui Wang et.al.|[2404.15584](http://arxiv.org/abs/2404.15584)|null|
+|**2024-04-23**|**An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models**|Yangchen Pan et.al.|[2404.15518](http://arxiv.org/abs/2404.15518)|null|
+|**2024-04-23**|**Deep-learning Optical Flow Outperforms PIV in Obtaining Velocity Fields from Active Nematics**|Phu N. Tran et.al.|[2404.15497](http://arxiv.org/abs/2404.15497)|null|
+|**2024-04-23**|**NMBEnet: Efficient Near-field mmWave Beam Training for Multiuser OFDM Systems Using Sub-6 GHz Pilots**|Wang Liu et.al.|[2404.15469](http://arxiv.org/abs/2404.15469)|null|
+|**2024-04-23**|**Using Deep Learning to Identify Initial Error Sensitivity of ENSO Forecasts**|Kinya Toride et.al.|[2404.15419](http://arxiv.org/abs/2404.15419)|**[link](https://github.com/kinyatoride/dlma)**|
+|**2024-04-23**|**Uncertainty in latent representations of variational autoencoders optimized for visual tasks**|Josefina Catoni et.al.|[2404.15390](http://arxiv.org/abs/2404.15390)|null|
+|**2024-04-23**|**Detecting unresolved lensed SNe Ia in LSST using blended light curves**|Satadru Bag et.al.|[2404.15389](http://arxiv.org/abs/2404.15389)|null|
+|**2024-04-23**|**ML-based identification of the interface regions for coupling local and nonlocal models**|Noujoud Nader et.al.|[2404.15388](http://arxiv.org/abs/2404.15388)|null|
+|**2024-04-23**|**Large-Scale Multipurpose Benchmark Datasets For Assessing Data-Driven Deep Learning Approaches For Water Distribution Networks**|Andres Tello et.al.|[2404.15386](http://arxiv.org/abs/2404.15386)|null|
+|**2024-04-23**|**Feature Distribution Shift Mitigation with Contrastive Pretraining for Intrusion Detection**|Weixing Wang et.al.|[2404.15382](http://arxiv.org/abs/2404.15382)|null|
+|**2024-04-21**|**Minimum Description Feature Selection for Complexity Reduction in Machine Learning-based Wireless Positioning**|Myeung Suk Oh et.al.|[2404.15374](http://arxiv.org/abs/2404.15374)|null|
+|**2024-04-21**|**Robust EEG-based Emotion Recognition Using an Inception and Two-sided Perturbation Model**|Shadi Sartipi et.al.|[2404.15373](http://arxiv.org/abs/2404.15373)|null|
 |**2024-04-23**|**A Hybrid Kernel-Free Boundary Integral Method with Operator Learning for Solving Parametric Partial Differential Equations In Complex Domains**|Shuo Ling et.al.|[2404.15242](http://arxiv.org/abs/2404.15242)|null|
 |**2024-04-23**|**Massively Annotated Datasets for Assessment of Synthetic and Real Data in Face Recognition**|Pedro C. Neto et.al.|[2404.15234](http://arxiv.org/abs/2404.15234)|null|
-|**2024-04-23**|**Direct Zernike Coefficient Prediction from Point Spread Functions and Extended Images using Deep Learning**|Yong En Kok et.al.|[2404.15231](http://arxiv.org/abs/2404.15231)|null|
+|**2024-04-24**|**Direct Zernike Coefficient Prediction from Point Spread Functions and Extended Images using Deep Learning**|Yong En Kok et.al.|[2404.15231](http://arxiv.org/abs/2404.15231)|null|
 |**2024-04-23**|**Deep Models for Multi-View 3D Object Recognition: A Review**|Mona Alzahrani et.al.|[2404.15224](http://arxiv.org/abs/2404.15224)|null|
 |**2024-04-23**|**Every Breath You Don't Take: Deepfake Speech Detection Using Breath**|Seth Layton et.al.|[2404.15143](http://arxiv.org/abs/2404.15143)|null|
 |**2024-04-23**|**Mapping Parallel Matrix Multiplication in GotoBLAS2 to the AMD Versal ACAP for Deep Learning**|Jie Lei et.al.|[2404.15043](http://arxiv.org/abs/2404.15043)|null|
@@ -607,7 +628,7 @@ layout: default
 |**2024-04-23**|**A Unified Replay-based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data**|Hao Miao et.al.|[2404.14999](http://arxiv.org/abs/2404.14999)|null|
 |**2024-04-23**|**A Short Review for Ontology Learning from Text: Stride from Shallow Learning, Deep Learning to Large Language Models Trend**|Rick Du et.al.|[2404.14991](http://arxiv.org/abs/2404.14991)|null|
 |**2024-04-23**|**Surface profile recovery from electromagnetic field with physics--informed neural networks**|Yuxuan Chen et.al.|[2404.14984](http://arxiv.org/abs/2404.14984)|null|
-|**2024-04-23**|**Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2404.14955](http://arxiv.org/abs/2404.14955)|null|
+|**2024-04-23**|**Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2404.14955](http://arxiv.org/abs/2404.14955)|**[link](https://github.com/mahmad00/conventional-to-transformer-for-hyperspectral-image-classification-survey-2024)**|
 |**2024-04-23**|**G3R: Generating Rich and Fine-grained mmWave Radar Data from 2D Videos for Generalized Gesture Recognition**|Kaikai Deng et.al.|[2404.14934](http://arxiv.org/abs/2404.14934)|null|
 |**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928](http://arxiv.org/abs/2404.14928)|null|
 |**2024-04-23**|**EEGEncoder: Advancing BCI with Transformer-Based Motor Imagery Classification**|Wangdan Liao et.al.|[2404.14869](http://arxiv.org/abs/2404.14869)|null|
@@ -627,11 +648,11 @@ layout: default
 |**2024-04-19**|**FreSeg: Frenet-Frame-based Part Segmentation for 3D Curvilinear Structures**|Shixuan Gu et.al.|[2404.14435](http://arxiv.org/abs/2404.14435)|null|
 |**2024-04-22**|**Assessing GPT-4-Vision's Capabilities in UML-Based Code Generation**|Gábor Antal et.al.|[2404.14370](http://arxiv.org/abs/2404.14370)|null|
 |**2024-04-22**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights Assessment**|Marjolein Boonstra et.al.|[2404.14366](http://arxiv.org/abs/2404.14366)|null|
-|**2024-04-22**|**On-the-Fly Point Annotation for Fast Medical Video Labeling**|Meyer Adrien et.al.|[2404.14344](http://arxiv.org/abs/2404.14344)|null|
-|**2024-04-22**|**Does Your Neural Code Completion Model Use My Code? A Membership Inference Approach**|Yao Wan et.al.|[2404.14296](http://arxiv.org/abs/2404.14296)|null|
-|**2024-04-22**|**Deep Learning as Ricci Flow**|Anthony Baptista et.al.|[2404.14265](http://arxiv.org/abs/2404.14265)|null|
+|**2024-04-22**|**On-the-Fly Point Annotation for Fast Medical Video Labeling**|Meyer Adrien et.al.|[2404.14344](http://arxiv.org/abs/2404.14344)|**[link](https://github.com/camma-public/surglatentgraph)**|
+|**2024-04-22**|**Does Your Neural Code Completion Model Use My Code? A Membership Inference Approach**|Yao Wan et.al.|[2404.14296](http://arxiv.org/abs/2404.14296)|**[link](https://github.com/CGCL-codes/naturalcc)**|
+|**2024-04-22**|**Deep Learning as Ricci Flow**|Anthony Baptista et.al.|[2404.14265](http://arxiv.org/abs/2404.14265)|**[link](https://github.com/anthbapt/ricci-nn)**|
 |**2024-04-22**|**Fidelitous Augmentation of Human Accelerometric Data for Deep Learning**|Tracey K. M. Lee et.al.|[2404.14211](http://arxiv.org/abs/2404.14211)|null|
-|**2024-04-22**|**Experimental Validation of Ultrasound Beamforming with End-to-End Deep Learning for Single Plane Wave Imaging**|Ryan A. L. Schoop et.al.|[2404.14188](http://arxiv.org/abs/2404.14188)|null|
+|**2024-04-22**|**Experimental Validation of Ultrasound Beamforming with End-to-End Deep Learning for Single Plane Wave Imaging**|Ryan A. L. Schoop et.al.|[2404.14188](http://arxiv.org/abs/2404.14188)|**[link](https://github.com/ralschoop/deepus)**|
 |**2024-04-22**|**Quantum Convolutional Neural Networks for the detection of Gamma-Ray Bursts in the AGILE space mission data**|A. Rizzo et.al.|[2404.14133](http://arxiv.org/abs/2404.14133)|null|
 |**2024-04-22**|**LVNS-RAVE: Diversified audio generation with RAVE and Latent Vector Novelty Search**|Jinyue Guo et.al.|[2404.14063](http://arxiv.org/abs/2404.14063)|**[link](https://github.com/fisheggg/lvns-rave)**|
 |**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](http://arxiv.org/abs/2404.14024)|null|
@@ -642,7 +663,7 @@ layout: default
 |**2024-04-22**|**Audio Anti-Spoofing Detection: A Survey**|Menglu Li et.al.|[2404.13914](http://arxiv.org/abs/2404.13914)|null|
 |**2024-04-22**|**Distributional Black-Box Model Inversion Attack with Multi-Agent Reinforcement Learning**|Huan Bao et.al.|[2404.13860](http://arxiv.org/abs/2404.13860)|null|
 |**2024-04-22**|**C2F-SemiCD: A Coarse-to-Fine Semi-Supervised Change Detection Method Based on Consistency Regularization in High-Resolution Remote Sensing Images**|Chengxi Han et.al.|[2404.13838](http://arxiv.org/abs/2404.13838)|**[link](https://github.com/chengxihan/c2f-semicd-and-c2f-cdnet)**|
-|**2024-04-22**|**A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning**|Yu-Xin Zhang et.al.|[2404.13830](http://arxiv.org/abs/2404.13830)|null|
+|**2024-04-22**|**A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning**|Yu-Xin Zhang et.al.|[2404.13830](http://arxiv.org/abs/2404.13830)|**[link](https://github.com/yxzhang15/pcr)**|
 |**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816](http://arxiv.org/abs/2404.13816)|null|
 |**2024-04-21**|**Explainable Interfaces for Rapid Gaze-Based Interactions in Mixed Reality**|Mengjie Yu et.al.|[2404.13777](http://arxiv.org/abs/2404.13777)|null|
 |**2024-04-21**|**BC-MRI-SEG: A Breast Cancer MRI Tumor Segmentation Benchmark**|Anthony Bilic et.al.|[2404.13756](http://arxiv.org/abs/2404.13756)|null|
