@@ -341,9 +341,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-24**|**ApisTox: a new benchmark dataset for the classification of small molecules toxicity on honey bees**|Jakub Adamczyk et.al.|[2404.16196](http://arxiv.org/abs/2404.16196)|null|
+|**2024-04-24**|**ApisTox: a new benchmark dataset for the classification of small molecules toxicity on honey bees**|Jakub Adamczyk et.al.|[2404.16196](http://arxiv.org/abs/2404.16196)|**[link](https://github.com/j-adamczyk/apis_tox_dataset)**|
 |**2024-04-20**|**Transfer Learning for Molecular Property Predictions from Small Data Sets**|Thorren Kirschbaum et.al.|[2404.13393](http://arxiv.org/abs/2404.13393)|null|
-|**2024-04-05**|**Transformers for molecular property prediction: Lessons learned from the past five years**|Afnan Sultan et.al.|[2404.03969](http://arxiv.org/abs/2404.03969)|null|
+|**2024-04-05**|**Transformers for molecular property prediction: Lessons learned from the past five years**|Afnan Sultan et.al.|[2404.03969](http://arxiv.org/abs/2404.03969)|**[link](https://github.com/volkamerlab/transformers4mpp_review)**|
 |**2024-04-02**|**Generalizable, Fast, and Accurate DeepQSPR with fastprop Part 1: Framework and Benchmarks**|Jackson Burns et.al.|[2404.02058](http://arxiv.org/abs/2404.02058)|**[link](https://github.com/jacksonburns/fastprop)**|
 |**2024-03-27**|**A Python library for efficient computation of molecular fingerprints**|Michał Szafarczyk et.al.|[2403.19718](http://arxiv.org/abs/2403.19718)|**[link](https://github.com/arch4ngel21/scikit-fingerprints)**|
 |**2024-03-10**|**Sort & Slice: A Simple and Superior Alternative to Hash-Based Folding for Extended-Connectivity Fingerprints**|Markus Dablander et.al.|[2403.17954](http://arxiv.org/abs/2403.17954)|null|
@@ -463,7 +463,7 @@ layout: default
 |**2024-04-22**|**Managing Expectations and Imbalanced Training Data in Reactive Force Field Development: an Application to Water Adsorption on Alumina**|Loïc Dumortier et.al.|[2404.14338](http://arxiv.org/abs/2404.14338)|null|
 |**2024-04-22**|**Nonadiabatic excited-state dynamics and energy gradients in the framework of FMO-LC-TDDFTB**|Richard Einsele et.al.|[2404.14174](http://arxiv.org/abs/2404.14174)|null|
 |**2024-04-22**|**A Simple Molecular Model for Hydrated Silicate Ionic Liquids, a Realistic Zeolite Precursor**|Jelle Vekeman et.al.|[2404.14170](http://arxiv.org/abs/2404.14170)|null|
-|**2024-04-21**|**Solute segregation in polycrystalline aluminum from hybrid Monte Carlo and molecular dynamics simulations with a unified neuroevolution potential**|Keke Song et.al.|[2404.13694](http://arxiv.org/abs/2404.13694)|null|
+|**2024-04-21**|**Solute segregation in polycrystalline aluminum from hybrid Monte Carlo and molecular dynamics simulations with a unified neuroevolution potential**|Keke Song et.al.|[2404.13694](http://arxiv.org/abs/2404.13694)|**[link](https://github.com/brucefan1983/GPUMD)**|
 |**2024-04-20**|**The Stokes-Einstein-Debye relation in ortho-terphenyl liquid**|Gan Ren et.al.|[2404.13380](http://arxiv.org/abs/2404.13380)|null|
 |**2024-04-19**|**Molecular heat transport across a time-periodic temperature gradient**|Renai Chen et.al.|[2404.12579](http://arxiv.org/abs/2404.12579)|null|
 |**2024-04-17**|**A methodology of quantifying membrane permeability based on returning probability theory and molecular dynamics simulation**|Yuya Matsubara et.al.|[2404.11363](http://arxiv.org/abs/2404.11363)|null|
@@ -630,7 +630,7 @@ layout: default
 |**2024-04-24**|**AIS 2024 Challenge on Video Quality Assessment of User-Generated Content: Methods and Results**|Marcos V. Conde et.al.|[2404.16205](http://arxiv.org/abs/2404.16205)|null|
 |**2024-04-24**|**Deep Learning Interatomic Potential Connects Molecular Structural Ordering to Macroscale Properties of Polyacrylonitrile (PAN) Polymer**|Rajni Chahal et.al.|[2404.16187](http://arxiv.org/abs/2404.16187)|null|
 |**2024-04-24**|**Securing Hybrid Wireless Body Area Networks (HyWBAN): Advancements in Semantic Communications and Jamming Techniques**|Simone Soderi et.al.|[2404.16120](http://arxiv.org/abs/2404.16120)|null|
-|**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109](http://arxiv.org/abs/2404.16109)|null|
+|**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109](http://arxiv.org/abs/2404.16109)|**[link](https://github.com/jvhs0706/zkllm-ccs2024)**|
 |**2024-04-24**|**A dark standard siren measurement of the Hubble constant following LIGO/Virgo/KAGRA O4a**|C. R. Bom et.al.|[2404.16092](http://arxiv.org/abs/2404.16092)|null|
 |**2024-04-24**|**On the Fourier analysis in the SO(3) space : EquiLoPO Network**|Dmitrii Zhemchuzhnikov et.al.|[2404.15979](http://arxiv.org/abs/2404.15979)|null|
 |**2024-04-24**|**Population synthesis of Galactic pulsars with machine learning**|Michele Ronchi et.al.|[2404.15953](http://arxiv.org/abs/2404.15953)|null|
@@ -683,7 +683,7 @@ layout: default
 |**2024-04-23**|**Deep Learning Based Multi-Node ISAC 4D Environmental Reconstruction with Uplink- Downlink Cooperation**|Bohao Lu et.al.|[2404.14862](http://arxiv.org/abs/2404.14862)|null|
 |**2024-04-23**|**Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation**|Xingyue Zhao et.al.|[2404.14852](http://arxiv.org/abs/2404.14852)|null|
 |**2024-04-23**|**Time-aware Heterogeneous Graph Transformer with Adaptive Attention Merging for Health Event Prediction**|Shibo Li et.al.|[2404.14815](http://arxiv.org/abs/2404.14815)|null|
-|**2024-04-23**|**Source Code Vulnerability Detection: Combining Code Language Models and Code Property Graphs**|Ruitong Liu et.al.|[2404.14719](http://arxiv.org/abs/2404.14719)|null|
+|**2024-04-23**|**Source Code Vulnerability Detection: Combining Code Language Models and Code Property Graphs**|Ruitong Liu et.al.|[2404.14719](http://arxiv.org/abs/2404.14719)|**[link](https://github.com/vul-lmgnn/vul-lmggnn)**|
 |**2024-04-23**|**FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model**|Zezheng Song et.al.|[2404.14688](http://arxiv.org/abs/2404.14688)|null|
 |**2024-04-23**|**Employing Layerwised Unsupervised Learning to Lessen Data and Loss Requirements in Forward-Forward Algorithms**|Taewook Hwang et.al.|[2404.14664](http://arxiv.org/abs/2404.14664)|null|
 |**2024-04-23**|**First Mapping the Canopy Height of Primeval Forests in the Tallest Tree Area of Asia**|Guangpeng Fan et.al.|[2404.14661](http://arxiv.org/abs/2404.14661)|null|
