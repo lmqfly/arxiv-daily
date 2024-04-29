@@ -164,6 +164,7 @@
 |**2024-02-23**|**Medical Knowledge Graph QA for Drug-Drug Interaction Prediction based on Multi-hop Machine Reading Comprehension**|Peng Gao et.al.|[2212.09400](http://arxiv.org/abs/2212.09400)|null|
 |**2023-11-06**|**BatmanNet: Bi-branch Masked Graph Transformer Autoencoder for Molecular Representation**|Zhen Wang et.al.|[2211.13979](http://arxiv.org/abs/2211.13979)|**[link](https://github.com/wz-create/batmannet)**|
 |**2022-10-19**|**Graph Regularized Probabilistic Matrix Factorization for Drug-Drug Interactions Prediction**|Stuti Jain et.al.|[2210.10784](http://arxiv.org/abs/2210.10784)|null|
+|**2024-04-26**|**DDoS: A Graph Neural Network based Drug Synergy Prediction Algorithm**|Kyriakos Schwarz et.al.|[2210.00802](http://arxiv.org/abs/2210.00802)|**[link](https://github.com/uzh-dqbm-cmi/graphnn)**|
 |**2022-10-30**|**Predicting Drug-Drug Interactions using Deep Generative Models on Graphs**|Nhat Khang Ngo et.al.|[2209.09941](http://arxiv.org/abs/2209.09941)|**[link](https://github.com/hysonlab/drug-interactions)**|
 |**2022-11-24**|**Distributed representations of graphs for drug pair scoring**|Paul Scherer et.al.|[2209.09383](http://arxiv.org/abs/2209.09383)|**[link](https://github.com/paulmorio/drugpairscoringdr)**|
 |**2022-08-30**|**Graph Distance Neural Networks for Predicting Multiple Drug Interactions**|Haifan zhou et.al.|[2208.14810](http://arxiv.org/abs/2208.14810)|null|
@@ -625,6 +626,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**An exactly solvable model for emergence and scaling laws**|Yoonsoo Nam et.al.|[2404.17563](http://arxiv.org/abs/2404.17563)|null|
+|**2024-04-26**|**Large Language Model Agent as a Mechanical Designer**|Yayati Jadhav et.al.|[2404.17525](http://arxiv.org/abs/2404.17525)|null|
+|**2024-04-26**|**Interpreting Deepcode, a learned feedback code**|Yingyao Zhou et.al.|[2404.17519](http://arxiv.org/abs/2404.17519)|null|
+|**2024-04-26**|**FTL: Transfer Learning Nonlinear Plasma Dynamic Transitions in Low Dimensional Embeddings via Deep Neural Networks**|Zhe Bai et.al.|[2404.17466](http://arxiv.org/abs/2404.17466)|null|
+|**2024-04-26**|**Any-Quantile Probabilistic Forecasting of Short-Term Electricity Demand**|Slawek Smyl et.al.|[2404.17451](http://arxiv.org/abs/2404.17451)|null|
+|**2024-04-26**|**Transformer For Low-frequency Extrapolating of Seismic Data**|Zheng Cong et.al.|[2404.17437](http://arxiv.org/abs/2404.17437)|null|
+|**2024-04-26**|**Image Copy-Move Forgery Detection via Deep PatchMatch and Pairwise Ranking Learning**|Yuanman Li et.al.|[2404.17310](http://arxiv.org/abs/2404.17310)|null|
+|**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298](http://arxiv.org/abs/2404.17298)|**[link](https://github.com/robot-learning-freiburg/MDPCalib)**|
+|**2024-04-26**|**Comparison of self-supervised in-domain and supervised out-domain transfer learning for bird species recognition**|Houtan Ghaffari et.al.|[2404.17252](http://arxiv.org/abs/2404.17252)|null|
+|**2024-04-26**|**Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment**|Kazi Shahriar Sanjid et.al.|[2404.17235](http://arxiv.org/abs/2404.17235)|null|
+|**2024-04-26**|**Enhancing Privacy and Security of Autonomous UAV Navigation**|Vatsal Aggarwal et.al.|[2404.17225](http://arxiv.org/abs/2404.17225)|null|
+|**2024-04-26**|**Cycling into the workshop: predictive maintenance for Barcelona's bike-sharing system**|Jordi Grau-Escolano et.al.|[2404.17217](http://arxiv.org/abs/2404.17217)|null|
+|**2024-04-26**|**Phase-aggregated Dual-branch Network for Efficient Fingerprint Dense Registration**|Xiongjun Guan et.al.|[2404.17159](http://arxiv.org/abs/2404.17159)|null|
+|**2024-04-26**|**Automated Data Visualization from Natural Language via Large Language Models: An Exploratory Study**|Yang Wu et.al.|[2404.17136](http://arxiv.org/abs/2404.17136)|null|
+|**2024-04-26**|**Ultralow-Power Single-Sensor-Based E-Nose System Powered by Duty Cycling and Deep Learning for Real-Time Gas Identification**|Taejung Kim et.al.|[2404.17130](http://arxiv.org/abs/2404.17130)|null|
+|**2024-04-26**|**Deep Evidential Learning for Dose Prediction**|Hai Siong Tan et.al.|[2404.17126](http://arxiv.org/abs/2404.17126)|null|
+|**2024-04-26**|**Exploring Pre-trained General-purpose Audio Representations for Heart Murmur Detection**|Daisuke Niizumi et.al.|[2404.17107](http://arxiv.org/abs/2404.17107)|null|
+|**2024-04-26**|**CLARE: Cognitive Load Assessment in REaltime with Multimodal Data**|Anubhav Bhatti et.al.|[2404.17098](http://arxiv.org/abs/2404.17098)|null|
+|**2024-04-25**|**Calculation of Femur Caput Collum Diaphyseal angle for X-Rays images using Semantic Segmentation**|Deepak Bhatia et.al.|[2404.17083](http://arxiv.org/abs/2404.17083)|null|
+|**2024-04-25**|**Detection of Peri-Pancreatic Edema using Deep Learning and Radiomics Techniques**|Ziliang Hong et.al.|[2404.17064](http://arxiv.org/abs/2404.17064)|**[link](https://github.com/nubagcilab/peri-pancreatic-edema-detection)**|
+|**2024-04-25**|**Transductive Spiking Graph Neural Networks for Loihi**|Shay Snyder et.al.|[2404.17048](http://arxiv.org/abs/2404.17048)|null|
+|**2024-04-25**|**Unraveling Code Clone Dynamics in Deep Learning Frameworks**|Maram Assi et.al.|[2404.17046](http://arxiv.org/abs/2404.17046)|**[link](https://github.com/mia1q/code-clone-dl-frameworks)**|
+|**2024-04-25**|**Auto-Generating Weak Labels for Real & Synthetic Data to Improve Label-Scarce Medical Image Segmentation**|Tanvi Deshpande et.al.|[2404.17033](http://arxiv.org/abs/2404.17033)|**[link](https://github.com/stanfordmlgroup/auto-generate-wls)**|
+|**2024-04-25**|**Generating Minimalist Adversarial Perturbations to Test Object-Detection Models: An Adaptive Multi-Metric Evolutionary Search Approach**|Cristopher McIntyre-Garcia et.al.|[2404.17020](http://arxiv.org/abs/2404.17020)|**[link](https://github.com/cmcin019/tm-evo)**|
+|**2024-04-25**|**Star-Image Centering with Deep Learning II: HST/WFPC2 Full Field of View**|Dana I. Casetti-Dinescu et.al.|[2404.16995](http://arxiv.org/abs/2404.16995)|null|
+|**2024-04-25**|**CriSp: Leveraging Tread Depth Maps for Enhanced Crime-Scene Shoeprint Matching**|Samia Shafique et.al.|[2404.16972](http://arxiv.org/abs/2404.16972)|null|
+|**2024-04-25**|**A Survey of Generative Search and Recommendation in the Era of Large Language Models**|Yongqi Li et.al.|[2404.16924](http://arxiv.org/abs/2404.16924)|null|
+|**2024-04-25**|**On-the-fly Data Augmentation for Forecasting with Deep Learning**|Vitor Cerqueira et.al.|[2404.16918](http://arxiv.org/abs/2404.16918)|null|
+|**2024-04-25**|**Season combinatorial intervention predictions with Salt & Peper**|Thomas Gaudelet et.al.|[2404.16907](http://arxiv.org/abs/2404.16907)|null|
+|**2024-04-24**|**Anomaly Detection for Incident Response at Scale**|Hanzhang Wang et.al.|[2404.16887](http://arxiv.org/abs/2404.16887)|null|
+|**2024-04-23**|**ThermoPore: Predicting Part Porosity Based on Thermal Images Using Deep Learning**|Peter Myung-Won Pak et.al.|[2404.16882](http://arxiv.org/abs/2404.16882)|null|
 |**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|null|
 |**2024-04-25**|**ConKeD++ -- Improving descriptor learning for retinal image registration: A comprehensive study of contrastive losses**|David Rivas-Villar et.al.|[2404.16773](http://arxiv.org/abs/2404.16773)|null|
 |**2024-04-25**|**Reusing Deep Learning Models: Challenges and Directions in Software Engineering**|James C. Davis et.al.|[2404.16688](http://arxiv.org/abs/2404.16688)|null|
