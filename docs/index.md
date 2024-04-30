@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -357,7 +357,7 @@ layout: default
 |**2024-02-02**|**Graph Multi-Similarity Learning for Molecular Property Prediction**|Hao Xu et.al.|[2401.17615](http://arxiv.org/abs/2401.17615)|null|
 |**2024-01-30**|**MolPLA: A Molecular Pretraining Framework for Learning Cores, R-Groups and their Linker Joints**|Mogan Gim et.al.|[2401.16771](http://arxiv.org/abs/2401.16771)|**[link](https://github.com/dmis-lab/molpla)**|
 |**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299](http://arxiv.org/abs/2401.16299)|**[link](https://github.com/vishaldeyiiest/graphta)**|
-|**2023-12-28**|**Adjustable Molecular Representation for Unified Pre-training Strategy**|Yan Ding et.al.|[2401.06166](http://arxiv.org/abs/2401.06166)|null|
+|**2024-04-27**|**AdaMR: Adaptable Molecular Representation for Unified Pre-training Strategy**|Yan Ding et.al.|[2401.06166](http://arxiv.org/abs/2401.06166)|null|
 |**2024-01-30**|**TwinBooster: Synergising Large Language Models with Barlow Twins and Gradient Boosting for Enhanced Molecular Property Prediction**|Maximilian G. Schuh et.al.|[2401.04478](http://arxiv.org/abs/2401.04478)|**[link](https://github.com/maxischuh/twinbooster)**|
 |**2024-01-09**|**Multi-Modal Representation Learning for Molecular Property Prediction: Sequence, Graph, Geometry**|Zeyu Wang et.al.|[2401.03369](http://arxiv.org/abs/2401.03369)|**[link](https://github.com/vencent-won/sggrl)**|
 |**2023-12-29**|**Integrating Chemical Language and Molecular Graph in Multimodal Fused Deep Learning for Drug Property Prediction**|Xiaohua Lu et.al.|[2312.17495](http://arxiv.org/abs/2312.17495)|null|
@@ -650,7 +650,7 @@ layout: default
 |**2024-04-25**|**3D deep learning for enhanced atom probe tomography analysis of nanoscale microstructures**|Jiwei Yu et.al.|[2404.16524](http://arxiv.org/abs/2404.16524)|null|
 |**2024-04-25**|**A Deep Learning-Driven Pipeline for Differentiating Hypertrophic Cardiomyopathy from Cardiac Amyloidosis Using 2D Multi-View Echocardiography**|Bo Peng et.al.|[2404.16522](http://arxiv.org/abs/2404.16522)|null|
 |**2024-04-25**|**Towards Precise Observations of Neural Model Robustness in Classification**|Wenchuan Mu et.al.|[2404.16457](http://arxiv.org/abs/2404.16457)|null|
-|**2024-04-25**|**SynCellFactory: Generative Data Augmentation for Cell Tracking**|Moritz Sturm et.al.|[2404.16421](http://arxiv.org/abs/2404.16421)|null|
+|**2024-04-26**|**SynCellFactory: Generative Data Augmentation for Cell Tracking**|Moritz Sturm et.al.|[2404.16421](http://arxiv.org/abs/2404.16421)|null|
 |**2024-04-25**|**Deep Learning-based Prediction of Breast Cancer Tumor and Immune Phenotypes from Histopathology**|Tiago Gonçalves et.al.|[2404.16397](http://arxiv.org/abs/2404.16397)|null|
 |**2024-04-25**|**Efficient Higher-order Convolution for Small Kernels in Deep Learning**|Zuocheng Wen et.al.|[2404.16380](http://arxiv.org/abs/2404.16380)|**[link](https://github.com/winterwen666/efficient-high-order-volterra-convolution)**|
 |**2024-04-26**|**Enhancing Arterial Blood Flow Simulations through Physics-Informed Neural Networks**|Shivam Bhargava et.al.|[2404.16347](http://arxiv.org/abs/2404.16347)|null|
@@ -688,7 +688,7 @@ layout: default
 |**2024-04-24**|**Brain Storm Optimization Based Swarm Learning for Diabetic Retinopathy Image Classification**|Liang Qu et.al.|[2404.15585](http://arxiv.org/abs/2404.15585)|null|
 |**2024-04-24**|**Research on OPF control of three-phase four-wire low-voltage distribution network considering uncertainty**|Rui Wang et.al.|[2404.15584](http://arxiv.org/abs/2404.15584)|null|
 |**2024-04-23**|**An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models**|Yangchen Pan et.al.|[2404.15518](http://arxiv.org/abs/2404.15518)|null|
-|**2024-04-23**|**Deep-learning Optical Flow Outperforms PIV in Obtaining Velocity Fields from Active Nematics**|Phu N. Tran et.al.|[2404.15497](http://arxiv.org/abs/2404.15497)|null|
+|**2024-04-26**|**Deep-learning Optical Flow Outperforms PIV in Obtaining Velocity Fields from Active Nematics**|Phu N. Tran et.al.|[2404.15497](http://arxiv.org/abs/2404.15497)|null|
 |**2024-04-23**|**NMBEnet: Efficient Near-field mmWave Beam Training for Multiuser OFDM Systems Using Sub-6 GHz Pilots**|Wang Liu et.al.|[2404.15469](http://arxiv.org/abs/2404.15469)|null|
 |**2024-04-25**|**Using Deep Learning to Identify Initial Error Sensitivity of ENSO Forecasts**|Kinya Toride et.al.|[2404.15419](http://arxiv.org/abs/2404.15419)|**[link](https://github.com/kinyatoride/dlma)**|
 |**2024-04-23**|**Uncertainty in latent representations of variational autoencoders optimized for visual tasks**|Josefina Catoni et.al.|[2404.15390](http://arxiv.org/abs/2404.15390)|null|
@@ -702,7 +702,7 @@ layout: default
 |**2024-04-23**|**Massively Annotated Datasets for Assessment of Synthetic and Real Data in Face Recognition**|Pedro C. Neto et.al.|[2404.15234](http://arxiv.org/abs/2404.15234)|null|
 |**2024-04-24**|**Direct Zernike Coefficient Prediction from Point Spread Functions and Extended Images using Deep Learning**|Yong En Kok et.al.|[2404.15231](http://arxiv.org/abs/2404.15231)|null|
 |**2024-04-23**|**Deep Models for Multi-View 3D Object Recognition: A Review**|Mona Alzahrani et.al.|[2404.15224](http://arxiv.org/abs/2404.15224)|null|
-|**2024-04-23**|**Every Breath You Don't Take: Deepfake Speech Detection Using Breath**|Seth Layton et.al.|[2404.15143](http://arxiv.org/abs/2404.15143)|null|
+|**2024-04-26**|**Every Breath You Don't Take: Deepfake Speech Detection Using Breath**|Seth Layton et.al.|[2404.15143](http://arxiv.org/abs/2404.15143)|null|
 |**2024-04-23**|**Mapping Parallel Matrix Multiplication in GotoBLAS2 to the AMD Versal ACAP for Deep Learning**|Jie Lei et.al.|[2404.15043](http://arxiv.org/abs/2404.15043)|null|
 |**2024-04-23**|**A review of deep learning-based information fusion techniques for multimodal medical image classification**|Yihao Li et.al.|[2404.15022](http://arxiv.org/abs/2404.15022)|null|
 |**2024-04-23**|**A Unified Replay-based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data**|Hao Miao et.al.|[2404.14999](http://arxiv.org/abs/2404.14999)|null|
@@ -1645,7 +1645,7 @@ layout: default
 |**2023-11-01**|**Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods**|Minsi Ren et.al.|[2311.12035](http://arxiv.org/abs/2311.12035)|null|
 |**2023-11-19**|**A Universal Framework for Accurate and Efficient Geometric Deep Learning of Molecular Systems**|Shuo Zhang et.al.|[2311.11228](http://arxiv.org/abs/2311.11228)|**[link](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)**|
 |**2023-11-16**|**Competing charge transfer and screening effects in two-dimensional ferroelectric capacitors**|Jiawei Huang et.al.|[2311.08187](http://arxiv.org/abs/2311.08187)|null|
-|**2023-10-31**|**Stochastic Gradient Descent for Gaussian Processes Done Right**|Jihao Andreas Lin et.al.|[2310.20581](http://arxiv.org/abs/2310.20581)|**[link](https://github.com/cambridge-mlg/sgd-gp)**|
+|**2024-04-28**|**Stochastic Gradient Descent for Gaussian Processes Done Right**|Jihao Andreas Lin et.al.|[2310.20581](http://arxiv.org/abs/2310.20581)|**[link](https://github.com/cambridge-mlg/sgd-gp)**|
 |**2023-10-23**|**Adsorption of Diclofenac and PFBS on Hair Keratin Dimer**|René Hafner et.al.|[2310.11411](http://arxiv.org/abs/2310.11411)|null|
 |**2023-10-30**|**Active Learning Framework for Cost-Effective TCR-Epitope Binding Affinity Prediction**|Pengfei Zhang et.al.|[2310.10893](http://arxiv.org/abs/2310.10893)|**[link](https://github.com/lee-cbg/activetcr)**|
 |**2023-10-16**|**Pareto Optimization to Accelerate Multi-Objective Virtual Screening**|Jenna C. Fromer et.al.|[2310.10598](http://arxiv.org/abs/2310.10598)|null|
