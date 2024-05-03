@@ -233,6 +233,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways**|Miruna Cretu et.al.|[2405.01155](http://arxiv.org/abs/2405.01155)|null|
 |**2024-04-30**|**Leveraging Active Subspaces to Capture Epistemic Model Uncertainty in Deep Generative Models for Molecular Design**|A N M Nafiz Abeer et.al.|[2405.00202](http://arxiv.org/abs/2405.00202)|null|
 |**2024-04-30**|**Deep Lead Optimization: Leveraging Generative AI for Structural Modification**|Odin Zhang et.al.|[2404.19230](http://arxiv.org/abs/2404.19230)|null|
 |**2024-04-10**|**Latent Chemical Space Searching for Plug-in Multi-objective Molecule Generation**|Ningfeng Liu et.al.|[2404.06691](http://arxiv.org/abs/2404.06691)|null|
@@ -344,6 +345,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**CACTUS: Chemistry Agent Connecting Tool-Usage to Science**|Andrew D. McNaughton et.al.|[2405.00972](http://arxiv.org/abs/2405.00972)|null|
+|**2024-05-02**|**The Role of Model Architecture and Scale in Predicting Molecular Properties: Insights from Fine-Tuning RoBERTa, BART, and LLaMA**|Lee Youngmin et.al.|[2405.00949](http://arxiv.org/abs/2405.00949)|null|
 |**2024-04-24**|**ApisTox: a new benchmark dataset for the classification of small molecules toxicity on honey bees**|Jakub Adamczyk et.al.|[2404.16196](http://arxiv.org/abs/2404.16196)|**[link](https://github.com/j-adamczyk/apis_tox_dataset)**|
 |**2024-04-20**|**Transfer Learning for Molecular Property Predictions from Small Data Sets**|Thorren Kirschbaum et.al.|[2404.13393](http://arxiv.org/abs/2404.13393)|null|
 |**2024-04-05**|**Transformers for molecular property prediction: Lessons learned from the past five years**|Afnan Sultan et.al.|[2404.03969](http://arxiv.org/abs/2404.03969)|**[link](https://github.com/volkamerlab/transformers4mpp_review)**|
@@ -455,6 +458,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**FeNNol: an Efficient and Flexible Library for Building Force-field-enhanced Neural Network Potentials**|Thomas Plé et.al.|[2405.01491](http://arxiv.org/abs/2405.01491)|null|
+|**2024-05-01**|**Molecular Insights into the Water Dissociation and Proton Dynamics at the $β$ -TaON (100)/Water Interface**|Sagarmoy Mandal et.al.|[2405.00851](http://arxiv.org/abs/2405.00851)|null|
+|**2024-05-01**|**HMAMP: Hypervolume-Driven Multi-Objective Antimicrobial Peptides Design**|Li Wang et.al.|[2405.00753](http://arxiv.org/abs/2405.00753)|null|
 |**2024-05-01**|**Canonized then Minimized RMSD for Three-Dimensional Structures**|Jie Li et.al.|[2405.00339](http://arxiv.org/abs/2405.00339)|null|
 |**2024-04-30**|**Target-Specific De Novo Peptide Binder Design with DiffPepBuilder**|Fanhao Wang et.al.|[2405.00128](http://arxiv.org/abs/2405.00128)|null|
 |**2024-04-30**|**curvedSpaceSim: A framework for simulating particles interacting along geodesics**|Toler H. Webb et.al.|[2404.19751](http://arxiv.org/abs/2404.19751)|null|
@@ -618,6 +624,39 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
+|**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
+|**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
+|**2024-05-02**|**Strategies for Rare Population Detection and Sampling: A Methodological Approach in Liguria**|G. Lancia et.al.|[2405.01342](http://arxiv.org/abs/2405.01342)|null|
+|**2024-05-02**|**Data Scoping: Effectively Learning the Evolution of Generic Transport PDEs**|Jiangce Chen et.al.|[2405.01319](http://arxiv.org/abs/2405.01319)|null|
+|**2024-05-02**|**Misclassification bounds for PAC-Bayesian sparse deep learning**|The Tien Mai et.al.|[2405.01304](http://arxiv.org/abs/2405.01304)|null|
+|**2024-05-02**|**Quantifying Spatial Domain Explanations in BCI using Earth Mover's Distance**|Param Rajpura et.al.|[2405.01277](http://arxiv.org/abs/2405.01277)|null|
+|**2024-05-02**|**The Importance of Model Inspection for Better Understanding Performance Characteristics of Graph Neural Networks**|Nairouz Shehata et.al.|[2405.01270](http://arxiv.org/abs/2405.01270)|null|
+|**2024-05-02**|**Identification of Entailment and Contradiction Relations between Natural Language Sentences: A Neurosymbolic Approach**|Xuyao Feng et.al.|[2405.01259](http://arxiv.org/abs/2405.01259)|null|
+|**2024-05-02**|**RaffeSDG: Random Frequency Filtering enabled Single-source Domain Generalization for Medical Image Segmentation**|Heng Li et.al.|[2405.01228](http://arxiv.org/abs/2405.01228)|**[link](https://github.com/liamheng/non-iid_medical_image_segmentation)**|
+|**2024-05-02**|**DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection**|Yanjing Yang et.al.|[2405.01202](http://arxiv.org/abs/2405.01202)|null|
+|**2024-05-02**|**Latent Fingerprint Matching via Dense Minutia Descriptor**|Zhiyu Pan et.al.|[2405.01199](http://arxiv.org/abs/2405.01199)|null|
+|**2024-05-02**|**Potential Energy based Mixture Model for Noisy Label Learning**|Zijia Wang et.al.|[2405.01186](http://arxiv.org/abs/2405.01186)|null|
+|**2024-05-02**|**Uncertainty-aware self-training with expectation maximization basis transformation**|Zijia Wang et.al.|[2405.01175](http://arxiv.org/abs/2405.01175)|null|
+|**2024-05-02**|**Detecting and clustering swallow events in esophageal long-term high-resolution manometry**|Alexander Geiger et.al.|[2405.01126](http://arxiv.org/abs/2405.01126)|null|
+|**2024-05-02**|**Generative Relevance Feedback and Convergence of Adaptive Re-Ranking: University of Glasgow Terrier Team at TREC DL 2023**|Andrew Parry et.al.|[2405.01122](http://arxiv.org/abs/2405.01122)|null|
+|**2024-05-02**|**MCMS: Multi-Category Information and Multi-Scale Stripe Attention for Blind Motion Deblurring**|Nianzu Qiao et.al.|[2405.01083](http://arxiv.org/abs/2405.01083)|null|
+|**2024-05-02**|**KDPrint: Passive Authentication using Keystroke Dynamics-to-Image Encoding via Standardization**|Yooshin Kim et.al.|[2405.01080](http://arxiv.org/abs/2405.01080)|null|
+|**2024-05-02**|**Callico: a Versatile Open-Source Document Image Annotation Platform**|Christopher Kermorvant et.al.|[2405.01071](http://arxiv.org/abs/2405.01071)|null|
+|**2024-05-02**|**A text-based, generative deep learning model for soil reflectance spectrum simulation in the VIS-NIR (400-2499 nm) bands**|Tong Lei et.al.|[2405.01060](http://arxiv.org/abs/2405.01060)|**[link](https://github.com/gemini-breeding/sogm_soil_spectra_simulation)**|
+|**2024-05-02**|**Leverage Multi-source Traffic Demand Data Fusion with Transformer Model for Urban Parking Prediction**|Yin Huang et.al.|[2405.01055](http://arxiv.org/abs/2405.01055)|null|
+|**2024-05-02**|**Few Shot Class Incremental Learning using Vision-Language models**|Anurag Kumar et.al.|[2405.01040](http://arxiv.org/abs/2405.01040)|null|
+|**2024-05-02**|**CrossMPT: Cross-attention Message-Passing Transformer for Error Correcting Codes**|Seong-Joon Park et.al.|[2405.01033](http://arxiv.org/abs/2405.01033)|null|
+|**2024-05-02**|**Deep Learning Models in Speech Recognition: Measuring GPU Energy Consumption, Impact of Noise and Model Quantization for Edge Deployment**|Aditya Chakravarty et.al.|[2405.01004](http://arxiv.org/abs/2405.01004)|null|
+|**2024-05-02**|**MTDT: A Multi-Task Deep Learning Digital Twin**|Nooshin Yousefzadeh et.al.|[2405.00922](http://arxiv.org/abs/2405.00922)|null|
+|**2024-05-01**|**Transformer-Based Self-Supervised Learning for Histopathological Classification of Ischemic Stroke Clot Origin**|K. Yeh et.al.|[2405.00908](http://arxiv.org/abs/2405.00908)|null|
+|**2024-05-01**|**Learning to Boost the Performance of Stable Nonlinear Systems**|Luca Furieri et.al.|[2405.00871](http://arxiv.org/abs/2405.00871)|null|
+|**2024-05-01**|**Guided Conditional Diffusion Classifier (ConDiff) for Enhanced Prediction of Infection in Diabetic Foot Ulcers**|Palawat Busaranuvong et.al.|[2405.00858](http://arxiv.org/abs/2405.00858)|null|
+|**2024-05-01**|**ICU Bloodstream Infection Prediction: A Transformer-Based Approach for EHR Analysis**|Ortal Hirszowicz et.al.|[2405.00819](http://arxiv.org/abs/2405.00819)|null|
+|**2024-05-01**|**More is Better: Deep Domain Adaptation with Multiple Sources**|Sicheng Zhao et.al.|[2405.00749](http://arxiv.org/abs/2405.00749)|null|
+|**2024-04-30**|**Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks**|Yi Li et.al.|[2405.00742](http://arxiv.org/abs/2405.00742)|null|
+|**2024-04-29**|**HLSTransform: Energy-Efficient Llama 2 Inference on FPGAs Via High Level Synthesis**|Andy He et.al.|[2405.00738](http://arxiv.org/abs/2405.00738)|null|
+|**2024-04-29**|**Joint Signal Detection and Automatic Modulation Classification via Deep Learning**|Huijun Xing et.al.|[2405.00736](http://arxiv.org/abs/2405.00736)|null|
 |**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670](http://arxiv.org/abs/2405.00670)|null|
 |**2024-05-01**|**Gradient-based Automatic Per-Weight Mixed Precision Quantization for Neural Networks On-Chip**|Chang Sun et.al.|[2405.00645](http://arxiv.org/abs/2405.00645)|**[link](https://github.com/calad0i/HGQ-demos)**|
 |**2024-05-01**|**From Empirical Observations to Universality: Dynamics of Deep Learning with Inputs Built on Gaussian mixture**|Jaeyong Bae et.al.|[2405.00642](http://arxiv.org/abs/2405.00642)|null|
@@ -1734,6 +1773,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways**|Miruna Cretu et.al.|[2405.01155](http://arxiv.org/abs/2405.01155)|null|
 |**2024-04-23**|**MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space**|Yanru Qu et.al.|[2404.12141](http://arxiv.org/abs/2404.12141)|null|
 |**2024-04-12**|**Ligand Equilibrium Influences Photoluminescence Blinking in CsPbBr3: A Change Point Analysis of Widefield Imaging Data**|Shaun Gallagher et.al.|[2404.08166](http://arxiv.org/abs/2404.08166)|null|
 |**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481](http://arxiv.org/abs/2404.06481)|null|
