@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.04
+## Updated on 2024.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -174,7 +174,7 @@ layout: default
 |**2023-07-21**|**ClueReader: Heterogeneous Graph Attention Network for Multi-hop Machine Reading Comprehension**|Peng Gao et.al.|[2107.00841](http://arxiv.org/abs/2107.00841)|null|
 |**2021-06-01**|**An introduction to network analysis for studies of medication use**|Mohsen Askar et.al.|[2106.00413](http://arxiv.org/abs/2106.00413)|null|
 |**2021-05-28**|**Relation Matters in Sampling: A Scalable Multi-Relational Graph Neural Network for Drug-Drug Interaction Prediction**|Arthur Feeney et.al.|[2105.13975](http://arxiv.org/abs/2105.13975)|null|
-|**2022-07-17**|**SafeDrug: Dual Molecular Graph Encoders for Recommending Effective and Safe Drug Combinations**|Chaoqi Yang et.al.|[2105.02711](http://arxiv.org/abs/2105.02711)|null|
+|**2022-07-17**|**SafeDrug: Dual Molecular Graph Encoders for Recommending Effective and Safe Drug Combinations**|Chaoqi Yang et.al.|[2105.02711](http://arxiv.org/abs/2105.02711)|**[link](https://github.com/ycq091044/SafeDrug)**|
 |**2021-03-19**|**Predicting Drug-Drug Interactions from Heterogeneous Data: An Embedding Approach**|Devendra Singh Dhami et.al.|[2103.10916](http://arxiv.org/abs/2103.10916)|null|
 |**2021-01-25**|**EGFI: Drug-Drug Interaction Extraction and Generation with Fusion of Enriched Entity and Sentence Information**|Lei Huang et.al.|[2101.09914](http://arxiv.org/abs/2101.09914)|null|
 |**2020-12-24**|**AttentionDDI: Siamese Attention-based Deep Learning method for drug-drug interaction predictions**|Kyriakos Schwarz et.al.|[2012.13248](http://arxiv.org/abs/2012.13248)|**[link](https://github.com/uzh-dqbm-cmi/side-effects)**|
