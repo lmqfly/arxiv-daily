@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.06
+## Updated on 2024.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -639,14 +639,14 @@ layout: default
 |**2024-05-03**|**From Attack to Defense: Insights into Deep Learning Security Measures in Black-Box Settings**|Firuz Juraev et.al.|[2405.01963](http://arxiv.org/abs/2405.01963)|null|
 |**2024-05-03**|**Impact of Architectural Modifications on Deep Learning Adversarial Robustness**|Firuz Juraev et.al.|[2405.01934](http://arxiv.org/abs/2405.01934)|null|
 |**2024-05-03**|**Transforming Investment Strategies and Strategic Decision-Making: Unveiling a Novel Methodology for Enhanced Performance and Risk Management in Financial Markets**|Tian Tian et.al.|[2405.01892](http://arxiv.org/abs/2405.01892)|null|
-|**2024-05-03**|**Explainable Risk Classification in Financial Reports**|Xue Wen Tan et.al.|[2405.01881](http://arxiv.org/abs/2405.01881)|null|
+|**2024-05-06**|**Explainable Risk Classification in Financial Reports**|Xue Wen Tan et.al.|[2405.01881](http://arxiv.org/abs/2405.01881)|null|
 |**2024-05-03**|**Deep Learning Inference on Heterogeneous Mobile Processors: Potentials and Pitfalls**|Sicong Liu et.al.|[2405.01851](http://arxiv.org/abs/2405.01851)|null|
 |**2024-05-03**|**Toward end-to-end interpretable convolutional neural networks for waveform signals**|Linh Vu et.al.|[2405.01815](http://arxiv.org/abs/2405.01815)|null|
 |**2024-05-02**|**Quantum Machine Learning: Quantum Kernel Methods**|Sanjeev Naguleswaran et.al.|[2405.01780](http://arxiv.org/abs/2405.01780)|null|
 |**2024-05-02**|**Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design**|Jian Meng et.al.|[2405.01775](http://arxiv.org/abs/2405.01775)|**[link](https://github.com/seolabcornell/torch2chip)**|
 |**2024-05-02**|**Segmentation-Free Outcome Prediction in Head and Neck Cancer: Deep Learning-based Feature Extraction from Multi-Angle Maximum Intensity Projections (MA-MIPs) of PET Images**|Amirhosein Toosi et.al.|[2405.01756](http://arxiv.org/abs/2405.01756)|null|
 |**2024-05-02**|**Diabetic Retinopathy Detection Using Quantum Transfer Learning**|Ankush Jain et.al.|[2405.01734](http://arxiv.org/abs/2405.01734)|null|
-|**2024-05-02**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
+|**2024-05-06**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
 |**2024-05-02**|**Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**|Guoping Xu et.al.|[2405.01725](http://arxiv.org/abs/2405.01725)|**[link](https://github.com/apple1986/residual_learning_for_images)**|
 |**2024-05-02**|**Zero-Shot Monocular Motion Segmentation in the Wild by Combining Deep Learning with Geometric Motion Model Fusion**|Yuxiang Huang et.al.|[2405.01723](http://arxiv.org/abs/2405.01723)|null|
 |**2024-05-02**|**Interpretable Vital Sign Forecasting with Model Agnostic Attention Maps**|Yuwei Liu et.al.|[2405.01714](http://arxiv.org/abs/2405.01714)|null|
@@ -707,7 +707,7 @@ layout: default
 |**2024-05-01**|**Robust Continuous-Time Beam Tracking with Liquid Neural Network**|Fenghao Zhu et.al.|[2405.00365](http://arxiv.org/abs/2405.00365)|null|
 |**2024-05-01**|**A Survey on Deep Active Learning: Recent Advances and New Frontiers**|Dongyuan Li et.al.|[2405.00334](http://arxiv.org/abs/2405.00334)|null|
 |**2024-05-01**|**Input gradient annealing neural network for solving low-temperature Fokker-Planck equations**|Liangkai Hang et.al.|[2405.00317](http://arxiv.org/abs/2405.00317)|null|
-|**2024-05-01**|**Enhance Planning with Physics-informed Safety Controllor for End-to-end Autonomous Driving**|Hang Zhou et.al.|[2405.00316](http://arxiv.org/abs/2405.00316)|null|
+|**2024-05-05**|**Enhance Planning with Physics-informed Safety Controller for End-to-end Autonomous Driving**|Hang Zhou et.al.|[2405.00316](http://arxiv.org/abs/2405.00316)|null|
 |**2024-05-01**|**Three-layer deep learning network random trees for fault diagnosis in chemical production process**|Ming Lu et.al.|[2405.00311](http://arxiv.org/abs/2405.00311)|null|
 |**2024-04-30**|**Hybrid Quantum-Classical Scheduling for Accelerating Neural Network Training with Newton's Gradient Descent**|Pingzhi Li et.al.|[2405.00252](http://arxiv.org/abs/2405.00252)|**[link](https://github.com/unites-lab/q-newton)**|
 |**2024-04-30**|**Who is Authentic Speaker**|Qiang Huang et.al.|[2405.00248](http://arxiv.org/abs/2405.00248)|null|
@@ -1828,7 +1828,7 @@ layout: default
 |**2024-01-29**|**Modulating weak protein-protein cross-interactions by addition of free amino acids at millimolar concentrations**|Pamina M. Winkler et.al.|[2401.16276](http://arxiv.org/abs/2401.16276)|null|
 |**2024-02-14**|**Enhancing Protein-Ligand Binding Affinity Predictions using Neural Network Potentials**|Francesc Sabanes Zariquiey et.al.|[2401.16062](http://arxiv.org/abs/2401.16062)|null|
 |**2024-02-01**|**A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics**|Shengchao Liu et.al.|[2401.15122](http://arxiv.org/abs/2401.15122)|null|
-|**2024-01-19**|**DeepRLI: A Multi-objective Framework for Universal Protein--Ligand Interaction Prediction**|Haoyu Lin et.al.|[2401.10806](http://arxiv.org/abs/2401.10806)|null|
+|**2024-01-19**|**DeepRLI: A Multi-objective Framework for Universal Protein--Ligand Interaction Prediction**|Haoyu Lin et.al.|[2401.10806](http://arxiv.org/abs/2401.10806)|**[link](https://github.com/fairydance/deeprli)**|
 |**2023-12-05**|**MATE-Pred: Multimodal Attention-based TCR-Epitope interaction Predictor**|Etienne Goffinet et.al.|[2401.08619](http://arxiv.org/abs/2401.08619)|null|
 |**2023-12-15**|**Autoregressive fragment-based diffusion for pocket-aware ligand design**|Mahdi Ghorbani et.al.|[2401.05370](http://arxiv.org/abs/2401.05370)|null|
 |**2023-12-23**|**DTIAM: A unified framework for predicting drug-target interactions, binding affinities and activation/inhibition mechanisms**|Zhangli Lu et.al.|[2312.15252](http://arxiv.org/abs/2312.15252)|**[link](https://github.com/csubiogroup/dtiam)**|
