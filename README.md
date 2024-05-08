@@ -269,6 +269,7 @@
 |**2024-04-25**|**ChemLLM: A Chemical Large Language Model**|Di Zhang et.al.|[2402.06852](http://arxiv.org/abs/2402.06852)|null|
 |**2024-02-05**|**Genetic-guided GFlowNets: Advancing in Practical Molecular Optimization Benchmark**|Hyeonah Kim et.al.|[2402.05961](http://arxiv.org/abs/2402.05961)|null|
 |**2023-12-28**|**Hybrid quantum cycle generative adversarial network for small molecule generation**|Matvei Anoshin et.al.|[2402.00014](http://arxiv.org/abs/2402.00014)|null|
+|**2024-05-07**|**Graph Diffusion Transformer for Multi-Conditional Molecular Generation**|Gang Liu et.al.|[2401.13858](http://arxiv.org/abs/2401.13858)|**[link](https://github.com/liugangcode/MCD)**|
 |**2023-09-24**|**Curiosity as a Self-Supervised Method to Improve Exploration in De novo Drug Design**|Mohamed-Amine Chadi et.al.|[2401.06771](http://arxiv.org/abs/2401.06771)|**[link](https://github.com/amine179/curiosity-rl-for-drug-design)**|
 |**2023-12-21**|**De novo Drug Design using Reinforcement Learning with Multiple GPT Agents**|Xiuyuan Hu et.al.|[2401.06155](http://arxiv.org/abs/2401.06155)|**[link](https://github.com/hxyfighter/molrl-mgpt)**|
 |**2024-05-02**|**nach0: Multimodal Natural and Chemical Languages Foundation Model**|Micha Livne et.al.|[2311.12410](http://arxiv.org/abs/2311.12410)|**[link](https://github.com/insilicomedicine/nach0)**|
@@ -479,6 +480,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Super-suppression of long wavelength phonons in constricted nanoporous geometries**|Alex Greaney et.al.|[2405.04183](http://arxiv.org/abs/2405.04183)|null|
 |**2024-05-06**|**A family of air-stable chalcogenide solid electrolytes in Li $_2$BMQ$_4$ (B = Ca, Sr and Ba; M = Si, Ge and Sn; Q = O, S and Se) systems**|Huican Mao et.al.|[2405.03466](http://arxiv.org/abs/2405.03466)|null|
 |**2024-05-06**|**Molecular dynamics simulations of the defect evolution in tungsten on successive collision cascades**|Utkarsh Bhardwaj et.al.|[2405.03344](http://arxiv.org/abs/2405.03344)|null|
 |**2024-05-06**|**Molecular dynamics simulations of neutron induced collision cascades in Zr - statistical modelling of irradiation damage and potential applications**|Bartosz Barzdajn et.al.|[2405.03332](http://arxiv.org/abs/2405.03332)|null|
@@ -653,6 +655,40 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Neural network based deep learning analysis of semiconductor quantum dot qubits for automated control**|Jacob R. Taylor et.al.|[2405.04524](http://arxiv.org/abs/2405.04524)|null|
+|**2024-05-07**|**xLSTM: Extended Long Short-Term Memory**|Maximilian Beck et.al.|[2405.04517](http://arxiv.org/abs/2405.04517)|null|
+|**2024-05-07**|**Resource-Efficient and Self-Adaptive Quantum Search in a Quantum-Classical Hybrid System**|Zihao Jiang et.al.|[2405.04490](http://arxiv.org/abs/2405.04490)|null|
+|**2024-05-07**|**A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466](http://arxiv.org/abs/2405.04466)|null|
+|**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404](http://arxiv.org/abs/2405.04404)|**[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)**|
+|**2024-05-07**|**Predicting Transonic Flowfields in Non-Homogeneous Unstructured Grids Using Autoencoder Graph Convolutional Networks**|Gabriele Immordino et.al.|[2405.04396](http://arxiv.org/abs/2405.04396)|null|
+|**2024-05-07**|**Leveraging LSTM and GAN for Modern Malware Detection**|Ishita Gupta et.al.|[2405.04373](http://arxiv.org/abs/2405.04373)|null|
+|**2024-05-07**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction**|Zhihao Wen et.al.|[2405.04336](http://arxiv.org/abs/2405.04336)|null|
+|**2024-05-07**|**Molecular Identification via Molecular Fingerprint extraction from Atomic Force Microscopy images**|Manuel González Lastre et.al.|[2405.04321](http://arxiv.org/abs/2405.04321)|null|
+|**2024-05-05**|**BetterNet: An Efficient CNN Architecture with Residual Learning and Attention for Precision Polyp Segmentation**|Owen Singh et.al.|[2405.04288](http://arxiv.org/abs/2405.04288)|**[link](https://github.com/itsowen/betternet)**|
+|**2024-05-07**|**Optical Photon Emission in Extended Airshowers -- Hybrid computing in the context of CORSIKA 8**|Dominik Baack et.al.|[2405.04229](http://arxiv.org/abs/2405.04229)|null|
+|**2024-05-07**|**Artificial Intelligence-powered fossil shark tooth identification: Unleashing the potential of Convolutional Neural Networks**|Andrea Barucci et.al.|[2405.04189](http://arxiv.org/abs/2405.04189)|null|
+|**2024-05-07**|**Structure and Kinematics of Star-forming Elliptical Galaxies in SDSS-MaNGA**|Pralay Biswas et.al.|[2405.04166](http://arxiv.org/abs/2405.04166)|null|
+|**2024-05-07**|**pFedLVM: A Large Vision Model (LVM)-Driven and Latent Feature-Based Personalized Federated Learning Framework in Autonomous Driving**|Wei-Bin Kou et.al.|[2405.04146](http://arxiv.org/abs/2405.04146)|null|
+|**2024-05-07**|**Lossy Compression with Data, Perception, and Classification Constraints**|Yuhan Wang et.al.|[2405.04144](http://arxiv.org/abs/2405.04144)|null|
+|**2024-05-07**|**Speaker Characterization by means of Attention Pooling**|Federico Costa et.al.|[2405.04096](http://arxiv.org/abs/2405.04096)|null|
+|**2024-05-07**|**Going Proactive and Explanatory Against Malware Concept Drift**|Yiling He et.al.|[2405.04095](http://arxiv.org/abs/2405.04095)|null|
+|**2024-05-07**|**DCNN: Dual Cross-current Neural Networks Realized Using An Interactive Deep Learning Discriminator for Fine-grained Objects**|Da Fu et.al.|[2405.04093](http://arxiv.org/abs/2405.04093)|null|
+|**2024-05-07**|**Generalized Cauchy-Schwarz Divergence and Its Deep Learning Applications**|Mingfei Lu et.al.|[2405.04061](http://arxiv.org/abs/2405.04061)|null|
+|**2024-05-07**|**Bidirectional Adversarial Autoencoders for the design of Plasmonic Metasurfaces**|Yuansan Liu et.al.|[2405.04056](http://arxiv.org/abs/2405.04056)|**[link](https://github.com/lysarthas/inverse_design_biaae)**|
+|**2024-05-07**|**Philosophy of Cognitive Science in the Age of Deep Learning**|Raphaël Millière et.al.|[2405.04048](http://arxiv.org/abs/2405.04048)|null|
+|**2024-05-07**|**Predicting Lung Disease Severity via Image-Based AQI Analysis using Deep Learning Techniques**|Anvita Mahajan et.al.|[2405.03981](http://arxiv.org/abs/2405.03981)|null|
+|**2024-05-07**|**VMambaCC: A Visual State Space Model for Crowd Counting**|Hao-Yuan Ma et.al.|[2405.03978](http://arxiv.org/abs/2405.03978)|null|
+|**2024-05-07**|**Predictive Modeling with Temporal Graphical Representation on Electronic Health Records**|Jiayuan Chen et.al.|[2405.03943](http://arxiv.org/abs/2405.03943)|**[link](https://github.com/the-real-jerrychen/trans)**|
+|**2024-05-07**|**Collaborative Intelligence in Sequential Experiments: A Human-in-the-Loop Framework for Drug Discovery**|Jinghai He et.al.|[2405.03942](http://arxiv.org/abs/2405.03942)|null|
+|**2024-05-06**|**Transformer models classify random numbers**|Rishabh Goel et.al.|[2405.03904](http://arxiv.org/abs/2405.03904)|null|
+|**2024-05-06**|**Outlier Gradient Analysis: Efficiently Improving Deep Learning Model Performance via Hessian-Free Influence Functions**|Anshuman Chhabra et.al.|[2405.03869](http://arxiv.org/abs/2405.03869)|null|
+|**2024-05-06**|**VSA4VQA: Scaling a Vector Symbolic Architecture to Visual Question Answering on Natural Images**|Anna Penzkofer et.al.|[2405.03852](http://arxiv.org/abs/2405.03852)|null|
+|**2024-05-06**|**End-to-End Autoencoder for Drill String Acoustic Communications**|Iurii Lezhenin et.al.|[2405.03840](http://arxiv.org/abs/2405.03840)|null|
+|**2024-05-06**|**On Adversarial Examples for Text Classification by Perturbing Latent Representations**|Korn Sooksatra et.al.|[2405.03789](http://arxiv.org/abs/2405.03789)|null|
+|**2024-05-06**|**Is ReLU Adversarially Robust?**|Korn Sooksatra et.al.|[2405.03777](http://arxiv.org/abs/2405.03777)|null|
+|**2024-05-06**|**Secure Inference for Vertically Partitioned Data Using Multiparty Homomorphic Encryption**|Shuangyi Chen et.al.|[2405.03775](http://arxiv.org/abs/2405.03775)|null|
+|**2024-05-06**|**Deep learning classifier of locally advanced rectal cancer treatment response from endoscopy images**|Jorge Tapias Gomez et.al.|[2405.03762](http://arxiv.org/abs/2405.03762)|null|
+|**2024-05-06**|**Accelerated MR Cholangiopancreatography with Deep Learning-based Reconstruction**|Jinho Kim et.al.|[2405.03732](http://arxiv.org/abs/2405.03732)|null|
 |**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684](http://arxiv.org/abs/2405.03684)|null|
 |**2024-05-06**|**Federated Learning Privacy: Attacks, Defenses, Applications, and Policy Landscape - A Survey**|Joshua C. Zhao et.al.|[2405.03636](http://arxiv.org/abs/2405.03636)|null|
 |**2024-05-06**|**Detecting Android Malware: From Neural Embeddings to Hands-On Validation with BERTroid**|Meryam Chaieb et.al.|[2405.03620](http://arxiv.org/abs/2405.03620)|null|
@@ -2008,6 +2044,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Predicting Transonic Flowfields in Non-Homogeneous Unstructured Grids Using Autoencoder Graph Convolutional Networks**|Gabriele Immordino et.al.|[2405.04396](http://arxiv.org/abs/2405.04396)|null|
 |**2024-04-05**|**Lightweight Geometric Deep Learning for Molecular Modelling in Catalyst Discovery**|Patrick Geitner et.al.|[2404.10003](http://arxiv.org/abs/2404.10003)|null|
 |**2024-04-05**|**Finsler-Laplace-Beltrami Operators with Application to Shape Analysis**|Simon Weber et.al.|[2404.03999](http://arxiv.org/abs/2404.03999)|null|
 |**2024-03-25**|**AnimateMe: 4D Facial Expressions via Diffusion Models**|Dimitrios Gerogiannis et.al.|[2403.17213](http://arxiv.org/abs/2403.17213)|null|
