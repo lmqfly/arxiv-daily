@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.08
+## Updated on 2024.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -68,7 +68,7 @@ layout: default
 |**2023-06-19**|**Unrestricted component count in multiphase lattice Boltzmann: a fugacity-based approach**|Muzammil Soomro et.al.|[2306.10652](http://arxiv.org/abs/2306.10652)|null|
 |**2023-06-08**|**Multi-level Protein Representation Learning for Blind Mutational Effect Prediction**|Yang Tan et.al.|[2306.04899](http://arxiv.org/abs/2306.04899)|null|
 |**2023-06-04**|**From multiscale biophysics to digital twins of tissues and organs: future opportunities for in silico pharmacology**|Michael Taynnan Barros et.al.|[2306.02369](http://arxiv.org/abs/2306.02369)|null|
-|**2024-02-06**|**Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning**|Xiangzhe Kong et.al.|[2306.01474](http://arxiv.org/abs/2306.01474)|null|
+|**2024-05-08**|**Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning**|Xiangzhe Kong et.al.|[2306.01474](http://arxiv.org/abs/2306.01474)|null|
 |**2023-11-14**|**Causal Intervention for Measuring Confidence in Drug-Target Interaction Prediction**|Wenting Ye et.al.|[2306.00041](http://arxiv.org/abs/2306.00041)|null|
 |**2023-07-03**|**How Thermal Effect Regulates Cyclic Voltammetry of Supercapacitors**|Teng Zhao et.al.|[2305.18713](http://arxiv.org/abs/2305.18713)|null|
 |**2023-04-26**|**SCV-GNN: Sparse Compressed Vector-based Graph Neural Network Aggregation**|Nanda K. Unnikrishnan et.al.|[2304.13532](http://arxiv.org/abs/2304.13532)|null|
@@ -394,7 +394,7 @@ layout: default
 |**2023-10-10**|**GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction**|Suryanarayanan Balaji et.al.|[2310.03030](http://arxiv.org/abs/2310.03030)|null|
 |**2023-08-25**|**Synergistic Fusion of Graph and Transformer Features for Enhanced Molecular Property Prediction**|M V Sai Prakash et.al.|[2310.03027](http://arxiv.org/abs/2310.03027)|null|
 |**2024-04-15**|**On the Stability of Expressive Positional Encodings for Graphs**|Yinan Huang et.al.|[2310.02579](http://arxiv.org/abs/2310.02579)|**[link](https://github.com/Graph-COM/SPE)**|
-|**2023-10-01**|**Hierarchical Adaptation with Hypernetworks for Few-shot Molecular Property Prediction**|Shiguang Wu et.al.|[2310.00614](http://arxiv.org/abs/2310.00614)|null|
+|**2024-05-08**|**PACIA: Parameter-Efficient Adapter for Few-Shot Molecular Property Prediction**|Shiguang Wu et.al.|[2310.00614](http://arxiv.org/abs/2310.00614)|null|
 |**2024-01-18**|**3D-Mol: A Novel Contrastive Learning Framework for Molecular Property Prediction with 3D Information**|Taojie Kuang et.al.|[2309.17366](http://arxiv.org/abs/2309.17366)|null|
 |**2023-09-08**|**Motif-aware Attribute Masking for Molecular Graph Pre-training**|Eric Inae et.al.|[2309.04589](http://arxiv.org/abs/2309.04589)|**[link](https://github.com/einae-nd/moama-dev)**|
 |**2023-09-08**|**3D Denoisers are Good 2D Teachers: Molecular Pretraining via Denoising and Cross-Modal Distillation**|Sungjun Cho et.al.|[2309.04062](http://arxiv.org/abs/2309.04062)|null|
@@ -638,7 +638,7 @@ layout: default
 |**2024-05-07**|**Neural network based deep learning analysis of semiconductor quantum dot qubits for automated control**|Jacob R. Taylor et.al.|[2405.04524](http://arxiv.org/abs/2405.04524)|null|
 |**2024-05-07**|**xLSTM: Extended Long Short-Term Memory**|Maximilian Beck et.al.|[2405.04517](http://arxiv.org/abs/2405.04517)|null|
 |**2024-05-07**|**Resource-Efficient and Self-Adaptive Quantum Search in a Quantum-Classical Hybrid System**|Zihao Jiang et.al.|[2405.04490](http://arxiv.org/abs/2405.04490)|null|
-|**2024-05-07**|**A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466](http://arxiv.org/abs/2405.04466)|null|
+|**2024-05-07**|**A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466](http://arxiv.org/abs/2405.04466)|**[link](https://github.com/Litianyu141/Gen-FVGN-steady)**|
 |**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404](http://arxiv.org/abs/2405.04404)|**[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)**|
 |**2024-05-07**|**Predicting Transonic Flowfields in Non-Homogeneous Unstructured Grids Using Autoencoder Graph Convolutional Networks**|Gabriele Immordino et.al.|[2405.04396](http://arxiv.org/abs/2405.04396)|null|
 |**2024-05-07**|**Leveraging LSTM and GAN for Modern Malware Detection**|Ishita Gupta et.al.|[2405.04373](http://arxiv.org/abs/2405.04373)|null|
@@ -727,7 +727,7 @@ layout: default
 |**2024-05-03**|**Deep Learning of ab initio Hessians for Transition State Optimization**|Eric C. -Y. Yuan et.al.|[2405.02247](http://arxiv.org/abs/2405.02247)|null|
 |**2024-05-03**|**Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation**|Gabriel Fischer Abati et.al.|[2405.02177](http://arxiv.org/abs/2405.02177)|null|
 |**2024-05-03**|**All-fiber microendoscopic polarization sensing at single-photon level aided by deep-learning**|Martin Bielak et.al.|[2405.02172](http://arxiv.org/abs/2405.02172)|null|
-|**2024-05-03**|**Forecasting Ferry Passenger Flow Using Long-Short Term Memory Neural Networks**|Daniel Fesalbon et.al.|[2405.02098](http://arxiv.org/abs/2405.02098)|null|
+|**2024-05-08**|**Forecasting Ferry Passenger Flow Using Long-Short Term Memory Neural Networks**|Daniel Fesalbon et.al.|[2405.02098](http://arxiv.org/abs/2405.02098)|null|
 |**2024-05-03**|**A semantic loss for ontology classification**|Simon Flügel et.al.|[2405.02083](http://arxiv.org/abs/2405.02083)|**[link](https://github.com/cheb-ai/python-chebai)**|
 |**2024-05-03**|**Towards general deep-learning-based tree instance segmentation models**|Jonathan Henrich et.al.|[2405.02061](http://arxiv.org/abs/2405.02061)|null|
 |**2024-05-03**|**Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo**|Mahmoud Masoud et.al.|[2405.01997](http://arxiv.org/abs/2405.01997)|null|
