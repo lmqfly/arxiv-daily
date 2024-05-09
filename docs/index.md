@@ -68,7 +68,7 @@ layout: default
 |**2023-06-19**|**Unrestricted component count in multiphase lattice Boltzmann: a fugacity-based approach**|Muzammil Soomro et.al.|[2306.10652](http://arxiv.org/abs/2306.10652)|null|
 |**2023-06-08**|**Multi-level Protein Representation Learning for Blind Mutational Effect Prediction**|Yang Tan et.al.|[2306.04899](http://arxiv.org/abs/2306.04899)|null|
 |**2023-06-04**|**From multiscale biophysics to digital twins of tissues and organs: future opportunities for in silico pharmacology**|Michael Taynnan Barros et.al.|[2306.02369](http://arxiv.org/abs/2306.02369)|null|
-|**2024-05-08**|**Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning**|Xiangzhe Kong et.al.|[2306.01474](http://arxiv.org/abs/2306.01474)|null|
+|**2024-05-08**|**Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning**|Xiangzhe Kong et.al.|[2306.01474](http://arxiv.org/abs/2306.01474)|**[link](https://github.com/thunlp-mt/get)**|
 |**2023-11-14**|**Causal Intervention for Measuring Confidence in Drug-Target Interaction Prediction**|Wenting Ye et.al.|[2306.00041](http://arxiv.org/abs/2306.00041)|null|
 |**2023-07-03**|**How Thermal Effect Regulates Cyclic Voltammetry of Supercapacitors**|Teng Zhao et.al.|[2305.18713](http://arxiv.org/abs/2305.18713)|null|
 |**2023-04-26**|**SCV-GNN: Sparse Compressed Vector-based Graph Neural Network Aggregation**|Nanda K. Unnikrishnan et.al.|[2304.13532](http://arxiv.org/abs/2304.13532)|null|
@@ -126,6 +126,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|null|
 |**2024-03-27**|**CADGL: Context-Aware Deep Graph Learning for Predicting Drug-Drug Interactions**|Azmine Toushik Wasi et.al.|[2403.17210](http://arxiv.org/abs/2403.17210)|null|
 |**2024-03-13**|**Learning to Describe for Predicting Zero-shot Drug-Drug Interactions**|Fangqi Zhu et.al.|[2403.08377](http://arxiv.org/abs/2403.08377)|**[link](https://github.com/zhufq00/ddis-prediction)**|
 |**2024-02-28**|**Hierarchical Multi-Relational Graph Representation Learning for Large-Scale Prediction of Drug-Drug Interactions**|Mengying Jiang et.al.|[2402.18127](http://arxiv.org/abs/2402.18127)|**[link](https://github.com/mengyingjiang/hmgrl)**|
@@ -233,6 +234,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**GP-MoLFormer: A Foundation Model For Molecular Generation**|Jerret Ross et.al.|[2405.04912](http://arxiv.org/abs/2405.04912)|null|
 |**2024-05-05**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|null|
 |**2024-05-02**|**SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways**|Miruna Cretu et.al.|[2405.01155](http://arxiv.org/abs/2405.01155)|**[link](https://github.com/mirunacrt/synflownet)**|
 |**2024-04-30**|**Leveraging Active Subspaces to Capture Epistemic Model Uncertainty in Deep Generative Models for Molecular Design**|A N M Nafiz Abeer et.al.|[2405.00202](http://arxiv.org/abs/2405.00202)|null|
@@ -347,6 +349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205](http://arxiv.org/abs/2405.05205)|null|
 |**2024-05-05**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|null|
 |**2024-05-04**|**Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction**|Zexing Zhao et.al.|[2405.02628](http://arxiv.org/abs/2405.02628)|null|
 |**2024-05-02**|**CACTUS: Chemistry Agent Connecting Tool-Usage to Science**|Andrew D. McNaughton et.al.|[2405.00972](http://arxiv.org/abs/2405.00972)|**[link](https://github.com/pnnl/cactus)**|
@@ -394,7 +397,7 @@ layout: default
 |**2023-10-10**|**GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction**|Suryanarayanan Balaji et.al.|[2310.03030](http://arxiv.org/abs/2310.03030)|null|
 |**2023-08-25**|**Synergistic Fusion of Graph and Transformer Features for Enhanced Molecular Property Prediction**|M V Sai Prakash et.al.|[2310.03027](http://arxiv.org/abs/2310.03027)|null|
 |**2024-04-15**|**On the Stability of Expressive Positional Encodings for Graphs**|Yinan Huang et.al.|[2310.02579](http://arxiv.org/abs/2310.02579)|**[link](https://github.com/Graph-COM/SPE)**|
-|**2024-05-08**|**PACIA: Parameter-Efficient Adapter for Few-Shot Molecular Property Prediction**|Shiguang Wu et.al.|[2310.00614](http://arxiv.org/abs/2310.00614)|null|
+|**2024-05-08**|**PACIA: Parameter-Efficient Adapter for Few-Shot Molecular Property Prediction**|Shiguang Wu et.al.|[2310.00614](http://arxiv.org/abs/2310.00614)|**[link](https://github.com/lars-research/pacia)**|
 |**2024-01-18**|**3D-Mol: A Novel Contrastive Learning Framework for Molecular Property Prediction with 3D Information**|Taojie Kuang et.al.|[2309.17366](http://arxiv.org/abs/2309.17366)|null|
 |**2023-09-08**|**Motif-aware Attribute Masking for Molecular Graph Pre-training**|Eric Inae et.al.|[2309.04589](http://arxiv.org/abs/2309.04589)|**[link](https://github.com/einae-nd/moama-dev)**|
 |**2023-09-08**|**3D Denoisers are Good 2D Teachers: Molecular Pretraining via Denoising and Cross-Modal Distillation**|Sungjun Cho et.al.|[2309.04062](http://arxiv.org/abs/2309.04062)|null|
@@ -462,6 +465,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Equivalence analysis between Quasi-coarse-grained and Atomistic Simulations**|Dong-Dong Jiang et.al.|[2405.05070](http://arxiv.org/abs/2405.05070)|null|
+|**2024-05-08**|**Spatial distribution of local elastic moduli in nanocrystalline metals**|Menahem Krief et.al.|[2405.04995](http://arxiv.org/abs/2405.04995)|null|
+|**2024-05-08**|**Prediction of the univariant two-phase coexistence line of the tetrahydrofuran hydrate from computer simulation**|Jesús Algaba et.al.|[2405.04887](http://arxiv.org/abs/2405.04887)|null|
 |**2024-05-07**|**Super-suppression of long wavelength phonons in constricted nanoporous geometries**|Alex Greaney et.al.|[2405.04183](http://arxiv.org/abs/2405.04183)|null|
 |**2024-05-06**|**A family of air-stable chalcogenide solid electrolytes in Li $_2$BMQ$_4$ (B = Ca, Sr and Ba; M = Si, Ge and Sn; Q = O, S and Se) systems**|Huican Mao et.al.|[2405.03466](http://arxiv.org/abs/2405.03466)|null|
 |**2024-05-06**|**Molecular dynamics simulations of the defect evolution in tungsten on successive collision cascades**|Utkarsh Bhardwaj et.al.|[2405.03344](http://arxiv.org/abs/2405.03344)|null|
@@ -635,6 +641,39 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Deep learning-based variational autoencoder for classification of quantum and classical states of light**|Mahesh Bhupati et.al.|[2405.05243](http://arxiv.org/abs/2405.05243)|null|
+|**2024-05-08**|**BenthicNet: A global compilation of seafloor images for deep learning applications**|Scott C. Lowe et.al.|[2405.05241](http://arxiv.org/abs/2405.05241)|null|
+|**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
+|**2024-05-08**|**Picking watermarks from noise (PWFN): an improved robust watermarking model against intensive distortions**|Sijing Xie et.al.|[2405.05170](http://arxiv.org/abs/2405.05170)|null|
+|**2024-05-08**|**Selective Classification Under Distribution Shifts**|Hengyue Liang et.al.|[2405.05160](http://arxiv.org/abs/2405.05160)|null|
+|**2024-05-08**|**Full Version: (De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms**|Ari Rasch et.al.|[2405.05118](http://arxiv.org/abs/2405.05118)|null|
+|**2024-05-08**|**Approximation properties relative to continuous scale space for hybrid discretizations of Gaussian derivative operators**|Tony Lindeberg et.al.|[2405.05095](http://arxiv.org/abs/2405.05095)|null|
+|**2024-05-08**|**Robust deep learning from weakly dependent data**|William Kengne et.al.|[2405.05081](http://arxiv.org/abs/2405.05081)|null|
+|**2024-05-08**|**An anti-noise seismic inversion method based on diffusion model**|Yingtian Liu et.al.|[2405.05026](http://arxiv.org/abs/2405.05026)|null|
+|**2024-05-08**|**Learning Structural Causal Models through Deep Generative Models: Methods, Guarantees, and Challenges**|Audrey Poinsot et.al.|[2405.05025](http://arxiv.org/abs/2405.05025)|null|
+|**2024-05-08**|**NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair**|Ruoke Wang et.al.|[2405.04994](http://arxiv.org/abs/2405.04994)|null|
+|**2024-05-08**|**Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**|Kristupas Bajarunas et.al.|[2405.04990](http://arxiv.org/abs/2405.04990)|**[link](https://github.com/kbaja/unsupervisedhi)**|
+|**2024-05-08**|**End-to-End Semi-Supervised approach with Modulated Object Queries for Table Detection in Documents**|Iqraa Ehsan et.al.|[2405.04971](http://arxiv.org/abs/2405.04971)|null|
+|**2024-05-08**|**Predicting positon solutions of a family of Nonlinear Schrödinger equations through Deep Learning algorithm**|K. Thulasidharan et.al.|[2405.04968](http://arxiv.org/abs/2405.04968)|null|
+|**2024-05-08**|**MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures**|Han Yang et.al.|[2405.04967](http://arxiv.org/abs/2405.04967)|null|
+|**2024-05-08**|**A Sparse Tensor Generator with Efficient Feature Extraction**|Tugba Torun et.al.|[2405.04944](http://arxiv.org/abs/2405.04944)|**[link](https://github.com/sparcityeu/genten)**|
+|**2024-05-08**|**FIGRET: Fine-Grained Robustness-Enhanced Traffic Engineering**|Ximeng Liu et.al.|[2405.04932](http://arxiv.org/abs/2405.04932)|null|
+|**2024-05-08**|**Weakly-supervised Semantic Segmentation via Dual-stream Contrastive Learning of Cross-image Contextual Information**|Qi Lai et.al.|[2405.04913](http://arxiv.org/abs/2405.04913)|null|
+|**2024-05-08**|**Empowering Wireless Networks with Artificial Intelligence Generated Graph**|Jiacheng Wang et.al.|[2405.04907](http://arxiv.org/abs/2405.04907)|null|
+|**2024-05-08**|**Systematic review, analysis, and characterisation of malicious industrial network traffic datasets for aiding Machine Learning algorithm performance testing**|Martin Dobler et.al.|[2405.04866](http://arxiv.org/abs/2405.04866)|null|
+|**2024-05-08**|**Insights into Deep Learning Refactoring: Bridging the Gap Between Practices and Expectations**|SiQi Wang et.al.|[2405.04861](http://arxiv.org/abs/2405.04861)|null|
+|**2024-05-08**|**WixUp: A General Data Augmentation Framework for Wireless Perception in Tracking of Humans**|Yin Li et.al.|[2405.04804](http://arxiv.org/abs/2405.04804)|null|
+|**2024-05-08**|**DeepDamageNet: A two-step deep-learning model for multi-disaster building damage segmentation and classification using satellite imagery**|Irene Alisjahbana et.al.|[2405.04800](http://arxiv.org/abs/2405.04800)|null|
+|**2024-05-08**|**Test-Time Augmentation for Traveling Salesperson Problem**|Ryo Ishiyama et.al.|[2405.04767](http://arxiv.org/abs/2405.04767)|null|
+|**2024-05-07**|**Physics-based deep learning reveals rising heating demand heightens air pollution in Norwegian cities**|Cong Cao et.al.|[2405.04716](http://arxiv.org/abs/2405.04716)|null|
+|**2024-05-07**|**TexControl: Sketch-Based Two-Stage Fashion Image Generation Using Diffusion Model**|Yongming Zhang et.al.|[2405.04675](http://arxiv.org/abs/2405.04675)|null|
+|**2024-05-07**|**FRACTAL: An Ultra-Large-Scale Aerial Lidar Dataset for 3D Semantic Segmentation of Diverse Landscapes**|Charles Gaydon et.al.|[2405.04634](http://arxiv.org/abs/2405.04634)|**[link](https://github.com/ignf/myria3d)**|
+|**2024-05-07**|**ResNCT: A Deep Learning Model for the Synthesis of Nephrographic Phase Images in CT Urography**|Syed Jamal Safdar Gardezi et.al.|[2405.04629](http://arxiv.org/abs/2405.04629)|null|
+|**2024-05-07**|**Multi-Margin Loss: Proposal and Application in Recommender Systems**|Makbule Gulcin Ozsoy et.al.|[2405.04614](http://arxiv.org/abs/2405.04614)|null|
+|**2024-05-07**|**Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification**|Mukaffi Bin Moin et.al.|[2405.04610](http://arxiv.org/abs/2405.04610)|null|
+|**2024-05-07**|**Predictions for the abundance and clustering of H $α$ emitting galaxies**|Makun Madar et.al.|[2405.04601](http://arxiv.org/abs/2405.04601)|null|
+|**2024-05-07**|**An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution**|Naveed Sultan et.al.|[2405.04595](http://arxiv.org/abs/2405.04595)|null|
+|**2024-05-05**|**Constraints on typical relic gravitational waves based on data of LIGO**|Minghui Zhang et.al.|[2405.04547](http://arxiv.org/abs/2405.04547)|null|
 |**2024-05-07**|**Neural network based deep learning analysis of semiconductor quantum dot qubits for automated control**|Jacob R. Taylor et.al.|[2405.04524](http://arxiv.org/abs/2405.04524)|null|
 |**2024-05-07**|**xLSTM: Extended Long Short-Term Memory**|Maximilian Beck et.al.|[2405.04517](http://arxiv.org/abs/2405.04517)|null|
 |**2024-05-07**|**Resource-Efficient and Self-Adaptive Quantum Search in a Quantum-Classical Hybrid System**|Zihao Jiang et.al.|[2405.04490](http://arxiv.org/abs/2405.04490)|null|
