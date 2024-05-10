@@ -483,6 +483,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Non-monotonic conductivity of aqueous electrolytes: beyond the first Wien effect**|Hélène Berthoumieux et.al.|[2405.05882](http://arxiv.org/abs/2405.05882)|null|
 |**2024-05-08**|**Equivalence analysis between Quasi-coarse-grained and Atomistic Simulations**|Dong-Dong Jiang et.al.|[2405.05070](http://arxiv.org/abs/2405.05070)|null|
 |**2024-05-08**|**Spatial distribution of local elastic moduli in nanocrystalline metals**|Menahem Krief et.al.|[2405.04995](http://arxiv.org/abs/2405.04995)|null|
 |**2024-05-08**|**Prediction of the univariant two-phase coexistence line of the tetrahydrofuran hydrate from computer simulation**|Jesús Algaba et.al.|[2405.04887](http://arxiv.org/abs/2405.04887)|null|
@@ -661,6 +662,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Deep Multi-Task Learning for Malware Image Classification**|Ahmed Bensaoud et.al.|[2405.05906](http://arxiv.org/abs/2405.05906)|null|
+|**2024-05-09**|**A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking**|Mohamed Mahmoud et.al.|[2405.05900](http://arxiv.org/abs/2405.05900)|null|
+|**2024-05-09**|**Robust and Explainable Fine-Grained Visual Classification with Transfer Learning: A Dual-Carriageway Framework**|Zheming Zuo et.al.|[2405.05853](http://arxiv.org/abs/2405.05853)|null|
+|**2024-05-09**|**Learned feature representations are biased by complexity, learning order, position, and more**|Andrew Kyle Lampinen et.al.|[2405.05847](http://arxiv.org/abs/2405.05847)|null|
+|**2024-05-09**|**Enhancing Suicide Risk Detection on Social Media through Semi-Supervised Deep Label Smoothing**|Matthew Squires et.al.|[2405.05795](http://arxiv.org/abs/2405.05795)|null|
+|**2024-05-09**|**Autonomous Robotic Ultrasound System for Liver Follow-up Diagnosis: Pilot Phantom Study**|Tianpeng Zhang et.al.|[2405.05787](http://arxiv.org/abs/2405.05787)|null|
+|**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766](http://arxiv.org/abs/2405.05766)|null|
+|**2024-05-09**|**A Framework of SO(3)-equivariant Non-linear Representation Learning and its Application to Electronic-Structure Hamiltonian Prediction**|Shi Yin et.al.|[2405.05722](http://arxiv.org/abs/2405.05722)|null|
+|**2024-05-09**|**A Survey on Backbones for Deep Video Action Recognition**|Zixuan Tang et.al.|[2405.05584](http://arxiv.org/abs/2405.05584)|null|
+|**2024-05-09**|**Towards Robust Physical-world Backdoor Attacks on Lane Detection**|Xinwei Zhang et.al.|[2405.05553](http://arxiv.org/abs/2405.05553)|null|
+|**2024-05-09**|**Deep Learning for CSI Feedback: One-Sided Model and Joint Multi-Module Learning Perspectives**|Yiran Guo et.al.|[2405.05522](http://arxiv.org/abs/2405.05522)|null|
+|**2024-05-09**|**Deep Learning Models for Atypical Serotonergic Cells Recognition**|Daniele Corradetti et.al.|[2405.05516](http://arxiv.org/abs/2405.05516)|null|
+|**2024-05-08**|**How Inverse Conditional Flows Can Serve as a Substitute for Distributional Regression**|Lucas Kook et.al.|[2405.05429](http://arxiv.org/abs/2405.05429)|null|
+|**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336](http://arxiv.org/abs/2405.05336)|null|
+|**2024-05-08**|**Deep Learning Method to Predict Wound Healing Progress Based on Collagen Fibers in Wound Tissue**|Juan He et.al.|[2405.05297](http://arxiv.org/abs/2405.05297)|null|
 |**2024-05-08**|**Deep learning-based variational autoencoder for classification of quantum and classical states of light**|Mahesh Bhupati et.al.|[2405.05243](http://arxiv.org/abs/2405.05243)|null|
 |**2024-05-08**|**BenthicNet: A global compilation of seafloor images for deep learning applications**|Scott C. Lowe et.al.|[2405.05241](http://arxiv.org/abs/2405.05241)|**[link](https://github.com/dalhousieai/pangaea-downloader)**|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
@@ -682,6 +698,7 @@
 |**2024-05-08**|**Empowering Wireless Networks with Artificial Intelligence Generated Graph**|Jiacheng Wang et.al.|[2405.04907](http://arxiv.org/abs/2405.04907)|null|
 |**2024-05-08**|**Systematic review, analysis, and characterisation of malicious industrial network traffic datasets for aiding Machine Learning algorithm performance testing**|Martin Dobler et.al.|[2405.04866](http://arxiv.org/abs/2405.04866)|null|
 |**2024-05-08**|**Insights into Deep Learning Refactoring: Bridging the Gap Between Practices and Expectations**|SiQi Wang et.al.|[2405.04861](http://arxiv.org/abs/2405.04861)|null|
+|**2024-05-09**|**Transformer Architecture for NetsDB**|Subodh Kamble et.al.|[2405.04807](http://arxiv.org/abs/2405.04807)|**[link](https://github.com/kn0wthing/netsdb)**|
 |**2024-05-08**|**WixUp: A General Data Augmentation Framework for Wireless Perception in Tracking of Humans**|Yin Li et.al.|[2405.04804](http://arxiv.org/abs/2405.04804)|null|
 |**2024-05-08**|**DeepDamageNet: A two-step deep-learning model for multi-disaster building damage segmentation and classification using satellite imagery**|Irene Alisjahbana et.al.|[2405.04800](http://arxiv.org/abs/2405.04800)|null|
 |**2024-05-08**|**Test-Time Augmentation for Traveling Salesperson Problem**|Ryo Ishiyama et.al.|[2405.04767](http://arxiv.org/abs/2405.04767)|null|
