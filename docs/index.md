@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -22,7 +22,7 @@ layout: default
 |**2024-03-22**|**Self-Consistent Atmosphere Representation and Interaction in Photon Monte Carlo Simulations**|J. R. Peterson et.al.|[2403.15562](http://arxiv.org/abs/2403.15562)|null|
 |**2024-03-26**|**NaNa and MiGu: Semantic Data Augmentation Techniques to Enhance Protein Classification in Graph Neural Networks**|Yi-Shan Lan et.al.|[2403.14736](http://arxiv.org/abs/2403.14736)|**[link](https://github.com/r08b46009/code_for_migu_nana)**|
 |**2024-03-04**|**Numerical Simulation of Phase Transition with the Hyperbolic Godunov-Peshkov-Romenski Model**|Pascal Mossier et.al.|[2403.01847](http://arxiv.org/abs/2403.01847)|null|
-|**2024-02-18**|**DDIPrompt: Drug-Drug Interaction Event Prediction based on Graph Prompt Learning**|Yingying Wang et.al.|[2402.11472](http://arxiv.org/abs/2402.11472)|null|
+|**2024-05-09**|**DDIPrompt: Drug-Drug Interaction Event Prediction based on Graph Prompt Learning**|Yingying Wang et.al.|[2402.11472](http://arxiv.org/abs/2402.11472)|null|
 |**2024-02-06**|**Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains**|Junhong Shen et.al.|[2402.05140](http://arxiv.org/abs/2402.05140)|**[link](https://github.com/sjunhongshen/tag-llm)**|
 |**2024-02-21**|**MolTC: Towards Molecular Relational Modeling In Language Models**|Junfeng Fang et.al.|[2402.03781](http://arxiv.org/abs/2402.03781)|**[link](https://github.com/MangoKiller/MolTC)**|
 |**2024-02-05**|**Infrared Spectra Prediction for Diazo Groups Utilizing a Machine Learning Approach with Structural Attention Mechanism**|Chengchun Liu et.al.|[2402.03112](http://arxiv.org/abs/2402.03112)|null|
@@ -39,7 +39,7 @@ layout: default
 |**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
 |**2023-11-28**|**Collisional radiative modelling with improved cross sections to investigate plasma molecular interactions in divertor plasmas**|Stijn Kobussen et.al.|[2311.16732](http://arxiv.org/abs/2311.16732)|null|
 |**2024-03-19**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
-|**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|**[link](https://github.com/dunni3/keypoint-diffusion)**|
+|**2024-05-08**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|**[link](https://github.com/dunni3/keypoint-diffusion)**|
 |**2023-11-24**|**Towards a more inductive world for drug repurposing approaches**|Jesus de la Fuente et.al.|[2311.12670](http://arxiv.org/abs/2311.12670)|**[link](https://github.com/ubioinformat/graphemb)**|
 |**2024-02-18**|**ResMGCN: Residual Message Graph Convolution Network for Fast Biomedical Interactions Discovering**|Zecheng Yin et.al.|[2311.07632](http://arxiv.org/abs/2311.07632)|**[link](https://github.com/Yonggie/ResMGCN)**|
 |**2023-11-12**|**Graph Signal Processing For Cancer Gene Co-Expression Network Analysis**|Radwa Adel et.al.|[2311.06747](http://arxiv.org/abs/2311.06747)|null|
@@ -126,12 +126,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-08**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|null|
+|**2024-05-08**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|**[link](https://github.com/cns-iu/myaura)**|
 |**2024-03-27**|**CADGL: Context-Aware Deep Graph Learning for Predicting Drug-Drug Interactions**|Azmine Toushik Wasi et.al.|[2403.17210](http://arxiv.org/abs/2403.17210)|null|
 |**2024-03-13**|**Learning to Describe for Predicting Zero-shot Drug-Drug Interactions**|Fangqi Zhu et.al.|[2403.08377](http://arxiv.org/abs/2403.08377)|**[link](https://github.com/zhufq00/ddis-prediction)**|
 |**2024-02-28**|**Hierarchical Multi-Relational Graph Representation Learning for Large-Scale Prediction of Drug-Drug Interactions**|Mengying Jiang et.al.|[2402.18127](http://arxiv.org/abs/2402.18127)|**[link](https://github.com/mengyingjiang/hmgrl)**|
 |**2024-02-21**|**Contextual Molecule Representation Learning from Chemical Reaction Knowledge**|Han Tang et.al.|[2402.13779](http://arxiv.org/abs/2402.13779)|null|
-|**2024-02-18**|**DDIPrompt: Drug-Drug Interaction Event Prediction based on Graph Prompt Learning**|Yingying Wang et.al.|[2402.11472](http://arxiv.org/abs/2402.11472)|null|
+|**2024-05-09**|**DDIPrompt: Drug-Drug Interaction Event Prediction based on Graph Prompt Learning**|Yingying Wang et.al.|[2402.11472](http://arxiv.org/abs/2402.11472)|null|
 |**2024-02-05**|**Comparative Analysis of LLaMA and ChatGPT Embeddings for Molecule Embedding**|Shaghayegh Sadeghi et.al.|[2402.00024](http://arxiv.org/abs/2402.00024)|**[link](https://github.com/sshaghayeghs/llama-vs-chatgpt)**|
 |**2023-12-09**|**ALGNet: Attention Light Graph Memory Network for Medical Recommendation System**|Minh-Van Nguyen et.al.|[2312.08377](http://arxiv.org/abs/2312.08377)|**[link](https://github.com/tivivui95/algnet)**|
 |**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
@@ -351,7 +351,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-08**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205](http://arxiv.org/abs/2405.05205)|null|
 |**2024-05-05**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|null|
-|**2024-05-04**|**Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction**|Zexing Zhao et.al.|[2405.02628](http://arxiv.org/abs/2405.02628)|null|
+|**2024-05-04**|**Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction**|Zexing Zhao et.al.|[2405.02628](http://arxiv.org/abs/2405.02628)|**[link](https://github.com/ZeXingZ/DIG-Mol)**|
 |**2024-05-02**|**CACTUS: Chemistry Agent Connecting Tool-Usage to Science**|Andrew D. McNaughton et.al.|[2405.00972](http://arxiv.org/abs/2405.00972)|**[link](https://github.com/pnnl/cactus)**|
 |**2024-05-02**|**The Role of Model Architecture and Scale in Predicting Molecular Properties: Insights from Fine-Tuning RoBERTa, BART, and LLaMA**|Lee Youngmin et.al.|[2405.00949](http://arxiv.org/abs/2405.00949)|null|
 |**2024-04-24**|**ApisTox: a new benchmark dataset for the classification of small molecules toxicity on honey bees**|Jakub Adamczyk et.al.|[2404.16196](http://arxiv.org/abs/2404.16196)|**[link](https://github.com/j-adamczyk/apis_tox_dataset)**|
@@ -472,7 +472,7 @@ layout: default
 |**2024-05-06**|**A family of air-stable chalcogenide solid electrolytes in Li $_2$BMQ$_4$ (B = Ca, Sr and Ba; M = Si, Ge and Sn; Q = O, S and Se) systems**|Huican Mao et.al.|[2405.03466](http://arxiv.org/abs/2405.03466)|null|
 |**2024-05-06**|**Molecular dynamics simulations of the defect evolution in tungsten on successive collision cascades**|Utkarsh Bhardwaj et.al.|[2405.03344](http://arxiv.org/abs/2405.03344)|null|
 |**2024-05-06**|**Molecular dynamics simulations of neutron induced collision cascades in Zr - statistical modelling of irradiation damage and potential applications**|Bartosz Barzdajn et.al.|[2405.03332](http://arxiv.org/abs/2405.03332)|null|
-|**2024-05-06**|**Coarsening in Bent-core Liquid Crystals: Intermediate Splay Bend State en route to the Twist Bend Phase**|Nishant Birdi et.al.|[2405.03189](http://arxiv.org/abs/2405.03189)|null|
+|**2024-05-09**|**Coarsening in Bent-core Liquid Crystals: Intermediate Splay Bend State en route to the Twist Bend Phase**|Nishant Birdi et.al.|[2405.03189](http://arxiv.org/abs/2405.03189)|null|
 |**2024-05-05**|**Coherent Transfer of Lattice Entropy via Extreme Nonlinear Phononics in Metal Halide Perovskites**|Z. Liu et.al.|[2405.03071](http://arxiv.org/abs/2405.03071)|null|
 |**2024-05-03**|**Integrating Molecular Dynamics Simulations and Experimental Data for Azeotrope Predictions in Binary Mixtures**|Xiaoyu Wang et.al.|[2405.02216](http://arxiv.org/abs/2405.02216)|null|
 |**2024-05-06**|**FeNNol: an Efficient and Flexible Library for Building Force-field-enhanced Neural Network Potentials**|Thomas Plé et.al.|[2405.01491](http://arxiv.org/abs/2405.01491)|**[link](https://github.com/thomasple/FeNNol)**|
@@ -559,7 +559,7 @@ layout: default
 |**2024-03-13**|**Criticality in an imidazolium ionic liquid fully wetting a sapphire support**|Kevin Höllring et.al.|[2403.08449](http://arxiv.org/abs/2403.08449)|null|
 |**2024-03-13**|**Influence of cholesterol on hydrogen-bond dynamics of water molecules in lipid-bilayer systems at varying temperatures**|Kokoro Shikata et.al.|[2403.08289](http://arxiv.org/abs/2403.08289)|null|
 |**2024-03-13**|**Experimental observation of gapped shear waves and liquid-like to gas-like dynamical crossover in active granular matter**|Cunyuan Jiang et.al.|[2403.08285](http://arxiv.org/abs/2403.08285)|null|
-|**2024-03-13**|**GCMe: Efficient implementation of Gaussian core model with smeared electrostatic interactions for molecular dynamics simulations of soft matter systems**|Benjamin Bobin Ye et.al.|[2403.08148](http://arxiv.org/abs/2403.08148)|null|
+|**2024-05-09**|**GCMe: Efficient implementation of the Gaussian core model with smeared electrostatic interactions for molecular dynamics simulations of soft matter systems**|Benjamin Bobin Ye et.al.|[2403.08148](http://arxiv.org/abs/2403.08148)|null|
 |**2024-03-11**|**Dynamics of Polyalkylfluorene Conjugated Polymers: Insights from Neutron Spectroscopy and Molecular Dynamics Simulations**|Mohamed Zbiri et.al.|[2403.06822](http://arxiv.org/abs/2403.06822)|null|
 |**2024-03-12**|**Ultrafast switching of sliding ferroelectricity and dynamical magnetic field in van der Waals bilayer induced by light**|Jian Wang et.al.|[2403.06531](http://arxiv.org/abs/2403.06531)|null|
 |**2024-03-09**|**A molecular dynamics simulation of the abrupt changes in the thermodynamic properties of water after formation of nano-bubbles / nano-cavities induced by passage of charged particles**|Ramin Abolfath et.al.|[2403.05880](http://arxiv.org/abs/2403.05880)|null|
@@ -642,10 +642,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-08**|**Deep learning-based variational autoencoder for classification of quantum and classical states of light**|Mahesh Bhupati et.al.|[2405.05243](http://arxiv.org/abs/2405.05243)|null|
-|**2024-05-08**|**BenthicNet: A global compilation of seafloor images for deep learning applications**|Scott C. Lowe et.al.|[2405.05241](http://arxiv.org/abs/2405.05241)|null|
+|**2024-05-08**|**BenthicNet: A global compilation of seafloor images for deep learning applications**|Scott C. Lowe et.al.|[2405.05241](http://arxiv.org/abs/2405.05241)|**[link](https://github.com/dalhousieai/pangaea-downloader)**|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
 |**2024-05-08**|**Picking watermarks from noise (PWFN): an improved robust watermarking model against intensive distortions**|Sijing Xie et.al.|[2405.05170](http://arxiv.org/abs/2405.05170)|null|
-|**2024-05-08**|**Selective Classification Under Distribution Shifts**|Hengyue Liang et.al.|[2405.05160](http://arxiv.org/abs/2405.05160)|null|
+|**2024-05-08**|**Selective Classification Under Distribution Shifts**|Hengyue Liang et.al.|[2405.05160](http://arxiv.org/abs/2405.05160)|**[link](https://github.com/sun-umn/sc_with_distshift)**|
 |**2024-05-08**|**Full Version: (De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms**|Ari Rasch et.al.|[2405.05118](http://arxiv.org/abs/2405.05118)|null|
 |**2024-05-08**|**Approximation properties relative to continuous scale space for hybrid discretizations of Gaussian derivative operators**|Tony Lindeberg et.al.|[2405.05095](http://arxiv.org/abs/2405.05095)|null|
 |**2024-05-08**|**Robust deep learning from weakly dependent data**|William Kengne et.al.|[2405.05081](http://arxiv.org/abs/2405.05081)|null|
@@ -670,7 +670,7 @@ layout: default
 |**2024-05-07**|**FRACTAL: An Ultra-Large-Scale Aerial Lidar Dataset for 3D Semantic Segmentation of Diverse Landscapes**|Charles Gaydon et.al.|[2405.04634](http://arxiv.org/abs/2405.04634)|**[link](https://github.com/ignf/myria3d)**|
 |**2024-05-07**|**ResNCT: A Deep Learning Model for the Synthesis of Nephrographic Phase Images in CT Urography**|Syed Jamal Safdar Gardezi et.al.|[2405.04629](http://arxiv.org/abs/2405.04629)|null|
 |**2024-05-07**|**Multi-Margin Loss: Proposal and Application in Recommender Systems**|Makbule Gulcin Ozsoy et.al.|[2405.04614](http://arxiv.org/abs/2405.04614)|null|
-|**2024-05-07**|**Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification**|Mukaffi Bin Moin et.al.|[2405.04610](http://arxiv.org/abs/2405.04610)|null|
+|**2024-05-07**|**Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification**|Mukaffi Bin Moin et.al.|[2405.04610](http://arxiv.org/abs/2405.04610)|**[link](https://github.com/Mukaffi28/Explainable-AI-for-Lung-and-Colon-Cancer-Classification)**|
 |**2024-05-07**|**Predictions for the abundance and clustering of H $α$ emitting galaxies**|Makun Madar et.al.|[2405.04601](http://arxiv.org/abs/2405.04601)|null|
 |**2024-05-07**|**An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution**|Naveed Sultan et.al.|[2405.04595](http://arxiv.org/abs/2405.04595)|null|
 |**2024-05-05**|**Constraints on typical relic gravitational waves based on data of LIGO**|Minghui Zhang et.al.|[2405.04547](http://arxiv.org/abs/2405.04547)|null|
@@ -712,20 +712,20 @@ layout: default
 |**2024-05-06**|**Federated Learning Privacy: Attacks, Defenses, Applications, and Policy Landscape - A Survey**|Joshua C. Zhao et.al.|[2405.03636](http://arxiv.org/abs/2405.03636)|null|
 |**2024-05-06**|**Detecting Android Malware: From Neural Embeddings to Hands-On Validation with BERTroid**|Meryam Chaieb et.al.|[2405.03620](http://arxiv.org/abs/2405.03620)|null|
 |**2024-05-06**|**Deep Space Separable Distillation for Lightweight Acoustic Scene Classification**|ShuQi Ye et.al.|[2405.03567](http://arxiv.org/abs/2405.03567)|null|
-|**2024-05-06**|**Exploring knowledge graph-based neural-symbolic system from application perspective**|Shenzhe Zhu et.al.|[2405.03524](http://arxiv.org/abs/2405.03524)|null|
-|**2024-05-06**|**On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations**|Xiaoxue Ma et.al.|[2405.03489](http://arxiv.org/abs/2405.03489)|null|
+|**2024-05-08**|**Exploring knowledge graph-based neural-symbolic system from application perspective**|Shenzhe Zhu et.al.|[2405.03524](http://arxiv.org/abs/2405.03524)|null|
+|**2024-05-06**|**On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations**|Xiaoxue Ma et.al.|[2405.03489](http://arxiv.org/abs/2405.03489)|**[link](https://github.com/resamplingdllad/resamplingempirical)**|
 |**2024-05-06**|**A Lightweight Neural Architecture Search Model for Medical Image Classification**|Lunchen Xie et.al.|[2405.03462](http://arxiv.org/abs/2405.03462)|null|
 |**2024-05-06**|**Improved Forward-Forward Contrastive Learning**|Gananath R et.al.|[2405.03432](http://arxiv.org/abs/2405.03432)|null|
 |**2024-05-06**|**Geometry-aware framework for deep energy method: an application to structural mechanics with hyperelastic materials**|Thi Nguyen Khoa Nguyen et.al.|[2405.03427](http://arxiv.org/abs/2405.03427)|null|
 |**2024-05-06**|**SL-SLAM: A robust visual-inertial SLAM based deep feature extraction and matching**|Zhang Xiao et.al.|[2405.03413](http://arxiv.org/abs/2405.03413)|null|
 |**2024-05-06**|**An Image Quality Evaluation and Masking Algorithm Based On Pre-trained Deep Neural Networks**|Peng Jia et.al.|[2405.03408](http://arxiv.org/abs/2405.03408)|null|
-|**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|null|
+|**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|**[link](https://github.com/YhuoyuH/RetinexMamba)**|
 |**2024-05-06**|**Deep Learning-based Point Cloud Registration for Augmented Reality-guided Surgery**|Maximilian Weber et.al.|[2405.03314](http://arxiv.org/abs/2405.03314)|null|
 |**2024-05-06**|**Federated Learning for Drowsiness Detection in Connected Vehicles**|William Lindskog et.al.|[2405.03311](http://arxiv.org/abs/2405.03311)|null|
-|**2024-05-06**|**Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up**|Isidro Gómez-Vargas et.al.|[2405.03293](http://arxiv.org/abs/2405.03293)|null|
+|**2024-05-06**|**Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up**|Isidro Gómez-Vargas et.al.|[2405.03293](http://arxiv.org/abs/2405.03293)|**[link](https://github.com/igomezv/neuralike)**|
 |**2024-05-06**|**MARE: Multi-Agents Collaboration Framework for Requirements Engineering**|Dongming Jin et.al.|[2405.03256](http://arxiv.org/abs/2405.03256)|null|
 |**2024-05-07**|**Automatic Assessment of Dysarthria Using Audio-visual Vowel Graph Attention Network**|Xiaokang Liu et.al.|[2405.03254](http://arxiv.org/abs/2405.03254)|null|
-|**2024-05-06**|**Deep Learning for Detecting and Early Predicting Chronic Obstructive Pulmonary Disease from Spirogram Time Series: A UK Biobank Study**|Shuhao Mei et.al.|[2405.03239](http://arxiv.org/abs/2405.03239)|null|
+|**2024-05-06**|**Deep Learning for Detecting and Early Predicting Chronic Obstructive Pulmonary Disease from Spirogram Time Series: A UK Biobank Study**|Shuhao Mei et.al.|[2405.03239](http://arxiv.org/abs/2405.03239)|**[link](https://github.com/yudaleng/COPD-Early-Prediction)**|
 |**2024-05-06**|**Cross-Modal Domain Adaptation in Brain Disease Diagnosis: Maximum Mean Discrepancy-based Convolutional Neural Networks**|Xuran Zhu et.al.|[2405.03235](http://arxiv.org/abs/2405.03235)|null|
 |**2024-05-06**|**Computational Efficient Width-Wise Early Exits in Modulation Classification**|Dieter Verbruggen et.al.|[2405.03222](http://arxiv.org/abs/2405.03222)|null|
 |**2024-05-06**|**Elevator, Escalator or Neither? Classifying Pedestrian Conveyor State Using Inertial Navigation System**|Tianlang He et.al.|[2405.03218](http://arxiv.org/abs/2405.03218)|null|
@@ -735,7 +735,7 @@ layout: default
 |**2024-05-06**|**Deep Learning for Causal Inference: A Comparison of Architectures for Heterogeneous Treatment Effect Estimation**|Demetrios Papakostas et.al.|[2405.03130](http://arxiv.org/abs/2405.03130)|null|
 |**2024-05-06**|**Active Sensing for Multiuser Beam Tracking with Reconfigurable Intelligent Surface**|Han Han et.al.|[2405.03129](http://arxiv.org/abs/2405.03129)|null|
 |**2024-05-06**|**Research on Image Recognition Technology Based on Multimodal Deep Learning**|Jinyin Wang et.al.|[2405.03091](http://arxiv.org/abs/2405.03091)|null|
-|**2024-05-05**|**Automated Deep Learning Optimization via DSL-Based Source Code Transformation**|Ruixin Wang et.al.|[2405.03067](http://arxiv.org/abs/2405.03067)|null|
+|**2024-05-05**|**Automated Deep Learning Optimization via DSL-Based Source Code Transformation**|Ruixin Wang et.al.|[2405.03067](http://arxiv.org/abs/2405.03067)|**[link](https://github.com/ailen-wrx/adopter)**|
 |**2024-05-05**|**Quantitative analysis of the prediction performance of a Convolutional Neural Network evaluating the surface elastic energy of a strained film**|Luis Martín Encinar et.al.|[2405.03049](http://arxiv.org/abs/2405.03049)|null|
 |**2024-05-05**|**Performance Evaluation of Real-Time Object Detection for Electric Scooters**|Dong Chen et.al.|[2405.03039](http://arxiv.org/abs/2405.03039)|**[link](https://github.com/dongchen06/scooterdet)**|
 |**2024-05-05**|**Explainable Malware Detection with Tailored Logic Explained Networks**|Peter Anthony et.al.|[2405.03009](http://arxiv.org/abs/2405.03009)|null|
@@ -1944,10 +1944,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-06**|**AntiFold: Improved antibody structure-based design using inverse folding**|Magnus Haraldson Høie et.al.|[2405.03370](http://arxiv.org/abs/2405.03370)|null|
+|**2024-05-06**|**AntiFold: Improved antibody structure-based design using inverse folding**|Magnus Haraldson Høie et.al.|[2405.03370](http://arxiv.org/abs/2405.03370)|**[link](https://github.com/oxpig/antifold)**|
 |**2024-05-03**|**Protein binding affinity prediction under multiple substitutions applying eGNNs on Residue and Atomic graphs combined with Language model information: eGRAL**|Arturo Fiorellini-Bernardis et.al.|[2405.02374](http://arxiv.org/abs/2405.02374)|null|
 |**2024-05-02**|**SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways**|Miruna Cretu et.al.|[2405.01155](http://arxiv.org/abs/2405.01155)|**[link](https://github.com/mirunacrt/synflownet)**|
-|**2024-04-23**|**MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space**|Yanru Qu et.al.|[2404.12141](http://arxiv.org/abs/2404.12141)|null|
+|**2024-04-23**|**MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space**|Yanru Qu et.al.|[2404.12141](http://arxiv.org/abs/2404.12141)|**[link](https://github.com/algomole/molcraft)**|
 |**2024-04-12**|**Ligand Equilibrium Influences Photoluminescence Blinking in CsPbBr3: A Change Point Analysis of Widefield Imaging Data**|Shaun Gallagher et.al.|[2404.08166](http://arxiv.org/abs/2404.08166)|null|
 |**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481](http://arxiv.org/abs/2404.06481)|null|
 |**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
@@ -1963,12 +1963,12 @@ layout: default
 |**2024-02-20**|**Equivariant Pretrained Transformer for Unified Geometric Learning on Multi-Domain 3D Molecules**|Rui Jiao et.al.|[2402.12714](http://arxiv.org/abs/2402.12714)|null|
 |**2024-02-21**|**Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge**|Yufei Huang et.al.|[2402.11459](http://arxiv.org/abs/2402.11459)|null|
 |**2024-02-16**|**Theory of Wetting Dynamics with Surface Binding**|Xueping Zhao et.al.|[2402.10405](http://arxiv.org/abs/2402.10405)|null|
-|**2024-02-13**|**Quantum Computing-Enhanced Algorithm Unveils Novel Inhibitors for KRAS**|Mohammad Ghazi Vakili et.al.|[2402.08210](http://arxiv.org/abs/2402.08210)|null|
+|**2024-02-13**|**Quantum Computing-Enhanced Algorithm Unveils Novel Inhibitors for KRAS**|Mohammad Ghazi Vakili et.al.|[2402.08210](http://arxiv.org/abs/2402.08210)|**[link](https://github.com/aspuru-guzik-group/quantum-generative-models)**|
 |**2024-01-30**|**Functional approach to the catalytic site of the sarcoplasmic reticulum Ca(2+)-ATPase: binding and hydrolysis of ATP in the absence of Ca(2+)**|A Lax et.al.|[2401.17382](http://arxiv.org/abs/2401.17382)|null|
 |**2024-01-29**|**Modulating weak protein-protein cross-interactions by addition of free amino acids at millimolar concentrations**|Pamina M. Winkler et.al.|[2401.16276](http://arxiv.org/abs/2401.16276)|null|
 |**2024-02-14**|**Enhancing Protein-Ligand Binding Affinity Predictions using Neural Network Potentials**|Francesc Sabanes Zariquiey et.al.|[2401.16062](http://arxiv.org/abs/2401.16062)|null|
 |**2024-02-01**|**A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics**|Shengchao Liu et.al.|[2401.15122](http://arxiv.org/abs/2401.15122)|null|
-|**2024-01-19**|**DeepRLI: A Multi-objective Framework for Universal Protein--Ligand Interaction Prediction**|Haoyu Lin et.al.|[2401.10806](http://arxiv.org/abs/2401.10806)|null|
+|**2024-01-19**|**DeepRLI: A Multi-objective Framework for Universal Protein--Ligand Interaction Prediction**|Haoyu Lin et.al.|[2401.10806](http://arxiv.org/abs/2401.10806)|**[link](https://github.com/fairydance/deeprli)**|
 |**2023-12-05**|**MATE-Pred: Multimodal Attention-based TCR-Epitope interaction Predictor**|Etienne Goffinet et.al.|[2401.08619](http://arxiv.org/abs/2401.08619)|null|
 |**2023-12-15**|**Autoregressive fragment-based diffusion for pocket-aware ligand design**|Mahdi Ghorbani et.al.|[2401.05370](http://arxiv.org/abs/2401.05370)|null|
 |**2023-12-23**|**DTIAM: A unified framework for predicting drug-target interactions, binding affinities and activation/inhibition mechanisms**|Zhangli Lu et.al.|[2312.15252](http://arxiv.org/abs/2312.15252)|**[link](https://github.com/csubiogroup/dtiam)**|
