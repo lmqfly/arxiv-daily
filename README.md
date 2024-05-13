@@ -483,6 +483,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Quantum-Accurate Machine Learning Potentials for Metal-Organic Frameworks using Temperature Driven Active Learning**|Abhishek Sharma et.al.|[2405.06465](http://arxiv.org/abs/2405.06465)|null|
+|**2024-05-10**|**Biaxial strain effects in 2D diamond formation from graphene stacks**|Rajaji Vincent et.al.|[2405.06416](http://arxiv.org/abs/2405.06416)|null|
+|**2024-05-10**|**Creating cyclo-N $_5$$^{+}$ cation and assembling N$_5$$^{+}$N$_5$$^{-}$ salt via electronegativity co-matching in tailored ionic compounds**|Bi Zhang et.al.|[2405.06262](http://arxiv.org/abs/2405.06262)|null|
+|**2024-04-09**|**Simulation of Ge on Si Photodiode with photon-trapping micro-nano holes with -3dB bandwidth of >60 GHz at NIR wavelength**|Ekaterina Ponizovskaya Devine et.al.|[2405.05972](http://arxiv.org/abs/2405.05972)|null|
 |**2024-05-09**|**Non-monotonic conductivity of aqueous electrolytes: beyond the first Wien effect**|Hélène Berthoumieux et.al.|[2405.05882](http://arxiv.org/abs/2405.05882)|null|
 |**2024-05-08**|**Equivalence analysis between Quasi-coarse-grained and Atomistic Simulations**|Dong-Dong Jiang et.al.|[2405.05070](http://arxiv.org/abs/2405.05070)|null|
 |**2024-05-08**|**Spatial distribution of local elastic moduli in nanocrystalline metals**|Menahem Krief et.al.|[2405.04995](http://arxiv.org/abs/2405.04995)|null|
@@ -662,6 +666,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Scalable Property Valuation Models via Graph-based Deep Learning**|Enrique Riveros et.al.|[2405.06553](http://arxiv.org/abs/2405.06553)|null|
+|**2024-05-10**|**ATSumm: Auxiliary information enhanced approach for abstractive disaster Tweet Summarization with sparse training data**|Piyush Kumar Garg et.al.|[2405.06541](http://arxiv.org/abs/2405.06541)|null|
+|**2024-05-08**|**Towards Less Biased Data-driven Scoring with Deep Learning-Based End-to-end Database Search in Tandem Mass Spectrometry**|Yonghan Yu et.al.|[2405.06511](http://arxiv.org/abs/2405.06511)|null|
+|**2024-05-10**|**Improving Deep Learning Model Calibration for Cardiac Applications using Deterministic Uncertainty Networks and Uncertainty-aware Training**|Tareen Dawood et.al.|[2405.06487](http://arxiv.org/abs/2405.06487)|null|
+|**2024-05-10**|**Autonomous Driving with a Deep Dual-Model Solution for Steering and Braking Control**|Ana Petra Jukić et.al.|[2405.06473](http://arxiv.org/abs/2405.06473)|null|
+|**2024-05-10**|**MRSegmentator: Robust Multi-Modality Segmentation of 40 Classes in MRI and CT Sequences**|Hartmut Häntze et.al.|[2405.06463](http://arxiv.org/abs/2405.06463)|**[link](https://github.com/hhaentze/mrsegmentator)**|
+|**2024-05-10**|**How to Augment for Atmospheric Turbulence Effects on Thermal Adapted Object Detection Models?**|Engin Uzun et.al.|[2405.06383](http://arxiv.org/abs/2405.06383)|null|
+|**2024-05-10**|**Open Access Battle Damage Detection via Pixel-Wise T-Test on Sentinel-1 Imagery**|Ollie Ballinger et.al.|[2405.06323](http://arxiv.org/abs/2405.06323)|null|
+|**2024-05-10**|**Automated Cell Structure Extraction for 3D Electron Microscopy by Deep Learning**|Jin Kousaka et.al.|[2405.06303](http://arxiv.org/abs/2405.06303)|null|
+|**2024-05-10**|**Cross-domain Learning Framework for Tracking Users in RIS-aided Multi-band ISAC Systems with Sparse Labeled Data**|Jingzhi Hu et.al.|[2405.06299](http://arxiv.org/abs/2405.06299)|null|
+|**2024-05-10**|**PUMA: margin-based data pruning**|Javier Maroto et.al.|[2405.06298](http://arxiv.org/abs/2405.06298)|null|
+|**2024-05-10**|**Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention**|Ju-Hyeon Nam et.al.|[2405.06284](http://arxiv.org/abs/2405.06284)|null|
+|**2024-05-10**|**Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration**|Li Ling et.al.|[2405.06279](http://arxiv.org/abs/2405.06279)|null|
+|**2024-05-10**|**Exploring the Interplay of Interpretability and Robustness in Deep Neural Networks: A Saliency-guided Approach**|Amira Guesmi et.al.|[2405.06278](http://arxiv.org/abs/2405.06278)|null|
+|**2024-05-10**|**Uncertainty-aware Semantic Mapping in Off-road Environments with Dempster-Shafer Theory of Evidence**|Junyoung Kim et.al.|[2405.06265](http://arxiv.org/abs/2405.06265)|null|
+|**2024-05-10**|**Adversarial neural network methods for topology optimization of eigenvalue problems**|Xindi Hu et.al.|[2405.06248](http://arxiv.org/abs/2405.06248)|null|
+|**2024-05-10**|**Comparative Analysis of Advanced Feature Matching Algorithms in Challenging High Spatial Resolution Optical Satellite Stereo Scenarios**|Qiyan Luo et.al.|[2405.06246](http://arxiv.org/abs/2405.06246)|null|
+|**2024-05-10**|**ACTION: Augmentation and Computation Toolbox for Brain Network Analysis with Functional MRI**|Yuqi Fang et.al.|[2405.06178](http://arxiv.org/abs/2405.06178)|null|
+|**2024-05-10**|**DisBeaNet: A Deep Neural Network to augment Unmanned Surface Vessels for maritime situational awareness**|Srikanth Vemula et.al.|[2405.06149](http://arxiv.org/abs/2405.06149)|null|
+|**2024-05-10**|**State-Free Inference of State-Space Models: The Transfer Function Approach**|Rom N. Parnichkun et.al.|[2405.06147](http://arxiv.org/abs/2405.06147)|**[link](https://github.com/ruke1ire/RTF)**|
+|**2024-05-09**|**Transforming the Bootstrap: Using Transformers to Compute Scattering Amplitudes in Planar N = 4 Super Yang-Mills Theory**|Tianji Cai et.al.|[2405.06107](http://arxiv.org/abs/2405.06107)|null|
+|**2024-05-09**|**Deep Learning-Based Residual Useful Lifetime Prediction for Assets with Uncertain Failure Modes**|Yuqi Su et.al.|[2405.06068](http://arxiv.org/abs/2405.06068)|null|
+|**2024-05-09**|**BB-Patch: BlackBox Adversarial Patch-Attack using Zeroth-Order Optimization**|Satyadwyoom Kumar et.al.|[2405.06049](http://arxiv.org/abs/2405.06049)|null|
+|**2024-05-09**|**EWMoE: An effective model for global weather forecasting with mixture-of-experts**|Lihao Gan et.al.|[2405.06004](http://arxiv.org/abs/2405.06004)|null|
+|**2024-05-08**|**Real-Time Pill Identification for the Visually Impaired Using Deep Learning**|Bo Dang et.al.|[2405.05983](http://arxiv.org/abs/2405.05983)|null|
+|**2024-05-07**|**Overcoming challenges of translating deep-learning models for glioblastoma: the ZGBM consortium**|Haris Shuaib et.al.|[2405.05980](http://arxiv.org/abs/2405.05980)|null|
 |**2024-05-09**|**Deep Multi-Task Learning for Malware Image Classification**|Ahmed Bensaoud et.al.|[2405.05906](http://arxiv.org/abs/2405.05906)|null|
 |**2024-05-09**|**A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking**|Mohamed Mahmoud et.al.|[2405.05900](http://arxiv.org/abs/2405.05900)|null|
 |**2024-05-09**|**Robust and Explainable Fine-Grained Visual Classification with Transfer Learning: A Dual-Carriageway Framework**|Zheming Zuo et.al.|[2405.05853](http://arxiv.org/abs/2405.05853)|null|
