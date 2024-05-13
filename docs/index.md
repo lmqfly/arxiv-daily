@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -358,7 +358,7 @@ layout: default
 |**2024-04-20**|**Transfer Learning for Molecular Property Predictions from Small Data Sets**|Thorren Kirschbaum et.al.|[2404.13393](http://arxiv.org/abs/2404.13393)|null|
 |**2024-04-05**|**Transformers for molecular property prediction: Lessons learned from the past five years**|Afnan Sultan et.al.|[2404.03969](http://arxiv.org/abs/2404.03969)|**[link](https://github.com/volkamerlab/transformers4mpp_review)**|
 |**2024-04-02**|**Generalizable, Fast, and Accurate DeepQSPR with fastprop Part 1: Framework and Benchmarks**|Jackson Burns et.al.|[2404.02058](http://arxiv.org/abs/2404.02058)|**[link](https://github.com/jacksonburns/fastprop)**|
-|**2024-03-27**|**A Python library for efficient computation of molecular fingerprints**|Michał Szafarczyk et.al.|[2403.19718](http://arxiv.org/abs/2403.19718)|**[link](https://github.com/arch4ngel21/scikit-fingerprints)**|
+|**2024-03-27**|**A Python library for efficient computation of molecular fingerprints**|Michał Szafarczyk et.al.|[2403.19718](http://arxiv.org/abs/2403.19718)|null|
 |**2024-03-10**|**Sort & Slice: A Simple and Superior Alternative to Hash-Based Folding for Extended-Connectivity Fingerprints**|Markus Dablander et.al.|[2403.17954](http://arxiv.org/abs/2403.17954)|null|
 |**2024-02-21**|**BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**|Xueliang Zhao et.al.|[2402.13577](http://arxiv.org/abs/2402.13577)|null|
 |**2024-02-20**|**Equivariant Pretrained Transformer for Unified Geometric Learning on Multi-Domain 3D Molecules**|Rui Jiao et.al.|[2402.12714](http://arxiv.org/abs/2402.12714)|null|
@@ -555,7 +555,7 @@ layout: default
 |**2024-02-24**|**Coalescence of sessile aqueous droplets laden with surfactant**|S. Arbabi et.al.|[2403.10535](http://arxiv.org/abs/2403.10535)|null|
 |**2024-03-15**|**Defect design in ferroelectrics -- new insights on agglomeration**|Sheng-Han Teng et.al.|[2403.10467](http://arxiv.org/abs/2403.10467)|null|
 |**2024-03-15**|**Hessian-free force-gradient integrators**|Kevin Schäfers et.al.|[2403.10370](http://arxiv.org/abs/2403.10370)|**[link](https://github.com/kevinschaefers/openqcd_force-gradient)**|
-|**2024-04-04**|**GradNav: Accelerated Exploration of Potential Energy Surfaces with Gradient-Based Navigation**|Janghoon Ock et.al.|[2403.10358](http://arxiv.org/abs/2403.10358)|null|
+|**2024-04-04**|**GradNav: Accelerated Exploration of Potential Energy Surfaces with Gradient-Based Navigation**|Janghoon Ock et.al.|[2403.10358](http://arxiv.org/abs/2403.10358)|**[link](https://github.com/hoon-ock/landscape-search)**|
 |**2024-03-14**|**A general-purpose neural network potential for Ti-Al-Nb alloys towards large-scale molecular dynamics with ab initio accuracy**|Zhiqiang Zhao et.al.|[2403.09529](http://arxiv.org/abs/2403.09529)|null|
 |**2024-03-13**|**Criticality in an imidazolium ionic liquid fully wetting a sapphire support**|Kevin Höllring et.al.|[2403.08449](http://arxiv.org/abs/2403.08449)|null|
 |**2024-03-13**|**Influence of cholesterol on hydrogen-bond dynamics of water molecules in lipid-bilayer systems at varying temperatures**|Kokoro Shikata et.al.|[2403.08289](http://arxiv.org/abs/2403.08289)|null|
@@ -649,11 +649,11 @@ layout: default
 |**2024-05-09**|**Enhancing Suicide Risk Detection on Social Media through Semi-Supervised Deep Label Smoothing**|Matthew Squires et.al.|[2405.05795](http://arxiv.org/abs/2405.05795)|null|
 |**2024-05-09**|**Autonomous Robotic Ultrasound System for Liver Follow-up Diagnosis: Pilot Phantom Study**|Tianpeng Zhang et.al.|[2405.05787](http://arxiv.org/abs/2405.05787)|null|
 |**2024-05-09**|**To Trust or Not to Trust: Towards a novel approach to measure trust for XAI systems**|Miquel Miró-Nicolau et.al.|[2405.05766](http://arxiv.org/abs/2405.05766)|null|
-|**2024-05-09**|**A Framework of SO(3)-equivariant Non-linear Representation Learning and its Application to Electronic-Structure Hamiltonian Prediction**|Shi Yin et.al.|[2405.05722](http://arxiv.org/abs/2405.05722)|null|
+|**2024-05-10**|**A Framework of SO(3)-equivariant Non-linear Representation Learning and its Application to Electronic-Structure Hamiltonian Prediction**|Shi Yin et.al.|[2405.05722](http://arxiv.org/abs/2405.05722)|null|
 |**2024-05-09**|**A Survey on Backbones for Deep Video Action Recognition**|Zixuan Tang et.al.|[2405.05584](http://arxiv.org/abs/2405.05584)|null|
 |**2024-05-09**|**Towards Robust Physical-world Backdoor Attacks on Lane Detection**|Xinwei Zhang et.al.|[2405.05553](http://arxiv.org/abs/2405.05553)|null|
 |**2024-05-09**|**Deep Learning for CSI Feedback: One-Sided Model and Joint Multi-Module Learning Perspectives**|Yiran Guo et.al.|[2405.05522](http://arxiv.org/abs/2405.05522)|null|
-|**2024-05-09**|**Deep Learning Models for Atypical Serotonergic Cells Recognition**|Daniele Corradetti et.al.|[2405.05516](http://arxiv.org/abs/2405.05516)|null|
+|**2024-05-09**|**Deep Learning Models for Atypical Serotonergic Cells Recognition**|Daniele Corradetti et.al.|[2405.05516](http://arxiv.org/abs/2405.05516)|**[link](https://github.com/neuraldl/dlatypicalserotoninergiccells)**|
 |**2024-05-08**|**How Inverse Conditional Flows Can Serve as a Substitute for Distributional Regression**|Lucas Kook et.al.|[2405.05429](http://arxiv.org/abs/2405.05429)|null|
 |**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336](http://arxiv.org/abs/2405.05336)|null|
 |**2024-05-08**|**Deep Learning Method to Predict Wound Healing Progress Based on Collagen Fibers in Wound Tissue**|Juan He et.al.|[2405.05297](http://arxiv.org/abs/2405.05297)|null|
@@ -671,7 +671,7 @@ layout: default
 |**2024-05-08**|**Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**|Kristupas Bajarunas et.al.|[2405.04990](http://arxiv.org/abs/2405.04990)|**[link](https://github.com/kbaja/unsupervisedhi)**|
 |**2024-05-08**|**End-to-End Semi-Supervised approach with Modulated Object Queries for Table Detection in Documents**|Iqraa Ehsan et.al.|[2405.04971](http://arxiv.org/abs/2405.04971)|null|
 |**2024-05-08**|**Predicting positon solutions of a family of Nonlinear Schrödinger equations through Deep Learning algorithm**|K. Thulasidharan et.al.|[2405.04968](http://arxiv.org/abs/2405.04968)|null|
-|**2024-05-08**|**MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures**|Han Yang et.al.|[2405.04967](http://arxiv.org/abs/2405.04967)|null|
+|**2024-05-10**|**MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures**|Han Yang et.al.|[2405.04967](http://arxiv.org/abs/2405.04967)|null|
 |**2024-05-08**|**A Sparse Tensor Generator with Efficient Feature Extraction**|Tugba Torun et.al.|[2405.04944](http://arxiv.org/abs/2405.04944)|**[link](https://github.com/sparcityeu/genten)**|
 |**2024-05-08**|**FIGRET: Fine-Grained Robustness-Enhanced Traffic Engineering**|Ximeng Liu et.al.|[2405.04932](http://arxiv.org/abs/2405.04932)|null|
 |**2024-05-08**|**Weakly-supervised Semantic Segmentation via Dual-stream Contrastive Learning of Cross-image Contextual Information**|Qi Lai et.al.|[2405.04913](http://arxiv.org/abs/2405.04913)|null|
