@@ -466,6 +466,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**The Flux Hypothesis for Odd Transport Phenomena**|Cory Hargus et.al.|[2405.08798](http://arxiv.org/abs/2405.08798)|null|
+|**2024-05-14**|**Unraveling the dynamic slowdown in supercooled water: The role of dynamic disorder in jump motions**|Shinji Saito et.al.|[2405.08250](http://arxiv.org/abs/2405.08250)|null|
 |**2024-05-13**|**Super-concentrated alkali hydroxide electrolytes for rechargeable Zn batteries**|Yilin Ma et.al.|[2405.07675](http://arxiv.org/abs/2405.07675)|null|
 |**2024-05-12**|**Crystal-like thermal transport in amorphous carbon**|Jaeyun Moon et.al.|[2405.07298](http://arxiv.org/abs/2405.07298)|null|
 |**2024-05-10**|**Quantum-Accurate Machine Learning Potentials for Metal-Organic Frameworks using Temperature Driven Active Learning**|Abhishek Sharma et.al.|[2405.06465](http://arxiv.org/abs/2405.06465)|null|
@@ -649,6 +651,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
+|**2024-05-14**|**The Developing Human Connectome Project: A Fast Deep Learning-based Pipeline for Neonatal Cortical Surface Reconstruction**|Qiang Ma et.al.|[2405.08783](http://arxiv.org/abs/2405.08783)|null|
+|**2024-05-14**|**Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling**|Gregory Holste et.al.|[2405.08780](http://arxiv.org/abs/2405.08780)|null|
+|**2024-05-14**|**Using autoencoders and deep transfer learning to determine the stellar parameters of 286 CARMENES M dwarfs**|P. Mas-Buitrago et.al.|[2405.08703](http://arxiv.org/abs/2405.08703)|null|
+|**2024-05-14**|**Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis**|Qingpeng Kong et.al.|[2405.08681](http://arxiv.org/abs/2405.08681)|**[link](https://github.com/kqp1227/sensitive-channel-pruning)**|
+|**2024-05-14**|**Beyond the Black Box: Do More Complex Models Provide Superior XAI Explanations?**|Mateusz Cedro et.al.|[2405.08658](http://arxiv.org/abs/2405.08658)|null|
+|**2024-05-14**|**Self-supervised learning improves robustness of deep learning lung tumor segmentation to CT imaging differences**|Jue Jiang et.al.|[2405.08657](http://arxiv.org/abs/2405.08657)|null|
+|**2024-05-14**|**RMT-BVQA: Recurrent Memory Transformer-based Blind Video Quality Assessment for Enhanced Video Content**|Tianhao Peng et.al.|[2405.08621](http://arxiv.org/abs/2405.08621)|null|
+|**2024-05-14**|**GN-SINDy: Greedy Sampling Neural Network in Sparse Identification of Nonlinear Partial Differential Equations**|Ali Forootani et.al.|[2405.08613](http://arxiv.org/abs/2405.08613)|null|
+|**2024-05-14**|**Importance of hyper-parameter optimization during training of physics-informed deep learning networks**|Ashley Lenau et.al.|[2405.08580](http://arxiv.org/abs/2405.08580)|null|
+|**2024-05-14**|**Local-peak scale-invariant feature transform for fast and random image stitching**|Hao Li et.al.|[2405.08578](http://arxiv.org/abs/2405.08578)|null|
+|**2024-05-14**|**PTPI-DL-ROMs: pre-trained physics-informed deep learning-based reduced order models for nonlinear parametrized PDEs**|Simone Brivio et.al.|[2405.08558](http://arxiv.org/abs/2405.08558)|null|
+|**2024-05-14**|**Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study**|Qinfeng Zhu et.al.|[2405.08493](http://arxiv.org/abs/2405.08493)|null|
+|**2024-05-14**|**Semantic Contextualization of Face Forgery: A New Definition, Dataset, and Detection Method**|Mian Zou et.al.|[2405.08487](http://arxiv.org/abs/2405.08487)|null|
+|**2024-05-14**|**Perivascular space Identification Nnunet for Generalised Usage (PINGU)**|Benjamin Sinclair et.al.|[2405.08337](http://arxiv.org/abs/2405.08337)|null|
+|**2024-05-14**|**StraightPCF: Straight Point Cloud Filtering**|Dasith de Silva Edirimuni et.al.|[2405.08322](http://arxiv.org/abs/2405.08322)|**[link](https://github.com/ddsediri/straightpcf)**|
+|**2024-05-14**|**Automatic Segmentation of the Kidneys and Cystic Renal Lesions on Non-Contrast CT Using a Convolutional Neural Network**|Lucas Aronson et.al.|[2405.08282](http://arxiv.org/abs/2405.08282)|null|
+|**2024-05-14**|**AI-driven, Model-Free Current Control: A Deep Symbolic Approach for Optimal Induction Machine Performance**|Muhammad Usama et.al.|[2405.08277](http://arxiv.org/abs/2405.08277)|null|
+|**2024-05-14**|**Towards Clinician-Preferred Segmentation: Leveraging Human-in-the-Loop for Test Time Adaptation in Medical Image Segmentation**|Shishuai Hu et.al.|[2405.08270](http://arxiv.org/abs/2405.08270)|null|
+|**2024-05-14**|**Palette-based Color Transfer between Images**|Chenlei Lv et.al.|[2405.08263](http://arxiv.org/abs/2405.08263)|null|
+|**2024-05-14**|**QLingNet: An efficient and flexible modeling framework for subsonic airfoils**|Kuijun Zuo et.al.|[2405.08248](http://arxiv.org/abs/2405.08248)|null|
+|**2024-05-13**|**SeNMo: A Self-Normalizing Deep Learning Model for Enhanced Multi-Omics Data Analysis in Oncology**|Asim Waqas et.al.|[2405.08226](http://arxiv.org/abs/2405.08226)|null|
+|**2024-05-13**|**Infinite Texture: Text-guided High Resolution Diffusion Texture Synthesis**|Yifan Wang et.al.|[2405.08210](http://arxiv.org/abs/2405.08210)|null|
+|**2024-05-13**|**Modeling of Time-varying Wireless Communication Channel with Fading and Shadowing**|Lee Youngmin et.al.|[2405.08199](http://arxiv.org/abs/2405.08199)|**[link](https://github.com/BrightBlueCheese/Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing)**|
+|**2024-05-13**|**Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client**|Jun Xia et.al.|[2405.08183](http://arxiv.org/abs/2405.08183)|null|
+|**2024-05-13**|**Estimating Direct and Indirect Causal Effects of Spatiotemporal Interventions in Presence of Spatial Interference**|Sahara Ali et.al.|[2405.08174](http://arxiv.org/abs/2405.08174)|null|
+|**2024-05-13**|**A Deep Learning Approach For Epistemic Uncertainty Quantification Of Turbulent Flow Simulations**|Minghan Chu et.al.|[2405.08148](http://arxiv.org/abs/2405.08148)|null|
+|**2024-05-13**|**Equivariant Deep Learning of Mixed-Integer Optimal Control Solutions for Vehicle Decision Making and Motion Planning**|Rudolf Reiter et.al.|[2405.08122](http://arxiv.org/abs/2405.08122)|null|
+|**2024-05-13**|**Feature Expansion and enhanced Compression for Class Incremental Learning**|Quentin Ferdinand et.al.|[2405.08038](http://arxiv.org/abs/2405.08038)|null|
+|**2024-05-11**|**CTRL: Continuous-Time Representation Learning on Temporal Heterogeneous Information Network**|Chenglin Li et.al.|[2405.08013](http://arxiv.org/abs/2405.08013)|null|
 |**2024-05-13**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/scnu-rislab/overlapmamba)**|
 |**2024-05-13**|**Multi-Task Learning for Fatigue Detection and Face Recognition of Drivers via Tree-Style Space-Channel Attention Fusion Network**|Shulei Qu et.al.|[2405.07845](http://arxiv.org/abs/2405.07845)|null|
 |**2024-05-13**|**Ground-based Image Deconvolution with Swin Transformer UNet**|Utsav Akhaury et.al.|[2405.07842](http://arxiv.org/abs/2405.07842)|null|
@@ -2043,6 +2075,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates**|Zhenqiao Song et.al.|[2405.08205](http://arxiv.org/abs/2405.08205)|null|
 |**2024-05-13**|**PLA-SGCN: Protein-Ligand Binding Affinity Prediction by Integrating Similar Pairs and Semi-supervised Graph Convolutional Network**|Karim Abbasi et.al.|[2405.07452](http://arxiv.org/abs/2405.07452)|null|
 |**2024-04-08**|**A unified cross-attention model for predicting antigen binding specificity to both HLA and TCR molecules**|Chenpeng Yu et.al.|[2405.06653](http://arxiv.org/abs/2405.06653)|null|
 |**2024-05-06**|**AntiFold: Improved antibody structure-based design using inverse folding**|Magnus Haraldson Høie et.al.|[2405.03370](http://arxiv.org/abs/2405.03370)|**[link](https://github.com/oxpig/antifold)**|
