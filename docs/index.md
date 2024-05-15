@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -500,7 +500,7 @@ layout: default
 |**2024-04-25**|**Stochastic Dissipative Euler's equations for a free body**|J. A. de la Torre et.al.|[2404.16613](http://arxiv.org/abs/2404.16613)|null|
 |**2024-04-25**|**Simulating Ultrafast Transient Absorption Spectra from First Principles using a Time-Dependent Configuration Interaction Probe**|Arshad Mehmood et.al.|[2404.16568](http://arxiv.org/abs/2404.16568)|null|
 |**2024-04-25**|**Elastic properties of three-dimensional Yukawa or dust crystals from molecular dynamic simulations**|Sandeep Kumar et.al.|[2404.16335](http://arxiv.org/abs/2404.16335)|null|
-|**2024-04-24**|**Entropic signature of resonant thermal transport: Ordered form of heat conduction**|Albert Beardo et.al.|[2404.15831](http://arxiv.org/abs/2404.15831)|null|
+|**2024-05-14**|**Entropic signature of resonant thermal transport: Ordered form of heat conduction**|Albert Beardo et.al.|[2404.15831](http://arxiv.org/abs/2404.15831)|null|
 |**2024-05-07**|**Thermal boundary conductance and thermal conductivity strongly depend on nearby environment**|Khalid Zobaid Adnan et.al.|[2404.15439](http://arxiv.org/abs/2404.15439)|null|
 |**2024-04-23**|**Unveiling the crystallization kinetics in Ge-rich Ge $_x$ Te alloys by large scale simulations with a machine-learned interatomic potential**|Dario Baratella et.al.|[2404.15128](http://arxiv.org/abs/2404.15128)|null|
 |**2024-05-01**|**Dynamic Nanodomains Dictate Macroscopic Properties in Lead Halide Perovskites**|Milos Dubajic et.al.|[2404.14598](http://arxiv.org/abs/2404.14598)|null|
@@ -669,7 +669,7 @@ layout: default
 |**2024-05-13**|**Dehazing Remote Sensing and UAV Imagery: A Review of Deep Learning, Prior-based, and Hybrid Approaches**|Gao Yu Lee et.al.|[2405.07520](http://arxiv.org/abs/2405.07520)|null|
 |**2024-05-13**|**Support-Query Prototype Fusion Network for Few-shot Medical Image Segmentation**|Xiaoxiao Wu et.al.|[2405.07516](http://arxiv.org/abs/2405.07516)|null|
 |**2024-05-13**|**Revealing the value of Repository Centrality in lifespan prediction of Open Source Software Projects**|Runzhi He et.al.|[2405.07508](http://arxiv.org/abs/2405.07508)|null|
-|**2024-05-13**|**A frequency-domain enhanced multi-view network for metal fatigue life prediction**|Shuonan Chen et.al.|[2405.07507](http://arxiv.org/abs/2405.07507)|null|
+|**2024-05-14**|**A frequency-domain enhanced multi-view network for metal fatigue life prediction**|Shuonan Chen et.al.|[2405.07507](http://arxiv.org/abs/2405.07507)|null|
 |**2024-05-13**|**Text Grouping Adapter: Adapting Pre-trained Text Detector for Layout Analysis**|Tianci Bi et.al.|[2405.07481](http://arxiv.org/abs/2405.07481)|null|
 |**2024-05-13**|**PLA-SGCN: Protein-Ligand Binding Affinity Prediction by Integrating Similar Pairs and Semi-supervised Graph Convolutional Network**|Karim Abbasi et.al.|[2405.07452](http://arxiv.org/abs/2405.07452)|null|
 |**2024-05-13**|**Rene: A Pre-trained Multi-modal Architecture for Auscultation of Respiratory Diseases**|Pengfei Zhang et.al.|[2405.07442](http://arxiv.org/abs/2405.07442)|null|
@@ -736,7 +736,7 @@ layout: default
 |**2024-05-09**|**Towards Robust Physical-world Backdoor Attacks on Lane Detection**|Xinwei Zhang et.al.|[2405.05553](http://arxiv.org/abs/2405.05553)|null|
 |**2024-05-09**|**Deep Learning for CSI Feedback: One-Sided Model and Joint Multi-Module Learning Perspectives**|Yiran Guo et.al.|[2405.05522](http://arxiv.org/abs/2405.05522)|null|
 |**2024-05-09**|**Deep Learning Models for Atypical Serotonergic Cells Recognition**|Daniele Corradetti et.al.|[2405.05516](http://arxiv.org/abs/2405.05516)|**[link](https://github.com/neuraldl/dlatypicalserotoninergiccells)**|
-|**2024-05-08**|**How Inverse Conditional Flows Can Serve as a Substitute for Distributional Regression**|Lucas Kook et.al.|[2405.05429](http://arxiv.org/abs/2405.05429)|null|
+|**2024-05-13**|**How Inverse Conditional Flows Can Serve as a Substitute for Distributional Regression**|Lucas Kook et.al.|[2405.05429](http://arxiv.org/abs/2405.05429)|null|
 |**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336](http://arxiv.org/abs/2405.05336)|null|
 |**2024-05-08**|**Deep Learning Method to Predict Wound Healing Progress Based on Collagen Fibers in Wound Tissue**|Juan He et.al.|[2405.05297](http://arxiv.org/abs/2405.05297)|null|
 |**2024-05-08**|**Deep learning-based variational autoencoder for classification of quantum and classical states of light**|Mahesh Bhupati et.al.|[2405.05243](http://arxiv.org/abs/2405.05243)|null|
