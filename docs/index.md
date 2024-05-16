@@ -466,6 +466,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Evaluating the Uncertainty in Mean Residual Times: Estimators Based on Residence Times from Discrete Time Processes**|Hernán R. Sánchez et.al.|[2405.08853](http://arxiv.org/abs/2405.08853)|null|
 |**2024-05-14**|**The Flux Hypothesis for Odd Transport Phenomena**|Cory Hargus et.al.|[2405.08798](http://arxiv.org/abs/2405.08798)|null|
 |**2024-05-14**|**Unraveling the dynamic slowdown in supercooled water: The role of dynamic disorder in jump motions**|Shinji Saito et.al.|[2405.08250](http://arxiv.org/abs/2405.08250)|null|
 |**2024-05-13**|**Super-concentrated alkali hydroxide electrolytes for rechargeable Zn batteries**|Yilin Ma et.al.|[2405.07675](http://arxiv.org/abs/2405.07675)|null|
@@ -651,6 +652,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**DemOpts: Fairness corrections in COVID-19 case prediction models**|Naman Awasthi et.al.|[2405.09483](http://arxiv.org/abs/2405.09483)|null|
+|**2024-05-15**|**Non-contact Lung Disease Classification via OFDM-based Passive 6G ISAC Sensing**|Hasan Mujtaba Buttar et.al.|[2405.09458](http://arxiv.org/abs/2405.09458)|null|
+|**2024-05-15**|**Kuramoto Oscillators and Swarms on Manifolds for Geometry Informed Machine Learning**|Vladimir Jacimovic et.al.|[2405.09453](http://arxiv.org/abs/2405.09453)|null|
+|**2024-05-15**|**On identifying the non-linear dynamics of a hovercraft using an end-to-end deep learning approach**|Roland Schwan et.al.|[2405.09405](http://arxiv.org/abs/2405.09405)|null|
+|**2024-05-15**|**SARATR-X: A Foundation Model for Synthetic Aperture Radar Images Target Recognition**|Weijie L et.al.|[2405.09365](http://arxiv.org/abs/2405.09365)|null|
+|**2024-05-15**|**Vision-Based Neurosurgical Guidance: Unsupervised Localization and Camera-Pose Prediction**|Gary Sarwin et.al.|[2405.09355](http://arxiv.org/abs/2405.09355)|null|
+|**2024-05-15**|**Themis: Automatic and Efficient Deep Learning System Testing with Strong Fault Detection Capability**|Tsz On Li et.al.|[2405.09314](http://arxiv.org/abs/2405.09314)|null|
+|**2024-05-15**|**TimeX++: Learning Time-Series Explanations with Information Bottleneck**|Zichuan Liu et.al.|[2405.09308](http://arxiv.org/abs/2405.09308)|**[link](https://github.com/zichuan-liu/timexplusplus)**|
+|**2024-05-15**|**Deep Blur Multi-Model (DeepBlurMM) -- a strategy to mitigate the impact of image blur on deep learning model performance in histopathology image analysis**|Yujie Xiang et.al.|[2405.09298](http://arxiv.org/abs/2405.09298)|null|
+|**2024-05-15**|**Sensitivity Decouple Learning for Image Compression Artifacts Reduction**|Li Ma et.al.|[2405.09291](http://arxiv.org/abs/2405.09291)|null|
+|**2024-05-15**|**DeCoDEx: Confounder Detector Guidance for Improved Diffusion-based Counterfactual Explanations**|Nima Fathi et.al.|[2405.09288](http://arxiv.org/abs/2405.09288)|**[link](https://github.com/nimafathi/decodex)**|
+|**2024-05-15**|**NeuralCMS: A deep learning approach to study Jupiter's interior**|Maayan Ziv et.al.|[2405.09244](http://arxiv.org/abs/2405.09244)|null|
+|**2024-05-15**|**StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contract**|Zongwei Li et.al.|[2405.09181](http://arxiv.org/abs/2405.09181)|null|
+|**2024-05-15**|**Optimizing Sensor Network Design for Multiple Coverage**|Lukas Taus et.al.|[2405.09096](http://arxiv.org/abs/2405.09096)|null|
+|**2024-05-15**|**Deep Learning-Based CSI Feedback for XL-MIMO Systems in the Near-Field Domain**|Zhangjie Peng et.al.|[2405.09053](http://arxiv.org/abs/2405.09053)|null|
+|**2024-05-15**|**3D Shape Augmentation with Content-Aware Shape Resizing**|Mingxiang Chen et.al.|[2405.09050](http://arxiv.org/abs/2405.09050)|null|
+|**2024-05-15**|**Deep Learning in Earthquake Engineering: A Comprehensive Review**|Yazhou Xie et.al.|[2405.09021](http://arxiv.org/abs/2405.09021)|null|
+|**2024-05-14**|**drGAT: Attention-Guided Gene Assessment of Drug Response Utilizing a Drug-Cell-Gene Heterogeneous Network**|Yoshitaka Inoue et.al.|[2405.08979](http://arxiv.org/abs/2405.08979)|null|
+|**2024-05-14**|**Bird's-Eye View to Street-View: A Survey**|Khawlah Bajbaa et.al.|[2405.08961](http://arxiv.org/abs/2405.08961)|null|
+|**2024-05-14**|**Self-supervised vision-langage alignment of deep learning representations for bone X-rays analysis**|Alexandre Englebert et.al.|[2405.08932](http://arxiv.org/abs/2405.08932)|null|
+|**2024-05-14**|**Neural Collapse Meets Differential Privacy: Curious Behaviors of NoisyGD with Near-perfect Representation Learning**|Chendi Wang et.al.|[2405.08920](http://arxiv.org/abs/2405.08920)|null|
+|**2024-05-14**|**Preheating with deep learning**|Jong-Hyun Yoon et.al.|[2405.08901](http://arxiv.org/abs/2405.08901)|null|
+|**2024-05-14**|**The Pitfalls and Promise of Conformal Inference Under Adversarial Attacks**|Ziquan Liu et.al.|[2405.08886](http://arxiv.org/abs/2405.08886)|null|
+|**2024-05-14**|**Automated Deep Learning for Load Forecasting**|Julie Keisler et.al.|[2405.08842](http://arxiv.org/abs/2405.08842)|null|
 |**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
 |**2024-05-14**|**The Developing Human Connectome Project: A Fast Deep Learning-based Pipeline for Neonatal Cortical Surface Reconstruction**|Qiang Ma et.al.|[2405.08783](http://arxiv.org/abs/2405.08783)|null|
 |**2024-05-14**|**Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling**|Gregory Holste et.al.|[2405.08780](http://arxiv.org/abs/2405.08780)|null|
@@ -2194,6 +2219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Kuramoto Oscillators and Swarms on Manifolds for Geometry Informed Machine Learning**|Vladimir Jacimovic et.al.|[2405.09453](http://arxiv.org/abs/2405.09453)|null|
 |**2024-05-07**|**Predicting Transonic Flowfields in Non-Homogeneous Unstructured Grids Using Autoencoder Graph Convolutional Networks**|Gabriele Immordino et.al.|[2405.04396](http://arxiv.org/abs/2405.04396)|null|
 |**2024-04-05**|**Lightweight Geometric Deep Learning for Molecular Modelling in Catalyst Discovery**|Patrick Geitner et.al.|[2404.10003](http://arxiv.org/abs/2404.10003)|null|
 |**2024-04-05**|**Finsler-Laplace-Beltrami Operators with Application to Shape Analysis**|Simon Weber et.al.|[2404.03999](http://arxiv.org/abs/2404.03999)|null|
