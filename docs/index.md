@@ -652,6 +652,40 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|null|
+|**2024-05-16**|**Biasing & Debiasing based Approach Towards Fair Knowledge Transfer for Equitable Skin Analysis**|Anshul Pundhir et.al.|[2405.10256](http://arxiv.org/abs/2405.10256)|null|
+|**2024-05-15**|**Comparative Analysis of Predicting Subsequent Steps in Hénon Map**|Vismaya V S et.al.|[2405.10190](http://arxiv.org/abs/2405.10190)|null|
+|**2024-05-16**|**Deep Koopman Operator-Informed Safety Command Governor for Autonomous Vehicles**|Hao Chen et.al.|[2405.10145](http://arxiv.org/abs/2405.10145)|null|
+|**2024-05-16**|**Self-supervised feature distillation and design of experiments for efficient training of micromechanical deep learning surrogates**|Patxi Fernandez-Zelaia et.al.|[2405.10135](http://arxiv.org/abs/2405.10135)|null|
+|**2024-05-16**|**Revisiting Deep Audio-Text Retrieval Through the Lens of Transportation**|Manh Luong et.al.|[2405.10084](http://arxiv.org/abs/2405.10084)|**[link](https://github.com/v-manhlt3/m-ltm-audio-text-retrieval)**|
+|**2024-05-16**|**MrRegNet: Multi-resolution Mask Guided Convolutional Neural Network for Medical Image Registration with Large Deformations**|Ruizhe Li et.al.|[2405.10068](http://arxiv.org/abs/2405.10068)|null|
+|**2024-05-16**|**Solving the enigma: Deriving optimal explanations of deep networks**|Michail Mamalakis et.al.|[2405.10008](http://arxiv.org/abs/2405.10008)|null|
+|**2024-05-16**|**ROCOv2: Radiology Objects in COntext Version 2, an Updated Multimodal Image Dataset**|Johannes Rückert et.al.|[2405.10004](http://arxiv.org/abs/2405.10004)|null|
+|**2024-05-16**|**A Unified Deep Transfer Learning Model for Accurate IoT Localization in Diverse Environments**|Abdullahi Isa Ahmed et.al.|[2405.09960](http://arxiv.org/abs/2405.09960)|null|
+|**2024-05-16**|**Dual-band feature selection for maturity classification of specialty crops by hyperspectral imaging**|Usman A. Zahidi et.al.|[2405.09955](http://arxiv.org/abs/2405.09955)|null|
+|**2024-05-16**|**Stock Market Dynamics Through Deep Learning Context**|Amirhossein Aminimehr et.al.|[2405.09932](http://arxiv.org/abs/2405.09932)|null|
+|**2024-05-16**|**Deep Learning-Based Quasi-Conformal Surface Registration for Partial 3D Faces Applied to Facial Recognition**|Yuchen Guo et.al.|[2405.09880](http://arxiv.org/abs/2405.09880)|null|
+|**2024-05-16**|**Solar multi-object multi-frame blind deconvolution with a spatially variant convolution neural emulator**|A. Asensio Ramos et.al.|[2405.09864](http://arxiv.org/abs/2405.09864)|null|
+|**2024-05-16**|**Box-Free Model Watermarks Are Prone to Black-Box Removal Attacks**|Haonan An et.al.|[2405.09863](http://arxiv.org/abs/2405.09863)|null|
+|**2024-05-16**|**On the relevance of pre-neural approaches in natural language processing pedagogy**|Aditya Joshi et.al.|[2405.09854](http://arxiv.org/abs/2405.09854)|null|
+|**2024-05-16**|**Region of Interest Detection in Melanocytic Skin Tumor Whole Slide Images -- Nevus & Melanoma**|Yi Cui et.al.|[2405.09851](http://arxiv.org/abs/2405.09851)|null|
+|**2024-05-16**|**Parallel Backpropagation for Shared-Feature Visualization**|Alexander Lappe et.al.|[2405.09827](http://arxiv.org/abs/2405.09827)|null|
+|**2024-05-16**|**Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis**|Zeyi Zhang et.al.|[2405.09814](http://arxiv.org/abs/2405.09814)|null|
+|**2024-05-16**|**Analysis and Predictive Modeling of Solar Coronal Holes Using Computer Vision and LSTM Networks**|Juyoung Yun et.al.|[2405.09802](http://arxiv.org/abs/2405.09802)|null|
+|**2024-05-16**|**Manifold Integrated Gradients: Riemannian Geometry for Feature Attribution**|Eslam Zaher et.al.|[2405.09800](http://arxiv.org/abs/2405.09800)|**[link](https://github.com/eszaher/manifold-integrated-gradients)**|
+|**2024-05-16**|**Analysis of the BraTS 2023 Intracranial Meningioma Segmentation Challenge**|Dominic LaBella et.al.|[2405.09787](http://arxiv.org/abs/2405.09787)|null|
+|**2024-05-15**|**Deep Learning-Enabled One-Bit DoA Estimation**|Farhang Yeganegi et.al.|[2405.09712](http://arxiv.org/abs/2405.09712)|null|
+|**2024-05-15**|**Point2SSM++: Self-Supervised Learning of Anatomical Shape Models from Point Clouds**|Jadie Adams et.al.|[2405.09707](http://arxiv.org/abs/2405.09707)|null|
+|**2024-05-15**|**Weakly Supervised Bayesian Shape Modeling from Unsegmented Medical Images**|Jadie Adams et.al.|[2405.09697](http://arxiv.org/abs/2405.09697)|**[link](https://github.com/jadie1/weakly-supervised-bvib-deepssm)**|
+|**2024-05-15**|**Generalized Holographic Reduced Representations**|Calvin Yeung et.al.|[2405.09689](http://arxiv.org/abs/2405.09689)|null|
+|**2024-05-15**|**LeaPP: Learning Pathways to Polymorphs through machine learning analysis of atomic trajectories**|Steven W. Hall et.al.|[2405.09642](http://arxiv.org/abs/2405.09642)|null|
+|**2024-05-15**|**Fully Automated OCT-based Tissue Screening System**|Shaohua Pi et.al.|[2405.09601](http://arxiv.org/abs/2405.09601)|null|
+|**2024-05-15**|**Properties that allow or prohibit transferability of adversarial attacks among quantized networks**|Abhishek Shrestha et.al.|[2405.09598](http://arxiv.org/abs/2405.09598)|**[link](https://github.com/Abhishek2271/TransferabilityAnalysis)**|
+|**2024-05-15**|**Learning Generalized Medical Image Representations through Image-Graph Contrastive Pretraining**|Sameer Khanna et.al.|[2405.09594](http://arxiv.org/abs/2405.09594)|null|
+|**2024-05-15**|**Training Deep Learning Models with Hybrid Datasets for Robust Automatic Target Detection on real SAR images**|Benjamin Camus et.al.|[2405.09588](http://arxiv.org/abs/2405.09588)|null|
+|**2024-05-15**|**An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding**|Renqi Chen et.al.|[2405.09585](http://arxiv.org/abs/2405.09585)|null|
+|**2024-05-15**|**AD-Aligning: Emulating Human-like Generalization for Cognitive Domain Adaptation in Deep Learning**|Zhuoying Li et.al.|[2405.09582](http://arxiv.org/abs/2405.09582)|null|
+|**2024-05-14**|**JNEEG shield for Jetson Nano for real-time EEG signal processing with deep learning**|Ildar Rakhmatulin et.al.|[2405.09575](http://arxiv.org/abs/2405.09575)|null|
 |**2024-05-15**|**DemOpts: Fairness corrections in COVID-19 case prediction models**|Naman Awasthi et.al.|[2405.09483](http://arxiv.org/abs/2405.09483)|null|
 |**2024-05-15**|**Non-contact Lung Disease Classification via OFDM-based Passive 6G ISAC Sensing**|Hasan Mujtaba Buttar et.al.|[2405.09458](http://arxiv.org/abs/2405.09458)|null|
 |**2024-05-15**|**Kuramoto Oscillators and Swarms on Manifolds for Geometry Informed Machine Learning**|Vladimir Jacimovic et.al.|[2405.09453](http://arxiv.org/abs/2405.09453)|null|
