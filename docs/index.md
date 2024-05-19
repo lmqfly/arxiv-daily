@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.18
+## Updated on 2024.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -485,7 +485,7 @@ layout: default
 |**2024-05-06**|**Molecular dynamics simulations of neutron induced collision cascades in Zr - statistical modelling of irradiation damage and potential applications**|Bartosz Barzdajn et.al.|[2405.03332](http://arxiv.org/abs/2405.03332)|null|
 |**2024-05-09**|**Coarsening in Bent-core Liquid Crystals: Intermediate Splay Bend State en route to the Twist Bend Phase**|Nishant Birdi et.al.|[2405.03189](http://arxiv.org/abs/2405.03189)|null|
 |**2024-05-05**|**Coherent Transfer of Lattice Entropy via Extreme Nonlinear Phononics in Metal Halide Perovskites**|Z. Liu et.al.|[2405.03071](http://arxiv.org/abs/2405.03071)|null|
-|**2024-05-03**|**Integrating Molecular Dynamics Simulations and Experimental Data for Azeotrope Predictions in Binary Mixtures**|Xiaoyu Wang et.al.|[2405.02216](http://arxiv.org/abs/2405.02216)|null|
+|**2024-05-03**|**Integrating Molecular Dynamics Simulations and Experimental Data for Azeotrope Predictions in Binary Mixtures**|Xiaoyu Wang et.al.|[2405.02216](http://arxiv.org/abs/2405.02216)|**[link](https://github.com/Xiaoyu-Wang-Stone/Azeotrope_S0)**|
 |**2024-05-06**|**FeNNol: an Efficient and Flexible Library for Building Force-field-enhanced Neural Network Potentials**|Thomas Plé et.al.|[2405.01491](http://arxiv.org/abs/2405.01491)|**[link](https://github.com/thomasple/FeNNol)**|
 |**2024-05-01**|**Molecular Insights into the Water Dissociation and Proton Dynamics at the $β$ -TaON (100)/Water Interface**|Sagarmoy Mandal et.al.|[2405.00851](http://arxiv.org/abs/2405.00851)|null|
 |**2024-05-01**|**HMAMP: Hypervolume-Driven Multi-Objective Antimicrobial Peptides Design**|Li Wang et.al.|[2405.00753](http://arxiv.org/abs/2405.00753)|null|
@@ -652,7 +652,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|null|
+|**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|**[link](https://github.com/christianinterno/autoflip)**|
 |**2024-05-16**|**Biasing & Debiasing based Approach Towards Fair Knowledge Transfer for Equitable Skin Analysis**|Anshul Pundhir et.al.|[2405.10256](http://arxiv.org/abs/2405.10256)|null|
 |**2024-05-15**|**Comparative Analysis of Predicting Subsequent Steps in Hénon Map**|Vismaya V S et.al.|[2405.10190](http://arxiv.org/abs/2405.10190)|null|
 |**2024-05-16**|**Deep Koopman Operator-Informed Safety Command Governor for Autonomous Vehicles**|Hao Chen et.al.|[2405.10145](http://arxiv.org/abs/2405.10145)|null|
@@ -660,7 +660,7 @@ layout: default
 |**2024-05-16**|**Revisiting Deep Audio-Text Retrieval Through the Lens of Transportation**|Manh Luong et.al.|[2405.10084](http://arxiv.org/abs/2405.10084)|**[link](https://github.com/v-manhlt3/m-ltm-audio-text-retrieval)**|
 |**2024-05-16**|**MrRegNet: Multi-resolution Mask Guided Convolutional Neural Network for Medical Image Registration with Large Deformations**|Ruizhe Li et.al.|[2405.10068](http://arxiv.org/abs/2405.10068)|null|
 |**2024-05-16**|**Solving the enigma: Deriving optimal explanations of deep networks**|Michail Mamalakis et.al.|[2405.10008](http://arxiv.org/abs/2405.10008)|null|
-|**2024-05-16**|**ROCOv2: Radiology Objects in COntext Version 2, an Updated Multimodal Image Dataset**|Johannes Rückert et.al.|[2405.10004](http://arxiv.org/abs/2405.10004)|null|
+|**2024-05-16**|**ROCOv2: Radiology Objects in COntext Version 2, an Updated Multimodal Image Dataset**|Johannes Rückert et.al.|[2405.10004](http://arxiv.org/abs/2405.10004)|**[link](https://gitlab.com/saviola/rocov2-code)**|
 |**2024-05-16**|**A Unified Deep Transfer Learning Model for Accurate IoT Localization in Diverse Environments**|Abdullahi Isa Ahmed et.al.|[2405.09960](http://arxiv.org/abs/2405.09960)|null|
 |**2024-05-16**|**Dual-band feature selection for maturity classification of specialty crops by hyperspectral imaging**|Usman A. Zahidi et.al.|[2405.09955](http://arxiv.org/abs/2405.09955)|null|
 |**2024-05-16**|**Stock Market Dynamics Through Deep Learning Context**|Amirhossein Aminimehr et.al.|[2405.09932](http://arxiv.org/abs/2405.09932)|null|
@@ -668,7 +668,7 @@ layout: default
 |**2024-05-16**|**Solar multi-object multi-frame blind deconvolution with a spatially variant convolution neural emulator**|A. Asensio Ramos et.al.|[2405.09864](http://arxiv.org/abs/2405.09864)|null|
 |**2024-05-16**|**Box-Free Model Watermarks Are Prone to Black-Box Removal Attacks**|Haonan An et.al.|[2405.09863](http://arxiv.org/abs/2405.09863)|null|
 |**2024-05-16**|**On the relevance of pre-neural approaches in natural language processing pedagogy**|Aditya Joshi et.al.|[2405.09854](http://arxiv.org/abs/2405.09854)|null|
-|**2024-05-16**|**Region of Interest Detection in Melanocytic Skin Tumor Whole Slide Images -- Nevus & Melanoma**|Yi Cui et.al.|[2405.09851](http://arxiv.org/abs/2405.09851)|null|
+|**2024-05-16**|**Region of Interest Detection in Melanocytic Skin Tumor Whole Slide Images -- Nevus & Melanoma**|Yi Cui et.al.|[2405.09851](http://arxiv.org/abs/2405.09851)|**[link](https://github.com/cymichael/roi_detection)**|
 |**2024-05-16**|**Parallel Backpropagation for Shared-Feature Visualization**|Alexander Lappe et.al.|[2405.09827](http://arxiv.org/abs/2405.09827)|null|
 |**2024-05-16**|**Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis**|Zeyi Zhang et.al.|[2405.09814](http://arxiv.org/abs/2405.09814)|null|
 |**2024-05-16**|**Analysis and Predictive Modeling of Solar Coronal Holes Using Computer Vision and LSTM Networks**|Juyoung Yun et.al.|[2405.09802](http://arxiv.org/abs/2405.09802)|null|
@@ -689,7 +689,7 @@ layout: default
 |**2024-05-15**|**DemOpts: Fairness corrections in COVID-19 case prediction models**|Naman Awasthi et.al.|[2405.09483](http://arxiv.org/abs/2405.09483)|null|
 |**2024-05-15**|**Non-contact Lung Disease Classification via OFDM-based Passive 6G ISAC Sensing**|Hasan Mujtaba Buttar et.al.|[2405.09458](http://arxiv.org/abs/2405.09458)|null|
 |**2024-05-15**|**Kuramoto Oscillators and Swarms on Manifolds for Geometry Informed Machine Learning**|Vladimir Jacimovic et.al.|[2405.09453](http://arxiv.org/abs/2405.09453)|null|
-|**2024-05-15**|**On identifying the non-linear dynamics of a hovercraft using an end-to-end deep learning approach**|Roland Schwan et.al.|[2405.09405](http://arxiv.org/abs/2405.09405)|null|
+|**2024-05-15**|**On identifying the non-linear dynamics of a hovercraft using an end-to-end deep learning approach**|Roland Schwan et.al.|[2405.09405](http://arxiv.org/abs/2405.09405)|**[link](https://github.com/predict-epfl/holohover-sysid)**|
 |**2024-05-15**|**SARATR-X: A Foundation Model for Synthetic Aperture Radar Images Target Recognition**|Weijie L et.al.|[2405.09365](http://arxiv.org/abs/2405.09365)|null|
 |**2024-05-15**|**Vision-Based Neurosurgical Guidance: Unsupervised Localization and Camera-Pose Prediction**|Gary Sarwin et.al.|[2405.09355](http://arxiv.org/abs/2405.09355)|null|
 |**2024-05-15**|**Themis: Automatic and Efficient Deep Learning System Testing with Strong Fault Detection Capability**|Tsz On Li et.al.|[2405.09314](http://arxiv.org/abs/2405.09314)|null|
@@ -697,18 +697,18 @@ layout: default
 |**2024-05-15**|**Deep Blur Multi-Model (DeepBlurMM) -- a strategy to mitigate the impact of image blur on deep learning model performance in histopathology image analysis**|Yujie Xiang et.al.|[2405.09298](http://arxiv.org/abs/2405.09298)|null|
 |**2024-05-15**|**Sensitivity Decouple Learning for Image Compression Artifacts Reduction**|Li Ma et.al.|[2405.09291](http://arxiv.org/abs/2405.09291)|null|
 |**2024-05-15**|**DeCoDEx: Confounder Detector Guidance for Improved Diffusion-based Counterfactual Explanations**|Nima Fathi et.al.|[2405.09288](http://arxiv.org/abs/2405.09288)|**[link](https://github.com/nimafathi/decodex)**|
-|**2024-05-15**|**NeuralCMS: A deep learning approach to study Jupiter's interior**|Maayan Ziv et.al.|[2405.09244](http://arxiv.org/abs/2405.09244)|null|
+|**2024-05-15**|**NeuralCMS: A deep learning approach to study Jupiter's interior**|Maayan Ziv et.al.|[2405.09244](http://arxiv.org/abs/2405.09244)|**[link](https://github.com/zivmaaya/NeuralCMS)**|
 |**2024-05-15**|**StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contract**|Zongwei Li et.al.|[2405.09181](http://arxiv.org/abs/2405.09181)|null|
 |**2024-05-15**|**Optimizing Sensor Network Design for Multiple Coverage**|Lukas Taus et.al.|[2405.09096](http://arxiv.org/abs/2405.09096)|null|
 |**2024-05-15**|**Deep Learning-Based CSI Feedback for XL-MIMO Systems in the Near-Field Domain**|Zhangjie Peng et.al.|[2405.09053](http://arxiv.org/abs/2405.09053)|null|
 |**2024-05-15**|**3D Shape Augmentation with Content-Aware Shape Resizing**|Mingxiang Chen et.al.|[2405.09050](http://arxiv.org/abs/2405.09050)|null|
 |**2024-05-15**|**Deep Learning in Earthquake Engineering: A Comprehensive Review**|Yazhou Xie et.al.|[2405.09021](http://arxiv.org/abs/2405.09021)|null|
-|**2024-05-14**|**drGAT: Attention-Guided Gene Assessment of Drug Response Utilizing a Drug-Cell-Gene Heterogeneous Network**|Yoshitaka Inoue et.al.|[2405.08979](http://arxiv.org/abs/2405.08979)|null|
+|**2024-05-14**|**drGAT: Attention-Guided Gene Assessment of Drug Response Utilizing a Drug-Cell-Gene Heterogeneous Network**|Yoshitaka Inoue et.al.|[2405.08979](http://arxiv.org/abs/2405.08979)|**[link](https://github.com/inoue0426/drGAT)**|
 |**2024-05-14**|**Bird's-Eye View to Street-View: A Survey**|Khawlah Bajbaa et.al.|[2405.08961](http://arxiv.org/abs/2405.08961)|null|
-|**2024-05-14**|**Self-supervised vision-langage alignment of deep learning representations for bone X-rays analysis**|Alexandre Englebert et.al.|[2405.08932](http://arxiv.org/abs/2405.08932)|null|
+|**2024-05-14**|**Self-supervised vision-langage alignment of deep learning representations for bone X-rays analysis**|Alexandre Englebert et.al.|[2405.08932](http://arxiv.org/abs/2405.08932)|**[link](https://github.com/aenglebert/ortho_vlp_eval)**|
 |**2024-05-16**|**Neural Collapse Meets Differential Privacy: Curious Behaviors of NoisyGD with Near-perfect Representation Learning**|Chendi Wang et.al.|[2405.08920](http://arxiv.org/abs/2405.08920)|null|
 |**2024-05-14**|**Preheating with deep learning**|Jong-Hyun Yoon et.al.|[2405.08901](http://arxiv.org/abs/2405.08901)|null|
-|**2024-05-14**|**The Pitfalls and Promise of Conformal Inference Under Adversarial Attacks**|Ziquan Liu et.al.|[2405.08886](http://arxiv.org/abs/2405.08886)|null|
+|**2024-05-14**|**The Pitfalls and Promise of Conformal Inference Under Adversarial Attacks**|Ziquan Liu et.al.|[2405.08886](http://arxiv.org/abs/2405.08886)|**[link](https://github.com/ziquanliu/ICML2024-AT-UR)**|
 |**2024-05-14**|**Automated Deep Learning for Load Forecasting**|Julie Keisler et.al.|[2405.08842](http://arxiv.org/abs/2405.08842)|null|
 |**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
 |**2024-05-14**|**The Developing Human Connectome Project: A Fast Deep Learning-based Pipeline for Neonatal Cortical Surface Reconstruction**|Qiang Ma et.al.|[2405.08783](http://arxiv.org/abs/2405.08783)|null|
@@ -2135,7 +2135,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-13**|**Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates**|Zhenqiao Song et.al.|[2405.08205](http://arxiv.org/abs/2405.08205)|null|
-|**2024-05-13**|**PLA-SGCN: Protein-Ligand Binding Affinity Prediction by Integrating Similar Pairs and Semi-supervised Graph Convolutional Network**|Karim Abbasi et.al.|[2405.07452](http://arxiv.org/abs/2405.07452)|null|
+|**2024-05-13**|**PLA-SGCN: Protein-Ligand Binding Affinity Prediction by Integrating Similar Pairs and Semi-supervised Graph Convolutional Network**|Karim Abbasi et.al.|[2405.07452](http://arxiv.org/abs/2405.07452)|**[link](https://github.com/bcb-sut/integrating-retrieved-similar-compound-protein-pairs-in-interaction-affinity-prediction-using-semi-s)**|
 |**2024-04-08**|**A unified cross-attention model for predicting antigen binding specificity to both HLA and TCR molecules**|Chenpeng Yu et.al.|[2405.06653](http://arxiv.org/abs/2405.06653)|null|
 |**2024-05-06**|**AntiFold: Improved antibody structure-based design using inverse folding**|Magnus Haraldson Høie et.al.|[2405.03370](http://arxiv.org/abs/2405.03370)|**[link](https://github.com/oxpig/antifold)**|
 |**2024-05-03**|**Protein binding affinity prediction under multiple substitutions applying eGNNs on Residue and Atomic graphs combined with Language model information: eGRAL**|Arturo Fiorellini-Bernardis et.al.|[2405.02374](http://arxiv.org/abs/2405.02374)|null|
