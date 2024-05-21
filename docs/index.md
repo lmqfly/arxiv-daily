@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -652,6 +652,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890](http://arxiv.org/abs/2405.10890)|null|
+|**2024-05-17**|**Application of Artificial Intelligence in Schizophrenia Rehabilitation Management: Systematic Literature Review**|Hongyi Yang et.al.|[2405.10883](http://arxiv.org/abs/2405.10883)|null|
+|**2024-05-17**|**WEITS: A Wavelet-enhanced residual framework for interpretable time series forecasting**|Ziyou Guo et.al.|[2405.10877](http://arxiv.org/abs/2405.10877)|null|
+|**2024-05-17**|**BraTS-Path Challenge: Assessing Heterogeneous Histopathologic Brain Tumor Sub-regions**|Spyridon Bakas et.al.|[2405.10871](http://arxiv.org/abs/2405.10871)|null|
+|**2024-05-17**|**Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation**|Yixing Huang et.al.|[2405.10870](http://arxiv.org/abs/2405.10870)|null|
+|**2024-05-17**|**Automated Radiology Report Generation: A Review of Recent Advances**|Phillip Sloan et.al.|[2405.10842](http://arxiv.org/abs/2405.10842)|null|
+|**2024-05-17**|**Automatic segmentation of Organs at Risk in Head and Neck cancer patients from CT and MRI scans**|Sébastien Quetin et.al.|[2405.10833](http://arxiv.org/abs/2405.10833)|null|
+|**2024-05-17**|**A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability**|Abdul Rehman et.al.|[2405.10803](http://arxiv.org/abs/2405.10803)|null|
+|**2024-05-17**|**Evaluating Saliency Explanations in NLP by Crowdsourcing**|Xiaotian Lu et.al.|[2405.10767](http://arxiv.org/abs/2405.10767)|**[link](https://github.com/xtlu/lreccoling_evaluation)**|
+|**2024-05-17**|**Deep Data Consistency: a Fast and Robust Diffusion Model-based Solver for Inverse Problems**|Hanyu Chen et.al.|[2405.10748](http://arxiv.org/abs/2405.10748)|**[link](https://github.com/hanyu-chen373/deepdataconsistency)**|
+|**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723](http://arxiv.org/abs/2405.10723)|null|
+|**2024-05-17**|**Identifying L-H transition in HL-2A through deep learning**|Meihuizi He et.al.|[2405.10676](http://arxiv.org/abs/2405.10676)|null|
+|**2024-05-17**|**ECATS: Explainable-by-design concept-based anomaly detection for time series**|Irene Ferfoglia et.al.|[2405.10608](http://arxiv.org/abs/2405.10608)|null|
+|**2024-05-17**|**A Hybrid Deep Learning Framework for Stock Price Prediction Considering the Investor Sentiment of Online Forum Enhanced by Popularity**|Huiyu Li et.al.|[2405.10584](http://arxiv.org/abs/2405.10584)|null|
+|**2024-05-17**|**Simultaneous Deep Learning of Myocardium Segmentation and T2 Quantification for Acute Myocardial Infarction MRI**|Yirong Zhou et.al.|[2405.10570](http://arxiv.org/abs/2405.10570)|null|
+|**2024-05-20**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561](http://arxiv.org/abs/2405.10561)|null|
+|**2024-05-17**|**Revealing the Trade-off in ISAC Systems: The KL Divergence Perspective**|Zesong Fei et.al.|[2405.10553](http://arxiv.org/abs/2405.10553)|null|
+|**2024-05-17**|**LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**|Tong Chen et.al.|[2405.10550](http://arxiv.org/abs/2405.10550)|**[link](https://github.com/davismeee/lightdiff)**|
+|**2024-05-17**|**Enhancing Perception Quality in Remote Sensing Image Compression via Invertible Neural Network**|Junhui Li et.al.|[2405.10518](http://arxiv.org/abs/2405.10518)|null|
+|**2024-05-17**|**Defect Category Prediction Based on Multi-Source Domain Adaptation**|Ying Xing et.al.|[2405.10511](http://arxiv.org/abs/2405.10511)|null|
+|**2024-05-17**|**A Deep Learning Approach to Heterogeneous Consumer Aesthetics in Retail Fashion**|Pranjal Rawat et.al.|[2405.10498](http://arxiv.org/abs/2405.10498)|null|
+|**2024-05-17**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492](http://arxiv.org/abs/2405.10492)|null|
+|**2024-05-16**|**Region-level labels in ice charts can produce pixel-level segmentation for Sea Ice types**|Muhammed Patel et.al.|[2405.10456](http://arxiv.org/abs/2405.10456)|null|
+|**2024-05-16**|**Data Selection for Transfer Unlearning**|Nazanin Mohammadi Sepahvand et.al.|[2405.10425](http://arxiv.org/abs/2405.10425)|null|
+|**2024-05-16**|**RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods**|Xin Qiao et.al.|[2405.10357](http://arxiv.org/abs/2405.10357)|null|
+|**2024-05-16**|**Networking Systems for Video Anomaly Detection: A Tutorial and Survey**|Jing Liu et.al.|[2405.10347](http://arxiv.org/abs/2405.10347)|**[link](https://github.com/fdjingliu/nsvad)**|
 |**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|**[link](https://github.com/christianinterno/autoflip)**|
 |**2024-05-16**|**Biasing & Debiasing based Approach Towards Fair Knowledge Transfer for Equitable Skin Analysis**|Anshul Pundhir et.al.|[2405.10256](http://arxiv.org/abs/2405.10256)|null|
 |**2024-05-15**|**Comparative Analysis of Predicting Subsequent Steps in Hénon Map**|Vismaya V S et.al.|[2405.10190](http://arxiv.org/abs/2405.10190)|null|
@@ -683,7 +709,7 @@ layout: default
 |**2024-05-15**|**Properties that allow or prohibit transferability of adversarial attacks among quantized networks**|Abhishek Shrestha et.al.|[2405.09598](http://arxiv.org/abs/2405.09598)|**[link](https://github.com/Abhishek2271/TransferabilityAnalysis)**|
 |**2024-05-15**|**Learning Generalized Medical Image Representations through Image-Graph Contrastive Pretraining**|Sameer Khanna et.al.|[2405.09594](http://arxiv.org/abs/2405.09594)|null|
 |**2024-05-15**|**Training Deep Learning Models with Hybrid Datasets for Robust Automatic Target Detection on real SAR images**|Benjamin Camus et.al.|[2405.09588](http://arxiv.org/abs/2405.09588)|null|
-|**2024-05-15**|**An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding**|Renqi Chen et.al.|[2405.09585](http://arxiv.org/abs/2405.09585)|**[link](https://github.com/RenqiChen/Genomic-Selection)**|
+|**2024-05-19**|**An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding**|Renqi Chen et.al.|[2405.09585](http://arxiv.org/abs/2405.09585)|**[link](https://github.com/RenqiChen/Genomic-Selection)**|
 |**2024-05-15**|**AD-Aligning: Emulating Human-like Generalization for Cognitive Domain Adaptation in Deep Learning**|Zhuoying Li et.al.|[2405.09582](http://arxiv.org/abs/2405.09582)|null|
 |**2024-05-14**|**JNEEG shield for Jetson Nano for real-time EEG signal processing with deep learning**|Ildar Rakhmatulin et.al.|[2405.09575](http://arxiv.org/abs/2405.09575)|null|
 |**2024-05-15**|**DemOpts: Fairness corrections in COVID-19 case prediction models**|Naman Awasthi et.al.|[2405.09483](http://arxiv.org/abs/2405.09483)|null|
@@ -2135,7 +2161,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-13**|**Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates**|Zhenqiao Song et.al.|[2405.08205](http://arxiv.org/abs/2405.08205)|null|
-|**2024-05-13**|**PLA-SGCN: Protein-Ligand Binding Affinity Prediction by Integrating Similar Pairs and Semi-supervised Graph Convolutional Network**|Karim Abbasi et.al.|[2405.07452](http://arxiv.org/abs/2405.07452)|**[link](https://github.com/bcb-sut/integrating-retrieved-similar-compound-protein-pairs-in-interaction-affinity-prediction-using-semi-s)**|
+|**2024-05-18**|**PLA-SGCN: Protein-Ligand Binding Affinity Prediction by Integrating Similar Pairs and Semi-supervised Graph Convolutional Network**|Karim Abbasi et.al.|[2405.07452](http://arxiv.org/abs/2405.07452)|**[link](https://github.com/bcb-sut/integrating-retrieved-similar-compound-protein-pairs-in-interaction-affinity-prediction-using-semi-s)**|
 |**2024-04-08**|**A unified cross-attention model for predicting antigen binding specificity to both HLA and TCR molecules**|Chenpeng Yu et.al.|[2405.06653](http://arxiv.org/abs/2405.06653)|null|
 |**2024-05-06**|**AntiFold: Improved antibody structure-based design using inverse folding**|Magnus Haraldson Høie et.al.|[2405.03370](http://arxiv.org/abs/2405.03370)|**[link](https://github.com/oxpig/antifold)**|
 |**2024-05-03**|**Protein binding affinity prediction under multiple substitutions applying eGNNs on Residue and Atomic graphs combined with Language model information: eGRAL**|Arturo Fiorellini-Bernardis et.al.|[2405.02374](http://arxiv.org/abs/2405.02374)|null|
@@ -2185,7 +2211,7 @@ layout: default
 |**2023-10-10**|**DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**|Bowen Gao et.al.|[2310.06367](http://arxiv.org/abs/2310.06367)|null|
 |**2024-03-28**|**Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design**|Hannes Stärk et.al.|[2310.05764](http://arxiv.org/abs/2310.05764)|**[link](https://github.com/hannesstark/flowsite)**|
 |**2024-02-11**|**PGraphDTA: Improving Drug Target Interaction Prediction using Protein Language Models and Contact Maps**|Rakesh Bal et.al.|[2310.04017](http://arxiv.org/abs/2310.04017)|**[link](https://github.com/yijia-xiao/pgraphdta)**|
-|**2024-02-12**|**Improved prediction of ligand-protein binding affinities by meta-modeling**|Ho-Joon Lee et.al.|[2310.03946](http://arxiv.org/abs/2310.03946)|**[link](https://github.com/lee1701/lee2023a)**|
+|**2024-05-18**|**Improved prediction of ligand-protein binding affinities by meta-modeling**|Ho-Joon Lee et.al.|[2310.03946](http://arxiv.org/abs/2310.03946)|**[link](https://github.com/lee1701/lee2023a)**|
 |**2024-04-07**|**TacoGFN: Target-conditioned GFlowNet for Structure-based Drug Design**|Tony Shen et.al.|[2310.03223](http://arxiv.org/abs/2310.03223)|**[link](https://github.com/tsa87/TacoGFN-SBDD)**|
 |**2023-10-03**|**Controlling the size and adhesion of DNA droplets using surface-active DNA molecules**|Daqian Gao et.al.|[2310.02425](http://arxiv.org/abs/2310.02425)|null|
 |**2023-12-18**|**PharmacoNet: Accelerating Large-Scale Virtual Screening by Deep Pharmacophore Modeling**|Seonghwan Seo et.al.|[2310.00681](http://arxiv.org/abs/2310.00681)|**[link](https://github.com/seonghwanseo/pharmaconet)**|
@@ -2285,7 +2311,7 @@ layout: default
 |**2023-11-13**|**Joint Group Invariant Functions on Data-Parameter Domain Induce Universal Neural Networks**|Sho Sonoda et.al.|[2310.03530](http://arxiv.org/abs/2310.03530)|null|
 |**2023-11-01**|**Differentiable Modeling and Optimization of Battery Electrolyte Mixtures Using Geometric Deep Learning**|Shang Zhu et.al.|[2310.03047](http://arxiv.org/abs/2310.03047)|null|
 |**2023-10-04**|**Graph Neural Networks and Time Series as Directed Graphs for Quality Recognition**|Angelica Simonetti et.al.|[2310.02774](http://arxiv.org/abs/2310.02774)|null|
-|**2023-09-15**|**Large Intestine 3D Shape Refinement Using Point Diffusion Models for Digital Phantom Generation**|Kaouther Mouheb et.al.|[2309.08289](http://arxiv.org/abs/2309.08289)|null|
+|**2024-05-20**|**Large Intestine 3D Shape Refinement Using Point Diffusion Models for Digital Phantom Generation**|Kaouther Mouheb et.al.|[2309.08289](http://arxiv.org/abs/2309.08289)|null|
 |**2023-09-11**|**Exploring Geometric Deep Learning For Precipitation Nowcasting**|Shan Zhao et.al.|[2309.05828](http://arxiv.org/abs/2309.05828)|null|
 |**2023-09-01**|**Geometric Deep Learning: a Temperature Based Analysis of Graph Neural Networks**|M. Lapenna et.al.|[2309.00699](http://arxiv.org/abs/2309.00699)|null|
 |**2023-08-30**|**SHARP Challenge 2023: Solving CAD History and pArameters Recovery from Point clouds and 3D scans. Overview, Datasets, Metrics, and Baselines**|Dimitrios Mallis et.al.|[2308.15966](http://arxiv.org/abs/2308.15966)|**[link](https://gitlab.uni.lu/cvi2/iccv2023-sharp-challenge)**|
