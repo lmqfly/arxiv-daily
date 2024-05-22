@@ -145,7 +145,7 @@
 |**2024-02-28**|**Hierarchical Multi-Relational Graph Representation Learning for Large-Scale Prediction of Drug-Drug Interactions**|Mengying Jiang et.al.|[2402.18127](http://arxiv.org/abs/2402.18127)|**[link](https://github.com/mengyingjiang/hmgrl)**|
 |**2024-02-21**|**Contextual Molecule Representation Learning from Chemical Reaction Knowledge**|Han Tang et.al.|[2402.13779](http://arxiv.org/abs/2402.13779)|null|
 |**2024-05-21**|**Advanced Drug Interaction Event Prediction**|Yingying Wang et.al.|[2402.11472](http://arxiv.org/abs/2402.11472)|null|
-|**2024-05-21**|**Can Large Language Models Understand Molecules?**|Shaghayegh Sadeghi et.al.|[2402.00024](http://arxiv.org/abs/2402.00024)|**[link](https://github.com/sshaghayeghs/llama-vs-chatgpt)**|
+|**2024-05-21**|**Can Large Language Models Understand Molecules?**|Shaghayegh Sadeghi et.al.|[2402.00024](http://arxiv.org/abs/2402.00024)|**[link](https://github.com/sshaghayeghs/llama-vs-gpt)**|
 |**2023-12-09**|**ALGNet: Attention Light Graph Memory Network for Medical Recommendation System**|Minh-Van Nguyen et.al.|[2312.08377](http://arxiv.org/abs/2312.08377)|**[link](https://github.com/tivivui95/algnet)**|
 |**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
 |**2024-03-19**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
@@ -383,6 +383,7 @@
 |**2024-04-25**|**ChemLLM: A Chemical Large Language Model**|Di Zhang et.al.|[2402.06852](http://arxiv.org/abs/2402.06852)|null|
 |**2024-02-07**|**Triplet Interaction Improves Graph Transformers: Accurate Molecular Graph Learning with Triplet Graph Transformers**|Md Shamim Hussain et.al.|[2402.04538](http://arxiv.org/abs/2402.04538)|**[link](https://github.com/shamim-hussain/tgt)**|
 |**2024-02-03**|**Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks**|Duy M. H. Nguyen et.al.|[2402.01975](http://arxiv.org/abs/2402.01975)|null|
+|**2024-05-21**|**Can Large Language Models Understand Molecules?**|Shaghayegh Sadeghi et.al.|[2402.00024](http://arxiv.org/abs/2402.00024)|**[link](https://github.com/sshaghayeghs/llama-vs-gpt)**|
 |**2024-02-02**|**Graph Multi-Similarity Learning for Molecular Property Prediction**|Hao Xu et.al.|[2401.17615](http://arxiv.org/abs/2401.17615)|null|
 |**2024-01-30**|**MolPLA: A Molecular Pretraining Framework for Learning Cores, R-Groups and their Linker Joints**|Mogan Gim et.al.|[2401.16771](http://arxiv.org/abs/2401.16771)|**[link](https://github.com/dmis-lab/molpla)**|
 |**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299](http://arxiv.org/abs/2401.16299)|**[link](https://github.com/vishaldeyiiest/graphta)**|
@@ -673,6 +674,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**Accelerating Resonance Searches via Signature-Oriented Pre-training**|Congqiao Li et.al.|[2405.12972](http://arxiv.org/abs/2405.12972)|null|
+|**2024-05-21**|**Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma**|Ahmed Gomaa et.al.|[2405.12963](http://arxiv.org/abs/2405.12963)|null|
+|**2024-05-17**|**Enhancing the analysis of murine neonatal ultrasonic vocalizations: Development, evaluation, and application of different mathematical models**|Rudolf Herdt et.al.|[2405.12957](http://arxiv.org/abs/2405.12957)|null|
+|**2024-05-21**|**Pytorch-Wildlife: A Collaborative Deep Learning Framework for Conservation**|Andres Hernandez et.al.|[2405.12930](http://arxiv.org/abs/2405.12930)|**[link](https://github.com/microsoft/cameratraps)**|
+|**2024-05-21**|**A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability**|Li-Yang Tseng et.al.|[2405.12847](http://arxiv.org/abs/2405.12847)|null|
+|**2024-05-21**|**SmartFlow: Robotic Process Automation using LLMs**|Arushi Jain et.al.|[2405.12842](http://arxiv.org/abs/2405.12842)|null|
+|**2024-05-21**|**A Survey of Deep Learning-based Radiology Report Generation Using Multimodal Data**|Xinyi Wang et.al.|[2405.12833](http://arxiv.org/abs/2405.12833)|null|
+|**2024-05-21**|**Deep LPPLS: Forecasting of temporal critical points in natural, engineering and financial systems**|Joshua Nielsen et.al.|[2405.12803](http://arxiv.org/abs/2405.12803)|null|
+|**2024-05-21**|**Artificial Intelligence Approaches for Predictive Maintenance in the Steel Industry: A Survey**|Jakub Jakubowski et.al.|[2405.12785](http://arxiv.org/abs/2405.12785)|null|
+|**2024-05-21**|**Blind Separation of Vibration Sources using Deep Learning and Deconvolution**|Igor Makienko et.al.|[2405.12774](http://arxiv.org/abs/2405.12774)|null|
+|**2024-05-21**|**Neural Operator for Accelerating Coronal Magnetic Field Model**|Yutao Du et.al.|[2405.12754](http://arxiv.org/abs/2405.12754)|null|
+|**2024-05-21**|**StarLKNet: Star Mixup with Large Kernel Networks for Palm Vein Identification**|Xin Jin et.al.|[2405.12721](http://arxiv.org/abs/2405.12721)|null|
+|**2024-05-21**|**A Multimodal Learning-based Approach for Autonomous Landing of UAV**|Francisco Neves et.al.|[2405.12681](http://arxiv.org/abs/2405.12681)|null|
+|**2024-05-21**|**Automating Attendance Management in Human Resources: A Design Science Approach Using Computer Vision and Facial Recognition**|Bao-Thien Nguyen-Tat et.al.|[2405.12633](http://arxiv.org/abs/2405.12633)|null|
+|**2024-05-21**|**Is Dataset Quality Still a Concern in Diagnosis Using Large Foundation Model?**|Ziqin Lin et.al.|[2405.12584](http://arxiv.org/abs/2405.12584)|null|
+|**2024-05-21**|**TypeII-CsiNet: CSI Feedback with TypeII Codebook**|Yiliang Sang et.al.|[2405.12569](http://arxiv.org/abs/2405.12569)|null|
+|**2024-05-21**|**Unleash Graph Neural Networks from Heavy Tuning**|Lequan Lin et.al.|[2405.12521](http://arxiv.org/abs/2405.12521)|null|
+|**2024-05-21**|**EntropyStop: Unsupervised Deep Outlier Detection with Loss Entropy**|Yihong Huang et.al.|[2405.12502](http://arxiv.org/abs/2405.12502)|null|
+|**2024-05-21**|**Bridging the Gap Between Domain-specific Frameworks and Multiple Hardware Devices**|Xu Wen et.al.|[2405.12491](http://arxiv.org/abs/2405.12491)|null|
+|**2024-05-21**|**Efficient Economic Model Predictive Control of Water Treatment Process with Learning-based Koopman Operator**|Minghao Han et.al.|[2405.12478](http://arxiv.org/abs/2405.12478)|null|
+|**2024-05-21**|**Deep learning approaches to indoor wireless channel estimation for low-power communication**|Samrah Arif et.al.|[2405.12427](http://arxiv.org/abs/2405.12427)|null|
+|**2024-05-20**|**Vulnerability Detection with Deep Learning**|Zhen Huang et.al.|[2405.12384](http://arxiv.org/abs/2405.12384)|null|
+|**2024-05-20**|**Spatio-temporal Attention-based Hidden Physics-informed Neural Network for Remaining Useful Life Prediction**|Feilong Jiang et.al.|[2405.12377](http://arxiv.org/abs/2405.12377)|null|
+|**2024-05-20**|**Large-Scale Multi-Center CT and MRI Segmentation of Pancreas with Deep Learning**|Zheyuan Zhang et.al.|[2405.12367](http://arxiv.org/abs/2405.12367)|**[link](https://github.com/nubagcilab/pansegnet)**|
+|**2024-05-20**|**Deep learning-based hyperspectral image reconstruction for quality assessment of agro-product**|Md. Toukir Ahmed et.al.|[2405.12313](http://arxiv.org/abs/2405.12313)|null|
 |**2024-05-20**|**Modeling citation worthiness by using attention-based bidirectional long short-term memory networks and interpretable models**|Tong Zeng et.al.|[2405.12206](http://arxiv.org/abs/2405.12206)|**[link](https://github.com/sciosci/cite-worthiness)**|
 |**2024-05-20**|**Alzheimer's Magnetic Resonance Imaging Classification Using Deep and Meta-Learning Models**|Nida Nasir et.al.|[2405.12126](http://arxiv.org/abs/2405.12126)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/abs/2405.12120)|null|
@@ -682,7 +708,7 @@
 |**2024-05-20**|**A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation**|Sushmita Sarker et.al.|[2405.11903](http://arxiv.org/abs/2405.11903)|null|
 |**2024-05-20**|**Towards Graph Contrastive Learning: A Survey and Beyond**|Wei Ju et.al.|[2405.11868](http://arxiv.org/abs/2405.11868)|null|
 |**2024-05-20**|**EPPS: Advanced Polyp Segmentation via Edge Information Injection and Selective Feature Decoupling**|Mengqi Lei et.al.|[2405.11846](http://arxiv.org/abs/2405.11846)|**[link](https://github.com/mengqi-lei/edge-prioritized-polyp-segmentation)**|
-|**2024-05-20**|**SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model**|Siavash Shams et.al.|[2405.11831](http://arxiv.org/abs/2405.11831)|null|
+|**2024-05-20**|**SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model**|Siavash Shams et.al.|[2405.11831](http://arxiv.org/abs/2405.11831)|**[link](https://github.com/siavashshams/ssamba)**|
 |**2024-05-20**|**A Three-Phase Analysis of Synergistic Effects During Co-pyrolysis of Algae and Wood for Biochar Yield Using Machine Learning**|Subhadeep Chakrabarti et.al.|[2405.11821](http://arxiv.org/abs/2405.11821)|null|
 |**2024-05-20**|**Transfer Learning for CSI-based Positioning with Multi-environment Meta-learning**|Anastasios Foliadis et.al.|[2405.11816](http://arxiv.org/abs/2405.11816)|null|
 |**2024-05-20**|**LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering**|Li Sun et.al.|[2405.11801](http://arxiv.org/abs/2405.11801)|null|
@@ -2442,7 +2468,7 @@
 |**2024-04-02**|**MAgNET: A Graph U-Net Architecture for Mesh-Based Simulations**|Saurabh Deshpande et.al.|[2211.00713](http://arxiv.org/abs/2211.00713)|**[link](https://github.com/saurabhdeshpande93/magnet)**|
 |**2023-03-02**|**Interpretable Geometric Deep Learning via Learnable Randomness Injection**|Siqi Miao et.al.|[2210.16966](http://arxiv.org/abs/2210.16966)|**[link](https://github.com/graph-com/lri)**|
 |**2022-10-29**|**A Comparative Study of Graph Neural Networks for Shape Classification in Neuroimaging**|Nairouz Shehata et.al.|[2210.16670](http://arxiv.org/abs/2210.16670)|**[link](https://github.com/biomedia-mira/medmesh)**|
-|**2023-08-16**|**ViSNet: an equivariant geometry-enhanced graph neural network with vector-scalar interactive message passing for molecules**|Yusong Wang et.al.|[2210.16518](http://arxiv.org/abs/2210.16518)|null|
+|**2023-08-16**|**ViSNet: an equivariant geometry-enhanced graph neural network with vector-scalar interactive message passing for molecules**|Yusong Wang et.al.|[2210.16518](http://arxiv.org/abs/2210.16518)|**[link](https://github.com/microsoft/AI2BMD)**|
 |**2022-10-19**|**Structure-based drug design with geometric deep learning**|Clemens Isert et.al.|[2210.11250](http://arxiv.org/abs/2210.11250)|null|
 |**2022-10-19**|**Geometric Deep Learning for the Assessment of Thrombosis Risk in the Left Atrial Appendage**|Xabier Morales et.al.|[2210.10563](http://arxiv.org/abs/2210.10563)|null|
 |**2022-11-11**|**Anisotropic Multi-Scale Graph Convolutional Network for Dense Shape Correspondence**|Mohammad Farazi et.al.|[2210.09466](http://arxiv.org/abs/2210.09466)|null|
