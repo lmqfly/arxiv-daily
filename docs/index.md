@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.24
+## Updated on 2024.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -716,7 +716,7 @@ layout: default
 |**2024-05-22**|**Multi-Dataset Multi-Task Learning for COVID-19 Prognosis**|Filippo Ruffini et.al.|[2405.13771](http://arxiv.org/abs/2405.13771)|null|
 |**2024-05-22**|**A label-free and data-free training strategy for vasculature segmentation in serial sectioning OCT data**|Etienne Chollet et.al.|[2405.13757](http://arxiv.org/abs/2405.13757)|null|
 |**2024-05-22**|**A Deep Learning Approach to Multi-Fiber Parameter Estimation and Uncertainty Quantification in Diffusion MRI**|William Consagra et.al.|[2405.13655](http://arxiv.org/abs/2405.13655)|null|
-|**2024-05-22**|**Identifying type II quasars at intermediate redshift with few-shot learning photometric classification**|P. A. C. Cunha et.al.|[2405.13650](http://arxiv.org/abs/2405.13650)|null|
+|**2024-05-22**|**Identifying type II quasars at intermediate redshift with few-shot learning photometric classification**|P. A. C. Cunha et.al.|[2405.13650](http://arxiv.org/abs/2405.13650)|**[link](https://github.com/pedro-acunha/AMELIA)**|
 |**2024-05-22**|**A Transformer variant for multi-step forecasting of water level and hydrometeorological sensitivity analysis based on explainable artificial intelligence technology**|Mingyu Liu et.al.|[2405.13646](http://arxiv.org/abs/2405.13646)|null|
 |**2024-05-22**|**LogRCA: Log-based Root Cause Analysis for Distributed Services**|Thorsten Wittkopp et.al.|[2405.13599](http://arxiv.org/abs/2405.13599)|null|
 |**2024-05-22**|**Bond Graphs for multi-physics informed Neural Networks for multi-variate time series**|Alexis-Raja Brachet et.al.|[2405.13586](http://arxiv.org/abs/2405.13586)|null|
