@@ -367,6 +367,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Knowledge-enhanced Relation Graph and Task Sampling for Few-shot Molecular Property Prediction**|Zeyu Wang et.al.|[2405.15544](http://arxiv.org/abs/2405.15544)|**[link](https://github.com/Vencent-Won/KRGTS-public)**|
+|**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429](http://arxiv.org/abs/2405.15429)|null|
 |**2024-05-23**|**GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**|Thao Nguyen et.al.|[2405.14203](http://arxiv.org/abs/2405.14203)|null|
 |**2024-05-08**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205](http://arxiv.org/abs/2405.05205)|null|
 |**2024-05-05**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|null|
@@ -680,6 +682,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Anomalous Change Point Detection Using Probabilistic Predictive Coding**|Roelof G. Hup et.al.|[2405.15727](http://arxiv.org/abs/2405.15727)|null|
+|**2024-05-24**|**Information-theoretic Generalization Analysis for Expected Calibration Error**|Futoshi Futami et.al.|[2405.15709](http://arxiv.org/abs/2405.15709)|null|
+|**2024-05-24**|**Sums: Sniffing Unknown Multiband Signals under Low Sampling Rates**|Jinbo Peng et.al.|[2405.15705](http://arxiv.org/abs/2405.15705)|null|
+|**2024-05-24**|**The Road Less Scheduled**|Aaron Defazio et.al.|[2405.15682](http://arxiv.org/abs/2405.15682)|**[link](https://github.com/facebookresearch/schedule_free)**|
+|**2024-05-24**|**Exposing Image Classifier Shortcuts with Counterfactual Frequency (CoF) Tables**|James Hinns et.al.|[2405.15661](http://arxiv.org/abs/2405.15661)|null|
+|**2024-05-24**|**HiddenSpeaker: Generate Imperceptible Unlearnable Audios for Speaker Verification System**|Zhisheng Zhang et.al.|[2405.15655](http://arxiv.org/abs/2405.15655)|null|
+|**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632](http://arxiv.org/abs/2405.15632)|null|
+|**2024-05-24**|**Kronecker-Factored Approximate Curvature for Physics-Informed Neural Networks**|Felix Dangel et.al.|[2405.15603](http://arxiv.org/abs/2405.15603)|null|
+|**2024-05-24**|**MCDFN: Supply Chain Demand Forecasting via an Explainable Multi-Channel Data Fusion Network Model Integrating CNN, LSTM, and GRU**|Md Abrar Jahin et.al.|[2405.15598](http://arxiv.org/abs/2405.15598)|null|
+|**2024-05-24**|**Generating density nowcasts for U.S. GDP growth with deep learning: Bayes by Backprop and Monte Carlo dropout**|Kristóf Németh et.al.|[2405.15579](http://arxiv.org/abs/2405.15579)|null|
+|**2024-05-24**|**Exploring galactic properties with machine learning Predicting star formation, stellar mass, and metallicity from photometric data**|F. Z. Zeraatgari et.al.|[2405.15566](http://arxiv.org/abs/2405.15566)|null|
+|**2024-05-24**|**Heterogeneous virus classification using a functional deep learning model based on transmission electron microscopy images (Preprint)**|Niloy Sikder et.al.|[2405.15563](http://arxiv.org/abs/2405.15563)|null|
+|**2024-05-24**|**Learning from Linear Algebra: A Graph Neural Network Approach to Preconditioner Design for Conjugate Gradient Solvers**|Vladislav Trifonov et.al.|[2405.15557](http://arxiv.org/abs/2405.15557)|null|
+|**2024-05-24**|**SATSense: Multi-Satellite Collaborative Framework for Spectrum Sensing**|Haoxuan Yuan et.al.|[2405.15542](http://arxiv.org/abs/2405.15542)|null|
+|**2024-05-24**|**MagicBathyNet: A Multimodal Remote Sensing Dataset for Bathymetry Prediction and Pixel-based Classification in Shallow Waters**|Panagiotis Agrafiotis et.al.|[2405.15477](http://arxiv.org/abs/2405.15477)|null|
+|**2024-05-24**|**PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis**|Zicheng Wang et.al.|[2405.15463](http://arxiv.org/abs/2405.15463)|**[link](https://github.com/xiaoyao3302/pointramba)**|
+|**2024-05-24**|**Towards Precision Healthcare: Robust Fusion of Time Series and Image Data**|Ali Rasekh et.al.|[2405.15442](http://arxiv.org/abs/2405.15442)|null|
+|**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429](http://arxiv.org/abs/2405.15429)|null|
+|**2024-05-24**|**AuthNet: Neural Network with Integrated Authentication Logic**|Yuling Cai et.al.|[2405.15426](http://arxiv.org/abs/2405.15426)|null|
+|**2024-05-24**|**Transformer-based Federated Learning for Multi-Label Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2405.15405](http://arxiv.org/abs/2405.15405)|null|
+|**2024-05-24**|**Stochastic SR for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399](http://arxiv.org/abs/2405.15399)|null|
+|**2024-05-24**|**Tensor Frames -- How To Make Any Message Passing Network Equivariant**|Peter Lippmann et.al.|[2405.15389](http://arxiv.org/abs/2405.15389)|null|
+|**2024-05-24**|**Full-stack evaluation of Machine Learning inference workloads for RISC-V systems**|Debjyoti Bhattacharjee et.al.|[2405.15380](http://arxiv.org/abs/2405.15380)|null|
+|**2024-05-24**|**Autonomous Quilt Spreading for Caregiving Robots**|Yuchun Guo et.al.|[2405.15373](http://arxiv.org/abs/2405.15373)|null|
+|**2024-05-24**|**Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection**|Jun Liu et.al.|[2405.15370](http://arxiv.org/abs/2405.15370)|null|
+|**2024-05-24**|**Organic Data-Driven Approach for Turkish Grammatical Error Correction and LLMs**|Asım Ersoy et.al.|[2405.15320](http://arxiv.org/abs/2405.15320)|**[link](https://github.com/asimokby/turkish-gec)**|
+|**2024-05-24**|**NMGrad: Advancing Histopathological Bladder Cancer Grading with Weakly Supervised Deep Learning**|Saul Fuster et.al.|[2405.15275](http://arxiv.org/abs/2405.15275)|**[link](https://github.com/biomedical-data-analysis-laboratory/grademil)**|
+|**2024-05-24**|**Conditional Variational Auto Encoder Based Dynamic Motion for Multi-task Imitation Learning**|Binzhao Xu et.al.|[2405.15266](http://arxiv.org/abs/2405.15266)|null|
+|**2024-05-24**|**Self-Contrastive Weakly Supervised Learning Framework for Prognostic Prediction Using Whole Slide Images**|Saul Fuster et.al.|[2405.15264](http://arxiv.org/abs/2405.15264)|**[link](https://github.com/biomedical-data-analysis-laboratory/histoprognostics)**|
+|**2024-05-24**|**FTMixer: Frequency and Time Domain Representations Fusion for Time Series Modeling**|Zhengnan Li et.al.|[2405.15256](http://arxiv.org/abs/2405.15256)|null|
+|**2024-05-24**|**Adversarial Attacks on Hidden Tasks in Multi-Task Learning**|Yu Zhe et.al.|[2405.15244](http://arxiv.org/abs/2405.15244)|null|
+|**2024-05-24**|**Scaling Law for Time Series Forecasting**|Jingzhe Shi et.al.|[2405.15124](http://arxiv.org/abs/2405.15124)|**[link](https://github.com/jingzheshi/scalinglawfortimeseriesforecasting)**|
+|**2024-05-23**|**Magnetic Resonance Image Processing Transformer for General Reconstruction**|Guoyao Shen et.al.|[2405.15098](http://arxiv.org/abs/2405.15098)|null|
+|**2024-05-23**|**A Survey of Distributed Learning in Cloud, Mobile, and Edge Settings**|Madison Threadgill et.al.|[2405.15079](http://arxiv.org/abs/2405.15079)|null|
+|**2024-05-23**|**Temporal Stamp Classifier: Classifying Short Sequences of Astronomical Alerts**|Daniel Neira O. et.al.|[2405.15073](http://arxiv.org/abs/2405.15073)|null|
+|**2024-05-23**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|null|
+|**2024-05-23**|**A Lost Opportunity for Vision-Language Models: A Comparative Study of Online Test-time Adaptation for Vision-Language Models**|Mario Döbler et.al.|[2405.14977](http://arxiv.org/abs/2405.14977)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
+|**2024-05-23**|**Two-Stage ML-Guided Decision Rules for Sequential Decision Making under Uncertainty**|Andrew Rosemberg et.al.|[2405.14973](http://arxiv.org/abs/2405.14973)|null|
+|**2024-05-23**|**Universal Robustness via Median Randomized Smoothing for Real-World Super-Resolution**|Zakariya Chaouai et.al.|[2405.14934](http://arxiv.org/abs/2405.14934)|null|
 |**2024-05-23**|**Analysis of Atom-level pretraining with QM data for Graph Neural Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837](http://arxiv.org/abs/2405.14837)|null|
 |**2024-05-23**|**Deep learning lattice gauge theories**|Anuj Apte et.al.|[2405.14830](http://arxiv.org/abs/2405.14830)|null|
 |**2024-05-23**|**Scalable Optimization in the Modular Norm**|Tim Large et.al.|[2405.14813](http://arxiv.org/abs/2405.14813)|**[link](https://github.com/jxbz/modula)**|
@@ -2346,6 +2387,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Compound Mutations in the Abl1 Kinase Cause Inhibitor Resistance by Shifting DFG Flip Mechanisms and Relative State Populations**|Gabriel Monteiro da Silva et.al.|[2405.14968](http://arxiv.org/abs/2405.14968)|null|
+|**2024-05-23**|**PILOT: Equivariant diffusion for pocket conditioned de novo ligand generation with multi-objective guidance via importance sampling**|Julian Cremer et.al.|[2405.14925](http://arxiv.org/abs/2405.14925)|null|
 |**2024-05-20**|**Guided Multi-objective Generative AI to Enhance Structure-based Drug Design**|Amit Kadan et.al.|[2405.11785](http://arxiv.org/abs/2405.11785)|null|
 |**2024-05-19**|**Competitive ligand binding kinetics to linear polymers**|Juan P. G. Villaluenga et.al.|[2405.11631](http://arxiv.org/abs/2405.11631)|null|
 |**2024-05-13**|**Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates**|Zhenqiao Song et.al.|[2405.08205](http://arxiv.org/abs/2405.08205)|null|
@@ -2470,6 +2513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Tensor Frames -- How To Make Any Message Passing Network Equivariant**|Peter Lippmann et.al.|[2405.15389](http://arxiv.org/abs/2405.15389)|null|
+|**2024-05-23**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|null|
 |**2024-05-15**|**Kuramoto Oscillators and Swarms on Manifolds for Geometry Informed Machine Learning**|Vladimir Jacimovic et.al.|[2405.09453](http://arxiv.org/abs/2405.09453)|null|
 |**2024-05-07**|**Predicting Transonic Flowfields in Non-Homogeneous Unstructured Grids Using Autoencoder Graph Convolutional Networks**|Gabriele Immordino et.al.|[2405.04396](http://arxiv.org/abs/2405.04396)|null|
 |**2024-04-05**|**Lightweight Geometric Deep Learning for Molecular Modelling in Catalyst Discovery**|Patrick Geitner et.al.|[2404.10003](http://arxiv.org/abs/2404.10003)|null|
