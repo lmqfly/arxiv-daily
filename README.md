@@ -491,6 +491,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**The influence of solvent on surface adsorption and desorption**|Ardavan Farahvash et.al.|[2405.18263](http://arxiv.org/abs/2405.18263)|null|
+|**2024-05-28**|**Bulk viscosity of the rigid rotor one-component plasma**|Jarett LeVan et.al.|[2405.18175](http://arxiv.org/abs/2405.18175)|null|
+|**2024-05-28**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
+|**2024-05-28**|**Water at negative pressure: Nuclear quantum effects**|Carlos P. Herrero et.al.|[2405.18053](http://arxiv.org/abs/2405.18053)|null|
+|**2024-05-28**|**Molecular Structure and Rotational Dynamics in the Acetonitrile:Acetylene (1:2) Plastic Co-Crystal at Titan Conditions**|Atul C. Thakur et.al.|[2405.17751](http://arxiv.org/abs/2405.17751)|null|
 |**2024-05-26**|**Accurate and Fast Estimation of the Continuum Limit in Path Integral Simulations of Quantum Oscillators and Crystals**|Sabry G Moustafa et.al.|[2405.16717](http://arxiv.org/abs/2405.16717)|null|
 |**2024-05-23**|**The interplay between liquid-liquid and ferroelectric phase transitions in supercooled water**|Maria Grazia Izzo et.al.|[2405.14424](http://arxiv.org/abs/2405.14424)|null|
 |**2024-05-22**|**Nuclear quantum effects in structural and elastic properties of cubic silicon carbide**|Carlos P. Herrero et.al.|[2405.13733](http://arxiv.org/abs/2405.13733)|null|
@@ -685,6 +690,44 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Evaluating Bayesian deep learning for radio galaxy classification**|Devina Mohan et.al.|[2405.18351](http://arxiv.org/abs/2405.18351)|null|
+|**2024-05-28**|**Dataset Growth**|Ziheng Qin et.al.|[2405.18347](http://arxiv.org/abs/2405.18347)|null|
+|**2024-05-28**|**Histopathology Based AI Model Predicts Anti-Angiogenic Therapy Response in Renal Cancer Clinical Trial**|Jay Jasti et.al.|[2405.18327](http://arxiv.org/abs/2405.18327)|null|
+|**2024-05-28**|**Hybrid Multi-Head Physics-informed Neural Network for Depth Estimation in Terahertz Imaging**|Mingjun Xiang et.al.|[2405.18317](http://arxiv.org/abs/2405.18317)|null|
+|**2024-05-28**|**Deep Learning Innovations for Underwater Waste Detection: An In-Depth Analysis**|Jaskaran Singh Walia et.al.|[2405.18299](http://arxiv.org/abs/2405.18299)|null|
+|**2024-05-28**|**MODL: Multilearner Online Deep Learning**|Antonios Valkanas et.al.|[2405.18281](http://arxiv.org/abs/2405.18281)|null|
+|**2024-05-28**|**SubDLe: identification of substructures in cosmological simulations with deep learning**|Michela Esposito et.al.|[2405.18257](http://arxiv.org/abs/2405.18257)|null|
+|**2024-05-28**|**Understanding Inter-Concept Relationships in Concept-Based Models**|Naveen Raman et.al.|[2405.18217](http://arxiv.org/abs/2405.18217)|null|
+|**2024-05-28**|**Delving into Differentially Private Transformer**|Youlong Ding et.al.|[2405.18194](http://arxiv.org/abs/2405.18194)|null|
+|**2024-05-28**|**Unlocking Futures: A Natural Language Driven Career Prediction System for Computer Science and Software Engineering Students**|Sakir Hossain Faruque et.al.|[2405.18139](http://arxiv.org/abs/2405.18139)|**[link](https://github.com/sakir101/career-prediction-main)**|
+|**2024-05-28**|**Low-Resource Crop Classification from Multi-Spectral Time Series Using Lossless Compressors**|Wei Cheng et.al.|[2405.18119](http://arxiv.org/abs/2405.18119)|**[link](https://github.com/qinfengsama/compressor-based-crop-mapping)**|
+|**2024-05-28**|**An Empirical Analysis of Forgetting in Pre-trained Models with Incremental Low-Rank Updates**|Albin Soutif--Cormerais et.al.|[2405.18069](http://arxiv.org/abs/2405.18069)|null|
+|**2024-05-28**|**PRFashion24: A Dataset for Sentiment Analysis of Fashion Products Reviews in Persian**|Mehrimah Amirpour et.al.|[2405.18060](http://arxiv.org/abs/2405.18060)|null|
+|**2024-05-28**|**ForecastGrapher: Redefining Multivariate Time Series Forecasting with Graph Neural Networks**|Wanlin Cai et.al.|[2405.18036](http://arxiv.org/abs/2405.18036)|null|
+|**2024-05-28**|**MULi-Ev: Maintaining Unperturbed LiDAR-Event Calibration**|Mathieu Cocheteux et.al.|[2405.18021](http://arxiv.org/abs/2405.18021)|null|
+|**2024-05-28**|**SkinCAP: A Multi-modal Dermatology Dataset Annotated with Rich Medical Captions**|Juexiao Zhou et.al.|[2405.18004](http://arxiv.org/abs/2405.18004)|null|
+|**2024-05-28**|**Transformer and Hybrid Deep Learning Based Models for Machine-Generated Text Detection**|Teodor-George Marchitan et.al.|[2405.17964](http://arxiv.org/abs/2405.17964)|null|
+|**2024-05-28**|**RC-Mixup: A Data Augmentation Strategy against Noisy Data for Regression Tasks**|Seong-Hyeon Hwang et.al.|[2405.17938](http://arxiv.org/abs/2405.17938)|null|
+|**2024-05-28**|**SarcNet: A Novel AI-based Framework to Automatically Analyze and Score Sarcomere Organizations in Fluorescently Tagged hiPSC-CMs**|Huyen Le et.al.|[2405.17926](http://arxiv.org/abs/2405.17926)|**[link](https://github.com/vinuni-vishc/sarcnet)**|
+|**2024-05-28**|**Deep learning inference of the neutron star equation of state**|Giulia Ventagli et.al.|[2405.17908](http://arxiv.org/abs/2405.17908)|null|
+|**2024-05-28**|**Towards robust prediction of material properties for nuclear reactor design under scarce data -- a study in creep rupture property**|Yu Chen et.al.|[2405.17862](http://arxiv.org/abs/2405.17862)|null|
+|**2024-05-28**|**The Impacts of Data, Ordering, and Intrinsic Dimensionality on Recall in Hierarchical Navigable Small Worlds**|Owen Pendrigh Elliott et.al.|[2405.17813](http://arxiv.org/abs/2405.17813)|null|
+|**2024-05-28**|**The Binary Quantized Neural Network for Dense Prediction via Specially Designed Upsampling and Attention**|Xingyu Ding et.al.|[2405.17776](http://arxiv.org/abs/2405.17776)|null|
+|**2024-05-28**|**PTM-VQA: Efficient Video Quality Assessment Leveraging Diverse PreTrained Models from the Wild**|Kun Yuan et.al.|[2405.17765](http://arxiv.org/abs/2405.17765)|null|
+|**2024-05-28**|**Motion-Informed Deep Learning for Brain MR Image Reconstruction Framework**|Zhifeng Chen et.al.|[2405.17756](http://arxiv.org/abs/2405.17756)|null|
+|**2024-05-27**|**BaboonLand Dataset: Tracking Primates in the Wild and Automating Behaviour Recognition from Drone Videos**|Isla Duporge et.al.|[2405.17698](http://arxiv.org/abs/2405.17698)|null|
+|**2024-05-27**|**Tamed Langevin sampling under weaker conditions**|Iosif Lytras et.al.|[2405.17693](http://arxiv.org/abs/2405.17693)|null|
+|**2024-05-27**|**Towards Causal Physical Error Discovery in Video Analytics Systems**|Jinjin Zhao et.al.|[2405.17686](http://arxiv.org/abs/2405.17686)|null|
+|**2024-05-27**|**Exploring Loss Design Techniques For Decision Tree Robustness To Label Noise**|Lukasz Sztukiewicz et.al.|[2405.17672](http://arxiv.org/abs/2405.17672)|null|
+|**2024-05-27**|**Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba**|Jiahao Huang et.al.|[2405.17659](http://arxiv.org/abs/2405.17659)|null|
+|**2024-05-27**|**An Analysis of Performance Bottlenecks in MRI Pre-Processing**|Mathieu Dugré et.al.|[2405.17650](http://arxiv.org/abs/2405.17650)|null|
+|**2024-05-27**|**Listenable Maps for Zero-Shot Audio Classifiers**|Francesco Paissan et.al.|[2405.17615](http://arxiv.org/abs/2405.17615)|null|
+|**2024-05-27**|**Seismic Image Denoising With A Physics-Constrained Deep Image Prior**|Dimitri P. Voytan et.al.|[2405.17597](http://arxiv.org/abs/2405.17597)|null|
+|**2024-05-27**|**Interpretable Prognostics with Concept Bottleneck Models**|Florent Forest et.al.|[2405.17575](http://arxiv.org/abs/2405.17575)|null|
+|**2024-05-27**|**Discriminant audio properties in deep learning based respiratory insufficiency detection in Brazilian Portuguese**|Marcelo Matheus Gauy et.al.|[2405.17569](http://arxiv.org/abs/2405.17569)|null|
+|**2024-05-27**|**A deep-learning algorithm to disentangle self-interacting dark matter and AGN feedback models**|David Harvey et.al.|[2405.17566](http://arxiv.org/abs/2405.17566)|null|
+|**2024-05-27**|**Clip Body and Tail Separately: High Probability Guarantees for DPSGD with Heavy Tails**|Haichao Sha et.al.|[2405.17529](http://arxiv.org/abs/2405.17529)|null|
+|**2024-05-27**|**Advancing Medical Image Segmentation with Mini-Net: A Lightweight Solution Tailored for Efficient Segmentation of Medical Images**|Syed Javed et.al.|[2405.17520](http://arxiv.org/abs/2405.17520)|null|
 |**2024-05-27**|**Deep Learning Calabi-Yau four folds with hybrid and recurrent neural network architectures**|H. L. Dao et.al.|[2405.17406](http://arxiv.org/abs/2405.17406)|null|
 |**2024-05-27**|**Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction**|Shengjie Liu et.al.|[2405.17262](http://arxiv.org/abs/2405.17262)|null|
 |**2024-05-28**|**A Retrospective of the Tutorial on Opportunities and Challenges of Online Deep Learning**|Cedric Kulbach et.al.|[2405.17222](http://arxiv.org/abs/2405.17222)|**[link](https://github.com/lucasczz/deep-river-demo-23)**|
@@ -2453,6 +2496,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
+|**2024-05-28**|**Multi-level Interaction Modeling for Protein Mutational Effect Prediction**|Yuanle Mo et.al.|[2405.17802](http://arxiv.org/abs/2405.17802)|null|
 |**2024-05-24**|**PatchProt: Hydrophobic patch prediction using protein foundation models**|Dea Gogishvili et.al.|[2405.15928](http://arxiv.org/abs/2405.15928)|null|
 |**2024-05-23**|**Compound Mutations in the Abl1 Kinase Cause Inhibitor Resistance by Shifting DFG Flip Mechanisms and Relative State Populations**|Gabriel Monteiro da Silva et.al.|[2405.14968](http://arxiv.org/abs/2405.14968)|null|
 |**2024-05-23**|**PILOT: Equivariant diffusion for pocket conditioned de novo ligand generation with multi-objective guidance via importance sampling**|Julian Cremer et.al.|[2405.14925](http://arxiv.org/abs/2405.14925)|null|
