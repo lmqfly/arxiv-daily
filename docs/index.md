@@ -473,6 +473,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Quantum Tunneling Could Enable Proton Transfer Reactions on Titan**|Henry W. Longo et.al.|[2405.19195](http://arxiv.org/abs/2405.19195)|null|
+|**2024-05-29**|**Mechanism and kinetics of sodium diffusion in Na-feldspar from neural network based atomistic simulations**|Alexander Gorfer et.al.|[2405.19008](http://arxiv.org/abs/2405.19008)|null|
+|**2024-05-28**|**Temperature-Dependent Chirality in Halide Perovskites**|Mike Pols et.al.|[2405.18643](http://arxiv.org/abs/2405.18643)|null|
+|**2024-05-28**|**Structure evolution of nanoparticulate Fe2O3**|Andreas Erlebach et.al.|[2405.18637](http://arxiv.org/abs/2405.18637)|null|
 |**2024-05-28**|**The influence of solvent on surface adsorption and desorption**|Ardavan Farahvash et.al.|[2405.18263](http://arxiv.org/abs/2405.18263)|null|
 |**2024-05-28**|**Bulk viscosity of the rigid rotor one-component plasma**|Jarett LeVan et.al.|[2405.18175](http://arxiv.org/abs/2405.18175)|null|
 |**2024-05-28**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
@@ -670,6 +674,47 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Real-Time Environment Condition Classification for Autonomous Vehicles**|Marco Introvigne et.al.|[2405.19305](http://arxiv.org/abs/2405.19305)|null|
+|**2024-05-29**|**Weak Generative Sampler to Efficiently Sample Invariant Distribution of Stochastic Differential Equation**|Zhiqiang Cai et.al.|[2405.19256](http://arxiv.org/abs/2405.19256)|null|
+|**2024-05-29**|**Exploring AI-based Anonymization of Industrial Image and Video Data in the Context of Feature Preservation**|Sabrina Cynthia Triess et.al.|[2405.19173](http://arxiv.org/abs/2405.19173)|null|
+|**2024-05-29**|**Learning Interpretable Scheduling Algorithms for Data Processing Clusters**|Zhibo Hu et.al.|[2405.19131](http://arxiv.org/abs/2405.19131)|null|
+|**2024-05-29**|**ACCSAMS: Automatic Conversion of Exam Documents to Accessible Learning Material for Blind and Visually Impaired**|David Wilkening et.al.|[2405.19124](http://arxiv.org/abs/2405.19124)|null|
+|**2024-05-29**|**Reconstructing Interpretable Features in Computational Super-Resolution microscopy via Regularized Latent Search**|Marzieh Gheisari et.al.|[2405.19112](http://arxiv.org/abs/2405.19112)|null|
+|**2024-05-29**|**Alt4Blind: A User Interface to Simplify Charts Alt-Text Creation**|Omar Moured et.al.|[2405.19111](http://arxiv.org/abs/2405.19111)|null|
+|**2024-05-29**|**SIG: Efficient Self-Interpretable Graph Neural Network for Continuous-time Dynamic Graphs**|Lanting Fang et.al.|[2405.19062](http://arxiv.org/abs/2405.19062)|**[link](https://github.com/2024sig/sig)**|
+|**2024-05-29**|**Metadata-guided Feature Disentanglement for Functional Genomics**|Alexander Rakowski et.al.|[2405.19057](http://arxiv.org/abs/2405.19057)|null|
+|**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055](http://arxiv.org/abs/2405.19055)|null|
+|**2024-05-29**|**PointNetPGAP-SLC: A 3D LiDAR-based Place Recognition Approach with Segment-level Consistency Training for Mobile Robots in Horticulture**|T. Barros et.al.|[2405.19038](http://arxiv.org/abs/2405.19038)|null|
+|**2024-05-29**|**Large Language Models for Code Summarization**|Balázs Szalontai et.al.|[2405.19032](http://arxiv.org/abs/2405.19032)|null|
+|**2024-05-29**|**Hierarchical Classification Auxiliary Network for Time Series Forecasting**|Yanru Sun et.al.|[2405.18975](http://arxiv.org/abs/2405.18975)|**[link](https://github.com/syrgithub/hcan)**|
+|**2024-05-29**|**Predicting Many Properties of Crystals by a Single Deep Learning Model**|Haosheng Xu et.al.|[2405.18944](http://arxiv.org/abs/2405.18944)|null|
+|**2024-05-29**|**HLOB -- Information Persistence and Structure in Limit Order Books**|Antonio Briola et.al.|[2405.18938](http://arxiv.org/abs/2405.18938)|null|
+|**2024-05-29**|**MDIW-13: a New Multi-Lingual and Multi-Script Database and Benchmark for Script Identification**|Miguel A. Ferrer et.al.|[2405.18924](http://arxiv.org/abs/2405.18924)|null|
+|**2024-05-29**|**Predicting Parking Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach**|Huaiwu Zhang et.al.|[2405.18910](http://arxiv.org/abs/2405.18910)|null|
+|**2024-05-29**|**Few-Shot Testing: Estimating Uncertainty of Memristive Deep Neural Networks Using One Bayesian Test Vector**|Soyed Tuhin Ahmed et.al.|[2405.18894](http://arxiv.org/abs/2405.18894)|null|
+|**2024-05-29**|**DecomCAM: Advancing Beyond Saliency Maps through Decomposition and Integration**|Yuguang Yang et.al.|[2405.18882](http://arxiv.org/abs/2405.18882)|**[link](https://github.com/capricornguang/decomcam)**|
+|**2024-05-29**|**SFANet: Spatial-Frequency Attention Network for Weather Forecasting**|Jiaze Wang et.al.|[2405.18849](http://arxiv.org/abs/2405.18849)|null|
+|**2024-05-29**|**Data-driven Machinery Fault Detection: A Comprehensive Review**|Dhiraj Neupane et.al.|[2405.18843](http://arxiv.org/abs/2405.18843)|null|
+|**2024-05-29**|**Opinion-Unaware Blind Image Quality Assessment using Multi-Scale Deep Feature Statistics**|Zhangkai Ni et.al.|[2405.18790](http://arxiv.org/abs/2405.18790)|**[link](https://github.com/eezkni/mdfs)**|
+|**2024-05-29**|**Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI**|Wei-Bang Jiang et.al.|[2405.18765](http://arxiv.org/abs/2405.18765)|**[link](https://github.com/935963004/labram)**|
+|**2024-05-29**|**Learning to Continually Learn with the Bayesian Principle**|Soochan Lee et.al.|[2405.18758](http://arxiv.org/abs/2405.18758)|**[link](https://github.com/soochan-lee/sb-mcl)**|
+|**2024-05-29**|**WLC-Net: a robust and fast deep-learning wood-leaf classification method**|Hanlong Li et.al.|[2405.18737](http://arxiv.org/abs/2405.18737)|null|
+|**2024-05-29**|**VBIM-Net: Variational Born Iterative Network for Inverse Scattering Problems**|Ziqing Xing et.al.|[2405.18731](http://arxiv.org/abs/2405.18731)|null|
+|**2024-05-29**|**Conformal Depression Prediction**|Yonghong Li et.al.|[2405.18723](http://arxiv.org/abs/2405.18723)|null|
+|**2024-05-29**|**Data-Efficient Approach to Humanoid Control via Fine-Tuning a Pre-Trained GPT on Action Data**|Siddharth Padmanabhan et.al.|[2405.18695](http://arxiv.org/abs/2405.18695)|null|
+|**2024-05-29**|**Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain**|Juntao Zhang et.al.|[2405.18679](http://arxiv.org/abs/2405.18679)|**[link](https://github.com/yws-wxs/vim-f)**|
+|**2024-05-29**|**Exploring Automated Contouring Across Institutional Boundaries: A Deep Learning Approach with Mouse Micro-CT Datasets**|Lu Jiang et.al.|[2405.18676](http://arxiv.org/abs/2405.18676)|null|
+|**2024-05-28**|**Enhancing IoT Security with CNN and LSTM-Based Intrusion Detection Systems**|Afrah Gueriani et.al.|[2405.18624](http://arxiv.org/abs/2405.18624)|null|
+|**2024-05-28**|**BioBERT-based Deep Learning and Merged ChemProt-DrugProt for Enhanced Biomedical Relation Extraction**|Bridget T. McInnes et.al.|[2405.18605](http://arxiv.org/abs/2405.18605)|null|
+|**2024-05-28**|**SST-GCN: The Sequential based Spatio-Temporal Graph Convolutional networks for Minute-level and Road-level Traffic Accident Risk Predictio**|Tae-wook Kim et.al.|[2405.18602](http://arxiv.org/abs/2405.18602)|null|
+|**2024-05-28**|**Identification of multi-component LOFAR sources with multi-modal deep learning**|Lara Alegre et.al.|[2405.18584](http://arxiv.org/abs/2405.18584)|null|
+|**2024-05-28**|**SGD method for entropy error function with smoothing l0 regularization for neural networks**|Trong-Tuan Nguyen et.al.|[2405.18552](http://arxiv.org/abs/2405.18552)|null|
+|**2024-05-28**|**TripletMix: Triplet Data Augmentation for 3D Understanding**|Jiaze Wang et.al.|[2405.18523](http://arxiv.org/abs/2405.18523)|null|
+|**2024-05-28**|**LSTM-COX Model: A Concise and Efficient Deep Learning Approach for Handling Recurrent Events**|Zhang Runquan et.al.|[2405.18518](http://arxiv.org/abs/2405.18518)|null|
+|**2024-05-28**|**Large Margin Discriminative Loss for Classification**|Hai-Vy Nguyen et.al.|[2405.18499](http://arxiv.org/abs/2405.18499)|null|
+|**2024-05-28**|**Predicting Ground State Properties: Constant Sample Complexity and Deep Learning Algorithms**|Marc Wanner et.al.|[2405.18489](http://arxiv.org/abs/2405.18489)|null|
+|**2024-05-28**|**Anomaly detection for the identification of volcanic unrest in satellite imagery**|Robert Gabriel Popescu et.al.|[2405.18487](http://arxiv.org/abs/2405.18487)|null|
+|**2024-05-28**|**Deep Learning-based Epicenter Localization using Single-Station Strong Motion Records**|Melek Türkmen et.al.|[2405.18451](http://arxiv.org/abs/2405.18451)|null|
 |**2024-05-28**|**Evaluating Bayesian deep learning for radio galaxy classification**|Devina Mohan et.al.|[2405.18351](http://arxiv.org/abs/2405.18351)|null|
 |**2024-05-28**|**Dataset Growth**|Ziheng Qin et.al.|[2405.18347](http://arxiv.org/abs/2405.18347)|null|
 |**2024-05-28**|**Histopathology Based AI Model Predicts Anti-Angiogenic Therapy Response in Renal Cancer Clinical Trial**|Jay Jasti et.al.|[2405.18327](http://arxiv.org/abs/2405.18327)|null|
