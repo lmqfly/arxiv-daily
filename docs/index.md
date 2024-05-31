@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.30
+## Updated on 2024.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -25,7 +25,7 @@ layout: default
 |**2024-03-26**|**NaNa and MiGu: Semantic Data Augmentation Techniques to Enhance Protein Classification in Graph Neural Networks**|Yi-Shan Lan et.al.|[2403.14736](http://arxiv.org/abs/2403.14736)|**[link](https://github.com/r08b46009/code_for_migu_nana)**|
 |**2024-03-04**|**Numerical Simulation of Phase Transition with the Hyperbolic Godunov-Peshkov-Romenski Model**|Pascal Mossier et.al.|[2403.01847](http://arxiv.org/abs/2403.01847)|null|
 |**2024-05-21**|**Advanced Drug Interaction Event Prediction**|Yingying Wang et.al.|[2402.11472](http://arxiv.org/abs/2402.11472)|null|
-|**2024-02-06**|**Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains**|Junhong Shen et.al.|[2402.05140](http://arxiv.org/abs/2402.05140)|**[link](https://github.com/sjunhongshen/tag-llm)**|
+|**2024-05-30**|**Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains**|Junhong Shen et.al.|[2402.05140](http://arxiv.org/abs/2402.05140)|**[link](https://github.com/sjunhongshen/tag-llm)**|
 |**2024-02-21**|**MolTC: Towards Molecular Relational Modeling In Language Models**|Junfeng Fang et.al.|[2402.03781](http://arxiv.org/abs/2402.03781)|**[link](https://github.com/MangoKiller/MolTC)**|
 |**2024-02-05**|**Infrared Spectra Prediction for Diazo Groups Utilizing a Machine Learning Approach with Structural Attention Mechanism**|Chengchun Liu et.al.|[2402.03112](http://arxiv.org/abs/2402.03112)|null|
 |**2024-02-02**|**Revealing crucial effects of reservoir environment and hydrocarbon fractions on fluid behaviour in kaolinite pores**|Rixin Zhao et.al.|[2402.01633](http://arxiv.org/abs/2402.01633)|null|
@@ -70,7 +70,7 @@ layout: default
 |**2023-06-19**|**Unrestricted component count in multiphase lattice Boltzmann: a fugacity-based approach**|Muzammil Soomro et.al.|[2306.10652](http://arxiv.org/abs/2306.10652)|null|
 |**2023-06-08**|**Multi-level Protein Representation Learning for Blind Mutational Effect Prediction**|Yang Tan et.al.|[2306.04899](http://arxiv.org/abs/2306.04899)|null|
 |**2023-06-04**|**From multiscale biophysics to digital twins of tissues and organs: future opportunities for in silico pharmacology**|Michael Taynnan Barros et.al.|[2306.02369](http://arxiv.org/abs/2306.02369)|null|
-|**2024-05-08**|**Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning**|Xiangzhe Kong et.al.|[2306.01474](http://arxiv.org/abs/2306.01474)|**[link](https://github.com/thunlp-mt/get)**|
+|**2024-05-30**|**Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning**|Xiangzhe Kong et.al.|[2306.01474](http://arxiv.org/abs/2306.01474)|**[link](https://github.com/thunlp-mt/get)**|
 |**2023-11-14**|**Causal Intervention for Measuring Confidence in Drug-Target Interaction Prediction**|Wenting Ye et.al.|[2306.00041](http://arxiv.org/abs/2306.00041)|null|
 |**2023-07-03**|**How Thermal Effect Regulates Cyclic Voltammetry of Supercapacitors**|Teng Zhao et.al.|[2305.18713](http://arxiv.org/abs/2305.18713)|null|
 |**2023-04-26**|**SCV-GNN: Sparse Compressed Vector-based Graph Neural Network Aggregation**|Nanda K. Unnikrishnan et.al.|[2304.13532](http://arxiv.org/abs/2304.13532)|null|
@@ -266,7 +266,7 @@ layout: default
 |**2024-05-02**|**nach0: Multimodal Natural and Chemical Languages Foundation Model**|Micha Livne et.al.|[2311.12410](http://arxiv.org/abs/2311.12410)|**[link](https://github.com/insilicomedicine/nach0)**|
 |**2023-11-02**|**Investigating the Behavior of Diffusion Models for Accelerating Electronic Structure Calculations**|Daniel Rothchild et.al.|[2311.01491](http://arxiv.org/abs/2311.01491)|null|
 |**2024-03-29**|**TacoGFN: Target-conditioned GFlowNet for Structure-based Drug Design**|Tony Shen et.al.|[2310.03223](http://arxiv.org/abs/2310.03223)|**[link](https://github.com/tsa87/TacoGFN-SBDD)**|
-|**2024-02-06**|**Drug Discovery with Dynamic Goal-aware Fragments**|Seul Lee et.al.|[2310.00841](http://arxiv.org/abs/2310.00841)|null|
+|**2024-05-30**|**Drug Discovery with Dynamic Goal-aware Fragments**|Seul Lee et.al.|[2310.00841](http://arxiv.org/abs/2310.00841)|null|
 |**2023-09-28**|**Compositional Sculpting of Iterative Generative Processes**|Timur Garipov et.al.|[2309.16115](http://arxiv.org/abs/2309.16115)|null|
 |**2024-03-03**|**Beam Enumeration: Probabilistic Explainability For Sample Efficient Self-conditioned Molecular Design**|Jeff Guo et.al.|[2309.13957](http://arxiv.org/abs/2309.13957)|**[link](https://github.com/schwallergroup/augmented_memory)**|
 |**2023-12-04**|**ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**|Gregory W. Kyro et.al.|[2309.05853](http://arxiv.org/abs/2309.05853)|**[link](https://github.com/batistagroup/chemspaceal)**|
@@ -688,7 +688,7 @@ layout: default
 |**2024-05-29**|**Large Language Models for Code Summarization**|Balázs Szalontai et.al.|[2405.19032](http://arxiv.org/abs/2405.19032)|null|
 |**2024-05-29**|**Hierarchical Classification Auxiliary Network for Time Series Forecasting**|Yanru Sun et.al.|[2405.18975](http://arxiv.org/abs/2405.18975)|**[link](https://github.com/syrgithub/hcan)**|
 |**2024-05-29**|**Predicting Many Properties of Crystals by a Single Deep Learning Model**|Haosheng Xu et.al.|[2405.18944](http://arxiv.org/abs/2405.18944)|null|
-|**2024-05-29**|**HLOB -- Information Persistence and Structure in Limit Order Books**|Antonio Briola et.al.|[2405.18938](http://arxiv.org/abs/2405.18938)|null|
+|**2024-05-30**|**HLOB -- Information Persistence and Structure in Limit Order Books**|Antonio Briola et.al.|[2405.18938](http://arxiv.org/abs/2405.18938)|**[link](https://github.com/financialcomputingucl/lobframe)**|
 |**2024-05-29**|**MDIW-13: a New Multi-Lingual and Multi-Script Database and Benchmark for Script Identification**|Miguel A. Ferrer et.al.|[2405.18924](http://arxiv.org/abs/2405.18924)|null|
 |**2024-05-29**|**Predicting Parking Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach**|Huaiwu Zhang et.al.|[2405.18910](http://arxiv.org/abs/2405.18910)|null|
 |**2024-05-29**|**Few-Shot Testing: Estimating Uncertainty of Memristive Deep Neural Networks Using One Bayesian Test Vector**|Soyed Tuhin Ahmed et.al.|[2405.18894](http://arxiv.org/abs/2405.18894)|null|
@@ -2659,7 +2659,7 @@ layout: default
 |**2024-05-22**|**Discovering Abstract Symbolic Relations by Learning Unitary Group Representations**|Dongsung Huh et.al.|[2402.17002](http://arxiv.org/abs/2402.17002)|null|
 |**2024-02-23**|**Categorical Deep Learning: An Algebraic Theory of Architectures**|Bruno Gavranović et.al.|[2402.15332](http://arxiv.org/abs/2402.15332)|null|
 |**2024-02-19**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
-|**2024-02-14**|**Position Paper: Challenges and Opportunities in Topological Deep Learning**|Theodore Papamarkou et.al.|[2402.08871](http://arxiv.org/abs/2402.08871)|null|
+|**2024-05-30**|**Position: Topological Deep Learning is the New Frontier for Relational Learning**|Theodore Papamarkou et.al.|[2402.08871](http://arxiv.org/abs/2402.08871)|null|
 |**2024-02-07**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836](http://arxiv.org/abs/2402.04836)|null|
 |**2024-02-19**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821](http://arxiv.org/abs/2402.04821)|**[link](https://github.com/hysonlab/equimesh)**|
 |**2024-01-26**|**Adaptive Point Transformer**|Alessandro Baiocchi et.al.|[2401.14845](http://arxiv.org/abs/2401.14845)|null|
