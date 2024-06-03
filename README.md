@@ -368,6 +368,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
 |**2024-05-25**|**Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models**|Zhenzhong Wang et.al.|[2405.16041](http://arxiv.org/abs/2405.16041)|null|
 |**2024-05-24**|**Knowledge-enhanced Relation Graph and Task Sampling for Few-shot Molecular Property Prediction**|Zeyu Wang et.al.|[2405.15544](http://arxiv.org/abs/2405.15544)|**[link](https://github.com/Vencent-Won/KRGTS-public)**|
 |**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429](http://arxiv.org/abs/2405.15429)|null|
@@ -696,6 +697,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060](http://arxiv.org/abs/2405.21060)|null|
+|**2024-05-31**|**An Organic Weed Control Prototype using Directed Energy and Deep Learning**|Deng Cao et.al.|[2405.21056](http://arxiv.org/abs/2405.21056)|null|
+|**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045](http://arxiv.org/abs/2405.21045)|null|
+|**2024-05-31**|**MpoxSLDNet: A Novel CNN Model for Detecting Monkeypox Lesions and Performance Comparison with Pre-trained Models**|Fatema Jannat Dihan et.al.|[2405.21016](http://arxiv.org/abs/2405.21016)|null|
+|**2024-05-31**|**MunchSonic: Tracking Fine-grained Dietary Actions through Active Acoustic Sensing on Eyeglasses**|Saif Mahmud et.al.|[2405.21004](http://arxiv.org/abs/2405.21004)|null|
+|**2024-05-31**|**Communication-Efficient Distributed Deep Learning via Federated Dynamic Averaging**|Michail Theologitis et.al.|[2405.20988](http://arxiv.org/abs/2405.20988)|null|
+|**2024-05-31**|**Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**|Linlin Yu et.al.|[2405.20986](http://arxiv.org/abs/2405.20986)|null|
+|**2024-05-31**|**Learning to Estimate System Specifications in Linear Temporal Logic using Transformers and Mamba**|İlker Işık et.al.|[2405.20917](http://arxiv.org/abs/2405.20917)|null|
+|**2024-05-30**|**Effects of Dataset Sampling Rate for Noise Cancellation through Deep Learning**|Brandon Colelough et.al.|[2405.20884](http://arxiv.org/abs/2405.20884)|null|
+|**2024-05-31**|**Improving Generalization and Convergence by Enhancing Implicit Regularization**|Mingze Wang et.al.|[2405.20763](http://arxiv.org/abs/2405.20763)|null|
+|**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|null|
+|**2024-05-31**|**Conditioning GAN Without Training Dataset**|Kidist Amde Mekonnen et.al.|[2405.20687](http://arxiv.org/abs/2405.20687)|**[link](https://github.com/kidist-amde/biggan-pytorch)**|
+|**2024-05-31**|**Joint Embeddings for Graph Instruction Tuning**|Vlad Argatu et.al.|[2405.20684](http://arxiv.org/abs/2405.20684)|null|
+|**2024-05-31**|**Searching for internal symbols underlying deep learning**|Jung H. Lee et.al.|[2405.20605](http://arxiv.org/abs/2405.20605)|null|
+|**2024-05-31**|**Deep Learning without Weight Symmetry**|Li Ji-An et.al.|[2405.20594](http://arxiv.org/abs/2405.20594)|null|
+|**2024-05-31**|**LInK: Learning Joint Representations of Design and Performance Spaces through Contrastive Learning for Mechanism Synthesis**|Amin Heyrani Nobari et.al.|[2405.20592](http://arxiv.org/abs/2405.20592)|null|
+|**2024-05-31**|**Class-Based Time Series Data Augmentation to Mitigate Extreme Class Imbalance for Solar Flare Prediction**|Junzhi Wen et.al.|[2405.20590](http://arxiv.org/abs/2405.20590)|null|
+|**2024-05-31**|**Uncertainty Quantification for Deep Learning**|Peter Jan van Leeuwen et.al.|[2405.20550](http://arxiv.org/abs/2405.20550)|null|
+|**2024-05-30**|**Deep Modeling of Non-Gaussian Aleatoric Uncertainty**|Aastha Acharya et.al.|[2405.20513](http://arxiv.org/abs/2405.20513)|null|
+|**2024-05-30**|**Optimizing cnn-Bigru performance: Mish activation and comparative analysis with Relu**|Asmaa Benchama et.al.|[2405.20503](http://arxiv.org/abs/2405.20503)|null|
+|**2024-05-30**|**Knockout: A simple way to handle missing inputs**|Minh Nguyen et.al.|[2405.20448](http://arxiv.org/abs/2405.20448)|null|
+|**2024-05-30**|**Deep Learning for Computing Convergence Rates of Markov Chains**|Yanlin Qu et.al.|[2405.20435](http://arxiv.org/abs/2405.20435)|null|
+|**2024-05-30**|**Enhancing Performance for Highly Imbalanced Medical Data via Data Regularization in a Federated Learning Setting**|Georgios Tsoumplekas et.al.|[2405.20430](http://arxiv.org/abs/2405.20430)|null|
+|**2024-05-30**|**Back to the Basics on Predicting Transfer Performance**|Levy Chaves et.al.|[2405.20420](http://arxiv.org/abs/2405.20420)|null|
+|**2024-05-30**|**Audio2Rig: Artist-oriented deep learning tool for facial animation**|Bastien Arcelin et.al.|[2405.20412](http://arxiv.org/abs/2405.20412)|null|
+|**2024-05-30**|**HOLISMOKES XIII: Strong-lens candidates at all mass scales and their environments from the Hyper-Suprime Cam and deep learning**|Stefan Schuldt et.al.|[2405.20383](http://arxiv.org/abs/2405.20383)|null|
+|**2024-05-30**|**Learning 3D Robotics Perception using Inductive Priors**|Muhammad Zubair Irshad et.al.|[2405.20364](http://arxiv.org/abs/2405.20364)|null|
+|**2024-05-30**|**Medication Recommendation via Dual Molecular Modalities and Multi-Substructure Distillation**|Shi Mu et.al.|[2405.20358](http://arxiv.org/abs/2405.20358)|null|
 |**2024-05-30**|**SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos**|Chinedu Innocent Nwoye et.al.|[2405.20333](http://arxiv.org/abs/2405.20333)|null|
 |**2024-05-30**|**FaceMixup: Enhancing Facial Expression Recognition through Mixed Face Regularization**|Fabio A. Faria et.al.|[2405.20259](http://arxiv.org/abs/2405.20259)|null|
 |**2024-05-30**|**Image-to-Joint Inverse Kinematic of a Supportive Continuum Arm Using Deep Learning**|Shayan Sepahvand et.al.|[2405.20248](http://arxiv.org/abs/2405.20248)|null|
