@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.03
+## Updated on 2024.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -353,7 +353,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
-|**2024-05-25**|**Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models**|Zhenzhong Wang et.al.|[2405.16041](http://arxiv.org/abs/2405.16041)|null|
+|**2024-06-01**|**Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models**|Zhenzhong Wang et.al.|[2405.16041](http://arxiv.org/abs/2405.16041)|null|
 |**2024-05-24**|**Knowledge-enhanced Relation Graph and Task Sampling for Few-shot Molecular Property Prediction**|Zeyu Wang et.al.|[2405.15544](http://arxiv.org/abs/2405.15544)|**[link](https://github.com/Vencent-Won/KRGTS-public)**|
 |**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429](http://arxiv.org/abs/2405.15429)|null|
 |**2024-05-23**|**GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**|Thao Nguyen et.al.|[2405.14203](http://arxiv.org/abs/2405.14203)|null|
@@ -739,7 +739,7 @@ layout: default
 |**2024-05-30**|**Weights Augmentation: it has never ever ever ever let her model down**|Junbin Zhuang et.al.|[2405.19590](http://arxiv.org/abs/2405.19590)|null|
 |**2024-05-31**|**Anatomical Region Recognition and Real-time Bone Tracking Methods by Dynamically Decoding A-Mode Ultrasound Signals**|Bangyu Lan et.al.|[2405.19542](http://arxiv.org/abs/2405.19542)|null|
 |**2024-05-29**|**Leveraging Generative AI for Smart City Digital Twins: A Survey on the Autonomous Generation of Data, Scenarios, 3D City Models, and Urban Designs**|Haowen Xu et.al.|[2405.19464](http://arxiv.org/abs/2405.19464)|null|
-|**2024-05-29**|**Deep Learning for Assessment of Oral Reading Fluency**|Mithilesh Vaidya et.al.|[2405.19426](http://arxiv.org/abs/2405.19426)|null|
+|**2024-06-01**|**Deep Learning for Assessment of Oral Reading Fluency**|Mithilesh Vaidya et.al.|[2405.19426](http://arxiv.org/abs/2405.19426)|null|
 |**2024-05-29**|**VisTA-SR: Improving the Accuracy and Resolution of Low-Cost Thermal Imaging Cameras for Agriculture**|Heesup Yun et.al.|[2405.19413](http://arxiv.org/abs/2405.19413)|null|
 |**2024-05-29**|**Video Anomaly Detection in 10 Years: A Survey and Outlook**|Moshira Abdalla et.al.|[2405.19387](http://arxiv.org/abs/2405.19387)|null|
 |**2024-05-31**|**Network Analytics for Anti-Money Laundering -- A Systematic Literature Review and Experimental Evaluation**|Bruno Deprez et.al.|[2405.19383](http://arxiv.org/abs/2405.19383)|**[link](https://github.com/B-Deprez/AML_Network)**|
