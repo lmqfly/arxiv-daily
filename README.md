@@ -697,7 +697,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060](http://arxiv.org/abs/2405.21060)|null|
+|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060](http://arxiv.org/abs/2405.21060)|**[link](https://github.com/state-spaces/mamba)**|
 |**2024-05-31**|**An Organic Weed Control Prototype using Directed Energy and Deep Learning**|Deng Cao et.al.|[2405.21056](http://arxiv.org/abs/2405.21056)|null|
 |**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045](http://arxiv.org/abs/2405.21045)|null|
 |**2024-05-31**|**MpoxSLDNet: A Novel CNN Model for Detecting Monkeypox Lesions and Performance Comparison with Pre-trained Models**|Fatema Jannat Dihan et.al.|[2405.21016](http://arxiv.org/abs/2405.21016)|null|
@@ -717,7 +717,7 @@
 |**2024-05-31**|**Uncertainty Quantification for Deep Learning**|Peter Jan van Leeuwen et.al.|[2405.20550](http://arxiv.org/abs/2405.20550)|null|
 |**2024-05-30**|**Deep Modeling of Non-Gaussian Aleatoric Uncertainty**|Aastha Acharya et.al.|[2405.20513](http://arxiv.org/abs/2405.20513)|null|
 |**2024-05-30**|**Optimizing cnn-Bigru performance: Mish activation and comparative analysis with Relu**|Asmaa Benchama et.al.|[2405.20503](http://arxiv.org/abs/2405.20503)|null|
-|**2024-05-30**|**Knockout: A simple way to handle missing inputs**|Minh Nguyen et.al.|[2405.20448](http://arxiv.org/abs/2405.20448)|null|
+|**2024-06-03**|**Knockout: A simple way to handle missing inputs**|Minh Nguyen et.al.|[2405.20448](http://arxiv.org/abs/2405.20448)|null|
 |**2024-05-30**|**Deep Learning for Computing Convergence Rates of Markov Chains**|Yanlin Qu et.al.|[2405.20435](http://arxiv.org/abs/2405.20435)|null|
 |**2024-05-30**|**Enhancing Performance for Highly Imbalanced Medical Data via Data Regularization in a Federated Learning Setting**|Georgios Tsoumplekas et.al.|[2405.20430](http://arxiv.org/abs/2405.20430)|null|
 |**2024-05-30**|**Back to the Basics on Predicting Transfer Performance**|Levy Chaves et.al.|[2405.20420](http://arxiv.org/abs/2405.20420)|null|
@@ -795,7 +795,7 @@
 |**2024-05-29**|**Exploring Automated Contouring Across Institutional Boundaries: A Deep Learning Approach with Mouse Micro-CT Datasets**|Lu Jiang et.al.|[2405.18676](http://arxiv.org/abs/2405.18676)|null|
 |**2024-05-28**|**Enhancing IoT Security with CNN and LSTM-Based Intrusion Detection Systems**|Afrah Gueriani et.al.|[2405.18624](http://arxiv.org/abs/2405.18624)|null|
 |**2024-05-28**|**BioBERT-based Deep Learning and Merged ChemProt-DrugProt for Enhanced Biomedical Relation Extraction**|Bridget T. McInnes et.al.|[2405.18605](http://arxiv.org/abs/2405.18605)|null|
-|**2024-05-28**|**SST-GCN: The Sequential based Spatio-Temporal Graph Convolutional networks for Minute-level and Road-level Traffic Accident Risk Predictio**|Tae-wook Kim et.al.|[2405.18602](http://arxiv.org/abs/2405.18602)|null|
+|**2024-06-03**|**SST-GCN: The Sequential based Spatio-Temporal Graph Convolutional networks for Minute-level and Road-level Traffic Accident Risk Prediction**|Tae-wook Kim et.al.|[2405.18602](http://arxiv.org/abs/2405.18602)|null|
 |**2024-05-28**|**Identification of multi-component LOFAR sources with multi-modal deep learning**|Lara Alegre et.al.|[2405.18584](http://arxiv.org/abs/2405.18584)|null|
 |**2024-05-28**|**SGD method for entropy error function with smoothing l0 regularization for neural networks**|Trong-Tuan Nguyen et.al.|[2405.18552](http://arxiv.org/abs/2405.18552)|**[link](https://github.com/santapo/EEGML0)**|
 |**2024-05-28**|**TripletMix: Triplet Data Augmentation for 3D Understanding**|Jiaze Wang et.al.|[2405.18523](http://arxiv.org/abs/2405.18523)|null|
