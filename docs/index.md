@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -536,7 +536,7 @@ layout: default
 |**2024-04-25**|**Dichalcogenides and difulfides nanostructures for hydrogen storage**|Flavio Bento de Oliveira et.al.|[2404.16761](http://arxiv.org/abs/2404.16761)|null|
 |**2024-04-25**|**Stochastic Dissipative Euler's equations for a free body**|J. A. de la Torre et.al.|[2404.16613](http://arxiv.org/abs/2404.16613)|null|
 |**2024-04-25**|**Simulating Ultrafast Transient Absorption Spectra from First Principles using a Time-Dependent Configuration Interaction Probe**|Arshad Mehmood et.al.|[2404.16568](http://arxiv.org/abs/2404.16568)|null|
-|**2024-04-25**|**Elastic properties of three-dimensional Yukawa or dust crystals from molecular dynamic simulations**|Sandeep Kumar et.al.|[2404.16335](http://arxiv.org/abs/2404.16335)|null|
+|**2024-06-05**|**Elastic properties of three-dimensional Yukawa or dust-crystals from molecular dynamic simulations**|Sandeep Kumar et.al.|[2404.16335](http://arxiv.org/abs/2404.16335)|null|
 |**2024-05-14**|**Entropic signature of resonant thermal transport: Ordered form of heat conduction**|Albert Beardo et.al.|[2404.15831](http://arxiv.org/abs/2404.15831)|null|
 |**2024-05-07**|**Thermal boundary conductance and thermal conductivity strongly depend on nearby environment**|Khalid Zobaid Adnan et.al.|[2404.15439](http://arxiv.org/abs/2404.15439)|null|
 |**2024-04-23**|**Unveiling the crystallization kinetics in Ge-rich Ge $_x$ Te alloys by large scale simulations with a machine-learned interatomic potential**|Dario Baratella et.al.|[2404.15128](http://arxiv.org/abs/2404.15128)|null|
@@ -688,15 +688,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-04**|**Enhancing predictive imaging biomarker discovery through treatment effect analysis**|Shuhan Xiao et.al.|[2406.02534](http://arxiv.org/abs/2406.02534)|null|
 |**2024-06-04**|**Explainable Deep Learning Analysis for Raga Identification in Indian Art Music**|Parampreet Singh et.al.|[2406.02443](http://arxiv.org/abs/2406.02443)|**[link](https://github.com/parampreetsingh97/pim_v1_exai)**|
-|**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|null|
-|**2024-06-04**|**Kirigami: large convolutional kernels improve deep learning-based RNA secondary structure prediction**|Marc Harary et.al.|[2406.02381](http://arxiv.org/abs/2406.02381)|null|
+|**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|**[link](https://github.com/fudanxu/lora-det)**|
+|**2024-06-04**|**Kirigami: large convolutional kernels improve deep learning-based RNA secondary structure prediction**|Marc Harary et.al.|[2406.02381](http://arxiv.org/abs/2406.02381)|**[link](https://github.com/marc-harary/kirigami)**|
 |**2024-06-04**|**QCDGE database, Quantum Chemistry Database with Ground- and Excited-state Properties of 450 Kilo Molecules**|Yifei Zhu et.al.|[2406.02341](http://arxiv.org/abs/2406.02341)|null|
 |**2024-06-04**|**$\textit{Kilonova Seekers}$ : the GOTO project for real-time citizen science in time-domain astrophysics**|T. L. Killestein et.al.|[2406.02334](http://arxiv.org/abs/2406.02334)|null|
 |**2024-06-04**|**Continual Unsupervised Out-of-Distribution Detection**|Lars Doorenbos et.al.|[2406.02327](http://arxiv.org/abs/2406.02327)|null|
 |**2024-06-04**|**A deep-learning-based MAC for integrating channel access, rate adaptation and channel switch**|Jiantao Xin et.al.|[2406.02291](http://arxiv.org/abs/2406.02291)|null|
 |**2024-06-04**|**Leveraging deterministic weather forecasts for in-situ probabilistic temperature predictions via deep learning**|David Landry et.al.|[2406.02141](http://arxiv.org/abs/2406.02141)|null|
 |**2024-06-04**|**MaskSR: Masked Language Model for Full-band Speech Restoration**|Xu Li et.al.|[2406.02092](http://arxiv.org/abs/2406.02092)|null|
-|**2024-06-04**|**Multi-target stain normalization for histology slides**|Desislav Ivanov et.al.|[2406.02077](http://arxiv.org/abs/2406.02077)|null|
+|**2024-06-04**|**Multi-target stain normalization for histology slides**|Desislav Ivanov et.al.|[2406.02077](http://arxiv.org/abs/2406.02077)|**[link](https://github.com/eidoslab/torchstain)**|
 |**2024-06-04**|**ReLU-KAN: New Kolmogorov-Arnold Networks that Only Need Matrix Addition, Dot Multiplication, and ReLU**|Qi Qiu et.al.|[2406.02075](http://arxiv.org/abs/2406.02075)|**[link](https://github.com/quiqi/relu_kan)**|
 |**2024-06-04**|**Tabular and Deep Learning for the Whittle Index**|Francisco Robledo Relaño et.al.|[2406.02057](http://arxiv.org/abs/2406.02057)|null|
 |**2024-06-04**|**PETRA: Parallel End-to-end Training with Reversible Architectures**|Stéphane Rivaud et.al.|[2406.02052](http://arxiv.org/abs/2406.02052)|null|
@@ -709,16 +709,16 @@ layout: default
 |**2024-06-04**|**Fruit Classification System with Deep Learning and Neural Architecture Search**|Christine Dewi et.al.|[2406.01869](http://arxiv.org/abs/2406.01869)|null|
 |**2024-06-03**|**Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning**|Leonardo Iurada et.al.|[2406.01820](http://arxiv.org/abs/2406.01820)|**[link](https://github.com/iurada/px-ntk-pruning)**|
 |**2024-06-03**|**Imputation of Missing Photometric Data and Photometric Redshift Estimation for CSST**|Zhijian Luo et.al.|[2406.01719](http://arxiv.org/abs/2406.01719)|null|
-|**2024-06-03**|**A Diffusion Model Framework for Unsupervised Neural Combinatorial Optimization**|Sebastian Sanokowski et.al.|[2406.01661](http://arxiv.org/abs/2406.01661)|null|
+|**2024-06-03**|**A Diffusion Model Framework for Unsupervised Neural Combinatorial Optimization**|Sebastian Sanokowski et.al.|[2406.01661](http://arxiv.org/abs/2406.01661)|**[link](https://github.com/ml-jku/diffuco)**|
 |**2024-05-31**|**Parnassus: An Automated Approach to Accurate, Precise, and Fast Detector Simulation and Reconstruction**|Etienne Dreyer et.al.|[2406.01620](http://arxiv.org/abs/2406.01620)|null|
 |**2024-05-31**|**QuST: QuPath Extension for Integrative Whole Slide Image and Spatial Transcriptomics Analysis**|Chao-Hui Huang et.al.|[2406.01613](http://arxiv.org/abs/2406.01613)|null|
 |**2024-06-03**|**Tilting the Odds at the Lottery: the Interplay of Overparameterisation and Curricula in Neural Networks**|Stefano Sarao Mannelli et.al.|[2406.01589](http://arxiv.org/abs/2406.01589)|null|
 |**2024-06-03**|**nn2poly: An R Package for Converting Neural Networks into Interpretable Polynomials**|Pablo Morala et.al.|[2406.01588](http://arxiv.org/abs/2406.01588)|null|
-|**2024-06-03**|**Physics-informed deep learning and compressive collocation for high-dimensional diffusion-reaction equations: practical existence theory and numerics**|Simone Brugiapaglia et.al.|[2406.01539](http://arxiv.org/abs/2406.01539)|null|
+|**2024-06-03**|**Physics-informed deep learning and compressive collocation for high-dimensional diffusion-reaction equations: practical existence theory and numerics**|Simone Brugiapaglia et.al.|[2406.01539](http://arxiv.org/abs/2406.01539)|**[link](https://github.com/WeiqiWangMath/PINN_high_dimensional_PDE)**|
 |**2024-06-03**|**Automatic Fused Multimodal Deep Learning for Plant Identification**|Alfreds Lapkovskis et.al.|[2406.01455](http://arxiv.org/abs/2406.01455)|**[link](https://github.com/alfredslapkovskis/multimodalplantclassifier)**|
 |**2024-06-03**|**Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic**|Laura Zheng et.al.|[2406.01431](http://arxiv.org/abs/2406.01431)|null|
 |**2024-06-03**|**An expert-driven data generation pipeline for histological images**|Roberto Basla et.al.|[2406.01403](http://arxiv.org/abs/2406.01403)|**[link](https://github.com/rb-sl/expertdrivennuclei)**|
-|**2024-06-03**|**Pulmonary Embolism Mortality Prediction Using Multimodal Learning Based on Computed Tomography Angiography and Clinical Data**|Zhusi Zhong et.al.|[2406.01302](http://arxiv.org/abs/2406.01302)|null|
+|**2024-06-05**|**Pulmonary Embolism Mortality Prediction Using Multimodal Learning Based on Computed Tomography Angiography and Clinical Data**|Zhusi Zhong et.al.|[2406.01302](http://arxiv.org/abs/2406.01302)|null|
 |**2024-06-03**|**On the Nonlinearity of Layer Normalization**|Yunhao Ni et.al.|[2406.01255](http://arxiv.org/abs/2406.01255)|null|
 |**2024-06-03**|**animal2vec and MeerKAT: A self-supervised transformer for rare-event raw audio input and a large-scale reference dataset for bioacoustics**|Julian C. Schäfer-Zimmermann et.al.|[2406.01253](http://arxiv.org/abs/2406.01253)|**[link](https://github.com/livingingroups/animal2vec)**|
 |**2024-06-03**|**Equivariant Machine Learning on Graphs with Nonlinear Spectral Filters**|Ya-Wei Eileen Lin et.al.|[2406.01249](http://arxiv.org/abs/2406.01249)|null|
@@ -730,7 +730,7 @@ layout: default
 |**2024-06-03**|**Confidence-Based Task Prediction in Continual Disease Classification Using Probability Distribution**|Tanvi Verma et.al.|[2406.01054](http://arxiv.org/abs/2406.01054)|null|
 |**2024-06-03**|**Distributional Refinement Network: Distributional Forecasting via Deep Learning**|Benjamin Avanzi et.al.|[2406.00998](http://arxiv.org/abs/2406.00998)|**[link](https://github.com/agi-lab/DRN)**|
 |**2024-06-03**|**A Synergistic Approach In Network Intrusion Detection By Neurosymbolic AI**|Alice Bizzarri et.al.|[2406.00938](http://arxiv.org/abs/2406.00938)|null|
-|**2024-06-03**|**DDA: Dimensionality Driven Augmentation Search for Contrastive Learning in Laparoscopic Surgery**|Yuning Zhou et.al.|[2406.00907](http://arxiv.org/abs/2406.00907)|null|
+|**2024-06-03**|**DDA: Dimensionality Driven Augmentation Search for Contrastive Learning in Laparoscopic Surgery**|Yuning Zhou et.al.|[2406.00907](http://arxiv.org/abs/2406.00907)|**[link](https://github.com/JoJoNing25/DDAug)**|
 |**2024-06-02**|**Local Methods with Adaptivity via Scaling**|Savelii Chezhegov et.al.|[2406.00846](http://arxiv.org/abs/2406.00846)|null|
 |**2024-06-02**|**Ensemble Deep Random Vector Functional Link Neural Network Based on Fuzzy Inference System**|M. Sajid et.al.|[2406.00801](http://arxiv.org/abs/2406.00801)|null|
 |**2024-06-02**|**Constrained Adaptive Attack: Effective Adversarial Attack Against Deep Neural Networks for Tabular Data**|Thibault Simonetto et.al.|[2406.00775](http://arxiv.org/abs/2406.00775)|null|
@@ -753,8 +753,8 @@ layout: default
 |**2024-06-01**|**SynthBA: Reliable Brain Age Estimation Across Multiple MRI Sequences and Resolutions**|Lemuel Puglisi et.al.|[2406.00365](http://arxiv.org/abs/2406.00365)|**[link](https://github.com/lemuelpuglisi/synthba)**|
 |**2024-06-01**|**An Effective Weight Initialization Method for Deep Learning: Application to Satellite Image Classification**|Wadii Boulila et.al.|[2406.00348](http://arxiv.org/abs/2406.00348)|**[link](https://github.com/wadiiboulila/weight-initialization)**|
 |**2024-06-01**|**A Structured Review of Literature on Uncertainty in Machine Learning & Deep Learning**|Fahimeh Fakour et.al.|[2406.00332](http://arxiv.org/abs/2406.00332)|null|
-|**2024-06-01**|**KGLink: A column type annotation method that combines knowledge graph and pre-trained language model**|Yubo Wang et.al.|[2406.00318](http://arxiv.org/abs/2406.00318)|null|
-|**2024-06-01**|**From Seedling to Harvest: The GrowingSoy Dataset for Weed Detection in Soy Crops via Instance Segmentation**|Raul Steinmetz et.al.|[2406.00313](http://arxiv.org/abs/2406.00313)|null|
+|**2024-06-01**|**KGLink: A column type annotation method that combines knowledge graph and pre-trained language model**|Yubo Wang et.al.|[2406.00318](http://arxiv.org/abs/2406.00318)|**[link](https://github.com/Wyb0627/KBLink)**|
+|**2024-06-05**|**From Seedling to Harvest: The GrowingSoy Dataset for Weed Detection in Soy Crops via Instance Segmentation**|Raul Steinmetz et.al.|[2406.00313](http://arxiv.org/abs/2406.00313)|**[link](https://github.com/raulsteinmetz/soy-segmentation)**|
 |**2024-06-01**|**Complex Style Image Transformations for Domain Generalization in Medical Images**|Nikolaos Spanos et.al.|[2406.00298](http://arxiv.org/abs/2406.00298)|null|
 |**2024-06-01**|**Multi-objective Neural Architecture Search by Learning Search Space Partitions**|Yiyang Zhao et.al.|[2406.00291](http://arxiv.org/abs/2406.00291)|null|
 |**2024-06-01**|**Phasor-Driven Acceleration for FFT-based CNNs**|Eduardo Reis et.al.|[2406.00290](http://arxiv.org/abs/2406.00290)|null|
@@ -776,7 +776,7 @@ layout: default
 |**2024-05-31**|**Learning to Estimate System Specifications in Linear Temporal Logic using Transformers and Mamba**|İlker Işık et.al.|[2405.20917](http://arxiv.org/abs/2405.20917)|null|
 |**2024-05-30**|**Effects of Dataset Sampling Rate for Noise Cancellation through Deep Learning**|Brandon Colelough et.al.|[2405.20884](http://arxiv.org/abs/2405.20884)|null|
 |**2024-05-31**|**Improving Generalization and Convergence by Enhancing Implicit Regularization**|Mingze Wang et.al.|[2405.20763](http://arxiv.org/abs/2405.20763)|null|
-|**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|null|
+|**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|**[link](https://github.com/DingJianhao/stable-snn)**|
 |**2024-05-31**|**Conditioning GAN Without Training Dataset**|Kidist Amde Mekonnen et.al.|[2405.20687](http://arxiv.org/abs/2405.20687)|**[link](https://github.com/kidist-amde/biggan-pytorch)**|
 |**2024-05-31**|**Joint Embeddings for Graph Instruction Tuning**|Vlad Argatu et.al.|[2405.20684](http://arxiv.org/abs/2405.20684)|null|
 |**2024-05-31**|**Searching for internal symbols underlying deep learning**|Jung H. Lee et.al.|[2405.20605](http://arxiv.org/abs/2405.20605)|null|
@@ -2818,7 +2818,7 @@ layout: default
 |**2024-02-27**|**Geometric Deep Learning for Computer-Aided Design: A Survey**|Negar Heidari et.al.|[2402.17695](http://arxiv.org/abs/2402.17695)|null|
 |**2024-05-22**|**Discovering Abstract Symbolic Relations by Learning Unitary Group Representations**|Dongsung Huh et.al.|[2402.17002](http://arxiv.org/abs/2402.17002)|null|
 |**2024-02-23**|**Categorical Deep Learning: An Algebraic Theory of Architectures**|Bruno Gavranović et.al.|[2402.15332](http://arxiv.org/abs/2402.15332)|null|
-|**2024-02-19**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
+|**2024-06-05**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
 |**2024-05-30**|**Position: Topological Deep Learning is the New Frontier for Relational Learning**|Theodore Papamarkou et.al.|[2402.08871](http://arxiv.org/abs/2402.08871)|null|
 |**2024-02-07**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836](http://arxiv.org/abs/2402.04836)|null|
 |**2024-02-19**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821](http://arxiv.org/abs/2402.04821)|**[link](https://github.com/hysonlab/equimesh)**|
