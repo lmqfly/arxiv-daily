@@ -67,6 +67,7 @@
 |**2023-09-11**|**The role of molecular structure on the microscopic thermodynamics: unveiling with Femtosecond Optical Tweezers**|Ajitesh Singh et.al.|[2309.05385](http://arxiv.org/abs/2309.05385)|null|
 |**2023-11-04**|**Modeling and interpretation of single-cell proteogenomic data**|Andrew Leduc et.al.|[2308.07465](http://arxiv.org/abs/2308.07465)|null|
 |**2023-08-10**|**Fokker-Planck-Poisson kinetics: Multi-phase flow beyond equilibrium**|Mohsen Sadr et.al.|[2308.05580](http://arxiv.org/abs/2308.05580)|null|
+|**2024-06-04**|**Stochastic Metholodgy Shows Molecular Interactions Protect 2D Polaritons**|Nadine Bradbury et.al.|[2308.04385](http://arxiv.org/abs/2308.04385)|null|
 |**2024-01-18**|**Coherent electron-vibron interactions in Surface-Enhanced Raman Scattering (SERS)**|Miguel A. Martínez-García et.al.|[2307.16859](http://arxiv.org/abs/2307.16859)|null|
 |**2023-07-31**|**On the kinetic description of the objective molecular dynamics**|Richard D. James et.al.|[2307.16814](http://arxiv.org/abs/2307.16814)|null|
 |**2024-03-16**|**Hadronic structure on the light-front VIII. Light scalar and vector mesons**|Wei-Yang Liu et.al.|[2307.16302](http://arxiv.org/abs/2307.16302)|null|
@@ -496,6 +497,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Topological Neural Networks go Persistent, Equivariant, and Continuous**|Yogesh Verma et.al.|[2406.03164](http://arxiv.org/abs/2406.03164)|null|
+|**2024-06-05**|**Enhancing Critical Current Density in Thin Superconductor Layers by Moiré Pinning Centers**|Zahra Owjifard et.al.|[2406.03013](http://arxiv.org/abs/2406.03013)|null|
 |**2024-06-04**|**Timescale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory**|Vinay Vaibhav et.al.|[2406.02113](http://arxiv.org/abs/2406.02113)|null|
 |**2024-06-04**|**Molecular-Resolution Imaging of Ice Crystallized from Liquid Water**|Jingshan S. Du et.al.|[2406.00915](http://arxiv.org/abs/2406.00915)|null|
 |**2024-06-01**|**Molecular Modelling of Aqueous Batteries**|Alicia van Hees et.al.|[2406.00468](http://arxiv.org/abs/2406.00468)|null|
@@ -706,6 +709,53 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Solving Differential Equations using Physics-Informed Deep Equilibrium Models**|Bruno Machado Pacheco et.al.|[2406.03472](http://arxiv.org/abs/2406.03472)|null|
+|**2024-06-02**|**Physics and geometry informed neural operator network with application to acoustic scattering**|Siddharth Nair et.al.|[2406.03407](http://arxiv.org/abs/2406.03407)|null|
+|**2024-06-02**|**LncRNA-disease association prediction method based on heterogeneous information completion and convolutional neural network**|Wen-Yu Xi et.al.|[2406.03406](http://arxiv.org/abs/2406.03406)|null|
+|**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388](http://arxiv.org/abs/2406.03388)|null|
+|**2024-06-05**|**Training of Physical Neural Networks**|Ali Momeni et.al.|[2406.03372](http://arxiv.org/abs/2406.03372)|null|
+|**2024-06-05**|**Posterior and variational inference for deep neural networks with heavy-tailed weights**|Ismaël Castillo et.al.|[2406.03369](http://arxiv.org/abs/2406.03369)|null|
+|**2024-06-05**|**Cooperative learning of Pl@ntNet's Artificial Intelligence algorithm: how does it work and how can we improve it?**|Tanguy Lefort et.al.|[2406.03356](http://arxiv.org/abs/2406.03356)|null|
+|**2024-06-05**|**Comparative Benchmarking of Failure Detection Methods in Medical Image Segmentation: Unveiling the Role of Confidence Aggregation**|Maximilian Zenk et.al.|[2406.03323](http://arxiv.org/abs/2406.03323)|null|
+|**2024-06-05**|**Multi-Patch Isogeometric Convolution Hierarchical Deep-learning Neural Network**|Lei Zhang et.al.|[2406.03307](http://arxiv.org/abs/2406.03307)|null|
+|**2024-06-05**|**Efficient Data-Parallel Continual Learning with Asynchronous Distributed Rehearsal Buffers**|Thomas Bouvier et.al.|[2406.03285](http://arxiv.org/abs/2406.03285)|null|
+|**2024-06-05**|**Enhancing CTC-based speech recognition with diverse modeling units**|Shiyi Han et.al.|[2406.03274](http://arxiv.org/abs/2406.03274)|null|
+|**2024-06-05**|**Deep Generative Models for Proton Zero Degree Calorimeter Simulations in ALICE, CERN**|Patryk Będkowski et.al.|[2406.03263](http://arxiv.org/abs/2406.03263)|null|
+|**2024-06-05**|**Feature learning in finite-width Bayesian deep linear networks with multiple outputs and convolutional layers**|Federico Bassetti et.al.|[2406.03260](http://arxiv.org/abs/2406.03260)|null|
+|**2024-06-05**|**Near-field Beamforming for Extremely Large-scale MIMO Based on Unsupervised Deep Learning**|Jiali Nie et.al.|[2406.03249](http://arxiv.org/abs/2406.03249)|null|
+|**2024-06-05**|**Interactive Image Selection and Training for Brain Tumor Segmentation Network**|Matheus A. Cerqueira et.al.|[2406.03225](http://arxiv.org/abs/2406.03225)|null|
+|**2024-06-05**|**Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation**|Marvin Schmitt et.al.|[2406.03154](http://arxiv.org/abs/2406.03154)|null|
+|**2024-06-05**|**Graph Convolutional Branch and Bound**|Lorenzo Sciandra et.al.|[2406.03099](http://arxiv.org/abs/2406.03099)|**[link](https://github.com/LorenzoSciandra/GraphConvolutionalBranchandBound)**|
+|**2024-06-05**|**A Data and Model-Driven Deep Learning Approach to Robust Downlink Beamforming Optimization**|Kai Liang et.al.|[2406.03098](http://arxiv.org/abs/2406.03098)|null|
+|**2024-06-05**|**Local to Global: Learning Dynamics and Effect of Initialization for Transformers**|Ashok Vardhan Makkuva et.al.|[2406.03072](http://arxiv.org/abs/2406.03072)|null|
+|**2024-06-05**|**Spiking representation learning for associative memories**|Naresh Ravichandran et.al.|[2406.03054](http://arxiv.org/abs/2406.03054)|null|
+|**2024-06-05**|**Phy-Diff: Physics-guided Hourglass Diffusion Model for Diffusion MRI Synthesis**|Juanhua Zhang et.al.|[2406.03002](http://arxiv.org/abs/2406.03002)|null|
+|**2024-06-05**|**Real-Time Small-Signal Security Assessment Using Graph Neural Networks**|Glory Justin et.al.|[2406.02964](http://arxiv.org/abs/2406.02964)|null|
+|**2024-06-05**|**Dataset-Distillation Generative Model for Speech Emotion Recognition**|Fabian Ritter-Gutierrez et.al.|[2406.02963](http://arxiv.org/abs/2406.02963)|null|
+|**2024-06-05**|**CAMEL. II. A 3D Coronal Mass Ejection Catalog Based on Coronal Mass Ejection Automatic Detection with Deep Learning**|Jiahui Shan et.al.|[2406.02946](http://arxiv.org/abs/2406.02946)|null|
+|**2024-06-05**|**Radiomics-guided Multimodal Self-attention Network for Predicting Pathological Complete Response in Breast MRI**|Jonghun Kim et.al.|[2406.02936](http://arxiv.org/abs/2406.02936)|null|
+|**2024-06-05**|**Multivariate Physics-Informed Convolutional Autoencoder for Anomaly Detection in Power Distribution Systems with High Penetration of DERs**|Mehdi Jabbari Zideh et.al.|[2406.02927](http://arxiv.org/abs/2406.02927)|null|
+|**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
+|**2024-06-05**|**Language Model Can Do Knowledge Tracing: Simple but Effective Method to Integrate Language Model and Knowledge Tracing Task**|Unggi Lee et.al.|[2406.02893](http://arxiv.org/abs/2406.02893)|null|
+|**2024-06-05**|**Nonlinear Transformations Against Unlearnable Datasets**|Thushari Hapuarachchi et.al.|[2406.02883](http://arxiv.org/abs/2406.02883)|null|
+|**2024-06-04**|**Improved context-sensitive transformer model for inland vessel trajectory prediction**|Kathrin Donandt et.al.|[2406.02771](http://arxiv.org/abs/2406.02771)|null|
+|**2024-06-04**|**Short-term Inland Vessel Trajectory Prediction with Encoder-Decoder Models**|Kathrin Donandt et.al.|[2406.02770](http://arxiv.org/abs/2406.02770)|null|
+|**2024-06-04**|**Spatial and social situation-aware transformer-based trajectory prediction of autonomous systems**|Kathrin Donandt et.al.|[2406.02767](http://arxiv.org/abs/2406.02767)|null|
+|**2024-06-04**|**DPDR: Gradient Decomposition and Reconstruction for Differentially Private Deep Learning**|Yixuan Liu et.al.|[2406.02744](http://arxiv.org/abs/2406.02744)|null|
+|**2024-06-04**|**Synthetic Data Outliers: Navigating Identity Disclosure**|Carolina Trindade et.al.|[2406.02736](http://arxiv.org/abs/2406.02736)|null|
+|**2024-06-04**|**Self-Trained Model for ECG Complex Delineation**|Aram Avetisyan et.al.|[2406.02711](http://arxiv.org/abs/2406.02711)|null|
+|**2024-06-04**|**MPCR: Multi- and Mixed-Precision Computations Package in R**|Mary Lai O. Salvana et.al.|[2406.02701](http://arxiv.org/abs/2406.02701)|null|
+|**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653](http://arxiv.org/abs/2406.02653)|null|
+|**2024-06-04**|**Modeling PROTAC Degradation Activity with Machine Learning**|Stefano Ribes et.al.|[2406.02637](http://arxiv.org/abs/2406.02637)|null|
+|**2024-06-04**|**Evidentially Calibrated Source-Free Time-Series Domain Adaptation with Temporal Imputation**|Peiliang Gong et.al.|[2406.02635](http://arxiv.org/abs/2406.02635)|null|
+|**2024-06-04**|**Redefining DDoS Attack Detection Using A Dual-Space Prototypical Network-Based Approach**|Fernando Martinez et.al.|[2406.02632](http://arxiv.org/abs/2406.02632)|null|
+|**2024-06-04**|**SSNet: A Lightweight Multi-Party Computation Scheme for Practical Privacy-Preserving Machine Learning Service in the Cloud**|Shijin Duan et.al.|[2406.02629](http://arxiv.org/abs/2406.02629)|null|
+|**2024-06-03**|**A Brief Overview of Optimization-Based Algorithms for MRI Reconstruction Using Deep Learning**|Wanyu Bian et.al.|[2406.02626](http://arxiv.org/abs/2406.02626)|null|
+|**2024-06-03**|**Is Data Valuation Learnable and Interpretable?**|Ou Wu et.al.|[2406.02612](http://arxiv.org/abs/2406.02612)|null|
+|**2024-06-03**|**MoFormer: Multi-objective Antimicrobial Peptide Generation Based on Conditional Transformer Joint Multi-modal Fusion Descriptor**|Li Wang et.al.|[2406.02610](http://arxiv.org/abs/2406.02610)|null|
+|**2024-06-03**|**PPINtonus: Early Detection of Parkinson's Disease Using Deep-Learning Tonal Analysis**|Varun Reddy et.al.|[2406.02608](http://arxiv.org/abs/2406.02608)|null|
+|**2024-06-02**|**Gated recurrent neural network with TPE Bayesian optimization for enhancing stock index prediction accuracy**|Bivas Dinda et.al.|[2406.02604](http://arxiv.org/abs/2406.02604)|null|
+|**2024-06-02**|**Multimodal Deep Learning for Low-Resource Settings: A Vector Embedding Alignment Approach for Healthcare Applications**|David Restrepo et.al.|[2406.02601](http://arxiv.org/abs/2406.02601)|null|
 |**2024-06-04**|**Enhancing predictive imaging biomarker discovery through treatment effect analysis**|Shuhan Xiao et.al.|[2406.02534](http://arxiv.org/abs/2406.02534)|null|
 |**2024-06-04**|**Explainable Deep Learning Analysis for Raga Identification in Indian Art Music**|Parampreet Singh et.al.|[2406.02443](http://arxiv.org/abs/2406.02443)|**[link](https://github.com/parampreetsingh97/pim_v1_exai)**|
 |**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|**[link](https://github.com/fudanxu/lora-det)**|
