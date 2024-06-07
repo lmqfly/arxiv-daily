@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -550,7 +550,7 @@ layout: default
 |**2024-04-21**|**Solute segregation in polycrystalline aluminum from hybrid Monte Carlo and molecular dynamics simulations with a unified neuroevolution potential**|Keke Song et.al.|[2404.13694](http://arxiv.org/abs/2404.13694)|**[link](https://github.com/brucefan1983/GPUMD)**|
 |**2024-04-20**|**The Stokes-Einstein-Debye relation in ortho-terphenyl liquid**|Gan Ren et.al.|[2404.13380](http://arxiv.org/abs/2404.13380)|null|
 |**2024-04-19**|**Molecular heat transport across a time-periodic temperature gradient**|Renai Chen et.al.|[2404.12579](http://arxiv.org/abs/2404.12579)|null|
-|**2024-04-17**|**A methodology of quantifying membrane permeability based on returning probability theory and molecular dynamics simulation**|Yuya Matsubara et.al.|[2404.11363](http://arxiv.org/abs/2404.11363)|null|
+|**2024-06-06**|**A methodology of quantifying membrane permeability based on returning probability theory and molecular dynamics simulation**|Yuya Matsubara et.al.|[2404.11363](http://arxiv.org/abs/2404.11363)|null|
 |**2024-04-17**|**Dynamic Local Symmetry Fluctuations of Electron Density in Halide Perovskites**|Colin M. Hylton-Farrington et.al.|[2404.11247](http://arxiv.org/abs/2404.11247)|null|
 |**2024-04-17**|**Efficient Electrochemical CO2 Reduction Reaction over Cu-decorated Biphenylene**|Radha N Somaiya et.al.|[2404.10409](http://arxiv.org/abs/2404.10409)|null|
 |**2024-04-15**|**Time-Heterogeneity of the Förster Radius from Dipole Orientational Dynamics Explains Observed Dynamic Shift**|David Frost et.al.|[2404.09883](http://arxiv.org/abs/2404.09883)|null|
@@ -704,8 +704,8 @@ layout: default
 |**2024-06-05**|**Feature learning in finite-width Bayesian deep linear networks with multiple outputs and convolutional layers**|Federico Bassetti et.al.|[2406.03260](http://arxiv.org/abs/2406.03260)|null|
 |**2024-06-05**|**Near-field Beamforming for Extremely Large-scale MIMO Based on Unsupervised Deep Learning**|Jiali Nie et.al.|[2406.03249](http://arxiv.org/abs/2406.03249)|null|
 |**2024-06-05**|**Interactive Image Selection and Training for Brain Tumor Segmentation Network**|Matheus A. Cerqueira et.al.|[2406.03225](http://arxiv.org/abs/2406.03225)|null|
-|**2024-06-05**|**Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation**|Marvin Schmitt et.al.|[2406.03154](http://arxiv.org/abs/2406.03154)|null|
-|**2024-06-05**|**Graph Convolutional Branch and Bound**|Lorenzo Sciandra et.al.|[2406.03099](http://arxiv.org/abs/2406.03099)|**[link](https://github.com/LorenzoSciandra/GraphConvolutionalBranchandBound)**|
+|**2024-06-06**|**Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation**|Marvin Schmitt et.al.|[2406.03154](http://arxiv.org/abs/2406.03154)|null|
+|**2024-06-06**|**Graph Convolutional Branch and Bound**|Lorenzo Sciandra et.al.|[2406.03099](http://arxiv.org/abs/2406.03099)|**[link](https://github.com/LorenzoSciandra/GraphConvolutionalBranchandBound)**|
 |**2024-06-05**|**A Data and Model-Driven Deep Learning Approach to Robust Downlink Beamforming Optimization**|Kai Liang et.al.|[2406.03098](http://arxiv.org/abs/2406.03098)|null|
 |**2024-06-05**|**Local to Global: Learning Dynamics and Effect of Initialization for Transformers**|Ashok Vardhan Makkuva et.al.|[2406.03072](http://arxiv.org/abs/2406.03072)|null|
 |**2024-06-05**|**Spiking representation learning for associative memories**|Naresh Ravichandran et.al.|[2406.03054](http://arxiv.org/abs/2406.03054)|null|
@@ -739,7 +739,7 @@ layout: default
 |**2024-06-04**|**Enhancing predictive imaging biomarker discovery through treatment effect analysis**|Shuhan Xiao et.al.|[2406.02534](http://arxiv.org/abs/2406.02534)|null|
 |**2024-06-04**|**Explainable Deep Learning Analysis for Raga Identification in Indian Art Music**|Parampreet Singh et.al.|[2406.02443](http://arxiv.org/abs/2406.02443)|**[link](https://github.com/parampreetsingh97/pim_v1_exai)**|
 |**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385](http://arxiv.org/abs/2406.02385)|**[link](https://github.com/fudanxu/lora-det)**|
-|**2024-06-04**|**Kirigami: large convolutional kernels improve deep learning-based RNA secondary structure prediction**|Marc Harary et.al.|[2406.02381](http://arxiv.org/abs/2406.02381)|**[link](https://github.com/marc-harary/kirigami)**|
+|**2024-06-06**|**Kirigami: large convolutional kernels improve deep learning-based RNA secondary structure prediction**|Marc Harary et.al.|[2406.02381](http://arxiv.org/abs/2406.02381)|**[link](https://github.com/marc-harary/kirigami)**|
 |**2024-06-04**|**QCDGE database, Quantum Chemistry Database with Ground- and Excited-state Properties of 450 Kilo Molecules**|Yifei Zhu et.al.|[2406.02341](http://arxiv.org/abs/2406.02341)|null|
 |**2024-06-04**|**$\textit{Kilonova Seekers}$ : the GOTO project for real-time citizen science in time-domain astrophysics**|T. L. Killestein et.al.|[2406.02334](http://arxiv.org/abs/2406.02334)|null|
 |**2024-06-04**|**Continual Unsupervised Out-of-Distribution Detection**|Lars Doorenbos et.al.|[2406.02327](http://arxiv.org/abs/2406.02327)|null|
@@ -780,7 +780,7 @@ layout: default
 |**2024-06-03**|**Confidence-Based Task Prediction in Continual Disease Classification Using Probability Distribution**|Tanvi Verma et.al.|[2406.01054](http://arxiv.org/abs/2406.01054)|null|
 |**2024-06-03**|**Distributional Refinement Network: Distributional Forecasting via Deep Learning**|Benjamin Avanzi et.al.|[2406.00998](http://arxiv.org/abs/2406.00998)|**[link](https://github.com/agi-lab/DRN)**|
 |**2024-06-03**|**A Synergistic Approach In Network Intrusion Detection By Neurosymbolic AI**|Alice Bizzarri et.al.|[2406.00938](http://arxiv.org/abs/2406.00938)|null|
-|**2024-06-03**|**DDA: Dimensionality Driven Augmentation Search for Contrastive Learning in Laparoscopic Surgery**|Yuning Zhou et.al.|[2406.00907](http://arxiv.org/abs/2406.00907)|**[link](https://github.com/JoJoNing25/DDAug)**|
+|**2024-06-06**|**DDA: Dimensionality Driven Augmentation Search for Contrastive Learning in Laparoscopic Surgery**|Yuning Zhou et.al.|[2406.00907](http://arxiv.org/abs/2406.00907)|**[link](https://github.com/JoJoNing25/DDAug)**|
 |**2024-06-02**|**Local Methods with Adaptivity via Scaling**|Savelii Chezhegov et.al.|[2406.00846](http://arxiv.org/abs/2406.00846)|null|
 |**2024-06-02**|**Ensemble Deep Random Vector Functional Link Neural Network Based on Fuzzy Inference System**|M. Sajid et.al.|[2406.00801](http://arxiv.org/abs/2406.00801)|null|
 |**2024-06-02**|**Constrained Adaptive Attack: Effective Adversarial Attack Against Deep Neural Networks for Tabular Data**|Thibault Simonetto et.al.|[2406.00775](http://arxiv.org/abs/2406.00775)|null|
@@ -2867,7 +2867,7 @@ layout: default
 |**2024-03-07**|**3DTextureTransformer: Geometry Aware Texture Generation for Arbitrary Mesh Topology**|Dharma KC et.al.|[2403.04225](http://arxiv.org/abs/2403.04225)|null|
 |**2024-02-27**|**Geometric Deep Learning for Computer-Aided Design: A Survey**|Negar Heidari et.al.|[2402.17695](http://arxiv.org/abs/2402.17695)|null|
 |**2024-05-22**|**Discovering Abstract Symbolic Relations by Learning Unitary Group Representations**|Dongsung Huh et.al.|[2402.17002](http://arxiv.org/abs/2402.17002)|null|
-|**2024-02-23**|**Categorical Deep Learning: An Algebraic Theory of Architectures**|Bruno Gavranović et.al.|[2402.15332](http://arxiv.org/abs/2402.15332)|null|
+|**2024-06-06**|**Position: Categorical Deep Learning is an Algebraic Theory of All Architectures**|Bruno Gavranović et.al.|[2402.15332](http://arxiv.org/abs/2402.15332)|null|
 |**2024-06-05**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
 |**2024-05-30**|**Position: Topological Deep Learning is the New Frontier for Relational Learning**|Theodore Papamarkou et.al.|[2402.08871](http://arxiv.org/abs/2402.08871)|null|
 |**2024-02-07**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836](http://arxiv.org/abs/2402.04836)|null|
