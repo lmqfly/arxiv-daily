@@ -253,6 +253,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**|Artem Zholus et.al.|[2406.03686](http://arxiv.org/abs/2406.03686)|null|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|null|
 |**2024-05-25**|**Pessimistic Backward Policy for GFlowNets**|Hyosoon Jang et.al.|[2405.16012](http://arxiv.org/abs/2405.16012)|null|
 |**2024-04-04**|**GP-MoLFormer: A Foundation Model For Molecular Generation**|Jerret Ross et.al.|[2405.04912](http://arxiv.org/abs/2405.04912)|null|
@@ -497,6 +498,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Gaining Cross-Platform Parallelism for HAL's Molecular Dynamics Package using SYCL**|Viktor Skoblin et.al.|[2406.04210](http://arxiv.org/abs/2406.04210)|null|
+|**2024-06-06**|**Resonant phonons: Localization in a structurally ordered crystal**|Albert Beardo et.al.|[2406.04097](http://arxiv.org/abs/2406.04097)|null|
+|**2024-06-06**|**Thermal Conductivity of Double Polymorph Ga2O3 Structures**|Azat Abdullaev et.al.|[2406.03767](http://arxiv.org/abs/2406.03767)|null|
 |**2024-06-05**|**Topological Neural Networks go Persistent, Equivariant, and Continuous**|Yogesh Verma et.al.|[2406.03164](http://arxiv.org/abs/2406.03164)|null|
 |**2024-06-05**|**Enhancing Critical Current Density in Thin Superconductor Layers by Moiré Pinning Centers**|Zahra Owjifard et.al.|[2406.03013](http://arxiv.org/abs/2406.03013)|null|
 |**2024-06-04**|**Timescale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory**|Vinay Vaibhav et.al.|[2406.02113](http://arxiv.org/abs/2406.02113)|null|
@@ -709,6 +713,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning**|Dulhan Jayalath et.al.|[2406.04328](http://arxiv.org/abs/2406.04328)|null|
+|**2024-06-06**|**ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling**|Haizhong Zheng et.al.|[2406.04273](http://arxiv.org/abs/2406.04273)|null|
+|**2024-06-06**|**Beyond Performance Plateaus: A Comprehensive Study on Scalability in Speech Enhancement**|Wangyou Zhang et.al.|[2406.04269](http://arxiv.org/abs/2406.04269)|null|
+|**2024-06-06**|**Sparse Multi-baseline SAR Cross-modal 3D Reconstruction of Vehicle Targets**|Da Li et.al.|[2406.04158](http://arxiv.org/abs/2406.04158)|null|
+|**2024-06-06**|**Characterizing segregation in blast rock piles a deep-learning approach leveraging aerial image analysis**|Chengeng Liu et.al.|[2406.04149](http://arxiv.org/abs/2406.04149)|null|
+|**2024-06-06**|**UrbanSARFloods: Sentinel-1 SLC-Based Benchmark Dataset for Urban and Open-Area Flood Mapping**|Jie Zhao et.al.|[2406.04111](http://arxiv.org/abs/2406.04111)|null|
+|**2024-06-06**|**From Tissue Plane to Organ World: A Benchmark Dataset for Multimodal Biomedical Image Registration using Deep Co-Attention Networks**|Yifeng Wang et.al.|[2406.04105](http://arxiv.org/abs/2406.04105)|**[link](https://github.com/haizailache999/image-registration)**|
+|**2024-06-06**|**Symplectic Methods in Deep Learning**|Sofya Maslovskaya et.al.|[2406.04104](http://arxiv.org/abs/2406.04104)|null|
+|**2024-06-06**|**Enhancing Weather Predictions: Super-Resolution via Deep Diffusion Models**|Jan Martinů et.al.|[2406.04099](http://arxiv.org/abs/2406.04099)|null|
+|**2024-06-06**|**Reassessing How to Compare and Improve the Calibration of Machine Learning Models**|Muthu Chidambaram et.al.|[2406.04068](http://arxiv.org/abs/2406.04068)|null|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|null|
+|**2024-06-06**|**Slicing Mutual Information Generalization Bounds for Neural Networks**|Kimia Nadjahi et.al.|[2406.04047](http://arxiv.org/abs/2406.04047)|null|
+|**2024-06-06**|**Shaping History: Advanced Machine Learning Techniques for the Analysis and Dating of Cuneiform Tablets over Three Millennia**|Danielle Kapon et.al.|[2406.04039](http://arxiv.org/abs/2406.04039)|null|
+|**2024-06-06**|**LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression**|Junhui Li et.al.|[2406.03961](http://arxiv.org/abs/2406.03961)|null|
+|**2024-06-06**|**Towards Physically Consistent Deep Learning For Climate Model Parameterizations**|Birgit Kühbacher et.al.|[2406.03920](http://arxiv.org/abs/2406.03920)|null|
+|**2024-06-06**|**Memorization in deep learning: A survey**|Jiaheng Wei et.al.|[2406.03880](http://arxiv.org/abs/2406.03880)|null|
+|**2024-06-06**|**PALM: A Efficient Performance Simulator for Tiled Accelerators with Large-scale Model Training**|Jiahao Fang et.al.|[2406.03868](http://arxiv.org/abs/2406.03868)|null|
+|**2024-06-06**|**WaveCastNet: A Deep Learning Ocean Wave Model with Energy Conservation**|Ziliang Zhang et.al.|[2406.03848](http://arxiv.org/abs/2406.03848)|null|
+|**2024-06-06**|**PCART: Automated Repair of Python API Parameter Compatibility Issues**|Shuai Zhang et.al.|[2406.03839](http://arxiv.org/abs/2406.03839)|null|
+|**2024-06-06**|**Proactive Detection of Physical Inter-rule Vulnerabilities in IoT Services Using a Deep Learning Approach**|Bing Huang et.al.|[2406.03836](http://arxiv.org/abs/2406.03836)|null|
+|**2024-06-06**|**Exploiting Global Graph Homophily for Generalized Defense in Graph Neural Networks**|Duanyu Li et.al.|[2406.03833](http://arxiv.org/abs/2406.03833)|null|
+|**2024-06-06**|**SilentCipher: Deep Audio Watermarking**|Mayank Kumar Singh et.al.|[2406.03822](http://arxiv.org/abs/2406.03822)|**[link](https://github.com/sony/silentcipher)**|
+|**2024-06-06**|**Enhancing Graph U-Nets for Mesh-Agnostic Spatio-Temporal Flow Prediction**|Sunwoong Yang et.al.|[2406.03789](http://arxiv.org/abs/2406.03789)|null|
+|**2024-06-06**|**Instance Segmentation and Teeth Classification in Panoramic X-rays**|Devichand Budagam et.al.|[2406.03747](http://arxiv.org/abs/2406.03747)|**[link](https://github.com/devichand579/Instance_seg_teeth)**|
+|**2024-06-06**|**Pi-fusion: Physics-informed diffusion model for learning fluid dynamics**|Jing Qiu et.al.|[2406.03711](http://arxiv.org/abs/2406.03711)|null|
+|**2024-06-06**|**A Hybrid Deep Learning Classification of Perimetric Glaucoma Using Peripapillary Nerve Fiber Layer Reflectance and Other OCT Parameters from Three Anatomy Regions**|Ou Tan et.al.|[2406.03663](http://arxiv.org/abs/2406.03663)|null|
+|**2024-06-06**|**Applications of Deep Learning parameterization of Ocean Momentum Forcing**|Guosong Wang et.al.|[2406.03659](http://arxiv.org/abs/2406.03659)|null|
+|**2024-06-05**|**Partial Label Learning with Focal Loss for Sea Ice Classification Based on Ice Charts**|Behzad Vahedi et.al.|[2406.03645](http://arxiv.org/abs/2406.03645)|null|
+|**2024-06-05**|**Prompt GRB recognition through waterfalls and deep learning**|Michela Negro et.al.|[2406.03643](http://arxiv.org/abs/2406.03643)|null|
+|**2024-06-05**|**BVE + EKF: A viewpoint estimator for the estimation of the object's position in the 3D task space using Extended Kalman Filters**|Sandro Costa Magalhães et.al.|[2406.03591](http://arxiv.org/abs/2406.03591)|null|
+|**2024-06-05**|**A Comparison of Recent Algorithms for Symbolic Regression to Genetic Programming**|Yousef A. Radwan et.al.|[2406.03585](http://arxiv.org/abs/2406.03585)|null|
+|**2024-06-05**|**Robust Communication and Computation using Deep Learning via Joint Uncertainty Injection**|Robert-Jeron Reifert et.al.|[2406.03548](http://arxiv.org/abs/2406.03548)|null|
+|**2024-06-04**|**Fuzzy Convolution Neural Networks for Tabular Data Classification**|Arun D. Kulkarni et.al.|[2406.03506](http://arxiv.org/abs/2406.03506)|null|
 |**2024-06-05**|**Solving Differential Equations using Physics-Informed Deep Equilibrium Models**|Bruno Machado Pacheco et.al.|[2406.03472](http://arxiv.org/abs/2406.03472)|null|
 |**2024-06-02**|**Physics and geometry informed neural operator network with application to acoustic scattering**|Siddharth Nair et.al.|[2406.03407](http://arxiv.org/abs/2406.03407)|null|
 |**2024-06-02**|**LncRNA-disease association prediction method based on heterogeneous information completion and convolutional neural network**|Wen-Yu Xi et.al.|[2406.03406](http://arxiv.org/abs/2406.03406)|null|
@@ -2879,6 +2916,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|null|
 |**2024-05-30**|**DenseSeg: Joint Learning for Semantic Segmentation and Landmark Detection Using Dense Image-to-Shape Representation**|Ron Keuth et.al.|[2405.19746](http://arxiv.org/abs/2405.19746)|**[link](https://github.com/MDL-UzL/DenseSeg)**|
 |**2024-05-24**|**Tensor Frames -- How To Make Any Message Passing Network Equivariant**|Peter Lippmann et.al.|[2405.15389](http://arxiv.org/abs/2405.15389)|null|
 |**2024-05-23**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|null|
