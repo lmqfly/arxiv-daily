@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.07
+## Updated on 2024.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -763,7 +763,7 @@ layout: default
 |**2024-06-04**|**Self-Trained Model for ECG Complex Delineation**|Aram Avetisyan et.al.|[2406.02711](http://arxiv.org/abs/2406.02711)|null|
 |**2024-06-04**|**MPCR: Multi- and Mixed-Precision Computations Package in R**|Mary Lai O. Salvana et.al.|[2406.02701](http://arxiv.org/abs/2406.02701)|null|
 |**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653](http://arxiv.org/abs/2406.02653)|null|
-|**2024-06-04**|**Modeling PROTAC Degradation Activity with Machine Learning**|Stefano Ribes et.al.|[2406.02637](http://arxiv.org/abs/2406.02637)|null|
+|**2024-06-04**|**Modeling PROTAC Degradation Activity with Machine Learning**|Stefano Ribes et.al.|[2406.02637](http://arxiv.org/abs/2406.02637)|**[link](https://github.com/ribesstefano/PROTAC-Degradation-Predictor)**|
 |**2024-06-04**|**Evidentially Calibrated Source-Free Time-Series Domain Adaptation with Temporal Imputation**|Peiliang Gong et.al.|[2406.02635](http://arxiv.org/abs/2406.02635)|null|
 |**2024-06-04**|**Redefining DDoS Attack Detection Using A Dual-Space Prototypical Network-Based Approach**|Fernando Martinez et.al.|[2406.02632](http://arxiv.org/abs/2406.02632)|null|
 |**2024-06-04**|**SSNet: A Lightweight Multi-Party Computation Scheme for Practical Privacy-Preserving Machine Learning Service in the Cloud**|Shijin Duan et.al.|[2406.02629](http://arxiv.org/abs/2406.02629)|null|
