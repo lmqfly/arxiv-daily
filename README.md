@@ -438,7 +438,7 @@
 |**2023-08-17**|**On Data Imbalance in Molecular Property Prediction with Pre-training**|Limin Wang et.al.|[2308.08934](http://arxiv.org/abs/2308.08934)|null|
 |**2023-08-16**|**Is Self-Supervised Pretraining Good for Extrapolation in Molecular Property Prediction?**|Shun Takashige et.al.|[2308.08129](http://arxiv.org/abs/2308.08129)|null|
 |**2023-07-27**|**Rotation-Invariant Random Features Provide a Strong Baseline for Machine Learning on 3D Point Clouds**|Owen Melia et.al.|[2308.06271](http://arxiv.org/abs/2308.06271)|**[link](https://github.com/meliao/rotation-invariant-random-features)**|
-|**2024-04-01**|**Uncertainty Quantification for Molecular Property Predictions with Graph Neural Architecture Search**|Shengli Jiang et.al.|[2307.10438](http://arxiv.org/abs/2307.10438)|null|
+|**2024-04-01**|**Uncertainty Quantification for Molecular Property Predictions with Graph Neural Architecture Search**|Shengli Jiang et.al.|[2307.10438](http://arxiv.org/abs/2307.10438)|**[link](https://github.com/zavalab/ML)**|
 |**2023-07-14**|**Can Large Language Models Empower Molecular Property Prediction?**|Chen Qian et.al.|[2307.07443](http://arxiv.org/abs/2307.07443)|**[link](https://github.com/chnq/llm4mol)**|
 |**2024-03-07**|**Predicting small molecules solubilities on endpoint devices using deep ensemble neural networks**|Mayk Caldas Ramos et.al.|[2307.05318](http://arxiv.org/abs/2307.05318)|**[link](https://github.com/ur-whitelab/mol.dev)**|
 |**2023-07-10**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|**[link](https://github.com/gmum/chienn)**|
