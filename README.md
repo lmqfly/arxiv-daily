@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -136,13 +136,13 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## DDI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-31**|**ADEP: A Novel Approach Based on Discriminator-Enhanced Encoder-Decoder Architecture for Accurate Prediction of Adverse Effects in Polypharmacy**|Katayoun Kobraei et.al.|[2406.00118](http://arxiv.org/abs/2406.00118)|null|
+|**2024-05-31**|**ADEP: A Novel Approach Based on Discriminator-Enhanced Encoder-Decoder Architecture for Accurate Prediction of Adverse Effects in Polypharmacy**|Katayoun Kobraei et.al.|[2406.00118](http://arxiv.org/abs/2406.00118)|**[link](https://github.com/m0hssn/adep)**|
 |**2024-05-10**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|**[link](https://github.com/cns-iu/myaura)**|
 |**2024-03-27**|**CADGL: Context-Aware Deep Graph Learning for Predicting Drug-Drug Interactions**|Azmine Toushik Wasi et.al.|[2403.17210](http://arxiv.org/abs/2403.17210)|null|
 |**2024-03-13**|**Learning to Describe for Predicting Zero-shot Drug-Drug Interactions**|Fangqi Zhu et.al.|[2403.08377](http://arxiv.org/abs/2403.08377)|**[link](https://github.com/zhufq00/ddis-prediction)**|
@@ -247,7 +247,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## MG
 
@@ -367,7 +367,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## MPP
 
@@ -492,7 +492,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## MD
 
@@ -707,7 +707,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## Transformer
 
@@ -722,9 +722,9 @@
 |**2024-06-06**|**From Tissue Plane to Organ World: A Benchmark Dataset for Multimodal Biomedical Image Registration using Deep Co-Attention Networks**|Yifeng Wang et.al.|[2406.04105](http://arxiv.org/abs/2406.04105)|**[link](https://github.com/haizailache999/image-registration)**|
 |**2024-06-06**|**Symplectic Methods in Deep Learning**|Sofya Maslovskaya et.al.|[2406.04104](http://arxiv.org/abs/2406.04104)|null|
 |**2024-06-06**|**Enhancing Weather Predictions: Super-Resolution via Deep Diffusion Models**|Jan Martinů et.al.|[2406.04099](http://arxiv.org/abs/2406.04099)|null|
-|**2024-06-06**|**Reassessing How to Compare and Improve the Calibration of Machine Learning Models**|Muthu Chidambaram et.al.|[2406.04068](http://arxiv.org/abs/2406.04068)|null|
-|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|null|
-|**2024-06-06**|**Slicing Mutual Information Generalization Bounds for Neural Networks**|Kimia Nadjahi et.al.|[2406.04047](http://arxiv.org/abs/2406.04047)|null|
+|**2024-06-06**|**Reassessing How to Compare and Improve the Calibration of Machine Learning Models**|Muthu Chidambaram et.al.|[2406.04068](http://arxiv.org/abs/2406.04068)|**[link](https://github.com/2014mchidamb/reassessing-calibration)**|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
+|**2024-06-06**|**Slicing Mutual Information Generalization Bounds for Neural Networks**|Kimia Nadjahi et.al.|[2406.04047](http://arxiv.org/abs/2406.04047)|**[link](https://github.com/kimiandj/slicing_mi_generalization)**|
 |**2024-06-06**|**Shaping History: Advanced Machine Learning Techniques for the Analysis and Dating of Cuneiform Tablets over Three Millennia**|Danielle Kapon et.al.|[2406.04039](http://arxiv.org/abs/2406.04039)|null|
 |**2024-06-06**|**LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression**|Junhui Li et.al.|[2406.03961](http://arxiv.org/abs/2406.03961)|null|
 |**2024-06-06**|**Towards Physically Consistent Deep Learning For Climate Model Parameterizations**|Birgit Kühbacher et.al.|[2406.03920](http://arxiv.org/abs/2406.03920)|null|
@@ -746,7 +746,7 @@
 |**2024-06-05**|**A Comparison of Recent Algorithms for Symbolic Regression to Genetic Programming**|Yousef A. Radwan et.al.|[2406.03585](http://arxiv.org/abs/2406.03585)|null|
 |**2024-06-05**|**Robust Communication and Computation using Deep Learning via Joint Uncertainty Injection**|Robert-Jeron Reifert et.al.|[2406.03548](http://arxiv.org/abs/2406.03548)|null|
 |**2024-06-04**|**Fuzzy Convolution Neural Networks for Tabular Data Classification**|Arun D. Kulkarni et.al.|[2406.03506](http://arxiv.org/abs/2406.03506)|null|
-|**2024-06-05**|**Solving Differential Equations using Physics-Informed Deep Equilibrium Models**|Bruno Machado Pacheco et.al.|[2406.03472](http://arxiv.org/abs/2406.03472)|null|
+|**2024-06-05**|**Solving Differential Equations using Physics-Informed Deep Equilibrium Models**|Bruno Machado Pacheco et.al.|[2406.03472](http://arxiv.org/abs/2406.03472)|**[link](https://github.com/brunompacheco/pideq)**|
 |**2024-06-02**|**Physics and geometry informed neural operator network with application to acoustic scattering**|Siddharth Nair et.al.|[2406.03407](http://arxiv.org/abs/2406.03407)|null|
 |**2024-06-02**|**LncRNA-disease association prediction method based on heterogeneous information completion and convolutional neural network**|Wen-Yu Xi et.al.|[2406.03406](http://arxiv.org/abs/2406.03406)|null|
 |**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388](http://arxiv.org/abs/2406.03388)|null|
@@ -2780,7 +2780,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## Binding
 
@@ -2910,13 +2910,13 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## Geometric deep learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|null|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
 |**2024-05-30**|**DenseSeg: Joint Learning for Semantic Segmentation and Landmark Detection Using Dense Image-to-Shape Representation**|Ron Keuth et.al.|[2405.19746](http://arxiv.org/abs/2405.19746)|**[link](https://github.com/MDL-UzL/DenseSeg)**|
 |**2024-05-24**|**Tensor Frames -- How To Make Any Message Passing Network Equivariant**|Peter Lippmann et.al.|[2405.15389](http://arxiv.org/abs/2405.15389)|null|
 |**2024-05-23**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|null|
@@ -3028,7 +3028,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -130,7 +130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-31**|**ADEP: A Novel Approach Based on Discriminator-Enhanced Encoder-Decoder Architecture for Accurate Prediction of Adverse Effects in Polypharmacy**|Katayoun Kobraei et.al.|[2406.00118](http://arxiv.org/abs/2406.00118)|null|
+|**2024-05-31**|**ADEP: A Novel Approach Based on Discriminator-Enhanced Encoder-Decoder Architecture for Accurate Prediction of Adverse Effects in Polypharmacy**|Katayoun Kobraei et.al.|[2406.00118](http://arxiv.org/abs/2406.00118)|**[link](https://github.com/m0hssn/adep)**|
 |**2024-05-10**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|**[link](https://github.com/cns-iu/myaura)**|
 |**2024-03-27**|**CADGL: Context-Aware Deep Graph Learning for Predicting Drug-Drug Interactions**|Azmine Toushik Wasi et.al.|[2403.17210](http://arxiv.org/abs/2403.17210)|null|
 |**2024-03-13**|**Learning to Describe for Predicting Zero-shot Drug-Drug Interactions**|Fangqi Zhu et.al.|[2403.08377](http://arxiv.org/abs/2403.08377)|**[link](https://github.com/zhufq00/ddis-prediction)**|
@@ -702,9 +702,9 @@ layout: default
 |**2024-06-06**|**From Tissue Plane to Organ World: A Benchmark Dataset for Multimodal Biomedical Image Registration using Deep Co-Attention Networks**|Yifeng Wang et.al.|[2406.04105](http://arxiv.org/abs/2406.04105)|**[link](https://github.com/haizailache999/image-registration)**|
 |**2024-06-06**|**Symplectic Methods in Deep Learning**|Sofya Maslovskaya et.al.|[2406.04104](http://arxiv.org/abs/2406.04104)|null|
 |**2024-06-06**|**Enhancing Weather Predictions: Super-Resolution via Deep Diffusion Models**|Jan Martinů et.al.|[2406.04099](http://arxiv.org/abs/2406.04099)|null|
-|**2024-06-06**|**Reassessing How to Compare and Improve the Calibration of Machine Learning Models**|Muthu Chidambaram et.al.|[2406.04068](http://arxiv.org/abs/2406.04068)|null|
-|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|null|
-|**2024-06-06**|**Slicing Mutual Information Generalization Bounds for Neural Networks**|Kimia Nadjahi et.al.|[2406.04047](http://arxiv.org/abs/2406.04047)|null|
+|**2024-06-06**|**Reassessing How to Compare and Improve the Calibration of Machine Learning Models**|Muthu Chidambaram et.al.|[2406.04068](http://arxiv.org/abs/2406.04068)|**[link](https://github.com/2014mchidamb/reassessing-calibration)**|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
+|**2024-06-06**|**Slicing Mutual Information Generalization Bounds for Neural Networks**|Kimia Nadjahi et.al.|[2406.04047](http://arxiv.org/abs/2406.04047)|**[link](https://github.com/kimiandj/slicing_mi_generalization)**|
 |**2024-06-06**|**Shaping History: Advanced Machine Learning Techniques for the Analysis and Dating of Cuneiform Tablets over Three Millennia**|Danielle Kapon et.al.|[2406.04039](http://arxiv.org/abs/2406.04039)|null|
 |**2024-06-06**|**LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression**|Junhui Li et.al.|[2406.03961](http://arxiv.org/abs/2406.03961)|null|
 |**2024-06-06**|**Towards Physically Consistent Deep Learning For Climate Model Parameterizations**|Birgit Kühbacher et.al.|[2406.03920](http://arxiv.org/abs/2406.03920)|null|
@@ -726,7 +726,7 @@ layout: default
 |**2024-06-05**|**A Comparison of Recent Algorithms for Symbolic Regression to Genetic Programming**|Yousef A. Radwan et.al.|[2406.03585](http://arxiv.org/abs/2406.03585)|null|
 |**2024-06-05**|**Robust Communication and Computation using Deep Learning via Joint Uncertainty Injection**|Robert-Jeron Reifert et.al.|[2406.03548](http://arxiv.org/abs/2406.03548)|null|
 |**2024-06-04**|**Fuzzy Convolution Neural Networks for Tabular Data Classification**|Arun D. Kulkarni et.al.|[2406.03506](http://arxiv.org/abs/2406.03506)|null|
-|**2024-06-05**|**Solving Differential Equations using Physics-Informed Deep Equilibrium Models**|Bruno Machado Pacheco et.al.|[2406.03472](http://arxiv.org/abs/2406.03472)|null|
+|**2024-06-05**|**Solving Differential Equations using Physics-Informed Deep Equilibrium Models**|Bruno Machado Pacheco et.al.|[2406.03472](http://arxiv.org/abs/2406.03472)|**[link](https://github.com/brunompacheco/pideq)**|
 |**2024-06-02**|**Physics and geometry informed neural operator network with application to acoustic scattering**|Siddharth Nair et.al.|[2406.03407](http://arxiv.org/abs/2406.03407)|null|
 |**2024-06-02**|**LncRNA-disease association prediction method based on heterogeneous information completion and convolutional neural network**|Wen-Yu Xi et.al.|[2406.03406](http://arxiv.org/abs/2406.03406)|null|
 |**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388](http://arxiv.org/abs/2406.03388)|null|
@@ -2892,7 +2892,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|null|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
 |**2024-05-30**|**DenseSeg: Joint Learning for Semantic Segmentation and Landmark Detection Using Dense Image-to-Shape Representation**|Ron Keuth et.al.|[2405.19746](http://arxiv.org/abs/2405.19746)|**[link](https://github.com/MDL-UzL/DenseSeg)**|
 |**2024-05-24**|**Tensor Frames -- How To Make Any Message Passing Network Equivariant**|Peter Lippmann et.al.|[2405.15389](http://arxiv.org/abs/2405.15389)|null|
 |**2024-05-23**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|null|
