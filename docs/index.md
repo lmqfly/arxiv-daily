@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -729,7 +729,7 @@ layout: default
 |**2024-06-05**|**Solving Differential Equations using Physics-Informed Deep Equilibrium Models**|Bruno Machado Pacheco et.al.|[2406.03472](http://arxiv.org/abs/2406.03472)|**[link](https://github.com/brunompacheco/pideq)**|
 |**2024-06-02**|**Physics and geometry informed neural operator network with application to acoustic scattering**|Siddharth Nair et.al.|[2406.03407](http://arxiv.org/abs/2406.03407)|null|
 |**2024-06-02**|**LncRNA-disease association prediction method based on heterogeneous information completion and convolutional neural network**|Wen-Yu Xi et.al.|[2406.03406](http://arxiv.org/abs/2406.03406)|null|
-|**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388](http://arxiv.org/abs/2406.03388)|null|
+|**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388](http://arxiv.org/abs/2406.03388)|**[link](https://github.com/alexduarte23/sred)**|
 |**2024-06-05**|**Training of Physical Neural Networks**|Ali Momeni et.al.|[2406.03372](http://arxiv.org/abs/2406.03372)|null|
 |**2024-06-05**|**Posterior and variational inference for deep neural networks with heavy-tailed weights**|Ismaël Castillo et.al.|[2406.03369](http://arxiv.org/abs/2406.03369)|null|
 |**2024-06-05**|**Cooperative learning of Pl@ntNet's Artificial Intelligence algorithm: how does it work and how can we improve it?**|Tanguy Lefort et.al.|[2406.03356](http://arxiv.org/abs/2406.03356)|null|
@@ -783,16 +783,16 @@ layout: default
 |**2024-06-04**|**A deep-learning-based MAC for integrating channel access, rate adaptation and channel switch**|Jiantao Xin et.al.|[2406.02291](http://arxiv.org/abs/2406.02291)|null|
 |**2024-06-04**|**Leveraging deterministic weather forecasts for in-situ probabilistic temperature predictions via deep learning**|David Landry et.al.|[2406.02141](http://arxiv.org/abs/2406.02141)|null|
 |**2024-06-04**|**MaskSR: Masked Language Model for Full-band Speech Restoration**|Xu Li et.al.|[2406.02092](http://arxiv.org/abs/2406.02092)|null|
-|**2024-06-04**|**Multi-target stain normalization for histology slides**|Desislav Ivanov et.al.|[2406.02077](http://arxiv.org/abs/2406.02077)|**[link](https://github.com/eidoslab/torchstain)**|
+|**2024-06-07**|**Multi-target stain normalization for histology slides**|Desislav Ivanov et.al.|[2406.02077](http://arxiv.org/abs/2406.02077)|**[link](https://github.com/eidoslab/torchstain)**|
 |**2024-06-04**|**ReLU-KAN: New Kolmogorov-Arnold Networks that Only Need Matrix Addition, Dot Multiplication, and ReLU**|Qi Qiu et.al.|[2406.02075](http://arxiv.org/abs/2406.02075)|**[link](https://github.com/quiqi/relu_kan)**|
 |**2024-06-04**|**Tabular and Deep Learning for the Whittle Index**|Francisco Robledo Relaño et.al.|[2406.02057](http://arxiv.org/abs/2406.02057)|null|
 |**2024-06-04**|**PETRA: Parallel End-to-end Training with Reversible Architectures**|Stéphane Rivaud et.al.|[2406.02052](http://arxiv.org/abs/2406.02052)|null|
 |**2024-06-04**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037](http://arxiv.org/abs/2406.02037)|null|
-|**2024-06-04**|**Verifying the Generalization of Deep Learning to Out-of-Distribution Domains**|Guy Amir et.al.|[2406.02024](http://arxiv.org/abs/2406.02024)|null|
+|**2024-06-07**|**Verifying the Generalization of Deep Learning to Out-of-Distribution Domains**|Guy Amir et.al.|[2406.02024](http://arxiv.org/abs/2406.02024)|null|
 |**2024-06-04**|**Understanding Auditory Evoked Brain Signal via Physics-informed Embedding Network with Multi-Task Transformer**|Wanli Ma et.al.|[2406.02014](http://arxiv.org/abs/2406.02014)|null|
 |**2024-06-04**|**Advancing Ultra-Reliable 6G: Transformer and Semantic Localization Empowered Robust Beamforming in Millimeter-Wave Communications**|Avi Deb Raha et.al.|[2406.02000](http://arxiv.org/abs/2406.02000)|null|
 |**2024-06-04**|**Bayesian Mesh Optimization for Graph Neural Networks to Enhance Engineering Performance Prediction**|Jangseop Park et.al.|[2406.01996](http://arxiv.org/abs/2406.01996)|null|
-|**2024-06-04**|**How Inductive Bias in Machine Learning Aligns with Optimality in Economic Dynamics**|Mahdi Ebrahimi Kahou et.al.|[2406.01898](http://arxiv.org/abs/2406.01898)|null|
+|**2024-06-07**|**How Inductive Bias in Machine Learning Aligns with Optimality in Economic Dynamics**|Mahdi Ebrahimi Kahou et.al.|[2406.01898](http://arxiv.org/abs/2406.01898)|null|
 |**2024-06-04**|**Fruit Classification System with Deep Learning and Neural Architecture Search**|Christine Dewi et.al.|[2406.01869](http://arxiv.org/abs/2406.01869)|null|
 |**2024-06-03**|**Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning**|Leonardo Iurada et.al.|[2406.01820](http://arxiv.org/abs/2406.01820)|**[link](https://github.com/iurada/px-ntk-pruning)**|
 |**2024-06-03**|**Imputation of Missing Photometric Data and Photometric Redshift Estimation for CSST**|Zhijian Luo et.al.|[2406.01719](http://arxiv.org/abs/2406.01719)|null|
