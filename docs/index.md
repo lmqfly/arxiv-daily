@@ -239,6 +239,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Variational Flow Matching for Graph Generation**|Floor Eijkelboom et.al.|[2406.04843](http://arxiv.org/abs/2406.04843)|null|
 |**2024-06-06**|**BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**|Artem Zholus et.al.|[2406.03686](http://arxiv.org/abs/2406.03686)|null|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|null|
 |**2024-05-25**|**Pessimistic Backward Policy for GFlowNets**|Hyosoon Jang et.al.|[2405.16012](http://arxiv.org/abs/2405.16012)|null|
@@ -480,6 +481,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Crystal Structure Prediction and Phase Stability in Highly Anharmonic Silver-Based Chalcohalide Anti-Perovskites**|Pol Benítez et.al.|[2406.04966](http://arxiv.org/abs/2406.04966)|null|
+|**2024-06-07**|**Origin of the yield stress anomaly in L12 intermetallics unveiled with physically-informed machine-learning potentials**|Xiang Xu et.al.|[2406.04948](http://arxiv.org/abs/2406.04948)|null|
+|**2024-06-07**|**Destabilization of Alzheimers Amyloid-beta Protofibrils by Bai-calein: Mechanistic Insights from All-atom Molecular Dynamics Simulations**|Sadika Choudhury et.al.|[2406.04852](http://arxiv.org/abs/2406.04852)|null|
+|**2024-06-07**|**Defects induce phase transition from dynamic to static rippling in graphene**|Fabian L. Thiemann et.al.|[2406.04775](http://arxiv.org/abs/2406.04775)|null|
 |**2024-06-06**|**Gaining Cross-Platform Parallelism for HAL's Molecular Dynamics Package using SYCL**|Viktor Skoblin et.al.|[2406.04210](http://arxiv.org/abs/2406.04210)|null|
 |**2024-06-06**|**Resonant phonons: Localization in a structurally ordered crystal**|Albert Beardo et.al.|[2406.04097](http://arxiv.org/abs/2406.04097)|null|
 |**2024-06-06**|**Thermal Conductivity of Double Polymorph Ga2O3 Structures**|Azat Abdullaev et.al.|[2406.03767](http://arxiv.org/abs/2406.03767)|null|
@@ -693,6 +698,40 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Differentiable Time-Varying Linear Prediction in the Context of End-to-End Analysis-by-Synthesis**|Chin-Yun Yu et.al.|[2406.05128](http://arxiv.org/abs/2406.05128)|**[link](https://github.com/yoyololicon/torchlpc)**|
+|**2024-06-07**|**Adapting Physics-Informed Neural Networks To Optimize ODEs in Mosquito Population Dynamics**|Dinh Viet Cuong et.al.|[2406.05108](http://arxiv.org/abs/2406.05108)|null|
+|**2024-06-07**|**Optimizing Time Series Forecasting Architectures: A Hierarchical Neural Architecture Search Approach**|Difan Deng et.al.|[2406.05088](http://arxiv.org/abs/2406.05088)|null|
+|**2024-06-07**|**Scaling up Probabilistic PDE Simulators with Structured Volumetric Information**|Tim Weiland et.al.|[2406.05020](http://arxiv.org/abs/2406.05020)|**[link](https://github.com/timweiland/gp-fvm)**|
+|**2024-06-07**|**Predictability Limit of the 2021 Pacific Northwest Heatwave from Deep-Learning Sensitivity Analysis**|P. Trent Vonich et.al.|[2406.05019](http://arxiv.org/abs/2406.05019)|null|
+|**2024-06-07**|**Clarifying Myths About the Relationship Between Shape Bias, Accuracy, and Robustness**|Zahra Golpayegani et.al.|[2406.05006](http://arxiv.org/abs/2406.05006)|null|
+|**2024-06-07**|**Benchmarking Deep Jansen-Rit Parameter Inference: An in Silico Study**|Deepa Tilwani et.al.|[2406.05002](http://arxiv.org/abs/2406.05002)|**[link](https://github.com/lina-usc/jansen-rit-model-benchmarking-deep-learning)**|
+|**2024-06-07**|**Development and Validation of a Deep-Learning Model for Differential Treatment Benefit Prediction for Adults with Major Depressive Disorder Deployed in the Artificial Intelligence in Depression Medication Enhancement (AIDME) Study**|David Benrimoh et.al.|[2406.04993](http://arxiv.org/abs/2406.04993)|null|
+|**2024-06-07**|**CarbonSense: A Multimodal Dataset and Baseline for Carbon Flux Modelling**|Matthew Fortier et.al.|[2406.04940](http://arxiv.org/abs/2406.04940)|null|
+|**2024-06-07**|**MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers**|Tanvir Mahmud et.al.|[2406.04930](http://arxiv.org/abs/2406.04930)|null|
+|**2024-06-07**|**Sexism Detection on a Data Diet**|Rabiraj Bandyopadhyay et.al.|[2406.04892](http://arxiv.org/abs/2406.04892)|null|
+|**2024-06-07**|**Approximate Bayesian Computation with Deep Learning and Conformal prediction**|Meili Baragatti et.al.|[2406.04874](http://arxiv.org/abs/2406.04874)|null|
+|**2024-06-07**|**Deep learning for precipitation nowcasting: A survey from the perspective of time series forecasting**|Sojung An et.al.|[2406.04867](http://arxiv.org/abs/2406.04867)|null|
+|**2024-06-07**|**Graph Mining under Data scarcity**|Appan Rakaraddi et.al.|[2406.04825](http://arxiv.org/abs/2406.04825)|null|
+|**2024-06-07**|**M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method**|Zhihao Li et.al.|[2406.04822](http://arxiv.org/abs/2406.04822)|null|
+|**2024-06-07**|**Deep Learning Powered Estimate of The Extrinsic Parameters on Unmanned Surface Vehicles**|Yi Shen et.al.|[2406.04821](http://arxiv.org/abs/2406.04821)|null|
+|**2024-06-07**|**Approximated Coded Computing: Towards Fast, Private and Secure Distributed Machine Learning**|Houming Qiu et.al.|[2406.04747](http://arxiv.org/abs/2406.04747)|null|
+|**2024-06-07**|**Activation Map-based Vector Quantization for 360-degree Image Semantic Communication**|Yang Ma et.al.|[2406.04740](http://arxiv.org/abs/2406.04740)|null|
+|**2024-06-07**|**Unsupervised representation learning with Hebbian synaptic and structural plasticity in brain-like feedforward neural networks**|Naresh Ravichandran et.al.|[2406.04733](http://arxiv.org/abs/2406.04733)|null|
+|**2024-06-07**|**A Deep Automotive Radar Detector using the RaDelft Dataset**|Ignacio Roldan et.al.|[2406.04723](http://arxiv.org/abs/2406.04723)|null|
+|**2024-06-07**|**ConDiff: A Challenging Dataset for Neural Solvers of Partial Differential Equations**|Vladislav Trifonov et.al.|[2406.04709](http://arxiv.org/abs/2406.04709)|null|
+|**2024-06-07**|**Logic Synthesis with Generative Deep Neural Networks**|Xihan Li et.al.|[2406.04699](http://arxiv.org/abs/2406.04699)|null|
+|**2024-06-07**|**MTS-Net: Dual-Enhanced Positional Multi-Head Self-Attention for 3D CT Diagnosis of May-Thurner Syndrome**|Yixin Huang et.al.|[2406.04680](http://arxiv.org/abs/2406.04680)|null|
+|**2024-06-07**|**URGENT Challenge: Universality, Robustness, and Generalizability For Speech Enhancement**|Wangyou Zhang et.al.|[2406.04660](http://arxiv.org/abs/2406.04660)|null|
+|**2024-06-07**|**MeGA: Merging Multiple Independently Trained Neural Networks Based on Genetic Algorithm**|Daniel Yun et.al.|[2406.04607](http://arxiv.org/abs/2406.04607)|**[link](https://github.com/yunblak/mega-merging-multiple-independently-trained-neural-networks-based-on-genetic-algorithm)**|
+|**2024-06-07**|**Optimization of geological carbon storage operations with multimodal latent dynamic model and deep reinforcement learning**|Zhongzheng Wang et.al.|[2406.04575](http://arxiv.org/abs/2406.04575)|null|
+|**2024-06-07**|**Error Bounds of Supervised Classification from Information-Theoretic Perspective**|Binchuan Qi et.al.|[2406.04567](http://arxiv.org/abs/2406.04567)|null|
+|**2024-06-06**|**Towards Naturalistic Voice Conversion: NaturalVoices Dataset with an Automatic Processing Pipeline**|Ali N. Salman et.al.|[2406.04494](http://arxiv.org/abs/2406.04494)|null|
+|**2024-06-06**|**Step Out and Seek Around: On Warm-Start Training with Incremental Data**|Maying Shen et.al.|[2406.04484](http://arxiv.org/abs/2406.04484)|null|
+|**2024-06-06**|**RiskMap: A Unified Driving Context Representation for Autonomous Motion Planning in Urban Driving Environment**|Ren Xin et.al.|[2406.04451](http://arxiv.org/abs/2406.04451)|null|
+|**2024-06-06**|**Can Language Models Use Forecasting Strategies?**|Sarah Pratt et.al.|[2406.04446](http://arxiv.org/abs/2406.04446)|null|
+|**2024-06-06**|**Gradient Clipping Improves AdaGrad when the Noise Is Heavy-Tailed**|Savelii Chezhegov et.al.|[2406.04443](http://arxiv.org/abs/2406.04443)|null|
+|**2024-06-06**|**Improving the Fairness of Deep-Learning, Short-term Crime Prediction with Under-reporting-aware Models**|Jiahui Wu et.al.|[2406.04382](http://arxiv.org/abs/2406.04382)|null|
+|**2024-06-06**|**Physics-Informed Neural Networks for the Numerical Modeling of Steady-State and Transient Electromagnetic Problems with Discontinuous Media**|Michel Nohra et.al.|[2406.04380](http://arxiv.org/abs/2406.04380)|null|
 |**2024-06-06**|**The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning**|Dulhan Jayalath et.al.|[2406.04328](http://arxiv.org/abs/2406.04328)|null|
 |**2024-06-06**|**ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling**|Haizhong Zheng et.al.|[2406.04273](http://arxiv.org/abs/2406.04273)|null|
 |**2024-06-06**|**Beyond Performance Plateaus: A Comprehensive Study on Scalability in Speech Enhancement**|Wangyou Zhang et.al.|[2406.04269](http://arxiv.org/abs/2406.04269)|null|
