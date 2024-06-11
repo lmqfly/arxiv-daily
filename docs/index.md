@@ -358,6 +358,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-09**|**3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization**|Qizhi Pei et.al.|[2406.05797](http://arxiv.org/abs/2406.05797)|null|
 |**2024-06-03**|**LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning**|Junjie Xu et.al.|[2406.01032](http://arxiv.org/abs/2406.01032)|null|
 |**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
 |**2024-06-01**|**Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models**|Zhenzhong Wang et.al.|[2405.16041](http://arxiv.org/abs/2405.16041)|null|
@@ -380,7 +381,7 @@ layout: default
 |**2024-02-18**|**The Impact of Domain Knowledge and Multi-Modality on Intelligent Molecular Property Prediction: A Systematic Survey**|Taojie Kuang et.al.|[2402.07249](http://arxiv.org/abs/2402.07249)|null|
 |**2024-04-25**|**ChemLLM: A Chemical Large Language Model**|Di Zhang et.al.|[2402.06852](http://arxiv.org/abs/2402.06852)|null|
 |**2024-06-10**|**Triplet Interaction Improves Graph Transformers: Accurate Molecular Graph Learning with Triplet Graph Transformers**|Md Shamim Hussain et.al.|[2402.04538](http://arxiv.org/abs/2402.04538)|**[link](https://github.com/shamim-hussain/tgt)**|
-|**2024-02-03**|**Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks**|Duy M. H. Nguyen et.al.|[2402.01975](http://arxiv.org/abs/2402.01975)|null|
+|**2024-06-10**|**Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks**|Duy M. H. Nguyen et.al.|[2402.01975](http://arxiv.org/abs/2402.01975)|**[link](https://github.com/duyhominhnguyen/conan-fgw)**|
 |**2024-05-21**|**Can Large Language Models Understand Molecules?**|Shaghayegh Sadeghi et.al.|[2402.00024](http://arxiv.org/abs/2402.00024)|**[link](https://github.com/sshaghayeghs/llama-vs-gpt)**|
 |**2024-02-02**|**Graph Multi-Similarity Learning for Molecular Property Prediction**|Hao Xu et.al.|[2401.17615](http://arxiv.org/abs/2401.17615)|null|
 |**2024-01-30**|**MolPLA: A Molecular Pretraining Framework for Learning Cores, R-Groups and their Linker Joints**|Mogan Gim et.al.|[2401.16771](http://arxiv.org/abs/2401.16771)|**[link](https://github.com/dmis-lab/molpla)**|
@@ -481,6 +482,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-09**|**Multi-temperature atomic ensemble: nonequilibrium evolution after ultrafast electronic excitation**|Nikita Medvedev et.al.|[2406.05718](http://arxiv.org/abs/2406.05718)|null|
 |**2024-06-07**|**Crystal Structure Prediction and Phase Stability in Highly Anharmonic Silver-Based Chalcohalide Anti-Perovskites**|Pol Benítez et.al.|[2406.04966](http://arxiv.org/abs/2406.04966)|null|
 |**2024-06-07**|**Origin of the yield stress anomaly in L12 intermetallics unveiled with physically-informed machine-learning potentials**|Xiang Xu et.al.|[2406.04948](http://arxiv.org/abs/2406.04948)|null|
 |**2024-06-07**|**Destabilization of Alzheimers Amyloid-beta Protofibrils by Bai-calein: Mechanistic Insights from All-atom Molecular Dynamics Simulations**|Sadika Choudhury et.al.|[2406.04852](http://arxiv.org/abs/2406.04852)|null|
@@ -698,6 +700,50 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519](http://arxiv.org/abs/2406.06519)|**[link](https://github.com/castorini/umbrela)**|
+|**2024-06-10**|**Data Augmentation for Multivariate Time Series Classification: An Experimental Study**|Romain Ilbert et.al.|[2406.06518](http://arxiv.org/abs/2406.06518)|null|
+|**2024-06-10**|**Time Series Analysis: yesterday, today, tomorrow**|Igor Mackarov et.al.|[2406.06453](http://arxiv.org/abs/2406.06453)|null|
+|**2024-06-10**|**An Improved Empirical Fisher Approximation for Natural Gradient Descent**|Xiaodong Wu et.al.|[2406.06420](http://arxiv.org/abs/2406.06420)|null|
+|**2024-06-10**|**INTERSPEECH 2009 Emotion Challenge Revisited: Benchmarking 15 Years of Progress in Speech Emotion Recognition**|Andreas Triantafyllopoulos et.al.|[2406.06401](http://arxiv.org/abs/2406.06401)|null|
+|**2024-06-10**|**FPN-IAIA-BL: A Multi-Scale Interpretable Deep Learning Model for Classification of Mass Margins in Digital Mammography**|Julia Yang et.al.|[2406.06386](http://arxiv.org/abs/2406.06386)|null|
+|**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372](http://arxiv.org/abs/2406.06372)|null|
+|**2024-06-10**|**Symmetric Dot-Product Attention for Efficient Training of BERT Language Models**|Martin Courtois et.al.|[2406.06366](http://arxiv.org/abs/2406.06366)|null|
+|**2024-06-10**|**Navigating Unknowns: Deep Learning Robustness for Gravitational Wave Signal Reconstruction**|Chayan Chatterjee et.al.|[2406.06324](http://arxiv.org/abs/2406.06324)|null|
+|**2024-06-10**|**Measurement of the Depth of Maximum of Air-Shower Profiles with energies between $\mathbf{10^{18.5}}$ and $\mathbf{10^{20}}$ eV using the Surface Detector of the Pierre Auger Observatory and Deep Learning**|The Pierre Auger Collaboration et.al.|[2406.06319](http://arxiv.org/abs/2406.06319)|null|
+|**2024-06-10**|**Inference of the Mass Composition of Cosmic Rays with energies from $\mathbf{10^{18.5}}$ to $\mathbf{10^{20}}$ eV using the Pierre Auger Observatory and Deep Learning**|The Pierre Auger Collaboration et.al.|[2406.06315](http://arxiv.org/abs/2406.06315)|null|
+|**2024-06-10**|**Holographic complex potential of a quarkonium from deep learning**|Mahdi Mansouri et.al.|[2406.06285](http://arxiv.org/abs/2406.06285)|null|
+|**2024-06-10**|**Black carbon plumes from gas flaring in North Africa identified from multi-spectral imagery with deep learning**|Tuel Alexandre et.al.|[2406.06183](http://arxiv.org/abs/2406.06183)|null|
+|**2024-06-10**|**An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware Crop Yield Predictions**|Fudong Lin et.al.|[2406.06081](http://arxiv.org/abs/2406.06081)|null|
+|**2024-06-10**|**Neuro-TransUNet: Segmentation of stroke lesion in MRI using transformers**|Muhammad Nouman et.al.|[2406.06017](http://arxiv.org/abs/2406.06017)|null|
+|**2024-06-10**|**Neural-g: A Deep Learning Framework for Mixing Density Estimation**|Shijie Wang et.al.|[2406.05986](http://arxiv.org/abs/2406.05986)|**[link](https://github.com/shijiew97/neuralg)**|
+|**2024-06-10**|**Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook**|Yusif Ibrahimov et.al.|[2406.05984](http://arxiv.org/abs/2406.05984)|null|
+|**2024-06-10**|**Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning**|Xin Wang et.al.|[2406.05974](http://arxiv.org/abs/2406.05974)|null|
+|**2024-06-09**|**BD-SAT: High-resolution Land Use Land Cover Dataset & Benchmark Results for Developing Division: Dhaka, BD**|Ovi Paul et.al.|[2406.05912](http://arxiv.org/abs/2406.05912)|null|
+|**2024-06-09**|**Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models**|Aidan Z. H. Yang et.al.|[2406.05892](http://arxiv.org/abs/2406.05892)|null|
+|**2024-06-09**|**Mamba YOLO: SSMs-Based YOLO For Object Detection**|Zeyu Wang et.al.|[2406.05835](http://arxiv.org/abs/2406.05835)|**[link](https://github.com/hzai-zjnu/mamba-yolo)**|
+|**2024-06-09**|**Methodology and Real-World Applications of Dynamic Uncertain Causality Graph for Clinical Diagnosis with Explainability and Invariance**|Zhan Zhang et.al.|[2406.05746](http://arxiv.org/abs/2406.05746)|null|
+|**2024-06-09**|**From Basic to Extra Features: Hypergraph Transformer Pretrain-then-Finetuning for Balanced Clinical Predictions on EHR**|Ran Xu et.al.|[2406.05682](http://arxiv.org/abs/2406.05682)|null|
+|**2024-06-09**|**General Distribution Learning: A theoretical framework for Deep Learning**|Binchuan Qi et.al.|[2406.05666](http://arxiv.org/abs/2406.05666)|null|
+|**2024-06-09**|**Injecting Undetectable Backdoors in Deep Learning and Language Models**|Alkis Kalavasis et.al.|[2406.05660](http://arxiv.org/abs/2406.05660)|null|
+|**2024-06-09**|**Heart Sound Segmentation Using Deep Learning Techniques**|Manas Madine et.al.|[2406.05653](http://arxiv.org/abs/2406.05653)|null|
+|**2024-06-09**|**CCSI: Continual Class-Specific Impression for Data-free Class Incremental Learning**|Sana Ayromlou et.al.|[2406.05631](http://arxiv.org/abs/2406.05631)|null|
+|**2024-06-09**|**Deep Learning to Predict Glaucoma Progression using Structural Changes in the Eye**|Sayan Mandal et.al.|[2406.05605](http://arxiv.org/abs/2406.05605)|null|
+|**2024-06-08**|**Aligning Human Knowledge with Visual Concepts Towards Explainable Medical Image Classification**|Yunhe Gao et.al.|[2406.05596](http://arxiv.org/abs/2406.05596)|null|
+|**2024-06-08**|**Automatic modulation classification for MIMO system based on the mutual information feature extraction**|N. Ussipov et.al.|[2406.05529](http://arxiv.org/abs/2406.05529)|null|
+|**2024-06-08**|**Synergizing Deep Learning and Phase Change Materials for Four-state Broadband Multifunctional Metasurfaces in the Visible Range**|Md. Ehsanul Karim et.al.|[2406.05519](http://arxiv.org/abs/2406.05519)|null|
+|**2024-06-08**|**A Two-Stage Adverse Weather Semantic Segmentation Method for WeatherProof Challenge CVPR 2024 Workshop UG2+**|Jianzhao Wang et.al.|[2406.05513](http://arxiv.org/abs/2406.05513)|null|
+|**2024-06-08**|**RandONet: Shallow-Networks with Random Projections for learning linear and nonlinear operators**|Gianluca Fabiani et.al.|[2406.05470](http://arxiv.org/abs/2406.05470)|null|
+|**2024-06-08**|**Novel Approach to Intrusion Detection: Introducing GAN-MSCNN-BILSTM with LIME Predictions**|Asmaa Benchama et.al.|[2406.05443](http://arxiv.org/abs/2406.05443)|null|
+|**2024-06-08**|**3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.05421](http://arxiv.org/abs/2406.05421)|null|
+|**2024-06-08**|**Metric Convolutions: A Unifying Theory to Adaptive Convolutions**|Thomas Dagès et.al.|[2406.05400](http://arxiv.org/abs/2406.05400)|null|
+|**2024-06-08**|**Evaluation of Posits for Spectral Analysis Using a Software-Defined Dataflow Architecture**|Sameer Deshmukh et.al.|[2406.05398](http://arxiv.org/abs/2406.05398)|null|
+|**2024-06-08**|**A Deep Learning-Augmented Stand-off Radar Scheme for Rapidly Detecting Tree Defects**|Jiwei Qian et.al.|[2406.05389](http://arxiv.org/abs/2406.05389)|null|
+|**2024-06-08**|**RAPID: Robust APT Detection and Investigation Using Context-Aware Deep Learning**|Yonatan Amaru et.al.|[2406.05362](http://arxiv.org/abs/2406.05362)|null|
+|**2024-06-08**|**Blurry-Consistency Segmentation Framework with Selective Stacking on Differential Interference Contrast 3D Breast Cancer Spheroid**|Thanh-Huy Nguyen et.al.|[2406.05349](http://arxiv.org/abs/2406.05349)|null|
+|**2024-06-08**|**Deep Neural Networks are Adaptive to Function Regularity and Data Distribution in Approximation and Estimation**|Hao Liu et.al.|[2406.05320](http://arxiv.org/abs/2406.05320)|null|
+|**2024-06-08**|**Beyond Efficiency: Scaling AI Sustainably**|Carole-Jean Wu et.al.|[2406.05303](http://arxiv.org/abs/2406.05303)|null|
+|**2024-06-07**|**Retrieval & Fine-Tuning for In-Context Tabular Models**|Valentin Thomas et.al.|[2406.05207](http://arxiv.org/abs/2406.05207)|null|
+|**2024-06-07**|**Research on Tumors Segmentation based on Image Enhancement Method**|Danyi Huang et.al.|[2406.05170](http://arxiv.org/abs/2406.05170)|null|
 |**2024-06-07**|**Differentiable Time-Varying Linear Prediction in the Context of End-to-End Analysis-by-Synthesis**|Chin-Yun Yu et.al.|[2406.05128](http://arxiv.org/abs/2406.05128)|**[link](https://github.com/yoyololicon/torchlpc)**|
 |**2024-06-07**|**Adapting Physics-Informed Neural Networks To Optimize ODEs in Mosquito Population Dynamics**|Dinh Viet Cuong et.al.|[2406.05108](http://arxiv.org/abs/2406.05108)|null|
 |**2024-06-07**|**Optimizing Time Series Forecasting Architectures: A Hierarchical Neural Architecture Search Approach**|Difan Deng et.al.|[2406.05088](http://arxiv.org/abs/2406.05088)|null|
@@ -2803,6 +2849,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-09**|**Smiles2Dock: an open large-scale multi-task dataset for ML-based molecular docking**|Thomas Le Menestrel et.al.|[2406.05738](http://arxiv.org/abs/2406.05738)|null|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|null|
 |**2024-05-28**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
 |**2024-05-28**|**Multi-level Interaction Modeling for Protein Mutational Effect Prediction**|Yuanle Mo et.al.|[2405.17802](http://arxiv.org/abs/2405.17802)|null|
