@@ -239,6 +239,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Efficient 3D Molecular Generation with Flow Matching and Scale Optimal Transport**|Ross Irwin et.al.|[2406.07266](http://arxiv.org/abs/2406.07266)|null|
 |**2024-06-07**|**Variational Flow Matching for Graph Generation**|Floor Eijkelboom et.al.|[2406.04843](http://arxiv.org/abs/2406.04843)|null|
 |**2024-06-06**|**BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**|Artem Zholus et.al.|[2406.03686](http://arxiv.org/abs/2406.03686)|null|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|null|
@@ -358,6 +359,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Ensemble Model With Bert,Roberta and Xlnet For Molecular property prediction**|Junling Hu et.al.|[2406.06553](http://arxiv.org/abs/2406.06553)|null|
 |**2024-06-09**|**3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization**|Qizhi Pei et.al.|[2406.05797](http://arxiv.org/abs/2406.05797)|null|
 |**2024-06-03**|**LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning**|Junjie Xu et.al.|[2406.01032](http://arxiv.org/abs/2406.01032)|null|
 |**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
@@ -482,6 +484,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Accuracy and limitations of the bond polarizability model in modeling of Raman scattering from molecular dynamics simulations**|Atanu Paul et.al.|[2406.07448](http://arxiv.org/abs/2406.07448)|null|
+|**2024-06-11**|**Fast and accurate evaluation of Biot-Savart integrals over spatial curves**|Juan Ignacio Polanco et.al.|[2406.07366](http://arxiv.org/abs/2406.07366)|null|
 |**2024-06-09**|**Multi-temperature atomic ensemble: nonequilibrium evolution after ultrafast electronic excitation**|Nikita Medvedev et.al.|[2406.05718](http://arxiv.org/abs/2406.05718)|null|
 |**2024-06-07**|**Crystal Structure Prediction and Phase Stability in Highly Anharmonic Silver-Based Chalcohalide Anti-Perovskites**|Pol Benítez et.al.|[2406.04966](http://arxiv.org/abs/2406.04966)|null|
 |**2024-06-07**|**Origin of the yield stress anomaly in L12 intermetallics unveiled with physically-informed machine-learning potentials**|Xiang Xu et.al.|[2406.04948](http://arxiv.org/abs/2406.04948)|null|
@@ -700,6 +704,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538](http://arxiv.org/abs/2406.07538)|null|
+|**2024-06-11**|**Towards Fundamentally Scalable Model Selection: Asymptotically Fast Update and Selection**|Wenxiao Wang et.al.|[2406.07536](http://arxiv.org/abs/2406.07536)|null|
+|**2024-06-11**|**Towards Generalized Hydrological Forecasting using Transformer Models for 120-Hour Streamflow Prediction**|Bekir Z. Demiray et.al.|[2406.07484](http://arxiv.org/abs/2406.07484)|null|
+|**2024-06-11**|**Comparing Deep Learning Models for Rice Mapping in Bhutan Using High Resolution Satellite Imagery**|Biplov Bhandari et.al.|[2406.07482](http://arxiv.org/abs/2406.07482)|null|
+|**2024-06-11**|**fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions**|Alireza Afzal Aghaei et.al.|[2406.07456](http://arxiv.org/abs/2406.07456)|**[link](https://github.com/alirezaafzalaghaei/fKAN)**|
+|**2024-06-11**|**DeformTime: Capturing Variable Dependencies with Deformable Attention for Time Series Forecasting**|Yuxuan Shu et.al.|[2406.07438](http://arxiv.org/abs/2406.07438)|null|
+|**2024-06-11**|**GemNet: Menu-Based, Strategy-Proof Multi-Bidder Auctions Through Deep Learning**|Tonghan Wang et.al.|[2406.07428](http://arxiv.org/abs/2406.07428)|null|
+|**2024-06-11**|**Clever Hans Effect Found in Automatic Detection of Alzheimer's Disease through Speech**|Yin-Long Liu et.al.|[2406.07410](http://arxiv.org/abs/2406.07410)|null|
+|**2024-06-11**|**A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs**|Elika Bozorgi et.al.|[2406.07402](http://arxiv.org/abs/2406.07402)|null|
+|**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399](http://arxiv.org/abs/2406.07399)|null|
+|**2024-06-11**|**Deep Implicit Optimization for Robust and Flexible Image Registration**|Rohit Jena et.al.|[2406.07361](http://arxiv.org/abs/2406.07361)|null|
+|**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
+|**2024-06-11**|**Realistic Data Generation for 6D Pose Estimation of Surgical Instruments**|Juan Antonio Barragan et.al.|[2406.07328](http://arxiv.org/abs/2406.07328)|null|
+|**2024-06-11**|**Deep Learning-Based Approach for User Activity Detection with Grant-Free Random Access in Cell-Free Massive MIMO**|Ali Elkeshawy et.al.|[2406.07160](http://arxiv.org/abs/2406.07160)|null|
+|**2024-06-11**|**Reconstructing the Tropical Pacific Upper Ocean using Online Data Assimilation with a Deep Learning model**|Zilu Meng et.al.|[2406.07063](http://arxiv.org/abs/2406.07063)|**[link](https://github.com/zilum/dataassimlationwithdl)**|
+|**2024-06-11**|**Triage of 3D pathology data via 2.5D multiple-instance learning to guide pathologist assessments**|Gan Gao et.al.|[2406.07061](http://arxiv.org/abs/2406.07061)|**[link](https://github.com/alecgao066/carp3d)**|
+|**2024-06-11**|**Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples**|Kailas Dayanandan et.al.|[2406.06967](http://arxiv.org/abs/2406.06967)|**[link](https://github.com/kailasdayanandan/dual_thinking)**|
+|**2024-06-10**|**Synthetic Face Ageing: Evaluation, Analysis and Facilitation of Age-Robust Facial Recognition Algorithms**|Wang Yao et.al.|[2406.06932](http://arxiv.org/abs/2406.06932)|null|
+|**2024-06-11**|**Developing, Analyzing, and Evaluating Vehicular Lane Keeping Algorithms Under Dynamic Lighting and Weather Conditions Using Electric Vehicles**|Michael Khalfin et.al.|[2406.06899](http://arxiv.org/abs/2406.06899)|null|
+|**2024-06-11**|**Transformers Provably Learn Sparse Token Selection While Fully-Connected Nets Cannot**|Zixuan Wang et.al.|[2406.06893](http://arxiv.org/abs/2406.06893)|null|
+|**2024-06-11**|**FLUX: Fast Software-based Communication Overlap On GPUs Through Kernel Fusion**|Liwen Chang et.al.|[2406.06858](http://arxiv.org/abs/2406.06858)|null|
+|**2024-06-10**|**A Multi-module Robust Method for Transient Stability Assessment against False Label Injection Cyberattacks**|Hanxuan Wang et.al.|[2406.06744](http://arxiv.org/abs/2406.06744)|null|
+|**2024-06-10**|**Leveraging Large Language Models for Knowledge-free Weak Supervision in Clinical Natural Language Processing**|Enshuo Hsu et.al.|[2406.06723](http://arxiv.org/abs/2406.06723)|null|
+|**2024-06-10**|**Video-based Exercise Classification and Activated Muscle Group Prediction with Hybrid X3D-SlowFast Network**|Manvik Pasula et.al.|[2406.06703](http://arxiv.org/abs/2406.06703)|null|
+|**2024-06-10**|**In-Context Learning and Fine-Tuning GPT for Argument Mining**|Jérémie Cabessa et.al.|[2406.06699](http://arxiv.org/abs/2406.06699)|null|
+|**2024-06-10**|**DKDL-Net: A Lightweight Bearing Fault Detection Model via Decoupled Knowledge Distillation and Low-Rank Adaptation Fine-tuning**|Ovanes Petrosyan et.al.|[2406.06653](http://arxiv.org/abs/2406.06653)|**[link](https://github.com/spbu-lipengyi/dkdl-net)**|
+|**2024-06-10**|**Predicting the risk of early-stage breast cancer recurrence using H\&E-stained tissue images**|Geongyu Lee et.al.|[2406.06650](http://arxiv.org/abs/2406.06650)|null|
+|**2024-06-10**|**Network-Based Transfer Learning Helps Improve Short-Term Crime Prediction Accuracy**|Jiahui Wu et.al.|[2406.06645](http://arxiv.org/abs/2406.06645)|null|
+|**2024-06-09**|**Latent Diffusion Model-Enabled Real-Time Semantic Communication Considering Semantic Ambiguities and Channel Noises**|Jianhua Pei et.al.|[2406.06644](http://arxiv.org/abs/2406.06644)|null|
+|**2024-06-09**|**Transforming Heart Chamber Imaging: Self-Supervised Learning for Whole Heart Reconstruction and Segmentation**|Abdul Qayyum et.al.|[2406.06643](http://arxiv.org/abs/2406.06643)|null|
+|**2024-06-09**|**TopoBenchmarkX: A Framework for Benchmarking Topological Deep Learning**|Lev Telyatnikov et.al.|[2406.06642](http://arxiv.org/abs/2406.06642)|null|
+|**2024-06-09**|**Particle Multi-Axis Transformer for Jet Tagging**|Muhammad Usman et.al.|[2406.06638](http://arxiv.org/abs/2406.06638)|null|
 |**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519](http://arxiv.org/abs/2406.06519)|**[link](https://github.com/castorini/umbrela)**|
 |**2024-06-10**|**Data Augmentation for Multivariate Time Series Classification: An Experimental Study**|Romain Ilbert et.al.|[2406.06518](http://arxiv.org/abs/2406.06518)|null|
 |**2024-06-10**|**Time Series Analysis: yesterday, today, tomorrow**|Igor Mackarov et.al.|[2406.06453](http://arxiv.org/abs/2406.06453)|null|
@@ -2849,6 +2885,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Active learning for affinity prediction of antibodies**|Alexandra Gessner et.al.|[2406.07263](http://arxiv.org/abs/2406.07263)|null|
+|**2024-06-10**|**Compass: A Comprehensive Tool for Accurate and Efficient Molecular Docking in Inference and Fine-Tuning**|Ahmet Sarigun et.al.|[2406.06841](http://arxiv.org/abs/2406.06841)|**[link](https://github.com/bimsbbioinfo/compass)**|
 |**2024-06-09**|**Smiles2Dock: an open large-scale multi-task dataset for ML-based molecular docking**|Thomas Le Menestrel et.al.|[2406.05738](http://arxiv.org/abs/2406.05738)|**[link](https://github.com/rivas-lab/Smiles2Dock)**|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|null|
 |**2024-05-28**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
