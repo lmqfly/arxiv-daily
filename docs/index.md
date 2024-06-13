@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Role of Kinetic Exchange and Coulomb Interaction in Bonding of Hydrogen Molecular Systems and Excited States**|Maciej Hendzel et.al.|[2406.07729](http://arxiv.org/abs/2406.07729)|null|
 |**2024-06-03**|**FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction**|Zhaohan Meng et.al.|[2406.01651](http://arxiv.org/abs/2406.01651)|**[link](https://github.com/zhaohanm/fusiondti)**|
 |**2024-05-23**|**A Cross-Field Fusion Strategy for Drug-Target Interaction Prediction**|Hongzhi Zhang et.al.|[2405.14545](http://arxiv.org/abs/2405.14545)|null|
 |**2024-05-10**|**Improving Targeted Molecule Generation through Language Model Fine-Tuning Via Reinforcement Learning**|Salma J. Ahmed et.al.|[2405.06836](http://arxiv.org/abs/2405.06836)|null|
@@ -359,6 +360,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Expressivity and Generalization: Fragment-Biases for Molecular GNNs**|Tom Wollschläger et.al.|[2406.08210](http://arxiv.org/abs/2406.08210)|null|
 |**2024-05-30**|**Ensemble Model With Bert,Roberta and Xlnet For Molecular property prediction**|Junling Hu et.al.|[2406.06553](http://arxiv.org/abs/2406.06553)|null|
 |**2024-06-09**|**3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization**|Qizhi Pei et.al.|[2406.05797](http://arxiv.org/abs/2406.05797)|null|
 |**2024-06-03**|**LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning**|Junjie Xu et.al.|[2406.01032](http://arxiv.org/abs/2406.01032)|null|
@@ -484,6 +486,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Linear stability theory and molecular simulations of nanofilm dewetting with disjoining pressure, strong liquid-solid slip, and thermal fluctuations**|Yixin Zhang et.al.|[2406.08179](http://arxiv.org/abs/2406.08179)|null|
+|**2024-06-12**|**Analytical evaluation of ground state gradients in quantum electrodynamics coupled cluster theory**|Marcus Takvam Lexander et.al.|[2406.08107](http://arxiv.org/abs/2406.08107)|null|
 |**2024-06-11**|**Accuracy and limitations of the bond polarizability model in modeling of Raman scattering from molecular dynamics simulations**|Atanu Paul et.al.|[2406.07448](http://arxiv.org/abs/2406.07448)|null|
 |**2024-06-11**|**Fast and accurate evaluation of Biot-Savart integrals over spatial curves**|Juan Ignacio Polanco et.al.|[2406.07366](http://arxiv.org/abs/2406.07366)|null|
 |**2024-06-09**|**Multi-temperature atomic ensemble: nonequilibrium evolution after ultrafast electronic excitation**|Nikita Medvedev et.al.|[2406.05718](http://arxiv.org/abs/2406.05718)|null|
@@ -704,6 +708,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Exploiting the diversity of modeling methods to probe systematic biases in strong lensing analyses**|A. Galan et.al.|[2406.08484](http://arxiv.org/abs/2406.08484)|null|
+|**2024-06-12**|**Scaling Laws in Linear Regression: Compute, Parameters, and Data**|Licong Lin et.al.|[2406.08466](http://arxiv.org/abs/2406.08466)|null|
+|**2024-06-12**|**PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement**|Wei-Tung Lin et.al.|[2406.08444](http://arxiv.org/abs/2406.08444)|null|
+|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374](http://arxiv.org/abs/2406.08374)|null|
+|**2024-06-12**|**Deep Learning Based Joint Multi-User MISO Power Allocation and Beamforming Design**|Cemil Vahapoglu et.al.|[2406.08373](http://arxiv.org/abs/2406.08373)|null|
+|**2024-06-12**|**Blind Image Deblurring using FFT-ReLU with Deep Learning Pipeline Integration**|Abdul Mohaimen Al Radi et.al.|[2406.08344](http://arxiv.org/abs/2406.08344)|null|
+|**2024-06-12**|**Deep learning from strongly mixing observations: Sparse-penalized regularization and minimax optimality**|William Kengne et.al.|[2406.08321](http://arxiv.org/abs/2406.08321)|null|
+|**2024-06-12**|**What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims**|Jason Jones et.al.|[2406.08205](http://arxiv.org/abs/2406.08205)|null|
+|**2024-06-12**|**Deep learning of optical spectra of semiconductors and insulators**|Malte Grunert et.al.|[2406.08191](http://arxiv.org/abs/2406.08191)|null|
+|**2024-06-12**|**The impact of deep learning aid on the workload and interpretation accuracy of radiologists on chest computed tomography: a cross-over reader study**|Anvar Kurmukov et.al.|[2406.08137](http://arxiv.org/abs/2406.08137)|null|
+|**2024-06-12**|**Resource Allocation and Workload Scheduling for Large-Scale Distributed Deep Learning: A Survey**|Feng Liang et.al.|[2406.08115](http://arxiv.org/abs/2406.08115)|null|
+|**2024-06-12**|**CLDTA: Contrastive Learning based on Diagonal Transformer Autoencoder for Cross-Dataset EEG Emotion Recognition**|Yuan Liao et.al.|[2406.08081](http://arxiv.org/abs/2406.08081)|null|
+|**2024-06-12**|**MWIRSTD: A MWIR Small Target Detection Dataset**|Nikhil Kumar et.al.|[2406.08063](http://arxiv.org/abs/2406.08063)|null|
+|**2024-06-12**|**ONNXim: A Fast, Cycle-level Multi-core NPU Simulator**|Hyungkyu Ham et.al.|[2406.08051](http://arxiv.org/abs/2406.08051)|null|
+|**2024-06-12**|**Deep Learning for Slum Mapping in Remote Sensing Images: A Meta-analysis and Review**|Anjali Raj et.al.|[2406.08031](http://arxiv.org/abs/2406.08031)|null|
+|**2024-06-12**|**Spatial-Frequency Dual Progressive Attention Network For Medical Image Segmentation**|Zhenhuan Zhou et.al.|[2406.07952](http://arxiv.org/abs/2406.07952)|null|
+|**2024-06-12**|**Multi-Teacher Multi-Objective Meta-Learning for Zero-Shot Hyperspectral Band Selection**|Jie Feng et.al.|[2406.07949](http://arxiv.org/abs/2406.07949)|null|
+|**2024-06-12**|**DLLens: Testing Deep Learning Libraries via LLM-aided Synthesis**|Meiziniu Li et.al.|[2406.07944](http://arxiv.org/abs/2406.07944)|null|
+|**2024-06-12**|**A Generic Layer Pruning Method for Signal Modulation Recognition Deep Learning Models**|Yao Lu et.al.|[2406.07929](http://arxiv.org/abs/2406.07929)|null|
+|**2024-06-12**|**Micro-expression recognition based on depth map to point cloud**|Ren Zhang et.al.|[2406.07918](http://arxiv.org/abs/2406.07918)|null|
+|**2024-06-12**|**A Comprehensive Survey on Machine Learning Driven Material Defect Detection: Challenges, Solutions, and Future Prospects**|Jun Bai et.al.|[2406.07880](http://arxiv.org/abs/2406.07880)|null|
+|**2024-06-12**|**Robust 3D Face Alignment with Multi-Path Neural Architecture Search**|Zhichao Jiang et.al.|[2406.07873](http://arxiv.org/abs/2406.07873)|null|
+|**2024-06-12**|**Are Objective Explanatory Evaluation metrics Trustworthy? An Adversarial Analysis**|Prithwijit Chowdhury et.al.|[2406.07820](http://arxiv.org/abs/2406.07820)|null|
+|**2024-06-12**|**Evaluating the Impact of Sequence Combinations on Breast Tumor Segmentation in Multiparametric MRI**|Hang Min et.al.|[2406.07813](http://arxiv.org/abs/2406.07813)|null|
+|**2024-06-12**|**To be Continuous, or to be Discrete, Those are Bits of Questions**|Yiran Wang et.al.|[2406.07812](http://arxiv.org/abs/2406.07812)|null|
+|**2024-06-11**|**Deep Learning of Structural Morphology Imaged by Scanning X-ray Diffraction Microscopy**|Aileen Luo et.al.|[2406.07761](http://arxiv.org/abs/2406.07761)|null|
+|**2024-06-11**|**Efficient Parallel Multi-Hop Reasoning: A Scalable Approach for Knowledge Graph Analysis**|Jesmin Jahan Tithi et.al.|[2406.07727](http://arxiv.org/abs/2406.07727)|null|
+|**2024-06-11**|**A Deep Learning Approach to Detect Complete Safety Equipment For Construction Workers Based On YOLOv7**|Md. Shariful Islam et.al.|[2406.07707](http://arxiv.org/abs/2406.07707)|null|
+|**2024-06-11**|**Graphical Perception of Saliency-based Model Explanations**|Yayan Zhao et.al.|[2406.07702](http://arxiv.org/abs/2406.07702)|null|
+|**2024-06-11**|**Automated Pavement Cracks Detection and Classification Using Deep Learning**|Selvia Nafaa et.al.|[2406.07674](http://arxiv.org/abs/2406.07674)|null|
+|**2024-06-11**|**PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow**|Joshua Tokarsky et.al.|[2406.07667](http://arxiv.org/abs/2406.07667)|null|
+|**2024-06-09**|**A novel method for identifying rice seed purity based on hybrid machine learning algorithms**|Phan Thi-Thu-Hong et.al.|[2406.07581](http://arxiv.org/abs/2406.07581)|null|
 |**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538](http://arxiv.org/abs/2406.07538)|null|
 |**2024-06-11**|**Towards Fundamentally Scalable Model Selection: Asymptotically Fast Update and Selection**|Wenxiao Wang et.al.|[2406.07536](http://arxiv.org/abs/2406.07536)|null|
 |**2024-06-11**|**Towards Generalized Hydrological Forecasting using Transformer Models for 120-Hour Streamflow Prediction**|Bekir Z. Demiray et.al.|[2406.07484](http://arxiv.org/abs/2406.07484)|null|
@@ -2885,6 +2921,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**DualBind: A Dual-Loss Framework for Protein-Ligand Binding Affinity Prediction**|Meng Liu et.al.|[2406.07770](http://arxiv.org/abs/2406.07770)|null|
 |**2024-06-11**|**Active learning for affinity prediction of antibodies**|Alexandra Gessner et.al.|[2406.07263](http://arxiv.org/abs/2406.07263)|null|
 |**2024-06-10**|**Compass: A Comprehensive Tool for Accurate and Efficient Molecular Docking in Inference and Fine-Tuning**|Ahmet Sarigun et.al.|[2406.06841](http://arxiv.org/abs/2406.06841)|**[link](https://github.com/bimsbbioinfo/compass)**|
 |**2024-06-09**|**Smiles2Dock: an open large-scale multi-task dataset for ML-based molecular docking**|Thomas Le Menestrel et.al.|[2406.05738](http://arxiv.org/abs/2406.05738)|**[link](https://github.com/rivas-lab/Smiles2Dock)**|
