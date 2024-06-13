@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -515,7 +515,7 @@ layout: default
 |**2024-05-26**|**Accurate and Fast Estimation of the Continuum Limit in Path Integral Simulations of Quantum Oscillators and Crystals**|Sabry G Moustafa et.al.|[2405.16717](http://arxiv.org/abs/2405.16717)|null|
 |**2024-05-23**|**The interplay between liquid-liquid and ferroelectric phase transitions in supercooled water**|Maria Grazia Izzo et.al.|[2405.14424](http://arxiv.org/abs/2405.14424)|null|
 |**2024-05-22**|**Nuclear quantum effects in structural and elastic properties of cubic silicon carbide**|Carlos P. Herrero et.al.|[2405.13733](http://arxiv.org/abs/2405.13733)|null|
-|**2024-05-22**|**Adsorption of polyelectrolytes in the presence of varying dielectric discontinuity between solution and substrate**|Hossein Vahid et.al.|[2405.13484](http://arxiv.org/abs/2405.13484)|null|
+|**2024-06-12**|**Adsorption of polyelectrolytes in the presence of varying dielectric discontinuity between solution and substrate**|Hossein Vahid et.al.|[2405.13484](http://arxiv.org/abs/2405.13484)|null|
 |**2024-05-22**|**Image charge effects under metal and dieletric boundary conditions**|Tingtao Zhou et.al.|[2405.13261](http://arxiv.org/abs/2405.13261)|null|
 |**2024-05-19**|**Lattice matched heterogeneous nucleation eliminate defective buried interface in halide perovskites**|Paramvir Ahlawat et.al.|[2405.11599](http://arxiv.org/abs/2405.11599)|null|
 |**2024-05-14**|**Evaluating the Uncertainty in Mean Residual Times: Estimators Based on Residence Times from Discrete Time Processes**|Hernán R. Sánchez et.al.|[2405.08853](http://arxiv.org/abs/2405.08853)|null|
@@ -572,9 +572,9 @@ layout: default
 |**2024-04-15**|**Accurate quantum Monte Carlo forces for machine-learned force fields: Ethanol as a benchmark**|Emiel Slootman et.al.|[2404.09755](http://arxiv.org/abs/2404.09755)|null|
 |**2024-04-15**|**Thermodynamic and Transport Properties of Binary Mixtures of Polyethylene and Higher n-Alkanes from Physics-Informed and Machine-Learned Models**|Maria Ley-Flores et.al.|[2404.09676](http://arxiv.org/abs/2404.09676)|null|
 |**2024-04-12**|**Hydroxide Transport and Mechanical Properties of Polyolefin-Based Anion Exchange Membranes from Atomistic Molecular Dynamics Simulations**|Mohammed Al Otmi et.al.|[2404.08804](http://arxiv.org/abs/2404.08804)|null|
-|**2024-04-12**|**Evidence of ferroelectric features in low-density supercooled water from ab initio deep neural-network simulations**|Cesare Malosso et.al.|[2404.08338](http://arxiv.org/abs/2404.08338)|null|
+|**2024-06-12**|**Evidence of ferroelectric features in low-density supercooled water from ab initio deep neural-network simulations**|Cesare Malosso et.al.|[2404.08338](http://arxiv.org/abs/2404.08338)|null|
 |**2024-04-11**|**Deuteration removes quantum dipolar defects from KDP crystals**|Bingjia Yang et.al.|[2404.08125](http://arxiv.org/abs/2404.08125)|null|
-|**2024-04-11**|**Overcoming the chemical complexity bottleneck in on-the-fly machine learned molecular dynamics simulations**|Lucas R. Timmerman et.al.|[2404.07961](http://arxiv.org/abs/2404.07961)|null|
+|**2024-06-12**|**Overcoming the chemical complexity bottleneck in on-the-fly machine learned molecular dynamics simulations**|Lucas R. Timmerman et.al.|[2404.07961](http://arxiv.org/abs/2404.07961)|null|
 |**2024-04-11**|**Accounting for the Quantum Capacitance of Graphite in Constant Potential Molecular Dynamics Simulations**|Kateryna Goloviznina et.al.|[2404.07848](http://arxiv.org/abs/2404.07848)|null|
 |**2024-04-16**|**Two liquid states of distinguishable helium-4: the existence of another non-superfluid frozen by heating**|Momoko Tsujimoto et.al.|[2404.07716](http://arxiv.org/abs/2404.07716)|null|
 |**2024-04-09**|**The Effects of Splayed Lipid Molecules on Lubrication by Lipid Bilayers**|Di Jin et.al.|[2404.06074](http://arxiv.org/abs/2404.06074)|null|
@@ -724,7 +724,7 @@ layout: default
 |**2024-06-10**|**Synthetic Face Ageing: Evaluation, Analysis and Facilitation of Age-Robust Facial Recognition Algorithms**|Wang Yao et.al.|[2406.06932](http://arxiv.org/abs/2406.06932)|null|
 |**2024-06-11**|**Developing, Analyzing, and Evaluating Vehicular Lane Keeping Algorithms Under Dynamic Lighting and Weather Conditions Using Electric Vehicles**|Michael Khalfin et.al.|[2406.06899](http://arxiv.org/abs/2406.06899)|null|
 |**2024-06-11**|**Transformers Provably Learn Sparse Token Selection While Fully-Connected Nets Cannot**|Zixuan Wang et.al.|[2406.06893](http://arxiv.org/abs/2406.06893)|null|
-|**2024-06-11**|**FLUX: Fast Software-based Communication Overlap On GPUs Through Kernel Fusion**|Liwen Chang et.al.|[2406.06858](http://arxiv.org/abs/2406.06858)|null|
+|**2024-06-12**|**FLUX: Fast Software-based Communication Overlap On GPUs Through Kernel Fusion**|Liwen Chang et.al.|[2406.06858](http://arxiv.org/abs/2406.06858)|null|
 |**2024-06-10**|**A Multi-module Robust Method for Transient Stability Assessment against False Label Injection Cyberattacks**|Hanxuan Wang et.al.|[2406.06744](http://arxiv.org/abs/2406.06744)|null|
 |**2024-06-10**|**Leveraging Large Language Models for Knowledge-free Weak Supervision in Clinical Natural Language Processing**|Enshuo Hsu et.al.|[2406.06723](http://arxiv.org/abs/2406.06723)|null|
 |**2024-06-10**|**Video-based Exercise Classification and Activated Muscle Group Prediction with Hybrid X3D-SlowFast Network**|Manvik Pasula et.al.|[2406.06703](http://arxiv.org/abs/2406.06703)|null|
@@ -759,7 +759,7 @@ layout: default
 |**2024-06-09**|**Mamba YOLO: SSMs-Based YOLO For Object Detection**|Zeyu Wang et.al.|[2406.05835](http://arxiv.org/abs/2406.05835)|**[link](https://github.com/hzai-zjnu/mamba-yolo)**|
 |**2024-06-09**|**Methodology and Real-World Applications of Dynamic Uncertain Causality Graph for Clinical Diagnosis with Explainability and Invariance**|Zhan Zhang et.al.|[2406.05746](http://arxiv.org/abs/2406.05746)|null|
 |**2024-06-09**|**From Basic to Extra Features: Hypergraph Transformer Pretrain-then-Finetuning for Balanced Clinical Predictions on EHR**|Ran Xu et.al.|[2406.05682](http://arxiv.org/abs/2406.05682)|null|
-|**2024-06-09**|**General Distribution Learning: A theoretical framework for Deep Learning**|Binchuan Qi et.al.|[2406.05666](http://arxiv.org/abs/2406.05666)|null|
+|**2024-06-12**|**General Distribution Learning: A theoretical framework for Deep Learning**|Binchuan Qi et.al.|[2406.05666](http://arxiv.org/abs/2406.05666)|null|
 |**2024-06-09**|**Injecting Undetectable Backdoors in Deep Learning and Language Models**|Alkis Kalavasis et.al.|[2406.05660](http://arxiv.org/abs/2406.05660)|null|
 |**2024-06-09**|**Heart Sound Segmentation Using Deep Learning Techniques**|Manas Madine et.al.|[2406.05653](http://arxiv.org/abs/2406.05653)|null|
 |**2024-06-09**|**CCSI: Continual Class-Specific Impression for Data-free Class Incremental Learning**|Sana Ayromlou et.al.|[2406.05631](http://arxiv.org/abs/2406.05631)|**[link](https://github.com/ubc-tea/continual-impression-ccsi)**|
@@ -780,7 +780,7 @@ layout: default
 |**2024-06-08**|**Beyond Efficiency: Scaling AI Sustainably**|Carole-Jean Wu et.al.|[2406.05303](http://arxiv.org/abs/2406.05303)|null|
 |**2024-06-07**|**Retrieval & Fine-Tuning for In-Context Tabular Models**|Valentin Thomas et.al.|[2406.05207](http://arxiv.org/abs/2406.05207)|null|
 |**2024-06-07**|**Research on Tumors Segmentation based on Image Enhancement Method**|Danyi Huang et.al.|[2406.05170](http://arxiv.org/abs/2406.05170)|null|
-|**2024-06-07**|**Differentiable Time-Varying Linear Prediction in the Context of End-to-End Analysis-by-Synthesis**|Chin-Yun Yu et.al.|[2406.05128](http://arxiv.org/abs/2406.05128)|**[link](https://github.com/yoyololicon/torchlpc)**|
+|**2024-06-07**|**Differentiable Time-Varying Linear Prediction in the Context of End-to-End Analysis-by-Synthesis**|Chin-Yun Yu et.al.|[2406.05128](http://arxiv.org/abs/2406.05128)|**[link](https://github.com/yoyololicon/golf)**|
 |**2024-06-07**|**Adapting Physics-Informed Neural Networks To Optimize ODEs in Mosquito Population Dynamics**|Dinh Viet Cuong et.al.|[2406.05108](http://arxiv.org/abs/2406.05108)|null|
 |**2024-06-07**|**Optimizing Time Series Forecasting Architectures: A Hierarchical Neural Architecture Search Approach**|Difan Deng et.al.|[2406.05088](http://arxiv.org/abs/2406.05088)|null|
 |**2024-06-07**|**Scaling up Probabilistic PDE Simulators with Structured Volumetric Information**|Tim Weiland et.al.|[2406.05020](http://arxiv.org/abs/2406.05020)|**[link](https://github.com/timweiland/gp-fvm)**|
