@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -710,17 +710,17 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**Exploiting the diversity of modeling methods to probe systematic biases in strong lensing analyses**|A. Galan et.al.|[2406.08484](http://arxiv.org/abs/2406.08484)|null|
 |**2024-06-12**|**Scaling Laws in Linear Regression: Compute, Parameters, and Data**|Licong Lin et.al.|[2406.08466](http://arxiv.org/abs/2406.08466)|null|
-|**2024-06-12**|**PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement**|Wei-Tung Lin et.al.|[2406.08444](http://arxiv.org/abs/2406.08444)|null|
+|**2024-06-12**|**PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement**|Wei-Tung Lin et.al.|[2406.08444](http://arxiv.org/abs/2406.08444)|**[link](https://github.com/weitunglin/pixmamba)**|
 |**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374](http://arxiv.org/abs/2406.08374)|null|
 |**2024-06-12**|**Deep Learning Based Joint Multi-User MISO Power Allocation and Beamforming Design**|Cemil Vahapoglu et.al.|[2406.08373](http://arxiv.org/abs/2406.08373)|null|
 |**2024-06-12**|**Blind Image Deblurring using FFT-ReLU with Deep Learning Pipeline Integration**|Abdul Mohaimen Al Radi et.al.|[2406.08344](http://arxiv.org/abs/2406.08344)|null|
 |**2024-06-12**|**Deep learning from strongly mixing observations: Sparse-penalized regularization and minimax optimality**|William Kengne et.al.|[2406.08321](http://arxiv.org/abs/2406.08321)|null|
-|**2024-06-12**|**What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims**|Jason Jones et.al.|[2406.08205](http://arxiv.org/abs/2406.08205)|null|
+|**2024-06-12**|**What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims**|Jason Jones et.al.|[2406.08205](http://arxiv.org/abs/2406.08205)|**[link](https://github.com/anonsub1234/ptm-quantify-esem-2024)**|
 |**2024-06-12**|**Deep learning of optical spectra of semiconductors and insulators**|Malte Grunert et.al.|[2406.08191](http://arxiv.org/abs/2406.08191)|null|
 |**2024-06-12**|**The impact of deep learning aid on the workload and interpretation accuracy of radiologists on chest computed tomography: a cross-over reader study**|Anvar Kurmukov et.al.|[2406.08137](http://arxiv.org/abs/2406.08137)|null|
 |**2024-06-12**|**Resource Allocation and Workload Scheduling for Large-Scale Distributed Deep Learning: A Survey**|Feng Liang et.al.|[2406.08115](http://arxiv.org/abs/2406.08115)|null|
 |**2024-06-12**|**CLDTA: Contrastive Learning based on Diagonal Transformer Autoencoder for Cross-Dataset EEG Emotion Recognition**|Yuan Liao et.al.|[2406.08081](http://arxiv.org/abs/2406.08081)|null|
-|**2024-06-12**|**MWIRSTD: A MWIR Small Target Detection Dataset**|Nikhil Kumar et.al.|[2406.08063](http://arxiv.org/abs/2406.08063)|null|
+|**2024-06-12**|**MWIRSTD: A MWIR Small Target Detection Dataset**|Nikhil Kumar et.al.|[2406.08063](http://arxiv.org/abs/2406.08063)|**[link](https://github.com/avinres/mwirstd)**|
 |**2024-06-12**|**ONNXim: A Fast, Cycle-level Multi-core NPU Simulator**|Hyungkyu Ham et.al.|[2406.08051](http://arxiv.org/abs/2406.08051)|null|
 |**2024-06-12**|**Deep Learning for Slum Mapping in Remote Sensing Images: A Meta-analysis and Review**|Anjali Raj et.al.|[2406.08031](http://arxiv.org/abs/2406.08031)|null|
 |**2024-06-12**|**Spatial-Frequency Dual Progressive Attention Network For Medical Image Segmentation**|Zhenhuan Zhou et.al.|[2406.07952](http://arxiv.org/abs/2406.07952)|null|
@@ -735,7 +735,7 @@ layout: default
 |**2024-06-12**|**To be Continuous, or to be Discrete, Those are Bits of Questions**|Yiran Wang et.al.|[2406.07812](http://arxiv.org/abs/2406.07812)|null|
 |**2024-06-11**|**Deep Learning of Structural Morphology Imaged by Scanning X-ray Diffraction Microscopy**|Aileen Luo et.al.|[2406.07761](http://arxiv.org/abs/2406.07761)|null|
 |**2024-06-11**|**Efficient Parallel Multi-Hop Reasoning: A Scalable Approach for Knowledge Graph Analysis**|Jesmin Jahan Tithi et.al.|[2406.07727](http://arxiv.org/abs/2406.07727)|null|
-|**2024-06-11**|**A Deep Learning Approach to Detect Complete Safety Equipment For Construction Workers Based On YOLOv7**|Md. Shariful Islam et.al.|[2406.07707](http://arxiv.org/abs/2406.07707)|null|
+|**2024-06-13**|**A Deep Learning Approach to Detect Complete Safety Equipment For Construction Workers Based On YOLOv7**|Md. Shariful Islam et.al.|[2406.07707](http://arxiv.org/abs/2406.07707)|null|
 |**2024-06-11**|**Graphical Perception of Saliency-based Model Explanations**|Yayan Zhao et.al.|[2406.07702](http://arxiv.org/abs/2406.07702)|null|
 |**2024-06-11**|**Automated Pavement Cracks Detection and Classification Using Deep Learning**|Selvia Nafaa et.al.|[2406.07674](http://arxiv.org/abs/2406.07674)|null|
 |**2024-06-11**|**PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow**|Joshua Tokarsky et.al.|[2406.07667](http://arxiv.org/abs/2406.07667)|null|
@@ -743,7 +743,7 @@ layout: default
 |**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538](http://arxiv.org/abs/2406.07538)|null|
 |**2024-06-11**|**Towards Fundamentally Scalable Model Selection: Asymptotically Fast Update and Selection**|Wenxiao Wang et.al.|[2406.07536](http://arxiv.org/abs/2406.07536)|null|
 |**2024-06-11**|**Towards Generalized Hydrological Forecasting using Transformer Models for 120-Hour Streamflow Prediction**|Bekir Z. Demiray et.al.|[2406.07484](http://arxiv.org/abs/2406.07484)|null|
-|**2024-06-11**|**Comparing Deep Learning Models for Rice Mapping in Bhutan Using High Resolution Satellite Imagery**|Biplov Bhandari et.al.|[2406.07482](http://arxiv.org/abs/2406.07482)|null|
+|**2024-06-11**|**Comparing Deep Learning Models for Rice Mapping in Bhutan Using High Resolution Satellite Imagery**|Biplov Bhandari et.al.|[2406.07482](http://arxiv.org/abs/2406.07482)|**[link](https://github.com/biplovbhandari/aces)**|
 |**2024-06-11**|**fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions**|Alireza Afzal Aghaei et.al.|[2406.07456](http://arxiv.org/abs/2406.07456)|**[link](https://github.com/alirezaafzalaghaei/fKAN)**|
 |**2024-06-11**|**DeformTime: Capturing Variable Dependencies with Deformable Attention for Time Series Forecasting**|Yuxuan Shu et.al.|[2406.07438](http://arxiv.org/abs/2406.07438)|null|
 |**2024-06-11**|**GemNet: Menu-Based, Strategy-Proof Multi-Bidder Auctions Through Deep Learning**|Tonghan Wang et.al.|[2406.07428](http://arxiv.org/abs/2406.07428)|null|
@@ -752,7 +752,7 @@ layout: default
 |**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399](http://arxiv.org/abs/2406.07399)|null|
 |**2024-06-11**|**Deep Implicit Optimization for Robust and Flexible Image Registration**|Rohit Jena et.al.|[2406.07361](http://arxiv.org/abs/2406.07361)|null|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
-|**2024-06-11**|**Realistic Data Generation for 6D Pose Estimation of Surgical Instruments**|Juan Antonio Barragan et.al.|[2406.07328](http://arxiv.org/abs/2406.07328)|null|
+|**2024-06-11**|**Realistic Data Generation for 6D Pose Estimation of Surgical Instruments**|Juan Antonio Barragan et.al.|[2406.07328](http://arxiv.org/abs/2406.07328)|**[link](https://github.com/surgical-robotics-ai/realistic-6dof-data-generation)**|
 |**2024-06-11**|**Deep Learning-Based Approach for User Activity Detection with Grant-Free Random Access in Cell-Free Massive MIMO**|Ali Elkeshawy et.al.|[2406.07160](http://arxiv.org/abs/2406.07160)|null|
 |**2024-06-11**|**Reconstructing the Tropical Pacific Upper Ocean using Online Data Assimilation with a Deep Learning model**|Zilu Meng et.al.|[2406.07063](http://arxiv.org/abs/2406.07063)|**[link](https://github.com/zilum/dataassimlationwithdl)**|
 |**2024-06-11**|**Triage of 3D pathology data via 2.5D multiple-instance learning to guide pathologist assessments**|Gan Gao et.al.|[2406.07061](http://arxiv.org/abs/2406.07061)|**[link](https://github.com/alecgao066/carp3d)**|
@@ -764,7 +764,7 @@ layout: default
 |**2024-06-10**|**A Multi-module Robust Method for Transient Stability Assessment against False Label Injection Cyberattacks**|Hanxuan Wang et.al.|[2406.06744](http://arxiv.org/abs/2406.06744)|null|
 |**2024-06-10**|**Leveraging Large Language Models for Knowledge-free Weak Supervision in Clinical Natural Language Processing**|Enshuo Hsu et.al.|[2406.06723](http://arxiv.org/abs/2406.06723)|null|
 |**2024-06-10**|**Video-based Exercise Classification and Activated Muscle Group Prediction with Hybrid X3D-SlowFast Network**|Manvik Pasula et.al.|[2406.06703](http://arxiv.org/abs/2406.06703)|null|
-|**2024-06-10**|**In-Context Learning and Fine-Tuning GPT for Argument Mining**|Jérémie Cabessa et.al.|[2406.06699](http://arxiv.org/abs/2406.06699)|null|
+|**2024-06-10**|**In-Context Learning and Fine-Tuning GPT for Argument Mining**|Jérémie Cabessa et.al.|[2406.06699](http://arxiv.org/abs/2406.06699)|**[link](https://github.com/JeremCab/AMwithGPT)**|
 |**2024-06-10**|**DKDL-Net: A Lightweight Bearing Fault Detection Model via Decoupled Knowledge Distillation and Low-Rank Adaptation Fine-tuning**|Ovanes Petrosyan et.al.|[2406.06653](http://arxiv.org/abs/2406.06653)|**[link](https://github.com/spbu-lipengyi/dkdl-net)**|
 |**2024-06-10**|**Predicting the risk of early-stage breast cancer recurrence using H\&E-stained tissue images**|Geongyu Lee et.al.|[2406.06650](http://arxiv.org/abs/2406.06650)|null|
 |**2024-06-10**|**Network-Based Transfer Learning Helps Improve Short-Term Crime Prediction Accuracy**|Jiahui Wu et.al.|[2406.06645](http://arxiv.org/abs/2406.06645)|null|
