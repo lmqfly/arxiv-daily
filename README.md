@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -144,7 +144,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## DDI
 
@@ -255,7 +255,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## MG
 
@@ -381,7 +381,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## MPP
 
@@ -514,7 +514,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## MD
 
@@ -558,11 +558,11 @@
 |**2024-05-28**|**Structure evolution of nanoparticulate Fe2O3**|Andreas Erlebach et.al.|[2405.18637](http://arxiv.org/abs/2405.18637)|null|
 |**2024-05-28**|**The influence of solvent on surface adsorption and desorption**|Ardavan Farahvash et.al.|[2405.18263](http://arxiv.org/abs/2405.18263)|null|
 |**2024-05-28**|**Bulk viscosity of the rigid rotor one-component plasma**|Jarett LeVan et.al.|[2405.18175](http://arxiv.org/abs/2405.18175)|null|
-|**2024-05-28**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
+|**2024-06-21**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
 |**2024-05-28**|**Water at negative pressure: Nuclear quantum effects**|Carlos P. Herrero et.al.|[2405.18053](http://arxiv.org/abs/2405.18053)|null|
 |**2024-05-28**|**Molecular Structure and Rotational Dynamics in the Acetonitrile:Acetylene (1:2) Plastic Co-Crystal at Titan Conditions**|Atul C. Thakur et.al.|[2405.17751](http://arxiv.org/abs/2405.17751)|null|
 |**2024-05-26**|**Accurate and Fast Estimation of the Continuum Limit in Path Integral Simulations of Quantum Oscillators and Crystals**|Sabry G Moustafa et.al.|[2405.16717](http://arxiv.org/abs/2405.16717)|null|
-|**2024-05-23**|**The interplay between liquid-liquid and ferroelectric phase transitions in supercooled water**|Maria Grazia Izzo et.al.|[2405.14424](http://arxiv.org/abs/2405.14424)|null|
+|**2024-06-20**|**The interplay between liquid-liquid and ferroelectric phase transitions in supercooled water**|Maria Grazia Izzo et.al.|[2405.14424](http://arxiv.org/abs/2405.14424)|null|
 |**2024-05-22**|**Nuclear quantum effects in structural and elastic properties of cubic silicon carbide**|Carlos P. Herrero et.al.|[2405.13733](http://arxiv.org/abs/2405.13733)|null|
 |**2024-06-12**|**Adsorption of polyelectrolytes in the presence of varying dielectric discontinuity between solution and substrate**|Hossein Vahid et.al.|[2405.13484](http://arxiv.org/abs/2405.13484)|null|
 |**2024-05-22**|**Image charge effects under metal and dieletric boundary conditions**|Tingtao Zhou et.al.|[2405.13261](http://arxiv.org/abs/2405.13261)|null|
@@ -749,7 +749,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## Transformer
 
@@ -818,7 +818,7 @@
 |**2024-06-18**|**Recurrence over Video Frames (RoVF) for the Re-identification of Meerkats**|Mitchell Rogers et.al.|[2406.13002](http://arxiv.org/abs/2406.13002)|null|
 |**2024-06-18**|**Essays on Responsible and Sustainable Finance**|Baridhi Malakar et.al.|[2406.12995](http://arxiv.org/abs/2406.12995)|null|
 |**2024-06-18**|**Skin Cancer Images Classification using Transfer Learning Techniques**|Md Sirajul Islam et.al.|[2406.12954](http://arxiv.org/abs/2406.12954)|null|
-|**2024-06-20**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808](http://arxiv.org/abs/2406.12808)|null|
+|**2024-06-21**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808](http://arxiv.org/abs/2406.12808)|null|
 |**2024-06-18**|**Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**|Joshua Durso-Finley et.al.|[2406.12807](http://arxiv.org/abs/2406.12807)|null|
 |**2024-06-18**|**GFM4MPM: Towards Geospatial Foundation Models for Mineral Prospectivity Mapping**|Angel Daruna et.al.|[2406.12756](http://arxiv.org/abs/2406.12756)|null|
 |**2024-06-18**|**TSI-Bench: Benchmarking Time Series Imputation**|Wenjie Du et.al.|[2406.12747](http://arxiv.org/abs/2406.12747)|**[link](https://github.com/WenjieDu/PyPOTS)**|
@@ -830,8 +830,8 @@
 |**2024-06-18**|**Learned Image Compression for HE-stained Histopathological Images via Stain Deconvolution**|Maximilian Fischer et.al.|[2406.12623](http://arxiv.org/abs/2406.12623)|null|
 |**2024-06-18**|**Attack and Defense of Deep Learning Models in the Field of Web Attack Detection**|Lijia Shi et.al.|[2406.12605](http://arxiv.org/abs/2406.12605)|null|
 |**2024-06-18**|**Automatically Generating Narrative-Style Radiology Reports from Volumetric CT Images; a Proof of Concept**|Marijn Borghouts et.al.|[2406.12599](http://arxiv.org/abs/2406.12599)|**[link](https://github.com/Marijn311/CT-Report-Generation)**|
-|**2024-06-18**|**An extrapolation-driven network architecture for physics-informed deep learning**|Yong Wang et.al.|[2406.12460](http://arxiv.org/abs/2406.12460)|null|
-|**2024-06-18**|**PCA-Relax: Deep-learning-based groupwise registration for motion correction of cardiac $T_1$ mapping**|Yi Zhang et.al.|[2406.12456](http://arxiv.org/abs/2406.12456)|null|
+|**2024-06-21**|**An extrapolation-driven network architecture for physics-informed deep learning**|Yong Wang et.al.|[2406.12460](http://arxiv.org/abs/2406.12460)|null|
+|**2024-06-21**|**Deep-learning-based groupwise registration for motion correction of cardiac $T_1$ mapping**|Yi Zhang et.al.|[2406.12456](http://arxiv.org/abs/2406.12456)|null|
 |**2024-06-18**|**Deep self-supervised learning with visualisation for automatic gesture recognition**|Fabien Allemand et.al.|[2406.12440](http://arxiv.org/abs/2406.12440)|null|
 |**2024-06-18**|**Open-Source Web Service with Morphological Dictionary-Supplemented Deep Learning for Morphosyntactic Analysis of Czech**|Milan Straka et.al.|[2406.12422](http://arxiv.org/abs/2406.12422)|**[link](https://github.com/ufal/udpipe)**|
 |**2024-06-18**|**A Cutting-Edge Deep Learning Method For Enhancing IoT Security**|Nadia Ansar et.al.|[2406.12400](http://arxiv.org/abs/2406.12400)|null|
@@ -3190,7 +3190,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## Binding
 
@@ -3203,7 +3203,7 @@
 |**2024-06-10**|**Compass: A Comprehensive Tool for Accurate and Efficient Molecular Docking in Inference and Fine-Tuning**|Ahmet Sarigun et.al.|[2406.06841](http://arxiv.org/abs/2406.06841)|**[link](https://github.com/bimsbbioinfo/compass)**|
 |**2024-06-09**|**Smiles2Dock: an open large-scale multi-task dataset for ML-based molecular docking**|Thomas Le Menestrel et.al.|[2406.05738](http://arxiv.org/abs/2406.05738)|**[link](https://github.com/rivas-lab/Smiles2Dock)**|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|null|
-|**2024-05-28**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
+|**2024-06-21**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
 |**2024-05-28**|**Multi-level Interaction Modeling for Protein Mutational Effect Prediction**|Yuanle Mo et.al.|[2405.17802](http://arxiv.org/abs/2405.17802)|null|
 |**2024-05-24**|**PatchProt: Hydrophobic patch prediction using protein foundation models**|Dea Gogishvili et.al.|[2405.15928](http://arxiv.org/abs/2405.15928)|**[link](https://github.com/Deagogishvili/chapter-multi-task)**|
 |**2024-05-23**|**Compound Mutations in the Abl1 Kinase Cause Inhibitor Resistance by Shifting DFG Flip Mechanisms and Relative State Populations**|Gabriel Monteiro da Silva et.al.|[2405.14968](http://arxiv.org/abs/2405.14968)|null|
@@ -3326,7 +3326,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -3445,7 +3445,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

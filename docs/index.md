@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -540,11 +540,11 @@ layout: default
 |**2024-05-28**|**Structure evolution of nanoparticulate Fe2O3**|Andreas Erlebach et.al.|[2405.18637](http://arxiv.org/abs/2405.18637)|null|
 |**2024-05-28**|**The influence of solvent on surface adsorption and desorption**|Ardavan Farahvash et.al.|[2405.18263](http://arxiv.org/abs/2405.18263)|null|
 |**2024-05-28**|**Bulk viscosity of the rigid rotor one-component plasma**|Jarett LeVan et.al.|[2405.18175](http://arxiv.org/abs/2405.18175)|null|
-|**2024-05-28**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
+|**2024-06-21**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
 |**2024-05-28**|**Water at negative pressure: Nuclear quantum effects**|Carlos P. Herrero et.al.|[2405.18053](http://arxiv.org/abs/2405.18053)|null|
 |**2024-05-28**|**Molecular Structure and Rotational Dynamics in the Acetonitrile:Acetylene (1:2) Plastic Co-Crystal at Titan Conditions**|Atul C. Thakur et.al.|[2405.17751](http://arxiv.org/abs/2405.17751)|null|
 |**2024-05-26**|**Accurate and Fast Estimation of the Continuum Limit in Path Integral Simulations of Quantum Oscillators and Crystals**|Sabry G Moustafa et.al.|[2405.16717](http://arxiv.org/abs/2405.16717)|null|
-|**2024-05-23**|**The interplay between liquid-liquid and ferroelectric phase transitions in supercooled water**|Maria Grazia Izzo et.al.|[2405.14424](http://arxiv.org/abs/2405.14424)|null|
+|**2024-06-20**|**The interplay between liquid-liquid and ferroelectric phase transitions in supercooled water**|Maria Grazia Izzo et.al.|[2405.14424](http://arxiv.org/abs/2405.14424)|null|
 |**2024-05-22**|**Nuclear quantum effects in structural and elastic properties of cubic silicon carbide**|Carlos P. Herrero et.al.|[2405.13733](http://arxiv.org/abs/2405.13733)|null|
 |**2024-06-12**|**Adsorption of polyelectrolytes in the presence of varying dielectric discontinuity between solution and substrate**|Hossein Vahid et.al.|[2405.13484](http://arxiv.org/abs/2405.13484)|null|
 |**2024-05-22**|**Image charge effects under metal and dieletric boundary conditions**|Tingtao Zhou et.al.|[2405.13261](http://arxiv.org/abs/2405.13261)|null|
@@ -798,7 +798,7 @@ layout: default
 |**2024-06-18**|**Recurrence over Video Frames (RoVF) for the Re-identification of Meerkats**|Mitchell Rogers et.al.|[2406.13002](http://arxiv.org/abs/2406.13002)|null|
 |**2024-06-18**|**Essays on Responsible and Sustainable Finance**|Baridhi Malakar et.al.|[2406.12995](http://arxiv.org/abs/2406.12995)|null|
 |**2024-06-18**|**Skin Cancer Images Classification using Transfer Learning Techniques**|Md Sirajul Islam et.al.|[2406.12954](http://arxiv.org/abs/2406.12954)|null|
-|**2024-06-20**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808](http://arxiv.org/abs/2406.12808)|null|
+|**2024-06-21**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808](http://arxiv.org/abs/2406.12808)|null|
 |**2024-06-18**|**Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**|Joshua Durso-Finley et.al.|[2406.12807](http://arxiv.org/abs/2406.12807)|null|
 |**2024-06-18**|**GFM4MPM: Towards Geospatial Foundation Models for Mineral Prospectivity Mapping**|Angel Daruna et.al.|[2406.12756](http://arxiv.org/abs/2406.12756)|null|
 |**2024-06-18**|**TSI-Bench: Benchmarking Time Series Imputation**|Wenjie Du et.al.|[2406.12747](http://arxiv.org/abs/2406.12747)|**[link](https://github.com/WenjieDu/PyPOTS)**|
@@ -810,8 +810,8 @@ layout: default
 |**2024-06-18**|**Learned Image Compression for HE-stained Histopathological Images via Stain Deconvolution**|Maximilian Fischer et.al.|[2406.12623](http://arxiv.org/abs/2406.12623)|null|
 |**2024-06-18**|**Attack and Defense of Deep Learning Models in the Field of Web Attack Detection**|Lijia Shi et.al.|[2406.12605](http://arxiv.org/abs/2406.12605)|null|
 |**2024-06-18**|**Automatically Generating Narrative-Style Radiology Reports from Volumetric CT Images; a Proof of Concept**|Marijn Borghouts et.al.|[2406.12599](http://arxiv.org/abs/2406.12599)|**[link](https://github.com/Marijn311/CT-Report-Generation)**|
-|**2024-06-18**|**An extrapolation-driven network architecture for physics-informed deep learning**|Yong Wang et.al.|[2406.12460](http://arxiv.org/abs/2406.12460)|null|
-|**2024-06-18**|**PCA-Relax: Deep-learning-based groupwise registration for motion correction of cardiac $T_1$ mapping**|Yi Zhang et.al.|[2406.12456](http://arxiv.org/abs/2406.12456)|null|
+|**2024-06-21**|**An extrapolation-driven network architecture for physics-informed deep learning**|Yong Wang et.al.|[2406.12460](http://arxiv.org/abs/2406.12460)|null|
+|**2024-06-21**|**Deep-learning-based groupwise registration for motion correction of cardiac $T_1$ mapping**|Yi Zhang et.al.|[2406.12456](http://arxiv.org/abs/2406.12456)|null|
 |**2024-06-18**|**Deep self-supervised learning with visualisation for automatic gesture recognition**|Fabien Allemand et.al.|[2406.12440](http://arxiv.org/abs/2406.12440)|null|
 |**2024-06-18**|**Open-Source Web Service with Morphological Dictionary-Supplemented Deep Learning for Morphosyntactic Analysis of Czech**|Milan Straka et.al.|[2406.12422](http://arxiv.org/abs/2406.12422)|**[link](https://github.com/ufal/udpipe)**|
 |**2024-06-18**|**A Cutting-Edge Deep Learning Method For Enhancing IoT Security**|Nadia Ansar et.al.|[2406.12400](http://arxiv.org/abs/2406.12400)|null|
@@ -3181,7 +3181,7 @@ layout: default
 |**2024-06-10**|**Compass: A Comprehensive Tool for Accurate and Efficient Molecular Docking in Inference and Fine-Tuning**|Ahmet Sarigun et.al.|[2406.06841](http://arxiv.org/abs/2406.06841)|**[link](https://github.com/bimsbbioinfo/compass)**|
 |**2024-06-09**|**Smiles2Dock: an open large-scale multi-task dataset for ML-based molecular docking**|Thomas Le Menestrel et.al.|[2406.05738](http://arxiv.org/abs/2406.05738)|**[link](https://github.com/rivas-lab/Smiles2Dock)**|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|null|
-|**2024-05-28**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
+|**2024-06-21**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
 |**2024-05-28**|**Multi-level Interaction Modeling for Protein Mutational Effect Prediction**|Yuanle Mo et.al.|[2405.17802](http://arxiv.org/abs/2405.17802)|null|
 |**2024-05-24**|**PatchProt: Hydrophobic patch prediction using protein foundation models**|Dea Gogishvili et.al.|[2405.15928](http://arxiv.org/abs/2405.15928)|**[link](https://github.com/Deagogishvili/chapter-multi-task)**|
 |**2024-05-23**|**Compound Mutations in the Abl1 Kinase Cause Inhibitor Resistance by Shifting DFG Flip Mechanisms and Relative State Populations**|Gabriel Monteiro da Silva et.al.|[2405.14968](http://arxiv.org/abs/2405.14968)|null|
