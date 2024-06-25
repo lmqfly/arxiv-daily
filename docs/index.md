@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -374,7 +374,7 @@ layout: default
 |**2024-06-20**|**$\nabla^2$ DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials**|Kuzma Khrabrov et.al.|[2406.14347](http://arxiv.org/abs/2406.14347)|null|
 |**2024-06-19**|**Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning**|Danqing Wang et.al.|[2406.13869](http://arxiv.org/abs/2406.13869)|**[link](https://github.com/dqwang122/rlhex)**|
 |**2024-06-18**|**MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction**|Yuyan Liu et.al.|[2406.12950](http://arxiv.org/abs/2406.12950)|**[link](https://github.com/nyushcs/moleculargpt)**|
-|**2024-06-17**|**Learning Molecular Representation in a Cell**|Gang Liu et.al.|[2406.12056](http://arxiv.org/abs/2406.12056)|**[link](https://github.com/liugangcode/InfoAlign)**|
+|**2024-06-22**|**Learning Molecular Representation in a Cell**|Gang Liu et.al.|[2406.12056](http://arxiv.org/abs/2406.12056)|**[link](https://github.com/liugangcode/InfoAlign)**|
 |**2024-06-14**|**Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge**|Yizhen Luo et.al.|[2406.09841](http://arxiv.org/abs/2406.09841)|**[link](https://github.com/pharmolix/openbiomed)**|
 |**2024-06-12**|**Expressivity and Generalization: Fragment-Biases for Molecular GNNs**|Tom Wollschläger et.al.|[2406.08210](http://arxiv.org/abs/2406.08210)|null|
 |**2024-05-30**|**Ensemble Model With Bert,Roberta and Xlnet For Molecular property prediction**|Junling Hu et.al.|[2406.06553](http://arxiv.org/abs/2406.06553)|null|
@@ -744,7 +744,7 @@ layout: default
 |**2024-06-21**|**Speech Emotion Recognition under Resource Constraints with Data Distillation**|Yi Chang et.al.|[2406.15119](http://arxiv.org/abs/2406.15119)|null|
 |**2024-06-21**|**Surface Normal Reconstruction Using Polarization-Unet**|F. S. Mortazavi et.al.|[2406.15118](http://arxiv.org/abs/2406.15118)|null|
 |**2024-06-21**|**A Dual Attention-aided DenseNet-121 for Classification of Glaucoma from Fundus Images**|Soham Chakraborty et.al.|[2406.15113](http://arxiv.org/abs/2406.15113)|**[link](https://github.com/soham2004github/dadgc)**|
-|**2024-06-21**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111](http://arxiv.org/abs/2406.15111)|null|
+|**2024-06-24**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111](http://arxiv.org/abs/2406.15111)|null|
 |**2024-06-21**|**Deciphering the Definition of Adversarial Robustness for post-hoc OOD Detectors**|Peter Lorenz et.al.|[2406.15104](http://arxiv.org/abs/2406.15104)|null|
 |**2024-06-21**|**Neural Incremental Data Assimilation**|Matthieu Blanke et.al.|[2406.15076](http://arxiv.org/abs/2406.15076)|null|
 |**2024-06-21**|**Advancing Galaxy Analysis: AI-Powered Detection and Segmentation of Edge-On Galaxies**|Z. Chrobakova et.al.|[2406.15064](http://arxiv.org/abs/2406.15064)|null|
@@ -782,7 +782,7 @@ layout: default
 |**2024-06-20**|**HeartBeat: Towards Controllable Echocardiography Video Synthesis with Multimodal Conditions-Guided Diffusion Models**|Xinrui Zhou et.al.|[2406.14098](http://arxiv.org/abs/2406.14098)|null|
 |**2024-06-20**|**Memory-Efficient Gradient Unrolling for Large-Scale Bi-level Optimization**|Qianli Shen et.al.|[2406.14095](http://arxiv.org/abs/2406.14095)|null|
 |**2024-06-20**|**Confidence Intervals and Simultaneous Confidence Bands Based on Deep Learning**|Asaf Ben Arie et.al.|[2406.14009](http://arxiv.org/abs/2406.14009)|null|
-|**2024-06-20**|**Deep Optimal Experimental Design for Parameter Estimation Problems**|Md Shahriar Rahim Siddiqui et.al.|[2406.14003](http://arxiv.org/abs/2406.14003)|null|
+|**2024-06-22**|**Deep Optimal Experimental Design for Parameter Estimation Problems**|Md Shahriar Rahim Siddiqui et.al.|[2406.14003](http://arxiv.org/abs/2406.14003)|null|
 |**2024-06-20**|**Knowledge-driven Subspace Fusion and Gradient Coordination for Multi-modal Learning**|Yupei Zhang et.al.|[2406.13979](http://arxiv.org/abs/2406.13979)|null|
 |**2024-06-20**|**SSAD: Self-supervised Auxiliary Detection Framework for Panoramic X-ray based Dental Disease Diagnosis**|Zijian Cai et.al.|[2406.13963](http://arxiv.org/abs/2406.13963)|**[link](https://github.com/dylonsword/ssad)**|
 |**2024-06-20**|**UpDLRM: Accelerating Personalized Recommendation using Real-World PIM Architecture**|Sitian Chen et.al.|[2406.13941](http://arxiv.org/abs/2406.13941)|null|
@@ -800,7 +800,7 @@ layout: default
 |**2024-06-19**|**Enhance the Image: Super Resolution using Artificial Intelligence in MRI**|Ziyu Li et.al.|[2406.13625](http://arxiv.org/abs/2406.13625)|null|
 |**2024-06-19**|**Trusted Video Inpainting Localization via Deep Attentive Noise Learning**|Zijie Lou et.al.|[2406.13576](http://arxiv.org/abs/2406.13576)|null|
 |**2024-06-19**|**Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization**|Zijie Lou et.al.|[2406.13565](http://arxiv.org/abs/2406.13565)|null|
-|**2024-06-19**|**Enhancing Travel Choice Modeling with Large Language Models: A Prompt-Learning Approach**|Xuehao Zhai et.al.|[2406.13558](http://arxiv.org/abs/2406.13558)|**[link](https://github.com/zachtian/LLM_Choice_Modeling)**|
+|**2024-06-22**|**Enhancing Travel Choice Modeling with Large Language Models: A Prompt-Learning Approach**|Xuehao Zhai et.al.|[2406.13558](http://arxiv.org/abs/2406.13558)|**[link](https://github.com/zachtian/LLM_Choice_Modeling)**|
 |**2024-06-19**|**Image Distillation for Safe Data Sharing in Histopathology**|Zhe Li et.al.|[2406.13536](http://arxiv.org/abs/2406.13536)|null|
 |**2024-06-19**|**Approximately Equivariant Neural Processes**|Matthew Ashman et.al.|[2406.13488](http://arxiv.org/abs/2406.13488)|null|
 |**2024-06-19**|**Robust Melanoma Thickness Prediction via Deep Transfer Learning enhanced by XAI Techniques**|Miguel Nogales et.al.|[2406.13441](http://arxiv.org/abs/2406.13441)|null|
@@ -3300,7 +3300,7 @@ layout: default
 |**2023-06-07**|**Phen-DC 3 Induces Refolding of Human Telomeric DNA into a Chair-Type Antiparallel G-Quadruplex through Ligand Intercalation**|Anirban Ghosh et.al.|[2306.04291](http://arxiv.org/abs/2306.04291)|null|
 |**2023-06-06**|**Polarizability Plays a Decisive Role in Modulating Association Between Molecular Cations and Anions**|Chase E. Herman et.al.|[2306.03851](http://arxiv.org/abs/2306.03851)|null|
 |**2023-12-12**|**Protein Design with Guided Discrete Diffusion**|Nate Gruver et.al.|[2305.20009](http://arxiv.org/abs/2305.20009)|**[link](https://github.com/ngruver/nos)**|
-|**2023-08-16**|**Drug Repurposing Targeting COVID-19 3CL Protease using Molecular Docking and Machine Learning Regression Approach**|Imra Aqeel et.al.|[2305.18088](http://arxiv.org/abs/2305.18088)|null|
+|**2024-06-23**|**Drug Repurposing Targeting COVID-19 3CL Protease using Molecular Docking and Machine Learning Regression Approach**|Imra Aqeel et.al.|[2305.18088](http://arxiv.org/abs/2305.18088)|null|
 |**2023-05-22**|**Learning Subpocket Prototypes for Generalizable Structure-based Drug Design**|Zaixi Zhang et.al.|[2305.13997](http://arxiv.org/abs/2305.13997)|**[link](https://github.com/zaixizhang/flag)**|
 |**2023-05-17**|**Synthesis of stable cerium oxide nanoparticles coated with phosphonic acid-based functional polymers**|Ameni Dhouib et.al.|[2305.10179](http://arxiv.org/abs/2305.10179)|null|
 |**2023-05-02**|**Affinity-Division Multiplexing for Molecular Communications with Promiscuous Ligand Receptors**|Ahmet R. Emirdagi et.al.|[2305.01546](http://arxiv.org/abs/2305.01546)|null|
