@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**HGTDP-DTA: Hybrid Graph-Transformer with Dynamic Prompt for Drug-Target Binding Affinity Prediction**|Xi Xiao et.al.|[2406.17697](http://arxiv.org/abs/2406.17697)|null|
+|**2024-06-25**|**A microscopic approach to crystallization: challenging the classical/non-classical dichotomy**|James F. Lutsko et.al.|[2406.17543](http://arxiv.org/abs/2406.17543)|null|
 |**2024-06-20**|**Graph Representation Learning Strategies for Omics Data: A Case Study on Parkinson's Disease**|Elisa Gómez de Lope et.al.|[2406.14442](http://arxiv.org/abs/2406.14442)|null|
 |**2024-06-20**|**Microscopic and stochastic simulations of chemically active droplets**|Roxanne Berthin et.al.|[2406.14256](http://arxiv.org/abs/2406.14256)|null|
 |**2024-06-19**|**Molecule Graph Networks with Many-body Equivariant Interactions**|Zetian Mao et.al.|[2406.13265](http://arxiv.org/abs/2406.13265)|null|
@@ -502,6 +504,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Quasiphase transition of a single-file water chain influenced by atomic charges in water model using orientational-biased replica exchange Monte Carlo simulations**|Liang Zhao et.al.|[2406.17621](http://arxiv.org/abs/2406.17621)|null|
+|**2024-06-25**|**Robust and effective ab initio molecular dynamics simulations on the GPU cloud infrastructure using the Schrödinger Materials Science Suite**|Alexandr Fonari et.al.|[2406.17510](http://arxiv.org/abs/2406.17510)|null|
 |**2024-06-22**|**Irida-Graphene Phonon Thermal via Non-equilibrium Molecular Dynamics Simulations**|Isaac M. Felix et.al.|[2406.15855](http://arxiv.org/abs/2406.15855)|null|
 |**2024-06-22**|**Stress-tunable abilities of glass forming and mechanical amorphization**|Xinxin Li et.al.|[2406.15722](http://arxiv.org/abs/2406.15722)|null|
 |**2024-06-18**|**Quantum theory of a potential biological magnetic field sensor: radical pair mechanism in flavin adenine dinucleotide biradicals**|Amirhosein Sotoodehfar et.al.|[2406.14580](http://arxiv.org/abs/2406.14580)|null|
@@ -738,6 +742,37 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Benchmarking Deep Learning Models on NVIDIA Jetson Nano for Real-Time Systems: An Empirical Investigation**|Tushar Prasanna Swaminathan et.al.|[2406.17749](http://arxiv.org/abs/2406.17749)|null|
+|**2024-06-25**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in E-commerce Search**|Pai Peng et.al.|[2406.17745](http://arxiv.org/abs/2406.17745)|null|
+|**2024-06-24**|**EMVD dataset: a dataset of extreme vocal distortion techniques used in heavy metal**|Modan Tailleur et.al.|[2406.17732](http://arxiv.org/abs/2406.17732)|**[link](https://github.com/modantailleur/extrememetalvocalsdataset)**|
+|**2024-06-25**|**BayTTA: Uncertainty-aware medical image classification with optimized test-time augmentation using Bayesian model averaging**|Zeinab Sherkatghanad et.al.|[2406.17640](http://arxiv.org/abs/2406.17640)|null|
+|**2024-06-25**|**Aligning Programming Language and Natural Language: Exploring Design Choices in Multi-Modal Transformer-Based Embedding for Bug Localization**|Partha Chakraborty et.al.|[2406.17615](http://arxiv.org/abs/2406.17615)|null|
+|**2024-06-25**|**DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation**|Ahmad Mohammadshirazi et.al.|[2406.17591](http://arxiv.org/abs/2406.17591)|**[link](https://github.com/ahmad-shirazi/docparsenet)**|
+|**2024-06-25**|**Toward Universal Medical Image Registration via Sharpness-Aware Meta-Continual Learning**|Bomin Wang et.al.|[2406.17575](http://arxiv.org/abs/2406.17575)|**[link](https://github.com/xzluo97/continual-reg)**|
+|**2024-06-25**|**Improving density matrix electronic structure method by deep learning**|Zechen Tang et.al.|[2406.17561](http://arxiv.org/abs/2406.17561)|null|
+|**2024-06-25**|**SincVAE: a New Approach to Improve Anomaly Detection on EEG Data Using SincNet and Variational Autoencoder**|Andrea Pollastro et.al.|[2406.17537](http://arxiv.org/abs/2406.17537)|null|
+|**2024-06-25**|**Neural Networks for ID Gap Orbit Distortion Compensation in PETRA III**|Bianca Veglia et.al.|[2406.17494](http://arxiv.org/abs/2406.17494)|null|
+|**2024-06-25**|**The Tree of Diffusion Life: Evolutionary Embeddings to Understand the Generation Process of Diffusion Models**|Vidya Prasad et.al.|[2406.17462](http://arxiv.org/abs/2406.17462)|null|
+|**2024-06-25**|**Continuous Urban Change Detection from Satellite Image Time Series with Temporal Feature Refinement and Multi-Task Integration**|Sebastian Hafner et.al.|[2406.17458](http://arxiv.org/abs/2406.17458)|null|
+|**2024-06-25**|**Deep learning-based brain segmentation model performance validation with clinical radiotherapy CT**|Selena Huisman et.al.|[2406.17423](http://arxiv.org/abs/2406.17423)|null|
+|**2024-06-25**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382](http://arxiv.org/abs/2406.17382)|null|
+|**2024-06-25**|**Semantic Deep Hiding for Robust Unlearnable Examples**|Ruohan Meng et.al.|[2406.17349](http://arxiv.org/abs/2406.17349)|null|
+|**2024-06-25**|**Robustly Optimized Deep Feature Decoupling Network for Fatty Liver Diseases Detection**|Peng Huang et.al.|[2406.17338](http://arxiv.org/abs/2406.17338)|null|
+|**2024-06-25**|**Towards Efficient and Scalable Training of Differentially Private Deep Learning**|Sebastian Rodriguez Beltran et.al.|[2406.17298](http://arxiv.org/abs/2406.17298)|null|
+|**2024-06-25**|**MindSpore Quantum: A User-Friendly, High-Performance, and AI-Compatible Quantum Computing Framework**|Xusheng Xu et.al.|[2406.17248](http://arxiv.org/abs/2406.17248)|null|
+|**2024-06-25**|**Task-Agnostic Federated Learning**|Zhengtao Yao et.al.|[2406.17235](http://arxiv.org/abs/2406.17235)|null|
+|**2024-06-25**|**Machine Unlearning Fails to Remove Data Poisoning Attacks**|Martin Pawelczyk et.al.|[2406.17216](http://arxiv.org/abs/2406.17216)|null|
+|**2024-06-25**|**Geometric Median (GM) Matching for Robust Data Pruning**|Anish Acharya et.al.|[2406.17188](http://arxiv.org/abs/2406.17188)|null|
+|**2024-06-24**|**Virtual Mines -- Component-level recycling of printed circuit boards using deep learning**|Muhammad Mohsin et.al.|[2406.17162](http://arxiv.org/abs/2406.17162)|null|
+|**2024-06-24**|**MM-SpuBench: Towards Better Understanding of Spurious Biases in Multimodal LLMs**|Wenqian Ye et.al.|[2406.17126](http://arxiv.org/abs/2406.17126)|null|
+|**2024-06-24**|**BrainMAE: A Region-aware Self-supervised Learning Framework for Brain Signals**|Yifan Yang et.al.|[2406.17086](http://arxiv.org/abs/2406.17086)|null|
+|**2024-06-24**|**Dwarf: Disease-weighted network for attention map refinement**|Haozhe Luo et.al.|[2406.17032](http://arxiv.org/abs/2406.17032)|null|
+|**2024-06-24**|**Deep Learning for Prediction and Classifying the Dynamical behaviour of Piecewise Smooth Maps**|Vismaya V S et.al.|[2406.17001](http://arxiv.org/abs/2406.17001)|null|
+|**2024-06-24**|**Wavelet Attention GRU for Efficient Industrial Gas Recognition with Novel Metrics**|Ding Wang et.al.|[2406.16997](http://arxiv.org/abs/2406.16997)|null|
+|**2024-06-23**|**Research on Disease Prediction Model Construction Based on Computer AI deep Learning Technology**|Yang Lin et.al.|[2406.16982](http://arxiv.org/abs/2406.16982)|null|
+|**2024-06-23**|**Research on Feature Extraction Data Processing System For MRI of Brain Diseases Based on Computer Deep Learning**|Lingxi Xiao et.al.|[2406.16981](http://arxiv.org/abs/2406.16981)|null|
+|**2024-06-22**|**SHDB-AF: a Japanese Holter ECG database of atrial fibrillation**|Kenta Tsutsui et.al.|[2406.16974](http://arxiv.org/abs/2406.16974)|null|
+|**2024-06-21**|**Anime Popularity Prediction Before Huge Investments: a Multimodal Approach Using Deep Learning**|Jesús Armenta-Segura et.al.|[2406.16961](http://arxiv.org/abs/2406.16961)|null|
 |**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853](http://arxiv.org/abs/2406.16853)|**[link](https://github.com/c-tl/geomformer)**|
 |**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792](http://arxiv.org/abs/2406.16792)|null|
 |**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784](http://arxiv.org/abs/2406.16784)|null|
@@ -3256,6 +3291,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**HGTDP-DTA: Hybrid Graph-Transformer with Dynamic Prompt for Drug-Target Binding Affinity Prediction**|Xi Xiao et.al.|[2406.17697](http://arxiv.org/abs/2406.17697)|null|
 |**2024-06-24**|**General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design**|Yue Jian et.al.|[2406.16821](http://arxiv.org/abs/2406.16821)|null|
 |**2024-06-16**|**Geometric-informed GFlowNets for Structure-Based Drug Design**|Grayson Lee et.al.|[2406.10867](http://arxiv.org/abs/2406.10867)|null|
 |**2024-06-13**|**From Theory to Therapy: Reframing SBDD Model Evaluation via Practical Metrics**|Bowen Gao et.al.|[2406.08980](http://arxiv.org/abs/2406.08980)|**[link](https://github.com/bowen-gao/sbdd_practical_evaluation)**|
