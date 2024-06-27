@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**MoleculeCLA: Rethinking Molecular Benchmark via Computational Ligand-Target Binding Analysis**|Shikun Feng et.al.|[2406.17797](http://arxiv.org/abs/2406.17797)|null|
 |**2024-06-25**|**HGTDP-DTA: Hybrid Graph-Transformer with Dynamic Prompt for Drug-Target Binding Affinity Prediction**|Xi Xiao et.al.|[2406.17697](http://arxiv.org/abs/2406.17697)|null|
 |**2024-06-25**|**A microscopic approach to crystallization: challenging the classical/non-classical dichotomy**|James F. Lutsko et.al.|[2406.17543](http://arxiv.org/abs/2406.17543)|null|
 |**2024-06-20**|**Graph Representation Learning Strategies for Omics Data: A Case Study on Parkinson's Disease**|Elisa Gómez de Lope et.al.|[2406.14442](http://arxiv.org/abs/2406.14442)|null|
@@ -373,6 +374,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**MoleculeCLA: Rethinking Molecular Benchmark via Computational Ligand-Target Binding Analysis**|Shikun Feng et.al.|[2406.17797](http://arxiv.org/abs/2406.17797)|null|
 |**2024-06-20**|**$\nabla^2$ DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials**|Kuzma Khrabrov et.al.|[2406.14347](http://arxiv.org/abs/2406.14347)|null|
 |**2024-06-19**|**Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning**|Danqing Wang et.al.|[2406.13869](http://arxiv.org/abs/2406.13869)|**[link](https://github.com/dqwang122/rlhex)**|
 |**2024-06-18**|**MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction**|Yuyan Liu et.al.|[2406.12950](http://arxiv.org/abs/2406.12950)|**[link](https://github.com/nyushcs/moleculargpt)**|
@@ -504,6 +506,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Computing linear optical spectra of molecules in complex environments on Graphics Processing Units using molecular dynamics simulations and tensor-network approaches**|Evan Lambertson et.al.|[2406.17994](http://arxiv.org/abs/2406.17994)|null|
 |**2024-06-26**|**Quasiphase transition of a single-file water chain influenced by atomic charges in water model using orientational-biased replica exchange Monte Carlo simulations**|Liang Zhao et.al.|[2406.17621](http://arxiv.org/abs/2406.17621)|null|
 |**2024-06-25**|**Robust and effective ab initio molecular dynamics simulations on the GPU cloud infrastructure using the Schrödinger Materials Science Suite**|Alexandr Fonari et.al.|[2406.17510](http://arxiv.org/abs/2406.17510)|null|
 |**2024-06-22**|**Irida-Graphene Phonon Thermal via Non-equilibrium Molecular Dynamics Simulations**|Isaac M. Felix et.al.|[2406.15855](http://arxiv.org/abs/2406.15855)|null|
@@ -742,6 +745,29 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516](http://arxiv.org/abs/2406.18516)|**[link](https://github.com/kangliao929/noise-da)**|
+|**2024-06-26**|**Assessment of Clonal Hematopoiesis of Indeterminate Potential from Cardiac Magnetic Resonance Imaging using Deep Learning in a Cardio-oncology Population**|Sangeon Ryu et.al.|[2406.18508](http://arxiv.org/abs/2406.18508)|null|
+|**2024-06-26**|**Detecting Brittle Decisions for Free: Leveraging Margin Consistency in Deep Robust Classifiers**|Jonas Ngnawé et.al.|[2406.18451](http://arxiv.org/abs/2406.18451)|**[link](https://github.com/ngnawejonas/margin-consistency)**|
+|**2024-06-26**|**Unveiling the Unknown: Conditional Evidence Decoupling for Unknown Rejection**|Zhaowei Wu et.al.|[2406.18443](http://arxiv.org/abs/2406.18443)|**[link](https://github.com/zjzwzw/ced-food)**|
+|**2024-06-26**|**AlphaForge: A Framework to Mine and Dynamically Combine Formulaic Alpha Factors**|Hao Shi et.al.|[2406.18394](http://arxiv.org/abs/2406.18394)|null|
+|**2024-06-26**|**ContactNet: Geometric-Based Deep Learning Model for Predicting Protein-Protein Interactions**|Matan Halfon et.al.|[2406.18314](http://arxiv.org/abs/2406.18314)|null|
+|**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310](http://arxiv.org/abs/2406.18310)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
+|**2024-06-26**|**Foundational Models for Pathology and Endoscopy Images: Application for Gastric Inflammation**|Hamideh Kerdegari et.al.|[2406.18249](http://arxiv.org/abs/2406.18249)|null|
+|**2024-06-26**|**Guiding Video Prediction with Explicit Procedural Knowledge**|Patrick Takenaka et.al.|[2406.18220](http://arxiv.org/abs/2406.18220)|null|
+|**2024-06-26**|**DeepExtremeCubes: Integrating Earth system spatio-temporal data for impact assessment of climate extremes**|Chaonan Ji et.al.|[2406.18179](http://arxiv.org/abs/2406.18179)|null|
+|**2024-06-26**|**VIPriors 4: Visual Inductive Priors for Data-Efficient Deep Learning Challenges**|Robert-Jan Bruintjes et.al.|[2406.18176](http://arxiv.org/abs/2406.18176)|null|
+|**2024-06-26**|**Galaxy spectroscopy without spectra: Galaxy properties from photometric images with conditional diffusion models**|Lars Doorenbos et.al.|[2406.18175](http://arxiv.org/abs/2406.18175)|**[link](https://github.com/larsdoorenbos/generate-spectra)**|
+|**2024-06-26**|**Multimodal Reaching-Position Prediction for ADL Support Using Neural Networks**|Yutaka Takase et.al.|[2406.18162](http://arxiv.org/abs/2406.18162)|null|
+|**2024-06-26**|**On Calibration of Speech Classification Models: Insights from Energy-Based Model Investigations**|Yaqian Hao et.al.|[2406.18065](http://arxiv.org/abs/2406.18065)|null|
+|**2024-06-26**|**A Multi-Stage Goal-Driven Network for Pedestrian Trajectory Prediction**|Xiuen Wu et.al.|[2406.18050](http://arxiv.org/abs/2406.18050)|null|
+|**2024-06-26**|**Improving Entity Recognition Using Ensembles of Deep Learning and Fine-tuned Large Language Models: A Case Study on Adverse Event Extraction from Multiple Sources**|Yiming Li et.al.|[2406.18049](http://arxiv.org/abs/2406.18049)|null|
+|**2024-06-26**|**Local Linear Recovery Guarantee of Deep Neural Networks at Overparameterization**|Yaoyu Zhang et.al.|[2406.18035](http://arxiv.org/abs/2406.18035)|null|
+|**2024-06-25**|**Semi-supervised classification of dental conditions in panoramic radiographs using large language model and instance segmentation: A real-world dataset evaluation**|Bernardo Silva et.al.|[2406.17915](http://arxiv.org/abs/2406.17915)|null|
+|**2024-06-25**|**Domain Adaptation of Echocardiography Segmentation Via Reinforcement Learning**|Arnaud Judge et.al.|[2406.17902](http://arxiv.org/abs/2406.17902)|null|
+|**2024-06-25**|**Investigating the effect of non-resonant background variation on the CARS data analysis and classification**|Rajendhar Junjuri et.al.|[2406.17829](http://arxiv.org/abs/2406.17829)|null|
+|**2024-06-25**|**Automatic speech recognition for the Nepali language using CNN, bidirectional LSTM and ResNet**|Manish Dhakal et.al.|[2406.17825](http://arxiv.org/abs/2406.17825)|**[link](https://github.com/manishdhakal/asr-nepali-using-cnn-bilstm-resnet)**|
+|**2024-06-24**|**Unsupervised Concept Drift Detection from Deep Learning Representations in Real-time**|Salvatore Greco et.al.|[2406.17813](http://arxiv.org/abs/2406.17813)|**[link](https://github.com/grecosalvatore/drift-lens)**|
+|**2024-06-22**|**A Review of Electromagnetic Elimination Methods for low-field portable MRI scanner**|Wanyu Bian et.al.|[2406.17804](http://arxiv.org/abs/2406.17804)|null|
 |**2024-06-25**|**Benchmarking Deep Learning Models on NVIDIA Jetson Nano for Real-Time Systems: An Empirical Investigation**|Tushar Prasanna Swaminathan et.al.|[2406.17749](http://arxiv.org/abs/2406.17749)|null|
 |**2024-06-25**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in E-commerce Search**|Pai Peng et.al.|[2406.17745](http://arxiv.org/abs/2406.17745)|null|
 |**2024-06-24**|**EMVD dataset: a dataset of extreme vocal distortion techniques used in heavy metal**|Modan Tailleur et.al.|[2406.17732](http://arxiv.org/abs/2406.17732)|**[link](https://github.com/modantailleur/extrememetalvocalsdataset)**|
@@ -3291,6 +3317,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**MoleculeCLA: Rethinking Molecular Benchmark via Computational Ligand-Target Binding Analysis**|Shikun Feng et.al.|[2406.17797](http://arxiv.org/abs/2406.17797)|null|
 |**2024-06-25**|**HGTDP-DTA: Hybrid Graph-Transformer with Dynamic Prompt for Drug-Target Binding Affinity Prediction**|Xi Xiao et.al.|[2406.17697](http://arxiv.org/abs/2406.17697)|null|
 |**2024-06-24**|**General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design**|Yue Jian et.al.|[2406.16821](http://arxiv.org/abs/2406.16821)|null|
 |**2024-06-16**|**Geometric-informed GFlowNets for Structure-Based Drug Design**|Grayson Lee et.al.|[2406.10867](http://arxiv.org/abs/2406.10867)|null|
