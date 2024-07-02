@@ -401,6 +401,7 @@
 |**2024-05-30**|**Ensemble Model With Bert,Roberta and Xlnet For Molecular property prediction**|Junling Hu et.al.|[2406.06553](http://arxiv.org/abs/2406.06553)|null|
 |**2024-06-09**|**3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization**|Qizhi Pei et.al.|[2406.05797](http://arxiv.org/abs/2406.05797)|null|
 |**2024-06-03**|**LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning**|Junjie Xu et.al.|[2406.01032](http://arxiv.org/abs/2406.01032)|null|
+|**2024-06-30**|**Scaffold Splits Overestimate Virtual Screening Performance**|Qianrong Guo et.al.|[2406.00873](http://arxiv.org/abs/2406.00873)|null|
 |**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
 |**2024-06-01**|**Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models**|Zhenzhong Wang et.al.|[2405.16041](http://arxiv.org/abs/2405.16041)|null|
 |**2024-05-24**|**Knowledge-enhanced Relation Graph and Task Sampling for Few-shot Molecular Property Prediction**|Zeyu Wang et.al.|[2405.15544](http://arxiv.org/abs/2405.15544)|**[link](https://github.com/Vencent-Won/KRGTS-public)**|
@@ -465,7 +466,7 @@
 |**2023-08-17**|**On Data Imbalance in Molecular Property Prediction with Pre-training**|Limin Wang et.al.|[2308.08934](http://arxiv.org/abs/2308.08934)|null|
 |**2023-08-16**|**Is Self-Supervised Pretraining Good for Extrapolation in Molecular Property Prediction?**|Shun Takashige et.al.|[2308.08129](http://arxiv.org/abs/2308.08129)|null|
 |**2023-07-27**|**Rotation-Invariant Random Features Provide a Strong Baseline for Machine Learning on 3D Point Clouds**|Owen Melia et.al.|[2308.06271](http://arxiv.org/abs/2308.06271)|**[link](https://github.com/meliao/rotation-invariant-random-features)**|
-|**2024-06-28**|**Uncertainty Quantification for Molecular Property Predictions with Graph Neural Architecture Search**|Shengli Jiang et.al.|[2307.10438](http://arxiv.org/abs/2307.10438)|**[link](https://github.com/zavalab/ML)**|
+|**2024-06-28**|**Uncertainty Quantification for Molecular Property Predictions with Graph Neural Architecture Search**|Shengli Jiang et.al.|[2307.10438](http://arxiv.org/abs/2307.10438)|**[link](https://github.com/sjiang87/deephyper)**|
 |**2023-07-14**|**Can Large Language Models Empower Molecular Property Prediction?**|Chen Qian et.al.|[2307.07443](http://arxiv.org/abs/2307.07443)|**[link](https://github.com/chnq/llm4mol)**|
 |**2024-03-07**|**Predicting small molecules solubilities on endpoint devices using deep ensemble neural networks**|Mayk Caldas Ramos et.al.|[2307.05318](http://arxiv.org/abs/2307.05318)|**[link](https://github.com/ur-whitelab/mol.dev)**|
 |**2023-07-10**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|**[link](https://github.com/gmum/chienn)**|
@@ -869,7 +870,7 @@
 |**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853](http://arxiv.org/abs/2406.16853)|**[link](https://github.com/c-tl/geomformer)**|
 |**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792](http://arxiv.org/abs/2406.16792)|null|
 |**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784](http://arxiv.org/abs/2406.16784)|null|
-|**2024-06-24**|**Learning the boundary-to-domain mapping using Lifting Product Fourier Neural Operators for partial differential equations**|Aditya Kashi et.al.|[2406.16740](http://arxiv.org/abs/2406.16740)|null|
+|**2024-07-01**|**Learning the boundary-to-domain mapping using Lifting Product Fourier Neural Operators for partial differential equations**|Aditya Kashi et.al.|[2406.16740](http://arxiv.org/abs/2406.16740)|null|
 |**2024-06-24**|**μ-Net: A Deep Learning-Based Architecture for μ-CT Segmentation**|Pierangela Bruno et.al.|[2406.16724](http://arxiv.org/abs/2406.16724)|null|
 |**2024-06-24**|**CausalFormer: An Interpretable Transformer for Temporal Causal Discovery**|Lingbai Kong et.al.|[2406.16708](http://arxiv.org/abs/2406.16708)|**[link](https://github.com/lingbai-kong/causalformer)**|
 |**2024-06-24**|**Feature Fusion for Human Activity Recognition using Parameter-Optimized Multi-Stage Graph Convolutional Network and Transformer Models**|Mohammad Belal et.al.|[2406.16638](http://arxiv.org/abs/2406.16638)|null|
