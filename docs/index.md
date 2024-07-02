@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.01
+## Updated on 2024.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -426,7 +426,7 @@ layout: default
 |**2024-04-19**|**MultiModal-Learning for Predicting Molecular Properties: A Framework Based on Image and Graph Structures**|Zhuoyuan Wang et.al.|[2311.16666](http://arxiv.org/abs/2311.16666)|null|
 |**2023-11-17**|**Multiparameter Persistent Homology for Molecular Property Prediction**|Andac Demir et.al.|[2311.10808](http://arxiv.org/abs/2311.10808)|null|
 |**2023-11-08**|**Identifying Semantic Component for Robust Molecular Property Prediction**|Zijian Li et.al.|[2311.04837](http://arxiv.org/abs/2311.04837)|**[link](https://github.com/dmirlab-group/sci)**|
-|**2023-11-05**|**From molecules to scaffolds to functional groups: building context-dependent molecular representation via multi-channel learning**|Yue Wan et.al.|[2311.02798](http://arxiv.org/abs/2311.02798)|null|
+|**2024-07-01**|**From molecules to scaffolds to functional groups: building context-dependent molecular representation via multi-channel learning**|Yue Wan et.al.|[2311.02798](http://arxiv.org/abs/2311.02798)|null|
 |**2023-11-03**|**Sliced Denoising: A Physics-Informed Molecular Pre-Training Method**|Yuyan Ni et.al.|[2311.02124](http://arxiv.org/abs/2311.02124)|null|
 |**2023-10-25**|**Unsupervised Learning of Molecular Embeddings for Enhanced Clustering and Emergent Properties for Chemical Compounds**|Jaiveer Gill et.al.|[2310.18367](http://arxiv.org/abs/2310.18367)|null|
 |**2023-10-26**|**Sliceformer: Make Multi-head Attention as Simple as Sorting in Discriminative Tasks**|Shen Yuan et.al.|[2310.17683](http://arxiv.org/abs/2310.17683)|**[link](https://github.com/sds-lab/sliceformer)**|
@@ -449,7 +449,7 @@ layout: default
 |**2023-08-17**|**On Data Imbalance in Molecular Property Prediction with Pre-training**|Limin Wang et.al.|[2308.08934](http://arxiv.org/abs/2308.08934)|null|
 |**2023-08-16**|**Is Self-Supervised Pretraining Good for Extrapolation in Molecular Property Prediction?**|Shun Takashige et.al.|[2308.08129](http://arxiv.org/abs/2308.08129)|null|
 |**2023-07-27**|**Rotation-Invariant Random Features Provide a Strong Baseline for Machine Learning on 3D Point Clouds**|Owen Melia et.al.|[2308.06271](http://arxiv.org/abs/2308.06271)|**[link](https://github.com/meliao/rotation-invariant-random-features)**|
-|**2024-04-01**|**Uncertainty Quantification for Molecular Property Predictions with Graph Neural Architecture Search**|Shengli Jiang et.al.|[2307.10438](http://arxiv.org/abs/2307.10438)|**[link](https://github.com/zavalab/ML)**|
+|**2024-06-28**|**Uncertainty Quantification for Molecular Property Predictions with Graph Neural Architecture Search**|Shengli Jiang et.al.|[2307.10438](http://arxiv.org/abs/2307.10438)|**[link](https://github.com/zavalab/ML)**|
 |**2023-07-14**|**Can Large Language Models Empower Molecular Property Prediction?**|Chen Qian et.al.|[2307.07443](http://arxiv.org/abs/2307.07443)|**[link](https://github.com/chnq/llm4mol)**|
 |**2024-03-07**|**Predicting small molecules solubilities on endpoint devices using deep ensemble neural networks**|Mayk Caldas Ramos et.al.|[2307.05318](http://arxiv.org/abs/2307.05318)|**[link](https://github.com/ur-whitelab/mol.dev)**|
 |**2023-07-10**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|**[link](https://github.com/gmum/chienn)**|
@@ -509,11 +509,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-27**|**Exploring the Electronic and Mechanical Properties of TPDH-Nanotube: Insights from Ab initio and Classical Molecular Dynamics Simulations**|Juan Gomez Quispe et.al.|[2406.19536](http://arxiv.org/abs/2406.19536)|null|
 |**2024-06-27**|**Thermal Dynamics of Heat Pipes with Sub-Critical Nanopores**|Sumith Yesudasan et.al.|[2406.19347](http://arxiv.org/abs/2406.19347)|null|
-|**2024-06-26**|**Molecular dynamics simulations of water-ethanol mixtures. I. Composition trends in thermodynamic properties**|D. B. Bautista et.al.|[2406.18707](http://arxiv.org/abs/2406.18707)|null|
+|**2024-06-30**|**Molecular dynamics simulations of water-ethanol mixtures. I. Composition trends in thermodynamic properties**|D. Benavides Bautista et.al.|[2406.18707](http://arxiv.org/abs/2406.18707)|null|
 |**2024-06-26**|**Computing linear optical spectra of molecules in complex environments on Graphics Processing Units using molecular dynamics simulations and tensor-network approaches**|Evan Lambertson et.al.|[2406.17994](http://arxiv.org/abs/2406.17994)|null|
 |**2024-06-26**|**Quasiphase transition of a single-file water chain influenced by atomic charges in water model using orientational-biased replica exchange Monte Carlo simulations**|Liang Zhao et.al.|[2406.17621](http://arxiv.org/abs/2406.17621)|null|
 |**2024-06-25**|**Robust and effective ab initio molecular dynamics simulations on the GPU cloud infrastructure using the Schrödinger Materials Science Suite**|Alexandr Fonari et.al.|[2406.17510](http://arxiv.org/abs/2406.17510)|null|
-|**2024-06-22**|**Irida-Graphene Phonon Thermal via Non-equilibrium Molecular Dynamics Simulations**|Isaac M. Felix et.al.|[2406.15855](http://arxiv.org/abs/2406.15855)|null|
+|**2024-06-28**|**Irida-Graphene Phonon Thermal Transport via Non-equilibrium Molecular Dynamics Simulations**|Isaac M. Felix et.al.|[2406.15855](http://arxiv.org/abs/2406.15855)|null|
 |**2024-06-22**|**Stress-tunable abilities of glass forming and mechanical amorphization**|Xinxin Li et.al.|[2406.15722](http://arxiv.org/abs/2406.15722)|null|
 |**2024-06-18**|**Quantum theory of a potential biological magnetic field sensor: radical pair mechanism in flavin adenine dinucleotide biradicals**|Amirhosein Sotoodehfar et.al.|[2406.14580](http://arxiv.org/abs/2406.14580)|null|
 |**2024-06-20**|**Molecular simulations of crazes in glassy polymers under cyclic loading**|Tobias Laschuetza et.al.|[2406.14383](http://arxiv.org/abs/2406.14383)|null|
@@ -802,7 +802,7 @@ layout: default
 |**2024-06-26**|**Foundational Models for Pathology and Endoscopy Images: Application for Gastric Inflammation**|Hamideh Kerdegari et.al.|[2406.18249](http://arxiv.org/abs/2406.18249)|null|
 |**2024-06-26**|**Guiding Video Prediction with Explicit Procedural Knowledge**|Patrick Takenaka et.al.|[2406.18220](http://arxiv.org/abs/2406.18220)|null|
 |**2024-06-26**|**DeepExtremeCubes: Integrating Earth system spatio-temporal data for impact assessment of climate extremes**|Chaonan Ji et.al.|[2406.18179](http://arxiv.org/abs/2406.18179)|**[link](https://github.com/DeepExtremes/minicube-generation)**|
-|**2024-06-26**|**VIPriors 4: Visual Inductive Priors for Data-Efficient Deep Learning Challenges**|Robert-Jan Bruintjes et.al.|[2406.18176](http://arxiv.org/abs/2406.18176)|null|
+|**2024-07-01**|**VIPriors 4: Visual Inductive Priors for Data-Efficient Deep Learning Challenges**|Robert-Jan Bruintjes et.al.|[2406.18176](http://arxiv.org/abs/2406.18176)|null|
 |**2024-06-26**|**Galaxy spectroscopy without spectra: Galaxy properties from photometric images with conditional diffusion models**|Lars Doorenbos et.al.|[2406.18175](http://arxiv.org/abs/2406.18175)|**[link](https://github.com/larsdoorenbos/generate-spectra)**|
 |**2024-06-26**|**Multimodal Reaching-Position Prediction for ADL Support Using Neural Networks**|Yutaka Takase et.al.|[2406.18162](http://arxiv.org/abs/2406.18162)|null|
 |**2024-06-26**|**On Calibration of Speech Classification Models: Insights from Energy-Based Model Investigations**|Yaqian Hao et.al.|[2406.18065](http://arxiv.org/abs/2406.18065)|null|
