@@ -510,6 +510,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Picosecond lifetimes of hydrogen bonds in the halide perovskite CH $_3$NH$_3$PbBr$_3$**|Alejandro Garrote-Márquez et.al.|[2407.03244](http://arxiv.org/abs/2407.03244)|null|
+|**2024-07-03**|**Active Loop Extrusion guides DNA-Protein Condensation**|Ryota Takaki et.al.|[2407.03109](http://arxiv.org/abs/2407.03109)|null|
+|**2024-07-03**|**Designing Superionic Conductors Using Tetrahedrally Packed Structures**|Tomoyasu Yokoyama et.al.|[2407.02838](http://arxiv.org/abs/2407.02838)|null|
+|**2024-07-03**|**Origin of Interstitial Doping Induced Coercive Field Reduction in Ferroelectric Hafnia**|Tianyuan Zhu et.al.|[2407.02808](http://arxiv.org/abs/2407.02808)|null|
 |**2024-07-02**|**Molecular dynamics simulation for coalescence of vacancies in tungsten crystal**|Sotaro Tsuru et.al.|[2407.02032](http://arxiv.org/abs/2407.02032)|null|
 |**2024-07-01**|**Impact of Co-Excipient Selection on Hydrophobic Polymer Folding: Insights for Optimal Formulation Design**|Jonathan W. P. Zajac et.al.|[2407.00885](http://arxiv.org/abs/2407.00885)|null|
 |**2024-07-01**|**First-principles study of the order-disorder transition in the AlCrTiV high entropy alloy**|Michael Widom et.al.|[2407.00865](http://arxiv.org/abs/2407.00865)|null|
@@ -758,6 +762,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Accelerated Proton Resonance Frequency-based Magnetic Resonance Thermometry by Optimized Deep Learning Method**|Sijie Xu et.al.|[2407.03308](http://arxiv.org/abs/2407.03308)|null|
+|**2024-07-03**|**HoloHisto: End-to-end Gigapixel WSI Segmentation with 4K Resolution Sequential Tokenization**|Yucheng Tang et.al.|[2407.03307](http://arxiv.org/abs/2407.03307)|null|
+|**2024-07-03**|**A Review of the Applications of Deep Learning-Based Emergent Communication**|Brendon Boldt et.al.|[2407.03302](http://arxiv.org/abs/2407.03302)|null|
+|**2024-07-03**|**Using Photoplethysmography to Detect Real-time Blood Pressure Changes with a Calibration-free Deep Learning Model**|Jingyuan Hong et.al.|[2407.03274](http://arxiv.org/abs/2407.03274)|null|
+|**2024-07-03**|**Magnetic Hysteresis Modeling with Neural Operators**|Abhishek Chandra et.al.|[2407.03261](http://arxiv.org/abs/2407.03261)|null|
+|**2024-07-03**|**Modern Neighborhood Components Analysis: A Deep Tabular Baseline Two Decades Later**|Han-Jia Ye et.al.|[2407.03257](http://arxiv.org/abs/2407.03257)|null|
+|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217](http://arxiv.org/abs/2407.03217)|null|
+|**2024-07-03**|**Multiple-Resolution Tokenization for Time Series Forecasting with an Application to Pricing**|Egon Peršak et.al.|[2407.03185](http://arxiv.org/abs/2407.03185)|null|
+|**2024-07-03**|**Relating CNN-Transformer Fusion Network for Change Detection**|Yuhao Gao et.al.|[2407.03178](http://arxiv.org/abs/2407.03178)|null|
+|**2024-07-03**|**Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection**|Rui-Yang Ju et.al.|[2407.03163](http://arxiv.org/abs/2407.03163)|**[link](https://github.com/ruiyangju/yolov8_global_context_fracture_detection)**|
+|**2024-07-03**|**Stereo Risk: A Continuous Modeling Approach to Stereo Matching**|Ce Liu et.al.|[2407.03152](http://arxiv.org/abs/2407.03152)|null|
+|**2024-07-03**|**GMM-ResNext: Combining Generative and Discriminative Models for Speaker Verification**|Hui Yan et.al.|[2407.03135](http://arxiv.org/abs/2407.03135)|null|
+|**2024-07-03**|**Revisiting the Performance of Deep Learning-Based Vulnerability Detection on Realistic Datasets**|Partha Chakraborty et.al.|[2407.03093](http://arxiv.org/abs/2407.03093)|null|
+|**2024-07-03**|**Federated Learning for Zero-Day Attack Detection in 5G and Beyond V2X Networks**|Abdelaziz Amara korba et.al.|[2407.03070](http://arxiv.org/abs/2407.03070)|null|
+|**2024-07-03**|**Visible, Near-, and Mid-infrared Computational Spectrometer Enabled by Single-Spinning Film Encoder**|Junren Wen et.al.|[2407.03053](http://arxiv.org/abs/2407.03053)|null|
+|**2024-07-03**|**Attention Incorporated Network for Sharing Low-rank, Image and K-space Information during MR Image Reconstruction to Achieve Single Breath-hold Cardiac Cine Imaging**|Siying Xu et.al.|[2407.03034](http://arxiv.org/abs/2407.03034)|null|
+|**2024-07-03**|**Semantically Rich Local Dataset Generation for Explainable AI in Genomics**|Pedro Barbosa et.al.|[2407.02984](http://arxiv.org/abs/2407.02984)|null|
+|**2024-07-03**|**IM-MoCo: Self-supervised MRI Motion Correction using Motion-Guided Implicit Neural Representations**|Ziad Al-Haj Hemidi et.al.|[2407.02974](http://arxiv.org/abs/2407.02974)|**[link](https://github.com/mdl-uzl/miccai24_immoco)**|
+|**2024-07-03**|**Unified Anomaly Detection methods on Edge Device using Knowledge Distillation and Quantization**|Sushovan Jena et.al.|[2407.02968](http://arxiv.org/abs/2407.02968)|null|
+|**2024-07-03**|**Recompression Based JPEG Tamper Detection and Localization Using Deep Neural Network Eliminating Compression Factor Dependency**|Jamimamul Bakas et.al.|[2407.02942](http://arxiv.org/abs/2407.02942)|null|
+|**2024-07-03**|**Online Time-Informed Kinodynamic Motion Planning of Nonlinear Systems**|Fei Meng et.al.|[2407.02933](http://arxiv.org/abs/2407.02933)|null|
+|**2024-07-03**|**Self-supervised Vision Transformer are Scalable Generative Models for Domain Generalization**|Sebastian Doerrich et.al.|[2407.02900](http://arxiv.org/abs/2407.02900)|**[link](https://github.com/sdoerrich97/vits-are-generative-models)**|
+|**2024-07-03**|**An Uncertainty-guided Tiered Self-training Framework for Active Source-free Domain Adaptation in Prostate Segmentation**|Zihao Luo et.al.|[2407.02893](http://arxiv.org/abs/2407.02893)|null|
+|**2024-07-03**|**ShiftAddAug: Augment Multiplication-Free Tiny Neural Network with Hybrid Computation**|Yipin Guo et.al.|[2407.02881](http://arxiv.org/abs/2407.02881)|null|
+|**2024-07-03**|**LMBF-Net: A Lightweight Multipath Bidirectional Focal Attention Network for Multifeatures Segmentation**|Tariq M Khan et.al.|[2407.02871](http://arxiv.org/abs/2407.02871)|null|
+|**2024-07-03**|**Multi-Attention Integrated Deep Learning Frameworks for Enhanced Breast Cancer Segmentation and Identification**|Pandiyaraju V et.al.|[2407.02844](http://arxiv.org/abs/2407.02844)|null|
+|**2024-07-03**|**Curvature Clues: Decoding Deep Learning Privacy with Input Loss Curvature**|Deepak Ravikumar et.al.|[2407.02747](http://arxiv.org/abs/2407.02747)|null|
+|**2024-07-02**|**Pushing the Boundary: Specialising Deep Configuration Performance Learning**|Jingzhi Gong et.al.|[2407.02706](http://arxiv.org/abs/2407.02706)|null|
+|**2024-07-02**|**Joint Segmentation and Image Reconstruction with Error Prediction in Photoacoustic Imaging using Deep Learning**|Ruibo Shang et.al.|[2407.02653](http://arxiv.org/abs/2407.02653)|null|
+|**2024-07-02**|**Deep Learning Based Apparent Diffusion Coefficient Map Generation1 from Multi-parametric MR Images for Patients with Diffuse Gliomas**|Zach Eidex et.al.|[2407.02616](http://arxiv.org/abs/2407.02616)|null|
 |**2024-07-02**|**Predicting Visual Attention in Graphic Design Documents**|Souradeep Chakraborty et.al.|[2407.02439](http://arxiv.org/abs/2407.02439)|null|
 |**2024-07-03**|**Investigating Event-Based Cameras for Video Frame Interpolation in Sports**|Antoine Deckyvere et.al.|[2407.02370](http://arxiv.org/abs/2407.02370)|null|
 |**2024-07-02**|**Talking to Machines: do you read me?**|Lina M. Rojas-Barahona et.al.|[2407.02354](http://arxiv.org/abs/2407.02354)|null|
