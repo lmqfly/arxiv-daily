@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -759,11 +759,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-02**|**Predicting Visual Attention in Graphic Design Documents**|Souradeep Chakraborty et.al.|[2407.02439](http://arxiv.org/abs/2407.02439)|null|
-|**2024-07-02**|**Investigating Event-Based Cameras for Video Frame Interpolation in Sports**|Antoine Deckyvere et.al.|[2407.02370](http://arxiv.org/abs/2407.02370)|null|
+|**2024-07-03**|**Investigating Event-Based Cameras for Video Frame Interpolation in Sports**|Antoine Deckyvere et.al.|[2407.02370](http://arxiv.org/abs/2407.02370)|null|
 |**2024-07-02**|**Talking to Machines: do you read me?**|Lina M. Rojas-Barahona et.al.|[2407.02354](http://arxiv.org/abs/2407.02354)|null|
 |**2024-07-02**|**CALICO: Confident Active Learning with Integrated Calibration**|Lorenzo S. Querol et.al.|[2407.02335](http://arxiv.org/abs/2407.02335)|null|
 |**2024-07-02**|**QSync: Quantization-Minimized Synchronous Distributed Training Across Hybrid Devices**|Juntao Zhao et.al.|[2407.02327](http://arxiv.org/abs/2407.02327)|null|
-|**2024-07-02**|**Federated Distillation for Medical Image Classification: Towards Trustworthy Computer-Aided Diagnosis**|Sufen Ren et.al.|[2407.02261](http://arxiv.org/abs/2407.02261)|null|
+|**2024-07-03**|**Federated Distillation for Medical Image Classification: Towards Trustworthy Computer-Aided Diagnosis**|Sufen Ren et.al.|[2407.02261](http://arxiv.org/abs/2407.02261)|null|
 |**2024-07-02**|**MIREncoder: Multi-modal IR-based Pretrained Embeddings for Performance Optimizations**|Akash Dutta et.al.|[2407.02238](http://arxiv.org/abs/2407.02238)|null|
 |**2024-07-02**|**LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation**|Jiarui Xing et.al.|[2407.02229](http://arxiv.org/abs/2407.02229)|null|
 |**2024-07-02**|**A Bayesian Neural ODE for a Lettuce Greenhouse**|Sjoerd Boersma et.al.|[2407.02223](http://arxiv.org/abs/2407.02223)|null|
@@ -775,7 +775,7 @@ layout: default
 |**2024-07-02**|**Latent Diffusion Model for Generating Ensembles of Climate Simulations**|Johannes Meuer et.al.|[2407.02070](http://arxiv.org/abs/2407.02070)|null|
 |**2024-07-02**|**The Epistemic Uncertainty Hole: an issue of Bayesian Neural Networks**|Mohammed Fellaji et.al.|[2407.01985](http://arxiv.org/abs/2407.01985)|null|
 |**2024-07-02**|**Probabilistic 3D Correspondence Prediction from Sparse Unsegmented Images**|Krithika Iyer et.al.|[2407.01931](http://arxiv.org/abs/2407.01931)|null|
-|**2024-07-02**|**Chemical Shift Encoding based Double Bonds Quantification in Triglycerides using Deep Image Prior**|Chaoxing Huang et.al.|[2407.01926](http://arxiv.org/abs/2407.01926)|null|
+|**2024-07-03**|**Chemical Shift Encoding based Double Bonds Quantification in Triglycerides using Deep Image Prior**|Chaoxing Huang et.al.|[2407.01926](http://arxiv.org/abs/2407.01926)|null|
 |**2024-07-02**|**A Method to Facilitate Membership Inference Attacks in Deep Learning Models**|Zitao Chen et.al.|[2407.01919](http://arxiv.org/abs/2407.01919)|null|
 |**2024-07-02**|**Let it shine: Autofluorescence of Papanicolaou-stain improves AI-based cytological oral cancer detection**|Wenyi Lian et.al.|[2407.01869](http://arxiv.org/abs/2407.01869)|null|
 |**2024-07-02**|**Research on target detection method of distracted driving behavior based on improved YOLOv8**|Shiquan Shen et.al.|[2407.01864](http://arxiv.org/abs/2407.01864)|null|
