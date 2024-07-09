@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -524,7 +524,7 @@ layout: default
 |**2024-06-24**|**Structural Lubricity and Molecular Contamination: Rejuvenation, Aging, and Friction Switches**|Wai H. Oo et.al.|[2407.03360](http://arxiv.org/abs/2407.03360)|null|
 |**2024-07-03**|**Picosecond lifetimes of hydrogen bonds in the halide perovskite CH $_3$NH$_3$PbBr$_3$**|Alejandro Garrote-Márquez et.al.|[2407.03244](http://arxiv.org/abs/2407.03244)|null|
 |**2024-07-03**|**Active Loop Extrusion guides DNA-Protein Condensation**|Ryota Takaki et.al.|[2407.03109](http://arxiv.org/abs/2407.03109)|null|
-|**2024-07-03**|**Designing Superionic Conductors Using Tetrahedrally Packed Structures**|Tomoyasu Yokoyama et.al.|[2407.02838](http://arxiv.org/abs/2407.02838)|null|
+|**2024-07-06**|**Designing Superionic Conductors Using Tetrahedrally Packed Structures**|Tomoyasu Yokoyama et.al.|[2407.02838](http://arxiv.org/abs/2407.02838)|null|
 |**2024-07-03**|**Origin of Interstitial Doping Induced Coercive Field Reduction in Ferroelectric Hafnia**|Tianyuan Zhu et.al.|[2407.02808](http://arxiv.org/abs/2407.02808)|null|
 |**2024-07-02**|**Molecular dynamics simulation for coalescence of vacancies in tungsten crystal**|Sotaro Tsuru et.al.|[2407.02032](http://arxiv.org/abs/2407.02032)|null|
 |**2024-07-01**|**Impact of Co-Excipient Selection on Hydrophobic Polymer Folding: Insights for Optimal Formulation Design**|Jonathan W. P. Zajac et.al.|[2407.00885](http://arxiv.org/abs/2407.00885)|null|
@@ -787,7 +787,7 @@ layout: default
 |**2024-07-05**|**Exploiting the equivalence between quantum neural networks and perceptrons**|Chris Mingard et.al.|[2407.04371](http://arxiv.org/abs/2407.04371)|null|
 |**2024-07-05**|**Segmenting Medical Images: From UNet to Res-UNet and nnUNet**|Lina Huang et.al.|[2407.04353](http://arxiv.org/abs/2407.04353)|null|
 |**2024-07-05**|**Learning Geometric Invariant Features for Classification of Vector Polygons with Graph Message-passing Neural Network**|Zexian Huang et.al.|[2407.04334](http://arxiv.org/abs/2407.04334)|null|
-|**2024-07-05**|**Accelerating Communication in Deep Learning Recommendation Model Training with Dual-Level Adaptive Lossy Compression**|Hao Feng et.al.|[2407.04272](http://arxiv.org/abs/2407.04272)|null|
+|**2024-07-08**|**Accelerating Communication in Deep Learning Recommendation Model Training with Dual-Level Adaptive Lossy Compression**|Hao Feng et.al.|[2407.04272](http://arxiv.org/abs/2407.04272)|null|
 |**2024-07-05**|**TimeLDM: Latent Diffusion Model for Unconditional Time Series Generation**|Jian Qian et.al.|[2407.04211](http://arxiv.org/abs/2407.04211)|null|
 |**2024-07-04**|**Attention Normalization Impacts Cardinality Generalization in Slot Attention**|Markus Krimmel et.al.|[2407.04170](http://arxiv.org/abs/2407.04170)|null|
 |**2024-07-04**|**Solutions to Deepfakes: Can Camera Hardware, Cryptography, and Deep Learning Verify Real Images?**|Alexander Vilesov et.al.|[2407.04169](http://arxiv.org/abs/2407.04169)|null|
@@ -812,7 +812,7 @@ layout: default
 |**2024-07-04**|**Deep learning architectures for data-driven damage detection in nonlinear dynamic systems**|Harrish Joseph et.al.|[2407.03700](http://arxiv.org/abs/2407.03700)|null|
 |**2024-07-04**|**HyperSpace: Hypernetworks for spacing-adaptive image segmentation**|Samuel Joutard et.al.|[2407.03681](http://arxiv.org/abs/2407.03681)|null|
 |**2024-07-04**|**Configurable DOA Estimation using Incremental Learning**|Yang Xiao et.al.|[2407.03661](http://arxiv.org/abs/2407.03661)|null|
-|**2024-07-04**|**reBEN: Refined BigEarthNet Dataset for Remote Sensing Image Analysis**|Kai Norman Clasen et.al.|[2407.03653](http://arxiv.org/abs/2407.03653)|null|
+|**2024-07-04**|**reBEN: Refined BigEarthNet Dataset for Remote Sensing Image Analysis**|Kai Norman Clasen et.al.|[2407.03653](http://arxiv.org/abs/2407.03653)|**[link](https://git.tu-berlin.de/rsim/reben-training-scripts)**|
 |**2024-07-04**|**WANCO: Weak Adversarial Networks for Constrained Optimization problems**|Gang Bao et.al.|[2407.03647](http://arxiv.org/abs/2407.03647)|null|
 |**2024-07-04**|**Efficient Inverse Design of Plasmonic Patch Nanoantennas using Deep Learning**|Saeed Hemayat et.al.|[2407.03607](http://arxiv.org/abs/2407.03607)|null|
 |**2024-07-04**|**Orthogonal Constrained Minimization with Tensor $\ell_{2,p}$ Regularization for HSI Denoising and Destriping**|Xiaoxia Liu et.al.|[2407.03605](http://arxiv.org/abs/2407.03605)|null|
@@ -3723,7 +3723,7 @@ layout: default
 |**2024-06-06**|**Position: Categorical Deep Learning is an Algebraic Theory of All Architectures**|Bruno Gavranović et.al.|[2402.15332](http://arxiv.org/abs/2402.15332)|null|
 |**2024-06-05**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
 |**2024-05-30**|**Position: Topological Deep Learning is the New Frontier for Relational Learning**|Theodore Papamarkou et.al.|[2402.08871](http://arxiv.org/abs/2402.08871)|null|
-|**2024-02-07**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836](http://arxiv.org/abs/2402.04836)|null|
+|**2024-07-08**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836](http://arxiv.org/abs/2402.04836)|null|
 |**2024-02-19**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821](http://arxiv.org/abs/2402.04821)|**[link](https://github.com/hysonlab/equimesh)**|
 |**2024-01-26**|**Adaptive Point Transformer**|Alessandro Baiocchi et.al.|[2401.14845](http://arxiv.org/abs/2401.14845)|null|
 |**2024-01-27**|**The role of data embedding in equivariant quantum convolutional neural networks**|Sreetama Das et.al.|[2312.13250](http://arxiv.org/abs/2312.13250)|null|
