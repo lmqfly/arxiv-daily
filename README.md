@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**AI-driven multi-omics integration for multi-scale predictive modeling of causal genotype-environment-phenotype relationships**|You Wu et.al.|[2407.06405](http://arxiv.org/abs/2407.06405)|null|
 |**2024-07-04**|**Benchmark on Drug Target Interaction Modeling from a Structure Perspective**|Xinnan Zhang et.al.|[2407.04055](http://arxiv.org/abs/2407.04055)|**[link](https://github.com/justinwjl/gtb-dti)**|
 |**2024-07-04**|**Membrane-mediated interactions between arc-shaped particles strongly depend on membrane curvature**|Francesco Bonazzi et.al.|[2407.04027](http://arxiv.org/abs/2407.04027)|null|
 |**2024-06-27**|**Accurate Prediction of Ligand-Protein Interaction Affinities with Fine-Tuned Small Language Models**|Ben Fauber et.al.|[2407.00111](http://arxiv.org/abs/2407.00111)|null|
@@ -531,6 +532,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Simulations of Mpemba Effect in WATER, Lennard-Jones and Ising Models: Metastability vs Critical Fluctuations**|Soumik Ghosh et.al.|[2407.06954](http://arxiv.org/abs/2407.06954)|null|
 |**2024-07-08**|**Uni-ELF: A Multi-Level Representation Learning Framework for Electrolyte Formulation Design**|Boshen Zeng et.al.|[2407.06152](http://arxiv.org/abs/2407.06152)|null|
 |**2024-07-08**|**Reactive Molecular Dynamics Simulation on DNA Double Strand Breaks Induced by Hydrogen Elimination**|Hiroaki Nakamura et.al.|[2407.05970](http://arxiv.org/abs/2407.05970)|null|
 |**2024-07-08**|**Anomalous behaviour of transport properties in a supercooled water-glycerol mixture**|Alberto Zaragoza et.al.|[2407.05812](http://arxiv.org/abs/2407.05812)|null|
@@ -799,6 +801,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**MoSt-DSA: Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images**|Ziyang Xu et.al.|[2407.07078](http://arxiv.org/abs/2407.07078)|**[link](https://github.com/ZyoungXu/MoSt-DSA)**|
+|**2024-07-09**|**Multicell-Fold: geometric learning in folding multicellular life**|Haiqian Yang et.al.|[2407.07055](http://arxiv.org/abs/2407.07055)|null|
+|**2024-07-09**|**Empirical analysis of Biding Precedent efficiency in the Brazilian Supreme Court via Similar Case Retrieval**|Raphaël Tinarrage et.al.|[2407.07004](http://arxiv.org/abs/2407.07004)|null|
+|**2024-07-09**|**Learning From Crowdsourced Noisy Labels: A Signal Processing Perspective**|Shahana Ibrahim et.al.|[2407.06902](http://arxiv.org/abs/2407.06902)|null|
+|**2024-07-09**|**A Neurosymbolic Approach to Adaptive Feature Extraction in SLAM**|Yasra Chandio et.al.|[2407.06889](http://arxiv.org/abs/2407.06889)|null|
+|**2024-07-09**|**New Rotation Period Measurements for Kepler Stars Using Deep Learning: The 100K Sample**|Ilay Kamai et.al.|[2407.06858](http://arxiv.org/abs/2407.06858)|null|
+|**2024-07-09**|**TE-SSL: Time and Event-aware Self Supervised Learning for Alzheimer's Disease Progression Analysis**|Jacob Thrasher et.al.|[2407.06852](http://arxiv.org/abs/2407.06852)|**[link](https://github.com/jacob-thrasher/te-ssl)**|
+|**2024-07-08**|**A Mamba-based Siamese Network for Remote Sensing Change Detection**|Jay N. Paranjape et.al.|[2407.06839](http://arxiv.org/abs/2407.06839)|null|
+|**2024-07-09**|**A Hybrid Training-time and Run-time Defense Against Adversarial Attacks in Modulation Classification**|Lu Zhang et.al.|[2407.06807](http://arxiv.org/abs/2407.06807)|null|
+|**2024-07-09**|**Countermeasures Against Adversarial Examples in Radio Signal Classification**|Lu Zhang et.al.|[2407.06796](http://arxiv.org/abs/2407.06796)|null|
+|**2024-07-09**|**Inferring the spin distribution of binary black holes using deep learning**|Li Tang et.al.|[2407.06781](http://arxiv.org/abs/2407.06781)|null|
+|**2024-07-09**|**MRI Volume-Based Robust Brain Age Estimation Using Weight-Shared Spatial Attention in 3D CNNs**|Vamshi Krishna Kancharla et.al.|[2407.06686](http://arxiv.org/abs/2407.06686)|null|
+|**2024-07-09**|**TriQXNet: Forecasting Dst Index from Solar Wind Data Using an Interpretable Parallel Classical-Quantum Framework with Uncertainty Quantification**|Md Abrar Jahin et.al.|[2407.06658](http://arxiv.org/abs/2407.06658)|null|
+|**2024-07-09**|**Variational Zero-shot Multispectral Pansharpening**|Xiangyu Rui et.al.|[2407.06633](http://arxiv.org/abs/2407.06633)|**[link](https://github.com/xyrui/psdip)**|
+|**2024-07-09**|**Iteratively Refined Image Reconstruction with Learned Attentive Regularizers**|Mehrsa Pourya et.al.|[2407.06608](http://arxiv.org/abs/2407.06608)|null|
+|**2024-07-09**|**Attack GAN (AGAN ): A new Security Evaluation Tool for Perceptual Encryption**|Umesh Kashyap et.al.|[2407.06570](http://arxiv.org/abs/2407.06570)|null|
+|**2024-07-09**|**Robust and Explainable Framework to Address Data Scarcity in Diagnostic Imaging**|Zehui Zhao et.al.|[2407.06566](http://arxiv.org/abs/2407.06566)|null|
+|**2024-07-09**|**TCKIN: A Novel Integrated Network Model for Predicting Mortality Risk in Sepsis Patients**|Fanglin Dong et.al.|[2407.06560](http://arxiv.org/abs/2407.06560)|null|
+|**2024-07-09**|**Comparison of Optimizers for Fault Isolation and Diagnostics of Control Rod Drives**|Ark Ifeanyi et.al.|[2407.06557](http://arxiv.org/abs/2407.06557)|null|
+|**2024-07-09**|**DLOVE: A new Security Evaluation Tool for Deep Learning Based Watermarking Techniques**|Sudev Kumar Padhi et.al.|[2407.06552](http://arxiv.org/abs/2407.06552)|null|
+|**2024-07-09**|**Exploring the Causality of End-to-End Autonomous Driving**|Jiankun Li et.al.|[2407.06546](http://arxiv.org/abs/2407.06546)|null|
+|**2024-07-09**|**RS-BNN: A Deep Learning Framework for the Optimal Beamforming Design of Rate-Splitting Multiple Access**|Yiwen Wang et.al.|[2407.06530](http://arxiv.org/abs/2407.06530)|null|
+|**2024-07-09**|**UnmixingSR: Material-aware Network with Unsupervised Unmixing as Auxiliary Task for Hyperspectral Image Super-resolution**|Yang Yu et.al.|[2407.06525](http://arxiv.org/abs/2407.06525)|null|
+|**2024-07-09**|**Computer vision tasks for intelligent aerospace missions: An overview**|Huilin Chen et.al.|[2407.06513](http://arxiv.org/abs/2407.06513)|null|
+|**2024-07-09**|**A Generative Approach to Control Complex Physical Systems**|Long Wei et.al.|[2407.06494](http://arxiv.org/abs/2407.06494)|null|
+|**2024-07-09**|**Using Graph Neural Networks and Frequency Domain Data for Automated Operational Modal Analysis of Populations of Structures**|Xudong Jian et.al.|[2407.06492](http://arxiv.org/abs/2407.06492)|null|
+|**2024-07-09**|**CrowdTransfer: Enabling Crowd Knowledge Transfer in AIoT Community**|Yan Liu et.al.|[2407.06485](http://arxiv.org/abs/2407.06485)|null|
+|**2024-07-08**|**Leveraging image captions for selective whole slide image annotation**|Jingna Qiu et.al.|[2407.06363](http://arxiv.org/abs/2407.06363)|null|
+|**2024-07-08**|**Hybrid X-Linker: Automated Data Generation and Extreme Multi-label Ranking for Biomedical Entity Linking**|Pedro Ruas et.al.|[2407.06292](http://arxiv.org/abs/2407.06292)|null|
 |**2024-07-08**|**Stepping on the Edge: Curvature Aware Learning Rate Tuners**|Vincent Roulet et.al.|[2407.06183](http://arxiv.org/abs/2407.06183)|null|
 |**2024-07-08**|**Auto-PICNN: Automated machine learning for physics-informed convolutional neural networks**|Wanyun Zhou et.al.|[2407.06151](http://arxiv.org/abs/2407.06151)|null|
 |**2024-07-08**|**Muzzle-Based Cattle Identification System Using Artificial Intelligence (AI)**|Hasan Zohirul Islam et.al.|[2407.06096](http://arxiv.org/abs/2407.06096)|null|
@@ -3790,6 +3821,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Multicell-Fold: geometric learning in folding multicellular life**|Haiqian Yang et.al.|[2407.07055](http://arxiv.org/abs/2407.07055)|null|
 |**2024-06-30**|**Towards Understanding Sensitive and Decisive Patterns in Explainable AI: A Case Study of Model Interpretation in Geometric Deep Learning**|Jiajun Zhu et.al.|[2407.00849](http://arxiv.org/abs/2407.00849)|**[link](https://github.com/Graph-COM/xgdl)**|
 |**2024-06-21**|**Learning Spatio-Temporal Patterns of Polar Ice Layers With Physics-Informed Graph Neural Network**|Zesheng Liu et.al.|[2406.15299](http://arxiv.org/abs/2406.15299)|null|
 |**2024-06-21**|**Introducing the Biomechanics-Function Relationship in Glaucoma: Improved Visual Field Loss Predictions from intraocular pressure-induced Neural Tissue Strains**|Thanadet Chuangsuwanich et.al.|[2406.14988](http://arxiv.org/abs/2406.14988)|null|
