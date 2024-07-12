@@ -269,6 +269,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930](http://arxiv.org/abs/2407.07930)|null|
 |**2024-07-05**|**Benchmarking structure-based three-dimensional molecular generative models using GenBench3D: ligand conformation quality matters**|Benoit Baillif et.al.|[2407.04424](http://arxiv.org/abs/2407.04424)|null|
 |**2024-06-27**|**LICO: Large Language Models for In-Context Molecular Optimization**|Tung Nguyen et.al.|[2406.18851](http://arxiv.org/abs/2406.18851)|null|
 |**2024-06-13**|**Human-level molecular optimization driven by mol-gene evolution**|Jiebin Fang et.al.|[2406.12910](http://arxiv.org/abs/2406.12910)|null|
@@ -397,6 +398,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930](http://arxiv.org/abs/2407.07930)|null|
 |**2024-06-13**|**MoleculeCLA: Rethinking Molecular Benchmark via Computational Ligand-Target Binding Analysis**|Shikun Feng et.al.|[2406.17797](http://arxiv.org/abs/2406.17797)|**[link](https://github.com/Zhenger959/MoleculeCLA)**|
 |**2024-06-20**|**$\nabla^2$ DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials**|Kuzma Khrabrov et.al.|[2406.14347](http://arxiv.org/abs/2406.14347)|**[link](https://github.com/AIRI-Institute/nablaDFT)**|
 |**2024-06-19**|**Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning**|Danqing Wang et.al.|[2406.13869](http://arxiv.org/abs/2406.13869)|**[link](https://github.com/dqwang122/rlhex)**|
@@ -532,6 +534,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Robust quantum engineering of current flow in carbon nanostructures at room temperature**|Gaetano Calogero et.al.|[2407.08310](http://arxiv.org/abs/2407.08310)|null|
 |**2024-07-10**|**ArcaNN: automated enhanced sampling generation of training sets for chemically reactive machine learning interatomic potentials**|Rolf David et.al.|[2407.07751](http://arxiv.org/abs/2407.07751)|null|
 |**2024-07-09**|**Simulations of Mpemba Effect in WATER, Lennard-Jones and Ising Models: Metastability vs Critical Fluctuations**|Soumik Ghosh et.al.|[2407.06954](http://arxiv.org/abs/2407.06954)|null|
 |**2024-07-08**|**Uni-ELF: A Multi-Level Representation Learning Framework for Electrolyte Formulation Design**|Boshen Zeng et.al.|[2407.06152](http://arxiv.org/abs/2407.06152)|null|
@@ -802,6 +805,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729](http://arxiv.org/abs/2407.08729)|null|
+|**2024-07-11**|**Jet Tagging with More-Interaction Particle Transformer**|Yifan Wu et.al.|[2407.08682](http://arxiv.org/abs/2407.08682)|null|
+|**2024-07-11**|**How to beat a Bayesian adversary**|Zihan Ding et.al.|[2407.08678](http://arxiv.org/abs/2407.08678)|null|
+|**2024-07-10**|**Evaluating Voice Command Pipelines for Drone Control: From STT and LLM to Direct Classification and Siamese Networks**|Lucca Emmanuel Pineli Simões et.al.|[2407.08658](http://arxiv.org/abs/2407.08658)|null|
+|**2024-07-10**|**Speech dereverberation constrained on room impulse response characteristics**|Louis Bahrman et.al.|[2407.08657](http://arxiv.org/abs/2407.08657)|null|
+|**2024-07-11**|**SPOCKMIP: Segmentation of Vessels in MRAs with Enhanced Continuity using Maximum Intensity Projection as Loss**|Chethan Radhakrishna et.al.|[2407.08655](http://arxiv.org/abs/2407.08655)|null|
+|**2024-07-11**|**Histopathological Image Classification with Cell Morphology Aware Deep Neural Networks**|Andrey Ignatov et.al.|[2407.08625](http://arxiv.org/abs/2407.08625)|**[link](https://github.com/aiff22/deepcmorph)**|
+|**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|null|
+|**2024-07-11**|**Tamil Language Computing: the Present and the Future**|Kengatharaiyer Sarveswaran et.al.|[2407.08618](http://arxiv.org/abs/2407.08618)|null|
+|**2024-07-11**|**ST-Mamba: Spatial-Temporal Mamba for Traffic Flow Estimation Recovery using Limited Data**|Doncheng Yuan et.al.|[2407.08558](http://arxiv.org/abs/2407.08558)|null|
+|**2024-07-11**|**Quantitative Evaluation of the Saliency Map for Alzheimer's Disease Classifier with Anatomical Segmentation**|Yihan Zhang et.al.|[2407.08546](http://arxiv.org/abs/2407.08546)|null|
+|**2024-07-11**|**15M Multimodal Facial Image-Text Dataset**|Dawei Dai et.al.|[2407.08515](http://arxiv.org/abs/2407.08515)|null|
+|**2024-07-11**|**Learning Localization of Body and Finger Animation Skeleton Joints on Three-Dimensional Models of Human Bodies**|Stefan Novaković et.al.|[2407.08484](http://arxiv.org/abs/2407.08484)|**[link](https://github.com/sznov/joint-localization)**|
+|**2024-07-11**|**How Deep is your Guess? A Fresh Perspective on Deep Learning for Medical Time-Series Imputation**|Linglong Qian et.al.|[2407.08442](http://arxiv.org/abs/2407.08442)|null|
+|**2024-07-11**|**Subgroup-Specific Risk-Controlled Dose Estimation in Radiotherapy**|Paul Fischer et.al.|[2407.08432](http://arxiv.org/abs/2407.08432)|null|
+|**2024-07-11**|**Semantic Feature Division Multiple Access for Multi-user Digital Interference Networks**|Shuai Ma et.al.|[2407.08424](http://arxiv.org/abs/2407.08424)|null|
+|**2024-07-11**|**Digital twins to alleviate the need for real field data in vision-based vehicle speed detection systems**|Antonio Hernández Martínez et.al.|[2407.08380](http://arxiv.org/abs/2407.08380)|null|
+|**2024-07-11**|**STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data**|Freek Hens et.al.|[2407.08362](http://arxiv.org/abs/2407.08362)|null|
+|**2024-07-11**|**Adaptive Deep Iris Feature Extractor at Arbitrary Resolutions**|Yuho Shoji et.al.|[2407.08341](http://arxiv.org/abs/2407.08341)|null|
+|**2024-07-11**|**Continually Learn to Map Visual Concepts to Large Language Models in Resource-constrained Environments**|Clea Rebillard et.al.|[2407.08279](http://arxiv.org/abs/2407.08279)|null|
+|**2024-07-11**|**Explainability of Sub-Field Level Crop Yield Prediction using Remote Sensing**|Hiba Najjar et.al.|[2407.08274](http://arxiv.org/abs/2407.08274)|null|
+|**2024-07-11**|**Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation**|Miao Yan et.al.|[2407.08265](http://arxiv.org/abs/2407.08265)|**[link](https://github.com/eloeszhang/nlmtrack)**|
+|**2024-07-11**|**Wind Power Assessment based on Super-Resolution and Downscaling -- A Comparison of Deep Learning Methods**|Luca Schmidt et.al.|[2407.08259](http://arxiv.org/abs/2407.08259)|null|
+|**2024-07-11**|**An Unsupervised Domain Adaptation Method for Locating Manipulated Region in partially fake Audio**|Siding Zeng et.al.|[2407.08239](http://arxiv.org/abs/2407.08239)|null|
+|**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231](http://arxiv.org/abs/2407.08231)|null|
+|**2024-07-11**|**DALL-M: Context-Aware Clinical Data Augmentation with LLMs**|Chihcheng Hsieh et.al.|[2407.08227](http://arxiv.org/abs/2407.08227)|null|
+|**2024-07-11**|**stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement**|Shuailin Xue et.al.|[2407.08224](http://arxiv.org/abs/2407.08224)|**[link](https://github.com/shuailinxue/stentrans)**|
+|**2024-07-11**|**SRPose: Two-view Relative Pose Estimation with Sparse Keypoints**|Rui Yin et.al.|[2407.08199](http://arxiv.org/abs/2407.08199)|**[link](https://github.com/frickyinn/SRPose)**|
+|**2024-07-11**|**Bayesian uncertainty analysis for underwater 3D reconstruction with neural radiance fields**|Haojie Lian et.al.|[2407.08154](http://arxiv.org/abs/2407.08154)|null|
+|**2024-07-11**|**Enrich the content of the image Using Context-Aware Copy Paste**|Qiushi Guo et.al.|[2407.08151](http://arxiv.org/abs/2407.08151)|null|
+|**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137](http://arxiv.org/abs/2407.08137)|null|
+|**2024-07-11**|**Prediction Exposes Your Face: Black-box Model Inversion via Prediction Alignment**|Yufan Liu et.al.|[2407.08127](http://arxiv.org/abs/2407.08127)|**[link](https://github.com/lyufan/P2I-MI)**|
+|**2024-07-11**|**Improving Dental Diagnostics: Enhanced Convolution with Spatial Attention Mechanism**|Shahriar Rezaie et.al.|[2407.08114](http://arxiv.org/abs/2407.08114)|null|
+|**2024-07-11**|**Urban Waterlogging Detection: A Challenging Benchmark and Large-Small Model Co-Adapter**|Suqi Song et.al.|[2407.08109](http://arxiv.org/abs/2407.08109)|**[link](https://github.com/zhang-chenxu/lsm-adapter)**|
+|**2024-07-11**|**CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data**|Hossein Entezari Zarch et.al.|[2407.08108](http://arxiv.org/abs/2407.08108)|null|
+|**2024-07-11**|**Non-convergence of Adam and other adaptive stochastic gradient descent optimization methods for non-vanishing learning rates**|Steffen Dereich et.al.|[2407.08100](http://arxiv.org/abs/2407.08100)|null|
+|**2024-07-10**|**RoCap: A Robotic Data Collection Pipeline for the Pose Estimation of Appearance-Changing Objects**|Jiahao Nick Li et.al.|[2407.08081](http://arxiv.org/abs/2407.08081)|null|
+|**2024-07-10**|**Deep Learning-Based Robust Multi-Object Tracking via Fusion of mmWave Radar and Camera Sensors**|Lei Cheng et.al.|[2407.08049](http://arxiv.org/abs/2407.08049)|null|
+|**2024-07-10**|**Deep learning solutions to telescope pointing and guiding**|Jackson Zariski et.al.|[2407.08046](http://arxiv.org/abs/2407.08046)|null|
+|**2024-07-10**|**Fish-Vista: A Multi-Purpose Dataset for Understanding & Identification of Traits from Images**|Kazi Sajeed Mehrab et.al.|[2407.08027](http://arxiv.org/abs/2407.08027)|null|
+|**2024-07-10**|**Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound images**|Hao Li et.al.|[2407.08020](http://arxiv.org/abs/2407.08020)|**[link](https://github.com/medicl-vu/prism-placenta)**|
 |**2024-07-10**|**RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation**|Tao Li et.al.|[2407.07835](http://arxiv.org/abs/2407.07835)|**[link](https://github.com/tourlics/robus_dataset)**|
 |**2024-07-10**|**Estimating the stability number of a random graph using convolutional neural networks**|Randy Davila et.al.|[2407.07827](http://arxiv.org/abs/2407.07827)|null|
 |**2024-07-10**|**New Gravitational Wave Discoveries Enabled by Machine Learning**|Alexandra E. Koloniari et.al.|[2407.07820](http://arxiv.org/abs/2407.07820)|null|
