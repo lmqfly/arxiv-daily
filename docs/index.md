@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -795,7 +795,7 @@ layout: default
 |**2024-07-10**|**Few-Shot Domain Adaptive Object Detection for Microscopic Images**|Sumayya Inayat et.al.|[2407.07633](http://arxiv.org/abs/2407.07633)|null|
 |**2024-07-10**|**Impact of dendritic non-linearities on the computational capabilities of neurons**|Clarissa Lauditi et.al.|[2407.07572](http://arxiv.org/abs/2407.07572)|null|
 |**2024-07-10**|**Evaluating the method reproducibility of deep learning models in the biodiversity domain**|Waqas Ahmed et.al.|[2407.07550](http://arxiv.org/abs/2407.07550)|null|
-|**2024-07-10**|**Graph Permutation Entropy: Extensions to the Continuous Case, A step towards Ordinal Deep Learning, and More**|Om Roy et.al.|[2407.07524](http://arxiv.org/abs/2407.07524)|null|
+|**2024-07-11**|**Graph Permutation Entropy: Extensions to the Continuous Case, A step towards Ordinal Deep Learning, and More**|Om Roy et.al.|[2407.07524](http://arxiv.org/abs/2407.07524)|null|
 |**2024-07-10**|**Panoptic Segmentation of Galactic Structures in LSB Images**|Felix Richards et.al.|[2407.07494](http://arxiv.org/abs/2407.07494)|null|
 |**2024-07-10**|**Rigorous Probabilistic Guarantees for Robust Counterfactual Explanations**|Luca Marzari et.al.|[2407.07482](http://arxiv.org/abs/2407.07482)|**[link](https://github.com/lmarza/apas)**|
 |**2024-07-10**|**Secondary Structure-Guided Novel Protein Sequence Generation with Latent Graph Diffusion**|Yutong Hu et.al.|[2407.07443](http://arxiv.org/abs/2407.07443)|**[link](https://github.com/riacd/cpdiffusion-ss)**|
@@ -872,7 +872,7 @@ layout: default
 |**2024-07-07**|**Explainable AI: Comparative Analysis of Normal and Dilated ResNet Models for Fundus Disease Classification**|P. N. Karthikayan et.al.|[2407.05440](http://arxiv.org/abs/2407.05440)|null|
 |**2024-07-07**|**Diffusion as Sound Propagation: Physics-inspired Model for Ultrasound Image Generation**|Marina Domínguez et.al.|[2407.05428](http://arxiv.org/abs/2407.05428)|**[link](https://github.com/marinadominguez/diffusion-for-us-images)**|
 |**2024-07-07**|**PTaRL: Prototype-based Tabular Representation Learning via Space Calibration**|Hangting Ye et.al.|[2407.05364](http://arxiv.org/abs/2407.05364)|null|
-|**2024-07-07**|**On the power of data augmentation for head pose estimation**|Michael Welter et.al.|[2407.05357](http://arxiv.org/abs/2407.05357)|null|
+|**2024-07-10**|**On the power of data augmentation for head pose estimation**|Michael Welter et.al.|[2407.05357](http://arxiv.org/abs/2407.05357)|null|
 |**2024-07-07**|**Vulnerability-Hunter: An Adaptive Feature Perception Attention Network for Smart Contract Vulnerabilities**|Yizhou Chen et.al.|[2407.05318](http://arxiv.org/abs/2407.05318)|null|
 |**2024-07-07**|**Leveraging Topological Guidance for Improved Knowledge Distillation**|Eun Som Jeon et.al.|[2407.05316](http://arxiv.org/abs/2407.05316)|**[link](https://github.com/jeunsom/TGD)**|
 |**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315](http://arxiv.org/abs/2407.05315)|null|
