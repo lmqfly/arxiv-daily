@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -796,14 +796,14 @@ layout: default
 |**2024-07-11**|**Tamil Language Computing: the Present and the Future**|Kengatharaiyer Sarveswaran et.al.|[2407.08618](http://arxiv.org/abs/2407.08618)|null|
 |**2024-07-11**|**ST-Mamba: Spatial-Temporal Mamba for Traffic Flow Estimation Recovery using Limited Data**|Doncheng Yuan et.al.|[2407.08558](http://arxiv.org/abs/2407.08558)|null|
 |**2024-07-11**|**Quantitative Evaluation of the Saliency Map for Alzheimer's Disease Classifier with Anatomical Segmentation**|Yihan Zhang et.al.|[2407.08546](http://arxiv.org/abs/2407.08546)|**[link](https://github.com/yihanz3/evaadsaliency)**|
-|**2024-07-11**|**15M Multimodal Facial Image-Text Dataset**|Dawei Dai et.al.|[2407.08515](http://arxiv.org/abs/2407.08515)|null|
+|**2024-07-12**|**15M Multimodal Facial Image-Text Dataset**|Dawei Dai et.al.|[2407.08515](http://arxiv.org/abs/2407.08515)|null|
 |**2024-07-11**|**Learning Localization of Body and Finger Animation Skeleton Joints on Three-Dimensional Models of Human Bodies**|Stefan Novaković et.al.|[2407.08484](http://arxiv.org/abs/2407.08484)|**[link](https://github.com/sznov/joint-localization)**|
 |**2024-07-11**|**How Deep is your Guess? A Fresh Perspective on Deep Learning for Medical Time-Series Imputation**|Linglong Qian et.al.|[2407.08442](http://arxiv.org/abs/2407.08442)|null|
 |**2024-07-11**|**Subgroup-Specific Risk-Controlled Dose Estimation in Radiotherapy**|Paul Fischer et.al.|[2407.08432](http://arxiv.org/abs/2407.08432)|**[link](https://github.com/paulkogni/SG-RCPS)**|
 |**2024-07-11**|**Semantic Feature Division Multiple Access for Multi-user Digital Interference Networks**|Shuai Ma et.al.|[2407.08424](http://arxiv.org/abs/2407.08424)|null|
 |**2024-07-11**|**Digital twins to alleviate the need for real field data in vision-based vehicle speed detection systems**|Antonio Hernández Martínez et.al.|[2407.08380](http://arxiv.org/abs/2407.08380)|null|
 |**2024-07-11**|**STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data**|Freek Hens et.al.|[2407.08362](http://arxiv.org/abs/2407.08362)|null|
-|**2024-07-11**|**Adaptive Deep Iris Feature Extractor at Arbitrary Resolutions**|Yuho Shoji et.al.|[2407.08341](http://arxiv.org/abs/2407.08341)|null|
+|**2024-07-12**|**Adaptive Deep Iris Feature Extractor at Arbitrary Resolutions**|Yuho Shoji et.al.|[2407.08341](http://arxiv.org/abs/2407.08341)|null|
 |**2024-07-11**|**Continually Learn to Map Visual Concepts to Large Language Models in Resource-constrained Environments**|Clea Rebillard et.al.|[2407.08279](http://arxiv.org/abs/2407.08279)|null|
 |**2024-07-11**|**Explainability of Sub-Field Level Crop Yield Prediction using Remote Sensing**|Hiba Najjar et.al.|[2407.08274](http://arxiv.org/abs/2407.08274)|null|
 |**2024-07-11**|**Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation**|Miao Yan et.al.|[2407.08265](http://arxiv.org/abs/2407.08265)|**[link](https://github.com/eloeszhang/nlmtrack)**|
