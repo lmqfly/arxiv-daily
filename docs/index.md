@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -269,7 +269,7 @@ layout: default
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|**[link](https://github.com/MoleculeAI/TAGMol)**|
 |**2024-05-25**|**Pessimistic Backward Policy for GFlowNets**|Hyosoon Jang et.al.|[2405.16012](http://arxiv.org/abs/2405.16012)|null|
 |**2024-04-04**|**GP-MoLFormer: A Foundation Model For Molecular Generation**|Jerret Ross et.al.|[2405.04912](http://arxiv.org/abs/2405.04912)|null|
-|**2024-05-05**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|null|
+|**2024-07-14**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|null|
 |**2024-05-02**|**SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways**|Miruna Cretu et.al.|[2405.01155](http://arxiv.org/abs/2405.01155)|**[link](https://github.com/mirunacrt/synflownet)**|
 |**2024-04-30**|**Leveraging Active Subspaces to Capture Epistemic Model Uncertainty in Deep Generative Models for Molecular Design**|A N M Nafiz Abeer et.al.|[2405.00202](http://arxiv.org/abs/2405.00202)|null|
 |**2024-04-30**|**Deep Lead Optimization: Leveraging Generative AI for Structural Modification**|Odin Zhang et.al.|[2404.19230](http://arxiv.org/abs/2404.19230)|null|
@@ -401,7 +401,7 @@ layout: default
 |**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429](http://arxiv.org/abs/2405.15429)|null|
 |**2024-05-23**|**GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**|Thao Nguyen et.al.|[2405.14203](http://arxiv.org/abs/2405.14203)|null|
 |**2024-05-08**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205](http://arxiv.org/abs/2405.05205)|null|
-|**2024-05-05**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|null|
+|**2024-07-14**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|null|
 |**2024-05-04**|**Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction**|Zexing Zhao et.al.|[2405.02628](http://arxiv.org/abs/2405.02628)|**[link](https://github.com/ZeXingZ/DIG-Mol)**|
 |**2024-05-02**|**CACTUS: Chemistry Agent Connecting Tool-Usage to Science**|Andrew D. McNaughton et.al.|[2405.00972](http://arxiv.org/abs/2405.00972)|**[link](https://github.com/pnnl/cactus)**|
 |**2024-05-02**|**The Role of Model Architecture and Scale in Predicting Molecular Properties: Insights from Fine-Tuning RoBERTa, BART, and LLaMA**|Lee Youngmin et.al.|[2405.00949](http://arxiv.org/abs/2405.00949)|**[link](https://github.com/BrightBlueCheese/transformers_and_chemistry)**|
@@ -795,7 +795,7 @@ layout: default
 |**2024-07-12**|**SS-SfP:Neural Inverse Rendering for Self Supervised Shape from (Mixed) Polarization**|Ashish Tiwari et.al.|[2407.09294](http://arxiv.org/abs/2407.09294)|null|
 |**2024-07-12**|**Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX**|Zhiyuan Chen et.al.|[2407.09274](http://arxiv.org/abs/2407.09274)|null|
 |**2024-07-12**|**iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning**|Tom Fischer et.al.|[2407.09271](http://arxiv.org/abs/2407.09271)|null|
-|**2024-07-12**|**Power Optimization and Deep Learning for Channel Estimation of Active IRS-Aided IoT**|Yan Wang et.al.|[2407.09254](http://arxiv.org/abs/2407.09254)|null|
+|**2024-07-15**|**Power Optimization and Deep Learning for Channel Estimation of Active IRS-Aided IoT**|Yan Wang et.al.|[2407.09254](http://arxiv.org/abs/2407.09254)|null|
 |**2024-07-12**|**Deep Adversarial Defense Against Multilevel-Lp Attacks**|Ren Wang et.al.|[2407.09251](http://arxiv.org/abs/2407.09251)|null|
 |**2024-07-12**|**Enhancing Depressive Post Detection in Bangla: A Comparative Study of TF-IDF, BERT and FastText Embeddings**|Saad Ahmed Sazan et.al.|[2407.09187](http://arxiv.org/abs/2407.09187)|null|
 |**2024-07-12**|**Asynchronous Online Adaptation via Modular Drift Detection for Deep Receivers**|Nicole Uzlaner et.al.|[2407.09134](http://arxiv.org/abs/2407.09134)|null|
@@ -3961,7 +3961,7 @@ layout: default
 |**2023-06-23**|**Curvature-enhanced Graph Convolutional Network for Biomolecular Interaction Prediction**|Cong Shen et.al.|[2306.13699](http://arxiv.org/abs/2306.13699)|**[link](https://github.com/cs-bio/cgcn)**|
 |**2023-06-23**|**Torsion Graph Neural Networks**|Cong Shen et.al.|[2306.13541](http://arxiv.org/abs/2306.13541)|**[link](https://github.com/cs-bio/torgnn)**|
 |**2023-10-24**|**A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design**|Zaixi Zhang et.al.|[2306.11768](http://arxiv.org/abs/2306.11768)|**[link](https://github.com/zaixizhang/awesome-sbdd)**|
-|**2023-06-08**|**Equivariant vs. Invariant Layers: A Comparison of Backbone and Pooling for Point Cloud Classification**|Ashkan Shahbazi et.al.|[2306.05553](http://arxiv.org/abs/2306.05553)|null|
+|**2024-07-12**|**Equivariant vs. Invariant Layers: A Comparison of Backbone and Pooling for Point Cloud Classification**|Abihith Kothapalli et.al.|[2306.05553](http://arxiv.org/abs/2306.05553)|null|
 |**2023-12-28**|**A Task-driven Network for Mesh Classification and Semantic Part Segmentation**|Qiujie Dong et.al.|[2306.05246](http://arxiv.org/abs/2306.05246)|null|
 |**2023-06-06**|**Deep neural networks architectures from the perspective of manifold learning**|German Magai et.al.|[2306.03406](http://arxiv.org/abs/2306.03406)|null|
 |**2023-05-26**|**Geometric deep learning approach to knot theory**|Lennart Jaretzki et.al.|[2305.16808](http://arxiv.org/abs/2305.16808)|**[link](https://github.com/lennartjaretzki/geometricdeeplearningknotdata)**|
