@@ -384,6 +384,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-14**|**Pre-training with Fractional Denoising to Enhance Molecular Property Prediction**|Yuyan Ni et.al.|[2407.11086](http://arxiv.org/abs/2407.11086)|null|
 |**2024-07-15**|**Rotationally Invariant Latent Distances for Uncertainty Estimation of Relaxed Energy Predictions by Graph Neural Network Potentials**|Joseph Musielewicz et.al.|[2407.10844](http://arxiv.org/abs/2407.10844)|null|
 |**2024-07-10**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930](http://arxiv.org/abs/2407.07930)|null|
 |**2024-06-13**|**MoleculeCLA: Rethinking Molecular Benchmark via Computational Ligand-Target Binding Analysis**|Shikun Feng et.al.|[2406.17797](http://arxiv.org/abs/2406.17797)|**[link](https://github.com/Zhenger959/MoleculeCLA)**|
@@ -519,6 +520,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Unzipping of knotted DNA via nanopore translocation**|Antonio Suma et.al.|[2407.11567](http://arxiv.org/abs/2407.11567)|null|
+|**2024-07-16**|**Glass Transition in Monolayers of Rough Colloidal Ellipsoids**|Jian Liang et.al.|[2407.11479](http://arxiv.org/abs/2407.11479)|null|
 |**2024-07-15**|**Ion Selectivity in Uncharged Tapered Nanoslits through Heterogeneous Water Polarization**|Tim Veenstra et.al.|[2407.10658](http://arxiv.org/abs/2407.10658)|null|
 |**2024-07-15**|**Dynamics of Nanoscale Phase Decomposition in Laser Ablation**|Yanwen Sun et.al.|[2407.10505](http://arxiv.org/abs/2407.10505)|null|
 |**2024-07-15**|**Nontrivial impact of interlayer coupling on thermal conductivity: opposing trends in in-plane and out-of-plane phonons**|H. F. Feng et.al.|[2407.10435](http://arxiv.org/abs/2407.10435)|null|
@@ -791,6 +794,42 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Beyond Spatial Explanations: Explainable Face Recognition in the Frequency Domain**|Marco Huber et.al.|[2407.11941](http://arxiv.org/abs/2407.11941)|null|
+|**2024-07-16**|**Learning secondary tool affordances of human partners using iCub robot's egocentric data**|Bosong Ding et.al.|[2407.11922](http://arxiv.org/abs/2407.11922)|null|
+|**2024-07-16**|**Deep Learning without Global Optimization by Random Fourier Neural Networks**|Owen Davis et.al.|[2407.11894](http://arxiv.org/abs/2407.11894)|null|
+|**2024-07-16**|**DFDRNN: A dual-feature based neural network for drug repositioning**|Enqiang Zhu et.al.|[2407.11812](http://arxiv.org/abs/2407.11812)|null|
+|**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|null|
+|**2024-07-16**|**A Channel Attention-Driven Hybrid CNN Framework for Paddy Leaf Disease Detection**|Pandiyaraju V et.al.|[2407.11753](http://arxiv.org/abs/2407.11753)|null|
+|**2024-07-16**|**Universal Sound Separation with Self-Supervised Audio Masked Autoencoder**|Junqi Zhao et.al.|[2407.11745](http://arxiv.org/abs/2407.11745)|null|
+|**2024-07-16**|**OAM-TCD: A globally diverse dataset of high-resolution tree cover maps**|Josh Veitch-Michaelis et.al.|[2407.11743](http://arxiv.org/abs/2407.11743)|null|
+|**2024-07-16**|**Generating Multi-Modal and Multi-Attribute Single-Cell Counts with CFGen**|Alessandro Palma et.al.|[2407.11734](http://arxiv.org/abs/2407.11734)|null|
+|**2024-07-16**|**Mask-guided cross-image attention for zero-shot in-silico histopathologic image generation with a diffusion model**|Dominik Winter et.al.|[2407.11664](http://arxiv.org/abs/2407.11664)|null|
+|**2024-07-16**|**Magnetogram-to-Magnetogram: Generative Forecasting of Solar Evolution**|Francesco Pio Ramunno et.al.|[2407.11659](http://arxiv.org/abs/2407.11659)|null|
+|**2024-07-16**|**Statistics-aware Audio-visual Deepfake Detector**|Marcella Astrid et.al.|[2407.11650](http://arxiv.org/abs/2407.11650)|null|
+|**2024-07-16**|**A Deep Learning-Based Target Radial Length Estimation Method through HRRP Sequence**|Lingfeng Chen et.al.|[2407.11620](http://arxiv.org/abs/2407.11620)|null|
+|**2024-07-16**|**Learning Global and Local Features of Power Load Series Through Transformer and 2D-CNN: An image-based Multi-step Forecasting Approach Incorporating Phase Space Reconstruction**|Zihan Tang et.al.|[2407.11553](http://arxiv.org/abs/2407.11553)|null|
+|**2024-07-16**|**Not Another Imputation Method: A Transformer-based Model for Missing Values in Tabular Datasets**|Camillo Maria Caruso et.al.|[2407.11540](http://arxiv.org/abs/2407.11540)|**[link](https://github.com/cosbidev/naim)**|
+|**2024-07-16**|**Cross-Phase Mutual Learning Framework for Pulmonary Embolism Identification on Non-Contrast CT Scans**|Bizhe Bai et.al.|[2407.11529](http://arxiv.org/abs/2407.11529)|null|
+|**2024-07-16**|**XTraffic: A Dataset Where Traffic Meets Incidents with Explainability and More**|Xiaochuan Gou et.al.|[2407.11477](http://arxiv.org/abs/2407.11477)|null|
+|**2024-07-16**|**EndoFinder: Online Image Retrieval for Explainable Colorectal Polyp Diagnosis**|Ruijie Yang et.al.|[2407.11401](http://arxiv.org/abs/2407.11401)|null|
+|**2024-07-16**|**Preconditioned Gradient Descent Finds Over-Parameterized Neural Networks with Sharp Generalization for Nonparametric Regression**|Yingzhen Yang et.al.|[2407.11353](http://arxiv.org/abs/2407.11353)|null|
+|**2024-07-16**|**Digital-Analog Transmission Framework for Task-Oriented Semantic Communications**|Yuzhou Fu et.al.|[2407.11350](http://arxiv.org/abs/2407.11350)|null|
+|**2024-07-16**|**Flatfish Disease Detection Based on Part Segmentation Approach and Disease Image Generation**|Seo-Bin Hwang et.al.|[2407.11348](http://arxiv.org/abs/2407.11348)|null|
+|**2024-07-16**|**Scalable Extraction Based Semantic Communication for 6G Wireless Networks**|Yuzhou Fu et.al.|[2407.11334](http://arxiv.org/abs/2407.11334)|null|
+|**2024-07-16**|**COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation**|Liu He et.al.|[2407.11294](http://arxiv.org/abs/2407.11294)|**[link](https://github.com/arking1995/coho)**|
+|**2024-07-16**|**LoRA-PT: Low-Rank Adapting UNETR for Hippocampus Segmentation Using Principal Tensor Singular Values and Vectors**|Guanghua He et.al.|[2407.11292](http://arxiv.org/abs/2407.11292)|null|
+|**2024-07-16**|**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems**|Yaşar Utku Alçalar et.al.|[2407.11288](http://arxiv.org/abs/2407.11288)|null|
+|**2024-07-15**|**Enhancing Multi-Step Brent Oil Price Forecasting with Ensemble Multi-Scenario Bi-GRU Networks**|Mohammed Alruqimi et.al.|[2407.11267](http://arxiv.org/abs/2407.11267)|null|
+|**2024-07-15**|**Quality Scalable Quantization Methodology for Deep Learning on Edge**|Salman Abdul Khaliq et.al.|[2407.11260](http://arxiv.org/abs/2407.11260)|null|
+|**2024-07-15**|**DD_RoTIR: Dual-Domain Image Registration via Image Translation and Hiearchical Feature-matching**|Ruixiong Wang et.al.|[2407.11223](http://arxiv.org/abs/2407.11223)|null|
+|**2024-07-15**|**EyeDentify: A Dataset for Pupil Diameter Estimation based on Webcam Images**|Vijul Shah et.al.|[2407.11204](http://arxiv.org/abs/2407.11204)|null|
+|**2024-07-15**|**Differentiable Neural-Integrated Meshfree Method for Forward and Inverse Modeling of Finite Strain Hyperelasticity**|Honghui Du et.al.|[2407.11183](http://arxiv.org/abs/2407.11183)|null|
+|**2024-07-15**|**Deep Learning Evidence for Global Optimality of Gerver's Sofa**|Kuangdai Leng et.al.|[2407.11106](http://arxiv.org/abs/2407.11106)|**[link](https://github.com/kuangdai/sofa)**|
+|**2024-07-15**|**Exploring the Potentials and Challenges of Deep Generative Models in Product Design Conception**|Phillip Mueller et.al.|[2407.11104](http://arxiv.org/abs/2407.11104)|null|
+|**2024-07-14**|**Deep Learning Activation Functions: Fixed-Shape, Parametric, Adaptive, Stochastic, Miscellaneous, Non-Standard, Ensemble**|M. M. Hammad et.al.|[2407.11090](http://arxiv.org/abs/2407.11090)|null|
+|**2024-07-14**|**Explainable bank failure prediction models: Counterfactual explanations to reduce the failure risk**|Seyma Gunonu et.al.|[2407.11089](http://arxiv.org/abs/2407.11089)|null|
+|**2024-07-14**|**Pre-training with Fractional Denoising to Enhance Molecular Property Prediction**|Yuyan Ni et.al.|[2407.11086](http://arxiv.org/abs/2407.11086)|null|
+|**2024-07-13**|**Generating In-store Customer Journeys from Scratch with GPT Architectures**|Taizo Horikomi et.al.|[2407.11081](http://arxiv.org/abs/2407.11081)|null|
 |**2024-07-15**|**Comparing AI versus Optimization Workflows for Simulation-Based Inference of Spatial-Stochastic Systems**|Michael A. Ramirez-Sierra et.al.|[2407.10938](http://arxiv.org/abs/2407.10938)|null|
 |**2024-07-15**|**A Dual-Attention Aware Deep Convolutional Neural Network for Early Alzheimer's Detection**|Pandiyaraju V et.al.|[2407.10921](http://arxiv.org/abs/2407.10921)|null|
 |**2024-07-15**|**PartImageNet++ Dataset: Scaling up Part-based Models for Robust Recognition**|Xiao Li et.al.|[2407.10918](http://arxiv.org/abs/2407.10918)|null|
@@ -3809,6 +3848,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-14**|**Pre-training with Fractional Denoising to Enhance Molecular Property Prediction**|Yuyan Ni et.al.|[2407.11086](http://arxiv.org/abs/2407.11086)|null|
+|**2024-07-10**|**SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction**|Seungyeon Choi et.al.|[2407.11057](http://arxiv.org/abs/2407.11057)|null|
 |**2024-07-15**|**GraphPrint: Extracting Features from 3D Protein Structure for Drug Target Affinity Prediction**|Amritpal Singh et.al.|[2407.10452](http://arxiv.org/abs/2407.10452)|null|
 |**2024-07-12**|**Modeling Ion-Specific Effects in Polyelectrolyte Brushes: A Modified Poisson-Nernst-Planck Model**|William J Ceely et.al.|[2407.09633](http://arxiv.org/abs/2407.09633)|null|
 |**2024-07-05**|**Benchmarking structure-based three-dimensional molecular generative models using GenBench3D: ligand conformation quality matters**|Benoit Baillif et.al.|[2407.04424](http://arxiv.org/abs/2407.04424)|**[link](https://github.com/bbaillif/genbench3d)**|
