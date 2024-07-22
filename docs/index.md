@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Achieving Well-Informed Decision-Making in Drug Discovery: A Comprehensive Calibration Study using Neural Network-Based Structure-Activity Models**|Hannah Rosa Friesacher et.al.|[2407.14185](http://arxiv.org/abs/2407.14185)|**[link](https://github.com/hannahrosafriesacher/CalibrationStudy)**|
 |**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888](http://arxiv.org/abs/2407.12888)|null|
 |**2024-07-17**|**A statistical mechanics investigation of Unfolded Protein Response across organisms**|Nicole Luchetti et.al.|[2407.12464](http://arxiv.org/abs/2407.12464)|null|
 |**2024-07-14**|**MKDTI: Predicting drug-target interactions via multiple kernel fusion on graph attention network**|Yuhuan Zhou et.al.|[2407.10055](http://arxiv.org/abs/2407.10055)|null|
@@ -259,6 +260,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Decomposed Direct Preference Optimization for Structure-Based Drug Design**|Xiwei Cheng et.al.|[2407.13981](http://arxiv.org/abs/2407.13981)|null|
 |**2024-07-16**|**Directly Optimizing for Synthesizability in Generative Molecular Design using Retrosynthesis Models**|Jeff Guo et.al.|[2407.12186](http://arxiv.org/abs/2407.12186)|**[link](https://github.com/schwallergroup/saturn)**|
 |**2024-07-10**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930](http://arxiv.org/abs/2407.07930)|null|
 |**2024-07-05**|**Benchmarking structure-based three-dimensional molecular generative models using GenBench3D: ligand conformation quality matters**|Benoit Baillif et.al.|[2407.04424](http://arxiv.org/abs/2407.04424)|**[link](https://github.com/bbaillif/genbench3d)**|
@@ -524,6 +526,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Examining composition-dependent radiation response in AlGaN**|Miaomiao Jin et.al.|[2407.14456](http://arxiv.org/abs/2407.14456)|null|
+|**2024-07-19**|**Coarse-graining bistability with the Martini force field**|Alexander D. Muratov et.al.|[2407.14440](http://arxiv.org/abs/2407.14440)|null|
+|**2024-07-19**|**On the Edge Roughness of Two-Dimensional Materials**|Pengjie Shi et.al.|[2407.14134](http://arxiv.org/abs/2407.14134)|null|
+|**2024-07-19**|**On the microscopic structure of neat linear alkylamine liquids: an x-ray scattering and computer simulation study**|Martina Požar et.al.|[2407.14096](http://arxiv.org/abs/2407.14096)|null|
 |**2024-07-18**|**Surface roughening in nanoparticle catalysts**|Cameron J. Owen et.al.|[2407.13643](http://arxiv.org/abs/2407.13643)|null|
 |**2024-07-16**|**Unzipping of knotted DNA via nanopore translocation**|Antonio Suma et.al.|[2407.11567](http://arxiv.org/abs/2407.11567)|null|
 |**2024-07-16**|**Glass Transition in Monolayers of Rough Colloidal Ellipsoids**|Jian Liang et.al.|[2407.11479](http://arxiv.org/abs/2407.11479)|null|
@@ -799,6 +805,41 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473](http://arxiv.org/abs/2407.14473)|null|
+|**2024-07-19**|**AudioInsight: Detecting Social Contexts Relevant to Social Anxiety from Speech**|Varun Reddy et.al.|[2407.14458](http://arxiv.org/abs/2407.14458)|null|
+|**2024-07-19**|**The Extrapolation Power of Implicit Models**|Juliette Decugis et.al.|[2407.14430](http://arxiv.org/abs/2407.14430)|null|
+|**2024-07-19**|**Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models**|Hyun-Jic Oh et.al.|[2407.14426](http://arxiv.org/abs/2407.14426)|null|
+|**2024-07-19**|**Improving classification of road surface conditions via road area extraction and contrastive learning**|Linh Trinh et.al.|[2407.14418](http://arxiv.org/abs/2407.14418)|null|
+|**2024-07-19**|**Frontiers of Deep Learning: From Novel Application to Real-World Deployment**|Rui Xie et.al.|[2407.14386](http://arxiv.org/abs/2407.14386)|null|
+|**2024-07-19**|**Deep learning density functional theory Hamiltonian in real space**|Zilong Yuan et.al.|[2407.14379](http://arxiv.org/abs/2407.14379)|null|
+|**2024-07-19**|**Vision-Based Power Line Cables and Pylons Detection for Low Flying Aircrafts**|Jakub Gwizdała et.al.|[2407.14352](http://arxiv.org/abs/2407.14352)|null|
+|**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
+|**2024-07-19**|**Complementary Learning for Real-World Model Failure Detection**|Daniel Bogdoll et.al.|[2407.14306](http://arxiv.org/abs/2407.14306)|**[link](https://github.com/daniel-bogdoll/model_contradictions)**|
+|**2024-07-19**|**Multi-Source and Test-Time Domain Adaptation on Multivariate Signals using Spatio-Temporal Monge Alignment**|Théo Gnassounou et.al.|[2407.14303](http://arxiv.org/abs/2407.14303)|null|
+|**2024-07-19**|**Deep learning-driven likelihood-free parameter inference for 21-cm forest observations**|Tian-Yang Sun et.al.|[2407.14298](http://arxiv.org/abs/2407.14298)|null|
+|**2024-07-19**|**Patch-based Intuitive Multimodal Prototypes Network (PIMPNet) for Alzheimer's Disease classification**|Lisa Anita De Santi et.al.|[2407.14277](http://arxiv.org/abs/2407.14277)|**[link](https://github.com/desantilisa/PIMPNet3D/blob/main/README.md)**|
+|**2024-07-19**|**Braille-to-Speech Generator: Audio Generation Based on Joint Fine-Tuning of CLIP and Fastspeech2**|Chun Xu et.al.|[2407.14212](http://arxiv.org/abs/2407.14212)|null|
+|**2024-07-19**|**Enhanced Mortality Prediction in ICU Stroke Patients via Deep Learning**|Armin Abdollahi et.al.|[2407.14211](http://arxiv.org/abs/2407.14211)|null|
+|**2024-07-19**|**Double-Shot 3D Shape Measurement with a Dual-Branch Network**|Mingyang Lei et.al.|[2407.14198](http://arxiv.org/abs/2407.14198)|null|
+|**2024-07-19**|**TaGAT: Topology-Aware Graph Attention Network For Multi-modal Retinal Image Fusion**|Xin Tian et.al.|[2407.14188](http://arxiv.org/abs/2407.14188)|**[link](https://github.com/xintian-99/tagat)**|
+|**2024-07-19**|**Efficient and Safe Contact-rich pHRI via Subtask Detection and Motion Estimation using Deep Learning**|Pouya P. Niaz et.al.|[2407.14161](http://arxiv.org/abs/2407.14161)|null|
+|**2024-07-19**|**PassTSL: Modeling Human-Created Passwords through Two-Stage Learning**|Yangde Wang et.al.|[2407.14145](http://arxiv.org/abs/2407.14145)|null|
+|**2024-07-19**|**Comparing and Contrasting Deep Learning Weather Prediction Backbones on Navier-Stokes and Atmospheric Dynamics**|Matthias Karlbauer et.al.|[2407.14129](http://arxiv.org/abs/2407.14129)|null|
+|**2024-07-19**|**OCTolyzer: Fully automatic analysis toolkit for segmentation and feature extracting in optical coherence tomography (OCT) and scanning laser ophthalmoscopy (SLO) data**|Jamie Burke et.al.|[2407.14128](http://arxiv.org/abs/2407.14128)|null|
+|**2024-07-19**|**Seismic Fault SAM: Adapting SAM with Lightweight Modules and 2.5D Strategy for Fault Detection**|Ran Chen et.al.|[2407.14121](http://arxiv.org/abs/2407.14121)|null|
+|**2024-07-19**|**Shape and Style GAN-based Multispectral Data Augmentation for Crop/Weed Segmentation in Precision Farming**|Mulham Fawakherji et.al.|[2407.14119](http://arxiv.org/abs/2407.14119)|null|
+|**2024-07-19**|**A3Rank: Augmentation Alignment Analysis for Prioritizing Overconfident Failing Samples for Deep Learning Models**|Zhengyuan Wei et.al.|[2407.14114](http://arxiv.org/abs/2407.14114)|null|
+|**2024-07-19**|**ParamsDrag: Interactive Parameter Space Exploration via Image-Space Dragging**|Guan Li et.al.|[2407.14100](http://arxiv.org/abs/2407.14100)|null|
+|**2024-07-19**|**MSCT: Addressing Time-Varying Confounding with Marginal Structural Causal Transformer for Counterfactual Post-Crash Traffic Prediction**|Shuang Li et.al.|[2407.14065](http://arxiv.org/abs/2407.14065)|null|
+|**2024-07-19**|**Refining Tuberculosis Detection in CXR Imaging: Addressing Bias in Deep Neural Networks via Interpretability**|Özgür Acar Güler et.al.|[2407.14064](http://arxiv.org/abs/2407.14064)|null|
+|**2024-07-19**|**Quantum Hamiltonian Embedding of Images for Data Reuploading Classifiers**|Peiyong Wang et.al.|[2407.14055](http://arxiv.org/abs/2407.14055)|null|
+|**2024-07-19**|**TTA-OOD: Test-time Augmentation for Improving Out-of-Distribution Detection in Gastrointestinal Vision**|Sandesh Pokhrel et.al.|[2407.14024](http://arxiv.org/abs/2407.14024)|null|
+|**2024-07-19**|**Segmentation of Brain Metastases in MRI: A Two-Stage Deep Learning Approach with Modality Impact Study**|Yousef Sadegheih et.al.|[2407.14011](http://arxiv.org/abs/2407.14011)|null|
+|**2024-07-19**|**Evidential Deep Learning for Interatomic Potentials**|Han Xu et.al.|[2407.13994](http://arxiv.org/abs/2407.13994)|null|
+|**2024-07-19**|**Accurately Estimating Redshifts from CSST Slitless Spectroscopic Survey using Deep Learning**|Xingchen Zhou et.al.|[2407.13991](http://arxiv.org/abs/2407.13991)|null|
+|**2024-07-18**|**Improving Malware Detection with Adversarial Domain Adaptation and Control Flow Graphs**|Adrian Shuai Li et.al.|[2407.13918](http://arxiv.org/abs/2407.13918)|null|
+|**2024-07-18**|**Improving Robustness and Clinical Applicability of Respiratory Sound Classification via Audio Enhancement**|Jing-Tong Tzeng et.al.|[2407.13895](http://arxiv.org/abs/2407.13895)|null|
+|**2024-07-18**|**Data-driven Forecasting of Deep Learning Performance on GPUs**|Seonho Lee et.al.|[2407.13853](http://arxiv.org/abs/2407.13853)|null|
 |**2024-07-18**|**Predicting dark matter halo masses from simulated galaxy images and environments**|Austin J. Larson et.al.|[2407.13735](http://arxiv.org/abs/2407.13735)|null|
 |**2024-07-18**|**FSP-Laplace: Function-Space Priors for the Laplace Approximation in Bayesian Deep Learning**|Tristan Cinquin et.al.|[2407.13711](http://arxiv.org/abs/2407.13711)|null|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
