@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -405,7 +405,7 @@ layout: default
 |**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
 |**2024-06-01**|**Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models**|Zhenzhong Wang et.al.|[2405.16041](http://arxiv.org/abs/2405.16041)|null|
 |**2024-05-24**|**Knowledge-enhanced Relation Graph and Task Sampling for Few-shot Molecular Property Prediction**|Zeyu Wang et.al.|[2405.15544](http://arxiv.org/abs/2405.15544)|**[link](https://github.com/Vencent-Won/KRGTS-public)**|
-|**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429](http://arxiv.org/abs/2405.15429)|null|
+|**2024-07-18**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429](http://arxiv.org/abs/2405.15429)|null|
 |**2024-05-23**|**GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**|Thao Nguyen et.al.|[2405.14203](http://arxiv.org/abs/2405.14203)|null|
 |**2024-05-08**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205](http://arxiv.org/abs/2405.05205)|null|
 |**2024-07-16**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|**[link](https://github.com/seojin-kim/hi-mol)**|
@@ -880,7 +880,7 @@ layout: default
 |**2024-07-16**|**Flatfish Disease Detection Based on Part Segmentation Approach and Disease Image Generation**|Seo-Bin Hwang et.al.|[2407.11348](http://arxiv.org/abs/2407.11348)|null|
 |**2024-07-16**|**Scalable Extraction Based Semantic Communication for 6G Wireless Networks**|Yuzhou Fu et.al.|[2407.11334](http://arxiv.org/abs/2407.11334)|null|
 |**2024-07-16**|**COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation**|Liu He et.al.|[2407.11294](http://arxiv.org/abs/2407.11294)|**[link](https://github.com/arking1995/coho)**|
-|**2024-07-16**|**LoRA-PT: Low-Rank Adapting UNETR for Hippocampus Segmentation Using Principal Tensor Singular Values and Vectors**|Guanghua He et.al.|[2407.11292](http://arxiv.org/abs/2407.11292)|null|
+|**2024-07-19**|**LoRA-PT: Low-Rank Adapting UNETR for Hippocampus Segmentation Using Principal Tensor Singular Values and Vectors**|Guanghua He et.al.|[2407.11292](http://arxiv.org/abs/2407.11292)|null|
 |**2024-07-16**|**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems**|Yaşar Utku Alçalar et.al.|[2407.11288](http://arxiv.org/abs/2407.11288)|null|
 |**2024-07-15**|**Enhancing Multi-Step Brent Oil Price Forecasting with Ensemble Multi-Scenario Bi-GRU Networks**|Mohammed Alruqimi et.al.|[2407.11267](http://arxiv.org/abs/2407.11267)|null|
 |**2024-07-15**|**Quality Scalable Quantization Methodology for Deep Learning on Edge**|Salman Abdul Khaliq et.al.|[2407.11260](http://arxiv.org/abs/2407.11260)|null|
