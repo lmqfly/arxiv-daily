@@ -260,6 +260,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-20**|**Diff4VS: HIV-inhibiting Molecules Generation with Classifier Guidance Diffusion for Virtual Screening**|Jiaqing Lyu et.al.|[2407.15880](http://arxiv.org/abs/2407.15880)|null|
 |**2024-07-19**|**Decomposed Direct Preference Optimization for Structure-Based Drug Design**|Xiwei Cheng et.al.|[2407.13981](http://arxiv.org/abs/2407.13981)|null|
 |**2024-07-16**|**Directly Optimizing for Synthesizability in Generative Molecular Design using Retrosynthesis Models**|Jeff Guo et.al.|[2407.12186](http://arxiv.org/abs/2407.12186)|**[link](https://github.com/schwallergroup/saturn)**|
 |**2024-07-10**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930](http://arxiv.org/abs/2407.07930)|null|
@@ -526,6 +527,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses**|Nikolai V. Priezjev et.al.|[2407.16687](http://arxiv.org/abs/2407.16687)|null|
+|**2024-07-23**|**The need to implement FAIR principles in biomolecular simulations**|Rommie Amaro et.al.|[2407.16584](http://arxiv.org/abs/2407.16584)|null|
+|**2024-07-23**|**When Knots are Plectonemes**|Fei Zheng et.al.|[2407.16290](http://arxiv.org/abs/2407.16290)|null|
 |**2024-07-21**|**Shock Hugoniot calculations using on-the-fly machine learned force fields with ab initio accuracy**|Shashikant Kumar et.al.|[2407.15290](http://arxiv.org/abs/2407.15290)|null|
 |**2024-07-21**|**Theoretical Study on the Structural and Thermodynamic Properties of U-He compounds under High Pressure**|Ye Cao et.al.|[2407.15164](http://arxiv.org/abs/2407.15164)|null|
 |**2024-07-21**|**Deterministic and Efficient Switching of Sliding Ferroelectrics**|Shihan Deng et.al.|[2407.15081](http://arxiv.org/abs/2407.15081)|null|
@@ -810,6 +814,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**A Framework for Pupil Tracking with Event Cameras**|Khadija Iddrisu et.al.|[2407.16665](http://arxiv.org/abs/2407.16665)|null|
+|**2024-07-23**|**Knowledge-driven AI-generated data for accurate and interpretable breast ultrasound diagnoses**|Haojun Yu et.al.|[2407.16634](http://arxiv.org/abs/2407.16634)|null|
+|**2024-07-23**|**A Tale of Two DL Cities: When Library Tests Meet Compiler**|Qingchao Shen et.al.|[2407.16626](http://arxiv.org/abs/2407.16626)|null|
+|**2024-07-23**|**Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**|Daniela L. Ramos et.al.|[2407.16608](http://arxiv.org/abs/2407.16608)|null|
+|**2024-07-23**|**qMRI Diffusor: Quantitative T1 Mapping of the Brain using a Denoising Diffusion Probabilistic Model**|Shishuai Wang et.al.|[2407.16477](http://arxiv.org/abs/2407.16477)|null|
+|**2024-07-23**|**On Deep Learning for computing the Dynamic Initial Margin and Margin Value Adjustment**|Joel P. Villarino et.al.|[2407.16435](http://arxiv.org/abs/2407.16435)|null|
+|**2024-07-23**|**Securing Tomorrow's Smart Cities: Investigating Software Security in Internet of Vehicles and Deep Learning Technologies**|Ridhi Jain et.al.|[2407.16410](http://arxiv.org/abs/2407.16410)|null|
+|**2024-07-23**|**Hi-EF: Benchmarking Emotion Forecasting in Human-interaction**|Haoran Wang et.al.|[2407.16406](http://arxiv.org/abs/2407.16406)|**[link](https://github.com/anonymize-author/hi-ef)**|
+|**2024-07-23**|**On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models**|Deniz Daum et.al.|[2407.16405](http://arxiv.org/abs/2407.16405)|**[link](https://github.com/compai-lab/2024-miccai-dgm-daum)**|
+|**2024-07-23**|**Deep Learning Assisted Inertial Dead Reckoning and Fusion**|Dror Hurwitz et.al.|[2407.16387](http://arxiv.org/abs/2407.16387)|null|
+|**2024-07-23**|**A Multitask Deep Learning Model for Classification and Regression of Hyperspectral Images: Application to the large-scale dataset**|Koushikey Chhapariya et.al.|[2407.16384](http://arxiv.org/abs/2407.16384)|null|
+|**2024-07-23**|**TookaBERT: A Step Forward for Persian NLU**|MohammadAli SadraeiJavaheri et.al.|[2407.16382](http://arxiv.org/abs/2407.16382)|null|
+|**2024-07-23**|**Ranking protein-protein models with large language models and graph neural networks**|Xiaotong Xu et.al.|[2407.16375](http://arxiv.org/abs/2407.16375)|**[link](https://github.com/haddocking/deeprank-gnn-esm)**|
+|**2024-07-23**|**Deep Learning for Pancreas Segmentation: a Systematic Review**|Andrea Moglia et.al.|[2407.16313](http://arxiv.org/abs/2407.16313)|null|
+|**2024-07-23**|**SAFNet: Selective Alignment Fusion Network for Efficient HDR Imaging**|Lingtong Kong et.al.|[2407.16308](http://arxiv.org/abs/2407.16308)|**[link](https://github.com/ltkong218/safnet)**|
+|**2024-07-23**|**Image Classification using Fuzzy Pooling in Convolutional Kolmogorov-Arnold Networks**|Ayan Igali et.al.|[2407.16268](http://arxiv.org/abs/2407.16268)|null|
+|**2024-07-23**|**Comparison of Static Application Security Testing Tools and Large Language Models for Repo-level Vulnerability Detection**|Xin Zhou et.al.|[2407.16235](http://arxiv.org/abs/2407.16235)|null|
+|**2024-07-23**|**Strategy and Skill Learning for Physics-based Table Tennis Animation**|Jiashun Wang et.al.|[2407.16210](http://arxiv.org/abs/2407.16210)|null|
+|**2024-07-23**|**Predicting Stock Prices with FinBERT-LSTM: Integrating News Sentiment Analysis**|Wenjun Gu et.al.|[2407.16150](http://arxiv.org/abs/2407.16150)|null|
+|**2024-07-23**|**Advancing Brain Imaging Analysis Step-by-step via Progressive Self-paced Learning**|Yanwu Yang et.al.|[2407.16128](http://arxiv.org/abs/2407.16128)|**[link](https://github.com/hrychen7/pspd)**|
+|**2024-07-23**|**Towards Effective Fusion and Forecasting of Multimodal Spatio-temporal Data for Smart Mobility**|Chenxing Wang et.al.|[2407.16123](http://arxiv.org/abs/2407.16123)|null|
+|**2024-07-22**|**EfficientCD: A New Strategy For Change Detection Based With Bi-temporal Layers Exchanged**|Sijun Dong et.al.|[2407.15999](http://arxiv.org/abs/2407.15999)|null|
+|**2024-07-22**|**AI for Handball: predicting and explaining the 2024 Olympic Games tournament with Deep Learning and Large Language Models**|Florian Felice et.al.|[2407.15987](http://arxiv.org/abs/2407.15987)|null|
+|**2024-07-22**|**Comprehensive Study on Performance Evaluation and Optimization of Model Compression: Bridging Traditional Deep Learning and Large Language Models**|Aayush Saxena et.al.|[2407.15904](http://arxiv.org/abs/2407.15904)|null|
+|**2024-07-22**|**Enhancing Cognitive Workload Classification Using Integrated LSTM Layers and CNNs for fNIRS Data Analysis**|Mehshan Ahmed Khan et.al.|[2407.15901](http://arxiv.org/abs/2407.15901)|null|
+|**2024-07-21**|**A Benchmark Dataset for Multimodal Prediction of Enzymatic Function Coupling DNA Sequences and Natural Language**|Yuchen Zhang et.al.|[2407.15888](http://arxiv.org/abs/2407.15888)|null|
+|**2024-07-21**|**Improving Prediction of Need for Mechanical Ventilation using Cross-Attention**|Anwesh Mohanty et.al.|[2407.15885](http://arxiv.org/abs/2407.15885)|null|
+|**2024-07-20**|**Evaluation of deep learning models for Australian climate extremes: prediction of streamflow and floods**|Siddharth Khedkar et.al.|[2407.15882](http://arxiv.org/abs/2407.15882)|null|
+|**2024-07-20**|**Enhancing Wildfire Forecasting Through Multisource Spatio-Temporal Data, Deep Learning, Ensemble Models and Transfer Learning**|Ayoub Jadouli et.al.|[2407.15878](http://arxiv.org/abs/2407.15878)|null|
 |**2024-07-22**|**Robust Facial Reactions Generation: An Emotion-Aware Framework with Modality Compensation**|Guanyu Hu et.al.|[2407.15798](http://arxiv.org/abs/2407.15798)|null|
 |**2024-07-22**|**Reconfigurable Intelligent Surface Empowered Full Duplex Systems: Opportunities and Challenges**|Chong Huang et.al.|[2407.15782](http://arxiv.org/abs/2407.15782)|null|
 |**2024-07-22**|**Model editing for distribution shifts in uranium oxide morphological analysis**|Davis Brown et.al.|[2407.15756](http://arxiv.org/abs/2407.15756)|null|
