@@ -527,6 +527,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Correlating ultrastability with fragility and surface mobility in vapor deposited tetrahedral glasses**|Fabio Leoni et.al.|[2407.18133](http://arxiv.org/abs/2407.18133)|null|
+|**2024-07-25**|**Persistent homology elucidates hierarchical structures in amorphous solids responsible for mechanical properties**|Emi Minamitani et.al.|[2407.17707](http://arxiv.org/abs/2407.17707)|null|
 |**2024-07-24**|**Reverse non-equilibrium molecular dynamics simulations of a melt of Kremer-Grest type model under fast shear**|Tatsuma Oishi et.al.|[2407.17031](http://arxiv.org/abs/2407.17031)|null|
 |**2024-07-23**|**Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses**|Nikolai V. Priezjev et.al.|[2407.16687](http://arxiv.org/abs/2407.16687)|null|
 |**2024-07-23**|**The need to implement FAIR principles in biomolecular simulations**|Rommie Amaro et.al.|[2407.16584](http://arxiv.org/abs/2407.16584)|null|
@@ -816,6 +818,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction**|Chunan Liu et.al.|[2407.18184](http://arxiv.org/abs/2407.18184)|**[link](https://github.com/biochunan/asep-dataset)**|
+|**2024-07-25**|**DINOv2 Rocks Geological Image Analysis: Classification, Segmentation, and Interpretability**|Florent Brondolo et.al.|[2407.18100](http://arxiv.org/abs/2407.18100)|null|
+|**2024-07-25**|**CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation**|Xiao Liu et.al.|[2407.18070](http://arxiv.org/abs/2407.18070)|null|
+|**2024-07-25**|**ECG Arrhythmia Detection Using Disease-specific Attention-based Deep Learning Model**|Linpeng Jin et.al.|[2407.18033](http://arxiv.org/abs/2407.18033)|null|
+|**2024-07-25**|**Learning mental states estimation through self-observation: a developmental synergy between intentions and beliefs representations in a deep-learning model of Theory of Mind**|Francesca Bianco et.al.|[2407.18022](http://arxiv.org/abs/2407.18022)|null|
+|**2024-07-25**|**iNNspector: Visual, Interactive Deep Model Debugging**|Thilo Spinner et.al.|[2407.17998](http://arxiv.org/abs/2407.17998)|null|
+|**2024-07-25**|**Explain EEG-based End-to-end Deep Learning Models in the Frequency Domain**|Hanqi Wang et.al.|[2407.17983](http://arxiv.org/abs/2407.17983)|null|
+|**2024-07-25**|**SaccadeDet: A Novel Dual-Stage Architecture for Rapid and Accurate Detection in Gigapixel Images**|Wenxi Li et.al.|[2407.17956](http://arxiv.org/abs/2407.17956)|null|
+|**2024-07-25**|**3D Hole Filling using Deep Learning Inpainting**|Marina Hernández-Bautista et.al.|[2407.17896](http://arxiv.org/abs/2407.17896)|null|
+|**2024-07-25**|**An Error Discovery and Correction for the Family of V-Shaped BPSO Algorithms**|Qing Zhao et.al.|[2407.17889](http://arxiv.org/abs/2407.17889)|null|
+|**2024-07-25**|**Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey**|Shahab Saquib Sohail et.al.|[2407.17877](http://arxiv.org/abs/2407.17877)|null|
+|**2024-07-25**|**EllipBench: A Large-scale Benchmark for Machine-learning based Ellipsometry Modeling**|Yiming Ma et.al.|[2407.17869](http://arxiv.org/abs/2407.17869)|null|
+|**2024-07-25**|**Innovative Speech-Based Deep Learning Approaches for Parkinson's Disease Classification: A Systematic Review**|Lisanne van Gelderen et.al.|[2407.17844](http://arxiv.org/abs/2407.17844)|null|
+|**2024-07-25**|**On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models: A Case Study**|Lujia Zhang et.al.|[2407.17842](http://arxiv.org/abs/2407.17842)|null|
+|**2024-07-25**|**HF-Fed: Hierarchical based customized Federated Learning Framework for X-Ray Imaging**|Tajamul Ashraf et.al.|[2407.17780](http://arxiv.org/abs/2407.17780)|null|
+|**2024-07-25**|**Enhancing Eye Disease Diagnosis with Deep Learning and Synthetic Data Augmentation**|Saideep Kilaru et.al.|[2407.17755](http://arxiv.org/abs/2407.17755)|null|
+|**2024-07-25**|**Optimal Trade and Industrial Policies in the Global Economy: A Deep Learning Framework**|Zi Wang et.al.|[2407.17731](http://arxiv.org/abs/2407.17731)|null|
+|**2024-07-25**|**Context-aware knowledge graph framework for traffic speed forecasting using graph neural network**|Yatao Zhang et.al.|[2407.17703](http://arxiv.org/abs/2407.17703)|null|
+|**2024-07-24**|**SDLNet: Statistical Deep Learning Network for Co-Occurring Object Detection and Identification**|Binay Kumar Singh et.al.|[2407.17664](http://arxiv.org/abs/2407.17664)|null|
+|**2024-07-24**|**An Energy-Efficient Artefact Detection Accelerator on FPGAs for Hyper-Spectral Satellite Imagery**|Cornell Castelino et.al.|[2407.17647](http://arxiv.org/abs/2407.17647)|null|
+|**2024-07-24**|**Hopfield Networks for Asset Allocation**|Carlo Nicolini et.al.|[2407.17645](http://arxiv.org/abs/2407.17645)|null|
+|**2024-07-24**|**SMA-Hyper: Spatiotemporal Multi-View Fusion Hypergraph Learning for Traffic Accident Prediction**|Xiaowei Gao et.al.|[2407.17642](http://arxiv.org/abs/2407.17642)|null|
+|**2024-07-24**|**BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic Chunking and Hard Example Learning**|Partha Chakraborty et.al.|[2407.17631](http://arxiv.org/abs/2407.17631)|null|
+|**2024-07-24**|**CoMoTo: Unpaired Cross-Modal Lesion Distillation Improves Breast Lesion Detection in Tomosynthesis**|Muhammad Alberb et.al.|[2407.17620](http://arxiv.org/abs/2407.17620)|**[link](https://github.com/muhammad-al-barbary/comoto)**|
+|**2024-07-24**|**Wavelet-based Autoencoder and EfficientNet for Schizophrenia Detection from EEG Signals**|Umesh Kumar Naik M et.al.|[2407.17540](http://arxiv.org/abs/2407.17540)|null|
+|**2024-07-24**|**Improved symbolic drum style classification with grammar-based hierarchical representations**|Léo Géré et.al.|[2407.17536](http://arxiv.org/abs/2407.17536)|null|
 |**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402](http://arxiv.org/abs/2407.17402)|null|
 |**2024-07-24**|**Self-Calibrated Variance-Stabilizing Transformations for Real-World Image Denoising**|Sébastien Herbreteau et.al.|[2407.17399](http://arxiv.org/abs/2407.17399)|null|
