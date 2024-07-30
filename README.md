@@ -546,6 +546,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Enhancing heat transport in MoS2 via defect-engineering**|Riccardo Dettori et.al.|[2407.19891](http://arxiv.org/abs/2407.19891)|null|
+|**2024-07-29**|**Multi-GPU RI-HF Energies and Analytic Gradients -- Towards High Throughput \textit{Ab Initio} Molecular Dynamics**|Ryan Stocks et.al.|[2407.19614](http://arxiv.org/abs/2407.19614)|null|
+|**2024-07-27**|**Mesoscale properties of biomolecular condensates emerging from protein chain dynamics**|Nicola Galvanetto et.al.|[2407.19202](http://arxiv.org/abs/2407.19202)|null|
+|**2024-07-27**|**Effect of lattice relaxation on electronic spectra of helically twisted trilayer graphene: Large-scale atomistic simulation approach**|Joonho Jang et.al.|[2407.19143](http://arxiv.org/abs/2407.19143)|null|
 |**2024-07-26**|**Modelling realistic clay systems with ClayCode**|Hannah Pollak et.al.|[2407.18882](http://arxiv.org/abs/2407.18882)|null|
 |**2024-07-26**|**Structural Reorganizations and Nanodomain Emergence in Lipid Membrane Driven by Ionic Liquids**|J. Gupta et.al.|[2407.18706](http://arxiv.org/abs/2407.18706)|null|
 |**2024-07-26**|**Lattice distortion leads to glassy thermal transport in crystalline Cs $_3$Bi$_2$I$_6$Cl$_3$**|Zezhu Zeng et.al.|[2407.18510](http://arxiv.org/abs/2407.18510)|null|
@@ -556,7 +560,7 @@
 |**2024-07-23**|**Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses**|Nikolai V. Priezjev et.al.|[2407.16687](http://arxiv.org/abs/2407.16687)|null|
 |**2024-07-23**|**The need to implement FAIR principles in biomolecular simulations**|Rommie Amaro et.al.|[2407.16584](http://arxiv.org/abs/2407.16584)|null|
 |**2024-07-23**|**When Knots are Plectonemes**|Fei Zheng et.al.|[2407.16290](http://arxiv.org/abs/2407.16290)|null|
-|**2024-07-21**|**Shock Hugoniot calculations using on-the-fly machine learned force fields with ab initio accuracy**|Shashikant Kumar et.al.|[2407.15290](http://arxiv.org/abs/2407.15290)|null|
+|**2024-07-29**|**Shock Hugoniot calculations using on-the-fly machine learned force fields with ab initio accuracy**|Shashikant Kumar et.al.|[2407.15290](http://arxiv.org/abs/2407.15290)|null|
 |**2024-07-21**|**Theoretical Study on the Structural and Thermodynamic Properties of U-He compounds under High Pressure**|Ye Cao et.al.|[2407.15164](http://arxiv.org/abs/2407.15164)|null|
 |**2024-07-21**|**Deterministic and Efficient Switching of Sliding Ferroelectrics**|Shihan Deng et.al.|[2407.15081](http://arxiv.org/abs/2407.15081)|null|
 |**2024-07-20**|**Disentangling Electronic and Phononic Thermal Transport Across 2D Interfaces**|Linxin Zhai et.al.|[2407.14898](http://arxiv.org/abs/2407.14898)|null|
@@ -843,6 +847,54 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Time series forecasting with high stakes: A field study of the air cargo industry**|Abhinav Garg et.al.|[2407.20192](http://arxiv.org/abs/2407.20192)|null|
+|**2024-07-29**|**Machine Learning for predicting chaotic systems**|Christof Schötz et.al.|[2407.20158](http://arxiv.org/abs/2407.20158)|null|
+|**2024-07-29**|**GsPINN: A novel fast Green kernel solver based on symmetric Physics-Informed neural networks**|Xiaopei Jiao et.al.|[2407.20155](http://arxiv.org/abs/2407.20155)|null|
+|**2024-07-29**|**Infrared Small Target Detection based on Adjustable Sensitivity Strategy and Multi-Scale Fusion**|Jinmiao Zhao et.al.|[2407.20090](http://arxiv.org/abs/2407.20090)|null|
+|**2024-07-29**|**Segmenting Fetal Head with Efficient Fine-tuning Strategies in Low-resource Settings: an empirical study with U-Net**|Fangyijie Wang et.al.|[2407.20086](http://arxiv.org/abs/2407.20086)|null|
+|**2024-07-29**|**Generative Diffusion Model Bootstraps Zero-shot Classification of Fetal Ultrasound Images In Underrepresented African Populations**|Fangyijie Wang et.al.|[2407.20072](http://arxiv.org/abs/2407.20072)|null|
+|**2024-07-29**|**RelBench: A Benchmark for Deep Learning on Relational Databases**|Joshua Robinson et.al.|[2407.20060](http://arxiv.org/abs/2407.20060)|**[link](https://github.com/snap-stanford/relbench)**|
+|**2024-07-29**|**BEExAI: Benchmark to Evaluate Explainable AI**|Samuel Sithakoul et.al.|[2407.19897](http://arxiv.org/abs/2407.19897)|**[link](https://github.com/squareresearchcenter-ai/beexai)**|
+|**2024-07-29**|**Leveraging Foundation Models for Zero-Shot IoT Sensing**|Dinghao Xue et.al.|[2407.19893](http://arxiv.org/abs/2407.19893)|**[link](https://github.com/schrodingho/fm_zsl_iot)**|
+|**2024-07-29**|**Yucca: A Deep Learning Framework For Medical Image Analysis**|Sebastian Nørgaard Llambias et.al.|[2407.19888](http://arxiv.org/abs/2407.19888)|**[link](https://github.com/sllambias/yucca)**|
+|**2024-07-29**|**Detecting Unsafe Behavior in Neural Network Imitation Policies for Caregiving Robotics**|Andrii Tytarenko et.al.|[2407.19819](http://arxiv.org/abs/2407.19819)|null|
+|**2024-07-29**|**Accelerating template generation in resonant anomaly detection searches with optimal transport**|Matthew Leigh et.al.|[2407.19818](http://arxiv.org/abs/2407.19818)|null|
+|**2024-07-29**|**VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks**|Juhwan Choi et.al.|[2407.19795](http://arxiv.org/abs/2407.19795)|null|
+|**2024-07-29**|**Hashing based Contrastive Learning for Virtual Screening**|Jin Han et.al.|[2407.19790](http://arxiv.org/abs/2407.19790)|null|
+|**2024-07-29**|**Rina: Enhancing Ring-AllReduce with In-network Aggregation in Distributed Model Training**|Zixuan Chen et.al.|[2407.19721](http://arxiv.org/abs/2407.19721)|null|
+|**2024-07-29**|**Revolutionizing Urban Safety Perception Assessments: Integrating Multimodal Large Language Models with Street View Images**|Jiaxin Zhanga et.al.|[2407.19719](http://arxiv.org/abs/2407.19719)|null|
+|**2024-07-29**|**TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data**|Shuaiyu Xie et.al.|[2407.19711](http://arxiv.org/abs/2407.19711)|null|
+|**2024-07-29**|**Structural damage detection via hierarchical damage information with volumetric assessment**|Isaac Osei Agyemang et.al.|[2407.19694](http://arxiv.org/abs/2407.19694)|null|
+|**2024-07-29**|**Efficiently and Effectively: A Two-stage Approach to Balance Plaintext and Encrypted Text for Traffic Classification**|Wei Peng et.al.|[2407.19687](http://arxiv.org/abs/2407.19687)|null|
+|**2024-07-29**|**Revisiting the robustness of post-hoc interpretability methods**|Jiawen Wei et.al.|[2407.19683](http://arxiv.org/abs/2407.19683)|null|
+|**2024-07-29**|**Adaptive Soft Error Protection for Deep Learning**|Xinghua Xue et.al.|[2407.19664](http://arxiv.org/abs/2407.19664)|null|
+|**2024-07-28**|**Improving Domain Adaptation Through Class Aware Frequency Transformation**|Vikash Kumar et.al.|[2407.19551](http://arxiv.org/abs/2407.19551)|null|
+|**2024-07-28**|**Deep Generative Models-Assisted Automated Labeling for Electron Microscopy Images Segmentation**|Wenhao Yuan et.al.|[2407.19544](http://arxiv.org/abs/2407.19544)|null|
+|**2024-07-28**|**From Obstacle Problems to Neural Insights: Feed Forward Neural Network Modeling of Ice Thickness**|Kapil Chawla et.al.|[2407.19529](http://arxiv.org/abs/2407.19529)|null|
+|**2024-07-28**|**ctPuLSE: Close-Talk, and Pseudo-Label Based Far-Field, Speech Enhancement**|Zhong-Qiu Wang et.al.|[2407.19485](http://arxiv.org/abs/2407.19485)|null|
+|**2024-07-28**|**Automated Detection of Satellite Trails in Ground-Based Observations Using U-Net and Hough Transform**|F. Stoppa et.al.|[2407.19461](http://arxiv.org/abs/2407.19461)|null|
+|**2024-07-28**|**White Matter Geometry-Guided Score-Based Diffusion Model for Tissue Microstructure Imputation in Tractography Imaging**|Yui Lo et.al.|[2407.19460](http://arxiv.org/abs/2407.19460)|null|
+|**2024-07-28**|**X-Fake: Juggling Utility Evaluation and Explanation of Simulated SAR Images**|Zhongling Huang et.al.|[2407.19436](http://arxiv.org/abs/2407.19436)|null|
+|**2024-07-28**|**Accurate background velocity model building method based on iterative deep learning in sparse transform domain**|Guoxin Chen et.al.|[2407.19419](http://arxiv.org/abs/2407.19419)|null|
+|**2024-07-28**|**Enhancing Black-Scholes Delta Hedging via Deep Learning**|Chunhui Qiao et.al.|[2407.19367](http://arxiv.org/abs/2407.19367)|null|
+|**2024-07-28**|**A spring-block theory of feature learning in deep neural networks**|Cheng Shi et.al.|[2407.19353](http://arxiv.org/abs/2407.19353)|null|
+|**2024-07-27**|**Predicting T-Cell Receptor Specificity**|Tengyao Tu et.al.|[2407.19349](http://arxiv.org/abs/2407.19349)|null|
+|**2024-07-27**|**Polyp segmentation in colonoscopy images using DeepLabV3++**|Al Mohimanul Islam et.al.|[2407.19327](http://arxiv.org/abs/2407.19327)|null|
+|**2024-07-27**|**Deep Learning Based Crime Prediction Models: Experiments and Analysis**|Rittik Basak Utsha et.al.|[2407.19324](http://arxiv.org/abs/2407.19324)|null|
+|**2024-07-27**|**AResNet-ViT: A Hybrid CNN-Transformer Network for Benign and Malignant Breast Nodule Classification in Ultrasound Images**|Xin Zhao et.al.|[2407.19316](http://arxiv.org/abs/2407.19316)|null|
+|**2024-07-27**|**Optimizing Synthetic Data for Enhanced Pancreatic Tumor Segmentation**|Linkai Peng et.al.|[2407.19284](http://arxiv.org/abs/2407.19284)|**[link](https://github.com/lkpengcs/syntumoranalyzer)**|
+|**2024-07-27**|**Predicting the Progression of Cancerous Tumors in Mice: A Machine and Deep Learning Intuition**|Amit K Chattopadhyay et.al.|[2407.19277](http://arxiv.org/abs/2407.19277)|null|
+|**2024-07-27**|**Comprehensive Survey of Complex-Valued Neural Networks: Insights into Backpropagation and Activation Functions**|M. M. Hammad et.al.|[2407.19258](http://arxiv.org/abs/2407.19258)|null|
+|**2024-07-27**|**EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection**|Shigang Liu et.al.|[2407.19216](http://arxiv.org/abs/2407.19216)|null|
+|**2024-07-27**|**Efficiently improving key weather variables forecasting by performing the guided iterative prediction in latent space**|Shuangliang Li et.al.|[2407.19187](http://arxiv.org/abs/2407.19187)|**[link](https://github.com/rs-lsl/kvp-lsi)**|
+|**2024-07-27**|**Power-LLaVA: Large Language and Vision Assistant for Power Transmission Line Inspection**|Jiahao Wang et.al.|[2407.19178](http://arxiv.org/abs/2407.19178)|null|
+|**2024-07-27**|**A Survey of Malware Detection Using Deep Learning**|Ahmed Bensaoud et.al.|[2407.19153](http://arxiv.org/abs/2407.19153)|null|
+|**2024-07-27**|**Few-Shot Medical Image Segmentation with Large Kernel Attention**|Xiaoxiao Wu et.al.|[2407.19148](http://arxiv.org/abs/2407.19148)|null|
+|**2024-07-26**|**Super Resolution for Renewable Energy Resource Data With Wind From Reanalysis Data (Sup3rWind) and Application to Ukraine**|Brandon N. Benton et.al.|[2407.19086](http://arxiv.org/abs/2407.19086)|null|
+|**2024-07-26**|**Practical Marketplace Optimization at Uber Using Causally-Informed Machine Learning**|Bobby Chen et.al.|[2407.19078](http://arxiv.org/abs/2407.19078)|null|
+|**2024-07-26**|**Towards a Transformer-Based Pre-trained Model for IoT Traffic Classification**|Bruna Bazaluk et.al.|[2407.19051](http://arxiv.org/abs/2407.19051)|null|
+|**2024-07-26**|**Optimizing Numerical Estimation and Operational Efficiency in the Legal Domain through Large Language Models**|Jia-Hong Huang et.al.|[2407.19041](http://arxiv.org/abs/2407.19041)|null|
+|**2024-07-26**|**SWIFT: Semantic Watermarking for Image Forgery Thwarting**|Gautier Evennou et.al.|[2407.18995](http://arxiv.org/abs/2407.18995)|null|
 |**2024-07-26**|**Enhancing material property prediction with ensemble deep graph convolutional networks**|Chowdhury Mohammad Abid Rahman et.al.|[2407.18847](http://arxiv.org/abs/2407.18847)|null|
 |**2024-07-26**|**Interpreting artificial neural networks to detect genome-wide association signals for complex traits**|Burak Yelmen et.al.|[2407.18811](http://arxiv.org/abs/2407.18811)|null|
 |**2024-07-29**|**Benchmarking Dependence Measures to Prevent Shortcut Learning in Medical Imaging**|Sarah Müller et.al.|[2407.18792](http://arxiv.org/abs/2407.18792)|**[link](https://github.com/berenslab/dependence-measures-medical-imaging)**|
@@ -4165,6 +4217,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**On Machine Learning Approaches for Protein-Ligand Binding Affinity Prediction**|Nikolai Schapin et.al.|[2407.19073](http://arxiv.org/abs/2407.19073)|null|
 |**2024-07-21**|**Exploiting Pre-trained Models for Drug Target Affinity Prediction with Nearest Neighbors**|Qizhi Pei et.al.|[2407.15202](http://arxiv.org/abs/2407.15202)|null|
 |**2024-07-14**|**Pre-training with Fractional Denoising to Enhance Molecular Property Prediction**|Yuyan Ni et.al.|[2407.11086](http://arxiv.org/abs/2407.11086)|null|
 |**2024-07-10**|**SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction**|Seungyeon Choi et.al.|[2407.11057](http://arxiv.org/abs/2407.11057)|null|
