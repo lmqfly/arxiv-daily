@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -529,7 +529,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-29**|**Enhancing heat transport in MoS2 via defect-engineering**|Riccardo Dettori et.al.|[2407.19891](http://arxiv.org/abs/2407.19891)|null|
-|**2024-07-29**|**Multi-GPU RI-HF Energies and Analytic Gradients -- Towards High Throughput \textit{Ab Initio} Molecular Dynamics**|Ryan Stocks et.al.|[2407.19614](http://arxiv.org/abs/2407.19614)|null|
+|**2024-07-30**|**Multi-GPU RI-HF Energies and Analytic Gradients $-$ Towards High Throughput Ab Initio Molecular Dynamics**|Ryan Stocks et.al.|[2407.19614](http://arxiv.org/abs/2407.19614)|null|
 |**2024-07-27**|**Mesoscale properties of biomolecular condensates emerging from protein chain dynamics**|Nicola Galvanetto et.al.|[2407.19202](http://arxiv.org/abs/2407.19202)|null|
 |**2024-07-27**|**Effect of lattice relaxation on electronic spectra of helically twisted trilayer graphene: Large-scale atomistic simulation approach**|Joonho Jang et.al.|[2407.19143](http://arxiv.org/abs/2407.19143)|null|
 |**2024-07-26**|**Modelling realistic clay systems with ClayCode**|Hannah Pollak et.al.|[2407.18882](http://arxiv.org/abs/2407.18882)|null|
