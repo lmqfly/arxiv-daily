@@ -274,6 +274,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Closure to the PRISM equation derived from nonlinear response theory**|James P. Donley et.al.|[2407.20392](http://arxiv.org/abs/2407.20392)|null|
 |**2024-07-26**|**Small Molecule Optimization with Large Language Models**|Philipp Guevorguian et.al.|[2407.18897](http://arxiv.org/abs/2407.18897)|**[link](https://github.com/yerevann/chemlactica)**|
 |**2024-07-20**|**Diff4VS: HIV-inhibiting Molecules Generation with Classifier Guidance Diffusion for Virtual Screening**|Jiaqing Lyu et.al.|[2407.15880](http://arxiv.org/abs/2407.15880)|null|
 |**2024-07-19**|**Decomposed Direct Preference Optimization for Structure-Based Drug Design**|Xiwei Cheng et.al.|[2407.13981](http://arxiv.org/abs/2407.13981)|null|
@@ -407,6 +408,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Distribution Learning for Molecular Regression**|Nima Shoghi et.al.|[2407.20475](http://arxiv.org/abs/2407.20475)|null|
 |**2024-07-18**|**Scikit-fingerprints: easy and efficient computation of molecular fingerprints in Python**|Jakub Adamczyk et.al.|[2407.13291](http://arxiv.org/abs/2407.13291)|**[link](https://github.com/scikit-fingerprints/scikit-fingerprints)**|
 |**2024-07-14**|**Pre-training with Fractional Denoising to Enhance Molecular Property Prediction**|Yuyan Ni et.al.|[2407.11086](http://arxiv.org/abs/2407.11086)|null|
 |**2024-07-15**|**Rotationally Invariant Latent Distances for Uncertainty Estimation of Relaxed Energy Predictions by Graph Neural Network Potentials**|Joseph Musielewicz et.al.|[2407.10844](http://arxiv.org/abs/2407.10844)|null|
@@ -546,6 +548,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Orientational disorder and molecular correlations in hybrid organic-inorganic perovskites: From fundamental insights to technological applications**|Carlos Escorihuela-Sayalero et.al.|[2407.20672](http://arxiv.org/abs/2407.20672)|null|
+|**2024-07-25**|**Carbon Nanotubes as a Basis of Metamaterials and Nanostructures: Crafting via Design Optimization**|Marko Čanađija et.al.|[2407.20275](http://arxiv.org/abs/2407.20275)|null|
 |**2024-07-29**|**Enhancing heat transport in MoS2 via defect-engineering**|Riccardo Dettori et.al.|[2407.19891](http://arxiv.org/abs/2407.19891)|null|
 |**2024-07-30**|**Multi-GPU RI-HF Energies and Analytic Gradients $-$ Towards High Throughput Ab Initio Molecular Dynamics**|Ryan Stocks et.al.|[2407.19614](http://arxiv.org/abs/2407.19614)|null|
 |**2024-07-27**|**Mesoscale properties of biomolecular condensates emerging from protein chain dynamics**|Nicola Galvanetto et.al.|[2407.19202](http://arxiv.org/abs/2407.19202)|null|
@@ -847,6 +851,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Contrasting Deep Learning Models for Direct Respiratory Insufficiency Detection Versus Blood Oxygen Saturation Estimation**|Marcelo Matheus Gauy et.al.|[2407.20989](http://arxiv.org/abs/2407.20989)|null|
+|**2024-07-30**|**Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy**|Isaiah A. Moses et.al.|[2407.20975](http://arxiv.org/abs/2407.20975)|null|
+|**2024-07-30**|**Learning Ordinality in Semantic Segmentation**|Rafael Cristino et.al.|[2407.20959](http://arxiv.org/abs/2407.20959)|null|
+|**2024-07-30**|**UniProcessor: A Text-induced Unified Low-level Image Processor**|Huiyu Duan et.al.|[2407.20928](http://arxiv.org/abs/2407.20928)|**[link](https://github.com/intmegroup/uniprocessor)**|
+|**2024-07-30**|**MambaCapsule: Towards Transparent Cardiac Disease Diagnosis with Electrocardiography Using Mamba Capsule Network**|Yinlong Xu et.al.|[2407.20893](http://arxiv.org/abs/2407.20893)|null|
+|**2024-07-30**|**DeTurb: Atmospheric Turbulence Mitigation with Deformable 3D Convolutions and 3D Swin Transformers**|Zhicheng Zou et.al.|[2407.20855](http://arxiv.org/abs/2407.20855)|null|
+|**2024-07-30**|**Optimizing Charge Transport Simulation for Deep Learning Enhanced Spatial Resolution of the MÖNCH Detector**|X. Xie et.al.|[2407.20841](http://arxiv.org/abs/2407.20841)|null|
+|**2024-07-30**|**Approximating electromagnetic fields in discontinuous media using a single physics-informed neural network**|Michel Nohra et.al.|[2407.20833](http://arxiv.org/abs/2407.20833)|null|
+|**2024-07-30**|**Exploring Loss Landscapes through the Lens of Spin Glass Theory**|Hao Liao et.al.|[2407.20724](http://arxiv.org/abs/2407.20724)|null|
+|**2024-07-30**|**Input Convex Neural Network-Assisted Optimal Power Flow in Distribution Networks: Modeling, Algorithm Design, and Applications**|Rui Cheng et.al.|[2407.20675](http://arxiv.org/abs/2407.20675)|null|
+|**2024-07-30**|**A Tutorial on the Use of Physics-Informed Neural Networks to Compute the Spectrum of Quantum Systems**|Lorenzo Brevi et.al.|[2407.20669](http://arxiv.org/abs/2407.20669)|null|
+|**2024-07-30**|**Decoding Linguistic Representations of Human Brain**|Yu Wang et.al.|[2407.20622](http://arxiv.org/abs/2407.20622)|null|
+|**2024-07-30**|**Robust CNN Multi-Nested-LSTM Framework with Compound Loss for Patch-based Multi-Push Ultrasound Shear Wave Imaging and Segmentation**|Md. Jahin Alam et.al.|[2407.20558](http://arxiv.org/abs/2407.20558)|null|
+|**2024-07-30**|**BERT and LLMs-Based avGFP Brightness Prediction and Mutation Design**|X. Guo et.al.|[2407.20534](http://arxiv.org/abs/2407.20534)|null|
+|**2024-07-30**|**High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE**|Zhiceng Shi et.al.|[2407.20518](http://arxiv.org/abs/2407.20518)|**[link](https://github.com/wenwenmin/histosge)**|
+|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|null|
+|**2024-07-29**|**Uncertainty-Rectified YOLO-SAM for Weakly Supervised ICH Segmentation**|Pascal Spiegler et.al.|[2407.20461](http://arxiv.org/abs/2407.20461)|null|
+|**2024-07-29**|**Deep Learning for Super-resolution Ultrasound Imaging with Spatiotemporal Data**|David A. Redfern et.al.|[2407.20407](http://arxiv.org/abs/2407.20407)|null|
+|**2024-07-29**|**Dense Self-Supervised Learning for Medical Image Segmentation**|Maxime Seince et.al.|[2407.20395](http://arxiv.org/abs/2407.20395)|null|
+|**2024-07-29**|**Unified Deep Learning Framework for Many-Body Quantum Chemistry via Green's Functions**|Christian Venturella et.al.|[2407.20384](http://arxiv.org/abs/2407.20384)|null|
+|**2024-07-29**|**From ML to LLM: Evaluating the Robustness of Phishing Webpage Detection Models against Adversarial Attacks**|Aditya Kulkarni et.al.|[2407.20361](http://arxiv.org/abs/2407.20361)|null|
+|**2024-07-29**|**Spectropolarimetric Inversion in Four Dimensions with Deep Learning (SPIn4D): I. Overview, Magnetohydrodynamic Modeling, and Stokes Profile Synthesis**|Kai E. Yang et.al.|[2407.20309](http://arxiv.org/abs/2407.20309)|null|
 |**2024-07-29**|**Time series forecasting with high stakes: A field study of the air cargo industry**|Abhinav Garg et.al.|[2407.20192](http://arxiv.org/abs/2407.20192)|null|
 |**2024-07-29**|**Machine Learning for predicting chaotic systems**|Christof Schötz et.al.|[2407.20158](http://arxiv.org/abs/2407.20158)|null|
 |**2024-07-29**|**GsPINN: A novel fast Green kernel solver based on symmetric Physics-Informed neural networks**|Xiaopei Jiao et.al.|[2407.20155](http://arxiv.org/abs/2407.20155)|null|
