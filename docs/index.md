@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -836,7 +836,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-31**|**Deep Learning for Options Trading: An End-To-End Approach**|Wee Ling Tan et.al.|[2407.21791](http://arxiv.org/abs/2407.21791)|null|
 |**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788](http://arxiv.org/abs/2407.21788)|null|
-|**2024-07-31**|**Contrastive Factor Analysis**|Zhibin Duan et.al.|[2407.21740](http://arxiv.org/abs/2407.21740)|null|
+|**2024-08-01**|**Contrastive Factor Analysis**|Zhibin Duan et.al.|[2407.21740](http://arxiv.org/abs/2407.21740)|null|
 |**2024-07-31**|**Universal Approximation Theory: Foundations for Parallelism in Neural Networks**|Wei Wang et.al.|[2407.21670](http://arxiv.org/abs/2407.21670)|null|
 |**2024-07-31**|**An Explainable Vision Transformer with Transfer Learning Combined with Support Vector Machine Based Efficient Drought Stress Identification**|Aswini Kumar Patra et.al.|[2407.21666](http://arxiv.org/abs/2407.21666)|null|
 |**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|null|
@@ -922,7 +922,7 @@ layout: default
 |**2024-07-27**|**Deep Learning Based Crime Prediction Models: Experiments and Analysis**|Rittik Basak Utsha et.al.|[2407.19324](http://arxiv.org/abs/2407.19324)|null|
 |**2024-07-27**|**AResNet-ViT: A Hybrid CNN-Transformer Network for Benign and Malignant Breast Nodule Classification in Ultrasound Images**|Xin Zhao et.al.|[2407.19316](http://arxiv.org/abs/2407.19316)|null|
 |**2024-07-27**|**Optimizing Synthetic Data for Enhanced Pancreatic Tumor Segmentation**|Linkai Peng et.al.|[2407.19284](http://arxiv.org/abs/2407.19284)|**[link](https://github.com/lkpengcs/syntumoranalyzer)**|
-|**2024-07-27**|**Predicting the Progression of Cancerous Tumors in Mice: A Machine and Deep Learning Intuition**|Amit K Chattopadhyay et.al.|[2407.19277](http://arxiv.org/abs/2407.19277)|null|
+|**2024-07-31**|**Predicting the Progression of Cancerous Tumors in Mice: A Machine and Deep Learning Intuition**|Amit K Chattopadhyay et.al.|[2407.19277](http://arxiv.org/abs/2407.19277)|null|
 |**2024-07-27**|**Comprehensive Survey of Complex-Valued Neural Networks: Insights into Backpropagation and Activation Functions**|M. M. Hammad et.al.|[2407.19258](http://arxiv.org/abs/2407.19258)|null|
 |**2024-07-27**|**EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection**|Shigang Liu et.al.|[2407.19216](http://arxiv.org/abs/2407.19216)|null|
 |**2024-07-27**|**Efficiently improving key weather variables forecasting by performing the guided iterative prediction in latent space**|Shuangliang Li et.al.|[2407.19187](http://arxiv.org/abs/2407.19187)|**[link](https://github.com/rs-lsl/kvp-lsi)**|
