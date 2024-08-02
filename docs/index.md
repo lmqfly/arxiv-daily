@@ -448,6 +448,7 @@ layout: default
 |**2023-11-29**|**Improving Self-supervised Molecular Representation Learning using Persistent Homology**|Yuankai Luo et.al.|[2311.17327](http://arxiv.org/abs/2311.17327)|**[link](https://github.com/luoyk1999/molecular-homology)**|
 |**2024-04-19**|**MultiModal-Learning for Predicting Molecular Properties: A Framework Based on Image and Graph Structures**|Zhuoyuan Wang et.al.|[2311.16666](http://arxiv.org/abs/2311.16666)|null|
 |**2023-11-17**|**Multiparameter Persistent Homology for Molecular Property Prediction**|Andac Demir et.al.|[2311.10808](http://arxiv.org/abs/2311.10808)|null|
+|**2024-07-31**|**Asymmetric Contrastive Multimodal Learning for Advancing Chemical Understanding**|Hao Xu et.al.|[2311.06456](http://arxiv.org/abs/2311.06456)|null|
 |**2023-11-08**|**Identifying Semantic Component for Robust Molecular Property Prediction**|Zijian Li et.al.|[2311.04837](http://arxiv.org/abs/2311.04837)|**[link](https://github.com/dmirlab-group/sci)**|
 |**2024-07-01**|**From molecules to scaffolds to functional groups: building context-dependent molecular representation via multi-channel learning**|Yue Wan et.al.|[2311.02798](http://arxiv.org/abs/2311.02798)|null|
 |**2023-11-03**|**Sliced Denoising: A Physics-Informed Molecular Pre-Training Method**|Yuyan Ni et.al.|[2311.02124](http://arxiv.org/abs/2311.02124)|null|
