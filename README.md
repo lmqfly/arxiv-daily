@@ -1041,7 +1041,7 @@
 |**2024-07-24**|**FIIH: Fully Invertible Image Hiding for Secure and Robust**|Lang Huang et.al.|[2407.17155](http://arxiv.org/abs/2407.17155)|null|
 |**2024-07-24**|**Quanv4EO: Empowering Earth Observation by means of Quanvolutional Neural Networks**|Alessandro Sebastianelli et.al.|[2407.17108](http://arxiv.org/abs/2407.17108)|null|
 |**2024-07-24**|**Towards Robust Knowledge Tracing Models via k-Sparse Attention**|Shuyan Huang et.al.|[2407.17097](http://arxiv.org/abs/2407.17097)|**[link](https://github.com/pykt-team/pykt-toolkit)**|
-|**2024-07-28**|**Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++**|Anh The Nguyen et.al.|[2407.17053](http://arxiv.org/abs/2407.17053)|null|
+|**2024-07-28**|**Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++**|Anh The Nguyen et.al.|[2407.17053](http://arxiv.org/abs/2407.17053)|**[link](https://github.com/anh56/dl4sa)**|
 |**2024-07-24**|**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**|Jian Xu et.al.|[2407.17033](http://arxiv.org/abs/2407.17033)|null|
 |**2024-07-24**|**Uncertainty-Based Ensemble Learning For Speech Classification**|Bagus Tris Atmaja et.al.|[2407.17009](http://arxiv.org/abs/2407.17009)|**[link](https://github.com/bagustris/nkululeko_ensemble_speech_classficcation)**|
 |**2024-07-24**|**When AI Defeats Password Deception! A Deep Learning Framework to Distinguish Passwords and Honeywords**|Jimmy Dani et.al.|[2407.16964](http://arxiv.org/abs/2407.16964)|null|
@@ -1237,7 +1237,7 @@
 |**2024-07-17**|**Virtual Gram staining of label-free bacteria using darkfield microscopy and deep learning**|Cagatay Isil et.al.|[2407.12337](http://arxiv.org/abs/2407.12337)|null|
 |**2024-07-17**|**Label-Efficient 3D Brain Segmentation via Complementary 2D Diffusion Models with Orthogonal Views**|Jihoon Cho et.al.|[2407.12329](http://arxiv.org/abs/2407.12329)|null|
 |**2024-07-17**|**Exploiting Inter-Image Similarity Prior for Low-Bitrate Remote Sensing Image Compression**|Junhui Li et.al.|[2407.12295](http://arxiv.org/abs/2407.12295)|null|
-|**2024-07-17**|**Dual-Hybrid Attention Network for Specular Highlight Removal**|Xiaojiao Guo et.al.|[2407.12255](http://arxiv.org/abs/2407.12255)|null|
+|**2024-07-17**|**Dual-Hybrid Attention Network for Specular Highlight Removal**|Xiaojiao Guo et.al.|[2407.12255](http://arxiv.org/abs/2407.12255)|**[link](https://github.com/CXH-Research/DHAN-SHR)**|
 |**2024-07-16**|**On the Calibration of Epistemic Uncertainty: Principles, Paradoxes and Conflictual Loss**|Mohammed Fellaji et.al.|[2407.12211](http://arxiv.org/abs/2407.12211)|**[link](https://github.com/fellajimed/Conflictual-Loss)**|
 |**2024-07-16**|**Towards Interpretable Visuo-Tactile Predictive Models for Soft Robot Interactions**|Enrico Donato et.al.|[2407.12197](http://arxiv.org/abs/2407.12197)|null|
 |**2024-07-16**|**The object detection method aids in image reconstruction evaluation and clinical interpretation of meniscal abnormalities**|Natalia Konovalova et.al.|[2407.12184](http://arxiv.org/abs/2407.12184)|null|
@@ -1663,7 +1663,7 @@
 |**2024-06-30**|**SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs**|Max Muzeau et.al.|[2407.00851](http://arxiv.org/abs/2407.00851)|null|
 |**2024-06-30**|**Towards Understanding Sensitive and Decisive Patterns in Explainable AI: A Case Study of Model Interpretation in Geometric Deep Learning**|Jiajun Zhu et.al.|[2407.00849](http://arxiv.org/abs/2407.00849)|**[link](https://github.com/Graph-COM/xgdl)**|
 |**2024-06-30**|**Inferring intrahalo light from stellar kinematics -- A deep learning approach**|I. Marini et.al.|[2407.00838](http://arxiv.org/abs/2407.00838)|null|
-|**2024-06-30**|**Analysis of Modern Computer Vision Models for Blood Cell Classification**|Alexander Kim et.al.|[2407.00759](http://arxiv.org/abs/2407.00759)|null|
+|**2024-06-30**|**Analysis of Modern Computer Vision Models for Blood Cell Classification**|Alexander Kim et.al.|[2407.00759](http://arxiv.org/abs/2407.00759)|**[link](https://github.com/RyanKim17920/Analysis-of-Modern-Computer-Vision-Models-for-Blood-Cell-Classification)**|
 |**2024-06-30**|**Deep learning quantum Monte Carlo for solids**|Yubing Qian et.al.|[2407.00707](http://arxiv.org/abs/2407.00707)|null|
 |**2024-06-30**|**NourishNet: Proactive Severity State Forecasting of Food Commodity Prices for Global Warning Systems**|Sydney Balboni et.al.|[2407.00698](http://arxiv.org/abs/2407.00698)|null|
 |**2024-06-30**|**The Nash-MTL-STCN for Prestack Three-Parameter Inversion**|Yingtian Liu et.al.|[2407.00684](http://arxiv.org/abs/2407.00684)|null|
@@ -2876,7 +2876,7 @@
 |**2024-05-14**|**Automated Deep Learning for Load Forecasting**|Julie Keisler et.al.|[2405.08842](http://arxiv.org/abs/2405.08842)|null|
 |**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|**[link](https://github.com/med-air/picg2scoring)**|
 |**2024-05-14**|**The Developing Human Connectome Project: A Fast Deep Learning-based Pipeline for Neonatal Cortical Surface Reconstruction**|Qiang Ma et.al.|[2405.08783](http://arxiv.org/abs/2405.08783)|**[link](https://github.com/m-qiang/dhcp-dl-neonatal)**|
-|**2024-05-14**|**Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling**|Gregory Holste et.al.|[2405.08780](http://arxiv.org/abs/2405.08780)|null|
+|**2024-05-14**|**Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling**|Gregory Holste et.al.|[2405.08780](http://arxiv.org/abs/2405.08780)|**[link](https://github.com/bionlplab/longitudinal_transformer_for_survival_analysis)**|
 |**2024-05-14**|**Using autoencoders and deep transfer learning to determine the stellar parameters of 286 CARMENES M dwarfs**|P. Mas-Buitrago et.al.|[2405.08703](http://arxiv.org/abs/2405.08703)|**[link](https://github.com/pedromasb/autoencoders-CARMENES)**|
 |**2024-05-14**|**Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis**|Qingpeng Kong et.al.|[2405.08681](http://arxiv.org/abs/2405.08681)|**[link](https://github.com/kqp1227/sensitive-channel-pruning)**|
 |**2024-05-14**|**Beyond the Black Box: Do More Complex Models Provide Superior XAI Explanations?**|Mateusz Cedro et.al.|[2405.08658](http://arxiv.org/abs/2405.08658)|null|
@@ -3972,7 +3972,7 @@
 |**2024-03-29**|**Sound event localization and classification using WASN in Outdoor Environment**|Dongzhe Zhang et.al.|[2403.20130](http://arxiv.org/abs/2403.20130)|null|
 |**2024-03-29**|**ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning**|Beomyoung Kim et.al.|[2403.20126](http://arxiv.org/abs/2403.20126)|**[link](https://github.com/clovaai/ECLIPSE)**|
 |**2024-03-29**|**Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring**|Hu Gao et.al.|[2403.20106](http://arxiv.org/abs/2403.20106)|**[link](https://github.com/Tombs98/ALGNet)**|
-|**2024-03-29**|**Colorful Cutout: Enhancing Image Data Augmentation with Curriculum Learning**|Juhwan Choi et.al.|[2403.20012](http://arxiv.org/abs/2403.20012)|null|
+|**2024-03-29**|**Colorful Cutout: Enhancing Image Data Augmentation with Curriculum Learning**|Juhwan Choi et.al.|[2403.20012](http://arxiv.org/abs/2403.20012)|**[link](https://github.com/c-juhwan/colorful-cutout-aug)**|
 |**2024-03-29**|**DeepHeteroIoT: Deep Local and Global Learning over Heterogeneous IoT Sensor Data**|Muhammad Sakib Khan Inan et.al.|[2403.19996](http://arxiv.org/abs/2403.19996)|null|
 |**2024-03-29**|**Multi-task Magnetic Resonance Imaging Reconstruction using Meta-learning**|Wanyu Bian et.al.|[2403.19966](http://arxiv.org/abs/2403.19966)|null|
 |**2024-03-29**|**FairCLIP: Harnessing Fairness in Vision-Language Learning**|Yan Luo et.al.|[2403.19949](http://arxiv.org/abs/2403.19949)|**[link](https://github.com/Harvard-Ophthalmology-AI-Lab/FairCLIP)**|
