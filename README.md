@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -157,7 +157,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 ## DDI
 
@@ -270,7 +270,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 ## MG
 
@@ -404,7 +404,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 ## MPP
 
@@ -547,7 +547,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 ## MD
 
@@ -585,7 +585,7 @@
 |**2024-07-20**|**Disentangling Electronic and Phononic Thermal Transport Across 2D Interfaces**|Linxin Zhai et.al.|[2407.14898](http://arxiv.org/abs/2407.14898)|null|
 |**2024-07-20**|**mdCATH: A Large-Scale MD Dataset for Data-Driven Computational Biophysics**|Antonio Mirarchi et.al.|[2407.14794](http://arxiv.org/abs/2407.14794)|null|
 |**2024-07-19**|**Examining composition-dependent radiation response in AlGaN**|Miaomiao Jin et.al.|[2407.14456](http://arxiv.org/abs/2407.14456)|null|
-|**2024-07-19**|**Coarse-graining bistability with the Martini force field**|Alexander D. Muratov et.al.|[2407.14440](http://arxiv.org/abs/2407.14440)|null|
+|**2024-08-06**|**Coarse-graining bistability with the Martini force field**|Alexander D. Muratov et.al.|[2407.14440](http://arxiv.org/abs/2407.14440)|null|
 |**2024-07-19**|**On the Edge Roughness of Two-Dimensional Materials**|Pengjie Shi et.al.|[2407.14134](http://arxiv.org/abs/2407.14134)|null|
 |**2024-07-19**|**On the microscopic structure of neat linear alkylamine liquids: an x-ray scattering and computer simulation study**|Martina Požar et.al.|[2407.14096](http://arxiv.org/abs/2407.14096)|null|
 |**2024-07-18**|**Surface roughening in nanoparticle catalysts**|Cameron J. Owen et.al.|[2407.13643](http://arxiv.org/abs/2407.13643)|null|
@@ -860,7 +860,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 ## Transformer
 
@@ -887,7 +887,7 @@
 |**2024-08-04**|**Decide: Knowledge-Based Version Incompatibility Detection in Deep Learning Stacks**|Zihan Zhou et.al.|[2408.02133](http://arxiv.org/abs/2408.02133)|null|
 |**2024-08-04**|**Exploring Damping Properties of IRIS Bright Points using Deep Learning Techniques**|E. Tavabi et.al.|[2408.02124](http://arxiv.org/abs/2408.02124)|null|
 |**2024-08-04**|**Understanding Deep Learning via Notions of Rank**|Noam Razin et.al.|[2408.02111](http://arxiv.org/abs/2408.02111)|null|
-|**2024-08-04**|**Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models**|Yulei Qin et.al.|[2408.02085](http://arxiv.org/abs/2408.02085)|null|
+|**2024-08-06**|**Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models**|Yulei Qin et.al.|[2408.02085](http://arxiv.org/abs/2408.02085)|null|
 |**2024-08-04**|**PromptSAM+: Malware Detection based on Prompt Segment Anything Model**|Xingyuan Wei et.al.|[2408.02066](http://arxiv.org/abs/2408.02066)|null|
 |**2024-08-04**|**DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation**|Qinshuo Liu et.al.|[2408.02045](http://arxiv.org/abs/2408.02045)|null|
 |**2024-08-04**|**Deep Spectral Methods for Unsupervised Ultrasound Image Interpretation**|Oleksandra Tmenova et.al.|[2408.02043](http://arxiv.org/abs/2408.02043)|null|
@@ -895,7 +895,7 @@
 |**2024-08-04**|**SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning**|Biqing Qi et.al.|[2408.01970](http://arxiv.org/abs/2408.01970)|null|
 |**2024-08-04**|**A multi-task deep learning approach for lane-level pavement performance prediction with segment-level data**|Bo Wang et.al.|[2408.01967](http://arxiv.org/abs/2408.01967)|null|
 |**2024-08-04**|**RobNODDI: Robust NODDI Parameter Estimation with Adaptive Sampling under Continuous Representation**|Taohui Xiao et.al.|[2408.01944](http://arxiv.org/abs/2408.01944)|null|
-|**2024-08-04**|**A Survey and Evaluation of Adversarial Attacks for Object Detection**|Khoi Nguyen Tiet Nguyen et.al.|[2408.01934](http://arxiv.org/abs/2408.01934)|null|
+|**2024-08-06**|**A Survey and Evaluation of Adversarial Attacks for Object Detection**|Khoi Nguyen Tiet Nguyen et.al.|[2408.01934](http://arxiv.org/abs/2408.01934)|null|
 |**2024-08-04**|**Advancing H&E-to-IHC Stain Translation in Breast Cancer: A Multi-Magnification and Attention-Based Approach**|Linhao Qu et.al.|[2408.01929](http://arxiv.org/abs/2408.01929)|null|
 |**2024-08-03**|**State-dependent Filtering of the Ring Model**|Jing Yan et.al.|[2408.01817](http://arxiv.org/abs/2408.01817)|null|
 |**2024-08-03**|**ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features**|Peng Cheng et.al.|[2408.01808](http://arxiv.org/abs/2408.01808)|null|
@@ -4366,7 +4366,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 ## Binding
 
@@ -4516,7 +4516,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -4544,7 +4544,7 @@
 |**2024-05-22**|**Discovering Abstract Symbolic Relations by Learning Unitary Group Representations**|Dongsung Huh et.al.|[2402.17002](http://arxiv.org/abs/2402.17002)|null|
 |**2024-06-06**|**Position: Categorical Deep Learning is an Algebraic Theory of All Architectures**|Bruno Gavranović et.al.|[2402.15332](http://arxiv.org/abs/2402.15332)|null|
 |**2024-06-05**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
-|**2024-05-30**|**Position: Topological Deep Learning is the New Frontier for Relational Learning**|Theodore Papamarkou et.al.|[2402.08871](http://arxiv.org/abs/2402.08871)|null|
+|**2024-08-06**|**Position: Topological Deep Learning is the New Frontier for Relational Learning**|Theodore Papamarkou et.al.|[2402.08871](http://arxiv.org/abs/2402.08871)|null|
 |**2024-07-08**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836](http://arxiv.org/abs/2402.04836)|**[link](https://github.com/GraphPKU/GeoNGNN)**|
 |**2024-02-19**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821](http://arxiv.org/abs/2402.04821)|**[link](https://github.com/hysonlab/equimesh)**|
 |**2024-01-26**|**Adaptive Point Transformer**|Alessandro Baiocchi et.al.|[2401.14845](http://arxiv.org/abs/2401.14845)|null|
@@ -4642,7 +4642,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

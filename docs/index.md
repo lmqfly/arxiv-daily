@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -567,7 +567,7 @@ layout: default
 |**2024-07-20**|**Disentangling Electronic and Phononic Thermal Transport Across 2D Interfaces**|Linxin Zhai et.al.|[2407.14898](http://arxiv.org/abs/2407.14898)|null|
 |**2024-07-20**|**mdCATH: A Large-Scale MD Dataset for Data-Driven Computational Biophysics**|Antonio Mirarchi et.al.|[2407.14794](http://arxiv.org/abs/2407.14794)|null|
 |**2024-07-19**|**Examining composition-dependent radiation response in AlGaN**|Miaomiao Jin et.al.|[2407.14456](http://arxiv.org/abs/2407.14456)|null|
-|**2024-07-19**|**Coarse-graining bistability with the Martini force field**|Alexander D. Muratov et.al.|[2407.14440](http://arxiv.org/abs/2407.14440)|null|
+|**2024-08-06**|**Coarse-graining bistability with the Martini force field**|Alexander D. Muratov et.al.|[2407.14440](http://arxiv.org/abs/2407.14440)|null|
 |**2024-07-19**|**On the Edge Roughness of Two-Dimensional Materials**|Pengjie Shi et.al.|[2407.14134](http://arxiv.org/abs/2407.14134)|null|
 |**2024-07-19**|**On the microscopic structure of neat linear alkylamine liquids: an x-ray scattering and computer simulation study**|Martina Požar et.al.|[2407.14096](http://arxiv.org/abs/2407.14096)|null|
 |**2024-07-18**|**Surface roughening in nanoparticle catalysts**|Cameron J. Owen et.al.|[2407.13643](http://arxiv.org/abs/2407.13643)|null|
@@ -867,7 +867,7 @@ layout: default
 |**2024-08-04**|**Decide: Knowledge-Based Version Incompatibility Detection in Deep Learning Stacks**|Zihan Zhou et.al.|[2408.02133](http://arxiv.org/abs/2408.02133)|null|
 |**2024-08-04**|**Exploring Damping Properties of IRIS Bright Points using Deep Learning Techniques**|E. Tavabi et.al.|[2408.02124](http://arxiv.org/abs/2408.02124)|null|
 |**2024-08-04**|**Understanding Deep Learning via Notions of Rank**|Noam Razin et.al.|[2408.02111](http://arxiv.org/abs/2408.02111)|null|
-|**2024-08-04**|**Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models**|Yulei Qin et.al.|[2408.02085](http://arxiv.org/abs/2408.02085)|null|
+|**2024-08-06**|**Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models**|Yulei Qin et.al.|[2408.02085](http://arxiv.org/abs/2408.02085)|null|
 |**2024-08-04**|**PromptSAM+: Malware Detection based on Prompt Segment Anything Model**|Xingyuan Wei et.al.|[2408.02066](http://arxiv.org/abs/2408.02066)|null|
 |**2024-08-04**|**DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation**|Qinshuo Liu et.al.|[2408.02045](http://arxiv.org/abs/2408.02045)|null|
 |**2024-08-04**|**Deep Spectral Methods for Unsupervised Ultrasound Image Interpretation**|Oleksandra Tmenova et.al.|[2408.02043](http://arxiv.org/abs/2408.02043)|null|
@@ -875,7 +875,7 @@ layout: default
 |**2024-08-04**|**SR-CIS: Self-Reflective Incremental System with Decoupled Memory and Reasoning**|Biqing Qi et.al.|[2408.01970](http://arxiv.org/abs/2408.01970)|null|
 |**2024-08-04**|**A multi-task deep learning approach for lane-level pavement performance prediction with segment-level data**|Bo Wang et.al.|[2408.01967](http://arxiv.org/abs/2408.01967)|null|
 |**2024-08-04**|**RobNODDI: Robust NODDI Parameter Estimation with Adaptive Sampling under Continuous Representation**|Taohui Xiao et.al.|[2408.01944](http://arxiv.org/abs/2408.01944)|null|
-|**2024-08-04**|**A Survey and Evaluation of Adversarial Attacks for Object Detection**|Khoi Nguyen Tiet Nguyen et.al.|[2408.01934](http://arxiv.org/abs/2408.01934)|null|
+|**2024-08-06**|**A Survey and Evaluation of Adversarial Attacks for Object Detection**|Khoi Nguyen Tiet Nguyen et.al.|[2408.01934](http://arxiv.org/abs/2408.01934)|null|
 |**2024-08-04**|**Advancing H&E-to-IHC Stain Translation in Breast Cancer: A Multi-Magnification and Attention-Based Approach**|Linhao Qu et.al.|[2408.01929](http://arxiv.org/abs/2408.01929)|null|
 |**2024-08-03**|**State-dependent Filtering of the Ring Model**|Jing Yan et.al.|[2408.01817](http://arxiv.org/abs/2408.01817)|null|
 |**2024-08-03**|**ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features**|Peng Cheng et.al.|[2408.01808](http://arxiv.org/abs/2408.01808)|null|
@@ -4520,7 +4520,7 @@ layout: default
 |**2024-05-22**|**Discovering Abstract Symbolic Relations by Learning Unitary Group Representations**|Dongsung Huh et.al.|[2402.17002](http://arxiv.org/abs/2402.17002)|null|
 |**2024-06-06**|**Position: Categorical Deep Learning is an Algebraic Theory of All Architectures**|Bruno Gavranović et.al.|[2402.15332](http://arxiv.org/abs/2402.15332)|null|
 |**2024-06-05**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
-|**2024-05-30**|**Position: Topological Deep Learning is the New Frontier for Relational Learning**|Theodore Papamarkou et.al.|[2402.08871](http://arxiv.org/abs/2402.08871)|null|
+|**2024-08-06**|**Position: Topological Deep Learning is the New Frontier for Relational Learning**|Theodore Papamarkou et.al.|[2402.08871](http://arxiv.org/abs/2402.08871)|null|
 |**2024-07-08**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836](http://arxiv.org/abs/2402.04836)|**[link](https://github.com/GraphPKU/GeoNGNN)**|
 |**2024-02-19**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821](http://arxiv.org/abs/2402.04821)|**[link](https://github.com/hysonlab/equimesh)**|
 |**2024-01-26**|**Adaptive Point Transformer**|Alessandro Baiocchi et.al.|[2401.14845](http://arxiv.org/abs/2401.14845)|null|
