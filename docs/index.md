@@ -535,6 +535,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**relentless: Transparent, reproducible molecular dynamics simulations for optimization**|Adithya N Sreenivasan et.al.|[2408.03213](http://arxiv.org/abs/2408.03213)|null|
 |**2024-08-05**|**A Reverse Non-Equilibrium Molecular Dynamics (RNEMD) Algorithm for Coupled Mass and Heat Transport in Mixtures**|Cody R. Drisko et.al.|[2408.02621](http://arxiv.org/abs/2408.02621)|null|
 |**2024-08-04**|**Three-phase equilibria of hydrates from computer simulation. II. Finite-size effects in the carbon dioxide hydrate**|J. Algaba et.al.|[2408.02069](http://arxiv.org/abs/2408.02069)|null|
 |**2024-08-04**|**Computational Self-Assembly of a Six-Fold Chiral Quasicrystal**|Nydia Roxana Varela-Rosales et.al.|[2408.01984](http://arxiv.org/abs/2408.01984)|null|
@@ -846,6 +847,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Hedge Fund Portfolio Construction Using PolyModel Theory and iTransformer**|Siqiao Zhao et.al.|[2408.03320](http://arxiv.org/abs/2408.03320)|null|
+|**2024-08-06**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
+|**2024-08-06**|**Don't Think It Twice: Exploit Shift Invariance for Efficient Online Streaming Inference of CNNs**|Christodoulos Kechris et.al.|[2408.03223](http://arxiv.org/abs/2408.03223)|null|
+|**2024-08-06**|**Evaluating the Translation Performance of Large Language Models Based on Euas-20**|Yan Huang et.al.|[2408.03119](http://arxiv.org/abs/2408.03119)|null|
+|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|null|
+|**2024-08-06**|**Fast Whole-Brain MR Multi-Parametric Mapping with Scan-Specific Self-Supervised Networks**|Amir Heydari et.al.|[2408.02988](http://arxiv.org/abs/2408.02988)|null|
+|**2024-08-06**|**Kolmogorov-Arnold PointNet: Deep learning for prediction of fluid fields on irregular geometries**|Ali Kashefi et.al.|[2408.02950](http://arxiv.org/abs/2408.02950)|null|
+|**2024-08-06**|**Learned Trimmed-Ridge Regression for Channel Estimation in Millimeter-Wave Massive MIMO**|Pengxia Wu et.al.|[2408.02934](http://arxiv.org/abs/2408.02934)|null|
+|**2024-08-06**|**HARMONIC: Harnessing LLMs for Tabular Data Synthesis and Privacy Protection**|Yuxin Wang et.al.|[2408.02927](http://arxiv.org/abs/2408.02927)|null|
+|**2024-08-06**|**Enabling Intelligent Traffic Systems: A Deep Learning Method for Accurate Arabic License Plate Recognition**|M. A. Sayedelahl et.al.|[2408.02904](http://arxiv.org/abs/2408.02904)|null|
+|**2024-08-06**|**A Metric Driven Approach to Mixed Precision Training**|Mitchelle Rasquinha et.al.|[2408.02897](http://arxiv.org/abs/2408.02897)|null|
+|**2024-08-06**|**VizECGNet: Visual ECG Image Network for Cardiovascular Diseases Classification with Multi-Modal Training and Knowledge Distillation**|Ju-Hyeon Nam et.al.|[2408.02888](http://arxiv.org/abs/2408.02888)|null|
+|**2024-08-05**|**SIG-BSDE for Dynamic Risk Measures**|Nacira Agram et.al.|[2408.02853](http://arxiv.org/abs/2408.02853)|null|
+|**2024-08-05**|**Heterogeneous graph attention network improves cancer multiomics integration**|Sina Tabakhi et.al.|[2408.02845](http://arxiv.org/abs/2408.02845)|null|
+|**2024-08-05**|**Interpretation of the Intent Detection Problem as Dynamics in a Low-dimensional Space**|Eduardo Sanchez-Karhunen et.al.|[2408.02838](http://arxiv.org/abs/2408.02838)|null|
+|**2024-08-05**|**DaCapo: a modular deep learning framework for scalable 3D image segmentation**|William Patton et.al.|[2408.02834](http://arxiv.org/abs/2408.02834)|null|
+|**2024-08-05**|**Sparse Deep Learning Models with the $\ell_1$ Regularization**|Lixin Shen et.al.|[2408.02801](http://arxiv.org/abs/2408.02801)|null|
+|**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu et.al.|[2408.02796](http://arxiv.org/abs/2408.02796)|null|
+|**2024-08-05**|**Lesion Elevation Prediction from Skin Images Improves Diagnosis**|Kumar Abhishek et.al.|[2408.02792](http://arxiv.org/abs/2408.02792)|null|
+|**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766](http://arxiv.org/abs/2408.02766)|null|
+|**2024-08-05**|**Dimensionality Reduction and Nearest Neighbors for Improving Out-of-Distribution Detection in Medical Image Segmentation**|McKell Woodland et.al.|[2408.02761](http://arxiv.org/abs/2408.02761)|null|
+|**2024-08-05**|**MDM: Advancing Multi-Domain Distribution Matching for Automatic Modulation Recognition Dataset Synthesis**|Dongwei Xu et.al.|[2408.02714](http://arxiv.org/abs/2408.02714)|null|
+|**2024-08-05**|**Scribble-Based Interactive Segmentation of Medical Hyperspectral Images**|Zhonghao Wang et.al.|[2408.02708](http://arxiv.org/abs/2408.02708)|null|
+|**2024-08-05**|**Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**|Masoud Muhammed Hassan et.al.|[2408.02706](http://arxiv.org/abs/2408.02706)|null|
+|**2024-08-02**|**A Systematic Review of Intermediate Fusion in Multimodal Deep Learning for Biomedical Applications**|Valerio Guarrasi et.al.|[2408.02686](http://arxiv.org/abs/2408.02686)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
 |**2024-08-05**|**LMEMs for post-hoc analysis of HPO Benchmarking**|Anton Geburek et.al.|[2408.02533](http://arxiv.org/abs/2408.02533)|null|
 |**2024-08-05**|**Acoustic Impedance Prediction Using an Attention-Based Dual-Branch Double-Inversion Network**|Wen Feng et.al.|[2408.02524](http://arxiv.org/abs/2408.02524)|null|
