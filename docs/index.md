@@ -394,6 +394,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-27**|**Graph Residual based Method for Molecular Property Prediction**|Kanad Sen et.al.|[2408.03342](http://arxiv.org/abs/2408.03342)|null|
 |**2024-07-09**|**MolTRES: Improving Chemical Language Representation Learning for Molecular Property Prediction**|Jun-Hyung Park et.al.|[2408.01426](http://arxiv.org/abs/2408.01426)|null|
 |**2024-08-02**|**GNN-MolKAN: Harnessing the Power of KAN to Advance Molecular Representation Learning with GNNs**|Ruifeng Li et.al.|[2408.01018](http://arxiv.org/abs/2408.01018)|null|
 |**2024-07-30**|**Distribution Learning for Molecular Regression**|Nima Shoghi et.al.|[2407.20475](http://arxiv.org/abs/2407.20475)|null|
@@ -535,6 +536,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Molecular dynamics characterization of the free and encapsidated RNA2 of CCMV with the oxRNA model**|Giovanni Mattiotti et.al.|[2408.03662](http://arxiv.org/abs/2408.03662)|null|
 |**2024-08-06**|**relentless: Transparent, reproducible molecular dynamics simulations for optimization**|Adithya N Sreenivasan et.al.|[2408.03213](http://arxiv.org/abs/2408.03213)|null|
 |**2024-08-05**|**A Reverse Non-Equilibrium Molecular Dynamics (RNEMD) Algorithm for Coupled Mass and Heat Transport in Mixtures**|Cody R. Drisko et.al.|[2408.02621](http://arxiv.org/abs/2408.02621)|null|
 |**2024-08-04**|**Three-phase equilibria of hydrates from computer simulation. II. Finite-size effects in the carbon dioxide hydrate**|J. Algaba et.al.|[2408.02069](http://arxiv.org/abs/2408.02069)|null|
@@ -847,6 +849,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Hate Speech Detection and Classification in Amharic Text with Deep Learning**|Samuel Minale Gashe et.al.|[2408.03849](http://arxiv.org/abs/2408.03849)|null|
+|**2024-08-07**|**ImageSI: Semantic Interaction for Deep Learning Image Projections**|Jiayue Lin et.al.|[2408.03845](http://arxiv.org/abs/2408.03845)|null|
+|**2024-08-07**|**Generative Language Models with Retrieval Augmented Generation for Automated Short Answer Scoring**|Zifan Wang et.al.|[2408.03811](http://arxiv.org/abs/2408.03811)|null|
+|**2024-08-07**|**Methodological Explainability Evaluation of an Interpretable Deep Learning Model for Post-Hepatectomy Liver Failure Prediction Incorporating Counterfactual Explanations and Layerwise Relevance Propagation: A Prospective In Silico Trial**|Xian Zhong et.al.|[2408.03771](http://arxiv.org/abs/2408.03771)|null|
+|**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
+|**2024-08-07**|**Soft-Hard Attention U-Net Model and Benchmark Dataset for Multiscale Image Shadow Removal**|Eirini Cholopoulou et.al.|[2408.03734](http://arxiv.org/abs/2408.03734)|null|
+|**2024-08-07**|**Generative Design of Periodic Orbits in the Restricted Three-Body Problem**|Alvaro Francisco Gil et.al.|[2408.03691](http://arxiv.org/abs/2408.03691)|null|
+|**2024-08-07**|**Real-time Event Recognition of Long-distance Distributed Vibration Sensing with Knowledge Distillation and Hardware Acceleration**|Zhongyao Luo et.al.|[2408.03647](http://arxiv.org/abs/2408.03647)|null|
+|**2024-08-07**|**Weakly Contrastive Learning via Batch Instance Discrimination and Feature Clustering for Small Sample SAR ATR**|Yikui Zhai et.al.|[2408.03627](http://arxiv.org/abs/2408.03627)|**[link](https://github.com/wenlve-zhou/bidfc-master)**|
+|**2024-08-07**|**HistoSPACE: Histology-Inspired Spatial Transcriptome Prediction And Characterization Engine**|Shivam Kumar et.al.|[2408.03592](http://arxiv.org/abs/2408.03592)|null|
+|**2024-08-07**|**Deep-learning-based electrode action potential mapping (DEAP Mapping) from annotation-free unipolar electrogram**|Hiroshi Seno et.al.|[2408.03589](http://arxiv.org/abs/2408.03589)|null|
+|**2024-08-07**|**A comparative study of generative adversarial networks for image recognition algorithms based on deep learning and traditional methods**|Yihao Zhong et.al.|[2408.03568](http://arxiv.org/abs/2408.03568)|null|
+|**2024-08-07**|**Underwater litter monitoring using consumer-grade aerial-aquatic speedy scanner (AASS) and deep learning based super-resolution reconstruction and detection network**|Fan Zhao et.al.|[2408.03564](http://arxiv.org/abs/2408.03564)|null|
+|**2024-08-07**|**Monitoring of Hermit Crabs Using drone-captured imagery and Deep Learning based Super-Resolution Reconstruction and Improved YOLOv8**|Fan Zhao et.al.|[2408.03559](http://arxiv.org/abs/2408.03559)|null|
+|**2024-08-07**|**AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System**|Kuan Xu et.al.|[2408.03520](http://arxiv.org/abs/2408.03520)|null|
+|**2024-08-07**|**GUI Element Detection Using SOTA YOLO Deep Learning Models**|Seyed Shayan Daneshvar et.al.|[2408.03507](http://arxiv.org/abs/2408.03507)|null|
+|**2024-08-07**|**FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks**|Ruiqi Wang et.al.|[2408.03499](http://arxiv.org/abs/2408.03499)|**[link](https://github.com/volatileee/facialpulse)**|
+|**2024-08-07**|**Sub-Resolution mmWave FMCW Radar-based Touch Localization using Deep Learning**|Raghunandan M. Rao et.al.|[2408.03485](http://arxiv.org/abs/2408.03485)|null|
+|**2024-08-06**|**Advancing EEG-Based Gaze Prediction Using Depthwise Separable Convolution and Enhanced Pre-Processing**|Matthew L Key et.al.|[2408.03480](http://arxiv.org/abs/2408.03480)|null|
+|**2024-08-06**|**An Interactive Augmented Reality Interface for Personalized Proxemics Modeling**|Massimiliano Nigro et.al.|[2408.03453](http://arxiv.org/abs/2408.03453)|null|
+|**2024-08-06**|**Post-Mortem Human Iris Segmentation Analysis with Deep Learning**|Afzal Hossain et.al.|[2408.03448](http://arxiv.org/abs/2408.03448)|null|
+|**2024-08-06**|**LLM-Aided Compilation for Tensor Accelerators**|Charles Hong et.al.|[2408.03408](http://arxiv.org/abs/2408.03408)|null|
+|**2024-08-06**|**RHiOTS: A Framework for Evaluating Hierarchical Time Series Forecasting Algorithms**|Luis Roque et.al.|[2408.03399](http://arxiv.org/abs/2408.03399)|null|
+|**2024-08-06**|**HeTraX: Energy Efficient 3D Heterogeneous Manycore Architecture for Transformer Acceleration**|Pratyush Dhingra et.al.|[2408.03397](http://arxiv.org/abs/2408.03397)|null|
+|**2024-08-06**|**Biomedical Image Segmentation: A Systematic Literature Review of Deep Learning Based Object Detection Methods**|Fazli Wahid et.al.|[2408.03393](http://arxiv.org/abs/2408.03393)|null|
 |**2024-08-06**|**Hedge Fund Portfolio Construction Using PolyModel Theory and iTransformer**|Siqiao Zhao et.al.|[2408.03320](http://arxiv.org/abs/2408.03320)|null|
 |**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
 |**2024-08-06**|**Don't Think It Twice: Exploit Shift Invariance for Efficient Online Streaming Inference of CNNs**|Christodoulos Kechris et.al.|[2408.03223](http://arxiv.org/abs/2408.03223)|null|
