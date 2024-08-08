@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -848,7 +848,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-06**|**Hedge Fund Portfolio Construction Using PolyModel Theory and iTransformer**|Siqiao Zhao et.al.|[2408.03320](http://arxiv.org/abs/2408.03320)|null|
-|**2024-08-06**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
+|**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
 |**2024-08-06**|**Don't Think It Twice: Exploit Shift Invariance for Efficient Online Streaming Inference of CNNs**|Christodoulos Kechris et.al.|[2408.03223](http://arxiv.org/abs/2408.03223)|null|
 |**2024-08-06**|**Evaluating the Translation Performance of Large Language Models Based on Euas-20**|Yan Huang et.al.|[2408.03119](http://arxiv.org/abs/2408.03119)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|null|
@@ -862,12 +862,12 @@ layout: default
 |**2024-08-05**|**SIG-BSDE for Dynamic Risk Measures**|Nacira Agram et.al.|[2408.02853](http://arxiv.org/abs/2408.02853)|null|
 |**2024-08-05**|**Heterogeneous graph attention network improves cancer multiomics integration**|Sina Tabakhi et.al.|[2408.02845](http://arxiv.org/abs/2408.02845)|null|
 |**2024-08-05**|**Interpretation of the Intent Detection Problem as Dynamics in a Low-dimensional Space**|Eduardo Sanchez-Karhunen et.al.|[2408.02838](http://arxiv.org/abs/2408.02838)|null|
-|**2024-08-05**|**DaCapo: a modular deep learning framework for scalable 3D image segmentation**|William Patton et.al.|[2408.02834](http://arxiv.org/abs/2408.02834)|null|
+|**2024-08-05**|**DaCapo: a modular deep learning framework for scalable 3D image segmentation**|William Patton et.al.|[2408.02834](http://arxiv.org/abs/2408.02834)|**[link](https://github.com/janelia-cellmap/dacapo)**|
 |**2024-08-05**|**Sparse Deep Learning Models with the $\ell_1$ Regularization**|Lixin Shen et.al.|[2408.02801](http://arxiv.org/abs/2408.02801)|null|
 |**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu et.al.|[2408.02796](http://arxiv.org/abs/2408.02796)|null|
-|**2024-08-05**|**Lesion Elevation Prediction from Skin Images Improves Diagnosis**|Kumar Abhishek et.al.|[2408.02792](http://arxiv.org/abs/2408.02792)|null|
+|**2024-08-05**|**Lesion Elevation Prediction from Skin Images Improves Diagnosis**|Kumar Abhishek et.al.|[2408.02792](http://arxiv.org/abs/2408.02792)|**[link](https://github.com/sfu-mial/lesionelevation)**|
 |**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766](http://arxiv.org/abs/2408.02766)|null|
-|**2024-08-05**|**Dimensionality Reduction and Nearest Neighbors for Improving Out-of-Distribution Detection in Medical Image Segmentation**|McKell Woodland et.al.|[2408.02761](http://arxiv.org/abs/2408.02761)|null|
+|**2024-08-05**|**Dimensionality Reduction and Nearest Neighbors for Improving Out-of-Distribution Detection in Medical Image Segmentation**|McKell Woodland et.al.|[2408.02761](http://arxiv.org/abs/2408.02761)|**[link](https://github.com/mckellwoodland/dimen_reduce_mahal)**|
 |**2024-08-05**|**MDM: Advancing Multi-Domain Distribution Matching for Automatic Modulation Recognition Dataset Synthesis**|Dongwei Xu et.al.|[2408.02714](http://arxiv.org/abs/2408.02714)|null|
 |**2024-08-05**|**Scribble-Based Interactive Segmentation of Medical Hyperspectral Images**|Zhonghao Wang et.al.|[2408.02708](http://arxiv.org/abs/2408.02708)|null|
 |**2024-08-05**|**Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A Probabilistic Approach to Enhance Accuracy and Interpretability**|Masoud Muhammed Hassan et.al.|[2408.02706](http://arxiv.org/abs/2408.02706)|null|
@@ -877,7 +877,7 @@ layout: default
 |**2024-08-05**|**Acoustic Impedance Prediction Using an Attention-Based Dual-Branch Double-Inversion Network**|Wen Feng et.al.|[2408.02524](http://arxiv.org/abs/2408.02524)|null|
 |**2024-08-05**|**Automatic rating of incomplete hippocampal inversions evaluated across multiple cohorts**|Lisa Hemforth et.al.|[2408.02496](http://arxiv.org/abs/2408.02496)|null|
 |**2024-08-05**|**HyperSpaceX: Radial and Angular Exploration of HyperSpherical Dimensions**|Chiranjeev Chiranjeev et.al.|[2408.02494](http://arxiv.org/abs/2408.02494)|null|
-|**2024-08-05**|**Attenuation-adjusted deep learning of pore defects in 2D radiographs of additive manufacturing powders**|Andreas Bjerregaard et.al.|[2408.02427](http://arxiv.org/abs/2408.02427)|null|
+|**2024-08-05**|**Attenuation-adjusted deep learning of pore defects in 2D radiographs of additive manufacturing powders**|Andreas Bjerregaard et.al.|[2408.02427](http://arxiv.org/abs/2408.02427)|**[link](https://github.com/yhsure/porosity)**|
 |**2024-08-05**|**Inversion of DC Resistivity Data using Physics-Informed Neural Networks**|Rohan Sharma et.al.|[2408.02420](http://arxiv.org/abs/2408.02420)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377](http://arxiv.org/abs/2408.02377)|null|
 |**2024-08-05**|**Optimisation of Pulse Waveforms for Qubit Gates using Deep Learning**|Zachary Fillingham et.al.|[2408.02376](http://arxiv.org/abs/2408.02376)|null|
@@ -893,7 +893,7 @@ layout: default
 |**2024-08-04**|**Decide: Knowledge-Based Version Incompatibility Detection in Deep Learning Stacks**|Zihan Zhou et.al.|[2408.02133](http://arxiv.org/abs/2408.02133)|null|
 |**2024-08-04**|**Exploring Damping Properties of IRIS Bright Points using Deep Learning Techniques**|E. Tavabi et.al.|[2408.02124](http://arxiv.org/abs/2408.02124)|null|
 |**2024-08-04**|**Understanding Deep Learning via Notions of Rank**|Noam Razin et.al.|[2408.02111](http://arxiv.org/abs/2408.02111)|null|
-|**2024-08-06**|**Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models**|Yulei Qin et.al.|[2408.02085](http://arxiv.org/abs/2408.02085)|null|
+|**2024-08-07**|**Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models**|Yulei Qin et.al.|[2408.02085](http://arxiv.org/abs/2408.02085)|**[link](https://github.com/yuleiqin/fantastic-data-engineering)**|
 |**2024-08-04**|**PromptSAM+: Malware Detection based on Prompt Segment Anything Model**|Xingyuan Wei et.al.|[2408.02066](http://arxiv.org/abs/2408.02066)|null|
 |**2024-08-04**|**DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation**|Qinshuo Liu et.al.|[2408.02045](http://arxiv.org/abs/2408.02045)|null|
 |**2024-08-04**|**Deep Spectral Methods for Unsupervised Ultrasound Image Interpretation**|Oleksandra Tmenova et.al.|[2408.02043](http://arxiv.org/abs/2408.02043)|null|
