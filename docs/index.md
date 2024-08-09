@@ -536,6 +536,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Electrical resistivity, thermal conductivity, and viscosity of Fe-H alloys at Earth's core conditions**|Cong Liu et.al.|[2408.04521](http://arxiv.org/abs/2408.04521)|null|
+|**2024-08-08**|**Molecular dynamics simulations of head-on low-velocity collisions between particles**|Yuki Yoshida et.al.|[2408.04164](http://arxiv.org/abs/2408.04164)|null|
+|**2024-08-07**|**Scaling Law of Sim2Real Transfer Learning in Expanding Computational Materials Databases for Real-World Predictions**|Shunya Minami et.al.|[2408.04042](http://arxiv.org/abs/2408.04042)|null|
+|**2024-08-07**|**Structural transitions of calcium carbonate by molecular dynamics simulation**|Elizaveta Sidler et.al.|[2408.04036](http://arxiv.org/abs/2408.04036)|null|
 |**2024-08-07**|**Molecular dynamics characterization of the free and encapsidated RNA2 of CCMV with the oxRNA model**|Giovanni Mattiotti et.al.|[2408.03662](http://arxiv.org/abs/2408.03662)|null|
 |**2024-08-06**|**relentless: Transparent, reproducible molecular dynamics simulations for optimization**|Adithya N Sreenivasan et.al.|[2408.03213](http://arxiv.org/abs/2408.03213)|null|
 |**2024-08-05**|**A Reverse Non-Equilibrium Molecular Dynamics (RNEMD) Algorithm for Coupled Mass and Heat Transport in Mixtures**|Cody R. Drisko et.al.|[2408.02621](http://arxiv.org/abs/2408.02621)|null|
@@ -849,6 +853,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Quantifying the Impact of Population Shift Across Age and Sex for Abdominal Organ Segmentation**|Kate Čevora et.al.|[2408.04610](http://arxiv.org/abs/2408.04610)|null|
+|**2024-08-08**|**Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**|Ravi Ramamoorthi et.al.|[2408.04586](http://arxiv.org/abs/2408.04586)|null|
+|**2024-08-08**|**Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**|Yongzhi Xu et.al.|[2408.04567](http://arxiv.org/abs/2408.04567)|null|
+|**2024-08-08**|**Robust Approximate Characterization of Single-Cell Heterogeneity in Microbial Growth**|Richard D. Paul et.al.|[2408.04501](http://arxiv.org/abs/2408.04501)|**[link](https://jugit.fz-juelich.de/ias-8/multi-stage-growth)**|
+|**2024-08-08**|**Towards Synergistic Deep Learning Models for Volumetric Cirrhotic Liver Segmentation in MRIs**|Vandan Gorade et.al.|[2408.04491](http://arxiv.org/abs/2408.04491)|null|
+|**2024-08-08**|**What could go wrong? Discovering and describing failure modes in computer vision**|Gabriela Csurka et.al.|[2408.04471](http://arxiv.org/abs/2408.04471)|null|
+|**2024-08-08**|**An experimental comparative study of backpropagation and alternatives for training binary neural networks for image classification**|Ben Crulis et.al.|[2408.04460](http://arxiv.org/abs/2408.04460)|null|
+|**2024-08-08**|**FedAD-Bench: A Unified Benchmark for Federated Unsupervised Anomaly Detection in Tabular Data**|Ahmed Anwar et.al.|[2408.04442](http://arxiv.org/abs/2408.04442)|null|
+|**2024-08-08**|**Deep Learning for identifying systolic complexes in SCG traces: a cross-dataset analysis**|Michele Craighero et.al.|[2408.04439](http://arxiv.org/abs/2408.04439)|null|
+|**2024-08-08**|**Detection of Animal Movement from Weather Radar using Self-Supervised Learning**|Mubin Ul Haque et.al.|[2408.04424](http://arxiv.org/abs/2408.04424)|null|
+|**2024-08-08**|**Clutter Classification Using Deep Learning in Multiple Stages**|Ryan Dempsey et.al.|[2408.04407](http://arxiv.org/abs/2408.04407)|null|
+|**2024-08-08**|**Detecting Car Speed using Object Detection and Depth Estimation: A Deep Learning Framework**|Subhasis Dasgupta et.al.|[2408.04360](http://arxiv.org/abs/2408.04360)|null|
+|**2024-08-08**|**Deep Transfer Learning for Kidney Cancer Diagnosis**|Yassine Habchi et.al.|[2408.04318](http://arxiv.org/abs/2408.04318)|null|
+|**2024-08-08**|**Partial Experts Checkpoint: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training**|Weilin Cai et.al.|[2408.04307](http://arxiv.org/abs/2408.04307)|null|
+|**2024-08-08**|**Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach**|Alireza Saber et.al.|[2408.04290](http://arxiv.org/abs/2408.04290)|**[link](https://github.com/amirrezafateh/multi-scale-transformer-pneumonia)**|
+|**2024-08-08**|**Prompt-Assisted Semantic Interference Cancellation on Moderate Interference Channels**|Zian Meng et.al.|[2408.04283](http://arxiv.org/abs/2408.04283)|null|
+|**2024-08-08**|**Stability Analysis of Equivariant Convolutional Representations Through The Lens of Equivariant Multi-layered CKNs**|Soutrik Roy Chowdhury et.al.|[2408.04277](http://arxiv.org/abs/2408.04277)|null|
+|**2024-08-08**|**MMREC: LLM Based Multi-Modal Recommender System**|Jiahao Tian et.al.|[2408.04211](http://arxiv.org/abs/2408.04211)|null|
+|**2024-08-08**|**Uncertainty-Aware Crime Prediction With Spatial Temporal Multivariate Graph Neural Networks**|Zepu Wang et.al.|[2408.04193](http://arxiv.org/abs/2408.04193)|null|
+|**2024-08-08**|**Artificial Intelligence based Approach for Identification and Mitigation of Cyber-Attacks in Wide-Area Control of Power Systems**|Jishnudeep Kar et.al.|[2408.04189](http://arxiv.org/abs/2408.04189)|null|
+|**2024-08-07**|**Exploring RAG-based Vulnerability Augmentation with LLMs**|Seyed Shayan Daneshvar et.al.|[2408.04125](http://arxiv.org/abs/2408.04125)|**[link](https://github.com/VulScribeR/VulScribeR)**|
+|**2024-08-07**|**Combining Neural Architecture Search and Automatic Code Optimization: A Survey**|Inas Bachiri et.al.|[2408.04116](http://arxiv.org/abs/2408.04116)|null|
+|**2024-08-07**|**Decoding Visual Sentiment of Political Imagery**|Olga Gasparyan et.al.|[2408.04103](http://arxiv.org/abs/2408.04103)|null|
+|**2024-08-07**|**Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation**|Yiqing Shen et.al.|[2408.04098](http://arxiv.org/abs/2408.04098)|null|
+|**2024-08-07**|**Toward the Automated Localization of Buggy Mobile App UIs from Bug Descriptions**|Antu Saha et.al.|[2408.04075](http://arxiv.org/abs/2408.04075)|null|
+|**2024-08-07**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065](http://arxiv.org/abs/2408.04065)|null|
+|**2024-08-07**|**PowerPM: Foundation Model for Power Systems**|Shihao Tu et.al.|[2408.04057](http://arxiv.org/abs/2408.04057)|null|
+|**2024-08-07**|**Learning from Noisy Labels for Long-tailed Data via Optimal Transport**|Mengting Li et.al.|[2408.03977](http://arxiv.org/abs/2408.03977)|null|
 |**2024-08-07**|**Hate Speech Detection and Classification in Amharic Text with Deep Learning**|Samuel Minale Gashe et.al.|[2408.03849](http://arxiv.org/abs/2408.03849)|null|
 |**2024-08-07**|**ImageSI: Semantic Interaction for Deep Learning Image Projections**|Jiayue Lin et.al.|[2408.03845](http://arxiv.org/abs/2408.03845)|null|
 |**2024-08-07**|**Generative Language Models with Retrieval Augmented Generation for Automated Short Answer Scoring**|Zifan Wang et.al.|[2408.03811](http://arxiv.org/abs/2408.03811)|null|
