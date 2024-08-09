@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.08
+## Updated on 2024.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -426,7 +426,7 @@ layout: default
 |**2024-04-24**|**ApisTox: a new benchmark dataset for the classification of small molecules toxicity on honey bees**|Jakub Adamczyk et.al.|[2404.16196](http://arxiv.org/abs/2404.16196)|**[link](https://github.com/j-adamczyk/apis_tox_dataset)**|
 |**2024-04-20**|**Transfer Learning for Molecular Property Predictions from Small Data Sets**|Thorren Kirschbaum et.al.|[2404.13393](http://arxiv.org/abs/2404.13393)|null|
 |**2024-04-05**|**Transformers for molecular property prediction: Lessons learned from the past five years**|Afnan Sultan et.al.|[2404.03969](http://arxiv.org/abs/2404.03969)|**[link](https://github.com/volkamerlab/transformers4mpp_review)**|
-|**2024-04-02**|**Generalizable, Fast, and Accurate DeepQSPR with fastprop Part 1: Framework and Benchmarks**|Jackson Burns et.al.|[2404.02058](http://arxiv.org/abs/2404.02058)|**[link](https://github.com/jacksonburns/fastprop)**|
+|**2024-08-07**|**Generalizable, Fast, and Accurate DeepQSPR with fastprop**|Jackson Burns et.al.|[2404.02058](http://arxiv.org/abs/2404.02058)|**[link](https://github.com/jacksonburns/fastprop)**|
 |**2024-03-27**|**A Python library for efficient computation of molecular fingerprints**|Michał Szafarczyk et.al.|[2403.19718](http://arxiv.org/abs/2403.19718)|**[link](https://github.com/arch4ngel21/scikit-fingerprints)**|
 |**2024-03-10**|**Sort & Slice: A Simple and Superior Alternative to Hash-Based Folding for Extended-Connectivity Fingerprints**|Markus Dablander et.al.|[2403.17954](http://arxiv.org/abs/2403.17954)|null|
 |**2024-02-21**|**BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**|Xueliang Zhao et.al.|[2402.13577](http://arxiv.org/abs/2402.13577)|null|
@@ -878,7 +878,7 @@ layout: default
 |**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
 |**2024-08-06**|**Don't Think It Twice: Exploit Shift Invariance for Efficient Online Streaming Inference of CNNs**|Christodoulos Kechris et.al.|[2408.03223](http://arxiv.org/abs/2408.03223)|null|
 |**2024-08-06**|**Evaluating the Translation Performance of Large Language Models Based on Euas-20**|Yan Huang et.al.|[2408.03119](http://arxiv.org/abs/2408.03119)|null|
-|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|null|
+|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|**[link](https://github.com/GuidoManni/BodySLAM)**|
 |**2024-08-06**|**Fast Whole-Brain MR Multi-Parametric Mapping with Scan-Specific Self-Supervised Networks**|Amir Heydari et.al.|[2408.02988](http://arxiv.org/abs/2408.02988)|null|
 |**2024-08-06**|**Kolmogorov-Arnold PointNet: Deep learning for prediction of fluid fields on irregular geometries**|Ali Kashefi et.al.|[2408.02950](http://arxiv.org/abs/2408.02950)|null|
 |**2024-08-06**|**Learned Trimmed-Ridge Regression for Channel Estimation in Millimeter-Wave Massive MIMO**|Pengxia Wu et.al.|[2408.02934](http://arxiv.org/abs/2408.02934)|null|
@@ -4445,7 +4445,7 @@ layout: default
 |**2024-03-07**|**DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization**|Xiangxin Zhou et.al.|[2403.13829](http://arxiv.org/abs/2403.13829)|null|
 |**2024-03-19**|**Elucidating the Nature of $π$ -hydrogen Bonding in Liquid Water and Ammonia**|Krystof Brezina et.al.|[2403.12937](http://arxiv.org/abs/2403.12937)|null|
 |**2024-06-26**|**Stabilizing Policy Gradients for Stochastic Differential Equations via Consistency with Perturbation Process**|Xiangxin Zhou et.al.|[2403.04154](http://arxiv.org/abs/2403.04154)|null|
-|**2024-03-05**|**Transcription factor clusters as information transfer agents**|Rahul Munshi et.al.|[2403.02943](http://arxiv.org/abs/2403.02943)|null|
+|**2024-08-08**|**Transcription factor clusters as information transfer agents**|Rahul Munshi et.al.|[2403.02943](http://arxiv.org/abs/2403.02943)|null|
 |**2024-03-05**|**Drug resistance revealed by in silico deep mutational scanning and mutation tracker**|Dong Chen et.al.|[2403.02603](http://arxiv.org/abs/2403.02603)|**[link](https://github.com/weilabmsu/plformer)**|
 |**2024-03-02**|**A Bayesian Committee Machine Potential for Oxygen-containing Organic Compounds**|Seungwon Kim et.al.|[2403.01158](http://arxiv.org/abs/2403.01158)|null|
 |**2024-01-15**|**Binding-Adaptive Diffusion Models for Structure-Based Drug Design**|Zhilin Huang et.al.|[2402.18583](http://arxiv.org/abs/2402.18583)|**[link](https://github.com/yangling0818/binddm)**|
