@@ -853,6 +853,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Cell Morphology-Guided Small Molecule Generation with GFlowNets**|Stephen Zhewen Lu et.al.|[2408.05196](http://arxiv.org/abs/2408.05196)|**[link](https://github.com/thematrixmaster/omics-guided-gfn)**|
+|**2024-08-09**|**HistoKernel: Whole Slide Image Level Maximum Mean Discrepancy Kernels for Pan-Cancer Predictive Modelling**|Piotr Keller et.al.|[2408.05195](http://arxiv.org/abs/2408.05195)|**[link](https://github.com/pkeller00/histokernel)**|
+|**2024-08-09**|**Weak-Annotation of HAR Datasets using Vision Foundation Models**|Marius Bock et.al.|[2408.05169](http://arxiv.org/abs/2408.05169)|**[link](https://github.com/mariusbock/weak_har)**|
+|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|null|
+|**2024-08-09**|**Hyperbolic Learning with Multimodal Large Language Models**|Paolo Mandica et.al.|[2408.05097](http://arxiv.org/abs/2408.05097)|null|
+|**2024-08-09**|**PriPHiT: Privacy-Preserving Hierarchical Training of Deep Neural Networks**|Yamin Sepehri et.al.|[2408.05092](http://arxiv.org/abs/2408.05092)|null|
+|**2024-08-09**|**RT-Surv: Improving Mortality Prediction After Radiotherapy with Large Language Model Structuring of Large-Scale Unstructured Electronic Health Records**|Sangjoon Park et.al.|[2408.05074](http://arxiv.org/abs/2408.05074)|null|
+|**2024-08-09**|**Integrating Edge Information into Ground Truth for the Segmentation of the Optic Disc and Cup from Fundus Images**|Yoga Sri Varshan V et.al.|[2408.05052](http://arxiv.org/abs/2408.05052)|null|
+|**2024-08-09**|**MIDI-to-Tab: Guitar Tablature Inference via Masked Language Modeling**|Drew Edwards et.al.|[2408.05024](http://arxiv.org/abs/2408.05024)|null|
+|**2024-08-09**|**RadarPillars: Efficient Object Detection from 4D Radar Point Clouds**|Alexander Musiat et.al.|[2408.05020](http://arxiv.org/abs/2408.05020)|null|
+|**2024-08-09**|**XNN: Paradigm Shift in Mitigating Identity Leakage within Cloud-Enabled Deep Learning**|Kaixin Liu et.al.|[2408.04974](http://arxiv.org/abs/2408.04974)|null|
+|**2024-08-09**|**CROCODILE: Causality aids RObustness via COntrastive DIsentangled LEarning**|Gianluca Carloni et.al.|[2408.04949](http://arxiv.org/abs/2408.04949)|**[link](https://github.com/gianlucarloni/crocodile)**|
+|**2024-08-09**|**High-resolution closed-loop seismic inversion network in time-frequency phase mixed domain**|Yingtian Liu et.al.|[2408.04932](http://arxiv.org/abs/2408.04932)|null|
+|**2024-08-09**|**Adversarially Robust Industrial Anomaly Detection Through Diffusion Model**|Yuanpu Cao et.al.|[2408.04839](http://arxiv.org/abs/2408.04839)|null|
+|**2024-08-09**|**On the Geometry of Deep Learning**|Randall Balestriero et.al.|[2408.04809](http://arxiv.org/abs/2408.04809)|null|
+|**2024-08-09**|**Scaling Deep Learning Computation over the Inter-Core Connected Intelligence Processor**|Yiqi Liu et.al.|[2408.04808](http://arxiv.org/abs/2408.04808)|null|
+|**2024-08-09**|**Improved Robustness for Deep Learning-based Segmentation of Multi-Center Myocardial Perfusion MRI Datasets Using Data Adaptive Uncertainty-guided Space-time Analysis**|Dilek M. Yalcinkaya et.al.|[2408.04805](http://arxiv.org/abs/2408.04805)|null|
+|**2024-08-09**|**Extracting Signal Electron Trajectories in the COMET Phase-I Cylindrical Drift Chamber Using Deep Learning**|Fumihiro Kaneko et.al.|[2408.04795](http://arxiv.org/abs/2408.04795)|null|
+|**2024-08-08**|**Deep Learning-based Unsupervised Domain Adaptation via a Unified Model for Prostate Lesion Detection Using Multisite Bi-parametric MRI Datasets**|Hao Li et.al.|[2408.04777](http://arxiv.org/abs/2408.04777)|null|
+|**2024-08-08**|**Data-Driven Pixel Control: Challenges and Prospects**|Saurabh Farkya et.al.|[2408.04767](http://arxiv.org/abs/2408.04767)|null|
+|**2024-08-08**|**Segmentation of Mental Foramen in Orthopantomographs: A Deep Learning Approach**|Haider Raza et.al.|[2408.04763](http://arxiv.org/abs/2408.04763)|null|
+|**2024-08-08**|**Confident magnitude-based neural network pruning**|Joaquin Alvarez et.al.|[2408.04759](http://arxiv.org/abs/2408.04759)|null|
+|**2024-08-08**|**Sequential Hamiltonian Assembly: Enhancing the training of combinatorial optimization problems on quantum computers**|Navid Roshani et.al.|[2408.04751](http://arxiv.org/abs/2408.04751)|null|
+|**2024-08-08**|**Deep learning-based sequential data assimilation for chaotic dynamics identifies local instabilities from single state forecasts**|Marc Bocquet et.al.|[2408.04739](http://arxiv.org/abs/2408.04739)|null|
+|**2024-08-08**|**Quantifying the Corpus Bias Problem in Automatic Music Transcription Systems**|Lukáš Samuel Marták et.al.|[2408.04737](http://arxiv.org/abs/2408.04737)|null|
+|**2024-08-08**|**Exploring Scalability in Large-Scale Time Series in DeepVATS framework**|Inmaculada Santamaria-Valenzuela et.al.|[2408.04692](http://arxiv.org/abs/2408.04692)|**[link](https://github.com/vrodriguezf/deepvats)**|
 |**2024-08-08**|**Quantifying the Impact of Population Shift Across Age and Sex for Abdominal Organ Segmentation**|Kate Čevora et.al.|[2408.04610](http://arxiv.org/abs/2408.04610)|null|
 |**2024-08-08**|**Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**|Ravi Ramamoorthi et.al.|[2408.04586](http://arxiv.org/abs/2408.04586)|null|
 |**2024-08-08**|**Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**|Yongzhi Xu et.al.|[2408.04567](http://arxiv.org/abs/2408.04567)|null|
