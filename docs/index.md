@@ -964,7 +964,7 @@ layout: default
 |**2024-08-04**|**Advancing H&E-to-IHC Stain Translation in Breast Cancer: A Multi-Magnification and Attention-Based Approach**|Linhao Qu et.al.|[2408.01929](http://arxiv.org/abs/2408.01929)|null|
 |**2024-08-03**|**State-dependent Filtering of the Ring Model**|Jing Yan et.al.|[2408.01817](http://arxiv.org/abs/2408.01817)|null|
 |**2024-08-03**|**ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features**|Peng Cheng et.al.|[2408.01808](http://arxiv.org/abs/2408.01808)|null|
-|**2024-08-03**|**NuLite -- Lightweight and Fast Model for Nuclei Instance Segmentation and Classification**|Cristian Tommasino et.al.|[2408.01797](http://arxiv.org/abs/2408.01797)|null|
+|**2024-08-03**|**NuLite -- Lightweight and Fast Model for Nuclei Instance Segmentation and Classification**|Cristian Tommasino et.al.|[2408.01797](http://arxiv.org/abs/2408.01797)|**[link](https://github.com/cosmoiknoslab/nulite)**|
 |**2024-08-03**|**Optimizing Intrusion Detection System Performance Through Synergistic Hyperparameter Tuning and Advanced Data Processing**|Samia Saidane et.al.|[2408.01792](http://arxiv.org/abs/2408.01792)|null|
 |**2024-08-03**|**Comparison of Embedded Spaces for Deep Learning Classification**|Stefan Scholl et.al.|[2408.01767](http://arxiv.org/abs/2408.01767)|null|
 |**2024-08-03**|**Can LLMs predict the convergence of Stochastic Gradient Descent?**|Oussama Zekri et.al.|[2408.01736](http://arxiv.org/abs/2408.01736)|null|
@@ -993,7 +993,7 @@ layout: default
 |**2024-08-02**|**Extracting Object Heights From LiDAR & Aerial Imagery**|Jesus Guerrero et.al.|[2408.00967](http://arxiv.org/abs/2408.00967)|null|
 |**2024-08-01**|**Parkinson's Disease Detection from Resting State EEG using Multi-Head Graph Structure Learning with Gradient Weighted Graph Attention Explanations**|Christopher Neves et.al.|[2408.00906](http://arxiv.org/abs/2408.00906)|null|
 |**2024-08-01**|**Temporal Evolution of Knee Osteoarthritis: A Diffusion-based Morphing Model for X-ray Medical Image Synthesis**|Zhe Wang et.al.|[2408.00891](http://arxiv.org/abs/2408.00891)|null|
-|**2024-08-01**|**Deep Learning Approach for Changepoint Detection: Penalty Parameter Optimization**|Tung L Nguyen et.al.|[2408.00856](http://arxiv.org/abs/2408.00856)|null|
+|**2024-08-01**|**Deep Learning Approach for Changepoint Detection: Penalty Parameter Optimization**|Tung L Nguyen et.al.|[2408.00856](http://arxiv.org/abs/2408.00856)|**[link](https://github.com/lamtung16/ML_ChangepointDetection)**|
 |**2024-08-01**|**A deep learning-enabled smart garment for versatile sleep behaviour monitoring**|Chenyu Tang et.al.|[2408.00753](http://arxiv.org/abs/2408.00753)|null|
 |**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716](http://arxiv.org/abs/2408.00716)|null|
 |**2024-08-01**|**Refinement of genetic variants needs attention**|Omar Abdelwahab et.al.|[2408.00659](http://arxiv.org/abs/2408.00659)|null|
@@ -1024,7 +1024,7 @@ layout: default
 |**2024-07-31**|**PhysFlow: Skin tone transfer for remote heart rate estimation through conditional normalizing flows**|Joaquim Comas et.al.|[2407.21519](http://arxiv.org/abs/2407.21519)|null|
 |**2024-07-31**|**A Simple Low-bit Quantization Framework for Video Snapshot Compressive Imaging**|Miao Cao et.al.|[2407.21517](http://arxiv.org/abs/2407.21517)|null|
 |**2024-07-31**|**Deep Learning-Based Longitudinal Prediction of Childhood Myopia Progression Using Fundus Image Sequences and Baseline Refraction Data**|Mengtian Kang et.al.|[2407.21467](http://arxiv.org/abs/2407.21467)|null|
-|**2024-07-31**|**Enriching thermal point clouds of buildings using semantic 3D building modelsenriching thermal point clouds of buildings using semantic 3D building models**|Jingwei Zhu et.al.|[2407.21436](http://arxiv.org/abs/2407.21436)|null|
+|**2024-07-31**|**Enriching thermal point clouds of buildings using semantic 3D building modelsenriching thermal point clouds of buildings using semantic 3D building models**|Jingwei Zhu et.al.|[2407.21436](http://arxiv.org/abs/2407.21436)|**[link](https://github.com/tum-pf/lod3totcld)**|
 |**2024-07-31**|**Analyzing the impact of semantic LoD3 building models on image-based vehicle localization**|Antonia Bieringer et.al.|[2407.21432](http://arxiv.org/abs/2407.21432)|null|
 |**2024-07-31**|**FTuner: A Fast Dynamic Shape Tensors Program Auto-Tuner for Deep Learning Compilers**|Pengyu Mu et.al.|[2407.21418](http://arxiv.org/abs/2407.21418)|null|
 |**2024-07-31**|**Design and Development of Laughter Recognition System Based on Multimodal Fusion and Deep Learning**|Fuzheng Zhao et.al.|[2407.21391](http://arxiv.org/abs/2407.21391)|null|
@@ -4258,7 +4258,7 @@ layout: default
 |**2024-03-28**|**DeepMachining: Online Prediction of Machining Errors of Lathe Machines**|Xiang-Li Lu et.al.|[2403.16451](http://arxiv.org/abs/2403.16451)|null|
 |**2024-03-25**|**Real-Time Recognition of Vortex Beams Modes Through Random Diffusive at the Speed of Light**|Tong Fu et.al.|[2403.16420](http://arxiv.org/abs/2403.16420)|null|
 |**2024-03-25**|**Ensemble Adversarial Defense via Integration of Multiple Dispersed Low Curvature Models**|Kaikang Zhao et.al.|[2403.16405](http://arxiv.org/abs/2403.16405)|null|
-|**2024-03-25**|**ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation**|Hannah Schieber et.al.|[2403.16400](http://arxiv.org/abs/2403.16400)|null|
+|**2024-03-25**|**ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation**|Hannah Schieber et.al.|[2403.16400](http://arxiv.org/abs/2403.16400)|**[link](https://github.com/roth-hex-lab/asdf)**|
 |**2024-03-25**|**RSTAR: Rotational Streak Artifact Reduction in 4D CBCT using Separable and Circular Convolutions**|Ziheng Deng et.al.|[2403.16361](http://arxiv.org/abs/2403.16361)|null|
 |**2024-03-24**|**Modeling Analog Dynamic Range Compressors using Deep Learning and State-space Models**|Hanzhi Yin et.al.|[2403.16331](http://arxiv.org/abs/2403.16331)|null|
 |**2024-03-26**|**Object Detectors in the Open Environment: Challenges, Solutions, and Outlook**|Siyuan Liang et.al.|[2403.16271](http://arxiv.org/abs/2403.16271)|**[link](https://github.com/liangsiyuan21/oeod_survey)**|
