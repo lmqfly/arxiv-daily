@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.12
+## Updated on 2024.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -904,7 +904,7 @@ layout: default
 |**2024-08-07**|**Decoding Visual Sentiment of Political Imagery**|Olga Gasparyan et.al.|[2408.04103](http://arxiv.org/abs/2408.04103)|null|
 |**2024-08-07**|**Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation**|Yiqing Shen et.al.|[2408.04098](http://arxiv.org/abs/2408.04098)|null|
 |**2024-08-07**|**Toward the Automated Localization of Buggy Mobile App UIs from Bug Descriptions**|Antu Saha et.al.|[2408.04075](http://arxiv.org/abs/2408.04075)|null|
-|**2024-08-07**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065](http://arxiv.org/abs/2408.04065)|null|
+|**2024-08-09**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065](http://arxiv.org/abs/2408.04065)|null|
 |**2024-08-07**|**PowerPM: Foundation Model for Power Systems**|Shihao Tu et.al.|[2408.04057](http://arxiv.org/abs/2408.04057)|null|
 |**2024-08-07**|**Learning from Noisy Labels for Long-tailed Data via Optimal Transport**|Mengting Li et.al.|[2408.03977](http://arxiv.org/abs/2408.03977)|null|
 |**2024-08-07**|**Hate Speech Detection and Classification in Amharic Text with Deep Learning**|Samuel Minale Gashe et.al.|[2408.03849](http://arxiv.org/abs/2408.03849)|null|
