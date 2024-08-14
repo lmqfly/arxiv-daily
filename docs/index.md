@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -622,7 +622,7 @@ layout: default
 |**2024-06-27**|**Exploring the Electronic and Mechanical Properties of TPDH-Nanotube: Insights from Ab initio and Classical Molecular Dynamics Simulations**|Juan Gomez Quispe et.al.|[2406.19536](http://arxiv.org/abs/2406.19536)|null|
 |**2024-06-27**|**Thermal Dynamics of Heat Pipes with Sub-Critical Nanopores**|Sumith Yesudasan et.al.|[2406.19347](http://arxiv.org/abs/2406.19347)|null|
 |**2024-06-30**|**Molecular dynamics simulations of water-ethanol mixtures. I. Composition trends in thermodynamic properties**|D. Benavides Bautista et.al.|[2406.18707](http://arxiv.org/abs/2406.18707)|null|
-|**2024-06-26**|**Computing linear optical spectra of molecules in complex environments on Graphics Processing Units using molecular dynamics simulations and tensor-network approaches**|Evan Lambertson et.al.|[2406.17994](http://arxiv.org/abs/2406.17994)|null|
+|**2024-08-12**|**Computing linear optical spectra in the presence of nonadiabatic effects on Graphics Processing Units using molecular dynamics and tensor-network approaches**|Evan Lambertson et.al.|[2406.17994](http://arxiv.org/abs/2406.17994)|null|
 |**2024-06-26**|**Quasiphase transition of a single-file water chain influenced by atomic charges in water model using orientational-biased replica exchange Monte Carlo simulations**|Liang Zhao et.al.|[2406.17621](http://arxiv.org/abs/2406.17621)|null|
 |**2024-06-25**|**Robust and effective ab initio molecular dynamics simulations on the GPU cloud infrastructure using the Schrödinger Materials Science Suite**|Alexandr Fonari et.al.|[2406.17510](http://arxiv.org/abs/2406.17510)|null|
 |**2024-06-28**|**Irida-Graphene Phonon Thermal Transport via Non-equilibrium Molecular Dynamics Simulations**|Isaac M. Felix et.al.|[2406.15855](http://arxiv.org/abs/2406.15855)|null|
@@ -888,7 +888,7 @@ layout: default
 |**2024-08-11**|**Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas**|Judith Sáinz-Pardo Díaz et.al.|[2408.05761](http://arxiv.org/abs/2408.05761)|null|
 |**2024-08-11**|**VQ-CTAP: Cross-Modal Fine-Grained Sequence Representation Learning for Speech Processing**|Chunyu Qiang et.al.|[2408.05758](http://arxiv.org/abs/2408.05758)|null|
 |**2024-08-11**|**PRECISe : Prototype-Reservation for Explainable Classification under Imbalanced and Scarce-Data Settings**|Vaibhav Ganatra et.al.|[2408.05754](http://arxiv.org/abs/2408.05754)|null|
-|**2024-08-11**|**Neural Architecture Search based Global-local Vision Mamba for Palm-Vein Recognition**|Huafeng Qin et.al.|[2408.05743](http://arxiv.org/abs/2408.05743)|null|
+|**2024-08-13**|**Neural Architecture Search based Global-local Vision Mamba for Palm-Vein Recognition**|Huafeng Qin et.al.|[2408.05743](http://arxiv.org/abs/2408.05743)|null|
 |**2024-08-11**|**Deep Learning with Data Privacy via Residual Perturbation**|Wenqi Tao et.al.|[2408.05723](http://arxiv.org/abs/2408.05723)|null|
 |**2024-08-11**|**TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling**|Ruiquan Ge et.al.|[2408.05705](http://arxiv.org/abs/2408.05705)|**[link](https://github.com/lcbkmm/tc-kanrecon)**|
 |**2024-08-11**|**Predicting Chaotic System Behavior using Machine Learning Techniques**|Huaiyuan Rao et.al.|[2408.05702](http://arxiv.org/abs/2408.05702)|null|
