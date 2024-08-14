@@ -539,6 +539,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Optical line shapes of color centers in solids from classical autocorrelation functions**|Christopher Linderälv et.al.|[2408.06908](http://arxiv.org/abs/2408.06908)|null|
+|**2024-08-13**|**Advancing Nonadiabatic Molecular Dynamics Simulations for Solids: Achieving Supreme Accuracy and Efficiency with Machine Learning**|Changwei Zhang et.al.|[2408.06654](http://arxiv.org/abs/2408.06654)|null|
 |**2024-08-12**|**Thermal Stoner-Wohlfarth Model for Magnetodynamics of Single Domain Nanoparticles: Implementation and Validation**|Deniz Mostarac et.al.|[2408.06136](http://arxiv.org/abs/2408.06136)|null|
 |**2024-08-12**|**Simulating the dynamics of NV^- formation in diamond in the presence of carbon self-interstitials**|Guangzhao Chen et.al.|[2408.05881](http://arxiv.org/abs/2408.05881)|null|
 |**2024-08-11**|**Accurate prediction of structural and mechanical properties on amorphous materials enabled through machine-learning potentials: a case study of silicon nitride**|Ganesh Kumar Nayak et.al.|[2408.05782](http://arxiv.org/abs/2408.05782)|null|
@@ -861,6 +863,40 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
+|**2024-08-13**|**Large-kernel Convolutional Neural Networks for Wide Parameter-Space Searches of Continuous Gravitational Waves**|Prasanna Mohan Joshi et.al.|[2408.07070](http://arxiv.org/abs/2408.07070)|null|
+|**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040](http://arxiv.org/abs/2408.07040)|null|
+|**2024-08-13**|**Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**|D. A. Kaltsas et.al.|[2408.07027](http://arxiv.org/abs/2408.07027)|null|
+|**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
+|**2024-08-13**|**Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning**|Guangliang Pan et.al.|[2408.06870](http://arxiv.org/abs/2408.06870)|null|
+|**2024-08-13**|**A Comprehensive Survey on Synthetic Infrared Image synthesis**|Avinash Upadhyay et.al.|[2408.06868](http://arxiv.org/abs/2408.06868)|null|
+|**2024-08-13**|**Convolutional Neural Networks For Turbulent Model Uncertainty Quantification**|Minghan Chu et.al.|[2408.06864](http://arxiv.org/abs/2408.06864)|null|
+|**2024-08-13**|**Efficient Search for Customized Activation Functions with Gradient Descent**|Lukas Strack et.al.|[2408.06820](http://arxiv.org/abs/2408.06820)|**[link](https://github.com/automl/grafs)**|
+|**2024-08-13**|**Unmasking the Uniqueness: A Glimpse into Age-Invariant Face Recognition of Indigenous African Faces**|Fakunle Ajewole et.al.|[2408.06806](http://arxiv.org/abs/2408.06806)|null|
+|**2024-08-13**|**Deep Learning for Speaker Identification: Architectural Insights from AB-1 Corpus Analysis and Performance Evaluation**|Matthias Bartolo et.al.|[2408.06804](http://arxiv.org/abs/2408.06804)|**[link](https://github.com/mbar0075/speech-technology)**|
+|**2024-08-13**|**Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**|Miao Zhang et.al.|[2408.06772](http://arxiv.org/abs/2408.06772)|null|
+|**2024-08-13**|**Sumotosima: A Framework and Dataset for Classifying and Summarizing Otoscopic Images**|Eram Anwarul Khan et.al.|[2408.06755](http://arxiv.org/abs/2408.06755)|**[link](https://github.com/anas2908/sumotosima)**|
+|**2024-08-13**|**Grasping by Hanging: a Learning-Free Grasping Detection Method for Previously Unseen Objects**|Wanze Li et.al.|[2408.06734](http://arxiv.org/abs/2408.06734)|null|
+|**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701](http://arxiv.org/abs/2408.06701)|null|
+|**2024-08-13**|**Physics Informed Deep Learning for Strain Gradient Continuum Plasticity**|Ankit Tyagi et.al.|[2408.06657](http://arxiv.org/abs/2408.06657)|null|
+|**2024-08-13**|**Attention Based Feature Fusion Network for Monkeypox Skin Lesion Detection**|Niloy Kumar Kundu et.al.|[2408.06640](http://arxiv.org/abs/2408.06640)|null|
+|**2024-08-13**|**Fast Information Streaming Handler (FisH): A Unified Seismic Neural Network for Single Station Real-Time Earthquake Early Warning**|Tianning Zhang et.al.|[2408.06629](http://arxiv.org/abs/2408.06629)|null|
+|**2024-08-13**|**Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection**|Alex Koran et.al.|[2408.06620](http://arxiv.org/abs/2408.06620)|null|
+|**2024-08-13**|**Deep Inertia $L_p$ Half-Quadratic Splitting Unrolling Network for Sparse View CT Reconstruction**|Yu Guo et.al.|[2408.06600](http://arxiv.org/abs/2408.06600)|null|
+|**2024-08-13**|**Optimal Preprocessing for Joint Detection and Classification of Wireless Communication Signals in Congested Spectrum Using Computer Vision Methods**|Xiwen Kang et.al.|[2408.06545](http://arxiv.org/abs/2408.06545)|null|
+|**2024-08-12**|**Benchmarking tree species classification from proximally-sensed laser scanning data: introducing the FOR-species20K dataset**|Stefano Puliti et.al.|[2408.06507](http://arxiv.org/abs/2408.06507)|null|
+|**2024-08-12**|**Implicit Neural Representation For Accurate CFD Flow Field Prediction**|Laurent de Vito et.al.|[2408.06486](http://arxiv.org/abs/2408.06486)|null|
+|**2024-08-12**|**FoVNet: Configurable Field-of-View Speech Enhancement with Low Computation and Distortion for Smart Glasses**|Zhongweiyang Xu et.al.|[2408.06468](http://arxiv.org/abs/2408.06468)|null|
+|**2024-08-12**|**Generalization Enhancement Strategies to Enable Cross-year Cropland Mapping with Convolutional Neural Networks Trained Using Historical Samples**|Sam Khallaghi et.al.|[2408.06467](http://arxiv.org/abs/2408.06467)|**[link](https://github.com/agroimpacts/cnn-generalization-enhancement)**|
+|**2024-08-12**|**InfLocNet: Enhanced Lung Infection Localization and Disease Detection from Chest X-Ray Images Using Lightweight Deep Learning**|Md. Asiful Islam Miah et.al.|[2408.06459](http://arxiv.org/abs/2408.06459)|null|
+|**2024-08-12**|**Advanced Vision Transformers and Open-Set Learning for Robust Mosquito Classification: A Novel Approach to Entomological Studies**|Ahmed Akib Jawad Karim et.al.|[2408.06457](http://arxiv.org/abs/2408.06457)|null|
+|**2024-08-12**|**Wireless Channel Aware Data Augmentation Methods for Deep Leaning-Based Indoor Localization**|Omer Gokalp Serbetci et.al.|[2408.06452](http://arxiv.org/abs/2408.06452)|null|
+|**2024-08-12**|**Large Language Models for Secure Code Assessment: A Multi-Language Empirical Study**|Kohei Dozono et.al.|[2408.06428](http://arxiv.org/abs/2408.06428)|null|
+|**2024-08-12**|**Evaluating Language Models on Entity Disambiguation in Tables**|Federico Belotti et.al.|[2408.06423](http://arxiv.org/abs/2408.06423)|null|
+|**2024-08-12**|**From Diagnostic CT to DTI Tractography labels: Using Deep Learning for Corticospinal Tract Injury Assessment and Outcome Prediction in Intracerebral Haemorrhage**|Olivia N Murray et.al.|[2408.06403](http://arxiv.org/abs/2408.06403)|null|
+|**2024-08-12**|**MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model**|Haoyu Qin et.al.|[2408.06400](http://arxiv.org/abs/2408.06400)|null|
+|**2024-08-11**|**Autoregressive Enzyme Function Prediction with Multi-scale Multi-modality Fusion**|Dingyi Rong et.al.|[2408.06391](http://arxiv.org/abs/2408.06391)|null|
+|**2024-08-11**|**Approximate ADCs for In-Memory Computing**|Arkapravo Ghosh et.al.|[2408.06390](http://arxiv.org/abs/2408.06390)|null|
 |**2024-08-12**|**AutOmatic floW planning for fetaL MRI (OWL)**|Sara Neves Silva et.al.|[2408.06326](http://arxiv.org/abs/2408.06326)|null|
 |**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321](http://arxiv.org/abs/2408.06321)|null|
 |**2024-08-12**|**Finding Patterns in Ambiguity: Interpretable Stress Testing in the Decision~Boundary**|Inês Gomes et.al.|[2408.06302](http://arxiv.org/abs/2408.06302)|**[link](https://github.com/inesgomes/db-patterns)**|
