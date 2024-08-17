@@ -927,7 +927,7 @@
 |**2024-08-13**|**A Theory-Based Explainable Deep Learning Architecture for Music Emotion**|Hortense Fong et.al.|[2408.07113](http://arxiv.org/abs/2408.07113)|null|
 |**2024-08-13**|**Efficient Deep Model-Based Optoacoustic Image Reconstruction**|Christoph Dehner et.al.|[2408.07109](http://arxiv.org/abs/2408.07109)|null|
 |**2024-08-13**|**Model Based and Physics Informed Deep Learning Neural Network Structures**|Ali Mohammad-Djafari et.al.|[2408.07104](http://arxiv.org/abs/2408.07104)|null|
-|**2024-08-12**|**Pattern-Matching Dynamic Memory Network for Dual-Mode Traffic Prediction**|Wenchao Weng et.al.|[2408.07100](http://arxiv.org/abs/2408.07100)|**[link](https://github.com/wengwenchao123/PM-DMNet)**|
+|**2024-08-12**|**Pattern-Matching Dynamic Memory Network for Dual-Mode Traffic Prediction**|Wenchao Weng et.al.|[2408.07100](http://arxiv.org/abs/2408.07100)|null|
 |**2024-08-12**|**Bearing Fault Diagnosis using Graph Sampling and Aggregation Network**|Jiaying Chen et.al.|[2408.07099](http://arxiv.org/abs/2408.07099)|null|
 |**2024-08-12**|**Attention Please: What Transformer Models Really Learn for Process Prediction**|Martin Käppel et.al.|[2408.07097](http://arxiv.org/abs/2408.07097)|**[link](https://github.com/mkaep/transformer-explainability)**|
 |**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
