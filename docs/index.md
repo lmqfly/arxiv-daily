@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -152,14 +152,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-02**|**Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408](http://arxiv.org/abs/2408.01408)|null|
+|**2024-08-02**|**Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408](http://arxiv.org/abs/2408.01408)|**[link](https://github.com/AnnonymousForPapers/GCN-proof)**|
 |**2024-07-31**|**ZeroDDI: A Zero-Shot Drug-Drug Interaction Event Prediction Method with Semantic Enhanced Learning and Dual-Modal Uniform Alignment**|Ziyan Wang et.al.|[2407.00891](http://arxiv.org/abs/2407.00891)|**[link](https://github.com/wzy-sarah/zeroddi)**|
 |**2024-05-31**|**ADEP: A Novel Approach Based on Discriminator-Enhanced Encoder-Decoder Architecture for Accurate Prediction of Adverse Effects in Polypharmacy**|Katayoun Kobraei et.al.|[2406.00118](http://arxiv.org/abs/2406.00118)|**[link](https://github.com/m0hssn/adep)**|
 |**2024-05-10**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|**[link](https://github.com/cns-iu/myaura)**|
 |**2024-03-27**|**CADGL: Context-Aware Deep Graph Learning for Predicting Drug-Drug Interactions**|Azmine Toushik Wasi et.al.|[2403.17210](http://arxiv.org/abs/2403.17210)|null|
 |**2024-03-13**|**Learning to Describe for Predicting Zero-shot Drug-Drug Interactions**|Fangqi Zhu et.al.|[2403.08377](http://arxiv.org/abs/2403.08377)|**[link](https://github.com/zhufq00/ddis-prediction)**|
 |**2024-02-28**|**Hierarchical Multi-Relational Graph Representation Learning for Large-Scale Prediction of Drug-Drug Interactions**|Mengying Jiang et.al.|[2402.18127](http://arxiv.org/abs/2402.18127)|**[link](https://github.com/mengyingjiang/hmgrl)**|
-|**2024-02-21**|**Contextual Molecule Representation Learning from Chemical Reaction Knowledge**|Han Tang et.al.|[2402.13779](http://arxiv.org/abs/2402.13779)|null|
+|**2024-02-21**|**Contextual Molecule Representation Learning from Chemical Reaction Knowledge**|Han Tang et.al.|[2402.13779](http://arxiv.org/abs/2402.13779)|**[link](https://github.com/HirahTang/REMO)**|
 |**2024-05-22**|**Advanced Drug Interaction Event Prediction**|Yingying Wang et.al.|[2402.11472](http://arxiv.org/abs/2402.11472)|null|
 |**2024-05-21**|**Can Large Language Models Understand Molecules?**|Shaghayegh Sadeghi et.al.|[2402.00024](http://arxiv.org/abs/2402.00024)|**[link](https://github.com/sshaghayeghs/llama-vs-gpt)**|
 |**2023-12-09**|**ALGNet: Attention Light Graph Memory Network for Medical Recommendation System**|Minh-Van Nguyen et.al.|[2312.08377](http://arxiv.org/abs/2312.08377)|**[link](https://github.com/tivivui95/algnet)**|
@@ -555,7 +555,7 @@ layout: default
 |**2024-08-07**|**Scaling Law of Sim2Real Transfer Learning in Expanding Computational Materials Databases for Real-World Predictions**|Shunya Minami et.al.|[2408.04042](http://arxiv.org/abs/2408.04042)|null|
 |**2024-08-07**|**Structural transitions of calcium carbonate by molecular dynamics simulation**|Elizaveta Sidler et.al.|[2408.04036](http://arxiv.org/abs/2408.04036)|null|
 |**2024-08-07**|**Molecular dynamics characterization of the free and encapsidated RNA2 of CCMV with the oxRNA model**|Giovanni Mattiotti et.al.|[2408.03662](http://arxiv.org/abs/2408.03662)|null|
-|**2024-08-06**|**relentless: Transparent, reproducible molecular dynamics simulations for optimization**|Adithya N Sreenivasan et.al.|[2408.03213](http://arxiv.org/abs/2408.03213)|null|
+|**2024-08-06**|**relentless: Transparent, reproducible molecular dynamics simulations for optimization**|Adithya N Sreenivasan et.al.|[2408.03213](http://arxiv.org/abs/2408.03213)|**[link](https://github.com/mphowardlab/relentless)**|
 |**2024-08-05**|**A Reverse Non-Equilibrium Molecular Dynamics (RNEMD) Algorithm for Coupled Mass and Heat Transport in Mixtures**|Cody R. Drisko et.al.|[2408.02621](http://arxiv.org/abs/2408.02621)|null|
 |**2024-08-04**|**Three-phase equilibria of hydrates from computer simulation. II. Finite-size effects in the carbon dioxide hydrate**|J. Algaba et.al.|[2408.02069](http://arxiv.org/abs/2408.02069)|null|
 |**2024-08-04**|**Computational Self-Assembly of a Six-Fold Chiral Quasicrystal**|Nydia Roxana Varela-Rosales et.al.|[2408.01984](http://arxiv.org/abs/2408.01984)|null|
@@ -875,7 +875,7 @@ layout: default
 |**2024-08-15**|**An Advanced Deep Learning Based Three-Stream Hybrid Model for Dynamic Hand Gesture Recognition**|Md Abdur Rahim et.al.|[2408.08035](http://arxiv.org/abs/2408.08035)|null|
 |**2024-08-15**|**Inversion-DeepONet: A Novel DeepONet-Based Network with Encoder-Decoder for Full Waveform Inversion**|Zekai Guo et.al.|[2408.08005](http://arxiv.org/abs/2408.08005)|null|
 |**2024-08-15**|**Exploring learning environments for label\-efficient cancer diagnosis**|Samta Rani et.al.|[2408.07988](http://arxiv.org/abs/2408.07988)|null|
-|**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932](http://arxiv.org/abs/2408.07932)|null|
+|**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932](http://arxiv.org/abs/2408.07932)|**[link](https://github.com/lucaskirsten/mobilemef)**|
 |**2024-08-15**|**A Deep Features-Based Approach Using Modified ResNet50 and Gradient Boosting for Visual Sentiments Classification**|Muhammad Arslan et.al.|[2408.07922](http://arxiv.org/abs/2408.07922)|null|
 |**2024-08-15**|**A Systematic Mapping Study of Crowd Knowledge Enhanced Software Engineering Research Using Stack Overflow**|Minaoar Tanzil et.al.|[2408.07913](http://arxiv.org/abs/2408.07913)|null|
 |**2024-08-15**|**Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient**|Yanfan Zhu et.al.|[2408.07905](http://arxiv.org/abs/2408.07905)|**[link](https://github.com/hrlblab/topologicaldataanalysis3d)**|
@@ -885,8 +885,8 @@ layout: default
 |**2024-08-14**|**Time-inversion of spatiotemporal beam dynamics using uncertainty-aware latent evolution reversal**|Mahindra Rautela et.al.|[2408.07847](http://arxiv.org/abs/2408.07847)|null|
 |**2024-08-14**|**Perspectives: Comparison of Deep Learning Segmentation Models on Biophysical and Biomedical Data**|J Shepard Bryan IV et.al.|[2408.07786](http://arxiv.org/abs/2408.07786)|null|
 |**2024-08-14**|**NeuroPapyri: A Deep Attention Embedding Network for Handwritten Papyri Retrieval**|Giuseppe De Gregorio et.al.|[2408.07785](http://arxiv.org/abs/2408.07785)|null|
-|**2024-08-14**|**Knowledge-based Neural Ordinary Differential Equations for Cosserat Rod-based Soft Robots**|Tom Z. Jiahao et.al.|[2408.07776](http://arxiv.org/abs/2408.07776)|null|
-|**2024-08-14**|**MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis**|Nimeesha Chan et.al.|[2408.07773](http://arxiv.org/abs/2408.07773)|null|
+|**2024-08-14**|**Knowledge-based Neural Ordinary Differential Equations for Cosserat Rod-based Soft Robots**|Tom Z. Jiahao et.al.|[2408.07776](http://arxiv.org/abs/2408.07776)|**[link](https://github.com/TomJZ/KNODE-Cosserat)**|
+|**2024-08-14**|**MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis**|Nimeesha Chan et.al.|[2408.07773](http://arxiv.org/abs/2408.07773)|**[link](https://github.com/flixpar/med-ts-llm)**|
 |**2024-08-14**|**Analog Spiking Neuron in CMOS 28 nm Towards Large-Scale Neuromorphic Processors**|Marwan Besrour et.al.|[2408.07734](http://arxiv.org/abs/2408.07734)|null|
 |**2024-08-14**|**Extending Network Intrusion Detection with Enhanced Particle Swarm Optimization Techniques**|Surasit Songma et.al.|[2408.07729](http://arxiv.org/abs/2408.07729)|null|
 |**2024-08-15**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673](http://arxiv.org/abs/2408.07673)|null|
@@ -898,7 +898,7 @@ layout: default
 |**2024-08-14**|**Automated Retinal Image Analysis and Medical Report Generation through Deep Learning**|Jia-Hong Huang et.al.|[2408.07349](http://arxiv.org/abs/2408.07349)|null|
 |**2024-08-14**|**LiPCoT: Linear Predictive Coding based Tokenizer for Self-supervised Learning of Time Series Data via Language Models**|Md Fahim Anjum et.al.|[2408.07292](http://arxiv.org/abs/2408.07292)|**[link](https://github.com/mdfahimanjum/lipcot)**|
 |**2024-08-14**|**Lesion-aware network for diabetic retinopathy diagnosis**|Xue Xia et.al.|[2408.07264](http://arxiv.org/abs/2408.07264)|**[link](https://github.com/xia-xx-cv/lanet-dr)**|
-|**2024-08-14**|**Sign language recognition based on deep learning and low-cost handcrafted descriptors**|Alvaro Leandro Cavalcante Carneiro et.al.|[2408.07244](http://arxiv.org/abs/2408.07244)|null|
+|**2024-08-14**|**Sign language recognition based on deep learning and low-cost handcrafted descriptors**|Alvaro Leandro Cavalcante Carneiro et.al.|[2408.07244](http://arxiv.org/abs/2408.07244)|**[link](https://github.com/alvarocavalcante/multi-cue-sign-language)**|
 |**2024-08-14**|**Leveraging Perceptual Scores for Dataset Pruning in Computer Vision Tasks**|Raghavendra Singh et.al.|[2408.07243](http://arxiv.org/abs/2408.07243)|null|
 |**2024-08-13**|**Pan-cancer gene set discovery via scRNA-seq for optimal deep learning based downstream tasks**|Jong Hyun Kim et.al.|[2408.07233](http://arxiv.org/abs/2408.07233)|null|
 |**2024-08-13**|**Massive Dimensions Reduction and Hybridization with Meta-heuristics in Deep Learning**|Rasa Khosrowshahli et.al.|[2408.07194](http://arxiv.org/abs/2408.07194)|null|
@@ -909,10 +909,10 @@ layout: default
 |**2024-08-13**|**Model Based and Physics Informed Deep Learning Neural Network Structures**|Ali Mohammad-Djafari et.al.|[2408.07104](http://arxiv.org/abs/2408.07104)|null|
 |**2024-08-12**|**Pattern-Matching Dynamic Memory Network for Dual-Mode Traffic Prediction**|Wenchao Weng et.al.|[2408.07100](http://arxiv.org/abs/2408.07100)|**[link](https://github.com/wengwenchao123/PM-DMNet)**|
 |**2024-08-12**|**Bearing Fault Diagnosis using Graph Sampling and Aggregation Network**|Jiaying Chen et.al.|[2408.07099](http://arxiv.org/abs/2408.07099)|null|
-|**2024-08-12**|**Attention Please: What Transformer Models Really Learn for Process Prediction**|Martin Käppel et.al.|[2408.07097](http://arxiv.org/abs/2408.07097)|null|
+|**2024-08-12**|**Attention Please: What Transformer Models Really Learn for Process Prediction**|Martin Käppel et.al.|[2408.07097](http://arxiv.org/abs/2408.07097)|**[link](https://github.com/mkaep/transformer-explainability)**|
 |**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
 |**2024-08-13**|**Large-kernel Convolutional Neural Networks for Wide Parameter-Space Searches of Continuous Gravitational Waves**|Prasanna Mohan Joshi et.al.|[2408.07070](http://arxiv.org/abs/2408.07070)|null|
-|**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040](http://arxiv.org/abs/2408.07040)|null|
+|**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040](http://arxiv.org/abs/2408.07040)|**[link](https://github.com/darthreca/crop-field-segmentation-ukan)**|
 |**2024-08-13**|**Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**|D. A. Kaltsas et.al.|[2408.07027](http://arxiv.org/abs/2408.07027)|null|
 |**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
 |**2024-08-15**|**Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning**|Guangliang Pan et.al.|[2408.06870](http://arxiv.org/abs/2408.06870)|null|
@@ -925,7 +925,7 @@ layout: default
 |**2024-08-13**|**Sumotosima: A Framework and Dataset for Classifying and Summarizing Otoscopic Images**|Eram Anwarul Khan et.al.|[2408.06755](http://arxiv.org/abs/2408.06755)|**[link](https://github.com/anas2908/sumotosima)**|
 |**2024-08-13**|**Grasping by Hanging: a Learning-Free Grasping Detection Method for Previously Unseen Objects**|Wanze Li et.al.|[2408.06734](http://arxiv.org/abs/2408.06734)|null|
 |**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701](http://arxiv.org/abs/2408.06701)|null|
-|**2024-08-13**|**Physics Informed Deep Learning for Strain Gradient Continuum Plasticity**|Ankit Tyagi et.al.|[2408.06657](http://arxiv.org/abs/2408.06657)|null|
+|**2024-08-13**|**Physics Informed Deep Learning for Strain Gradient Continuum Plasticity**|Ankit Tyagi et.al.|[2408.06657](http://arxiv.org/abs/2408.06657)|**[link](https://github.com/Debasish-Roy-IISc/PIDL-gradient-plasticity)**|
 |**2024-08-13**|**Attention Based Feature Fusion Network for Monkeypox Skin Lesion Detection**|Niloy Kumar Kundu et.al.|[2408.06640](http://arxiv.org/abs/2408.06640)|null|
 |**2024-08-13**|**Fast Information Streaming Handler (FisH): A Unified Seismic Neural Network for Single Station Real-Time Earthquake Early Warning**|Tianning Zhang et.al.|[2408.06629](http://arxiv.org/abs/2408.06629)|null|
 |**2024-08-13**|**Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection**|Alex Koran et.al.|[2408.06620](http://arxiv.org/abs/2408.06620)|null|
