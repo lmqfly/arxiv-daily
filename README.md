@@ -561,6 +561,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Multiple Topology Replica Exchange of Expanded Ensembles (MT-REXEE) for Multidimensional Alchemical Calculations**|Anika J. Friedman et.al.|[2408.11038](http://arxiv.org/abs/2408.11038)|null|
+|**2024-08-20**|**Reactive molecular dynamics simulations of micrometeoroid bombardment for space weathering of asteroid (162173) Ryugu**|Daigo Shoji et.al.|[2408.10959](http://arxiv.org/abs/2408.10959)|null|
+|**2024-08-19**|**Elucidating the mechanism of helium evaporation from liquid water**|Kritanjan Polley et.al.|[2408.10345](http://arxiv.org/abs/2408.10345)|null|
 |**2024-08-19**|**Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing**|N. Smirnov et.al.|[2408.10138](http://arxiv.org/abs/2408.10138)|null|
 |**2024-08-16**|**Accelerating ab initio melting property calculations with machine learning: Application to the high entropy alloy TaVCrW**|Li-Fang Zhu et.al.|[2408.08654](http://arxiv.org/abs/2408.08654)|null|
 |**2024-08-15**|**Exploring Latent Space for Generating Peptide Analogs Using Protein Language Models**|Po-Yu Liang et.al.|[2408.08341](http://arxiv.org/abs/2408.08341)|**[link](https://github.com/LabJunBMI/Latent-Space-Peptide-Analogues-Generation)**|
@@ -895,6 +898,40 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Towards a Standardized Representation for Deep Learning Collective Algorithms**|Jinsun Yoo et.al.|[2408.11008](http://arxiv.org/abs/2408.11008)|null|
+|**2024-08-20**|**Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling**|Jaideep Pathak et.al.|[2408.10958](http://arxiv.org/abs/2408.10958)|null|
+|**2024-08-20**|**Multichannel Attention Networks with Ensembled Transfer Learning to Recognize Bangla Handwritten Charecter**|Farhanul Haque et.al.|[2408.10955](http://arxiv.org/abs/2408.10955)|null|
+|**2024-08-19**|**Detecting Wildfires on UAVs with Real-time Segmentation Trained by Larger Teacher Models**|Julius Pesonen et.al.|[2408.10843](http://arxiv.org/abs/2408.10843)|null|
+|**2024-08-20**|**ZebraPose: Zebra Detection and Pose Estimation using only Synthetic Data**|Elia Bonetto et.al.|[2408.10831](http://arxiv.org/abs/2408.10831)|null|
+|**2024-08-20**|**Deep Learning-based Classification of Dementia using Image Representation of Subcortical Signals**|Shivani Ranjan et.al.|[2408.10816](http://arxiv.org/abs/2408.10816)|null|
+|**2024-08-20**|**Inverse Deep Learning Ray Tracing for Heliostat Surface Prediction**|Jan Lewen et.al.|[2408.10802](http://arxiv.org/abs/2408.10802)|null|
+|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|null|
+|**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752](http://arxiv.org/abs/2408.10752)|null|
+|**2024-08-20**|**Accelerated training of deep learning surrogate models for surface displacement and flow, with application to MCMC-based history matching of CO2 storage operations**|Yifu Han et.al.|[2408.10717](http://arxiv.org/abs/2408.10717)|null|
+|**2024-08-20**|**Coarse-to-Fine Detection of Multiple Seams for Robotic Welding**|Pengkun Wei et.al.|[2408.10710](http://arxiv.org/abs/2408.10710)|null|
+|**2024-08-20**|**Improved Differential Evolution based Feature Selection through Quantum, Chaos, and Lasso**|Yelleti Vivek et.al.|[2408.10693](http://arxiv.org/abs/2408.10693)|null|
+|**2024-08-20**|**Iterative Window Mean Filter: Thwarting Diffusion-based Adversarial Purification**|Hanrui Wang et.al.|[2408.10673](http://arxiv.org/abs/2408.10673)|null|
+|**2024-08-20**|**A Noncontact Technique for Wave Measurement Based on Thermal Stereography and Deep Learning**|Deyu Li et.al.|[2408.10670](http://arxiv.org/abs/2408.10670)|null|
+|**2024-08-20**|**UIE-UnFold: Deep Unfolding Network with Color Priors and Vision Transformer for Underwater Image Enhancement**|Yingtie Lei et.al.|[2408.10653](http://arxiv.org/abs/2408.10653)|**[link](https://github.com/CXH-Research/UIE-UnFold)**|
+|**2024-08-20**|**Interactive Counterfactual Generation for Univariate Time Series**|Udo Schlegel et.al.|[2408.10633](http://arxiv.org/abs/2408.10633)|null|
+|**2024-08-20**|**Finding the DeepDream for Time Series: Activation Maximization for Univariate Time Series**|Udo Schlegel et.al.|[2408.10628](http://arxiv.org/abs/2408.10628)|null|
+|**2024-08-20**|**Novel Change Detection Framework in Remote Sensing Imagery Using Diffusion Models and Structural Similarity Index (SSIM)**|Andrew Kiruluta et.al.|[2408.10619](http://arxiv.org/abs/2408.10619)|null|
+|**2024-08-20**|**Breast tumor classification based on self-supervised contrastive learning from ultrasound videos**|Yunxin Tang et.al.|[2408.10600](http://arxiv.org/abs/2408.10600)|null|
+|**2024-08-20**|**Vision Calorimeter for Anti-neutron Reconstruction: A Baseline**|Hongtian Yu et.al.|[2408.10599](http://arxiv.org/abs/2408.10599)|**[link](https://github.com/yuhongtian17/vic)**|
+|**2024-08-20**|**Kalib: Markerless Hand-Eye Calibration with Keypoint Tracking**|Tutian Tang et.al.|[2408.10562](http://arxiv.org/abs/2408.10562)|null|
+|**2024-08-20**|**Forecasting seasonal rainfall in SE Australia using Empirical Orthogonal Functions and Neural Networks**|Stjepan Marcelja et.al.|[2408.10550](http://arxiv.org/abs/2408.10550)|null|
+|**2024-08-20**|**Automated Detection of Algorithm Debt in Deep Learning Frameworks: An Empirical Study**|Emmanuel Iko-Ojo Simon et.al.|[2408.10529](http://arxiv.org/abs/2408.10529)|null|
+|**2024-08-20**|**BAUST Lipi: A BdSL Dataset with Deep Learning Based Bangla Sign Language Recognition**|Md Hadiuzzaman et.al.|[2408.10518](http://arxiv.org/abs/2408.10518)|null|
+|**2024-08-20**|**Cervical Cancer Detection Using Multi-Branch Deep Learning Model**|Tatsuhiro Baba et.al.|[2408.10498](http://arxiv.org/abs/2408.10498)|null|
+|**2024-08-19**|**Parkinson's Disease Classification via EEG: All You Need is a Single Convolutional Layer**|Md Fahim Anjum et.al.|[2408.10457](http://arxiv.org/abs/2408.10457)|null|
+|**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456](http://arxiv.org/abs/2408.10456)|null|
+|**2024-08-19**|**Learning Regularization for Graph Inverse Problems**|Moshe Eliasof et.al.|[2408.10436](http://arxiv.org/abs/2408.10436)|null|
+|**2024-08-19**|**Towards Automation of Human Stage of Decay Identification: An Artificial Intelligence Approach**|Anna-Maria Nau et.al.|[2408.10414](http://arxiv.org/abs/2408.10414)|null|
+|**2024-08-19**|**Joint Modeling of Search and Recommendations Via an Unified Contextual Recommender (UniCoRn)**|Moumita Bhattacharya et.al.|[2408.10394](http://arxiv.org/abs/2408.10394)|null|
+|**2024-08-19**|**Deep-MacroFin: Informed Equilibrium Neural Network for Continuous Time Economic Models**|Yuntao Wu et.al.|[2408.10368](http://arxiv.org/abs/2408.10368)|null|
+|**2024-08-19**|**How Small is Big Enough? Open Labeled Datasets and the Development of Deep Learning**|Daniel Souza et.al.|[2408.10359](http://arxiv.org/abs/2408.10359)|null|
+|**2024-08-19**|**A Disguised Wolf Is More Harmful Than a Toothless Tiger: Adaptive Malicious Code Injection Backdoor Attack Leveraging User Behavior as Triggers**|Shangxi Wu et.al.|[2408.10334](http://arxiv.org/abs/2408.10334)|null|
+|**2024-08-17**|**FedKBP: Federated dose prediction framework for knowledge-based planning in radiation therapy**|Jingyun Chen et.al.|[2408.10275](http://arxiv.org/abs/2408.10275)|null|
 |**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
 |**2024-08-19**|**Imbalance-Aware Culvert-Sewer Defect Segmentation Using an Enhanced Feature Pyramid Network**|Rasha Alshawi et.al.|[2408.10181](http://arxiv.org/abs/2408.10181)|null|
 |**2024-08-19**|**Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**|Tianyu Zhang et.al.|[2408.10124](http://arxiv.org/abs/2408.10124)|**[link](https://github.com/zhangtia16/molgraph-lardo)**|
