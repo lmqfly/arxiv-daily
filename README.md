@@ -414,6 +414,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
 |**2024-08-19**|**Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**|Tianyu Zhang et.al.|[2408.10124](http://arxiv.org/abs/2408.10124)|**[link](https://github.com/zhangtia16/molgraph-lardo)**|
 |**2024-08-18**|**Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches**|Tanya Liyaqat et.al.|[2408.09461](http://arxiv.org/abs/2408.09461)|null|
 |**2024-08-11**|**SMILES-Mamba: Chemical Mamba Foundation Models for Drug ADMET Prediction**|Bohao Xu et.al.|[2408.05696](http://arxiv.org/abs/2408.05696)|null|
@@ -561,6 +562,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Bridging experiment and theory of relaxor ferroelectrics at the atomic scale with multislice electron ptychography**|Menglin Zhu et.al.|[2408.11685](http://arxiv.org/abs/2408.11685)|null|
+|**2024-08-21**|**Durotaxis and antidurotaxis droplet motion onto gradient gel-substrates**|R. Kajouri et.al.|[2408.11622](http://arxiv.org/abs/2408.11622)|null|
+|**2024-08-21**|**Structure and dynamics of the magnetite(001)/water interface from molecular dynamics simulations based on a neural network potential**|Salvatore Romano et.al.|[2408.11538](http://arxiv.org/abs/2408.11538)|null|
+|**2024-08-20**|**Exploring the Thermostability of CRISPR Cas12b using Molecular Dynamics Simulations**|Yinhao Jia et.al.|[2408.11149](http://arxiv.org/abs/2408.11149)|null|
+|**2024-08-20**|**Insights into Protein Unfolding under pH, Temperature, and Shear using Molecular Dynamics Simulations**|Yinhao Jia et.al.|[2408.11147](http://arxiv.org/abs/2408.11147)|null|
 |**2024-08-20**|**Multiple Topology Replica Exchange of Expanded Ensembles (MT-REXEE) for Multidimensional Alchemical Calculations**|Anika J. Friedman et.al.|[2408.11038](http://arxiv.org/abs/2408.11038)|null|
 |**2024-08-20**|**Reactive molecular dynamics simulations of micrometeoroid bombardment for space weathering of asteroid (162173) Ryugu**|Daigo Shoji et.al.|[2408.10959](http://arxiv.org/abs/2408.10959)|null|
 |**2024-08-19**|**Elucidating the mechanism of helium evaporation from liquid water**|Kritanjan Polley et.al.|[2408.10345](http://arxiv.org/abs/2408.10345)|null|
@@ -898,6 +904,43 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804](http://arxiv.org/abs/2408.11804)|**[link](https://github.com/dyunis/spectral_dynamics)**|
+|**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
+|**2024-08-21**|**Improving the Scan-rescan Precision of AI-based CMR Biomarker Estimation**|Dewmini Hasara Wickremasinghe et.al.|[2408.11754](http://arxiv.org/abs/2408.11754)|null|
+|**2024-08-21**|**Less is more: AI Decision-Making using Dynamic Deep Neural Networks for Short-Term Stock Index Prediction**|CJ Finnegan et.al.|[2408.11740](http://arxiv.org/abs/2408.11740)|null|
+|**2024-08-21**|**On Learnable Parameters of Optimal and Suboptimal Deep Learning Models**|Ziwei Zheng et.al.|[2408.11720](http://arxiv.org/abs/2408.11720)|null|
+|**2024-08-21**|**FedGS: Federated Gradient Scaling for Heterogeneous Medical Image Segmentation**|Philip Schutte et.al.|[2408.11701](http://arxiv.org/abs/2408.11701)|**[link](https://github.com/trustworthy-ai-uu-nki/federated-learning-disentanglement)**|
+|**2024-08-21**|**Optimizing Interpretable Decision Tree Policies for Reinforcement Learning**|Daniël Vos et.al.|[2408.11632](http://arxiv.org/abs/2408.11632)|**[link](https://github.com/tudelft-cda-lab/dtpo)**|
+|**2024-08-21**|**Data-driven Modeling of Combined Sewer Systems for Urban Sustainability: An Empirical Evaluation**|Vipin Singh et.al.|[2408.11619](http://arxiv.org/abs/2408.11619)|null|
+|**2024-08-21**|**Active learning for efficient data selection in radio-signal based positioning via deep learning**|Vincent Corlay et.al.|[2408.11592](http://arxiv.org/abs/2408.11592)|null|
+|**2024-08-21**|**Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark**|Gabriel E. Lima et.al.|[2408.11589](http://arxiv.org/abs/2408.11589)|null|
+|**2024-08-21**|**Explainable Deep Learning Framework for Human Activity Recognition**|Yiran Huang et.al.|[2408.11552](http://arxiv.org/abs/2408.11552)|null|
+|**2024-08-21**|**Just Project! Multi-Channel Despeckling, the Easy Way**|Loïc Denis et.al.|[2408.11531](http://arxiv.org/abs/2408.11531)|null|
+|**2024-08-21**|**An Improved CovidConvLSTM model for pneumonia-COVID-19 detection and classification**|Imane Beghoura et.al.|[2408.11507](http://arxiv.org/abs/2408.11507)|null|
+|**2024-08-21**|**Slicing Input Features to Accelerate Deep Learning: A Case Study with Graph Neural Networks**|Zhengjia Xu et.al.|[2408.11500](http://arxiv.org/abs/2408.11500)|null|
+|**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
+|**2024-08-21**|**Using Part-based Representations for Explainable Deep Reinforcement Learning**|Manos Kirtas et.al.|[2408.11455](http://arxiv.org/abs/2408.11455)|null|
+|**2024-08-21**|**BAdd: Bias Mitigation through Bias Addition**|Ioannis Sarridis et.al.|[2408.11439](http://arxiv.org/abs/2408.11439)|null|
+|**2024-08-21**|**DABench: A Benchmark Dataset for Data-Driven Weather Data Assimilation**|Wuxin Wang et.al.|[2408.11438](http://arxiv.org/abs/2408.11438)|**[link](https://github.com/wuxinwang1997/dabench)**|
+|**2024-08-21**|**Long-Range Vision-Based UAV-assisted Localization for Unmanned Surface Vehicles**|Waseem Akram et.al.|[2408.11429](http://arxiv.org/abs/2408.11429)|null|
+|**2024-08-21**|**Ultra-Fast and Efficient Design Method Using Deep Learning for Capacitive Coupling WPT System**|Rasool Keshavarz et.al.|[2408.11390](http://arxiv.org/abs/2408.11390)|null|
+|**2024-08-21**|**One-step Structure Prediction and Screening for Protein-Ligand Complexes using Multi-Task Geometric Deep Learning**|Kelei He et.al.|[2408.11356](http://arxiv.org/abs/2408.11356)|null|
+|**2024-08-21**|**Image Score: Learning and Evaluating Human Preferences for Mercari Search**|Chingis Oinar et.al.|[2408.11349](http://arxiv.org/abs/2408.11349)|null|
+|**2024-08-21**|**Non-verbal Hands-free Control for Smart Glasses using Teeth Clicks**|Payal Mohapatra et.al.|[2408.11346](http://arxiv.org/abs/2408.11346)|null|
+|**2024-08-21**|**Deep Tree-based Retrieval for Efficient Recommendation: Theory and Method**|Ze Liu et.al.|[2408.11345](http://arxiv.org/abs/2408.11345)|null|
+|**2024-08-21**|**Optimizing Transmit Field Inhomogeneity of Parallel RF Transmit Design in 7T MRI using Deep Learning**|Zhengyi Lu et.al.|[2408.11323](http://arxiv.org/abs/2408.11323)|null|
+|**2024-08-21**|**KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?**|Xiao Han et.al.|[2408.11306](http://arxiv.org/abs/2408.11306)|**[link](https://github.com/2448845600/kan4tsf)**|
+|**2024-08-21**|**Koopman AutoEncoder via Singular Value Decomposition for Data-Driven Long-Term Prediction**|Jinho Choi et.al.|[2408.11303](http://arxiv.org/abs/2408.11303)|null|
+|**2024-08-21**|**Modeling Reference-dependent Choices with Graph Neural Networks**|Liang Zhang et.al.|[2408.11302](http://arxiv.org/abs/2408.11302)|null|
+|**2024-08-21**|**The Key of Parameter Skew in Federated Learning**|Sifan Wang et.al.|[2408.11278](http://arxiv.org/abs/2408.11278)|null|
+|**2024-08-21**|**Practical Aspects on Solving Differential Equations Using Deep Learning: A Primer**|Georgios Is. Detorakis et.al.|[2408.11266](http://arxiv.org/abs/2408.11266)|null|
+|**2024-08-21**|**Automatic Image Annotation (AIA) of AlmondNet-20 Method for Almond Detection by Improved CNN-based Model**|Mohsen Asghari Ilani et.al.|[2408.11253](http://arxiv.org/abs/2408.11253)|null|
+|**2024-08-20**|**Unified Deep Learning Model for Global Prediction of Aboveground Biomass, Canopy Height and Cover from High-Resolution, Multi-Sensor Satellite Imagery**|Manuel Weber et.al.|[2408.11234](http://arxiv.org/abs/2408.11234)|null|
+|**2024-08-20**|**Multi-User Continuous-Aperture Array Communications: How to Learn Current Distribution?**|Jia Guo et.al.|[2408.11230](http://arxiv.org/abs/2408.11230)|null|
+|**2024-08-20**|**Revisiting Min-Max Optimization Problem in Adversarial Training**|Sina Hajer Ahmadi et.al.|[2408.11218](http://arxiv.org/abs/2408.11218)|null|
+|**2024-08-20**|**An Interpretable Deep Learning Approach for Morphological Script Type Analysis**|Malamatenia Vlachou-Efstathiou et.al.|[2408.11150](http://arxiv.org/abs/2408.11150)|null|
+|**2024-08-20**|**Total Uncertainty Quantification in Inverse PDE Solutions Obtained with Reduced-Order Deep Learning Surrogate Models**|Yuanzhe Wang et.al.|[2408.11145](http://arxiv.org/abs/2408.11145)|null|
+|**2024-08-20**|**Binocular Model: A deep learning solution for online melt pool temperature analysis using dual-wavelength Imaging Pyrometry**|Javid Akhavan et.al.|[2408.11126](http://arxiv.org/abs/2408.11126)|null|
 |**2024-08-20**|**Towards a Standardized Representation for Deep Learning Collective Algorithms**|Jinsun Yoo et.al.|[2408.11008](http://arxiv.org/abs/2408.11008)|null|
 |**2024-08-20**|**Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling**|Jaideep Pathak et.al.|[2408.10958](http://arxiv.org/abs/2408.10958)|null|
 |**2024-08-20**|**Multichannel Attention Networks with Ensembled Transfer Learning to Recognize Bangla Handwritten Charecter**|Farhanul Haque et.al.|[2408.10955](http://arxiv.org/abs/2408.10955)|null|
@@ -4885,6 +4928,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**One-step Structure Prediction and Screening for Protein-Ligand Complexes using Multi-Task Geometric Deep Learning**|Kelei He et.al.|[2408.11356](http://arxiv.org/abs/2408.11356)|null|
 |**2024-07-23**|**Learning Networked Dynamical System Models with Weak Form and Graph Neural Networks**|Yin Yu et.al.|[2407.16779](http://arxiv.org/abs/2407.16779)|null|
 |**2024-07-23**|**Conformally Natural Families of Probability Distributions on Hyperbolic Disc with a View on Geometric Deep Learning**|Vladimir Jacimovic et.al.|[2407.16733](http://arxiv.org/abs/2407.16733)|null|
 |**2024-07-22**|**Multicell-Fold: geometric learning in folding multicellular life**|Haiqian Yang et.al.|[2407.07055](http://arxiv.org/abs/2407.07055)|null|
