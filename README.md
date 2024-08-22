@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -159,7 +159,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## DDI
 
@@ -272,7 +272,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## MG
 
@@ -408,7 +408,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## MPP
 
@@ -419,7 +419,7 @@
 |**2024-08-11**|**SMILES-Mamba: Chemical Mamba Foundation Models for Drug ADMET Prediction**|Bohao Xu et.al.|[2408.05696](http://arxiv.org/abs/2408.05696)|null|
 |**2024-07-27**|**Graph Residual based Method for Molecular Property Prediction**|Kanad Sen et.al.|[2408.03342](http://arxiv.org/abs/2408.03342)|null|
 |**2024-07-09**|**MolTRES: Improving Chemical Language Representation Learning for Molecular Property Prediction**|Jun-Hyung Park et.al.|[2408.01426](http://arxiv.org/abs/2408.01426)|null|
-|**2024-08-02**|**GNN-MolKAN: Harnessing the Power of KAN to Advance Molecular Representation Learning with GNNs**|Ruifeng Li et.al.|[2408.01018](http://arxiv.org/abs/2408.01018)|null|
+|**2024-08-21**|**GNN-SKAN: Harnessing the Power of SwallowKAN to Advance Molecular Representation Learning with GNNs**|Ruifeng Li et.al.|[2408.01018](http://arxiv.org/abs/2408.01018)|null|
 |**2024-07-30**|**Distribution Learning for Molecular Regression**|Nima Shoghi et.al.|[2407.20475](http://arxiv.org/abs/2407.20475)|null|
 |**2024-07-18**|**Scikit-fingerprints: easy and efficient computation of molecular fingerprints in Python**|Jakub Adamczyk et.al.|[2407.13291](http://arxiv.org/abs/2407.13291)|**[link](https://github.com/scikit-fingerprints/scikit-fingerprints)**|
 |**2024-07-14**|**Pre-training with Fractional Denoising to Enhance Molecular Property Prediction**|Yuyan Ni et.al.|[2407.11086](http://arxiv.org/abs/2407.11086)|null|
@@ -555,7 +555,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## MD
 
@@ -564,14 +564,14 @@
 |**2024-08-20**|**Multiple Topology Replica Exchange of Expanded Ensembles (MT-REXEE) for Multidimensional Alchemical Calculations**|Anika J. Friedman et.al.|[2408.11038](http://arxiv.org/abs/2408.11038)|null|
 |**2024-08-20**|**Reactive molecular dynamics simulations of micrometeoroid bombardment for space weathering of asteroid (162173) Ryugu**|Daigo Shoji et.al.|[2408.10959](http://arxiv.org/abs/2408.10959)|null|
 |**2024-08-19**|**Elucidating the mechanism of helium evaporation from liquid water**|Kritanjan Polley et.al.|[2408.10345](http://arxiv.org/abs/2408.10345)|null|
-|**2024-08-19**|**Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing**|N. Smirnov et.al.|[2408.10138](http://arxiv.org/abs/2408.10138)|null|
+|**2024-08-21**|**Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing**|N. Smirnov et.al.|[2408.10138](http://arxiv.org/abs/2408.10138)|null|
 |**2024-08-16**|**Accelerating ab initio melting property calculations with machine learning: Application to the high entropy alloy TaVCrW**|Li-Fang Zhu et.al.|[2408.08654](http://arxiv.org/abs/2408.08654)|null|
 |**2024-08-15**|**Exploring Latent Space for Generating Peptide Analogs Using Protein Language Models**|Po-Yu Liang et.al.|[2408.08341](http://arxiv.org/abs/2408.08341)|**[link](https://github.com/LabJunBMI/Latent-Space-Peptide-Analogues-Generation)**|
 |**2024-08-10**|**Nanoscale Surfactant Transport: Bridging Molecular and Continuum Models**|Muhammad Rizwanur Rahman et.al.|[2408.08327](http://arxiv.org/abs/2408.08327)|null|
 |**2024-08-15**|**Role of host/guest coupling in stabilizing the phases of the over-tolerant hybrid perovskite MHyPbX3**|Pradhi Srivastava et.al.|[2408.07979](http://arxiv.org/abs/2408.07979)|null|
 |**2024-08-14**|**Force Fields for Deep Eutectic Mixtures: Application to Structure and 2D-Infrared Spectroscopy**|Kai Töpfer et.al.|[2408.07638](http://arxiv.org/abs/2408.07638)|null|
 |**2024-08-14**|**Cyclic and helical symmetry-informed machine learned force fields: Application to lattice vibrations in carbon nanotubes**|Abhiraj Sharma et.al.|[2408.07554](http://arxiv.org/abs/2408.07554)|null|
-|**2024-08-14**|**High Strain Rate Compressive Deformation Behavior of Nickel Microparticles**|Bárbara Bellón et.al.|[2408.07462](http://arxiv.org/abs/2408.07462)|null|
+|**2024-08-21**|**High Strain Rate Compressive Deformation Behavior of Nickel Microparticles**|Bárbara Bellón et.al.|[2408.07462](http://arxiv.org/abs/2408.07462)|null|
 |**2024-08-13**|**Optical line shapes of color centers in solids from classical autocorrelation functions**|Christopher Linderälv et.al.|[2408.06908](http://arxiv.org/abs/2408.06908)|null|
 |**2024-08-13**|**Advancing Nonadiabatic Molecular Dynamics Simulations for Solids: Achieving Supreme Accuracy and Efficiency with Machine Learning**|Changwei Zhang et.al.|[2408.06654](http://arxiv.org/abs/2408.06654)|null|
 |**2024-08-12**|**Thermal Stoner-Wohlfarth Model for Magnetodynamics of Single Domain Nanoparticles: Implementation and Validation**|Deniz Mostarac et.al.|[2408.06136](http://arxiv.org/abs/2408.06136)|null|
@@ -892,7 +892,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## Transformer
 
@@ -920,7 +920,7 @@
 |**2024-08-20**|**Vision Calorimeter for Anti-neutron Reconstruction: A Baseline**|Hongtian Yu et.al.|[2408.10599](http://arxiv.org/abs/2408.10599)|**[link](https://github.com/yuhongtian17/vic)**|
 |**2024-08-20**|**Kalib: Markerless Hand-Eye Calibration with Keypoint Tracking**|Tutian Tang et.al.|[2408.10562](http://arxiv.org/abs/2408.10562)|null|
 |**2024-08-20**|**Forecasting seasonal rainfall in SE Australia using Empirical Orthogonal Functions and Neural Networks**|Stjepan Marcelja et.al.|[2408.10550](http://arxiv.org/abs/2408.10550)|null|
-|**2024-08-20**|**Automated Detection of Algorithm Debt in Deep Learning Frameworks: An Empirical Study**|Emmanuel Iko-Ojo Simon et.al.|[2408.10529](http://arxiv.org/abs/2408.10529)|null|
+|**2024-08-21**|**Automated Detection of Algorithm Debt in Deep Learning Frameworks: An Empirical Study**|Emmanuel Iko-Ojo Simon et.al.|[2408.10529](http://arxiv.org/abs/2408.10529)|null|
 |**2024-08-20**|**BAUST Lipi: A BdSL Dataset with Deep Learning Based Bangla Sign Language Recognition**|Md Hadiuzzaman et.al.|[2408.10518](http://arxiv.org/abs/2408.10518)|null|
 |**2024-08-20**|**Cervical Cancer Detection Using Multi-Branch Deep Learning Model**|Tatsuhiro Baba et.al.|[2408.10498](http://arxiv.org/abs/2408.10498)|null|
 |**2024-08-19**|**Parkinson's Disease Classification via EEG: All You Need is a Single Convolutional Layer**|Md Fahim Anjum et.al.|[2408.10457](http://arxiv.org/abs/2408.10457)|null|
@@ -928,7 +928,7 @@
 |**2024-08-19**|**Learning Regularization for Graph Inverse Problems**|Moshe Eliasof et.al.|[2408.10436](http://arxiv.org/abs/2408.10436)|null|
 |**2024-08-19**|**Towards Automation of Human Stage of Decay Identification: An Artificial Intelligence Approach**|Anna-Maria Nau et.al.|[2408.10414](http://arxiv.org/abs/2408.10414)|null|
 |**2024-08-19**|**Joint Modeling of Search and Recommendations Via an Unified Contextual Recommender (UniCoRn)**|Moumita Bhattacharya et.al.|[2408.10394](http://arxiv.org/abs/2408.10394)|null|
-|**2024-08-19**|**Deep-MacroFin: Informed Equilibrium Neural Network for Continuous Time Economic Models**|Yuntao Wu et.al.|[2408.10368](http://arxiv.org/abs/2408.10368)|null|
+|**2024-08-19**|**Deep-MacroFin: Informed Equilibrium Neural Network for Continuous Time Economic Models**|Yuntao Wu et.al.|[2408.10368](http://arxiv.org/abs/2408.10368)|**[link](https://github.com/rotmanfinhub/deep-macrofin)**|
 |**2024-08-19**|**How Small is Big Enough? Open Labeled Datasets and the Development of Deep Learning**|Daniel Souza et.al.|[2408.10359](http://arxiv.org/abs/2408.10359)|null|
 |**2024-08-19**|**A Disguised Wolf Is More Harmful Than a Toothless Tiger: Adaptive Malicious Code Injection Backdoor Attack Leveraging User Behavior as Triggers**|Shangxi Wu et.al.|[2408.10334](http://arxiv.org/abs/2408.10334)|null|
 |**2024-08-17**|**FedKBP: Federated dose prediction framework for knowledge-based planning in radiation therapy**|Jingyun Chen et.al.|[2408.10275](http://arxiv.org/abs/2408.10275)|null|
@@ -959,7 +959,7 @@
 |**2024-08-18**|**First Discovery and Confirmation of PN Candidates Found from AI and Deep Learning Techniques Applied to VPHAS+ Survey Data**|Yushan Li et.al.|[2408.09482](http://arxiv.org/abs/2408.09482)|null|
 |**2024-08-18**|**Image-Based Geolocation Using Large Vision-Language Models**|Yi Liu et.al.|[2408.09474](http://arxiv.org/abs/2408.09474)|null|
 |**2024-08-18**|**A Spatio-temporal Prediction Methodology Based on Deep Learning and Real Wi-Fi Measurements**|Seyedeh Soheila Shaabanzadeh et.al.|[2408.09423](http://arxiv.org/abs/2408.09423)|null|
-|**2024-08-20**|**Enhancing Startup Success Predictions in Venture Capital: A GraphRAG Augmented Multivariate Time Series Method**|Zitian Gao et.al.|[2408.09420](http://arxiv.org/abs/2408.09420)|null|
+|**2024-08-21**|**Enhancing Startup Success Predictions in Venture Capital: A GraphRAG Augmented Multivariate Time Series Method**|Zitian Gao et.al.|[2408.09420](http://arxiv.org/abs/2408.09420)|null|
 |**2024-08-18**|**OU-CoViT: Copula-Enhanced Bi-Channel Multi-Task Vision Transformers with Dual Adaptation for OU-UWF Images**|Yang Li et.al.|[2408.09395](http://arxiv.org/abs/2408.09395)|null|
 |**2024-08-18**|**Flemme: A Flexible and Modular Learning Platform for Medical Images**|Guoqing Zhang et.al.|[2408.09369](http://arxiv.org/abs/2408.09369)|**[link](https://github.com/wlsdzyzl/flemme)**|
 |**2024-08-18**|**Improving Lung Cancer Diagnosis and Survival Prediction with Deep Learning and CT Imaging**|Xiawei Wang et.al.|[2408.09367](http://arxiv.org/abs/2408.09367)|null|
@@ -4728,7 +4728,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## Binding
 
@@ -4879,7 +4879,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -5005,7 +5005,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
