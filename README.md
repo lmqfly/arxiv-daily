@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Extrinsic Fluctuations in the p53 Cycle**|Manuel Eduardo Hernández-García et.al.|[2408.12107](http://arxiv.org/abs/2408.12107)|null|
 |**2024-08-17**|**NP-TCMtarget: a network pharmacology platform for exploring mechanisms of action of Traditional Chinese medicine**|Aoyi Wang et.al.|[2408.09142](http://arxiv.org/abs/2408.09142)|null|
 |**2024-08-12**|**From new thermodynamics to classical mechanics**|Henmei Ni et.al.|[2408.06005](http://arxiv.org/abs/2408.06005)|null|
 |**2024-07-31**|**Barlow Twins Deep Neural Network for Advanced 1D Drug-Target Interaction Prediction**|Maximilian G. Schuh et.al.|[2408.00040](http://arxiv.org/abs/2408.00040)|null|
@@ -278,6 +279,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-18**|**Crossing New Frontiers: Knowledge-Augmented Large Language Model Prompting for Zero-Shot Text-Based De Novo Molecule Design**|Sakhinana Sagar Srinivas et.al.|[2408.11866](http://arxiv.org/abs/2408.11866)|null|
 |**2024-08-17**|**Fragment-Masked Molecular Optimization**|Kun Li et.al.|[2408.09106](http://arxiv.org/abs/2408.09106)|null|
 |**2024-08-16**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|V Shreyas et.al.|[2408.06261](http://arxiv.org/abs/2408.06261)|null|
 |**2024-07-29**|**Closure to the PRISM equation derived from nonlinear response theory**|James P. Donley et.al.|[2407.20392](http://arxiv.org/abs/2407.20392)|null|
@@ -562,6 +564,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Effect of Frequency-Dependent Viscosity on Molecular Friction in Liquids**|Henrik Kiefer et.al.|[2408.12506](http://arxiv.org/abs/2408.12506)|null|
+|**2024-08-22**|**Unraveling the Atomic-Scale Pathways Driving Pressure-Induced Phase Transitions in Silicon**|Fabrizio Rovaris et.al.|[2408.12358](http://arxiv.org/abs/2408.12358)|null|
+|**2024-08-22**|**Evaluating ion dynamics through Coulomb and Yukawa interaction potentials in one component strongly coupled plasmas**|Swati Swagatika Mishra et.al.|[2408.12156](http://arxiv.org/abs/2408.12156)|null|
 |**2024-08-21**|**Bridging experiment and theory of relaxor ferroelectrics at the atomic scale with multislice electron ptychography**|Menglin Zhu et.al.|[2408.11685](http://arxiv.org/abs/2408.11685)|null|
 |**2024-08-21**|**Durotaxis and antidurotaxis droplet motion onto gradient gel-substrates**|R. Kajouri et.al.|[2408.11622](http://arxiv.org/abs/2408.11622)|null|
 |**2024-08-21**|**Structure and dynamics of the magnetite(001)/water interface from molecular dynamics simulations based on a neural network potential**|Salvatore Romano et.al.|[2408.11538](http://arxiv.org/abs/2408.11538)|null|
@@ -904,6 +909,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/abs/2408.12561)|**[link](https://github.com/lujiazho/ssprop)**|
+|**2024-08-22**|**Automatic Organ and Pan-cancer Segmentation in Abdomen CT: the FLARE 2023 Challenge**|Jun Ma et.al.|[2408.12534](http://arxiv.org/abs/2408.12534)|null|
+|**2024-08-22**|**Deep Learning Improvements for Sparse Spatial Field Reconstruction**|Robert Sunderhaft et.al.|[2408.12531](http://arxiv.org/abs/2408.12531)|null|
+|**2024-08-22**|**Predicting Solar Energy Generation with Machine Learning based on AQI and Weather Features**|Arjun Shah et.al.|[2408.12476](http://arxiv.org/abs/2408.12476)|null|
+|**2024-08-22**|**WCEbleedGen: A wireless capsule endoscopy dataset and its benchmarking for automatic bleeding classification, detection, and segmentation**|Palak Handa et.al.|[2408.12466](http://arxiv.org/abs/2408.12466)|**[link](https://github.com/misahub2023/benchmarking-codes-of-the-wcebleedgen-dataset)**|
+|**2024-08-22**|**Smartphone-based Eye Tracking System using Edge Intelligence and Model Optimisation**|Nishan Gunawardena et.al.|[2408.12463](http://arxiv.org/abs/2408.12463)|null|
+|**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426](http://arxiv.org/abs/2408.12426)|null|
+|**2024-08-22**|**4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment**|Kaihui Cheng et.al.|[2408.12419](http://arxiv.org/abs/2408.12419)|null|
+|**2024-08-22**|**An Evaluation of Deep Learning Models for Stock Market Trend Prediction**|Gonzalo Lopez Gil et.al.|[2408.12408](http://arxiv.org/abs/2408.12408)|null|
+|**2024-08-22**|**Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes**|Sota Kato et.al.|[2408.12406](http://arxiv.org/abs/2408.12406)|**[link](https://github.com/usagisukisuki/g-sam)**|
+|**2024-08-20**|**Fredholm Integral Equations Neural Operator (FIE-NO) for Data-Driven Boundary Value Problems**|Haoyang Jiang et.al.|[2408.12389](http://arxiv.org/abs/2408.12389)|null|
+|**2024-08-20**|**Makeup-Guided Facial Privacy Protection via Untrained Neural Network Priors**|Fahad Shamshad et.al.|[2408.12387](http://arxiv.org/abs/2408.12387)|**[link](https://github.com/fahadshamshad/deep-facial-privacy-prior)**|
+|**2024-08-22**|**Deep Learning with CNNs: A Compact Holistic Tutorial with Focus on Supervised Regression (Preprint)**|Yansel Gonzalez Tejeda et.al.|[2408.12308](http://arxiv.org/abs/2408.12308)|null|
+|**2024-08-22**|**Developing vocal system impaired patient-aimed voice quality assessment approach using ASR representation-included multiple features**|Shaoxiang Dang et.al.|[2408.12279](http://arxiv.org/abs/2408.12279)|null|
+|**2024-08-22**|**Empowering Wireless Network Applications with Deep Learning-based Radio Propagation Models**|Stefanos Bakirtzis et.al.|[2408.12193](http://arxiv.org/abs/2408.12193)|null|
+|**2024-08-22**|**VoiceX: A Text-To-Speech Framework for Custom Voices**|Silvan Mertes et.al.|[2408.12170](http://arxiv.org/abs/2408.12170)|null|
+|**2024-08-22**|**ReorderBench: A Benchmark for Matrix Reordering**|Jiangning Zhu et.al.|[2408.12169](http://arxiv.org/abs/2408.12169)|null|
+|**2024-08-22**|**Search-Based LLMs for Code Optimization**|Shuzheng Gao et.al.|[2408.12159](http://arxiv.org/abs/2408.12159)|null|
+|**2024-08-22**|**DRExplainer: Quantifiable Interpretability in Drug Response Prediction with Directed Graph Convolutional Network**|Haoyuan Shi et.al.|[2408.12139](http://arxiv.org/abs/2408.12139)|**[link](https://github.com/vshy-dream/drexplainer)**|
+|**2024-08-22**|**Cross-border Commodity Pricing Strategy Optimization via Mixed Neural Network for Time Series Analysis**|Lijuan Wang et.al.|[2408.12115](http://arxiv.org/abs/2408.12115)|null|
+|**2024-08-22**|**Risk Analysis in Customer Relationship Management via Quantile Region Convolutional Neural Network-Long Short-Term Memory and Cross-Attention Mechanism**|Yaowen Huang et.al.|[2408.12113](http://arxiv.org/abs/2408.12113)|null|
+|**2024-08-22**|**Mental-Perceiver: Audio-Textual Multimodal Learning for Mental Health Assessment**|Jinghui Qin et.al.|[2408.12088](http://arxiv.org/abs/2408.12088)|null|
+|**2024-08-22**|**Virgo: Cluster-level Matrix Unit Integration in GPUs for Scalability and Energy Efficiency**|Hansung Kim et.al.|[2408.12073](http://arxiv.org/abs/2408.12073)|null|
+|**2024-08-22**|**Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting**|Zixuan Weng et.al.|[2408.12068](http://arxiv.org/abs/2408.12068)|null|
+|**2024-08-22**|**MAC protocol classification in the ISM band using machine learning methods**|Hanieh Rashidpour et.al.|[2408.12059](http://arxiv.org/abs/2408.12059)|null|
+|**2024-08-21**|**Detection of Under-represented Samples Using Dynamic Batch Training for Brain Tumor Segmentation from MR Images**|Subin Sahayam et.al.|[2408.12013](http://arxiv.org/abs/2408.12013)|null|
+|**2024-08-21**|**Energy Estimation of Last Mile Electric Vehicle Routes**|André Snoeck et.al.|[2408.12006](http://arxiv.org/abs/2408.12006)|null|
+|**2024-08-21**|**MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**|Eyal Hanania et.al.|[2408.11992](http://arxiv.org/abs/2408.11992)|null|
+|**2024-08-21**|**Time Series Foundation Models and Deep Learning Architectures for Earthquake Temporal and Spatial Nowcasting**|Alireza Jafari et.al.|[2408.11990](http://arxiv.org/abs/2408.11990)|null|
+|**2024-08-21**|**Application of Convolutional Neural Networks to time domain astrophysics. 2D image analysis of OGLE light curves**|N. Monsalves et.al.|[2408.11960](http://arxiv.org/abs/2408.11960)|null|
+|**2024-08-21**|**HDN:Hybrid Deep-learning and Non-line-of-sight Reconstruction Framework for Photoacoustic Brain Imaging**|Pengcheng Wan et.al.|[2408.11885](http://arxiv.org/abs/2408.11885)|null|
 |**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804](http://arxiv.org/abs/2408.11804)|**[link](https://github.com/dyunis/spectral_dynamics)**|
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
 |**2024-08-21**|**Improving the Scan-rescan Precision of AI-based CMR Biomarker Estimation**|Dewmini Hasara Wickremasinghe et.al.|[2408.11754](http://arxiv.org/abs/2408.11754)|null|
@@ -933,7 +969,7 @@
 |**2024-08-21**|**Koopman AutoEncoder via Singular Value Decomposition for Data-Driven Long-Term Prediction**|Jinho Choi et.al.|[2408.11303](http://arxiv.org/abs/2408.11303)|null|
 |**2024-08-21**|**Modeling Reference-dependent Choices with Graph Neural Networks**|Liang Zhang et.al.|[2408.11302](http://arxiv.org/abs/2408.11302)|null|
 |**2024-08-21**|**The Key of Parameter Skew in Federated Learning**|Sifan Wang et.al.|[2408.11278](http://arxiv.org/abs/2408.11278)|null|
-|**2024-08-21**|**Practical Aspects on Solving Differential Equations Using Deep Learning: A Primer**|Georgios Is. Detorakis et.al.|[2408.11266](http://arxiv.org/abs/2408.11266)|null|
+|**2024-08-21**|**Practical Aspects on Solving Differential Equations Using Deep Learning: A Primer**|Georgios Is. Detorakis et.al.|[2408.11266](http://arxiv.org/abs/2408.11266)|**[link](https://github.com/gdetor/differential_equations_dnn)**|
 |**2024-08-21**|**Automatic Image Annotation (AIA) of AlmondNet-20 Method for Almond Detection by Improved CNN-based Model**|Mohsen Asghari Ilani et.al.|[2408.11253](http://arxiv.org/abs/2408.11253)|null|
 |**2024-08-20**|**Unified Deep Learning Model for Global Prediction of Aboveground Biomass, Canopy Height and Cover from High-Resolution, Multi-Sensor Satellite Imagery**|Manuel Weber et.al.|[2408.11234](http://arxiv.org/abs/2408.11234)|null|
 |**2024-08-20**|**Multi-User Continuous-Aperture Array Communications: How to Learn Current Distribution?**|Jia Guo et.al.|[2408.11230](http://arxiv.org/abs/2408.11230)|null|
@@ -966,8 +1002,8 @@
 |**2024-08-22**|**Automated Detection of Algorithm Debt in Deep Learning Frameworks: An Empirical Study**|Emmanuel Iko-Ojo Simon et.al.|[2408.10529](http://arxiv.org/abs/2408.10529)|null|
 |**2024-08-20**|**BAUST Lipi: A BdSL Dataset with Deep Learning Based Bangla Sign Language Recognition**|Md Hadiuzzaman et.al.|[2408.10518](http://arxiv.org/abs/2408.10518)|null|
 |**2024-08-20**|**Cervical Cancer Detection Using Multi-Branch Deep Learning Model**|Tatsuhiro Baba et.al.|[2408.10498](http://arxiv.org/abs/2408.10498)|null|
-|**2024-08-19**|**Parkinson's Disease Classification via EEG: All You Need is a Single Convolutional Layer**|Md Fahim Anjum et.al.|[2408.10457](http://arxiv.org/abs/2408.10457)|null|
-|**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456](http://arxiv.org/abs/2408.10456)|null|
+|**2024-08-19**|**Parkinson's Disease Classification via EEG: All You Need is a Single Convolutional Layer**|Md Fahim Anjum et.al.|[2408.10457](http://arxiv.org/abs/2408.10457)|**[link](https://github.com/MDFahimAnjum/LightCNNforPD)**|
+|**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456](http://arxiv.org/abs/2408.10456)|**[link](https://github.com/star-ailab/FSRDP)**|
 |**2024-08-19**|**Learning Regularization for Graph Inverse Problems**|Moshe Eliasof et.al.|[2408.10436](http://arxiv.org/abs/2408.10436)|null|
 |**2024-08-19**|**Towards Automation of Human Stage of Decay Identification: An Artificial Intelligence Approach**|Anna-Maria Nau et.al.|[2408.10414](http://arxiv.org/abs/2408.10414)|null|
 |**2024-08-19**|**Joint Modeling of Search and Recommendations Via an Unified Contextual Recommender (UniCoRn)**|Moumita Bhattacharya et.al.|[2408.10394](http://arxiv.org/abs/2408.10394)|null|
