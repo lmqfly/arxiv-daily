@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -921,13 +921,13 @@ layout: default
 |**2024-08-22**|**Learning Robust Features for Scatter Removal and Reconstruction in Dynamic ICF X-Ray Tomography**|Siddhant Gautam et.al.|[2408.12766](http://arxiv.org/abs/2408.12766)|null|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
 |**2024-08-22**|**Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification**|Ziwen Kan et.al.|[2408.12666](http://arxiv.org/abs/2408.12666)|null|
-|**2024-08-22**|**Multilevel Interpretability Of Artificial Neural Networks: Leveraging Framework And Methods From Neuroscience**|Zhonghao He et.al.|[2408.12664](http://arxiv.org/abs/2408.12664)|null|
+|**2024-08-26**|**Multilevel Interpretability Of Artificial Neural Networks: Leveraging Framework And Methods From Neuroscience**|Zhonghao He et.al.|[2408.12664](http://arxiv.org/abs/2408.12664)|null|
 |**2024-08-22**|**Wave-LSTM: Multi-scale analysis of somatic whole genome copy number profiles**|Charles Gadd et.al.|[2408.12636](http://arxiv.org/abs/2408.12636)|null|
 |**2024-08-22**|**Generative Diffusion Model-based Downscaling of Observed Sea Surface Height over Kuroshio Extension since 2000**|Qiuchang Han et.al.|[2408.12632](http://arxiv.org/abs/2408.12632)|null|
 |**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/abs/2408.12561)|**[link](https://github.com/lujiazho/ssprop)**|
 |**2024-08-22**|**Automatic Organ and Pan-cancer Segmentation in Abdomen CT: the FLARE 2023 Challenge**|Jun Ma et.al.|[2408.12534](http://arxiv.org/abs/2408.12534)|null|
 |**2024-08-22**|**Deep Learning Improvements for Sparse Spatial Field Reconstruction**|Robert Sunderhaft et.al.|[2408.12531](http://arxiv.org/abs/2408.12531)|null|
-|**2024-08-22**|**Predicting Solar Energy Generation with Machine Learning based on AQI and Weather Features**|Arjun Shah et.al.|[2408.12476](http://arxiv.org/abs/2408.12476)|null|
+|**2024-08-23**|**Predicting Solar Energy Generation with Machine Learning based on AQI and Weather Features**|Arjun Shah et.al.|[2408.12476](http://arxiv.org/abs/2408.12476)|null|
 |**2024-08-22**|**WCEbleedGen: A wireless capsule endoscopy dataset and its benchmarking for automatic bleeding classification, detection, and segmentation**|Palak Handa et.al.|[2408.12466](http://arxiv.org/abs/2408.12466)|**[link](https://github.com/misahub2023/benchmarking-codes-of-the-wcebleedgen-dataset)**|
 |**2024-08-22**|**Smartphone-based Eye Tracking System using Edge Intelligence and Model Optimisation**|Nishan Gunawardena et.al.|[2408.12463](http://arxiv.org/abs/2408.12463)|null|
 |**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426](http://arxiv.org/abs/2408.12426)|null|
