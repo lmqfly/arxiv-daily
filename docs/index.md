@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -271,7 +271,7 @@ layout: default
 |**2024-08-18**|**Crossing New Frontiers: Knowledge-Augmented Large Language Model Prompting for Zero-Shot Text-Based De Novo Molecule Design**|Sakhinana Sagar Srinivas et.al.|[2408.11866](http://arxiv.org/abs/2408.11866)|null|
 |**2024-08-17**|**Fragment-Masked Molecular Optimization**|Kun Li et.al.|[2408.09106](http://arxiv.org/abs/2408.09106)|null|
 |**2024-08-16**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|V Shreyas et.al.|[2408.06261](http://arxiv.org/abs/2408.06261)|null|
-|**2024-07-29**|**Closure to the PRISM equation derived from nonlinear response theory**|James P. Donley et.al.|[2407.20392](http://arxiv.org/abs/2407.20392)|null|
+|**2024-08-26**|**Closure to the PRISM equation derived from nonlinear response theory**|James P. Donley et.al.|[2407.20392](http://arxiv.org/abs/2407.20392)|null|
 |**2024-07-26**|**Small Molecule Optimization with Large Language Models**|Philipp Guevorguian et.al.|[2407.18897](http://arxiv.org/abs/2407.18897)|**[link](https://github.com/yerevann/chemlactica)**|
 |**2024-07-20**|**Diff4VS: HIV-inhibiting Molecules Generation with Classifier Guidance Diffusion for Virtual Screening**|Jiaqing Lyu et.al.|[2407.15880](http://arxiv.org/abs/2407.15880)|null|
 |**2024-07-19**|**Decomposed Direct Preference Optimization for Structure-Based Drug Design**|Xiwei Cheng et.al.|[2407.13981](http://arxiv.org/abs/2407.13981)|null|
@@ -613,7 +613,7 @@ layout: default
 |**2024-07-25**|**Persistent homology elucidates hierarchical structures in amorphous solids responsible for mechanical properties**|Emi Minamitani et.al.|[2407.17707](http://arxiv.org/abs/2407.17707)|null|
 |**2024-07-24**|**Reverse non-equilibrium molecular dynamics simulations of a melt of Kremer-Grest type model under fast shear**|Tatsuma Oishi et.al.|[2407.17031](http://arxiv.org/abs/2407.17031)|null|
 |**2024-07-23**|**Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses**|Nikolai V. Priezjev et.al.|[2407.16687](http://arxiv.org/abs/2407.16687)|null|
-|**2024-07-23**|**The need to implement FAIR principles in biomolecular simulations**|Rommie Amaro et.al.|[2407.16584](http://arxiv.org/abs/2407.16584)|null|
+|**2024-08-27**|**The need to implement FAIR principles in biomolecular simulations**|Rommie Amaro et.al.|[2407.16584](http://arxiv.org/abs/2407.16584)|null|
 |**2024-07-23**|**When Knots are Plectonemes**|Fei Zheng et.al.|[2407.16290](http://arxiv.org/abs/2407.16290)|null|
 |**2024-07-29**|**Shock Hugoniot calculations using on-the-fly machine learned force fields with ab initio accuracy**|Shashikant Kumar et.al.|[2407.15290](http://arxiv.org/abs/2407.15290)|null|
 |**2024-07-21**|**Theoretical Study on the Structural and Thermodynamic Properties of U-He compounds under High Pressure**|Ye Cao et.al.|[2407.15164](http://arxiv.org/abs/2407.15164)|null|
@@ -900,7 +900,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-26**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
+|**2024-08-27**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
 |**2024-08-26**|**Center Direction Network for Grasping Point Localization on Cloths**|Domen Tabernik et.al.|[2408.14456](http://arxiv.org/abs/2408.14456)|**[link](https://github.com/vicoslab/cedirnet-3dof)**|
 |**2024-08-26**|**Satellite Sunroof: High-res Digital Surface Models and Roof Segmentation for Global Solar Mapping**|Vishal Batchu et.al.|[2408.14400](http://arxiv.org/abs/2408.14400)|null|
 |**2024-08-26**|**Deep learning-based ecological analysis of camera trap images is impacted by training data quality and size**|Omiros Pantazis et.al.|[2408.14348](http://arxiv.org/abs/2408.14348)|null|
@@ -909,7 +909,7 @@ layout: default
 |**2024-08-26**|**LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**|Yayati Jadhav et.al.|[2408.14307](http://arxiv.org/abs/2408.14307)|null|
 |**2024-08-26**|**Reduce Computational Complexity for Continuous Wavelet Transform in Acoustic Recognition Using Hop Size**|Dang Thoai Phan et.al.|[2408.14302](http://arxiv.org/abs/2408.14302)|**[link](https://github.com/phandangthoai/Continuous-Wavelet-Transform-in-Acoustic-Recognition-Using-Hop-Size)**|
 |**2024-08-26**|**Predictability and Causality in Spanish and English Natural Language Generation**|Andrea Busto-Castiñeira et.al.|[2408.14283](http://arxiv.org/abs/2408.14283)|null|
-|**2024-08-26**|**Text3DAug -- Prompted Instance Augmentation for LiDAR Perception**|Laurenz Reichardt et.al.|[2408.14253](http://arxiv.org/abs/2408.14253)|null|
+|**2024-08-27**|**Text3DAug -- Prompted Instance Augmentation for LiDAR Perception**|Laurenz Reichardt et.al.|[2408.14253](http://arxiv.org/abs/2408.14253)|null|
 |**2024-08-26**|**PAPR Reduction based on Deep Learning Autoencoder in Coherent Optical OFDM Systems**|Omar Alnaseri et.al.|[2408.14248](http://arxiv.org/abs/2408.14248)|null|
 |**2024-08-26**|**Efficient Active Flow Control Strategy for Confined Square Cylinder Wake Using Deep Learning-Based Surrogate Model and Reinforcement Learning**|Meng Zhang et.al.|[2408.14232](http://arxiv.org/abs/2408.14232)|null|
 |**2024-08-26**|**Lemon and Orange Disease Classification using CNN-Extracted Features and Machine Learning Classifier**|Khandoker Nosiba Arifin et.al.|[2408.14206](http://arxiv.org/abs/2408.14206)|null|
@@ -972,7 +972,7 @@ layout: default
 |**2024-08-23**|**A plug-and-play framework for curvilinear structure segmentation based on a learned reconnecting regularization**|Sophie Carneiro-Esteves et.al.|[2408.12943](http://arxiv.org/abs/2408.12943)|null|
 |**2024-08-23**|**COVID-19 Probability Prediction Using Machine Learning: An Infectious Approach**|Mohsen Asghari Ilani et.al.|[2408.12841](http://arxiv.org/abs/2408.12841)|null|
 |**2024-08-23**|**Underwater SONAR Image Classification and Analysis using LIME-based Explainable Artificial Intelligence**|Purushothaman Natarajan et.al.|[2408.12837](http://arxiv.org/abs/2408.12837)|**[link](https://github.com/Purushothaman-natarajan/Under-water-sonar-image-classification)**|
-|**2024-08-23**|**Intelligent OPC Engineer Assistant for Semiconductor Manufacturing**|Guojin Chen et.al.|[2408.12775](http://arxiv.org/abs/2408.12775)|null|
+|**2024-08-27**|**Intelligent OPC Engineer Assistant for Semiconductor Manufacturing**|Guojin Chen et.al.|[2408.12775](http://arxiv.org/abs/2408.12775)|null|
 |**2024-08-22**|**Learning Robust Features for Scatter Removal and Reconstruction in Dynamic ICF X-Ray Tomography**|Siddhant Gautam et.al.|[2408.12766](http://arxiv.org/abs/2408.12766)|null|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
 |**2024-08-22**|**Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification**|Ziwen Kan et.al.|[2408.12666](http://arxiv.org/abs/2408.12666)|null|
