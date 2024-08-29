@@ -158,6 +158,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**RGDA-DDI: Residual graph attention network and dual-attention based framework for drug-drug interaction prediction**|Changjian Zhou et.al.|[2408.15310](http://arxiv.org/abs/2408.15310)|null|
 |**2024-08-02**|**Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408](http://arxiv.org/abs/2408.01408)|**[link](https://github.com/AnnonymousForPapers/GCN-proof)**|
 |**2024-07-31**|**ZeroDDI: A Zero-Shot Drug-Drug Interaction Event Prediction Method with Semantic Enhanced Learning and Dual-Modal Uniform Alignment**|Ziyan Wang et.al.|[2407.00891](http://arxiv.org/abs/2407.00891)|**[link](https://github.com/wzy-sarah/zeroddi)**|
 |**2024-05-31**|**ADEP: A Novel Approach Based on Discriminator-Enhanced Encoder-Decoder Architecture for Accurate Prediction of Adverse Effects in Polypharmacy**|Katayoun Kobraei et.al.|[2406.00118](http://arxiv.org/abs/2406.00118)|**[link](https://github.com/m0hssn/adep)**|
@@ -550,6 +551,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Structural transitions of a Semi-Flexible Polyampholyte**|Rakesh Palariya et.al.|[2408.15921](http://arxiv.org/abs/2408.15921)|null|
+|**2024-08-28**|**Polar order in a fluid like ferroelectric with a tilted lamellar structure -- observation of a polar smectic C (SmC ${_\textrm{P}}$ ) phase**|Jordan Hobbs et.al.|[2408.15859](http://arxiv.org/abs/2408.15859)|null|
+|**2024-08-28**|**Fast and accurate machine-learned interatomic potentials for large-scale simulations of Cu, Al and Ni**|Aslak Fellman et.al.|[2408.15779](http://arxiv.org/abs/2408.15779)|null|
+|**2024-08-28**|**There is Nothing Anomalous about 'Anomalous' Underscreening in Concentrated Electrolytes**|Sophie Baker et.al.|[2408.15685](http://arxiv.org/abs/2408.15685)|null|
+|**2024-08-28**|**Energy Relaxation of N $_2$O in Gaseous, Supercritical and Liquid Xenon and SF$_6$**|Kai Töpfer et.al.|[2408.15636](http://arxiv.org/abs/2408.15636)|null|
 |**2024-08-27**|**Allosteric communication mediated by protein contact clusters: A dynamical model**|Ahmed A. A. I. Ali et.al.|[2408.15110](http://arxiv.org/abs/2408.15110)|null|
 |**2024-08-27**|**Viscosity as the product of its low-concentration value times a thermodynamic function**|L. Marchioni et.al.|[2408.15039](http://arxiv.org/abs/2408.15039)|null|
 |**2024-08-27**|**Fully Polarizable Multiconfigurational Self-consistent Field/Fluctuating Charge Approach**|Chiara Sepali et.al.|[2408.14891](http://arxiv.org/abs/2408.14891)|null|
@@ -624,7 +630,7 @@ layout: default
 |**2024-07-21**|**Theoretical Study on the Structural and Thermodynamic Properties of U-He compounds under High Pressure**|Ye Cao et.al.|[2407.15164](http://arxiv.org/abs/2407.15164)|null|
 |**2024-07-21**|**Deterministic and Efficient Switching of Sliding Ferroelectrics**|Shihan Deng et.al.|[2407.15081](http://arxiv.org/abs/2407.15081)|null|
 |**2024-07-20**|**Disentangling Electronic and Phononic Thermal Transport Across 2D Interfaces**|Linxin Zhai et.al.|[2407.14898](http://arxiv.org/abs/2407.14898)|null|
-|**2024-07-20**|**mdCATH: A Large-Scale MD Dataset for Data-Driven Computational Biophysics**|Antonio Mirarchi et.al.|[2407.14794](http://arxiv.org/abs/2407.14794)|null|
+|**2024-07-20**|**mdCATH: A Large-Scale MD Dataset for Data-Driven Computational Biophysics**|Antonio Mirarchi et.al.|[2407.14794](http://arxiv.org/abs/2407.14794)|**[link](https://github.com/compsciencelab/mdCATH)**|
 |**2024-07-19**|**Examining composition-dependent radiation response in AlGaN**|Miaomiao Jin et.al.|[2407.14456](http://arxiv.org/abs/2407.14456)|null|
 |**2024-08-15**|**Coarse-graining bistability with the Martini force field**|Alexander D. Muratov et.al.|[2407.14440](http://arxiv.org/abs/2407.14440)|null|
 |**2024-07-19**|**On the Edge Roughness of Two-Dimensional Materials**|Pengjie Shi et.al.|[2407.14134](http://arxiv.org/abs/2407.14134)|null|
@@ -905,6 +911,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999](http://arxiv.org/abs/2408.15999)|null|
+|**2024-08-28**|**ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution**|Sungduk Yu et.al.|[2408.15993](http://arxiv.org/abs/2408.15993)|null|
+|**2024-08-28**|**Generating Binary Species Range Maps**|Filip Dorm et.al.|[2408.15956](http://arxiv.org/abs/2408.15956)|null|
+|**2024-08-28**|**Auxiliary Input in Training: Incorporating Catheter Features into Deep Learning Models for ECG-Free Dynamic Coronary Roadmapping**|Yikang Liu et.al.|[2408.15947](http://arxiv.org/abs/2408.15947)|null|
+|**2024-08-28**|**Sigma Flows for Image and Data Labeling and Learning Structured Prediction**|Jonas Cassel et.al.|[2408.15946](http://arxiv.org/abs/2408.15946)|null|
+|**2024-08-28**|**A New Method for Cross-Lingual-based Semantic Role Labeling**|Mohammad Ebrahimi et.al.|[2408.15896](http://arxiv.org/abs/2408.15896)|null|
+|**2024-08-28**|**The Role of Fibration Symmetries in Geometric Deep Learning**|Osvaldo Velarde et.al.|[2408.15894](http://arxiv.org/abs/2408.15894)|null|
+|**2024-08-28**|**An Empirical Study of API Misuses of Data-Centric Libraries**|Akalanka Galappaththi et.al.|[2408.15853](http://arxiv.org/abs/2408.15853)|null|
+|**2024-08-28**|**A Neural Material Point Method for Particle-based Simulations**|Omer Rochman Sharabi et.al.|[2408.15753](http://arxiv.org/abs/2408.15753)|null|
+|**2024-08-28**|**A Hybrid Approach for Low-Complexity Joint Acoustic Echo and Noise Reduction**|Shrishti Saha Shetu et.al.|[2408.15746](http://arxiv.org/abs/2408.15746)|null|
+|**2024-08-28**|**Synthetic Forehead-creases Biometric Generation for Reliable User Verification**|Abhishek Tandon et.al.|[2408.15693](http://arxiv.org/abs/2408.15693)|null|
+|**2024-08-28**|**Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts**|Fanjie Xu et.al.|[2408.15681](http://arxiv.org/abs/2408.15681)|null|
+|**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678](http://arxiv.org/abs/2408.15678)|null|
+|**2024-08-28**|**Towards reliable respiratory disease diagnosis based on cough sounds and vision transformers**|Qian Wang et.al.|[2408.15667](http://arxiv.org/abs/2408.15667)|null|
+|**2024-08-28**|**Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings**|Lingyu Gao et.al.|[2408.15650](http://arxiv.org/abs/2408.15650)|null|
+|**2024-08-28**|**Leveraging Persistent Homology for Differential Diagnosis of Mild Cognitive Impairment**|Ninad Aithal et.al.|[2408.15647](http://arxiv.org/abs/2408.15647)|null|
+|**2024-08-28**|**PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**|Kaiqiao Yang et.al.|[2408.15583](http://arxiv.org/abs/2408.15583)|null|
+|**2024-08-28**|**Hierarchical Visual Categories Modeling: A Joint Representation Learning and Density Estimation Framework for Out-of-Distribution Detection**|Jinglun Li et.al.|[2408.15580](http://arxiv.org/abs/2408.15580)|null|
+|**2024-08-28**|**Latent Relationship Mining of Glaucoma Biomarkers: a TRI-LSTM based Deep Learning**|Cheng Huang et.al.|[2408.15555](http://arxiv.org/abs/2408.15555)|null|
+|**2024-08-28**|**A Novel Denoising Technique and Deep Learning Based Hybrid Wind Speed Forecasting Model for Variable Terrain Conditions**|Sourav Malakar et.al.|[2408.15554](http://arxiv.org/abs/2408.15554)|null|
+|**2024-08-28**|**Deep Learning to Predict Late-Onset Breast Cancer Metastasis: the Single Hyperparameter Grid Search (SHGS) Strategy for Meta Tuning Concerning Deep Feed-forward Neural Network**|Yijun Zhou et.al.|[2408.15498](http://arxiv.org/abs/2408.15498)|null|
+|**2024-08-28**|**Remove Symmetries to Control Model Expressivity**|Liu Ziyin et.al.|[2408.15495](http://arxiv.org/abs/2408.15495)|null|
+|**2024-08-27**|**On the effectiveness of smartphone IMU sensors and Deep Learning in the detection of cardiorespiratory conditions**|Lorenzo Simone et.al.|[2408.15357](http://arxiv.org/abs/2408.15357)|null|
+|**2024-08-27**|**Optimizing Lung Cancer Detection in CT Imaging: A Wavelet Multi-Layer Perceptron (WMLP) Approach Enhanced by Dragonfly Algorithm (DA)**|Bitasadat Jamshidi et.al.|[2408.15355](http://arxiv.org/abs/2408.15355)|null|
+|**2024-08-27**|**TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering**|Yiqing Shen et.al.|[2408.15299](http://arxiv.org/abs/2408.15299)|**[link](https://github.com/tsynbio/TourSynbio)**|
+|**2024-08-27**|**Feature Representations for Automatic Meerkat Vocalization Classification**|Imen Ben Mahmoud et.al.|[2408.15296](http://arxiv.org/abs/2408.15296)|null|
+|**2024-08-26**|**Multi-Class Plant Leaf Disease Detection: A CNN-based Approach with Mobile App Integration**|Md Aziz Hosen Foysal et.al.|[2408.15289](http://arxiv.org/abs/2408.15289)|null|
 |**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243](http://arxiv.org/abs/2408.15243)|null|
 |**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
 |**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
@@ -929,7 +962,7 @@ layout: default
 |**2024-08-27**|**Personalized Video Summarization using Text-Based Queries and Conditional Modeling**|Jia-Hong Huang et.al.|[2408.14743](http://arxiv.org/abs/2408.14743)|null|
 |**2024-08-27**|**Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation**|Bochao Liu et.al.|[2408.14738](http://arxiv.org/abs/2408.14738)|null|
 |**2024-08-27**|**StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech**|Haowei Lou et.al.|[2408.14713](http://arxiv.org/abs/2408.14713)|null|
-|**2024-08-26**|**Can Optimization Trajectories Explain Multi-Task Transfer?**|David Mueller et.al.|[2408.14677](http://arxiv.org/abs/2408.14677)|null|
+|**2024-08-26**|**Can Optimization Trajectories Explain Multi-Task Transfer?**|David Mueller et.al.|[2408.14677](http://arxiv.org/abs/2408.14677)|**[link](https://github.com/davidandym/Multi-Task-Optimization)**|
 |**2024-08-26**|**gWaveNet: Classification of Gravity Waves from Noisy Satellite Data using Custom Kernel Integrated Deep Learning Method**|Seraj Al Mahmud Mostafa et.al.|[2408.14674](http://arxiv.org/abs/2408.14674)|null|
 |**2024-08-26**|**Comparative Analysis: Violence Recognition from Videos using Transfer Learning**|Dursun Dashdamirov et.al.|[2408.14659](http://arxiv.org/abs/2408.14659)|**[link](https://github.com/ddursun/violence-detection)**|
 |**2024-08-26**|**Hybrid Deep Convolutional Neural Networks Combined with Autoencoders And Augmented Data To Predict The Look-Up Table 2006**|Messaoud Djeddou et.al.|[2408.14626](http://arxiv.org/abs/2408.14626)|null|
@@ -943,7 +976,7 @@ layout: default
 |**2024-08-26**|**Center Direction Network for Grasping Point Localization on Cloths**|Domen Tabernik et.al.|[2408.14456](http://arxiv.org/abs/2408.14456)|**[link](https://github.com/vicoslab/cedirnet-3dof)**|
 |**2024-08-26**|**Satellite Sunroof: High-res Digital Surface Models and Roof Segmentation for Global Solar Mapping**|Vishal Batchu et.al.|[2408.14400](http://arxiv.org/abs/2408.14400)|null|
 |**2024-08-26**|**Deep learning-based ecological analysis of camera trap images is impacted by training data quality and size**|Omiros Pantazis et.al.|[2408.14348](http://arxiv.org/abs/2408.14348)|null|
-|**2024-08-26**|**Function-Space MCMC for Bayesian Wide Neural Networks**|Lucia Pezzetti et.al.|[2408.14325](http://arxiv.org/abs/2408.14325)|null|
+|**2024-08-26**|**Function-Space MCMC for Bayesian Wide Neural Networks**|Lucia Pezzetti et.al.|[2408.14325](http://arxiv.org/abs/2408.14325)|**[link](https://github.com/lucia-pezzetti/function-space-mcmc-for-wide-bnns)**|
 |**2024-08-26**|**Claim Verification in the Age of Large Language Models: A Survey**|Alphaeus Dmonte et.al.|[2408.14317](http://arxiv.org/abs/2408.14317)|null|
 |**2024-08-26**|**LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**|Yayati Jadhav et.al.|[2408.14307](http://arxiv.org/abs/2408.14307)|null|
 |**2024-08-26**|**Reduce Computational Complexity for Continuous Wavelet Transform in Acoustic Recognition Using Hop Size**|Dang Thoai Phan et.al.|[2408.14302](http://arxiv.org/abs/2408.14302)|**[link](https://github.com/phandangthoai/Continuous-Wavelet-Transform-in-Acoustic-Recognition-Using-Hop-Size)**|
@@ -5070,6 +5103,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**The Role of Fibration Symmetries in Geometric Deep Learning**|Osvaldo Velarde et.al.|[2408.15894](http://arxiv.org/abs/2408.15894)|null|
 |**2024-08-21**|**One-step Structure Prediction and Screening for Protein-Ligand Complexes using Multi-Task Geometric Deep Learning**|Kelei He et.al.|[2408.11356](http://arxiv.org/abs/2408.11356)|null|
 |**2024-07-23**|**Learning Networked Dynamical System Models with Weak Form and Graph Neural Networks**|Yin Yu et.al.|[2407.16779](http://arxiv.org/abs/2407.16779)|null|
 |**2024-07-23**|**Conformally Natural Families of Probability Distributions on Hyperbolic Disc with a View on Geometric Deep Learning**|Vladimir Jacimovic et.al.|[2407.16733](http://arxiv.org/abs/2407.16733)|null|
