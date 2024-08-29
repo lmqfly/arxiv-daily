@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-27**|**Fully Polarizable Multiconfigurational Self-consistent Field/Fluctuating Charge Approach**|Chiara Sepali et.al.|[2408.14891](http://arxiv.org/abs/2408.14891)|null|
 |**2024-08-26**|**Liquid-liquid phase separation at the interface of an evaporating droplet; formation of a regular lattice pattern**|Vahid Nasirimarekani et.al.|[2408.14129](http://arxiv.org/abs/2408.14129)|null|
-|**2024-08-24**|**Quantum-machine-assisted Drug Discovery: Survey and Perspective**|Yidong Zhou et.al.|[2408.13479](http://arxiv.org/abs/2408.13479)|null|
+|**2024-08-28**|**Quantum-machine-assisted Drug Discovery: Survey and Perspective**|Yidong Zhou et.al.|[2408.13479](http://arxiv.org/abs/2408.13479)|null|
 |**2024-08-23**|**DrugAgent: Explainable Drug Repurposing Agent with Large Language Model-based Reasoning**|Yoshitaka Inoue et.al.|[2408.13378](http://arxiv.org/abs/2408.13378)|null|
 |**2024-08-22**|**Extrinsic Fluctuations in the p53 Cycle**|Manuel Eduardo Hernández-García et.al.|[2408.12107](http://arxiv.org/abs/2408.12107)|null|
 |**2024-08-17**|**NP-TCMtarget: a network pharmacology platform for exploring mechanisms of action of Traditional Chinese medicine**|Aoyi Wang et.al.|[2408.09142](http://arxiv.org/abs/2408.09142)|null|
@@ -923,7 +923,7 @@ layout: default
 |**2024-08-27**|**A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets**|Assaf Shmuel et.al.|[2408.14817](http://arxiv.org/abs/2408.14817)|null|
 |**2024-08-27**|**Generalist Segmentation Algorithm for Photoreceptors Analysis in Adaptive Optics Imaging**|Mikhail Kulyabin et.al.|[2408.14810](http://arxiv.org/abs/2408.14810)|null|
 |**2024-08-27**|**Revisiting Surgical Instrument Segmentation Without Human Intervention: A Graph Partitioning View**|Mingyu Sheng et.al.|[2408.14789](http://arxiv.org/abs/2408.14789)|**[link](https://github.com/mingyushengsmy/graphclusteringsis)**|
-|**2024-08-27**|**GINN-KAN: Interpretability pipelining with applications in Physics Informed Neural Networks**|Nisal Ranasinghe et.al.|[2408.14780](http://arxiv.org/abs/2408.14780)|null|
+|**2024-08-28**|**GINN-KAN: Interpretability pipelining with applications in Physics Informed Neural Networks**|Nisal Ranasinghe et.al.|[2408.14780](http://arxiv.org/abs/2408.14780)|null|
 |**2024-08-27**|**Text-guided Foundation Model Adaptation for Long-Tailed Medical Image Classification**|Sirui Li et.al.|[2408.14770](http://arxiv.org/abs/2408.14770)|null|
 |**2024-08-27**|**Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models**|Nobuo Namura et.al.|[2408.14756](http://arxiv.org/abs/2408.14756)|null|
 |**2024-08-27**|**Personalized Video Summarization using Text-Based Queries and Conditional Modeling**|Jia-Hong Huang et.al.|[2408.14743](http://arxiv.org/abs/2408.14743)|null|
@@ -968,7 +968,7 @@ layout: default
 |**2024-08-25**|**Awake at the Wheel: Enhancing Automotive Safety through EEG-Based Fatigue Detection**|Gourav Siddhad et.al.|[2408.13929](http://arxiv.org/abs/2408.13929)|null|
 |**2024-08-25**|**Neural Spacetimes for DAG Representation Learning**|Haitz Sáez de Ocáriz Borde et.al.|[2408.13885](http://arxiv.org/abs/2408.13885)|null|
 |**2024-08-25**|**A Low-dose CT Reconstruction Network Based on TV-regularized OSEM Algorithm**|Ran An et.al.|[2408.13832](http://arxiv.org/abs/2408.13832)|null|
-|**2024-08-25**|**HER2 and FISH Status Prediction in Breast Biopsy H&E-Stained Images Using Deep Learning**|Ardhendu Sekhar et.al.|[2408.13818](http://arxiv.org/abs/2408.13818)|null|
+|**2024-08-28**|**HER2 and FISH Status Prediction in Breast Biopsy H&E-Stained Images Using Deep Learning**|Ardhendu Sekhar et.al.|[2408.13818](http://arxiv.org/abs/2408.13818)|null|
 |**2024-08-25**|**TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather**|Xiongwei Zhao et.al.|[2408.13802](http://arxiv.org/abs/2408.13802)|**[link](https://github.com/grandzxw/triplemixer)**|
 |**2024-08-25**|**Selectively Dilated Convolution for Accuracy-Preserving Sparse Pillar-based Embedded 3D Object Detection**|Seongmin Park et.al.|[2408.13798](http://arxiv.org/abs/2408.13798)|null|
 |**2024-08-25**|**3D-VirtFusion: Synthetic 3D Data Augmentation through Generative Diffusion Models and Controllable Editing**|Shichao Dong et.al.|[2408.13788](http://arxiv.org/abs/2408.13788)|null|
