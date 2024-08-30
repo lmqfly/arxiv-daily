@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -923,7 +923,7 @@ layout: default
 |**2024-08-28**|**A Hybrid Approach for Low-Complexity Joint Acoustic Echo and Noise Reduction**|Shrishti Saha Shetu et.al.|[2408.15746](http://arxiv.org/abs/2408.15746)|null|
 |**2024-08-28**|**Synthetic Forehead-creases Biometric Generation for Reliable User Verification**|Abhishek Tandon et.al.|[2408.15693](http://arxiv.org/abs/2408.15693)|null|
 |**2024-08-28**|**Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts**|Fanjie Xu et.al.|[2408.15681](http://arxiv.org/abs/2408.15681)|null|
-|**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678](http://arxiv.org/abs/2408.15678)|null|
+|**2024-08-29**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678](http://arxiv.org/abs/2408.15678)|null|
 |**2024-08-28**|**Towards reliable respiratory disease diagnosis based on cough sounds and vision transformers**|Qian Wang et.al.|[2408.15667](http://arxiv.org/abs/2408.15667)|null|
 |**2024-08-28**|**Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings**|Lingyu Gao et.al.|[2408.15650](http://arxiv.org/abs/2408.15650)|null|
 |**2024-08-28**|**Leveraging Persistent Homology for Differential Diagnosis of Mild Cognitive Impairment**|Ninad Aithal et.al.|[2408.15647](http://arxiv.org/abs/2408.15647)|null|
@@ -941,9 +941,9 @@ layout: default
 |**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243](http://arxiv.org/abs/2408.15243)|null|
 |**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
 |**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
-|**2024-08-27**|**Force-Guided Bridge Matching for Full-Atom Time-Coarsened Dynamics of Peptides**|Ziyang Yu et.al.|[2408.15126](http://arxiv.org/abs/2408.15126)|**[link](https://github.com/yaledeus/fbm)**|
+|**2024-08-29**|**Force-Guided Bridge Matching for Full-Atom Time-Coarsened Dynamics of Peptides**|Ziyang Yu et.al.|[2408.15126](http://arxiv.org/abs/2408.15126)|**[link](https://github.com/yaledeus/fbm)**|
 |**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103](http://arxiv.org/abs/2408.15103)|**[link](https://github.com/valfride/lpsr-lacd)**|
-|**2024-08-27**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077](http://arxiv.org/abs/2408.15077)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
+|**2024-08-28**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077](http://arxiv.org/abs/2408.15077)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
 |**2024-08-27**|**Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14964](http://arxiv.org/abs/2408.14964)|null|
 |**2024-08-27**|**Deep Learning-based Average Shear Wave Velocity Prediction using Accelerometer Records**|Barış Yılmaz et.al.|[2408.14962](http://arxiv.org/abs/2408.14962)|null|
 |**2024-08-27**|**Automatic Detection of COVID-19 from Chest X-ray Images Using Deep Learning Model**|Alloy Das et.al.|[2408.14927](http://arxiv.org/abs/2408.14927)|null|
@@ -954,7 +954,7 @@ layout: default
 |**2024-08-27**|**Time-Aware Face Anti-Spoofing with Rotation Invariant Local Binary Patterns and Deep Learning**|Moritz Finke et.al.|[2408.14829](http://arxiv.org/abs/2408.14829)|null|
 |**2024-08-27**|**From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation**|Nada Shahin et.al.|[2408.14825](http://arxiv.org/abs/2408.14825)|null|
 |**2024-08-27**|**A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets**|Assaf Shmuel et.al.|[2408.14817](http://arxiv.org/abs/2408.14817)|null|
-|**2024-08-27**|**Generalist Segmentation Algorithm for Photoreceptors Analysis in Adaptive Optics Imaging**|Mikhail Kulyabin et.al.|[2408.14810](http://arxiv.org/abs/2408.14810)|null|
+|**2024-08-29**|**Generalist Segmentation Algorithm for Photoreceptors Analysis in Adaptive Optics Imaging**|Mikhail Kulyabin et.al.|[2408.14810](http://arxiv.org/abs/2408.14810)|null|
 |**2024-08-27**|**Revisiting Surgical Instrument Segmentation Without Human Intervention: A Graph Partitioning View**|Mingyu Sheng et.al.|[2408.14789](http://arxiv.org/abs/2408.14789)|**[link](https://github.com/mingyushengsmy/graphclusteringsis)**|
 |**2024-08-28**|**GINN-KAN: Interpretability pipelining with applications in Physics Informed Neural Networks**|Nisal Ranasinghe et.al.|[2408.14780](http://arxiv.org/abs/2408.14780)|null|
 |**2024-08-27**|**Text-guided Foundation Model Adaptation for Long-Tailed Medical Image Classification**|Sirui Li et.al.|[2408.14770](http://arxiv.org/abs/2408.14770)|null|
@@ -974,9 +974,9 @@ layout: default
 |**2024-08-23**|**A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models**|Dibaloke Chanda et.al.|[2408.14496](http://arxiv.org/abs/2408.14496)|null|
 |**2024-08-27**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
 |**2024-08-26**|**Center Direction Network for Grasping Point Localization on Cloths**|Domen Tabernik et.al.|[2408.14456](http://arxiv.org/abs/2408.14456)|**[link](https://github.com/vicoslab/cedirnet-3dof)**|
-|**2024-08-26**|**Satellite Sunroof: High-res Digital Surface Models and Roof Segmentation for Global Solar Mapping**|Vishal Batchu et.al.|[2408.14400](http://arxiv.org/abs/2408.14400)|null|
+|**2024-08-29**|**Satellite Sunroof: High-res Digital Surface Models and Roof Segmentation for Global Solar Mapping**|Vishal Batchu et.al.|[2408.14400](http://arxiv.org/abs/2408.14400)|null|
 |**2024-08-26**|**Deep learning-based ecological analysis of camera trap images is impacted by training data quality and size**|Omiros Pantazis et.al.|[2408.14348](http://arxiv.org/abs/2408.14348)|null|
-|**2024-08-26**|**Function-Space MCMC for Bayesian Wide Neural Networks**|Lucia Pezzetti et.al.|[2408.14325](http://arxiv.org/abs/2408.14325)|**[link](https://github.com/lucia-pezzetti/function-space-mcmc-for-wide-bnns)**|
+|**2024-08-28**|**Function-Space MCMC for Bayesian Wide Neural Networks**|Lucia Pezzetti et.al.|[2408.14325](http://arxiv.org/abs/2408.14325)|**[link](https://github.com/lucia-pezzetti/function-space-mcmc-for-wide-bnns)**|
 |**2024-08-26**|**Claim Verification in the Age of Large Language Models: A Survey**|Alphaeus Dmonte et.al.|[2408.14317](http://arxiv.org/abs/2408.14317)|null|
 |**2024-08-26**|**LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**|Yayati Jadhav et.al.|[2408.14307](http://arxiv.org/abs/2408.14307)|null|
 |**2024-08-26**|**Reduce Computational Complexity for Continuous Wavelet Transform in Acoustic Recognition Using Hop Size**|Dang Thoai Phan et.al.|[2408.14302](http://arxiv.org/abs/2408.14302)|**[link](https://github.com/phandangthoai/Continuous-Wavelet-Transform-in-Acoustic-Recognition-Using-Hop-Size)**|
@@ -994,7 +994,7 @@ layout: default
 |**2024-08-26**|**HABD: a houma alliance book ancient handwritten character recognition database**|Xiaoyu Yuan et.al.|[2408.14084](http://arxiv.org/abs/2408.14084)|null|
 |**2024-08-26**|**Evaluating the Visual Similarity of Southwest China's Ethnic Minority Brocade Based on Deep Learning**|Shichen Liu et.al.|[2408.14060](http://arxiv.org/abs/2408.14060)|null|
 |**2024-08-26**|**Revisiting time-variant complex conjugate matrix equations with their corresponding real field time-variant large-scale linear equations, neural hypercomplex numbers space compressive approximation approach**|Jiakuang He et.al.|[2408.14057](http://arxiv.org/abs/2408.14057)|null|
-|**2024-08-26**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028](http://arxiv.org/abs/2408.14028)|null|
+|**2024-08-28**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028](http://arxiv.org/abs/2408.14028)|null|
 |**2024-08-26**|**AgentMove: Predicting Human Mobility Anywhere Using Large Language Model based Agentic Framework**|Jie Feng et.al.|[2408.13986](http://arxiv.org/abs/2408.13986)|**[link](https://github.com/tsinghua-fib-lab/agentmove)**|
 |**2024-08-25**|**Bidirectional Awareness Induction in Autoregressive Seq2Seq Models**|Jia Cheng Hu et.al.|[2408.13959](http://arxiv.org/abs/2408.13959)|null|
 |**2024-08-25**|**Bridging the Gap between Real-world and Synthetic Images for Testing Autonomous Driving Systems**|Mohammad Hossein Amini et.al.|[2408.13950](http://arxiv.org/abs/2408.13950)|null|
@@ -1009,7 +1009,7 @@ layout: default
 |**2024-08-25**|**Batch-FPM: Random batch-update multi-parameter physical Fourier ptychography neural network**|Ruiqing Sun et.al.|[2408.13782](http://arxiv.org/abs/2408.13782)|null|
 |**2024-08-25**|**Lecture Notes on Linear Neural Networks: A Tale of Optimization and Generalization in Deep Learning**|Nadav Cohen et.al.|[2408.13767](http://arxiv.org/abs/2408.13767)|null|
 |**2024-08-25**|**Self-Parameterization Based Multi-Resolution Mesh Convolution Networks**|Shi Hezi et.al.|[2408.13762](http://arxiv.org/abs/2408.13762)|null|
-|**2024-08-25**|**Enhancing Adaptive Deep Networks for Image Classification via Uncertainty-aware Decision Fusion**|Xu Zhang et.al.|[2408.13744](http://arxiv.org/abs/2408.13744)|**[link](https://github.com/meteor-stars/gcdm_adaptivenet)**|
+|**2024-08-29**|**Enhancing Adaptive Deep Networks for Image Classification via Uncertainty-aware Decision Fusion**|Xu Zhang et.al.|[2408.13744](http://arxiv.org/abs/2408.13744)|**[link](https://github.com/meteor-stars/gcdm_adaptivenet)**|
 |**2024-08-24**|**Beamline Steering Using Deep Learning Models**|Dexter Allen et.al.|[2408.13657](http://arxiv.org/abs/2408.13657)|null|
 |**2024-08-24**|**Enhanced Astronomical Source Classification with Integration of Attention Mechanisms and Vision Transformers**|Srinadh Reddy Bhavanam et.al.|[2408.13634](http://arxiv.org/abs/2408.13634)|null|
 |**2024-08-24**|**Adaptive Graded Denoising of Seismic Data Based on Noise Estimation and Local Similarity**|Xueting Yang et.al.|[2408.13578](http://arxiv.org/abs/2408.13578)|null|
