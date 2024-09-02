@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -627,7 +627,7 @@ layout: default
 |**2024-07-25**|**Persistent homology elucidates hierarchical structures in amorphous solids responsible for mechanical properties**|Emi Minamitani et.al.|[2407.17707](http://arxiv.org/abs/2407.17707)|null|
 |**2024-07-24**|**Reverse non-equilibrium molecular dynamics simulations of a melt of Kremer-Grest type model under fast shear**|Tatsuma Oishi et.al.|[2407.17031](http://arxiv.org/abs/2407.17031)|null|
 |**2024-07-23**|**Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses**|Nikolai V. Priezjev et.al.|[2407.16687](http://arxiv.org/abs/2407.16687)|null|
-|**2024-08-27**|**The need to implement FAIR principles in biomolecular simulations**|Rommie Amaro et.al.|[2407.16584](http://arxiv.org/abs/2407.16584)|null|
+|**2024-08-30**|**The need to implement FAIR principles in biomolecular simulations**|Rommie Amaro et.al.|[2407.16584](http://arxiv.org/abs/2407.16584)|null|
 |**2024-07-23**|**When Knots are Plectonemes**|Fei Zheng et.al.|[2407.16290](http://arxiv.org/abs/2407.16290)|null|
 |**2024-07-29**|**Shock Hugoniot calculations using on-the-fly machine learned force fields with ab initio accuracy**|Shashikant Kumar et.al.|[2407.15290](http://arxiv.org/abs/2407.15290)|null|
 |**2024-07-21**|**Theoretical Study on the Structural and Thermodynamic Properties of U-He compounds under High Pressure**|Ye Cao et.al.|[2407.15164](http://arxiv.org/abs/2407.15164)|null|
@@ -935,7 +935,7 @@ layout: default
 |**2024-08-29**|**EasyChauffeur: A Baseline Advancing Simplicity and Efficiency on Waymax**|Lingyu Xiao et.al.|[2408.16375](http://arxiv.org/abs/2408.16375)|null|
 |**2024-08-29**|**NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**|Kirsten W. H. Maas et.al.|[2408.16355](http://arxiv.org/abs/2408.16355)|**[link](https://github.com/kirstenmaas/nerf-ca)**|
 |**2024-08-29**|**Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning**|Xuewen Zhang et.al.|[2408.16338](http://arxiv.org/abs/2408.16338)|null|
-|**2024-08-29**|**SynDL: A Large-Scale Synthetic Test Collection**|Hossein A. Rahmani et.al.|[2408.16312](http://arxiv.org/abs/2408.16312)|null|
+|**2024-08-30**|**SynDL: A Large-Scale Synthetic Test Collection for Passage Retrieval**|Hossein A. Rahmani et.al.|[2408.16312](http://arxiv.org/abs/2408.16312)|null|
 |**2024-08-29**|**Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**|Kengo Nakata et.al.|[2408.16296](http://arxiv.org/abs/2408.16296)|null|
 |**2024-08-29**|**ART: Actually Robust Training**|Sebastian Chwilczyński et.al.|[2408.16285](http://arxiv.org/abs/2408.16285)|**[link](https://github.com/sebchw/actually-robust-training)**|
 |**2024-08-29**|**Beyond Uncertainty: Evidential Deep Learning for Robust Video Temporal Grounding**|Kaijing Ma et.al.|[2408.16272](http://arxiv.org/abs/2408.16272)|null|
