@@ -22,7 +22,7 @@ layout: default
 |**2024-08-22**|**Extrinsic Fluctuations in the p53 Cycle**|Manuel Eduardo Hernández-García et.al.|[2408.12107](http://arxiv.org/abs/2408.12107)|null|
 |**2024-08-17**|**NP-TCMtarget: a network pharmacology platform for exploring mechanisms of action of Traditional Chinese medicine**|Aoyi Wang et.al.|[2408.09142](http://arxiv.org/abs/2408.09142)|null|
 |**2024-08-12**|**From new thermodynamics to classical mechanics**|Henmei Ni et.al.|[2408.06005](http://arxiv.org/abs/2408.06005)|null|
-|**2024-07-31**|**Barlow Twins Deep Neural Network for Advanced 1D Drug-Target Interaction Prediction**|Maximilian G. Schuh et.al.|[2408.00040](http://arxiv.org/abs/2408.00040)|**[link](https://github.com/maxischuh/BarlowDTI)**|
+|**2024-09-02**|**Barlow Twins Deep Neural Network for Advanced 1D Drug-Target Interaction Prediction**|Maximilian G. Schuh et.al.|[2408.00040](http://arxiv.org/abs/2408.00040)|**[link](https://github.com/maxischuh/BarlowDTI)**|
 |**2024-07-19**|**Achieving Well-Informed Decision-Making in Drug Discovery: A Comprehensive Calibration Study using Neural Network-Based Structure-Activity Models**|Hannah Rosa Friesacher et.al.|[2407.14185](http://arxiv.org/abs/2407.14185)|**[link](https://github.com/hannahrosafriesacher/CalibrationStudy)**|
 |**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888](http://arxiv.org/abs/2407.12888)|**[link](https://github.com/pinglab-utils/rugged)**|
 |**2024-07-17**|**A statistical mechanics investigation of Unfolded Protein Response across organisms**|Nicole Luchetti et.al.|[2407.12464](http://arxiv.org/abs/2407.12464)|null|
@@ -440,7 +440,7 @@ layout: default
 |**2024-05-04**|**Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction**|Zexing Zhao et.al.|[2405.02628](http://arxiv.org/abs/2405.02628)|**[link](https://github.com/ZeXingZ/DIG-Mol)**|
 |**2024-05-02**|**CACTUS: Chemistry Agent Connecting Tool-Usage to Science**|Andrew D. McNaughton et.al.|[2405.00972](http://arxiv.org/abs/2405.00972)|**[link](https://github.com/pnnl/cactus)**|
 |**2024-05-02**|**The Role of Model Architecture and Scale in Predicting Molecular Properties: Insights from Fine-Tuning RoBERTa, BART, and LLaMA**|Lee Youngmin et.al.|[2405.00949](http://arxiv.org/abs/2405.00949)|**[link](https://github.com/BrightBlueCheese/transformers_and_chemistry)**|
-|**2024-09-01**|**ApisTox: a new benchmark dataset for the classification of small molecules toxicity on honey bees**|Jakub Adamczyk et.al.|[2404.16196](http://arxiv.org/abs/2404.16196)|**[link](https://github.com/j-adamczyk/apis_tox_dataset)**|
+|**2024-09-01**|**ApisTox: a new benchmark dataset for the classification of small molecules toxicity on honey bees**|Jakub Adamczyk et.al.|[2404.16196](http://arxiv.org/abs/2404.16196)|**[link](https://github.com/j-adamczyk/apistox_dataset)**|
 |**2024-04-20**|**Transfer Learning for Molecular Property Predictions from Small Data Sets**|Thorren Kirschbaum et.al.|[2404.13393](http://arxiv.org/abs/2404.13393)|null|
 |**2024-04-05**|**Transformers for molecular property prediction: Lessons learned from the past five years**|Afnan Sultan et.al.|[2404.03969](http://arxiv.org/abs/2404.03969)|**[link](https://github.com/volkamerlab/transformers4mpp_review)**|
 |**2024-08-07**|**Generalizable, Fast, and Accurate DeepQSPR with fastprop**|Jackson Burns et.al.|[2404.02058](http://arxiv.org/abs/2404.02058)|**[link](https://github.com/jacksonburns/fastprop)**|
@@ -956,7 +956,7 @@ layout: default
 |**2024-08-29**|**Turbulence Strength $C_n^2$ Estimation from Video using Physics-based Deep Learning**|Ripon Kumar Saha et.al.|[2408.16623](http://arxiv.org/abs/2408.16623)|**[link](https://github.com/riponcs/cn2estimation)**|
 |**2024-08-29**|**Subspace Representation Learning for Sparse Linear Arrays to Localize More Sources than Sensors: A Deep Learning Methodology**|Kuan-Lin Chen et.al.|[2408.16605](http://arxiv.org/abs/2408.16605)|null|
 |**2024-08-29**|**Seeking the Sufficiency and Necessity Causal Features in Multimodal Representation Learning**|Boyu Chen et.al.|[2408.16577](http://arxiv.org/abs/2408.16577)|null|
-|**2024-08-29**|**A Deep-Learning-Based Lable-free No-Reference Image Quality Assessment Metric: Application in Sodium MRI Denoising**|Shuaiyu Yuan et.al.|[2408.16481](http://arxiv.org/abs/2408.16481)|null|
+|**2024-09-02**|**A Deep-Learning-Based Label-free No-Reference Image Quality Assessment Metric: Application in Sodium MRI Denoising**|Shuaiyu Yuan et.al.|[2408.16481](http://arxiv.org/abs/2408.16481)|null|
 |**2024-08-29**|**Improving 3D deep learning segmentation with biophysically motivated cell synthesis**|Roman Bruch et.al.|[2408.16471](http://arxiv.org/abs/2408.16471)|null|
 |**2024-08-29**|**CooTest: An Automated Testing Approach for V2X Communication Systems**|An Guo et.al.|[2408.16470](http://arxiv.org/abs/2408.16470)|null|
 |**2024-08-29**|**An Exploratory Deep Learning Approach for Predicting Subsequent Suicidal Acts in Chinese Psychological Support Hotlines**|Changwei Song et.al.|[2408.16463](http://arxiv.org/abs/2408.16463)|null|
@@ -966,7 +966,7 @@ layout: default
 |**2024-08-29**|**Gradient-free variational learning with conditional mixture networks**|Conor Heins et.al.|[2408.16429](http://arxiv.org/abs/2408.16429)|**[link](https://github.com/versestech/cavi-cmn)**|
 |**2024-08-29**|**DeepSPoC: A Deep Learning-Based PDE Solver Governed by Sequential Propagation of Chaos**|Kai Du et.al.|[2408.16403](http://arxiv.org/abs/2408.16403)|null|
 |**2024-08-29**|**On Transfer Learning for a Fully Convolutional Deep Neural SIMO Receiver**|Uyoata E. Uyoata et.al.|[2408.16401](http://arxiv.org/abs/2408.16401)|null|
-|**2024-08-29**|**IBO: Inpainting-Based Occlusion to Enhance Explainable Artificial Intelligence Evaluation in Histopathology**|Pardis Afshar et.al.|[2408.16395](http://arxiv.org/abs/2408.16395)|**[link](https://github.com/a-fsh-r/IBO)**|
+|**2024-09-03**|**IBO: Inpainting-Based Occlusion to Enhance Explainable Artificial Intelligence Evaluation in Histopathology**|Pardis Afshar et.al.|[2408.16395](http://arxiv.org/abs/2408.16395)|**[link](https://github.com/a-fsh-r/IBO)**|
 |**2024-08-29**|**EasyChauffeur: A Baseline Advancing Simplicity and Efficiency on Waymax**|Lingyu Xiao et.al.|[2408.16375](http://arxiv.org/abs/2408.16375)|null|
 |**2024-08-29**|**NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**|Kirsten W. H. Maas et.al.|[2408.16355](http://arxiv.org/abs/2408.16355)|**[link](https://github.com/kirstenmaas/nerf-ca)**|
 |**2024-08-29**|**Deep DeePC: Data-enabled predictive control with low or no online optimization using deep learning**|Xuewen Zhang et.al.|[2408.16338](http://arxiv.org/abs/2408.16338)|**[link](https://github.com/qiyuan-zhang/deep-deepc)**|
@@ -993,7 +993,7 @@ layout: default
 |**2024-08-28**|**Synthetic Forehead-creases Biometric Generation for Reliable User Verification**|Abhishek Tandon et.al.|[2408.15693](http://arxiv.org/abs/2408.15693)|**[link](https://github.com/abhishektandon/synthetic-forehead-creases)**|
 |**2024-08-28**|**Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts**|Fanjie Xu et.al.|[2408.15681](http://arxiv.org/abs/2408.15681)|null|
 |**2024-08-29**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678](http://arxiv.org/abs/2408.15678)|null|
-|**2024-08-28**|**Towards reliable respiratory disease diagnosis based on cough sounds and vision transformers**|Qian Wang et.al.|[2408.15667](http://arxiv.org/abs/2408.15667)|null|
+|**2024-09-03**|**Towards reliable respiratory disease diagnosis based on cough sounds and vision transformers**|Qian Wang et.al.|[2408.15667](http://arxiv.org/abs/2408.15667)|null|
 |**2024-08-28**|**Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings**|Lingyu Gao et.al.|[2408.15650](http://arxiv.org/abs/2408.15650)|null|
 |**2024-08-28**|**Leveraging Persistent Homology for Differential Diagnosis of Mild Cognitive Impairment**|Ninad Aithal et.al.|[2408.15647](http://arxiv.org/abs/2408.15647)|**[link](https://github.com/blackpearl006/ICPR-2024)**|
 |**2024-08-28**|**PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**|Kaiqiao Yang et.al.|[2408.15583](http://arxiv.org/abs/2408.15583)|null|
@@ -1010,7 +1010,7 @@ layout: default
 |**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243](http://arxiv.org/abs/2408.15243)|null|
 |**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
 |**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
-|**2024-08-29**|**Force-Guided Bridge Matching for Full-Atom Time-Coarsened Dynamics of Peptides**|Ziyang Yu et.al.|[2408.15126](http://arxiv.org/abs/2408.15126)|**[link](https://github.com/yaledeus/fbm)**|
+|**2024-09-03**|**Force-Guided Bridge Matching for Full-Atom Time-Coarsened Dynamics of Peptides**|Ziyang Yu et.al.|[2408.15126](http://arxiv.org/abs/2408.15126)|**[link](https://github.com/yaledeus/fbm)**|
 |**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103](http://arxiv.org/abs/2408.15103)|**[link](https://github.com/valfride/lpsr-lacd)**|
 |**2024-08-28**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077](http://arxiv.org/abs/2408.15077)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
 |**2024-08-27**|**Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14964](http://arxiv.org/abs/2408.14964)|null|
@@ -5111,7 +5111,7 @@ layout: default
 |**2023-12-18**|**PharmacoNet: Accelerating Large-Scale Virtual Screening by Deep Pharmacophore Modeling**|Seonghwan Seo et.al.|[2310.00681](http://arxiv.org/abs/2310.00681)|**[link](https://github.com/seonghwanseo/pharmaconet)**|
 |**2023-08-02**|**Target-aware Variational Auto-encoders for Ligand Generation with Multimodal Protein Representation Learning**|Nhat Khang Ngo et.al.|[2309.16685](http://arxiv.org/abs/2309.16685)|**[link](https://github.com/hysonlab/ligand_generation)**|
 |**2023-09-23**|**GGL-PPI: Geometric Graph Learning to Predict Mutation-Induced Binding Free Energy Changes**|Md Masud Rana et.al.|[2309.13484](http://arxiv.org/abs/2309.13484)|**[link](https://github.com/nguyenlabuky/ggl-mutation)**|
-|**2024-02-26**|**A hybrid quantum-classical fusion neural network to improve protein-ligand binding affinity predictions for drug discovery**|L. Domingo et.al.|[2309.03919](http://arxiv.org/abs/2309.03919)|null|
+|**2024-09-03**|**A hybrid quantum-classical fusion neural network to improve protein-ligand binding affinity predictions for drug discovery**|L. Domingo et.al.|[2309.03919](http://arxiv.org/abs/2309.03919)|null|
 |**2023-09-06**|**Stochastic nucleosome disassembly mediated by remodelers and histone fragmentation**|Xiangting Li et.al.|[2309.02736](http://arxiv.org/abs/2309.02736)|**[link](https://github.com/hsianktin/histone)**|
 |**2023-08-02**|**Machine Learning Small Molecule Properties in Drug Discovery**|Nikolai Schapin et.al.|[2308.12354](http://arxiv.org/abs/2308.12354)|null|
 |**2024-05-03**|**Leak Proof PDBBind: A Reorganized Dataset of Protein-Ligand Complexes for More Generalizable Binding Affinity Prediction**|Jie Li et.al.|[2308.09639](http://arxiv.org/abs/2308.09639)|null|
