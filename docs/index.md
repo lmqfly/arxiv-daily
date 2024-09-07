@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.06
+## Updated on 2024.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -954,7 +954,7 @@ layout: default
 |**2024-09-04**|**PIETRA: Physics-Informed Evidential Learning for Traversing Out-of-Distribution Terrain**|Xiaoyi Cai et.al.|[2409.03005](http://arxiv.org/abs/2409.03005)|null|
 |**2024-09-04**|**Multi-stream deep learning framework to predict mild cognitive impairment with Rey Complex Figure Test**|Junyoung Park et.al.|[2409.02883](http://arxiv.org/abs/2409.02883)|null|
 |**2024-09-04**|**Look Into the LITE in Deep Learning for Time Series Classification**|Ali Ismail-Fawaz et.al.|[2409.02869](http://arxiv.org/abs/2409.02869)|**[link](https://github.com/MSD-IRIMAS/LITE)**|
-|**2024-09-04**|**Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure**|June Moh Goo et.al.|[2409.02866](http://arxiv.org/abs/2409.02866)|**[link](https://github.com/junegoo94/Hybrid-Segmentor)**|
+|**2024-09-04**|**Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure**|June Moh Goo et.al.|[2409.02866](http://arxiv.org/abs/2409.02866)|null|
 |**2024-09-04**|**Deep Learning Meets Satellite Images -- An Evaluation on Handcrafted and Learning-based Features for Multi-date Satellite Stereo Images**|Shuang Song et.al.|[2409.02825](http://arxiv.org/abs/2409.02825)|null|
 |**2024-09-04**|**A hybrid FEM-PINN method for time-dependent partial differential equations**|Xiaodong Feng et.al.|[2409.02810](http://arxiv.org/abs/2409.02810)|null|
 |**2024-09-04**|**Validation of musculoskeletal segmentation model with uncertainty estimation for bone and muscle assessment in hip-to-knee clinical CT images**|Mazen Soufi et.al.|[2409.02770](http://arxiv.org/abs/2409.02770)|null|
@@ -5403,7 +5403,7 @@ layout: default
 |**2023-10-30**|**Integration of Pre-trained Protein Language Models into Geometric Deep Learning Networks**|Fang Wu et.al.|[2212.03447](http://arxiv.org/abs/2212.03447)|**[link](https://github.com/smiles724/GGNN_Meets_PLM)**|
 |**2022-12-06**|**Supervised Tractogram Filtering using Geometric Deep Learning**|Pietro Astolfi et.al.|[2212.03300](http://arxiv.org/abs/2212.03300)|**[link](https://github.com/fbk-nilab/verifyber)**|
 |**2022-12-01**|**Automated Coronary Arteries Labeling Via Geometric Deep Learning**|Yadan Li et.al.|[2212.00386](http://arxiv.org/abs/2212.00386)|null|
-|**2022-11-25**|**Learning Feynman Diagrams using Graph Neural Networks**|Harrison Mitchell et.al.|[2211.15348](http://arxiv.org/abs/2211.15348)|null|
+|**2022-11-25**|**Learning Feynman Diagrams using Graph Neural Networks**|Harrison Mitchell et.al.|[2211.15348](http://arxiv.org/abs/2211.15348)|**[link](https://github.com/clearbloo/feynman_gnn)**|
 |**2022-11-18**|**Learning on Health Fairness and Environmental Justice via Interactive Visualization**|Abdullah-Al-Raihan Nayeem et.al.|[2211.09967](http://arxiv.org/abs/2211.09967)|null|
 |**2023-08-20**|**Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective from the Time-Frequency Analysis**|Ce Ju et.al.|[2211.02641](http://arxiv.org/abs/2211.02641)|**[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)**|
 |**2023-04-26**|**Geometry-Complete Perceptron Networks for 3D Molecular Graphs**|Alex Morehead et.al.|[2211.02504](http://arxiv.org/abs/2211.02504)|**[link](https://github.com/bioinfomachinelearning/gcpnet)**|
