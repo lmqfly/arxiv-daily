@@ -288,6 +288,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Training-Free Guidance for Discrete Diffusion Models for Molecular Generation**|Thomas J. Kerby et.al.|[2409.07359](http://arxiv.org/abs/2409.07359)|null|
 |**2024-08-18**|**Crossing New Frontiers: Knowledge-Augmented Large Language Model Prompting for Zero-Shot Text-Based De Novo Molecule Design**|Sakhinana Sagar Srinivas et.al.|[2408.11866](http://arxiv.org/abs/2408.11866)|null|
 |**2024-08-17**|**Fragment-Masked Molecular Optimization**|Kun Li et.al.|[2408.09106](http://arxiv.org/abs/2408.09106)|null|
 |**2024-08-16**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|V Shreyas et.al.|[2408.06261](http://arxiv.org/abs/2408.06261)|null|
@@ -576,6 +577,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**A Perspective on AI-Guided Molecular Simulations in VR: Exploring Strategies for Imitation Learning in Hyperdimensional Molecular Systems**|Mohamed Dhouioui et.al.|[2409.07189](http://arxiv.org/abs/2409.07189)|null|
 |**2024-09-10**|**Role of Zr in Cu-rich single-phase and nanocomposite Cu-Zr: molecular dynamics and experimental study**|Jiri Houska et.al.|[2409.06582](http://arxiv.org/abs/2409.06582)|null|
 |**2024-09-10**|**Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks**|Prakash Thakolkaran et.al.|[2409.06457](http://arxiv.org/abs/2409.06457)|null|
 |**2024-09-09**|**Group-IV Pentaoctite: A New 2D Material Family**|Vanessa D. Kegler et.al.|[2409.05986](http://arxiv.org/abs/2409.05986)|null|
@@ -961,6 +963,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics**|Yongcheng Yao et.al.|[2409.07361](http://arxiv.org/abs/2409.07361)|**[link](https://github.com/yongchengyao/cmt-amai24paper)**|
+|**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351](http://arxiv.org/abs/2409.07351)|null|
+|**2024-09-11**|**Current Symmetry Group Equivariant Convolution Frameworks for Representation Learning**|Ramzan Basheer et.al.|[2409.07327](http://arxiv.org/abs/2409.07327)|null|
+|**2024-09-11**|**ART: Artifact Removal Transformer for Reconstructing Noise-Free Multichannel Electroencephalographic Signals**|Chun-Hsiang Chuang et.al.|[2409.07326](http://arxiv.org/abs/2409.07326)|null|
+|**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|null|
+|**2024-09-11**|**Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving**|Tianyuan Zhang et.al.|[2409.07321](http://arxiv.org/abs/2409.07321)|null|
+|**2024-09-11**|**Optimizing Neural Network Performance and Interpretability with Diophantine Equation Encoding**|Ronald Katende et.al.|[2409.07310](http://arxiv.org/abs/2409.07310)|null|
+|**2024-09-11**|**PaveSAM Segment Anything for Pavement Distress**|Neema Jakisa Owor et.al.|[2409.07295](http://arxiv.org/abs/2409.07295)|null|
+|**2024-09-11**|**TLD-READY: Traffic Light Detection -- Relevance Estimation and Deployment Analysis**|Nikolai Polley et.al.|[2409.07284](http://arxiv.org/abs/2409.07284)|**[link](https://github.com/kastel-mobilitylab/traffic-light-detection)**|
+|**2024-09-11**|**Analytic Class Incremental Learning for Sound Source Localization with Privacy Protection**|Xinyuan Qian et.al.|[2409.07224](http://arxiv.org/abs/2409.07224)|null|
+|**2024-09-11**|**Enhancing Angular Resolution via Directionality Encoding and Geometric Constraints in Brain Diffusion Tensor Imaging**|Sheng Chen et.al.|[2409.07186](http://arxiv.org/abs/2409.07186)|null|
+|**2024-09-11**|**Deep Learning Techniques for Hand Vein Biometrics: A Comprehensive Review**|Mustapha Hemis et.al.|[2409.07128](http://arxiv.org/abs/2409.07128)|null|
+|**2024-09-11**|**Next-Generation Multi-layer Metasurface Design: Hybrid Deep Learning Models for Beyond-RGB Reconfigurable Structural Colors**|Omar A. M. Abdelraouf et.al.|[2409.07121](http://arxiv.org/abs/2409.07121)|null|
+|**2024-09-11**|**Edge Modeling Activation Free Fourier Network for Spacecraft Image Denoising**|Jingfan Yang et.al.|[2409.07067](http://arxiv.org/abs/2409.07067)|null|
+|**2024-09-11**|**SoftShadow: Leveraging Penumbra-Aware Soft Masks for Shadow Removal**|Xinrui Wang et.al.|[2409.07041](http://arxiv.org/abs/2409.07041)|**[link](https://github.com/xinrui014/softshadow)**|
+|**2024-09-11**|**Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement**|Xianmin Chen et.al.|[2409.07040](http://arxiv.org/abs/2409.07040)|null|
+|**2024-09-11**|**Dynamic Error-Bounded Hierarchical Matrices in Neural Network Compression**|John Mango et.al.|[2409.07028](http://arxiv.org/abs/2409.07028)|null|
+|**2024-09-11**|**EVENet: Evidence-based Ensemble Learning for Uncertainty-aware Brain Parcellation Using Diffusion MRI**|Chenjun Li et.al.|[2409.07020](http://arxiv.org/abs/2409.07020)|**[link](https://github.com/chenjun-li/evenet)**|
+|**2024-09-11**|**AdvLogo: Adversarial Patch Attack against Object Detectors based on Diffusion Models**|Boming Miao et.al.|[2409.07002](http://arxiv.org/abs/2409.07002)|null|
+|**2024-09-11**|**Fidelity-optimized quantum surface code via GAN decoder and application to quantum teleportation**|Jiaxin Li et.al.|[2409.06984](http://arxiv.org/abs/2409.06984)|null|
+|**2024-09-11**|**PanAdapter: Two-Stage Fine-Tuning with Spatial-Spectral Priors Injecting for Pansharpening**|RuoCheng Wu et.al.|[2409.06980](http://arxiv.org/abs/2409.06980)|null|
+|**2024-09-11**|**Neural Ambisonic Encoding For Multi-Speaker Scenarios Using A Circular Microphone Array**|Yue Qiao et.al.|[2409.06954](http://arxiv.org/abs/2409.06954)|null|
+|**2024-09-11**|**Intrapartum Ultrasound Image Segmentation of Pubic Symphysis and Fetal Head Using Dual Student-Teacher Framework with CNN-ViT Collaborative Learning**|Jianmei Jiang et.al.|[2409.06928](http://arxiv.org/abs/2409.06928)|**[link](https://github.com/jjm1589/dstct)**|
+|**2024-09-10**|**Applied Federated Model Personalisation in the Industrial Domain: A Comparative Study**|Ilias Siniosoglou et.al.|[2409.06904](http://arxiv.org/abs/2409.06904)|null|
+|**2024-09-10**|**Ordinal Learning: Longitudinal Attention Alignment Model for Predicting Time to Future Breast Cancer Events from Mammograms**|Xin Wang et.al.|[2409.06887](http://arxiv.org/abs/2409.06887)|null|
+|**2024-09-10**|**Towards Understanding Human Emotional Fluctuations with Sparse Check-In Data**|Sagar Paresh Shah et.al.|[2409.06863](http://arxiv.org/abs/2409.06863)|null|
+|**2024-09-10**|**Uncertainty Quantification in Seismic Inversion Through Integrated Importance Sampling and Ensemble Methods**|Luping Qu et.al.|[2409.06840](http://arxiv.org/abs/2409.06840)|null|
+|**2024-09-10**|**Electron Microscopy-based Automatic Defect Inspection for Semiconductor Manufacturing: A Systematic Review**|Enrique Dehaerne et.al.|[2409.06833](http://arxiv.org/abs/2409.06833)|null|
+|**2024-09-10**|**Bifurcation Identification for Ultrasound-driven Robotic Cannulation**|Cecilia G. Morales et.al.|[2409.06817](http://arxiv.org/abs/2409.06817)|null|
+|**2024-09-10**|**Stain Normalization of Hematology Slides using Neural Color Transfer**|M. Muneeb Arshad et.al.|[2409.06742](http://arxiv.org/abs/2409.06742)|null|
 |**2024-09-10**|**A study on Deep Convolutional Neural Networks, Transfer Learning and Ensemble Model for Breast Cancer Detection**|Md Taimur Ahad et.al.|[2409.06699](http://arxiv.org/abs/2409.06699)|null|
 |**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694](http://arxiv.org/abs/2409.06694)|null|
 |**2024-09-10**|**Benchmarking Sub-Genre Classification For Mainstage Dance Music**|Hongzhi Shu et.al.|[2409.06690](http://arxiv.org/abs/2409.06690)|null|
@@ -5476,6 +5508,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Current Symmetry Group Equivariant Convolution Frameworks for Representation Learning**|Ramzan Basheer et.al.|[2409.07327](http://arxiv.org/abs/2409.07327)|null|
 |**2024-09-08**|**Learning polycrystal plasticity using mesh-based subgraph geometric deep learning**|Hanfeng Zhai et.al.|[2409.05169](http://arxiv.org/abs/2409.05169)|null|
 |**2024-08-28**|**The Role of Fibration Symmetries in Geometric Deep Learning**|Osvaldo Velarde et.al.|[2408.15894](http://arxiv.org/abs/2408.15894)|null|
 |**2024-08-21**|**One-step Structure Prediction and Screening for Protein-Ligand Complexes using Multi-Task Geometric Deep Learning**|Kelei He et.al.|[2408.11356](http://arxiv.org/abs/2408.11356)|null|
