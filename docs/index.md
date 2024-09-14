@@ -1002,7 +1002,7 @@ layout: default
 |**2024-09-11**|**Next-Generation Multi-layer Metasurface Design: Hybrid Deep Learning Models for Beyond-RGB Reconfigurable Structural Colors**|Omar A. M. Abdelraouf et.al.|[2409.07121](http://arxiv.org/abs/2409.07121)|null|
 |**2024-09-11**|**Edge Modeling Activation Free Fourier Network for Spacecraft Image Denoising**|Jingfan Yang et.al.|[2409.07067](http://arxiv.org/abs/2409.07067)|null|
 |**2024-09-11**|**SoftShadow: Leveraging Penumbra-Aware Soft Masks for Shadow Removal**|Xinrui Wang et.al.|[2409.07041](http://arxiv.org/abs/2409.07041)|**[link](https://github.com/xinrui014/softshadow)**|
-|**2024-09-11**|**Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement**|Xianmin Chen et.al.|[2409.07040](http://arxiv.org/abs/2409.07040)|null|
+|**2024-09-11**|**Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement**|Xianmin Chen et.al.|[2409.07040](http://arxiv.org/abs/2409.07040)|**[link](https://github.com/cynicarlos/retinexrawmamba)**|
 |**2024-09-11**|**Dynamic Error-Bounded Hierarchical Matrices in Neural Network Compression**|John Mango et.al.|[2409.07028](http://arxiv.org/abs/2409.07028)|null|
 |**2024-09-11**|**EVENet: Evidence-based Ensemble Learning for Uncertainty-aware Brain Parcellation Using Diffusion MRI**|Chenjun Li et.al.|[2409.07020](http://arxiv.org/abs/2409.07020)|**[link](https://github.com/chenjun-li/evenet)**|
 |**2024-09-11**|**AdvLogo: Adversarial Patch Attack against Object Detectors based on Diffusion Models**|Boming Miao et.al.|[2409.07002](http://arxiv.org/abs/2409.07002)|null|
