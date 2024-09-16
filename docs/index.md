@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -467,7 +467,7 @@ layout: default
 |**2024-04-27**|**AdaMR: Adaptable Molecular Representation for Unified Pre-training Strategy**|Yan Ding et.al.|[2401.06166](http://arxiv.org/abs/2401.06166)|null|
 |**2024-01-30**|**TwinBooster: Synergising Large Language Models with Barlow Twins and Gradient Boosting for Enhanced Molecular Property Prediction**|Maximilian G. Schuh et.al.|[2401.04478](http://arxiv.org/abs/2401.04478)|**[link](https://github.com/maxischuh/twinbooster)**|
 |**2024-01-09**|**Multi-Modal Representation Learning for Molecular Property Prediction: Sequence, Graph, Geometry**|Zeyu Wang et.al.|[2401.03369](http://arxiv.org/abs/2401.03369)|**[link](https://github.com/vencent-won/sggrl)**|
-|**2023-12-29**|**Integrating Chemical Language and Molecular Graph in Multimodal Fused Deep Learning for Drug Property Prediction**|Xiaohua Lu et.al.|[2312.17495](http://arxiv.org/abs/2312.17495)|null|
+|**2024-09-13**|**Integrating Chemical Language and Molecular Graph in Multimodal Fused Deep Learning for Drug Property Prediction**|Xiaohua Lu et.al.|[2312.17495](http://arxiv.org/abs/2312.17495)|null|
 |**2023-12-28**|**Molecular Property Prediction Based on Graph Structure Learning**|Bangyi Zhao et.al.|[2312.16855](http://arxiv.org/abs/2312.16855)|null|
 |**2024-01-18**|**Pre-training of Molecular GNNs via Conditional Boltzmann Generator**|Daiki Koge et.al.|[2312.13110](http://arxiv.org/abs/2312.13110)|null|
 |**2023-12-19**|**Accurate harmonic vibrational frequencies for diatomic molecules via quantum computing**|Shih-Kai Chou et.al.|[2312.12320](http://arxiv.org/abs/2312.12320)|null|
@@ -953,7 +953,7 @@ layout: default
 |**2024-09-12**|**Identification of head impact locations, speeds, and force based on head kinematics**|Xianghao Zhan et.al.|[2409.08177](http://arxiv.org/abs/2409.08177)|null|
 |**2024-09-12**|**Low-Cost Tree Crown Dieback Estimation Using Deep Learning-Based Segmentation**|M. J. Allen et.al.|[2409.08171](http://arxiv.org/abs/2409.08171)|**[link](https://github.com/mataln/dlncs-dieback)**|
 |**2024-09-12**|**Open Source Infrastructure for Automatic Cell Segmentation**|Aaron Rock Menezes et.al.|[2409.08163](http://arxiv.org/abs/2409.08163)|null|
-|**2024-09-12**|**Dark Experience for Incremental Keyword Spotting**|Tianyi Peng et.al.|[2409.08153](http://arxiv.org/abs/2409.08153)|null|
+|**2024-09-13**|**Dark Experience for Incremental Keyword Spotting**|Tianyi Peng et.al.|[2409.08153](http://arxiv.org/abs/2409.08153)|null|
 |**2024-09-12**|**Efficient Deep Learning-based Cascaded Channel Feedback in RIS-Assisted Communications**|Yiming Cui et.al.|[2409.08149](http://arxiv.org/abs/2409.08149)|null|
 |**2024-09-12**|**Effective Segmentation of Post-Treatment Gliomas Using Simple Approaches: Artificial Sequence Generation and Ensemble Models**|Heejong Kim et.al.|[2409.08143](http://arxiv.org/abs/2409.08143)|null|
 |**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
@@ -966,7 +966,7 @@ layout: default
 |**2024-09-12**|**Deep Learning for Personalized Electrocardiogram Diagnosis: A Review**|Cheng Ding et.al.|[2409.07975](http://arxiv.org/abs/2409.07975)|null|
 |**2024-09-12**|**A convolutional neural network approach to deblending seismic data**|Jing Sun et.al.|[2409.07930](http://arxiv.org/abs/2409.07930)|null|
 |**2024-09-12**|**UGAD: Universal Generative AI Detector utilizing Frequency Fingerprints**|Inzamamul Alam et.al.|[2409.07913](http://arxiv.org/abs/2409.07913)|null|
-|**2024-09-12**|**A Comprehensive Survey on Deep Multimodal Learning with Missing Modality**|Renjie Wu et.al.|[2409.07825](http://arxiv.org/abs/2409.07825)|null|
+|**2024-09-13**|**A Comprehensive Survey on Deep Multimodal Learning with Missing Modality**|Renjie Wu et.al.|[2409.07825](http://arxiv.org/abs/2409.07825)|null|
 |**2024-09-12**|**Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation**|Fuchen Zheng et.al.|[2409.07793](http://arxiv.org/abs/2409.07793)|**[link](https://github.com/lzeeorno/lagrange-duality-and-cmaformer)**|
 |**2024-09-12**|**ROCAS: Root Cause Analysis of Autonomous Driving Accidents via Cyber-Physical Co-mutation**|Shiwei Feng et.al.|[2409.07774](http://arxiv.org/abs/2409.07774)|null|
 |**2024-09-12**|**CTLESS: A scatter-window projection and deep learning-based transmission-less attenuation compensation method for myocardial perfusion SPECT**|Zitong Yu et.al.|[2409.07761](http://arxiv.org/abs/2409.07761)|null|
@@ -1034,7 +1034,7 @@ layout: default
 |**2024-09-10**|**Limit Order Book Simulation and Trade Evaluation with $K$ -Nearest-Neighbor Resampling**|Michael Giegrich et.al.|[2409.06514](http://arxiv.org/abs/2409.06514)|null|
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-10**|**Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks**|Prakash Thakolkaran et.al.|[2409.06457](http://arxiv.org/abs/2409.06457)|null|
-|**2024-09-10**|**Attention-Based Beamformer For Multi-Channel Speech Enhancement**|Jinglin Bai et.al.|[2409.06456](http://arxiv.org/abs/2409.06456)|null|
+|**2024-09-13**|**Attention-Based Beamformer For Multi-Channel Speech Enhancement**|Jinglin Bai et.al.|[2409.06456](http://arxiv.org/abs/2409.06456)|null|
 |**2024-09-10**|**Continual Domain Incremental Learning for Privacy-aware Digital Pathology**|Pratibha Kumari et.al.|[2409.06455](http://arxiv.org/abs/2409.06455)|null|
 |**2024-09-10**|**Sifting the debris: Patterns in the SNR population with unsupervised ML methods**|F. Bufano et.al.|[2409.06383](http://arxiv.org/abs/2409.06383)|null|
 |**2024-09-10**|**A Wearable Multi-Modal Edge-Computing System for Real-Time Kitchen Activity Recognition**|Mengxi Liu et.al.|[2409.06341](http://arxiv.org/abs/2409.06341)|null|
