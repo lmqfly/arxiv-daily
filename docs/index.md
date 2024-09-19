@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -957,7 +957,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-17**|**Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification**|Fatema-E- Jannat et.al.|[2409.11375](http://arxiv.org/abs/2409.11375)|null|
-|**2024-09-17**|**Autonomous Navigation in Ice-Covered Waters with Learned Predictions on Ship-Ice Interactions**|Ninghan Zhong et.al.|[2409.11326](http://arxiv.org/abs/2409.11326)|null|
+|**2024-09-18**|**Autonomous Navigation in Ice-Covered Waters with Learned Predictions on Ship-Ice Interactions**|Ninghan Zhong et.al.|[2409.11326](http://arxiv.org/abs/2409.11326)|null|
 |**2024-09-17**|**SOAP: Improving and Stabilizing Shampoo using Adam**|Nikhil Vyas et.al.|[2409.11321](http://arxiv.org/abs/2409.11321)|**[link](https://github.com/nikhilvyas/soap)**|
 |**2024-09-17**|**Temporal As a Plugin: Unsupervised Video Denoising with Pre-Trained Image Denoisers**|Zixuan Fu et.al.|[2409.11256](http://arxiv.org/abs/2409.11256)|**[link](https://github.com/zfu006/tap)**|
 |**2024-09-17**|**Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark**|Clifford Broni-Bediako et.al.|[2409.11227](http://arxiv.org/abs/2409.11227)|null|
@@ -971,7 +971,7 @@ layout: default
 |**2024-09-17**|**Enhanced segmentation of femoral bone metastasis in CT scans of patients using synthetic data generation with 3D diffusion models**|Emile Saillard et.al.|[2409.11011](http://arxiv.org/abs/2409.11011)|null|
 |**2024-09-17**|**Local discontinuous Galerkin method for nonlinear BSPDEs of Neumann boundary conditions with deep backward dynamic programming time-marching**|Yixiang Dai et.al.|[2409.11004](http://arxiv.org/abs/2409.11004)|null|
 |**2024-09-17**|**Edge-based Denoising Image Compression**|Ryugo Morita et.al.|[2409.10978](http://arxiv.org/abs/2409.10978)|null|
-|**2024-09-17**|**Active learning for energy-based antibody optimization and enhanced screening**|Kairi Furui et.al.|[2409.10964](http://arxiv.org/abs/2409.10964)|null|
+|**2024-09-18**|**Active learning for energy-based antibody optimization and enhanced screening**|Kairi Furui et.al.|[2409.10964](http://arxiv.org/abs/2409.10964)|null|
 |**2024-09-17**|**Leveraging Reviewer Experience in Code Review Comment Generation**|Hong Yi Lin et.al.|[2409.10959](http://arxiv.org/abs/2409.10959)|null|
 |**2024-09-17**|**Lite-FBCN: Lightweight Fast Bilinear Convolutional Network for Brain Disease Classification from MRI Image**|Dewinda Julianensi Rumala et.al.|[2409.10952](http://arxiv.org/abs/2409.10952)|**[link](https://github.com/djrumala/lite-fbcn)**|
 |**2024-09-17**|**A Physics Informed Neural Network (PINN) Methodology for Coupled Moving Boundary PDEs**|Shivprasad Kathane et.al.|[2409.10910](http://arxiv.org/abs/2409.10910)|**[link](https://github.com/shiv12spingo/PINN_Research/tree/main/Solidification_Problem)**|
@@ -5501,7 +5501,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-17**|**Active learning for energy-based antibody optimization and enhanced screening**|Kairi Furui et.al.|[2409.10964](http://arxiv.org/abs/2409.10964)|null|
+|**2024-09-18**|**Active learning for energy-based antibody optimization and enhanced screening**|Kairi Furui et.al.|[2409.10964](http://arxiv.org/abs/2409.10964)|null|
 |**2024-09-16**|**Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design**|Shengchao Liu et.al.|[2409.10584](http://arxiv.org/abs/2409.10584)|null|
 |**2024-09-16**|**Uncovering the Mechanism of Hepatotoxiciy of PFAS Targeting L-FABP Using GCN and Computational Modeling**|Lucas Jividen et.al.|[2409.10370](http://arxiv.org/abs/2409.10370)|null|
 |**2024-09-12**|**De novo design of high-affinity protein binders with AlphaProteo**|Vinicius Zambaldi et.al.|[2409.08022](http://arxiv.org/abs/2409.08022)|null|
