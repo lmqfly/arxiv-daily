@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -92,7 +92,7 @@ layout: default
 |**2023-08-10**|**Fokker-Planck-Poisson kinetics: Multi-phase flow beyond equilibrium**|Mohsen Sadr et.al.|[2308.05580](http://arxiv.org/abs/2308.05580)|null|
 |**2024-06-04**|**Stochastic Metholodgy Shows Molecular Interactions Protect 2D Polaritons**|Nadine Bradbury et.al.|[2308.04385](http://arxiv.org/abs/2308.04385)|null|
 |**2024-01-18**|**Coherent electron-vibron interactions in Surface-Enhanced Raman Scattering (SERS)**|Miguel A. Martínez-García et.al.|[2307.16859](http://arxiv.org/abs/2307.16859)|null|
-|**2023-07-31**|**On the kinetic description of the objective molecular dynamics**|Richard D. James et.al.|[2307.16814](http://arxiv.org/abs/2307.16814)|null|
+|**2024-09-23**|**On the kinetic description of the objective molecular dynamics**|Richard D. James et.al.|[2307.16814](http://arxiv.org/abs/2307.16814)|null|
 |**2024-03-16**|**Hadronic structure on the light-front VIII. Light scalar and vector mesons**|Wei-Yang Liu et.al.|[2307.16302](http://arxiv.org/abs/2307.16302)|null|
 |**2023-07-26**|**Can spin-component scaled MP2 achieve kJ/mol accuracy for cohesive energies of molecular crystals?**|Yu Hsuan Liang et.al.|[2307.14514](http://arxiv.org/abs/2307.14514)|null|
 |**2023-07-26**|**Establishing Magnetic Coupling in Spin-crossover-2D Hybrid Nanostructures via Interfacial Charge-transfer Interaction**|Shatabda Bhattacharya et.al.|[2307.14135](http://arxiv.org/abs/2307.14135)|null|
@@ -981,7 +981,7 @@ layout: default
 |**2024-09-19**|**Adaptive Selection of Sampling-Reconstruction in Fourier Compressed Sensing**|Seongmin Hong et.al.|[2409.11738](http://arxiv.org/abs/2409.11738)|null|
 |**2024-09-18**|**Detecting Underdiagnosed Medical Conditions with Deep Learning-Based Opportunistic CT Imaging**|Asad Aali et.al.|[2409.11686](http://arxiv.org/abs/2409.11686)|null|
 |**2024-09-19**|**WALLABY Pilot Survey: HI source-finding with a machine learning framework**|Li Wang et.al.|[2409.11668](http://arxiv.org/abs/2409.11668)|null|
-|**2024-09-18**|**GReDP: A More Robust Approach for Differential Privacy Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663](http://arxiv.org/abs/2409.11663)|null|
+|**2024-09-21**|**GReDP: A More Robust Approach for Differential Private Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663](http://arxiv.org/abs/2409.11663)|null|
 |**2024-09-18**|**Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection**|Qian Shao et.al.|[2409.11653](http://arxiv.org/abs/2409.11653)|null|
 |**2024-09-18**|**Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition**|Hongyu Zhu et.al.|[2409.11652](http://arxiv.org/abs/2409.11652)|null|
 |**2024-09-17**|**DiffESM: Conditional Emulation of Temperature and Precipitation in Earth System Models with 3D Diffusion Models**|Seth Bassetti et.al.|[2409.11601](http://arxiv.org/abs/2409.11601)|null|
@@ -1024,7 +1024,7 @@ layout: default
 |**2024-09-16**|**Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance**|Simone Maurizio La Cava et.al.|[2409.10481](http://arxiv.org/abs/2409.10481)|null|
 |**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463](http://arxiv.org/abs/2409.10463)|null|
 |**2024-09-16**|**MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning**|Hwihun Jeong et.al.|[2409.10394](http://arxiv.org/abs/2409.10394)|**[link](https://github.com/snu-list/most)**|
-|**2024-09-20**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392](http://arxiv.org/abs/2409.10392)|**[link](https://github.com/russelljeffrey/TPFL_Tsetlin-Personalized-Federated-Learning-with-Confidence-Based-Clustering)**|
+|**2024-09-20**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392](http://arxiv.org/abs/2409.10392)|**[link](https://github.com/russelljeffrey/TPFL)**|
 |**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357](http://arxiv.org/abs/2409.10357)|null|
 |**2024-09-16**|**InfoDisent: Explainability of Image Classification Models by Information Disentanglement**|Łukasz Struski et.al.|[2409.10329](http://arxiv.org/abs/2409.10329)|null|
 |**2024-09-16**|**Know your limits! Optimize the robot's behavior through self-awareness**|Esteve Valls Mascaro et.al.|[2409.10308](http://arxiv.org/abs/2409.10308)|null|
