@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1024,7 +1024,7 @@ layout: default
 |**2024-09-16**|**Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance**|Simone Maurizio La Cava et.al.|[2409.10481](http://arxiv.org/abs/2409.10481)|null|
 |**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463](http://arxiv.org/abs/2409.10463)|null|
 |**2024-09-16**|**MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning**|Hwihun Jeong et.al.|[2409.10394](http://arxiv.org/abs/2409.10394)|**[link](https://github.com/snu-list/most)**|
-|**2024-09-20**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392](http://arxiv.org/abs/2409.10392)|**[link](https://github.com/russelljeffrey/TPFL)**|
+|**2024-09-24**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392](http://arxiv.org/abs/2409.10392)|**[link](https://github.com/russelljeffrey/TPFL)**|
 |**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357](http://arxiv.org/abs/2409.10357)|null|
 |**2024-09-16**|**InfoDisent: Explainability of Image Classification Models by Information Disentanglement**|Łukasz Struski et.al.|[2409.10329](http://arxiv.org/abs/2409.10329)|null|
 |**2024-09-16**|**Know your limits! Optimize the robot's behavior through self-awareness**|Esteve Valls Mascaro et.al.|[2409.10308](http://arxiv.org/abs/2409.10308)|null|
@@ -5776,7 +5776,7 @@ layout: default
 |**2023-10-05**|**Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance**|Jonathan Crabbé et.al.|[2304.06715](http://arxiv.org/abs/2304.06715)|**[link](https://github.com/jonathancrabbe/robustxai)**|
 |**2023-04-13**|**RoSI: Recovering 3D Shape Interiors from Few Articulation Images**|Akshay Gadi Patil et.al.|[2304.06342](http://arxiv.org/abs/2304.06342)|null|
 |**2023-04-07**|**A new perspective on building efficient and expressive 3D equivariant graph neural networks**|Weitao Du et.al.|[2304.04757](http://arxiv.org/abs/2304.04757)|**[link](https://github.com/yuanqidu/leftnet)**|
-|**2024-03-18**|**Interpretable statistical representations of neural population dynamics and geometry**|Adam Gosztolai et.al.|[2304.03376](http://arxiv.org/abs/2304.03376)|**[link](https://github.com/agosztolai/marble)**|
+|**2024-09-24**|**Interpretable statistical representations of neural population dynamics and geometry**|Adam Gosztolai et.al.|[2304.03376](http://arxiv.org/abs/2304.03376)|**[link](https://github.com/agosztolai/marble)**|
 |**2023-04-05**|**Graph Representation Learning for Interactive Biomolecule Systems**|Xinye Xiong et.al.|[2304.02656](http://arxiv.org/abs/2304.02656)|null|
 |**2023-03-27**|**Learning Harmonic Molecular Representations on Riemannian Manifold**|Yiqun Wang et.al.|[2303.15520](http://arxiv.org/abs/2303.15520)|**[link](https://github.com/geommoldesign/hmr)**|
 |**2023-03-17**|**Geometric Deep Learning for Molecular Crystal Structure Prediction**|Michael Kilgour et.al.|[2303.10140](http://arxiv.org/abs/2303.10140)|null|
