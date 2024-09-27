@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -984,7 +984,7 @@ layout: default
 |**2024-09-25**|**WasteGAN: Data Augmentation for Robotic Waste Sorting through Generative Adversarial Networks**|Alberto Bacchin et.al.|[2409.16999](http://arxiv.org/abs/2409.16999)|**[link](https://github.com/bach05/wastegan)**|
 |**2024-09-25**|**Informed deep hierarchical classification: a non-standard analysis inspired approach**|Lorenzo Fiaschi et.al.|[2409.16956](http://arxiv.org/abs/2409.16956)|null|
 |**2024-09-25**|**Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis**|Illia Tsiporenko et.al.|[2409.16940](http://arxiv.org/abs/2409.16940)|null|
-|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|null|
+|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
 |**2024-09-25**|**Linking in Style: Understanding learned features in deep learning models**|Maren H. Wehrheim et.al.|[2409.16865](http://arxiv.org/abs/2409.16865)|null|
 |**2024-09-25**|**IRASNet: Improved Feature-Level Clutter Reduction for Domain Generalized SAR-ATR**|Oh-Tae Jang et.al.|[2409.16845](http://arxiv.org/abs/2409.16845)|null|
 |**2024-09-25**|**XAI-guided Insulator Anomaly Detection for Imbalanced Datasets**|Maximilian Andreas Hoefler et.al.|[2409.16821](http://arxiv.org/abs/2409.16821)|null|
@@ -1001,7 +1001,7 @@ layout: default
 |**2024-09-25**|**Task Addition in Multi-Task Learning by Geometrical Alignment**|Soorin Yim et.al.|[2409.16645](http://arxiv.org/abs/2409.16645)|null|
 |**2024-09-25**|**Deep-Learning Recognition of Scanning Transmission Electron Microscopy: Quantifying and Mitigating the Influence of Gaussian Noises**|Hanlei Zhang et.al.|[2409.16637](http://arxiv.org/abs/2409.16637)|null|
 |**2024-09-25**|**PIFS-Rec: Process-In-Fabric-Switch for Large-Scale Recommendation System Inferences**|Pingyi Huo et.al.|[2409.16633](http://arxiv.org/abs/2409.16633)|null|
-|**2024-09-25**|**Ascend HiFloat8 Format for Deep Learning**|Yuanyong Luo et.al.|[2409.16626](http://arxiv.org/abs/2409.16626)|null|
+|**2024-09-26**|**Ascend HiFloat8 Format for Deep Learning**|Yuanyong Luo et.al.|[2409.16626](http://arxiv.org/abs/2409.16626)|null|
 |**2024-09-25**|**ECG-Image-Database: A Dataset of ECG Images with Real-World Imaging and Scanning Artifacts; A Foundation for Computerized ECG Image Digitization and Analysis**|Matthew A. Reyna et.al.|[2409.16612](http://arxiv.org/abs/2409.16612)|null|
 |**2024-09-25**|**A Review of Artificial Intelligence in Brachytherapy**|Jingchu Chen et.al.|[2409.16543](http://arxiv.org/abs/2409.16543)|null|
 |**2024-09-25**|**Graph Pruning Based Spatial and Temporal Graph Convolutional Network with Transfer Learning for Traffic Prediction**|Zihao Jing et.al.|[2409.16532](http://arxiv.org/abs/2409.16532)|null|
@@ -1047,7 +1047,7 @@ layout: default
 |**2024-09-23**|**A Sub-Millisecond Fourier and Wavelet Based Model to Extract Variable Candidates from the NEOWISE Single-Exposure Database**|Matthew Paz et.al.|[2409.15499](http://arxiv.org/abs/2409.15499)|null|
 |**2024-09-23**|**Computational Pathology for Accurate Prediction of Breast Cancer Recurrence: Development and Validation of a Deep Learning-based Tool**|Ziyu Su et.al.|[2409.15491](http://arxiv.org/abs/2409.15491)|null|
 |**2024-09-23**|**The Palomar twilight survey of 'Ayló'chaxnim, Atiras, and comets**|B. T. Bolin et.al.|[2409.15263](http://arxiv.org/abs/2409.15263)|null|
-|**2024-09-23**|**Semantic Inference-Based Deep Learning and Modeling for Earth Observation: Cognitive Semantic Augmentation Satellite Networks**|Hong-fu Chou et.al.|[2409.15246](http://arxiv.org/abs/2409.15246)|null|
+|**2024-09-26**|**On-Air Deep Learning Integrated Semantic Inference Models for Enhanced Earth Observation Satellite Networks**|Hong-fu Chou et.al.|[2409.15246](http://arxiv.org/abs/2409.15246)|null|
 |**2024-09-23**|**MotifDisco: Motif Causal Discovery For Time Series Motifs**|Josephine Lamp et.al.|[2409.15219](http://arxiv.org/abs/2409.15219)|null|
 |**2024-09-23**|**Deep Learning to Play Games**|Daniele Condorelli et.al.|[2409.15197](http://arxiv.org/abs/2409.15197)|null|
 |**2024-09-25**|**Goal-based Neural Physics Vehicle Trajectory Prediction Model**|Rui Gan et.al.|[2409.15182](http://arxiv.org/abs/2409.15182)|null|
@@ -1064,7 +1064,7 @@ layout: default
 |**2024-09-23**|**RoWSFormer: A Robust Watermarking Framework with Swin Transformer for Enhanced Geometric Attack Resilience**|Weitong Chen et.al.|[2409.14829](http://arxiv.org/abs/2409.14829)|null|
 |**2024-09-23**|**Two Deep Learning Solutions for Automatic Blurring of Faces in Videos**|Roman Plaud et.al.|[2409.14828](http://arxiv.org/abs/2409.14828)|null|
 |**2024-09-23**|**Towards Real-world Deployment of NILM Systems: Challenges and Practices**|Junyu Xue et.al.|[2409.14821](http://arxiv.org/abs/2409.14821)|null|
-|**2024-09-23**|**VARADE: a Variational-based AutoRegressive model for Anomaly Detection on the Edge**|Alessio Mascolini et.al.|[2409.14816](http://arxiv.org/abs/2409.14816)|null|
+|**2024-09-26**|**VARADE: a Variational-based AutoRegressive model for Anomaly Detection on the Edge**|Alessio Mascolini et.al.|[2409.14816](http://arxiv.org/abs/2409.14816)|**[link](https://gitlab.com/alessiomascolini/varade)**|
 |**2024-09-23**|**CFVNet: An End-to-End Cancelable Finger Vein Network for Recognition**|Yifan Wang et.al.|[2409.14774](http://arxiv.org/abs/2409.14774)|null|
 |**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755](http://arxiv.org/abs/2409.14755)|**[link](https://github.com/stefp/whorl_pose_detector)**|
 |**2024-09-24**|**Distribution-Level Feature Distancing for Machine Unlearning: Towards a Better Trade-off Between Model Utility and Forgetting**|Dasol Choi et.al.|[2409.14747](http://arxiv.org/abs/2409.14747)|null|
@@ -5831,7 +5831,7 @@ layout: default
 |**2024-07-10**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
 |**2024-05-30**|**DenseSeg: Joint Learning for Semantic Segmentation and Landmark Detection Using Dense Image-to-Shape Representation**|Ron Keuth et.al.|[2405.19746](http://arxiv.org/abs/2405.19746)|**[link](https://github.com/MDL-UzL/DenseSeg)**|
 |**2024-08-09**|**Tensor Frames -- How To Make Any Message Passing Network Equivariant**|Peter Lippmann et.al.|[2405.15389](http://arxiv.org/abs/2405.15389)|null|
-|**2024-05-23**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|null|
+|**2024-09-26**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|**[link](https://github.com/tk-rusch/mpmc)**|
 |**2024-05-15**|**Kuramoto Oscillators and Swarms on Manifolds for Geometry Informed Machine Learning**|Vladimir Jacimovic et.al.|[2405.09453](http://arxiv.org/abs/2405.09453)|null|
 |**2024-05-07**|**Predicting Transonic Flowfields in Non-Homogeneous Unstructured Grids Using Autoencoder Graph Convolutional Networks**|Gabriele Immordino et.al.|[2405.04396](http://arxiv.org/abs/2405.04396)|null|
 |**2024-04-05**|**Lightweight Geometric Deep Learning for Molecular Modelling in Catalyst Discovery**|Patrick Geitner et.al.|[2404.10003](http://arxiv.org/abs/2404.10003)|null|
