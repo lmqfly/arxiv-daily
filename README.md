@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Electro-Mechanical Contact Interactions Between Human Finger and Touchscreen Under Electroadhesion**|Easa AliAbbasi et.al.|[2409.18725](http://arxiv.org/abs/2409.18725)|null|
 |**2024-09-24**|**Batch Predictive Inference**|Yonghoon Lee et.al.|[2409.13990](http://arxiv.org/abs/2409.13990)|null|
 |**2024-09-16**|**Efficient polarizable QM/MM using the direct reaction field Hamiltonian with electrostatic potential fitted multipole operators**|Thomas P. Fay et.al.|[2409.10483](http://arxiv.org/abs/2409.10483)|**[link](https://github.com/tomfay/pyespf)**|
 |**2024-09-12**|**Measuring the limit of perception of bond stiffness of interactive molecules in VR via a gamified psychophysics experiment**|Rhoslyn Roebuck Williams et.al.|[2409.07836](http://arxiv.org/abs/2409.07836)|null|
@@ -585,12 +586,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Quantum nuclear motion in silicene: Assessing structural and vibrational properties through path-integral simulations**|Carlos P. Herrero et.al.|[2409.18840](http://arxiv.org/abs/2409.18840)|null|
+|**2024-09-27**|**Ab initio machine learning simulation of calcium carbonate from aqueous solutions to the solid state**|Pablo M. Piaggi et.al.|[2409.18562](http://arxiv.org/abs/2409.18562)|null|
+|**2024-09-26**|**Effect of Dispersity on Dynamic Properties of Polymer Melts: Insights from Coarse-Grained Molecular Dynamics Simulations**|Taofeek Tejuosho et.al.|[2409.18315](http://arxiv.org/abs/2409.18315)|null|
 |**2024-09-26**|**Molecular dynamics simulations of interaction between a super edge dislocation and interstitial dislocation loops in irradiated L12-Ni3Al**|Cheng Chen et.al.|[2409.18018](http://arxiv.org/abs/2409.18018)|null|
 |**2024-09-26**|**Nature of the activity-mediated unjamming transition in confluent cell monolayers**|Souvik Sadhukhan et.al.|[2409.17816](http://arxiv.org/abs/2409.17816)|null|
 |**2024-09-26**|**Shock propagation following an intense explosion in an inhomogeneous gas: core scaling and hydrodynamics**|Amit Kumar et.al.|[2409.17799](http://arxiv.org/abs/2409.17799)|null|
 |**2024-09-26**|**Force Fields for Molecular Dynamics Simulations of Charged Dust Particles with Finite Size in Complex Plasmas**|N. Kh. Bastykova et.al.|[2409.17782](http://arxiv.org/abs/2409.17782)|null|
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
-|**2024-09-25**|**Flow of supercooled liquids under dipolar force field**|Kento Maeda et.al.|[2409.16725](http://arxiv.org/abs/2409.16725)|null|
+|**2024-09-27**|**Flow of supercooled liquids under dipolar force field**|Kento Maeda et.al.|[2409.16725](http://arxiv.org/abs/2409.16725)|null|
 |**2024-09-24**|**Machine learning potential for serpentines**|Hongjin Wang et.al.|[2409.16402](http://arxiv.org/abs/2409.16402)|null|
 |**2024-09-24**|**Kinetically Consistent Coarse Graining using Kernel-based Extended Dynamic Mode Decomposition**|Vahid Nateghi et.al.|[2409.16396](http://arxiv.org/abs/2409.16396)|null|
 |**2024-09-24**|**Tracing Ion Migration in Halide Perovskites with Machine Learned Force Fields**|Viren Tyagi et.al.|[2409.16051](http://arxiv.org/abs/2409.16051)|null|
@@ -995,12 +999,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Subspace Preserving Quantum Convolutional Neural Network Architectures**|Léo Monbroussou et.al.|[2409.18918](http://arxiv.org/abs/2409.18918)|null|
+|**2024-09-27**|**Deep Learning Enhanced Quantum Holography with Undetected Photons**|Weiru Fan et.al.|[2409.18887](http://arxiv.org/abs/2409.18887)|null|
+|**2024-09-27**|**HR-Extreme: A High-Resolution Dataset for Extreme Weather Forecasting**|Nian Ran et.al.|[2409.18885](http://arxiv.org/abs/2409.18885)|null|
+|**2024-09-27**|**Early diagnosis of Alzheimer's disease from MRI images with deep learning model**|Sajjad Aghasi Javid et.al.|[2409.18814](http://arxiv.org/abs/2409.18814)|null|
+|**2024-09-27**|**Excavating in the Wild: The GOOSE-Ex Dataset for Semantic Segmentation**|Raphael Hagmanns et.al.|[2409.18788](http://arxiv.org/abs/2409.18788)|null|
+|**2024-09-27**|**HardCore Generation: Generating Hard UNSAT Problems for Data Augmentation**|Joseph Cotnareanu et.al.|[2409.18778](http://arxiv.org/abs/2409.18778)|null|
+|**2024-09-27**|**A method of using RSVD in residual calculation of LowBit GEMM**|Hongyaoxing Gu et.al.|[2409.18772](http://arxiv.org/abs/2409.18772)|null|
+|**2024-09-27**|**State-of-the-Art Periorbital Distance Prediction and Disease Classification Using Periorbital Features**|George R. Nahass et.al.|[2409.18769](http://arxiv.org/abs/2409.18769)|null|
+|**2024-09-27**|**Geometric deep learning for galaxy-halo connection: a case study for galaxy intrinsic alignments**|Yesukhei Jagvaral et.al.|[2409.18761](http://arxiv.org/abs/2409.18761)|null|
+|**2024-09-27**|**TensorSocket: Shared Data Loading for Deep Learning Training**|Ties Robroek et.al.|[2409.18749](http://arxiv.org/abs/2409.18749)|null|
+|**2024-09-27**|**MG-Net: Learn to Customize QAOA with Circuit Depth Awareness**|Yang Qian et.al.|[2409.18692](http://arxiv.org/abs/2409.18692)|**[link](https://github.com/QQQYang/MG-Net)**|
+|**2024-09-27**|**SEART Data Hub: Streamlining Large-Scale Source Code Mining and Pre-Processing**|Ozren Dabić et.al.|[2409.18658](http://arxiv.org/abs/2409.18658)|null|
+|**2024-09-27**|**Unsupervised Fingerphoto Presentation Attack Detection With Diffusion Models**|Hailin Li et.al.|[2409.18636](http://arxiv.org/abs/2409.18636)|null|
+|**2024-09-27**|**Towards Integrating Epistemic Uncertainty Estimation into the Radiotherapy Workflow**|Marvin Tom Teichmann et.al.|[2409.18628](http://arxiv.org/abs/2409.18628)|null|
+|**2024-09-27**|**TemporalPaD: a reinforcement-learning framework for temporal feature representation and dimension reduction**|Xuechen Mu et.al.|[2409.18597](http://arxiv.org/abs/2409.18597)|null|
+|**2024-09-27**|**Autoencoder-based learning of Quantum phase transitions in the two-component Bose-Hubbard model**|Iftekher S. Chowdhury et.al.|[2409.18480](http://arxiv.org/abs/2409.18480)|null|
+|**2024-09-27**|**Enhancing Crime Scene Investigations through Virtual Reality and Deep Learning Techniques**|Antonino Zappalà et.al.|[2409.18458](http://arxiv.org/abs/2409.18458)|null|
+|**2024-09-27**|**Joint Optimization of Data- and Model-Driven Probing Beams and Beam Predictor**|Tianheng Lu et.al.|[2409.18429](http://arxiv.org/abs/2409.18429)|null|
+|**2024-09-27**|**Scientific Machine Learning Seismology**|Tomohisa Okazaki et.al.|[2409.18397](http://arxiv.org/abs/2409.18397)|null|
+|**2024-09-27**|**Robo-CSK-Organizer: Commonsense Knowledge to Organize Detected Objects for Multipurpose Robots**|Rafael Hidalgo et.al.|[2409.18385](http://arxiv.org/abs/2409.18385)|null|
+|**2024-09-26**|**Deep-ER: Deep Learning ECCENTRIC Reconstruction for fast high-resolution neurometabolic imaging**|Paul Weiser et.al.|[2409.18303](http://arxiv.org/abs/2409.18303)|null|
+|**2024-09-26**|**SLIDE: A machine-learning based method for forced dynamic response estimation of multibody systems**|Peter Manzl et.al.|[2409.18272](http://arxiv.org/abs/2409.18272)|null|
+|**2024-09-26**|**Predicting Muscle Thickness Deformation from Muscle Activation Patterns: A Dual-Attention Framework**|Bangyu Lan et.al.|[2409.18266](http://arxiv.org/abs/2409.18266)|null|
+|**2024-09-26**|**Revolutionizing Payload Inspection: A Self-Supervised Journey to Precision with Few Shots**|Kyle Stein et.al.|[2409.18219](http://arxiv.org/abs/2409.18219)|null|
+|**2024-09-26**|**Trustworthy Text-to-Image Diffusion Models: A Timely and Focused Survey**|Yi Zhang et.al.|[2409.18214](http://arxiv.org/abs/2409.18214)|**[link](https://github.com/wellzline/trustworthy_t2i_dms)**|
+|**2024-09-26**|**A Fly on the Wall -- Exploiting Acoustic Side-Channels in Differential Pressure Sensors**|Yonatan Gizachew Achamyeleh et.al.|[2409.18213](http://arxiv.org/abs/2409.18213)|null|
+|**2024-09-26**|**A Survey on Neural Architecture Search Based on Reinforcement Learning**|Wenzhu Shao et.al.|[2409.18163](http://arxiv.org/abs/2409.18163)|null|
 |**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102](http://arxiv.org/abs/2409.18102)|null|
 |**2024-09-26**|**Self-supervised Pretraining for Cardiovascular Magnetic Resonance Cine Segmentation**|Rob A. J. de Mooij et.al.|[2409.18100](http://arxiv.org/abs/2409.18100)|**[link](https://github.com/q-cardia/ssp-cmr-cine-segmentation)**|
 |**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
 |**2024-09-26**|**Visual Data Diagnosis and Debiasing with Concept Graphs**|Rwiddhi Chakraborty et.al.|[2409.18055](http://arxiv.org/abs/2409.18055)|null|
 |**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038](http://arxiv.org/abs/2409.18038)|null|
-|**2024-09-26**|**CRoP: Context-wise Robust Static Human-Sensing Personalization**|Sawinder Kaur et.al.|[2409.17994](http://arxiv.org/abs/2409.17994)|null|
+|**2024-09-27**|**CRoP: Context-wise Robust Static Human-Sensing Personalization**|Sawinder Kaur et.al.|[2409.17994](http://arxiv.org/abs/2409.17994)|null|
 |**2024-09-26**|**Predicting Anchored Text from Translation Memories for Machine Translation Using Deep Learning Methods**|Richard Yue et.al.|[2409.17939](http://arxiv.org/abs/2409.17939)|null|
 |**2024-09-26**|**Sample compression unleashed : New generalization bounds for real valued losses**|Mathieu Bazinet et.al.|[2409.17932](http://arxiv.org/abs/2409.17932)|null|
 |**2024-09-26**|**Intelligent Energy Management: Remaining Useful Life Prediction and Charging Automation System Comprised of Deep Learning and the Internet of Things**|Biplov Paneru et.al.|[2409.17931](http://arxiv.org/abs/2409.17931)|null|
@@ -5880,6 +5911,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Geometric deep learning for galaxy-halo connection: a case study for galaxy intrinsic alignments**|Yesukhei Jagvaral et.al.|[2409.18761](http://arxiv.org/abs/2409.18761)|null|
 |**2024-09-24**|**Machine learning approaches for automatic defect detection in photovoltaic systems**|Swayam Rajat Mohanty et.al.|[2409.16069](http://arxiv.org/abs/2409.16069)|null|
 |**2024-09-18**|**Edge-Based Graph Component Pooling**|T. Snelleman et.al.|[2409.11856](http://arxiv.org/abs/2409.11856)|null|
 |**2024-09-11**|**Current Symmetry Group Equivariant Convolution Frameworks for Representation Learning**|Ramzan Basheer et.al.|[2409.07327](http://arxiv.org/abs/2409.07327)|null|
