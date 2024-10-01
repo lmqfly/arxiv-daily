@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -600,7 +600,7 @@ layout: default
 |**2024-09-10**|**Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks**|Prakash Thakolkaran et.al.|[2409.06457](http://arxiv.org/abs/2409.06457)|null|
 |**2024-09-11**|**Group-IV Pentaoctite: A New 2D Material Family**|Vanessa D. Kegler et.al.|[2409.05986](http://arxiv.org/abs/2409.05986)|null|
 |**2024-08-22**|**Slip Due to Kink Propagation at the Liquid-Solid Interface**|Metehan Cam et.al.|[2409.04445](http://arxiv.org/abs/2409.04445)|null|
-|**2024-09-06**|**Highly efficient path-integral molecular dynamics simulations with GPUMD using neuroevolution potentials: Case studies on thermal properties of materials**|Penghua Ying et.al.|[2409.04430](http://arxiv.org/abs/2409.04430)|**[link](https://github.com/brucefan1983/GPUMD)**|
+|**2024-09-28**|**Highly efficient path-integral molecular dynamics simulations with GPUMD using neuroevolution potentials: Case studies on thermal properties of materials**|Penghua Ying et.al.|[2409.04430](http://arxiv.org/abs/2409.04430)|**[link](https://github.com/brucefan1983/GPUMD)**|
 |**2024-09-06**|**Slip-dominated structural transitions**|Kanka Ghosh et.al.|[2409.04066](http://arxiv.org/abs/2409.04066)|null|
 |**2024-08-21**|**Thermal conductivity and thermal diffusivity of molten salts: insights from molecular dynamics simulations and fundamental bounds**|C. Cockrell et.al.|[2409.03775](http://arxiv.org/abs/2409.03775)|null|
 |**2024-09-03**|**Types of Size-Dependent Melting in Fe Nanoclusters: a Molecular Dynamics Study**|Louis E. S. Hoffenberg et.al.|[2409.02293](http://arxiv.org/abs/2409.02293)|null|
@@ -1005,7 +1005,7 @@ layout: default
 |**2024-09-26**|**Revolutionizing Payload Inspection: A Self-Supervised Journey to Precision with Few Shots**|Kyle Stein et.al.|[2409.18219](http://arxiv.org/abs/2409.18219)|null|
 |**2024-09-26**|**Trustworthy Text-to-Image Diffusion Models: A Timely and Focused Survey**|Yi Zhang et.al.|[2409.18214](http://arxiv.org/abs/2409.18214)|**[link](https://github.com/wellzline/trustworthy_t2i_dms)**|
 |**2024-09-26**|**A Fly on the Wall -- Exploiting Acoustic Side-Channels in Differential Pressure Sensors**|Yonatan Gizachew Achamyeleh et.al.|[2409.18213](http://arxiv.org/abs/2409.18213)|null|
-|**2024-09-26**|**A Survey on Neural Architecture Search Based on Reinforcement Learning**|Wenzhu Shao et.al.|[2409.18163](http://arxiv.org/abs/2409.18163)|null|
+|**2024-09-30**|**A Survey on Neural Architecture Search Based on Reinforcement Learning**|Wenzhu Shao et.al.|[2409.18163](http://arxiv.org/abs/2409.18163)|null|
 |**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102](http://arxiv.org/abs/2409.18102)|null|
 |**2024-09-26**|**Self-supervised Pretraining for Cardiovascular Magnetic Resonance Cine Segmentation**|Rob A. J. de Mooij et.al.|[2409.18100](http://arxiv.org/abs/2409.18100)|**[link](https://github.com/q-cardia/ssp-cmr-cine-segmentation)**|
 |**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
@@ -5819,7 +5819,7 @@ layout: default
 |**2023-10-10**|**DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**|Bowen Gao et.al.|[2310.06367](http://arxiv.org/abs/2310.06367)|null|
 |**2024-05-30**|**Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design**|Hannes Stärk et.al.|[2310.05764](http://arxiv.org/abs/2310.05764)|**[link](https://github.com/hannesstark/flowsite)**|
 |**2024-02-11**|**PGraphDTA: Improving Drug Target Interaction Prediction using Protein Language Models and Contact Maps**|Rakesh Bal et.al.|[2310.04017](http://arxiv.org/abs/2310.04017)|**[link](https://github.com/yijia-xiao/pgraphdta)**|
-|**2024-05-18**|**Improved prediction of ligand-protein binding affinities by meta-modeling**|Ho-Joon Lee et.al.|[2310.03946](http://arxiv.org/abs/2310.03946)|**[link](https://github.com/lee1701/lee2023a)**|
+|**2024-09-27**|**Improved prediction of ligand-protein binding affinities by meta-modeling**|Ho-Joon Lee et.al.|[2310.03946](http://arxiv.org/abs/2310.03946)|**[link](https://github.com/lee1701/lee2023a)**|
 |**2024-09-06**|**TacoGFN: Target-conditioned GFlowNet for Structure-based Drug Design**|Tony Shen et.al.|[2310.03223](http://arxiv.org/abs/2310.03223)|**[link](https://github.com/tsa87/TacoGFN-SBDD)**|
 |**2023-10-03**|**Controlling the size and adhesion of DNA droplets using surface-active DNA molecules**|Daqian Gao et.al.|[2310.02425](http://arxiv.org/abs/2310.02425)|null|
 |**2023-12-18**|**PharmacoNet: Accelerating Large-Scale Virtual Screening by Deep Pharmacophore Modeling**|Seonghwan Seo et.al.|[2310.00681](http://arxiv.org/abs/2310.00681)|**[link](https://github.com/seonghwanseo/pharmaconet)**|
