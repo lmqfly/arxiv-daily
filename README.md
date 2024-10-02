@@ -5838,7 +5838,7 @@
 |**2024-06-13**|**From Theory to Therapy: Reframing SBDD Model Evaluation via Practical Metrics**|Bowen Gao et.al.|[2406.08980](http://arxiv.org/abs/2406.08980)|**[link](https://github.com/bowen-gao/sbdd_practical_evaluation)**|
 |**2024-06-11**|**DualBind: A Dual-Loss Framework for Protein-Ligand Binding Affinity Prediction**|Meng Liu et.al.|[2406.07770](http://arxiv.org/abs/2406.07770)|null|
 |**2024-06-11**|**Active learning for affinity prediction of antibodies**|Alexandra Gessner et.al.|[2406.07263](http://arxiv.org/abs/2406.07263)|null|
-|**2024-10-01**|**CompassDock: Comprehensive Accurate Assessment Approach for Deep Learning-Based Molecular Docking in Inference and Fine-Tuning**|Ahmet Sarigun et.al.|[2406.06841](http://arxiv.org/abs/2406.06841)|**[link](https://github.com/bimsbbioinfo/compass)**|
+|**2024-10-01**|**CompassDock: Comprehensive Accurate Assessment Approach for Deep Learning-Based Molecular Docking in Inference and Fine-Tuning**|Ahmet Sarigun et.al.|[2406.06841](http://arxiv.org/abs/2406.06841)|**[link](https://github.com/bimsbbioinfo/compassdock)**|
 |**2024-06-09**|**Smiles2Dock: an open large-scale multi-task dataset for ML-based molecular docking**|Thomas Le Menestrel et.al.|[2406.05738](http://arxiv.org/abs/2406.05738)|**[link](https://github.com/rivas-lab/Smiles2Dock)**|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|**[link](https://github.com/MoleculeAI/TAGMol)**|
 |**2024-06-21**|**Computing hydration free energies of small molecules with first principles accuracy**|J. Harry Moore et.al.|[2405.18171](http://arxiv.org/abs/2405.18171)|null|
