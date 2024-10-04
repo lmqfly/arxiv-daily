@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -328,7 +328,7 @@ layout: default
 |**2024-04-25**|**ChemLLM: A Chemical Large Language Model**|Di Zhang et.al.|[2402.06852](http://arxiv.org/abs/2402.06852)|null|
 |**2024-05-25**|**Genetic-guided GFlowNets for Sample Efficient Molecular Optimization**|Hyeonah Kim et.al.|[2402.05961](http://arxiv.org/abs/2402.05961)|**[link](https://github.com/hyeonahkimm/genetic_gfn)**|
 |**2024-09-19**|**Hybrid quantum cycle generative adversarial network for small molecule generation**|Matvei Anoshin et.al.|[2402.00014](http://arxiv.org/abs/2402.00014)|null|
-|**2024-05-07**|**Graph Diffusion Transformer for Multi-Conditional Molecular Generation**|Gang Liu et.al.|[2401.13858](http://arxiv.org/abs/2401.13858)|**[link](https://github.com/liugangcode/MCD)**|
+|**2024-10-03**|**Graph Diffusion Transformers for Multi-Conditional Molecular Generation**|Gang Liu et.al.|[2401.13858](http://arxiv.org/abs/2401.13858)|**[link](https://github.com/liugangcode/MCD)**|
 |**2023-09-24**|**Curiosity as a Self-Supervised Method to Improve Exploration in De novo Drug Design**|Mohamed-Amine Chadi et.al.|[2401.06771](http://arxiv.org/abs/2401.06771)|**[link](https://github.com/amine179/curiosity-rl-for-drug-design)**|
 |**2023-12-21**|**De novo Drug Design using Reinforcement Learning with Multiple GPT Agents**|Xiuyuan Hu et.al.|[2401.06155](http://arxiv.org/abs/2401.06155)|**[link](https://github.com/hxyfighter/molrl-mgpt)**|
 |**2024-05-02**|**nach0: Multimodal Natural and Chemical Languages Foundation Model**|Micha Livne et.al.|[2311.12410](http://arxiv.org/abs/2311.12410)|**[link](https://github.com/insilicomedicine/nach0)**|
@@ -442,7 +442,7 @@ layout: default
 |**2024-06-20**|**$\nabla^2$ DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials**|Kuzma Khrabrov et.al.|[2406.14347](http://arxiv.org/abs/2406.14347)|**[link](https://github.com/AIRI-Institute/nablaDFT)**|
 |**2024-06-19**|**Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning**|Danqing Wang et.al.|[2406.13869](http://arxiv.org/abs/2406.13869)|**[link](https://github.com/dqwang122/rlhex)**|
 |**2024-06-18**|**MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction**|Yuyan Liu et.al.|[2406.12950](http://arxiv.org/abs/2406.12950)|**[link](https://github.com/nyushcs/moleculargpt)**|
-|**2024-06-22**|**Learning Molecular Representation in a Cell**|Gang Liu et.al.|[2406.12056](http://arxiv.org/abs/2406.12056)|**[link](https://github.com/liugangcode/InfoAlign)**|
+|**2024-10-02**|**Learning Molecular Representation in a Cell**|Gang Liu et.al.|[2406.12056](http://arxiv.org/abs/2406.12056)|**[link](https://github.com/liugangcode/InfoAlign)**|
 |**2024-06-14**|**Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge**|Yizhen Luo et.al.|[2406.09841](http://arxiv.org/abs/2406.09841)|**[link](https://github.com/pharmolix/openbiomed)**|
 |**2024-07-25**|**Expressivity and Generalization: Fragment-Biases for Molecular GNNs**|Tom Wollschläger et.al.|[2406.08210](http://arxiv.org/abs/2406.08210)|null|
 |**2024-05-30**|**Ensemble Model With Bert,Roberta and Xlnet For Molecular property prediction**|Junling Hu et.al.|[2406.06553](http://arxiv.org/abs/2406.06553)|null|
@@ -452,7 +452,7 @@ layout: default
 |**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
 |**2024-10-02**|**Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models**|Zhenzhong Wang et.al.|[2405.16041](http://arxiv.org/abs/2405.16041)|null|
 |**2024-05-24**|**Knowledge-enhanced Relation Graph and Task Sampling for Few-shot Molecular Property Prediction**|Zeyu Wang et.al.|[2405.15544](http://arxiv.org/abs/2405.15544)|**[link](https://github.com/Vencent-Won/KRGTS-public)**|
-|**2024-07-23**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429](http://arxiv.org/abs/2405.15429)|**[link](https://github.com/NSAPH-Projects/topological-equivariant-networks)**|
+|**2024-10-03**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429](http://arxiv.org/abs/2405.15429)|**[link](https://github.com/NSAPH-Projects/topological-equivariant-networks)**|
 |**2024-05-23**|**GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices**|Thao Nguyen et.al.|[2405.14203](http://arxiv.org/abs/2405.14203)|null|
 |**2024-05-08**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205](http://arxiv.org/abs/2405.05205)|null|
 |**2024-07-16**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|**[link](https://github.com/seojin-kim/hi-mol)**|
@@ -995,7 +995,7 @@ layout: default
 |**2024-10-02**|**On the expressiveness and spectral bias of KANs**|Yixuan Wang et.al.|[2410.01803](http://arxiv.org/abs/2410.01803)|null|
 |**2024-10-02**|**Towards deep learning sequence-structure co-generation for protein design**|Chentong Wang et.al.|[2410.01773](http://arxiv.org/abs/2410.01773)|null|
 |**2024-10-02**|**Towards a vision foundation model for comprehensive assessment of Cardiac MRI**|Athira J Jacob et.al.|[2410.01665](http://arxiv.org/abs/2410.01665)|null|
-|**2024-10-02**|**Unleashing Parameter Potential of Neural Representation for Efficient Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
+|**2024-10-03**|**Releasing the Parameter Latency of Neural Representation for High-Efficiency Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
 |**2024-10-02**|**DeIDClinic: A Multi-Layered Framework for De-identification of Clinical Free-text Data**|Angel Paul et.al.|[2410.01648](http://arxiv.org/abs/2410.01648)|null|
 |**2024-10-02**|**SAFE: Semantic Adaptive Feature Extraction with Rate Control for 6G Wireless Communications**|Yuna Yan et.al.|[2410.01597](http://arxiv.org/abs/2410.01597)|null|
 |**2024-10-02**|**Imaging foundation model for universal enhancement of non-ideal measurement CT**|Yuxin Liu et.al.|[2410.01591](http://arxiv.org/abs/2410.01591)|**[link](https://github.com/yutinghe-list/tamp)**|
@@ -1012,7 +1012,7 @@ layout: default
 |**2024-10-02**|**Polyp-SES: Automatic Polyp Segmentation with Self-Enriched Semantic Model**|Quang Vinh Nguyen et.al.|[2410.01210](http://arxiv.org/abs/2410.01210)|null|
 |**2024-10-02**|**[Re] Network Deconvolution**|Rochana R. Obadage et.al.|[2410.01189](http://arxiv.org/abs/2410.01189)|**[link](https://github.com/lamps-lab/rep-network-deconvolution)**|
 |**2024-10-02**|**Document Type Classification using File Names**|Zhijian Li et.al.|[2410.01166](http://arxiv.org/abs/2410.01166)|null|
-|**2024-10-02**|**Perturbation-Robust Predictive Modeling of Social Effects by Network Subspace Generalized Linear Models**|Jianxiang Wang et.al.|[2410.01163](http://arxiv.org/abs/2410.01163)|null|
+|**2024-10-03**|**Perturbation-Robust Predictive Modeling of Social Effects by Network Subspace Generalized Linear Models**|Jianxiang Wang et.al.|[2410.01163](http://arxiv.org/abs/2410.01163)|null|
 |**2024-10-02**|**A Deep Learning Approach for Imbalanced Tabular Data in Advertiser Prospecting: A Case of Direct Mail Prospecting**|Sadegh Farhang et.al.|[2410.01157](http://arxiv.org/abs/2410.01157)|null|
 |**2024-10-02**|**Text2PDE: Latent Diffusion Models for Accessible Physics Simulation**|Anthony Zhou et.al.|[2410.01153](http://arxiv.org/abs/2410.01153)|**[link](https://github.com/anthonyzhou-1/ldm_pdes)**|
 |**2024-10-01**|**An Introduction to Deep Survival Analysis Models for Predicting Time-to-Event Outcomes**|George H. Chen et.al.|[2410.01086](http://arxiv.org/abs/2410.01086)|**[link](https://github.com/georgehc/survival-intro)**|
@@ -1052,7 +1052,7 @@ layout: default
 |**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
 |**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503](http://arxiv.org/abs/2409.20503)|**[link](https://github.com/mooselab/suppmaterial-CfgTransAnomalyDetector)**|
 |**2024-09-30**|**IRFusionFormer: Enhancing Pavement Crack Segmentation with RGB-T Fusion and Topological-Based Loss**|Ruiqiang Xiao et.al.|[2409.20474](http://arxiv.org/abs/2409.20474)|null|
-|**2024-09-30**|**Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization**|Michal Balcerak et.al.|[2409.20409](http://arxiv.org/abs/2409.20409)|**[link](https://github.com/m1balcerak/PhysRegTumor)**|
+|**2024-10-03**|**Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization**|Michal Balcerak et.al.|[2409.20409](http://arxiv.org/abs/2409.20409)|**[link](https://github.com/m1balcerak/PhysRegTumor)**|
 |**2024-09-30**|**Open-Source Periorbital Segmentation Dataset for Ophthalmic Applications**|George R. Nahass et.al.|[2409.20407](http://arxiv.org/abs/2409.20407)|null|
 |**2024-09-30**|**Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**|Yizhou Huang et.al.|[2409.20364](http://arxiv.org/abs/2409.20364)|null|
 |**2024-10-01**|**Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**|Osama Mustafa et.al.|[2409.20340](http://arxiv.org/abs/2409.20340)|null|
@@ -1060,7 +1060,7 @@ layout: default
 |**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|null|
 |**2024-09-30**|**Loose Social-Interaction Recognition in Real-world Therapy Scenarios**|Abid Ali et.al.|[2409.20270](http://arxiv.org/abs/2409.20270)|null|
 |**2024-09-30**|**SetPINNs: Set-based Physics-informed Neural Networks**|Mayank Nagda et.al.|[2409.20206](http://arxiv.org/abs/2409.20206)|null|
-|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195](http://arxiv.org/abs/2409.20195)|**[link](https://github.com/arunava555/Forecast_parallel_hyperplanes)**|
+|**2024-10-03**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195](http://arxiv.org/abs/2409.20195)|**[link](https://github.com/arunava555/Forecast_parallel_hyperplanes)**|
 |**2024-09-30**|**Annotation-Free Curb Detection Leveraging Altitude Difference Image**|Fulong Ma et.al.|[2409.20171](http://arxiv.org/abs/2409.20171)|null|
 |**2024-09-30**|**Task-Oriented Pre-Training for Drivable Area Detection**|Fulong Ma et.al.|[2409.20166](http://arxiv.org/abs/2409.20166)|null|
 |**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164](http://arxiv.org/abs/2409.20164)|null|
