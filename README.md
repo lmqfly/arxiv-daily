@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -59,7 +59,7 @@
 |**2024-06-14**|**Efficient and Precise Force Field Optimization for Biomolecules Using DPA-2**|Junhan Chang et.al.|[2406.09817](http://arxiv.org/abs/2406.09817)|null|
 |**2024-06-12**|**MOTI $\mathcal{VE}$ : A Drug-Target Interaction Graph For Inductive Link Prediction**|John Arevalo et.al.|[2406.08649](http://arxiv.org/abs/2406.08649)|**[link](https://github.com/carpenter-singh-lab/motive)**|
 |**2024-06-11**|**Role of Kinetic Exchange and Coulomb Interaction in Bonding of Hydrogen Molecular Systems and Excited States**|Maciej Hendzel et.al.|[2406.07729](http://arxiv.org/abs/2406.07729)|null|
-|**2024-06-03**|**FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction**|Zhaohan Meng et.al.|[2406.01651](http://arxiv.org/abs/2406.01651)|**[link](https://github.com/zhaohanm/fusiondti)**|
+|**2024-10-04**|**FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction**|Zhaohan Meng et.al.|[2406.01651](http://arxiv.org/abs/2406.01651)|**[link](https://github.com/zhaohanm/fusiondti)**|
 |**2024-05-23**|**A Cross-Field Fusion Strategy for Drug-Target Interaction Prediction**|Hongzhi Zhang et.al.|[2405.14545](http://arxiv.org/abs/2405.14545)|null|
 |**2024-05-10**|**Improving Targeted Molecule Generation through Language Model Fine-Tuning Via Reinforcement Learning**|Salma J. Ahmed et.al.|[2405.06836](http://arxiv.org/abs/2405.06836)|null|
 |**2024-04-18**|**Treatment of seeds by cold ambient air plasma: Combining impedance measurements with water sorption modeling to understand the impact of seed hydration**|Jonas August et.al.|[2404.15365](http://arxiv.org/abs/2404.15365)|null|
@@ -172,7 +172,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## DDI
 
@@ -287,7 +287,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## MG
 
@@ -432,7 +432,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## MPP
 
@@ -585,7 +585,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## MD
 
@@ -1007,7 +1007,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Transformer
 
@@ -1057,7 +1057,7 @@
 |**2024-10-02**|**Long-range gene expression prediction with token alignment of large language model**|Edouardo Honig et.al.|[2410.01858](http://arxiv.org/abs/2410.01858)|null|
 |**2024-10-01**|**Explainable Diagnosis Prediction through Neuro-Symbolic Integration**|Qiuhao Lu et.al.|[2410.01855](http://arxiv.org/abs/2410.01855)|null|
 |**2024-10-01**|**A Novel Feature Extraction Model for the Detection of Plant Disease from Leaf Images in Low Computational Devices**|Rikathi Pal et.al.|[2410.01854](http://arxiv.org/abs/2410.01854)|null|
-|**2024-10-01**|**Bayes-CATSI: A variational Bayesian approach for medical time series data imputation**|Omkar Kulkarni et.al.|[2410.01847](http://arxiv.org/abs/2410.01847)|**[link](https://github.com/pingala-institute/Bayes-medicaldataimputation)**|
+|**2024-10-04**|**Bayes-CATSI: A variational Bayesian deep learning framework for medical time series data imputation**|Omkar Kulkarni et.al.|[2410.01847](http://arxiv.org/abs/2410.01847)|**[link](https://github.com/pingala-institute/Bayes-medicaldataimputation)**|
 |**2024-10-02**|**On the expressiveness and spectral bias of KANs**|Yixuan Wang et.al.|[2410.01803](http://arxiv.org/abs/2410.01803)|null|
 |**2024-10-02**|**Towards deep learning sequence-structure co-generation for protein design**|Chentong Wang et.al.|[2410.01773](http://arxiv.org/abs/2410.01773)|null|
 |**2024-10-02**|**Towards a vision foundation model for comprehensive assessment of Cardiac MRI**|Athira J Jacob et.al.|[2410.01665](http://arxiv.org/abs/2410.01665)|null|
@@ -5906,7 +5906,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Binding
 
@@ -6076,7 +6076,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -6210,7 +6210,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

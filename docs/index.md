@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -49,7 +49,7 @@ layout: default
 |**2024-06-14**|**Efficient and Precise Force Field Optimization for Biomolecules Using DPA-2**|Junhan Chang et.al.|[2406.09817](http://arxiv.org/abs/2406.09817)|null|
 |**2024-06-12**|**MOTI $\mathcal{VE}$ : A Drug-Target Interaction Graph For Inductive Link Prediction**|John Arevalo et.al.|[2406.08649](http://arxiv.org/abs/2406.08649)|**[link](https://github.com/carpenter-singh-lab/motive)**|
 |**2024-06-11**|**Role of Kinetic Exchange and Coulomb Interaction in Bonding of Hydrogen Molecular Systems and Excited States**|Maciej Hendzel et.al.|[2406.07729](http://arxiv.org/abs/2406.07729)|null|
-|**2024-06-03**|**FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction**|Zhaohan Meng et.al.|[2406.01651](http://arxiv.org/abs/2406.01651)|**[link](https://github.com/zhaohanm/fusiondti)**|
+|**2024-10-04**|**FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction**|Zhaohan Meng et.al.|[2406.01651](http://arxiv.org/abs/2406.01651)|**[link](https://github.com/zhaohanm/fusiondti)**|
 |**2024-05-23**|**A Cross-Field Fusion Strategy for Drug-Target Interaction Prediction**|Hongzhi Zhang et.al.|[2405.14545](http://arxiv.org/abs/2405.14545)|null|
 |**2024-05-10**|**Improving Targeted Molecule Generation through Language Model Fine-Tuning Via Reinforcement Learning**|Salma J. Ahmed et.al.|[2405.06836](http://arxiv.org/abs/2405.06836)|null|
 |**2024-04-18**|**Treatment of seeds by cold ambient air plasma: Combining impedance measurements with water sorption modeling to understand the impact of seed hydration**|Jonas August et.al.|[2404.15365](http://arxiv.org/abs/2404.15365)|null|
@@ -1037,7 +1037,7 @@ layout: default
 |**2024-10-02**|**Long-range gene expression prediction with token alignment of large language model**|Edouardo Honig et.al.|[2410.01858](http://arxiv.org/abs/2410.01858)|null|
 |**2024-10-01**|**Explainable Diagnosis Prediction through Neuro-Symbolic Integration**|Qiuhao Lu et.al.|[2410.01855](http://arxiv.org/abs/2410.01855)|null|
 |**2024-10-01**|**A Novel Feature Extraction Model for the Detection of Plant Disease from Leaf Images in Low Computational Devices**|Rikathi Pal et.al.|[2410.01854](http://arxiv.org/abs/2410.01854)|null|
-|**2024-10-01**|**Bayes-CATSI: A variational Bayesian approach for medical time series data imputation**|Omkar Kulkarni et.al.|[2410.01847](http://arxiv.org/abs/2410.01847)|**[link](https://github.com/pingala-institute/Bayes-medicaldataimputation)**|
+|**2024-10-04**|**Bayes-CATSI: A variational Bayesian deep learning framework for medical time series data imputation**|Omkar Kulkarni et.al.|[2410.01847](http://arxiv.org/abs/2410.01847)|**[link](https://github.com/pingala-institute/Bayes-medicaldataimputation)**|
 |**2024-10-02**|**On the expressiveness and spectral bias of KANs**|Yixuan Wang et.al.|[2410.01803](http://arxiv.org/abs/2410.01803)|null|
 |**2024-10-02**|**Towards deep learning sequence-structure co-generation for protein design**|Chentong Wang et.al.|[2410.01773](http://arxiv.org/abs/2410.01773)|null|
 |**2024-10-02**|**Towards a vision foundation model for comprehensive assessment of Cardiac MRI**|Athira J Jacob et.al.|[2410.01665](http://arxiv.org/abs/2410.01665)|null|
