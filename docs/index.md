@@ -171,6 +171,7 @@ layout: default
 |**2024-08-27**|**RGDA-DDI: Residual graph attention network and dual-attention based framework for drug-drug interaction prediction**|Changjian Zhou et.al.|[2408.15310](http://arxiv.org/abs/2408.15310)|**[link](https://github.com/HPC-NEAU/RGDA-DDI)**|
 |**2024-08-02**|**Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408](http://arxiv.org/abs/2408.01408)|**[link](https://github.com/AnnonymousForPapers/GCN-proof)**|
 |**2024-07-31**|**ZeroDDI: A Zero-Shot Drug-Drug Interaction Event Prediction Method with Semantic Enhanced Learning and Dual-Modal Uniform Alignment**|Ziyan Wang et.al.|[2407.00891](http://arxiv.org/abs/2407.00891)|**[link](https://github.com/wzy-sarah/zeroddi)**|
+|**2024-10-10**|**Knowledge-Aware Parsimony Learning: A Perspective from Relational Graphs**|Quanming Yao et.al.|[2407.00478](http://arxiv.org/abs/2407.00478)|null|
 |**2024-05-31**|**ADEP: A Novel Approach Based on Discriminator-Enhanced Encoder-Decoder Architecture for Accurate Prediction of Adverse Effects in Polypharmacy**|Katayoun Kobraei et.al.|[2406.00118](http://arxiv.org/abs/2406.00118)|**[link](https://github.com/m0hssn/adep)**|
 |**2024-05-10**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|**[link](https://github.com/cns-iu/myaura)**|
 |**2024-03-27**|**CADGL: Context-Aware Deep Graph Learning for Predicting Drug-Drug Interactions**|Azmine Toushik Wasi et.al.|[2403.17210](http://arxiv.org/abs/2403.17210)|null|
@@ -282,7 +283,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-09**|**Chemistry-Inspired Diffusion with Non-Differentiable Guidance**|Yuchen Shen et.al.|[2410.06502](http://arxiv.org/abs/2410.06502)|null|
 |**2024-10-08**|**SymDiff: Equivariant Diffusion via Stochastic Symmetrisation**|Leo Zhang et.al.|[2410.06262](http://arxiv.org/abs/2410.06262)|null|
-|**2024-10-05**|**Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning**|Gang Liu et.al.|[2410.04223](http://arxiv.org/abs/2410.04223)|null|
+|**2024-10-05**|**Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning**|Gang Liu et.al.|[2410.04223](http://arxiv.org/abs/2410.04223)|**[link](https://github.com/liugangcode/Llamole)**|
 |**2024-10-04**|**Geometric Representation Condition Improves Equivariant Molecule Generation**|Zian Li et.al.|[2410.03655](http://arxiv.org/abs/2410.03655)|null|
 |**2024-10-04**|**Generative Artificial Intelligence for Navigating Synthesizable Chemical Space**|Wenhao Gao et.al.|[2410.03494](http://arxiv.org/abs/2410.03494)|**[link](https://github.com/wenhao-gao/synformer)**|
 |**2024-10-04**|**Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity**|Hyosoon Jang et.al.|[2410.03138](http://arxiv.org/abs/2410.03138)|null|
@@ -581,6 +582,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Homogeneous Nucleation of Undercooled Al-Ni melts via a Machine-Learned Interaction Potential**|Johannes Sandberg et.al.|[2410.07886](http://arxiv.org/abs/2410.07886)|null|
+|**2024-10-10**|**Porous carbon nitride fullerenes: a novel family of porous cage molecules**|Zacharias G. Fthenakis et.al.|[2410.07822](http://arxiv.org/abs/2410.07822)|null|
+|**2024-10-09**|**Thermal Nanoquakes: Terahertz Frequency Surface Rayleigh Waves in Diamond Nanocrystals**|Caleb Stamper et.al.|[2410.07480](http://arxiv.org/abs/2410.07480)|null|
 |**2024-10-09**|**Unveiling the Face-Dependent Ice Growth Kinetics: Insights from Molecular Dynamics on the Basal and Prism Surfaces**|Jihong Shi et.al.|[2410.07050](http://arxiv.org/abs/2410.07050)|null|
 |**2024-10-07**|**Nanoconfined Water Phase Transitions in Infinite Graphene Slits: Molecular Dynamics Simulations and Mean-Field Insights**|Felipe Hawthorne et.al.|[2410.05053](http://arxiv.org/abs/2410.05053)|null|
 |**2024-10-07**|**Classical molecular dynamic simulation to assess the non-Maxwellian behavior of inverse bremsstrahlung heating in weakly coupled plasmas**|Ronan Devriendt et.al.|[2410.04945](http://arxiv.org/abs/2410.04945)|null|
@@ -1008,6 +1012,39 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Medical Image Quality Assessment based on Probability of Necessity and Sufficiency**|Boyu Chen et.al.|[2410.08118](http://arxiv.org/abs/2410.08118)|null|
+|**2024-10-10**|**Crossing Margins: Intersectional Users' Ethical Concerns about Software**|Lauren Olson et.al.|[2410.08090](http://arxiv.org/abs/2410.08090)|null|
+|**2024-10-10**|**Reversible Decoupling Network for Single Image Reflection Removal**|Hao Zhao et.al.|[2410.08063](http://arxiv.org/abs/2410.08063)|null|
+|**2024-10-10**|**Timely NextG Communications with Decoy Assistance against Deep Learning-based Jamming**|Maice Costa et.al.|[2410.08045](http://arxiv.org/abs/2410.08045)|null|
+|**2024-10-10**|**On the Convergence of (Stochastic) Gradient Descent for Kolmogorov--Arnold Networks**|Yihang Gao et.al.|[2410.08041](http://arxiv.org/abs/2410.08041)|null|
+|**2024-10-10**|**Private Language Models via Truncated Laplacian Mechanism**|Tianhao Huang et.al.|[2410.08027](http://arxiv.org/abs/2410.08027)|null|
+|**2024-10-10**|**More Experts Than Galaxies: Conditionally-overlapping Experts With Biologically-Inspired Fixed Routing**|Sagi Shaier et.al.|[2410.08003](http://arxiv.org/abs/2410.08003)|null|
+|**2024-10-10**|**Deep Learning for Generalised Planning with Background Knowledge**|Dillon Z. Chen et.al.|[2410.07923](http://arxiv.org/abs/2410.07923)|null|
+|**2024-10-10**|**Stress Detection Using PPG Signal and Combined Deep CNN-MLP Network**|Yasin Hasanpoor et.al.|[2410.07911](http://arxiv.org/abs/2410.07911)|null|
+|**2024-10-10**|**Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization**|Hongtao Wu et.al.|[2410.07901](http://arxiv.org/abs/2410.07901)|null|
+|**2024-10-10**|**Deepfake detection in videos with multiple faces using geometric-fakeness features**|Kirill Vyshegorodtsev et.al.|[2410.07888](http://arxiv.org/abs/2410.07888)|null|
+|**2024-10-10**|**Robustness of Deep Learning Models to Precession in Gravitational-Wave Searches for Intermediate-Mass Black Hole Binaries**|Quirijn Meijer et.al.|[2410.07855](http://arxiv.org/abs/2410.07855)|null|
+|**2024-10-10**|**Multi-Scale Deformable Transformers for Student Learning Behavior Detection in Smart Classroom**|Zhifeng Wang et.al.|[2410.07834](http://arxiv.org/abs/2410.07834)|null|
+|**2024-10-10**|**Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey**|Zihan Yu et.al.|[2410.07824](http://arxiv.org/abs/2410.07824)|null|
+|**2024-10-10**|**Towards Quantifying The Privacy Of Redacted Text**|Vaibhav Gusain et.al.|[2410.07772](http://arxiv.org/abs/2410.07772)|null|
+|**2024-10-10**|**On the Detection of Aircraft Single Engine Taxi using Deep Learning Models**|Gabriel Jarry et.al.|[2410.07727](http://arxiv.org/abs/2410.07727)|null|
+|**2024-10-10**|**Towards Trustworthy Web Attack Detection: An Uncertainty-Aware Ensemble Deep Kernel Learning Model**|Yonghang Zhou et.al.|[2410.07725](http://arxiv.org/abs/2410.07725)|null|
+|**2024-10-10**|**Understanding Adversarially Robust Generalization via Weight-Curvature Index**|Yuelin Xu et.al.|[2410.07719](http://arxiv.org/abs/2410.07719)|null|
+|**2024-10-10**|**On the Generalization Properties of Deep Learning for Aircraft Fuel Flow Estimation Models**|Gabriel Jarry et.al.|[2410.07717](http://arxiv.org/abs/2410.07717)|null|
+|**2024-10-10**|**Test-Time Intensity Consistency Adaptation for Shadow Detection**|Leyi Zhu et.al.|[2410.07695](http://arxiv.org/abs/2410.07695)|null|
+|**2024-10-10**|**Growing Efficient Accurate and Robust Neural Networks on the Edge**|Vignesh Sundaresha et.al.|[2410.07691](http://arxiv.org/abs/2410.07691)|null|
+|**2024-10-10**|**Boosting Deep Ensembles with Learning Rate Tuning**|Hongpeng Jin et.al.|[2410.07564](http://arxiv.org/abs/2410.07564)|null|
+|**2024-10-10**|**Calibration of 3D Single-pixel Imaging Systems with a Calibration Field**|Xinyue Ma et.al.|[2410.07545](http://arxiv.org/abs/2410.07545)|null|
+|**2024-10-09**|**Exploring the design space of deep-learning-based weather forecasting systems**|Shoaib Ahmed Siddiqui et.al.|[2410.07472](http://arxiv.org/abs/2410.07472)|null|
+|**2024-10-09**|**Collective variables of neural networks: empirical time evolution and scaling laws**|Samuel Tovey et.al.|[2410.07451](http://arxiv.org/abs/2410.07451)|null|
+|**2024-10-09**|**TinyLidarNet: 2D LiDAR-based End-to-End Deep Learning Model for F1TENTH Autonomous Racing**|Mohammed Misbah Zarrar et.al.|[2410.07447](http://arxiv.org/abs/2410.07447)|**[link](https://github.com/CSL-KU/TinyLidarNet)**|
+|**2024-10-09**|**Enhancing Soccer Camera Calibration Through Keypoint Exploitation**|Nikolay S. Falaleev et.al.|[2410.07401](http://arxiv.org/abs/2410.07401)|**[link](https://github.com/NikolasEnt/soccernet-calibration-sportlight)**|
+|**2024-10-09**|**Tally: Non-Intrusive Performance Isolation for Concurrent Deep Learning Workloads**|Wei Zhao et.al.|[2410.07381](http://arxiv.org/abs/2410.07381)|null|
+|**2024-10-09**|**Unlocking Real-Time Fluorescence Lifetime Imaging: Multi-Pixel Parallelism for FPGA-Accelerated Processing**|Ismail Erbas et.al.|[2410.07364](http://arxiv.org/abs/2410.07364)|null|
+|**2024-10-09**|**Mitigation of gender bias in automatic facial non-verbal behaviors generation**|Alice Delbosc et.al.|[2410.07274](http://arxiv.org/abs/2410.07274)|null|
+|**2024-10-09**|**Deep Learning for Surgical Instrument Recognition and Segmentation in Robotic-Assisted Surgeries: A Systematic Review**|Fatimaelzahraa Ali Ahmed et.al.|[2410.07269](http://arxiv.org/abs/2410.07269)|null|
+|**2024-10-08**|**A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models**|Cong Guo et.al.|[2410.07265](http://arxiv.org/abs/2410.07265)|null|
+|**2024-10-08**|**Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms**|Han Zhang et.al.|[2410.07250](http://arxiv.org/abs/2410.07250)|null|
 |**2024-10-09**|**JPEG Inspired Deep Learning**|Ahmed H. Salamah et.al.|[2410.07081](http://arxiv.org/abs/2410.07081)|null|
 |**2024-10-09**|**Towards xAI: Configuring RNN Weights using Domain Knowledge for MIMO Receive Processing**|Shashank Jere et.al.|[2410.07072](http://arxiv.org/abs/2410.07072)|null|
 |**2024-10-09**|**Emergent properties with repeated examples**|François Charton et.al.|[2410.07041](http://arxiv.org/abs/2410.07041)|null|
@@ -1023,15 +1060,15 @@ layout: default
 |**2024-10-09**|**GLA-DA: Global-Local Alignment Domain Adaptation for Multivariate Time Series**|Gang Tu et.al.|[2410.06671](http://arxiv.org/abs/2410.06671)|null|
 |**2024-10-09**|**On The Relationship between Visual Anomaly-free and Anomalous Representations**|Riya Sadrani et.al.|[2410.06576](http://arxiv.org/abs/2410.06576)|null|
 |**2024-10-09**|**Convex Distillation: Efficient Compression of Deep Networks via Convex Optimization**|Prateek Varshney et.al.|[2410.06567](http://arxiv.org/abs/2410.06567)|null|
-|**2024-10-10**|**DeepMuon: Accelerating Cosmic-Ray Muon Simulation Based on Optimal Transport**|Ao-Bo Wang et.al.|[2410.06539](http://arxiv.org/abs/2410.06539)|null|
-|**2024-10-09**|**TopoTune : A Framework for Generalized Combinatorial Complex Neural Networks**|Mathilde Papillon et.al.|[2410.06530](http://arxiv.org/abs/2410.06530)|null|
+|**2024-10-10**|**DeepMuon: Accelerating Cosmic-Ray Muon Simulation Based on Optimal Transport**|Ao-Bo Wang et.al.|[2410.06539](http://arxiv.org/abs/2410.06539)|**[link](https://github.com/wangab0/deepmuon)**|
+|**2024-10-09**|**TopoTune : A Framework for Generalized Combinatorial Complex Neural Networks**|Mathilde Papillon et.al.|[2410.06530](http://arxiv.org/abs/2410.06530)|**[link](https://github.com/pyt-team/TopoBenchmarkX)**|
 |**2024-10-09**|**Transformer-assisted Parametric CSI Feedback for mmWave Massive MIMO Systems**|Hyungyu Ju et.al.|[2410.06504](http://arxiv.org/abs/2410.06504)|null|
 |**2024-10-09**|**ERCache: An Efficient and Reliable Caching Framework for Large-Scale User Representations in Meta's Ads System**|Fang Zhou et.al.|[2410.06497](http://arxiv.org/abs/2410.06497)|null|
 |**2024-10-09**|**Detection of the solar internal flows with numerical simulation and machine learning**|Hiroyuki Masaki et.al.|[2410.06487](http://arxiv.org/abs/2410.06487)|null|
 |**2024-10-09**|**Deep Learning Ensemble for Predicting Diabetic Macular Edema Onset Using Ultra-Wide Field Color Fundus Image**|Pengyao Qin et.al.|[2410.06483](http://arxiv.org/abs/2410.06483)|null|
 |**2024-10-09**|**Checker Bug Detection and Repair in Deep Learning Libraries**|Nima Shiri Harzevili et.al.|[2410.06440](http://arxiv.org/abs/2410.06440)|null|
 |**2024-10-08**|**Inverse Design of Photonic Crystal Waveguides Using Neural Networks and Dispersion Optimization**|Lucian Feng et.al.|[2410.06374](http://arxiv.org/abs/2410.06374)|null|
-|**2024-10-08**|**HumVI: A Multilingual Dataset for Detecting Violent Incidents Impacting Humanitarian Aid**|Hemank Lamba et.al.|[2410.06370](http://arxiv.org/abs/2410.06370)|null|
+|**2024-10-08**|**HumVI: A Multilingual Dataset for Detecting Violent Incidents Impacting Humanitarian Aid**|Hemank Lamba et.al.|[2410.06370](http://arxiv.org/abs/2410.06370)|**[link](https://github.com/dataminr-ai/humvi-dataset)**|
 |**2024-10-08**|**Galaxy evolution in the post-merger regime I -- Most merger-induced in-situ stellar mass growth happens post-coalescence**|Leonardo Ferreira et.al.|[2410.06356](http://arxiv.org/abs/2410.06356)|null|
 |**2024-10-10**|**Context-Aware Command Understanding for Tabletop Scenarios**|Paul Gajewski et.al.|[2410.06355](http://arxiv.org/abs/2410.06355)|null|
 |**2024-10-10**|**Differentiation Through Black-Box Quadratic Programming Solvers**|Connor W. Magoon et.al.|[2410.06324](http://arxiv.org/abs/2410.06324)|null|
@@ -1072,7 +1109,7 @@ layout: default
 |**2024-10-08**|**Underwater Object Detection in the Era of Artificial Intelligence: Current, Challenge, and Future**|Long Chen et.al.|[2410.05577](http://arxiv.org/abs/2410.05577)|**[link](https://github.com/longchencv/uodreview)**|
 |**2024-10-08**|**Improved deep learning of chaotic dynamical systems with multistep penalty losses**|Dibyajyoti Chakraborty et.al.|[2410.05572](http://arxiv.org/abs/2410.05572)|null|
 |**2024-10-08**|**A novel stacked hybrid autoencoder for imputing LISA data gaps**|Ruiting Mao et.al.|[2410.05571](http://arxiv.org/abs/2410.05571)|null|
-|**2024-10-07**|**Deep Learning Methods for S Shaped Utility Maximisation with a Random Reference Point**|Ashley Davey et.al.|[2410.05524](http://arxiv.org/abs/2410.05524)|null|
+|**2024-10-07**|**Deep Learning Methods for S Shaped Utility Maximisation with a Random Reference Point**|Ashley Davey et.al.|[2410.05524](http://arxiv.org/abs/2410.05524)|**[link](https://github.com/Ashley-Davey/ML-for-S-Utility)**|
 |**2024-10-07**|**Timeliness in NextG Spectrum Sharing under Jamming Attacks with Deep Learning**|Maice Costa et.al.|[2410.05501](http://arxiv.org/abs/2410.05501)|null|
 |**2024-10-07**|**Residual Kolmogorov-Arnold Network for Enhanced Deep Learning**|Ray Congrui Yu et.al.|[2410.05500](http://arxiv.org/abs/2410.05500)|**[link](https://github.com/withray/residualkan)**|
 |**2024-10-07**|**Pre-Ictal Seizure Prediction Using Personalized Deep Learning**|Shriya Jaddu et.al.|[2410.05491](http://arxiv.org/abs/2410.05491)|null|
@@ -6061,6 +6098,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**InstructBioMol: Advancing Biomolecule Understanding and Design Following Human Instructions**|Xiang Zhuang et.al.|[2410.07919](http://arxiv.org/abs/2410.07919)|null|
 |**2024-10-02**|**ANTIPASTI: interpretable prediction of antibody binding affinity exploiting Normal Modes and Deep Learning**|Kevin Michalewicz et.al.|[2410.01523](http://arxiv.org/abs/2410.01523)|null|
 |**2024-09-30**|**Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches**|Xuefeng Liu et.al.|[2410.00709](http://arxiv.org/abs/2410.00709)|null|
 |**2024-09-30**|**Assessing interaction recovery of predicted protein-ligand poses**|David Errington et.al.|[2409.20227](http://arxiv.org/abs/2409.20227)|**[link](https://github.com/exscientia/plif_validity)**|
