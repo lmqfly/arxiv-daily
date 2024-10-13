@@ -1021,7 +1021,7 @@ layout: default
 |**2024-10-10**|**More Experts Than Galaxies: Conditionally-overlapping Experts With Biologically-Inspired Fixed Routing**|Sagi Shaier et.al.|[2410.08003](http://arxiv.org/abs/2410.08003)|null|
 |**2024-10-10**|**Deep Learning for Generalised Planning with Background Knowledge**|Dillon Z. Chen et.al.|[2410.07923](http://arxiv.org/abs/2410.07923)|null|
 |**2024-10-10**|**Stress Detection Using PPG Signal and Combined Deep CNN-MLP Network**|Yasin Hasanpoor et.al.|[2410.07911](http://arxiv.org/abs/2410.07911)|null|
-|**2024-10-10**|**Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization**|Hongtao Wu et.al.|[2410.07901](http://arxiv.org/abs/2410.07901)|null|
+|**2024-10-10**|**Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization**|Hongtao Wu et.al.|[2410.07901](http://arxiv.org/abs/2410.07901)|**[link](https://github.com/TonyHongtaoWu/SemiVDN)**|
 |**2024-10-10**|**Deepfake detection in videos with multiple faces using geometric-fakeness features**|Kirill Vyshegorodtsev et.al.|[2410.07888](http://arxiv.org/abs/2410.07888)|null|
 |**2024-10-10**|**Robustness of Deep Learning Models to Precession in Gravitational-Wave Searches for Intermediate-Mass Black Hole Binaries**|Quirijn Meijer et.al.|[2410.07855](http://arxiv.org/abs/2410.07855)|null|
 |**2024-10-10**|**Multi-Scale Deformable Transformers for Student Learning Behavior Detection in Smart Classroom**|Zhifeng Wang et.al.|[2410.07834](http://arxiv.org/abs/2410.07834)|null|
@@ -1044,8 +1044,8 @@ layout: default
 |**2024-10-09**|**Mitigation of gender bias in automatic facial non-verbal behaviors generation**|Alice Delbosc et.al.|[2410.07274](http://arxiv.org/abs/2410.07274)|null|
 |**2024-10-09**|**Deep Learning for Surgical Instrument Recognition and Segmentation in Robotic-Assisted Surgeries: A Systematic Review**|Fatimaelzahraa Ali Ahmed et.al.|[2410.07269](http://arxiv.org/abs/2410.07269)|null|
 |**2024-10-08**|**A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models**|Cong Guo et.al.|[2410.07265](http://arxiv.org/abs/2410.07265)|null|
-|**2024-10-08**|**Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms**|Han Zhang et.al.|[2410.07250](http://arxiv.org/abs/2410.07250)|null|
-|**2024-10-09**|**JPEG Inspired Deep Learning**|Ahmed H. Salamah et.al.|[2410.07081](http://arxiv.org/abs/2410.07081)|null|
+|**2024-10-08**|**Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms**|Han Zhang et.al.|[2410.07250](http://arxiv.org/abs/2410.07250)|**[link](https://github.com/image-processing-particle-flow/project1)**|
+|**2024-10-09**|**JPEG Inspired Deep Learning**|Ahmed H. Salamah et.al.|[2410.07081](http://arxiv.org/abs/2410.07081)|**[link](https://github.com/jpeginspireddl/jpeg-inspired-dl)**|
 |**2024-10-09**|**Towards xAI: Configuring RNN Weights using Domain Knowledge for MIMO Receive Processing**|Shashank Jere et.al.|[2410.07072](http://arxiv.org/abs/2410.07072)|null|
 |**2024-10-09**|**Emergent properties with repeated examples**|François Charton et.al.|[2410.07041](http://arxiv.org/abs/2410.07041)|null|
 |**2024-10-09**|**Diagnosis of Malignant Lymphoma Cancer Using Hybrid Optimized Techniques Based on Dense Neural Networks**|Salah A. Aly et.al.|[2410.06974](http://arxiv.org/abs/2410.06974)|null|
@@ -1064,9 +1064,9 @@ layout: default
 |**2024-10-09**|**TopoTune : A Framework for Generalized Combinatorial Complex Neural Networks**|Mathilde Papillon et.al.|[2410.06530](http://arxiv.org/abs/2410.06530)|**[link](https://github.com/pyt-team/TopoBenchmarkX)**|
 |**2024-10-09**|**Transformer-assisted Parametric CSI Feedback for mmWave Massive MIMO Systems**|Hyungyu Ju et.al.|[2410.06504](http://arxiv.org/abs/2410.06504)|null|
 |**2024-10-09**|**ERCache: An Efficient and Reliable Caching Framework for Large-Scale User Representations in Meta's Ads System**|Fang Zhou et.al.|[2410.06497](http://arxiv.org/abs/2410.06497)|null|
-|**2024-10-09**|**Detection of the solar internal flows with numerical simulation and machine learning**|Hiroyuki Masaki et.al.|[2410.06487](http://arxiv.org/abs/2410.06487)|null|
+|**2024-10-09**|**Detection of the solar internal flows with numerical simulation and machine learning**|Hiroyuki Masaki et.al.|[2410.06487](http://arxiv.org/abs/2410.06487)|**[link](https://github.com/HiroyukiMasaki/Solar_Interior)**|
 |**2024-10-09**|**Deep Learning Ensemble for Predicting Diabetic Macular Edema Onset Using Ultra-Wide Field Color Fundus Image**|Pengyao Qin et.al.|[2410.06483](http://arxiv.org/abs/2410.06483)|null|
-|**2024-10-09**|**Checker Bug Detection and Repair in Deep Learning Libraries**|Nima Shiri Harzevili et.al.|[2410.06440](http://arxiv.org/abs/2410.06440)|null|
+|**2024-10-09**|**Checker Bug Detection and Repair in Deep Learning Libraries**|Nima Shiri Harzevili et.al.|[2410.06440](http://arxiv.org/abs/2410.06440)|**[link](https://github.com/icsecs1992/TensorGuard)**|
 |**2024-10-08**|**Inverse Design of Photonic Crystal Waveguides Using Neural Networks and Dispersion Optimization**|Lucian Feng et.al.|[2410.06374](http://arxiv.org/abs/2410.06374)|null|
 |**2024-10-08**|**HumVI: A Multilingual Dataset for Detecting Violent Incidents Impacting Humanitarian Aid**|Hemank Lamba et.al.|[2410.06370](http://arxiv.org/abs/2410.06370)|**[link](https://github.com/dataminr-ai/humvi-dataset)**|
 |**2024-10-08**|**Galaxy evolution in the post-merger regime I -- Most merger-induced in-situ stellar mass growth happens post-coalescence**|Leonardo Ferreira et.al.|[2410.06356](http://arxiv.org/abs/2410.06356)|null|
@@ -1108,7 +1108,7 @@ layout: default
 |**2024-10-08**|**Swift Sampler: Efficient Learning of Sampler by 10 Parameters**|Jiawei Yao et.al.|[2410.05578](http://arxiv.org/abs/2410.05578)|null|
 |**2024-10-08**|**Underwater Object Detection in the Era of Artificial Intelligence: Current, Challenge, and Future**|Long Chen et.al.|[2410.05577](http://arxiv.org/abs/2410.05577)|**[link](https://github.com/longchencv/uodreview)**|
 |**2024-10-08**|**Improved deep learning of chaotic dynamical systems with multistep penalty losses**|Dibyajyoti Chakraborty et.al.|[2410.05572](http://arxiv.org/abs/2410.05572)|null|
-|**2024-10-08**|**A novel stacked hybrid autoencoder for imputing LISA data gaps**|Ruiting Mao et.al.|[2410.05571](http://arxiv.org/abs/2410.05571)|null|
+|**2024-10-08**|**A novel stacked hybrid autoencoder for imputing LISA data gaps**|Ruiting Mao et.al.|[2410.05571](http://arxiv.org/abs/2410.05571)|**[link](https://github.com/bpandamao/BiGRU_CAE)**|
 |**2024-10-07**|**Deep Learning Methods for S Shaped Utility Maximisation with a Random Reference Point**|Ashley Davey et.al.|[2410.05524](http://arxiv.org/abs/2410.05524)|**[link](https://github.com/Ashley-Davey/ML-for-S-Utility)**|
 |**2024-10-07**|**Timeliness in NextG Spectrum Sharing under Jamming Attacks with Deep Learning**|Maice Costa et.al.|[2410.05501](http://arxiv.org/abs/2410.05501)|null|
 |**2024-10-07**|**Residual Kolmogorov-Arnold Network for Enhanced Deep Learning**|Ray Congrui Yu et.al.|[2410.05500](http://arxiv.org/abs/2410.05500)|**[link](https://github.com/withray/residualkan)**|
@@ -6099,7 +6099,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-10**|**InstructBioMol: Advancing Biomolecule Understanding and Design Following Human Instructions**|Xiang Zhuang et.al.|[2410.07919](http://arxiv.org/abs/2410.07919)|null|
-|**2024-10-02**|**ANTIPASTI: interpretable prediction of antibody binding affinity exploiting Normal Modes and Deep Learning**|Kevin Michalewicz et.al.|[2410.01523](http://arxiv.org/abs/2410.01523)|null|
+|**2024-10-02**|**ANTIPASTI: interpretable prediction of antibody binding affinity exploiting Normal Modes and Deep Learning**|Kevin Michalewicz et.al.|[2410.01523](http://arxiv.org/abs/2410.01523)|**[link](https://github.com/kevinmicha/ANTIPASTI)**|
 |**2024-09-30**|**Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches**|Xuefeng Liu et.al.|[2410.00709](http://arxiv.org/abs/2410.00709)|null|
 |**2024-09-30**|**Assessing interaction recovery of predicted protein-ligand poses**|David Errington et.al.|[2409.20227](http://arxiv.org/abs/2409.20227)|**[link](https://github.com/exscientia/plif_validity)**|
 |**2024-09-29**|**FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling**|Zaixi Zhang et.al.|[2409.19645](http://arxiv.org/abs/2409.19645)|null|
