@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -44,7 +44,7 @@ layout: default
 |**2024-06-25**|**HGTDP-DTA: Hybrid Graph-Transformer with Dynamic Prompt for Drug-Target Binding Affinity Prediction**|Xi Xiao et.al.|[2406.17697](http://arxiv.org/abs/2406.17697)|null|
 |**2024-06-25**|**A microscopic approach to crystallization: challenging the classical/non-classical dichotomy**|James F. Lutsko et.al.|[2406.17543](http://arxiv.org/abs/2406.17543)|null|
 |**2024-06-20**|**Graph Representation Learning Strategies for Omics Data: A Case Study on Parkinson's Disease**|Elisa Gómez de Lope et.al.|[2406.14442](http://arxiv.org/abs/2406.14442)|null|
-|**2024-06-20**|**Microscopic and stochastic simulations of chemically active droplets**|Roxanne Berthin et.al.|[2406.14256](http://arxiv.org/abs/2406.14256)|null|
+|**2024-10-11**|**Microscopic and stochastic simulations of chemically active droplets**|Roxanne Berthin et.al.|[2406.14256](http://arxiv.org/abs/2406.14256)|null|
 |**2024-06-19**|**Molecule Graph Networks with Many-body Equivariant Interactions**|Zetian Mao et.al.|[2406.13265](http://arxiv.org/abs/2406.13265)|null|
 |**2024-09-06**|**Scanning tunneling microscopy using CO-terminated probes with tilted and straight geometries**|Ivan Abilio et.al.|[2406.12601](http://arxiv.org/abs/2406.12601)|null|
 |**2024-06-14**|**Efficient and Precise Force Field Optimization for Biomolecules Using DPA-2**|Junhan Chang et.al.|[2406.09817](http://arxiv.org/abs/2406.09817)|null|
@@ -585,7 +585,7 @@ layout: default
 |**2024-10-10**|**Homogeneous Nucleation of Undercooled Al-Ni melts via a Machine-Learned Interaction Potential**|Johannes Sandberg et.al.|[2410.07886](http://arxiv.org/abs/2410.07886)|null|
 |**2024-10-10**|**Porous carbon nitride fullerenes: a novel family of porous cage molecules**|Zacharias G. Fthenakis et.al.|[2410.07822](http://arxiv.org/abs/2410.07822)|null|
 |**2024-10-09**|**Thermal Nanoquakes: Terahertz Frequency Surface Rayleigh Waves in Diamond Nanocrystals**|Caleb Stamper et.al.|[2410.07480](http://arxiv.org/abs/2410.07480)|null|
-|**2024-10-09**|**Unveiling the Face-Dependent Ice Growth Kinetics: Insights from Molecular Dynamics on the Basal and Prism Surfaces**|Jihong Shi et.al.|[2410.07050](http://arxiv.org/abs/2410.07050)|null|
+|**2024-10-11**|**Unveiling the Face-Dependent Ice Growth Kinetics: Insights from Molecular Dynamics on the Basal and Prism Surfaces**|Jihong Shi et.al.|[2410.07050](http://arxiv.org/abs/2410.07050)|null|
 |**2024-10-07**|**Nanoconfined Water Phase Transitions in Infinite Graphene Slits: Molecular Dynamics Simulations and Mean-Field Insights**|Felipe Hawthorne et.al.|[2410.05053](http://arxiv.org/abs/2410.05053)|null|
 |**2024-10-07**|**Classical molecular dynamic simulation to assess the non-Maxwellian behavior of inverse bremsstrahlung heating in weakly coupled plasmas**|Ronan Devriendt et.al.|[2410.04945](http://arxiv.org/abs/2410.04945)|null|
 |**2024-10-05**|**Neutral polymer conformations with attractive bridging crowder interactions: role of crowder size**|Hitesh Garg et.al.|[2410.04113](http://arxiv.org/abs/2410.04113)|null|
@@ -1031,7 +1031,7 @@ layout: default
 |**2024-10-10**|**Towards Trustworthy Web Attack Detection: An Uncertainty-Aware Ensemble Deep Kernel Learning Model**|Yonghang Zhou et.al.|[2410.07725](http://arxiv.org/abs/2410.07725)|null|
 |**2024-10-10**|**Understanding Adversarially Robust Generalization via Weight-Curvature Index**|Yuelin Xu et.al.|[2410.07719](http://arxiv.org/abs/2410.07719)|null|
 |**2024-10-10**|**On the Generalization Properties of Deep Learning for Aircraft Fuel Flow Estimation Models**|Gabriel Jarry et.al.|[2410.07717](http://arxiv.org/abs/2410.07717)|null|
-|**2024-10-10**|**Test-Time Intensity Consistency Adaptation for Shadow Detection**|Leyi Zhu et.al.|[2410.07695](http://arxiv.org/abs/2410.07695)|null|
+|**2024-10-11**|**Test-Time Intensity Consistency Adaptation for Shadow Detection**|Leyi Zhu et.al.|[2410.07695](http://arxiv.org/abs/2410.07695)|null|
 |**2024-10-10**|**Growing Efficient Accurate and Robust Neural Networks on the Edge**|Vignesh Sundaresha et.al.|[2410.07691](http://arxiv.org/abs/2410.07691)|null|
 |**2024-10-10**|**Boosting Deep Ensembles with Learning Rate Tuning**|Hongpeng Jin et.al.|[2410.07564](http://arxiv.org/abs/2410.07564)|null|
 |**2024-10-10**|**Calibration of 3D Single-pixel Imaging Systems with a Calibration Field**|Xinyue Ma et.al.|[2410.07545](http://arxiv.org/abs/2410.07545)|null|
@@ -1039,7 +1039,7 @@ layout: default
 |**2024-10-09**|**Collective variables of neural networks: empirical time evolution and scaling laws**|Samuel Tovey et.al.|[2410.07451](http://arxiv.org/abs/2410.07451)|null|
 |**2024-10-09**|**TinyLidarNet: 2D LiDAR-based End-to-End Deep Learning Model for F1TENTH Autonomous Racing**|Mohammed Misbah Zarrar et.al.|[2410.07447](http://arxiv.org/abs/2410.07447)|**[link](https://github.com/CSL-KU/TinyLidarNet)**|
 |**2024-10-09**|**Enhancing Soccer Camera Calibration Through Keypoint Exploitation**|Nikolay S. Falaleev et.al.|[2410.07401](http://arxiv.org/abs/2410.07401)|**[link](https://github.com/NikolasEnt/soccernet-calibration-sportlight)**|
-|**2024-10-09**|**Tally: Non-Intrusive Performance Isolation for Concurrent Deep Learning Workloads**|Wei Zhao et.al.|[2410.07381](http://arxiv.org/abs/2410.07381)|null|
+|**2024-10-11**|**Tally: Non-Intrusive Performance Isolation for Concurrent Deep Learning Workloads**|Wei Zhao et.al.|[2410.07381](http://arxiv.org/abs/2410.07381)|null|
 |**2024-10-09**|**Unlocking Real-Time Fluorescence Lifetime Imaging: Multi-Pixel Parallelism for FPGA-Accelerated Processing**|Ismail Erbas et.al.|[2410.07364](http://arxiv.org/abs/2410.07364)|null|
 |**2024-10-09**|**Mitigation of gender bias in automatic facial non-verbal behaviors generation**|Alice Delbosc et.al.|[2410.07274](http://arxiv.org/abs/2410.07274)|null|
 |**2024-10-09**|**Deep Learning for Surgical Instrument Recognition and Segmentation in Robotic-Assisted Surgeries: A Systematic Review**|Fatimaelzahraa Ali Ahmed et.al.|[2410.07269](http://arxiv.org/abs/2410.07269)|null|
@@ -1051,7 +1051,7 @@ layout: default
 |**2024-10-09**|**Diagnosis of Malignant Lymphoma Cancer Using Hybrid Optimized Techniques Based on Dense Neural Networks**|Salah A. Aly et.al.|[2410.06974](http://arxiv.org/abs/2410.06974)|null|
 |**2024-10-09**|**Updated Determination of Ellis-Jaffe Sum Rules and Extraction of Quark Spin Content**|Hua Zhou et.al.|[2410.06956](http://arxiv.org/abs/2410.06956)|null|
 |**2024-10-09**|**Learning a generalized multiscale prolongation operator**|Yucheng Liu et.al.|[2410.06832](http://arxiv.org/abs/2410.06832)|null|
-|**2024-10-09**|**Learning a Neural Solver for Parametric PDE to Enhance Physics-Informed Methods**|Lise Le Boudec et.al.|[2410.06820](http://arxiv.org/abs/2410.06820)|null|
+|**2024-10-11**|**Learning a Neural Solver for Parametric PDE to Enhance Physics-Informed Methods**|Lise Le Boudec et.al.|[2410.06820](http://arxiv.org/abs/2410.06820)|null|
 |**2024-10-09**|**Efficient Weight-Space Laplace-Gaussian Filtering and Smoothing for Sequential Deep Learning**|Joanna Sliwa et.al.|[2410.06800](http://arxiv.org/abs/2410.06800)|null|
 |**2024-10-09**|**Transesophageal Echocardiography Generation using Anatomical Models**|Emmanuel Oladokun et.al.|[2410.06781](http://arxiv.org/abs/2410.06781)|null|
 |**2024-10-09**|**Diff-FMT: Diffusion Models for Fluorescence Molecular Tomography**|Qianqian Xue et.al.|[2410.06757](http://arxiv.org/abs/2410.06757)|null|
@@ -1081,7 +1081,7 @@ layout: default
 |**2024-10-08**|**Estimating the Number of HTTP/3 Responses in QUIC Using Deep Learning**|Barak Gahtan et.al.|[2410.06140](http://arxiv.org/abs/2410.06140)|null|
 |**2024-10-08**|**Uncertainty estimation via ensembles of deep learning models and dropout layers for seismic traces**|Giovanni Messuti et.al.|[2410.06120](http://arxiv.org/abs/2410.06120)|null|
 |**2024-10-08**|**Extracting Finite State Machines from Transformers**|Rik Adriaensen et.al.|[2410.06045](http://arxiv.org/abs/2410.06045)|null|
-|**2024-10-08**|**Block Induced Signature Generative Adversarial Network (BISGAN): Signature Spoofing Using GANs and Their Evaluation**|Haadia Amjad et.al.|[2410.06041](http://arxiv.org/abs/2410.06041)|null|
+|**2024-10-11**|**Block Induced Signature Generative Adversarial Network (BISGAN): Signature Spoofing Using GANs and Their Evaluation**|Haadia Amjad et.al.|[2410.06041](http://arxiv.org/abs/2410.06041)|null|
 |**2024-10-08**|**Data Quality Issues in Vulnerability Detection Datasets**|Yuejun Guo et.al.|[2410.06030](http://arxiv.org/abs/2410.06030)|null|
 |**2024-10-08**|**AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry**|Thomas Jantos et.al.|[2410.05996](http://arxiv.org/abs/2410.05996)|null|
 |**2024-10-08**|**Asynchronous Stochastic Gradient Descent with Decoupled Backpropagation and Layer-Wise Updates**|Cabrel Teguemne Fokam et.al.|[2410.05985](http://arxiv.org/abs/2410.05985)|null|
