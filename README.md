@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Influencing Optical and Charge Transport Properties by Controlling the Molecular Interactions of Merocyanine Thin Films**|Lukas Böhner et.al.|[2410.08333](http://arxiv.org/abs/2410.08333)|null|
 |**2024-10-08**|**E3STO: Orbital Inspired SE(3)-Equivariant Molecular Representation for Electron Density Prediction**|Ilan Mitnikov et.al.|[2410.06119](http://arxiv.org/abs/2410.06119)|null|
 |**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948](http://arxiv.org/abs/2410.00948)|null|
 |**2024-09-27**|**Electro-Mechanical Contact Interactions Between Human Finger and Touchscreen Under Electroadhesion**|Easa AliAbbasi et.al.|[2409.18725](http://arxiv.org/abs/2409.18725)|null|
@@ -446,6 +447,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Unveiling Molecular Secrets: An LLM-Augmented Linear Model for Explainable and Calibratable Molecular Property Prediction**|Zhuoran Li et.al.|[2410.08829](http://arxiv.org/abs/2410.08829)|null|
 |**2024-09-23**|**Dumpling GNN: Hybrid GNN Enables Better ADC Payload Activity Prediction Based on Chemical Structure**|Shengjie Xu et.al.|[2410.05278](http://arxiv.org/abs/2410.05278)|null|
 |**2024-10-01**|**Scalable Multi-Task Transfer Learning for Molecular Property Prediction**|Chanhui Lee et.al.|[2410.00432](http://arxiv.org/abs/2410.00432)|null|
 |**2024-09-25**|**Task Addition in Multi-Task Learning by Geometrical Alignment**|Soorin Yim et.al.|[2409.16645](http://arxiv.org/abs/2409.16645)|null|
@@ -600,6 +602,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Supercritical density fluctuations and structural heterogeneity in supercooled water-glycerol microdroplets**|Sharon Berkowicz et.al.|[2410.08952](http://arxiv.org/abs/2410.08952)|null|
+|**2024-10-11**|**A machine-learning framework for accelerating spin-lattice relaxation simulations**|Valerio Briganti et.al.|[2410.08912](http://arxiv.org/abs/2410.08912)|null|
+|**2024-10-11**|**Heat transfer enhancement of N-Ga-Al semiconductors heterogeneous interfaces**|Wenzhu Luo et.al.|[2410.08468](http://arxiv.org/abs/2410.08468)|null|
+|**2024-10-10**|**Formation of Micrometer-Sized Textured Hexagonal Silicon Crystals via Nanoindentation**|Mouad Bikerouin et.al.|[2410.08372](http://arxiv.org/abs/2410.08372)|null|
 |**2024-10-10**|**Homogeneous Nucleation of Undercooled Al-Ni melts via a Machine-Learned Interaction Potential**|Johannes Sandberg et.al.|[2410.07886](http://arxiv.org/abs/2410.07886)|null|
 |**2024-10-10**|**Porous carbon nitride fullerenes: a novel family of porous cage molecules**|Zacharias G. Fthenakis et.al.|[2410.07822](http://arxiv.org/abs/2410.07822)|null|
 |**2024-10-09**|**Thermal Nanoquakes: Terahertz Frequency Surface Rayleigh Waves in Diamond Nanocrystals**|Caleb Stamper et.al.|[2410.07480](http://arxiv.org/abs/2410.07480)|null|
@@ -1032,6 +1038,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Meta-Transfer Learning Empowered Temporal Graph Networks for Cross-City Real Estate Appraisal**|Weijia Zhang et.al.|[2410.08947](http://arxiv.org/abs/2410.08947)|null|
+|**2024-10-11**|**HyperPg -- Prototypical Gaussians on the Hypersphere for Interpretable Deep Learning**|Maximilian Xiling Li et.al.|[2410.08925](http://arxiv.org/abs/2410.08925)|null|
+|**2024-10-11**|**Efficient Hyperparameter Importance Assessment for CNNs**|Ruinan Wang et.al.|[2410.08920](http://arxiv.org/abs/2410.08920)|null|
+|**2024-10-11**|**An End-to-End Deep Learning Method for Solving Nonlocal Allen-Cahn and Cahn-Hilliard Phase-Field Models**|Yuwei Geng et.al.|[2410.08914](http://arxiv.org/abs/2410.08914)|null|
+|**2024-10-11**|**Exploiting Memory-aware Q-distribution Prediction for Nuclear Fusion via Modern Hopfield Network**|Qingchuan Ma et.al.|[2410.08889](http://arxiv.org/abs/2410.08889)|null|
+|**2024-10-11**|**Multi-modal Fusion based Q-distribution Prediction for Controlled Nuclear Fusion**|Shiao Wang et.al.|[2410.08879](http://arxiv.org/abs/2410.08879)|null|
+|**2024-10-11**|**FlowMRI-Net: A generalizable self-supervised physics-driven 4D Flow MRI reconstruction network for aortic and cerebrovascular applications**|Luuk Jacobs et.al.|[2410.08856](http://arxiv.org/abs/2410.08856)|null|
+|**2024-10-11**|**Deep Learning Algorithms for Mean Field Optimal Stopping in Finite Space and Discrete Time**|Lorenzo Magnino et.al.|[2410.08850](http://arxiv.org/abs/2410.08850)|null|
+|**2024-10-11**|**A physics-guided neural network for flooding area detection using SAR imagery and local river gauge observations**|Monika Gierszewska et.al.|[2410.08837](http://arxiv.org/abs/2410.08837)|null|
+|**2024-10-11**|**High Level Reconstruction with Deep Learning using ILD Full Simulation**|Taikan Suehara et.al.|[2410.08772](http://arxiv.org/abs/2410.08772)|null|
+|**2024-10-11**|**On the impact of key design aspects in simulated Hybrid Quantum Neural Networks for Earth Observation**|Lorenzo Papa et.al.|[2410.08677](http://arxiv.org/abs/2410.08677)|null|
+|**2024-10-11**|**SpikeBottleNet: Energy Efficient Spike Neural Network Partitioning for Feature Compression in Device-Edge Co-Inference Systems**|Maruf Hassan et.al.|[2410.08673](http://arxiv.org/abs/2410.08673)|null|
+|**2024-10-11**|**Carefully Structured Compression: Efficiently Managing StarCraft II Data**|Bryce Ferenczi et.al.|[2410.08659](http://arxiv.org/abs/2410.08659)|null|
+|**2024-10-11**|**radarODE-MTL: A Multi-Task Learning Framework with Eccentric Gradient Alignment for Robust Radar-Based ECG Reconstruction**|Yuanyuan Zhang et.al.|[2410.08656](http://arxiv.org/abs/2410.08656)|**[link](https://github.com/ZYY0844/radarODE-MTL)**|
+|**2024-10-11**|**Fully Unsupervised Dynamic MRI Reconstruction via Diffeo-Temporal Equivariance**|Andrew Wang et.al.|[2410.08646](http://arxiv.org/abs/2410.08646)|**[link](https://github.com/andrewwango/ddei)**|
+|**2024-10-11**|**Multi-Source Temporal Attention Network for Precipitation Nowcasting**|Rafael Pablos Sarabia et.al.|[2410.08641](http://arxiv.org/abs/2410.08641)|null|
+|**2024-10-11**|**Small Tunes Transformer: Exploring Macro & Micro-Level Hierarchies for Skeleton-Conditioned Melody Generation**|Yishan Lv et.al.|[2410.08626](http://arxiv.org/abs/2410.08626)|null|
+|**2024-10-11**|**Natural Language Induced Adversarial Images**|Xiaopei Zhu et.al.|[2410.08620](http://arxiv.org/abs/2410.08620)|**[link](https://github.com/zxp555/natural-language-induced-adversarial-images)**|
+|**2024-10-11**|**GPR Full-Waveform Inversion through Adaptive Filtering of Model Parameters and Gradients Using CNN**|Peng Jiang et.al.|[2410.08568](http://arxiv.org/abs/2410.08568)|null|
+|**2024-10-11**|**WasmWalker: Path-based Code Representations for Improved WebAssembly Program Analysis**|Mohammad Robati Shirzad et.al.|[2410.08517](http://arxiv.org/abs/2410.08517)|null|
+|**2024-10-11**|**A Bayesian Approach to Weakly-supervised Laparoscopic Image Segmentation**|Zhou Zheng et.al.|[2410.08509](http://arxiv.org/abs/2410.08509)|**[link](https://github.com/morilabnu/bayesian_wss)**|
+|**2024-10-11**|**FMCW Radar Principles and Human Activity Recognition Systems: Foundations, Techniques, and Applications**|Ziqian Bi et.al.|[2410.08483](http://arxiv.org/abs/2410.08483)|null|
+|**2024-10-11**|**Kolmogorov-Arnold Neural Networks for High-Entropy Alloys Design**|Yagnik Bandyopadhyay et.al.|[2410.08452](http://arxiv.org/abs/2410.08452)|null|
+|**2024-10-10**|**A phase transition in sampling from Restricted Boltzmann Machines**|Youngwoo Kwon et.al.|[2410.08423](http://arxiv.org/abs/2410.08423)|null|
+|**2024-10-10**|**Bilinear MLPs enable weight-based mechanistic interpretability**|Michael T. Pearce et.al.|[2410.08417](http://arxiv.org/abs/2410.08417)|null|
+|**2024-10-10**|**Optimizing YOLO Architectures for Optimal Road Damage Detection and Classification: A Comparative Study from YOLOv7 to YOLOv10**|Vung Pham et.al.|[2410.08409](http://arxiv.org/abs/2410.08409)|null|
+|**2024-10-10**|**Nesterov acceleration in benignly non-convex landscapes**|Kanan Gupta et.al.|[2410.08395](http://arxiv.org/abs/2410.08395)|null|
+|**2024-10-10**|**Physics and Deep Learning in Computational Wave Imaging**|Youzuo Lin et.al.|[2410.08329](http://arxiv.org/abs/2410.08329)|null|
+|**2024-10-10**|**Music Genre Classification using Large Language Models**|Mohamed El Amine Meguenani et.al.|[2410.08321](http://arxiv.org/abs/2410.08321)|null|
+|**2024-10-10**|**A Framework to Enable Algorithmic Design Choice Exploration in DNNs**|Timothy L. Cronin IV et.al.|[2410.08300](http://arxiv.org/abs/2410.08300)|null|
+|**2024-10-10**|**Towards Foundation Models for Mixed Integer Linear Programming**|Sirui Li et.al.|[2410.08288](http://arxiv.org/abs/2410.08288)|null|
 |**2024-10-10**|**Medical Image Quality Assessment based on Probability of Necessity and Sufficiency**|Boyu Chen et.al.|[2410.08118](http://arxiv.org/abs/2410.08118)|null|
 |**2024-10-10**|**Crossing Margins: Intersectional Users' Ethical Concerns about Software**|Lauren Olson et.al.|[2410.08090](http://arxiv.org/abs/2410.08090)|null|
 |**2024-10-10**|**Reversible Decoupling Network for Single Image Reflection Removal**|Hao Zhao et.al.|[2410.08063](http://arxiv.org/abs/2410.08063)|**[link](https://github.com/lime-j/RDNet)**|
