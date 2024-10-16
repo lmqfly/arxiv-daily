@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -613,7 +613,7 @@ layout: default
 |**2024-09-30**|**Mode-Dependent Phonon Relaxation in fcc Ni: Insights from Molecular Dynamics Simulations with Frozen-Trajectory Excitations**|Wojciech Marciniak et.al.|[2409.20334](http://arxiv.org/abs/2409.20334)|null|
 |**2024-09-29**|**Ion density waves driving the formation of filamentary dust structures**|A. Mendoza et.al.|[2409.19793](http://arxiv.org/abs/2409.19793)|null|
 |**2024-09-27**|**Cyclic random graph models predicting giant molecules in hydrocarbon pyrolysis**|Perrin E. Ruth et.al.|[2409.19141](http://arxiv.org/abs/2409.19141)|null|
-|**2024-09-27**|**The molecular nature of superfluidity: Viscosity of helium from quantum stochastic molecular dynamics simulations over real trajectories**|Phil Attard et.al.|[2409.19036](http://arxiv.org/abs/2409.19036)|null|
+|**2024-10-15**|**The molecular nature of superfluidity: Viscosity of helium from quantum stochastic molecular dynamics simulations over real trajectories**|Phil Attard et.al.|[2409.19036](http://arxiv.org/abs/2409.19036)|null|
 |**2024-09-27**|**Quantum nuclear motion in silicene: Assessing structural and vibrational properties through path-integral simulations**|Carlos P. Herrero et.al.|[2409.18840](http://arxiv.org/abs/2409.18840)|null|
 |**2024-09-27**|**Ab initio machine learning simulation of calcium carbonate from aqueous solutions to the solid state**|Pablo M. Piaggi et.al.|[2409.18562](http://arxiv.org/abs/2409.18562)|null|
 |**2024-09-26**|**Effect of Dispersity on Dynamic Properties of Polymer Melts: Insights from Coarse-Grained Molecular Dynamics Simulations**|Taofeek Tejuosho et.al.|[2409.18315](http://arxiv.org/abs/2409.18315)|null|
@@ -1042,10 +1042,10 @@ layout: default
 |**2024-10-14**|**Comparison of deep learning and conventional methods for disease onset prediction**|Luis H. John et.al.|[2410.10505](http://arxiv.org/abs/2410.10505)|null|
 |**2024-10-14**|**A Kernelizable Primal-Dual Formulation of the Multilinear Singular Value Decomposition**|Frederiek Wesel et.al.|[2410.10504](http://arxiv.org/abs/2410.10504)|null|
 |**2024-10-14**|**A Novel No-Reference Image Quality Metric For Assessing Sharpness In Satellite Imagery**|Lucas Gonzalo Antonel et.al.|[2410.10488](http://arxiv.org/abs/2410.10488)|null|
-|**2024-10-14**|**Information propagation dynamics in Deep Graph Networks**|Alessio Gravina et.al.|[2410.10464](http://arxiv.org/abs/2410.10464)|null|
+|**2024-10-15**|**Information propagation dynamics in Deep Graph Networks**|Alessio Gravina et.al.|[2410.10464](http://arxiv.org/abs/2410.10464)|null|
 |**2024-10-14**|**A Stochastic Approach to Bi-Level Optimization for Hyperparameter Optimization and Meta Learning**|Minyoung Kim et.al.|[2410.10417](http://arxiv.org/abs/2410.10417)|null|
 |**2024-10-14**|**GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation**|Taha Aksu et.al.|[2410.10393](http://arxiv.org/abs/2410.10393)|null|
-|**2024-10-14**|**On Representation of 3D Rotation in the Context of Deep Learning**|Viktória Pravdová et.al.|[2410.10350](http://arxiv.org/abs/2410.10350)|null|
+|**2024-10-15**|**On Representation of 3D Rotation in the Context of Deep Learning**|Viktória Pravdová et.al.|[2410.10350](http://arxiv.org/abs/2410.10350)|null|
 |**2024-10-14**|**On Efficient Topology Management in Service-Oriented 6G Networks: An Edge Video Distribution Case Study**|Zied Ennaceur et.al.|[2410.10338](http://arxiv.org/abs/2410.10338)|null|
 |**2024-10-14**|**MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media**|Wei Zhai et.al.|[2410.10323](http://arxiv.org/abs/2410.10323)|null|
 |**2024-10-14**|**A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration**|Renlang Huang et.al.|[2410.10295](http://arxiv.org/abs/2410.10295)|**[link](https://github.com/renlanghuang/cast)**|
@@ -1062,7 +1062,7 @@ layout: default
 |**2024-10-14**|**Systems-Structure-Based Drug Design**|Vincent D. Zaballa et.al.|[2410.10108](http://arxiv.org/abs/2410.10108)|null|
 |**2024-10-14**|**Innovative Deep Learning Techniques for Obstacle Recognition: A Comparative Study of Modern Detection Algorithms**|Santiago Pérez et.al.|[2410.10096](http://arxiv.org/abs/2410.10096)|null|
 |**2024-10-14**|**VNF Migration with Fast Defragmentation: A GAT-Based Deep Learning Method**|Fangyu Zhang et.al.|[2410.10086](http://arxiv.org/abs/2410.10086)|null|
-|**2024-10-13**|**ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing**|Yuduo Wang et.al.|[2410.10047](http://arxiv.org/abs/2410.10047)|null|
+|**2024-10-15**|**ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing**|Yuduo Wang et.al.|[2410.10047](http://arxiv.org/abs/2410.10047)|null|
 |**2024-10-13**|**DAG-aware Transformer for Causal Effect Estimation**|Manqing Liu et.al.|[2410.10044](http://arxiv.org/abs/2410.10044)|null|
 |**2024-10-13**|**Physics-informed AI and ML-based sparse system identification algorithm for discovery of PDE's representing nonlinear dynamic systems**|Ashish Pal et.al.|[2410.10023](http://arxiv.org/abs/2410.10023)|null|
 |**2024-10-13**|**A Holistic Weakly Supervised Approach for Liver Tumor Segmentation with Clinical Knowledge-Informed Label Smoothing**|Hairong Wang et.al.|[2410.10005](http://arxiv.org/abs/2410.10005)|**[link](https://github.com/lingchm/medassist-liver-cancer)**|
@@ -1081,7 +1081,7 @@ layout: default
 |**2024-10-13**|**LibEER: A Comprehensive Benchmark and Algorithm Library for EEG-based Emotion Recognition**|Huan Liu et.al.|[2410.09767](http://arxiv.org/abs/2410.09767)|**[link](https://github.com/buttersen/libeer)**|
 |**2024-10-13**|**Comparison of Machine Learning Approaches for Classifying Spinodal Events**|Ashwini Malviya et.al.|[2410.09756](http://arxiv.org/abs/2410.09756)|null|
 |**2024-10-13**|**EMWaveNet: Physically Explainable Neural Network Based on Microwave Propagation for SAR Target Recognition**|Zhuoxuan Li et.al.|[2410.09749](http://arxiv.org/abs/2410.09749)|null|
-|**2024-10-13**|**Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**|Sergio Fernandez-Testa et.al.|[2410.09731](http://arxiv.org/abs/2410.09731)|null|
+|**2024-10-13**|**Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**|Sergio Fernandez-Testa et.al.|[2410.09731](http://arxiv.org/abs/2410.09731)|**[link](https://github.com/Coding-Rod/crime_detection)**|
 |**2024-10-13**|**Learning from the past: predicting critical transitions with machine learning trained on surrogates of historical data**|Zhiqin Ma et.al.|[2410.09707](http://arxiv.org/abs/2410.09707)|**[link](https://github.com/zhiqinma/surrogate_data_based_machine_learning)**|
 |**2024-10-13**|**Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**|Dong Chen et.al.|[2410.09680](http://arxiv.org/abs/2410.09680)|null|
 |**2024-10-13**|**Uncovering Attacks and Defenses in Secure Aggregation for Federated Deep Learning**|Yiwei Zhang et.al.|[2410.09676](http://arxiv.org/abs/2410.09676)|null|
@@ -1120,7 +1120,7 @@ layout: default
 |**2024-10-11**|**radarODE-MTL: A Multi-Task Learning Framework with Eccentric Gradient Alignment for Robust Radar-Based ECG Reconstruction**|Yuanyuan Zhang et.al.|[2410.08656](http://arxiv.org/abs/2410.08656)|**[link](https://github.com/ZYY0844/radarODE-MTL)**|
 |**2024-10-11**|**Fully Unsupervised Dynamic MRI Reconstruction via Diffeo-Temporal Equivariance**|Andrew Wang et.al.|[2410.08646](http://arxiv.org/abs/2410.08646)|**[link](https://github.com/andrewwango/ddei)**|
 |**2024-10-11**|**Multi-Source Temporal Attention Network for Precipitation Nowcasting**|Rafael Pablos Sarabia et.al.|[2410.08641](http://arxiv.org/abs/2410.08641)|null|
-|**2024-10-11**|**Small Tunes Transformer: Exploring Macro & Micro-Level Hierarchies for Skeleton-Conditioned Melody Generation**|Yishan Lv et.al.|[2410.08626](http://arxiv.org/abs/2410.08626)|null|
+|**2024-10-15**|**Small Tunes Transformer: Exploring Macro & Micro-Level Hierarchies for Skeleton-Conditioned Melody Generation**|Yishan Lv et.al.|[2410.08626](http://arxiv.org/abs/2410.08626)|null|
 |**2024-10-11**|**Natural Language Induced Adversarial Images**|Xiaopei Zhu et.al.|[2410.08620](http://arxiv.org/abs/2410.08620)|**[link](https://github.com/zxp555/natural-language-induced-adversarial-images)**|
 |**2024-10-11**|**GPR Full-Waveform Inversion through Adaptive Filtering of Model Parameters and Gradients Using CNN**|Peng Jiang et.al.|[2410.08568](http://arxiv.org/abs/2410.08568)|null|
 |**2024-10-11**|**WasmWalker: Path-based Code Representations for Improved WebAssembly Program Analysis**|Mohammad Robati Shirzad et.al.|[2410.08517](http://arxiv.org/abs/2410.08517)|null|
