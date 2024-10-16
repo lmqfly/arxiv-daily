@@ -296,6 +296,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**It Takes Two to Tango: Directly Optimizing for Constrained Synthesizability in Generative Molecular Design**|Jeff Guo et.al.|[2410.11527](http://arxiv.org/abs/2410.11527)|null|
 |**2024-10-14**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
 |**2024-10-11**|**nach0-pc: Multi-task Language Model with Molecular Point Cloud Encoder**|Maksim Kuznetsov et.al.|[2410.09240](http://arxiv.org/abs/2410.09240)|null|
 |**2024-10-09**|**Chemistry-Inspired Diffusion with Non-Differentiable Guidance**|Yuchen Shen et.al.|[2410.06502](http://arxiv.org/abs/2410.06502)|null|
@@ -449,6 +450,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction**|Longlong Li et.al.|[2410.11323](http://arxiv.org/abs/2410.11323)|null|
 |**2024-10-14**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
 |**2024-10-13**|**TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining**|Ruiyi Zhang et.al.|[2410.10006](http://arxiv.org/abs/2410.10006)|null|
 |**2024-10-13**|**Predicting Molecular Ground-State Conformation via Conformation Optimization**|Fanmeng Wang et.al.|[2410.09795](http://arxiv.org/abs/2410.09795)|null|
@@ -607,6 +609,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Narrowband gamma-ray radiation generation by acoustically driven crystalline undulators**|Konstantinos Kaleris et.al.|[2410.11621](http://arxiv.org/abs/2410.11621)|null|
+|**2024-10-15**|**Multi-Scale Molecular Dynamics Simulations**|Frédéric Boussinot et.al.|[2410.11342](http://arxiv.org/abs/2410.11342)|null|
+|**2024-10-15**|**Density Fluctuations, Solvation Thermodynamics and Coexistence Curves in Grand Canonical Molecular Dynamics Simulations**|Mauricio Sevilla et.al.|[2410.11304](http://arxiv.org/abs/2410.11304)|null|
 |**2024-10-13**|**Inference of non-exponential kinetics through stochastic resetting**|Ofir Blumer et.al.|[2410.09805](http://arxiv.org/abs/2410.09805)|null|
 |**2024-10-12**|**Exploring the Electronic and Mechanical Properties of the Recently Synthesized Nitrogen-Doped Monolayer Amorphous Carbon**|E. J. A. dos Santos et.al.|[2410.09603](http://arxiv.org/abs/2410.09603)|null|
 |**2024-10-11**|**Supercritical density fluctuations and structural heterogeneity in supercooled water-glycerol microdroplets**|Sharon Berkowicz et.al.|[2410.08952](http://arxiv.org/abs/2410.08952)|null|
@@ -1045,6 +1050,38 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Can Search-Based Testing with Pareto Optimization Effectively Cover Failure-Revealing Test Inputs?**|Lev Sorokin et.al.|[2410.11769](http://arxiv.org/abs/2410.11769)|null|
+|**2024-10-15**|**Parameter estimation of structural dynamics with neural operators enabled surrogate modeling**|Mingyuan Zhou et.al.|[2410.11712](http://arxiv.org/abs/2410.11712)|null|
+|**2024-10-15**|**RS-MOCO: A deep learning-based topology-preserving image registration method for cardiac T1 mapping**|Chiyi Huang et.al.|[2410.11651](http://arxiv.org/abs/2410.11651)|null|
+|**2024-10-15**|**ED-ViT: Splitting Vision Transformer for Distributed Inference on Edge Devices**|Xiang Liu et.al.|[2410.11650](http://arxiv.org/abs/2410.11650)|null|
+|**2024-10-15**|**Depth Estimation From Monocular Images With Enhanced Encoder-Decoder Architecture**|Dabbrata Das et.al.|[2410.11610](http://arxiv.org/abs/2410.11610)|null|
+|**2024-10-15**|**Information Importance-Aware Defense against Adversarial Attack for Automatic Modulation Classification:An XAI-Based Approach**|Jingchun Wang et.al.|[2410.11608](http://arxiv.org/abs/2410.11608)|null|
+|**2024-10-15**|**Transfer Learning with Foundational Models for Time Series Forecasting using Low-Rank Adaptations**|M. Germán-Morales et.al.|[2410.11539](http://arxiv.org/abs/2410.11539)|null|
+|**2024-10-15**|**Prediction of Cardiovascular Risk Factors from Retinal Fundus Images using CNNs**|Andrea Prenner et.al.|[2410.11535](http://arxiv.org/abs/2410.11535)|null|
+|**2024-10-15**|**Rician Denoising Diffusion Probabilistic Models For Sodium Breast MRI Enhancement**|Shuaiyu Yuan et.al.|[2410.11511](http://arxiv.org/abs/2410.11511)|null|
+|**2024-10-15**|**Physically motivated projection of the electrocardiogram**|Sebastian Wildowicz et.al.|[2410.11504](http://arxiv.org/abs/2410.11504)|null|
+|**2024-10-15**|**Poisson-Dirac Neural Networks for Modeling Coupled Dynamical Systems across Domains**|Razmik Arman Khosrovian et.al.|[2410.11480](http://arxiv.org/abs/2410.11480)|null|
+|**2024-10-15**|**CoActionGraphRec: Sequential Multi-Interest Recommendations Using Co-Action Graphs**|Yi Sun et.al.|[2410.11464](http://arxiv.org/abs/2410.11464)|null|
+|**2024-10-15**|**MoChat: Joints-Grouped Spatio-Temporal Grounding LLM for Multi-Turn Motion Comprehension and Description**|Jiawei Mo et.al.|[2410.11404](http://arxiv.org/abs/2410.11404)|null|
+|**2024-10-15**|**Role of Delay in Brain Dynamics**|Yuval Meir et.al.|[2410.11384](http://arxiv.org/abs/2410.11384)|null|
+|**2024-10-15**|**PhysioFormer: Integrating Multimodal Physiological Signals and Symbolic Regression for Explainable Affective State Prediction**|Zhifeng Wang et.al.|[2410.11376](http://arxiv.org/abs/2410.11376)|null|
+|**2024-10-15**|**Toward a Well-Calibrated Discrimination via Survival Outcome-Aware Contrastive Learning**|Dongjoon Lee et.al.|[2410.11340](http://arxiv.org/abs/2410.11340)|null|
+|**2024-10-15**|**CONSULT: Contrastive Self-Supervised Learning for Few-shot Tumor Detection**|Sin Chee Chin et.al.|[2410.11307](http://arxiv.org/abs/2410.11307)|null|
+|**2024-10-15**|**A Unified Framework for Forward and Inverse Problems in Subsurface Imaging using Latent Space Translations**|Naveen Gupta et.al.|[2410.11247](http://arxiv.org/abs/2410.11247)|null|
+|**2024-10-15**|**DeltaDock: A Unified Framework for Accurate, Efficient, and Physically Reliable Molecular Docking**|Jiaxian Yan et.al.|[2410.11224](http://arxiv.org/abs/2410.11224)|null|
+|**2024-10-15**|**A CLIP-Powered Framework for Robust and Generalizable Data Selection**|Suorong Yang et.al.|[2410.11215](http://arxiv.org/abs/2410.11215)|null|
+|**2024-10-15**|**Cross-Dataset Generalization in Deep Learning**|Xuyu Zhang et.al.|[2410.11207](http://arxiv.org/abs/2410.11207)|null|
+|**2024-10-15**|**Adversarially Guided Stateful Defense Against Backdoor Attacks in Federated Deep Learning**|Hassan Ali et.al.|[2410.11205](http://arxiv.org/abs/2410.11205)|**[link](https://github.com/hassanalikhatim/agsd)**|
+|**2024-10-15**|**Deep unrolled primal dual network for TOF-PET list-mode image reconstruction**|Rui Hu et.al.|[2410.11148](http://arxiv.org/abs/2410.11148)|**[link](https://github.com/rickhh/lmpdnet)**|
+|**2024-10-14**|**Can Structured Data Reduce Epistemic Uncertainty?**|Shriram M S et.al.|[2410.11141](http://arxiv.org/abs/2410.11141)|null|
+|**2024-10-14**|**Real-Time Localization and Bimodal Point Pattern Analysis of Palms Using UAV Imagery**|Kangning Cui et.al.|[2410.11124](http://arxiv.org/abs/2410.11124)|null|
+|**2024-10-14**|**Learning to Optimize for Mixed-Integer Non-linear Programming**|Bo Tang et.al.|[2410.11061](http://arxiv.org/abs/2410.11061)|**[link](https://github.com/pnnl/l2o-pminlp)**|
+|**2024-10-14**|**Towards a More Complete Theory of Function Preserving Transforms**|Michael Painter et.al.|[2410.11038](http://arxiv.org/abs/2410.11038)|null|
+|**2024-10-14**|**What Does It Mean to Be a Transformer? Insights from a Theoretical Hessian Analysis**|Weronika Ormaniec et.al.|[2410.10986](http://arxiv.org/abs/2410.10986)|null|
+|**2024-10-14**|**Data-Aware Training Quality Monitoring and Certification for Reliable Deep Learning**|Farhang Yeganegi et.al.|[2410.10984](http://arxiv.org/abs/2410.10984)|null|
+|**2024-10-14**|**Dissecting embedding method: learning higher-order structures from data**|Liubov Tupikina et.al.|[2410.10917](http://arxiv.org/abs/2410.10917)|null|
+|**2024-10-14**|**Towards Better Multi-head Attention via Channel-wise Sample Permutation**|Shen Yuan et.al.|[2410.10914](http://arxiv.org/abs/2410.10914)|**[link](https://github.com/dashenzi721/csp)**|
+|**2024-10-13**|**An Explainable AI Model for Predicting the Recurrence of Differentiated Thyroid Cancer**|Mohammad Al-Sayed Ahmad et.al.|[2410.10907](http://arxiv.org/abs/2410.10907)|null|
 |**2024-10-14**|**Benefiting from Quantum? A Comparative Study of Q-Seg, Quantum-Inspired Techniques, and U-Net for Crack Segmentation**|Akshaya Srinivasan et.al.|[2410.10713](http://arxiv.org/abs/2410.10713)|null|
 |**2024-10-14**|**LISAC: Learned Coded Waveform Design for ISAC with OFDM**|Chenghong Bian et.al.|[2410.10711](http://arxiv.org/abs/2410.10711)|null|
 |**2024-10-14**|**Early Diagnoses of Acute Lymphoblastic Leukemia Using YOLOv8 and YOLOv11 Deep Learning Models**|Alaa Awad et.al.|[2410.10701](http://arxiv.org/abs/2410.10701)|null|
@@ -6243,6 +6280,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**DeltaDock: A Unified Framework for Accurate, Efficient, and Physically Reliable Molecular Docking**|Jiaxian Yan et.al.|[2410.11224](http://arxiv.org/abs/2410.11224)|null|
 |**2024-10-10**|**InstructBioMol: Advancing Biomolecule Understanding and Design Following Human Instructions**|Xiang Zhuang et.al.|[2410.07919](http://arxiv.org/abs/2410.07919)|null|
 |**2024-10-02**|**ANTIPASTI: interpretable prediction of antibody binding affinity exploiting Normal Modes and Deep Learning**|Kevin Michalewicz et.al.|[2410.01523](http://arxiv.org/abs/2410.01523)|**[link](https://github.com/kevinmicha/ANTIPASTI)**|
 |**2024-09-30**|**Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches**|Xuefeng Liu et.al.|[2410.00709](http://arxiv.org/abs/2410.00709)|null|
@@ -6414,6 +6452,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**DeltaDock: A Unified Framework for Accurate, Efficient, and Physically Reliable Molecular Docking**|Jiaxian Yan et.al.|[2410.11224](http://arxiv.org/abs/2410.11224)|null|
+|**2024-10-14**|**Dissecting embedding method: learning higher-order structures from data**|Liubov Tupikina et.al.|[2410.10917](http://arxiv.org/abs/2410.10917)|null|
 |**2024-10-07**|**A Clifford Algebraic Approach to E(n)-Equivariant High-order Graph Neural Networks**|Hoang-Viet Tran et.al.|[2410.04692](http://arxiv.org/abs/2410.04692)|null|
 |**2024-10-04**|**Shrinking: Reconstruction of Parameterized Surfaces from Signed Distance Fields**|Haotian Yin et.al.|[2410.03123](http://arxiv.org/abs/2410.03123)|null|
 |**2024-10-10**|**Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance**|Joshua McClellan et.al.|[2410.02581](http://arxiv.org/abs/2410.02581)|null|
