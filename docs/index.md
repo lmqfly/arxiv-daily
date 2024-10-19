@@ -169,7 +169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-16**|**Devil in the Tail: A Multi-Modal Framework for Drug-Drug Interaction Prediction in Long Tail Distinction**|Liangwei Nathan Zheng et.al.|[2410.12249](http://arxiv.org/abs/2410.12249)|null|
+|**2024-10-16**|**Devil in the Tail: A Multi-Modal Framework for Drug-Drug Interaction Prediction in Long Tail Distinction**|Liangwei Nathan Zheng et.al.|[2410.12249](http://arxiv.org/abs/2410.12249)|**[link](https://github.com/IcurasLW/TFMD_Longtailed_DDI)**|
 |**2024-09-09**|**ExDDI: Explaining Drug-Drug Interaction Predictions with Natural Language**|Zhaoyue Sun et.al.|[2409.05592](http://arxiv.org/abs/2409.05592)|null|
 |**2024-08-27**|**RGDA-DDI: Residual graph attention network and dual-attention based framework for drug-drug interaction prediction**|Changjian Zhou et.al.|[2408.15310](http://arxiv.org/abs/2408.15310)|**[link](https://github.com/HPC-NEAU/RGDA-DDI)**|
 |**2024-08-02**|**Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408](http://arxiv.org/abs/2408.01408)|**[link](https://github.com/AnnonymousForPapers/GCN-proof)**|
@@ -438,9 +438,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-16**|**FragNet: A Graph Neural Network for Molecular Property Prediction with Four Layers of Interpretability**|Gihan Panapitiya et.al.|[2410.12156](http://arxiv.org/abs/2410.12156)|null|
+|**2024-10-16**|**FragNet: A Graph Neural Network for Molecular Property Prediction with Four Layers of Interpretability**|Gihan Panapitiya et.al.|[2410.12156](http://arxiv.org/abs/2410.12156)|**[link](https://github.com/pnnl/FragNet)**|
 |**2024-10-16**|**Multimodal Fusion with Relational Learning for Molecular Property Prediction**|Zhengyang Zhou et.al.|[2410.12128](http://arxiv.org/abs/2410.12128)|null|
-|**2024-10-15**|**Large-Scale Knowledge Integration for Enhanced Molecular Property Prediction**|Yasir Ghunaim et.al.|[2410.11914](http://arxiv.org/abs/2410.11914)|null|
+|**2024-10-15**|**Large-Scale Knowledge Integration for Enhanced Molecular Property Prediction**|Yasir Ghunaim et.al.|[2410.11914](http://arxiv.org/abs/2410.11914)|**[link](https://github.com/yasir-ghunaim/kano-chebi)**|
 |**2024-10-15**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction**|Longlong Li et.al.|[2410.11323](http://arxiv.org/abs/2410.11323)|null|
 |**2024-10-14**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
 |**2024-10-13**|**TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining**|Ruiyi Zhang et.al.|[2410.10006](http://arxiv.org/abs/2410.10006)|null|
@@ -607,7 +607,7 @@ layout: default
 |**2024-10-15**|**Narrowband gamma-ray radiation generation by acoustically driven crystalline undulators**|Konstantinos Kaleris et.al.|[2410.11621](http://arxiv.org/abs/2410.11621)|null|
 |**2024-10-15**|**Multi-Scale Molecular Dynamics Simulations**|Frédéric Boussinot et.al.|[2410.11342](http://arxiv.org/abs/2410.11342)|null|
 |**2024-10-15**|**Density Fluctuations, Solvation Thermodynamics and Coexistence Curves in Grand Canonical Molecular Dynamics Simulations**|Mauricio Sevilla et.al.|[2410.11304](http://arxiv.org/abs/2410.11304)|null|
-|**2024-10-13**|**Inference of non-exponential kinetics through stochastic resetting**|Ofir Blumer et.al.|[2410.09805](http://arxiv.org/abs/2410.09805)|null|
+|**2024-10-13**|**Inference of non-exponential kinetics through stochastic resetting**|Ofir Blumer et.al.|[2410.09805](http://arxiv.org/abs/2410.09805)|**[link](https://github.com/OfirBlumer/nonExponentialKinetics)**|
 |**2024-10-12**|**Exploring the Electronic and Mechanical Properties of the Recently Synthesized Nitrogen-Doped Monolayer Amorphous Carbon**|E. J. A. dos Santos et.al.|[2410.09603](http://arxiv.org/abs/2410.09603)|null|
 |**2024-10-11**|**Supercritical density fluctuations and structural heterogeneity in supercooled water-glycerol microdroplets**|Sharon Berkowicz et.al.|[2410.08952](http://arxiv.org/abs/2410.08952)|null|
 |**2024-10-11**|**A machine-learning framework for accelerating spin-lattice relaxation simulations**|Valerio Briganti et.al.|[2410.08912](http://arxiv.org/abs/2410.08912)|null|
@@ -1084,14 +1084,14 @@ layout: default
 |**2024-10-16**|**SoK: On Finding Common Ground in Loss Landscapes Using Deep Model Merging Techniques**|Arham Khan et.al.|[2410.12927](http://arxiv.org/abs/2410.12927)|null|
 |**2024-10-15**|**CitySolution: A complaining task distributive mobile application for smart city corporation using deep learning**|Farhatun Shama et.al.|[2410.12882](http://arxiv.org/abs/2410.12882)|null|
 |**2024-10-15**|**Exploring transfer learning for Deep NLP systems on rarely annotated languages**|Dipendra Yadav et.al.|[2410.12879](http://arxiv.org/abs/2410.12879)|null|
-|**2024-10-16**|**Unitary Multi-Margin BERT for Robust Natural Language Processing**|Hao-Yuan Chang et.al.|[2410.12759](http://arxiv.org/abs/2410.12759)|null|
+|**2024-10-16**|**Unitary Multi-Margin BERT for Robust Natural Language Processing**|Hao-Yuan Chang et.al.|[2410.12759](http://arxiv.org/abs/2410.12759)|**[link](https://github.com/h-chang/UniBERT)**|
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742](http://arxiv.org/abs/2410.12742)|null|
 |**2024-10-16**|**Efficient Optimization Algorithms for Linear Adversarial Training**|Antônio H. RIbeiro et.al.|[2410.12677](http://arxiv.org/abs/2410.12677)|null|
 |**2024-10-16**|**SWIM: An Attention-Only Model for Speech Quality Assessment Under Subjective Variance**|Imran E Kibria et.al.|[2410.12675](http://arxiv.org/abs/2410.12675)|null|
 |**2024-10-16**|**Optimization and Application of Cloud-based Deep Learning Architecture for Multi-Source Data Prediction**|Yang Zhang et.al.|[2410.12642](http://arxiv.org/abs/2410.12642)|null|
 |**2024-10-16**|**Cascade learning in multi-task encoder-decoder networks for concurrent bone segmentation and glenohumeral joint assessment in shoulder CT scans**|Luca Marsilio et.al.|[2410.12641](http://arxiv.org/abs/2410.12641)|null|
-|**2024-10-16**|**From Lab to Pocket: A Novel Continual Learning-based Mobile Application for Screening COVID-19**|Danny Falero et.al.|[2410.12589](http://arxiv.org/abs/2410.12589)|null|
-|**2024-10-16**|**QueensCAMP: an RGB-D dataset for robust Visual SLAM**|Hudson M. S. Bruno et.al.|[2410.12520](http://arxiv.org/abs/2410.12520)|null|
+|**2024-10-16**|**From Lab to Pocket: A Novel Continual Learning-based Mobile Application for Screening COVID-19**|Danny Falero et.al.|[2410.12589](http://arxiv.org/abs/2410.12589)|**[link](https://github.com/DannyFGitHub/COVID-19PneumoCheckApp)**|
+|**2024-10-16**|**QueensCAMP: an RGB-D dataset for robust Visual SLAM**|Hudson M. S. Bruno et.al.|[2410.12520](http://arxiv.org/abs/2410.12520)|**[link](https://github.com/larocs/queenscamp-dataset)**|
 |**2024-10-17**|**Synthetic Augmentation for Anatomical Landmark Localization using DDPMs**|Arnela Hadzic et.al.|[2410.12489](http://arxiv.org/abs/2410.12489)|null|
 |**2024-10-17**|**Loss Landscape Characterization of Neural Networks without Over-Parametrization**|Rustem Islamov et.al.|[2410.12455](http://arxiv.org/abs/2410.12455)|null|
 |**2024-10-16**|**Approaching Metaheuristic Deep Learning Combos for Automated Data Mining**|Gustavo Assunção et.al.|[2410.12435](http://arxiv.org/abs/2410.12435)|null|
@@ -1102,21 +1102,21 @@ layout: default
 |**2024-10-16**|**iFuzzyTL: Interpretable Fuzzy Transfer Learning for SSVEP BCI System**|Xiaowei Jiang et.al.|[2410.12267](http://arxiv.org/abs/2410.12267)|null|
 |**2024-10-16**|**Game Theory Meets Statistical Mechanics in Deep Learning Design**|Djamel Bouchaffra et.al.|[2410.12264](http://arxiv.org/abs/2410.12264)|null|
 |**2024-10-16**|**The Star Formation History of Nearby Galaxies: A Machine Learning Approach**|Yujiao Yang et.al.|[2410.12253](http://arxiv.org/abs/2410.12253)|null|
-|**2024-10-16**|**Devil in the Tail: A Multi-Modal Framework for Drug-Drug Interaction Prediction in Long Tail Distinction**|Liangwei Nathan Zheng et.al.|[2410.12249](http://arxiv.org/abs/2410.12249)|null|
+|**2024-10-16**|**Devil in the Tail: A Multi-Modal Framework for Drug-Drug Interaction Prediction in Long Tail Distinction**|Liangwei Nathan Zheng et.al.|[2410.12249](http://arxiv.org/abs/2410.12249)|**[link](https://github.com/IcurasLW/TFMD_Longtailed_DDI)**|
 |**2024-10-16**|**EPS-MoE: Expert Pipeline Scheduler for Cost-Efficient MoE Inference**|Yulei Qian et.al.|[2410.12247](http://arxiv.org/abs/2410.12247)|null|
 |**2024-10-16**|**Physically transparent diffractive optical networks**|Ruitao Wu et.al.|[2410.12233](http://arxiv.org/abs/2410.12233)|null|
 |**2024-10-16**|**EdgeRL: Reinforcement Learning-driven Deep Learning Model Inference Optimization at Edge**|Motahare Mounesan et.al.|[2410.12221](http://arxiv.org/abs/2410.12221)|null|
-|**2024-10-16**|**Sparse Prototype Network for Explainable Pedestrian Behavior Prediction**|Yan Feng et.al.|[2410.12195](http://arxiv.org/abs/2410.12195)|null|
-|**2024-10-16**|**NSSI-Net: Multi-Concept Generative Adversarial Network for Non-Suicidal Self-Injury Detection Using High-Dimensional EEG Signals in a Semi-Supervised Learning Framework**|Zhen Liang et.al.|[2410.12159](http://arxiv.org/abs/2410.12159)|null|
+|**2024-10-16**|**Sparse Prototype Network for Explainable Pedestrian Behavior Prediction**|Yan Feng et.al.|[2410.12195](http://arxiv.org/abs/2410.12195)|**[link](https://github.com/equinoxxxxx/spn)**|
+|**2024-10-16**|**NSSI-Net: Multi-Concept Generative Adversarial Network for Non-Suicidal Self-Injury Detection Using High-Dimensional EEG Signals in a Semi-Supervised Learning Framework**|Zhen Liang et.al.|[2410.12159](http://arxiv.org/abs/2410.12159)|**[link](https://github.com/Vesan-yws/NSSINet)**|
 |**2024-10-16**|**Exploiting LLMs' Reasoning Capability to Infer Implicit Concepts in Legal Information Retrieval**|Hai-Long Nguyen et.al.|[2410.12154](http://arxiv.org/abs/2410.12154)|null|
-|**2024-10-15**|**nvTorchCam: An Open-source Library for Camera-Agnostic Differentiable Geometric Vision**|Daniel Lichy et.al.|[2410.12074](http://arxiv.org/abs/2410.12074)|null|
+|**2024-10-15**|**nvTorchCam: An Open-source Library for Camera-Agnostic Differentiable Geometric Vision**|Daniel Lichy et.al.|[2410.12074](http://arxiv.org/abs/2410.12074)|**[link](https://github.com/NVlabs/nvTorchCam)**|
 |**2024-10-15**|**A Survey on Deep Tabular Learning**|Shriyank Somvanshi et.al.|[2410.12034](http://arxiv.org/abs/2410.12034)|null|
-|**2024-10-15**|**Dual-frame Fluid Motion Estimation with Test-time Optimization and Zero-divergence Loss**|Yifei Zhang et.al.|[2410.11934](http://arxiv.org/abs/2410.11934)|null|
+|**2024-10-15**|**Dual-frame Fluid Motion Estimation with Test-time Optimization and Zero-divergence Loss**|Yifei Zhang et.al.|[2410.11934](http://arxiv.org/abs/2410.11934)|**[link](https://github.com/Forrest-110/FluidMotionNet)**|
 |**2024-10-15**|**Beyond Sequence: Impact of Geometric Context for RNA Property Prediction**|Junjie Xu et.al.|[2410.11933](http://arxiv.org/abs/2410.11933)|null|
 |**2024-10-15**|**Development and Testing of a Wood Panels Bark Removal Equipment Based on Deep Learning**|Rijun Wang et.al.|[2410.11913](http://arxiv.org/abs/2410.11913)|null|
 |**2024-10-15**|**Explainable AI Methods for Multi-Omics Analysis: A Survey**|Ahmad Hussein et.al.|[2410.11910](http://arxiv.org/abs/2410.11910)|null|
 |**2024-10-14**|**Learnable Optimization-Based Algorithms for Low-Dose CT Reconstruction**|Daisy Chen et.al.|[2410.11903](http://arxiv.org/abs/2410.11903)|null|
-|**2024-10-16**|**Can Search-Based Testing with Pareto Optimization Effectively Cover Failure-Revealing Test Inputs?**|Lev Sorokin et.al.|[2410.11769](http://arxiv.org/abs/2410.11769)|null|
+|**2024-10-16**|**Can Search-Based Testing with Pareto Optimization Effectively Cover Failure-Revealing Test Inputs?**|Lev Sorokin et.al.|[2410.11769](http://arxiv.org/abs/2410.11769)|**[link](https://github.com/ast-fortiss-tum/coverage-emse-24)**|
 |**2024-10-15**|**Parameter estimation of structural dynamics with neural operators enabled surrogate modeling**|Mingyuan Zhou et.al.|[2410.11712](http://arxiv.org/abs/2410.11712)|null|
 |**2024-10-15**|**RS-MOCO: A deep learning-based topology-preserving image registration method for cardiac T1 mapping**|Chiyi Huang et.al.|[2410.11651](http://arxiv.org/abs/2410.11651)|null|
 |**2024-10-15**|**ED-ViT: Splitting Vision Transformer for Distributed Inference on Edge Devices**|Xiang Liu et.al.|[2410.11650](http://arxiv.org/abs/2410.11650)|null|
