@@ -616,6 +616,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**A Bond-Based Machine Learning Model for Molecular Polarizabilities and A Priori Raman Spectra**|Jakub K. Sowa et.al.|[2410.14498](http://arxiv.org/abs/2410.14498)|null|
 |**2024-10-18**|**Million-atom heat transport simulations of polycrystalline graphene approaching first-principles accuracy enabled by neuroevolution potential on desktop GPUs**|Xiaoye Zhou et.al.|[2410.13535](http://arxiv.org/abs/2410.13535)|null|
 |**2024-10-17**|**The Latent Road to Atoms: Backmapping Coarse-grained Protein Structures with Latent Diffusion**|Xu Han et.al.|[2410.13264](http://arxiv.org/abs/2410.13264)|null|
 |**2024-10-17**|**Entropy-Driven Preordering Assists Nucleation in Polyethylene**|Renkuan Cao et.al.|[2410.13128](http://arxiv.org/abs/2410.13128)|null|
@@ -1063,6 +1064,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**On the Regularization of Learnable Embeddings for Time Series Processing**|Luca Butera et.al.|[2410.14630](http://arxiv.org/abs/2410.14630)|null|
+|**2024-10-18**|**Temperature-Dependent Design of BCC High Entropy Alloys: Integrating Deep Learning, CALPHAD, and Experimental Validation**|A. K. Shargh et.al.|[2410.14614](http://arxiv.org/abs/2410.14614)|null|
+|**2024-10-18**|**Reimagining partial thickness keratoplasty: An eye mountable robot for autonomous big bubble needle insertion**|Y. Wang et.al.|[2410.14577](http://arxiv.org/abs/2410.14577)|null|
+|**2024-10-18**|**MomentumSMoE: Integrating Momentum into Sparse Mixture of Experts**|Rachel S. Y. Teo et.al.|[2410.14574](http://arxiv.org/abs/2410.14574)|**[link](https://github.com/rachtsy/momentumsmoe)**|
+|**2024-10-18**|**A Hybrid Feature Fusion Deep Learning Framework for Leukemia Cancer Detection in Microscopic Blood Sample Using Gated Recurrent Unit and Uncertainty Quantification**|Maksuda Akter et.al.|[2410.14536](http://arxiv.org/abs/2410.14536)|null|
+|**2024-10-18**|**Less is More: Selective Reduction of CT Data for Self-Supervised Pre-Training of Deep Learning Models with Contrastive Learning Improves Downstream Classification Performance**|Daniel Wolf et.al.|[2410.14524](http://arxiv.org/abs/2410.14524)|**[link](https://github.com/Wolfda95/Less_is_More)**|
+|**2024-10-18**|**Reinforcement Learning in Non-Markov Market-Making**|Luca Lalor et.al.|[2410.14504](http://arxiv.org/abs/2410.14504)|null|
+|**2024-10-18**|**An Integrated Deep Learning Model for Skin Cancer Detection Using Hybrid Feature Fusion Technique**|Maksuda Akter et.al.|[2410.14489](http://arxiv.org/abs/2410.14489)|null|
+|**2024-10-18**|**Enhancing Cryptocurrency Market Forecasting: Advanced Machine Learning Techniques and Industrial Engineering Contributions**|Jannatun Nayeem Pinky et.al.|[2410.14475](http://arxiv.org/abs/2410.14475)|null|
+|**2024-10-18**|**Integrating Deep Learning with Fundus and Optical Coherence Tomography for Cardiovascular Disease Prediction**|Cynthia Maldonado-Garcia et.al.|[2410.14423](http://arxiv.org/abs/2410.14423)|null|
+|**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419](http://arxiv.org/abs/2410.14419)|null|
+|**2024-10-18**|**Variable Aperture Bokeh Rendering via Customized Focal Plane Guidance**|Kang Chen et.al.|[2410.14400](http://arxiv.org/abs/2410.14400)|**[link](https://github.com/motong-ai-studio/vabm)**|
+|**2024-10-18**|**Investigating the Capabilities of Deep Learning for Processing and Interpreting One-Shot Multi-offset GPR Data: A Numerical Case Study for Lunar and Martian Environments**|Iraklis Giannakis et.al.|[2410.14386](http://arxiv.org/abs/2410.14386)|null|
+|**2024-10-18**|**Impact of imperfect annotations on CNN training and performance for instance segmentation and classification in digital pathology**|Laura Gálvez Jiménez et.al.|[2410.14365](http://arxiv.org/abs/2410.14365)|null|
+|**2024-10-18**|**A dual physics-informed neural network for topology optimization**|Ajendra Singh et.al.|[2410.14342](http://arxiv.org/abs/2410.14342)|null|
+|**2024-10-18**|**Debiasing Mini-Batch Quadratics for Applications in Deep Learning**|Lukas Tatzel et.al.|[2410.14325](http://arxiv.org/abs/2410.14325)|null|
+|**2024-10-18**|**Advanced Underwater Image Quality Enhancement via Hybrid Super-Resolution Convolutional Neural Networks and Multi-Scale Retinex-Based Defogging Techniques**|Yugandhar Reddy Gogireddy et.al.|[2410.14285](http://arxiv.org/abs/2410.14285)|null|
+|**2024-10-18**|**PTR: A Pre-trained Language Model for Trajectory Recovery**|Tonglong Wei et.al.|[2410.14281](http://arxiv.org/abs/2410.14281)|null|
+|**2024-10-18**|**RAZOR: Refining Accuracy by Zeroing Out Redundancies**|Daniel Riccio et.al.|[2410.14254](http://arxiv.org/abs/2410.14254)|null|
+|**2024-10-18**|**Change-point detection in anomalous-diffusion trajectories utilising machine-learning-based uncertainty estimates**|Henrik Seckler et.al.|[2410.14206](http://arxiv.org/abs/2410.14206)|null|
+|**2024-10-18**|**Combining Hough Transform and Deep Learning Approaches to Reconstruct ECG Signals From Printouts**|Felix Krones et.al.|[2410.14185](http://arxiv.org/abs/2410.14185)|null|
+|**2024-10-18**|**Hierarchical Conditional Multi-Task Learning for Streamflow Modeling**|Shaoming Xu et.al.|[2410.14137](http://arxiv.org/abs/2410.14137)|null|
+|**2024-10-18**|**Deep Learning Applications in Medical Image Analysis: Advancements, Challenges, and Future Directions**|Aimina Ali Eli et.al.|[2410.14131](http://arxiv.org/abs/2410.14131)|null|
+|**2024-10-18**|**Transfer Learning on Transformers for Building Energy Consumption Forecasting -- A Comparative Study**|Robert Spencer et.al.|[2410.14107](http://arxiv.org/abs/2410.14107)|null|
+|**2024-10-18**|**Extreme Precipitation Nowcasting using Multi-Task Latent Diffusion Models**|Li Chaorong et.al.|[2410.14103](http://arxiv.org/abs/2410.14103)|null|
+|**2024-10-18**|**Deep Learning Based Solar Cell Recognition for Optical Wireless Power Transfer**|Sida Huang et.al.|[2410.14096](http://arxiv.org/abs/2410.14096)|null|
+|**2024-10-17**|**Self Supervised Deep Learning for Robot Grasping**|Danyal Saqib et.al.|[2410.14084](http://arxiv.org/abs/2410.14084)|**[link](https://github.com/danyalsaqib/self-supervised-robotic-grasping)**|
+|**2024-10-17**|**Segmentation of Pediatric Brain Tumors using a Radiologically informed, Deep Learning Cascade**|Timothy Mulvany et.al.|[2410.14020](http://arxiv.org/abs/2410.14020)|null|
+|**2024-10-17**|**Benchmarking Transcriptomics Foundation Models for Perturbation Analysis : one PCA still rules them all**|Ihab Bendidi et.al.|[2410.13956](http://arxiv.org/abs/2410.13956)|**[link](https://github.com/valence-labs/Tx-Evaluation)**|
+|**2024-10-17**|**On Diffusion Models for Multi-Agent Partial Observability: Shared Attractors, Error Bounds, and Composite Flow**|Tonghan Wang et.al.|[2410.13953](http://arxiv.org/abs/2410.13953)|null|
 |**2024-10-17**|**AutoAL: Automated Active Learning with Differentiable Query Strategy Search**|Yifeng Wang et.al.|[2410.13853](http://arxiv.org/abs/2410.13853)|**[link](https://github.com/haizailache999/autoal)**|
 |**2024-10-17**|**Learning Graph Quantized Tokenizers for Transformers**|Limei Wang et.al.|[2410.13798](http://arxiv.org/abs/2410.13798)|**[link](https://github.com/limei0307/graph-tokenizer)**|
 |**2024-10-17**|**CrystalX: Ultra-Precision Crystal Structure Resolution and Error Correction Using Deep Learning**|Kaipeng Zheng et.al.|[2410.13713](http://arxiv.org/abs/2410.13713)|null|
