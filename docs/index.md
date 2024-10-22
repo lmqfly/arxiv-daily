@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1079,7 +1079,7 @@ layout: default
 |**2024-10-17**|**CrystalX: Ultra-Precision Crystal Structure Resolution and Error Correction Using Deep Learning**|Kaipeng Zheng et.al.|[2410.13713](http://arxiv.org/abs/2410.13713)|null|
 |**2024-10-17**|**On-device Federated Learning in Smartphones for Detecting Depression from Reddit Posts**|Mustofa Ahmed et.al.|[2410.13709](http://arxiv.org/abs/2410.13709)|null|
 |**2024-10-17**|**Label-free prediction of fluorescence markers in bovine satellite cells using deep learning**|Sania Sinha et.al.|[2410.13685](http://arxiv.org/abs/2410.13685)|null|
-|**2024-10-18**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621](http://arxiv.org/abs/2410.13621)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
+|**2024-10-21**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621](http://arxiv.org/abs/2410.13621)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
 |**2024-10-17**|**Align-ULCNet: Towards Low-Complexity and Robust Acoustic Echo and Noise Reduction**|Shrishti Saha Shetu et.al.|[2410.13620](http://arxiv.org/abs/2410.13620)|null|
 |**2024-10-17**|**Material Fingerprinting: Identifying and Predicting Perceptual Attributes of Material Appearance**|Jiri Filip et.al.|[2410.13615](http://arxiv.org/abs/2410.13615)|null|
 |**2024-10-17**|**Deep-learning recognition and tracking of individual nanotubes in low-contrast microscopy videos**|Vladimir Pimonov et.al.|[2410.13594](http://arxiv.org/abs/2410.13594)|null|
@@ -6643,7 +6643,7 @@ layout: default
 |**2023-12-15**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410](http://arxiv.org/abs/2302.11410)|**[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)**|
 |**2023-02-17**|**Generative Ornstein-Uhlenbeck Markets via Geometric Deep Learning**|Anastasis Kratsios et.al.|[2302.09176](http://arxiv.org/abs/2302.09176)|null|
 |**2023-02-23**|**Slepian Scale-Discretised Wavelets on Manifolds**|Patrick J. Roddy et.al.|[2302.06006](http://arxiv.org/abs/2302.06006)|null|
-|**2023-10-31**|**Is Distance Matrix Enough for Geometric Deep Learning?**|Zian Li et.al.|[2302.05743](http://arxiv.org/abs/2302.05743)|null|
+|**2024-10-19**|**Is Distance Matrix Enough for Geometric Deep Learning?**|Zian Li et.al.|[2302.05743](http://arxiv.org/abs/2302.05743)|null|
 |**2023-02-09**|**Constrained Empirical Risk Minimization: Theory and Practice**|Eric Marcus et.al.|[2302.04729](http://arxiv.org/abs/2302.04729)|null|
 |**2023-02-06**|**Root Laplacian Eigenmaps with their application in spectral embedding**|Shouvik Datta Choudhury et.al.|[2302.02731](http://arxiv.org/abs/2302.02731)|null|
 |**2023-04-24**|**Geometric Deep Learning for Autonomous Driving: Unlocking the Power of Graph Neural Networks With CommonRoad-Geometric**|Eivind Meyer et.al.|[2302.01259](http://arxiv.org/abs/2302.01259)|null|
