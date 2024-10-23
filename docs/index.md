@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**An evaluation of machine learning/molecular mechanics end-state corrections with mechanical embedding to calculate relative protein-ligand binding free energies**|Johannes Karwounopoulos et.al.|[2410.16818](http://arxiv.org/abs/2410.16818)|null|
 |**2024-10-15**|**Explainable AI Methods for Multi-Omics Analysis: A Survey**|Ahmad Hussein et.al.|[2410.11910](http://arxiv.org/abs/2410.11910)|null|
 |**2024-10-10**|**Influencing Optical and Charge Transport Properties by Controlling the Molecular Interactions of Merocyanine Thin Films**|Lukas Böhner et.al.|[2410.08333](http://arxiv.org/abs/2410.08333)|null|
 |**2024-10-08**|**E3STO: Orbital Inspired SE(3)-Equivariant Molecular Representation for Electron Density Prediction**|Ilan Mitnikov et.al.|[2410.06119](http://arxiv.org/abs/2410.06119)|null|
@@ -77,7 +78,7 @@ layout: default
 |**2024-07-22**|**Force Propagation in Active Cytoskeletal Networks**|Shichen Liu et.al.|[2401.04217](http://arxiv.org/abs/2401.04217)|null|
 |**2023-12-23**|**DTIAM: A unified framework for predicting drug-target interactions, binding affinities and activation/inhibition mechanisms**|Zhangli Lu et.al.|[2312.15252](http://arxiv.org/abs/2312.15252)|**[link](https://github.com/csubiogroup/dtiam)**|
 |**2023-12-12**|**SE(3)-Invariant Multiparameter Persistent Homology for Chiral-Sensitive Molecular Property Prediction**|Andac Demir et.al.|[2312.07633](http://arxiv.org/abs/2312.07633)|null|
-|**2024-10-22**|**Learning to Denoise Biomedical Knowledge Graph for Robust Molecular Interaction Prediction**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
+|**2024-10-22**|**Learning to Denoise Biomedical Knowledge Graph for Robust Molecular Interaction Prediction**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|**[link](https://github.com/xiaomingaaa/biokdn)**|
 |**2023-11-28**|**Collisional radiative modelling with improved cross sections to investigate plasma molecular interactions in divertor plasmas**|Stijn Kobussen et.al.|[2311.16732](http://arxiv.org/abs/2311.16732)|null|
 |**2024-03-19**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
 |**2024-05-08**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|**[link](https://github.com/dunni3/keypoint-diffusion)**|
@@ -184,7 +185,7 @@ layout: default
 |**2024-05-22**|**Advanced Drug Interaction Event Prediction**|Yingying Wang et.al.|[2402.11472](http://arxiv.org/abs/2402.11472)|null|
 |**2024-05-21**|**Can Large Language Models Understand Molecules?**|Shaghayegh Sadeghi et.al.|[2402.00024](http://arxiv.org/abs/2402.00024)|**[link](https://github.com/sshaghayeghs/llama-vs-gpt)**|
 |**2023-12-09**|**ALGNet: Attention Light Graph Memory Network for Medical Recommendation System**|Minh-Van Nguyen et.al.|[2312.08377](http://arxiv.org/abs/2312.08377)|**[link](https://github.com/tivivui95/algnet)**|
-|**2024-10-22**|**Learning to Denoise Biomedical Knowledge Graph for Robust Molecular Interaction Prediction**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
+|**2024-10-22**|**Learning to Denoise Biomedical Knowledge Graph for Robust Molecular Interaction Prediction**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|**[link](https://github.com/xiaomingaaa/biokdn)**|
 |**2024-03-19**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
 |**2023-11-15**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261](http://arxiv.org/abs/2311.09261)|**[link](https://github.com/lars-research/emergnn)**|
 |**2023-10-22**|**UniMAP: Universal SMILES-Graph Representation Learning**|Shikun Feng et.al.|[2310.14216](http://arxiv.org/abs/2310.14216)|**[link](https://github.com/fengshikun/unimap)**|
@@ -438,6 +439,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Publishing Neural Networks in Drug Discovery Might Compromise Training Data Privacy**|Fabian P. Krüger et.al.|[2410.16975](http://arxiv.org/abs/2410.16975)|null|
 |**2024-10-19**|**Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**|Yinhan He et.al.|[2410.15165](http://arxiv.org/abs/2410.15165)|null|
 |**2024-10-16**|**FragNet: A Graph Neural Network for Molecular Property Prediction with Four Layers of Interpretability**|Gihan Panapitiya et.al.|[2410.12156](http://arxiv.org/abs/2410.12156)|**[link](https://github.com/pnnl/FragNet)**|
 |**2024-10-16**|**Multimodal Fusion with Relational Learning for Molecular Property Prediction**|Zhengyang Zhou et.al.|[2410.12128](http://arxiv.org/abs/2410.12128)|null|
@@ -599,6 +601,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Tunable Crystalline Order and Growth Kinetics in 2D Binary Colloidal Self-assembly Driven by Depletion Interactions**|S. k. Tahmid Shahriar et.al.|[2410.16568](http://arxiv.org/abs/2410.16568)|null|
 |**2024-10-20**|**The Association of Zn $^{2+}$-SO$_4^{2-}$ and Mg$^{2+}$-SO$_4^{2-}$ in Aqueous MgSO$_4$/ZnSO$_4$ Hybrid Electrolytes: Insights from All-Atom Molecular Dynamics Simulations Molecular Dynamics Simulations**|Mayank Dixit et.al.|[2410.15309](http://arxiv.org/abs/2410.15309)|null|
 |**2024-10-18**|**Intrinsic bulk viscosity of the one-component plasma**|Jarett LeVan et.al.|[2410.14813](http://arxiv.org/abs/2410.14813)|null|
 |**2024-10-03**|**Excess Density as a Descriptor for Electrolyte Solvent Design**|Celia Kelly et.al.|[2410.14689](http://arxiv.org/abs/2410.14689)|null|
@@ -1048,6 +1051,39 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**HyperspectralViTs: Fast and Accurate methane detection on-board satellites**|Vít Růžička et.al.|[2410.17248](http://arxiv.org/abs/2410.17248)|null|
+|**2024-10-22**|**KANICE: Kolmogorov-Arnold Networks with Interactive Convolutional Elements**|Md Meftahul Ferdaus et.al.|[2410.17172](http://arxiv.org/abs/2410.17172)|**[link](https://github.com/m-ferdaus/kanice)**|
+|**2024-10-22**|**Dynamic Glucose Enhanced Imaging using Direct Water Saturation**|Linda Knutsson et.al.|[2410.17119](http://arxiv.org/abs/2410.17119)|null|
+|**2024-10-22**|**A Survey on Deep Learning-based Gaze Direction Regression: Searching for the State-of-the-art**|Franko Šikić et.al.|[2410.17082](http://arxiv.org/abs/2410.17082)|null|
+|**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|null|
+|**2024-10-22**|**Multi Kernel Estimation based Object Segmentation**|Haim Goldfisher et.al.|[2410.17064](http://arxiv.org/abs/2410.17064)|null|
+|**2024-10-22**|**DIRI: Adversarial Patient Reidentification with Large Language Models for Evaluating Clinical Text Anonymization**|John X. Morris et.al.|[2410.17035](http://arxiv.org/abs/2410.17035)|null|
+|**2024-10-22**|**Variational autoencoders stabilise TCN performance when classifying weakly labelled bioacoustics data**|Laia Garrobé Fonollosa et.al.|[2410.17006](http://arxiv.org/abs/2410.17006)|null|
+|**2024-10-22**|**Active Physics Informed Deep Learning: Surrogate Modeling for Non Planar Wavefront Excitation of Topological Nanophotonic Devices**|Fatemeh Davoodi et.al.|[2410.16905](http://arxiv.org/abs/2410.16905)|null|
+|**2024-10-22**|**Bayes without Underfitting: Fully Correlated Deep Learning Posteriors via Alternating Projections**|Marco Miani et.al.|[2410.16901](http://arxiv.org/abs/2410.16901)|null|
+|**2024-10-22**|**Just In Time Transformers**|Ahmed Ala Eddine Benali et.al.|[2410.16881](http://arxiv.org/abs/2410.16881)|**[link](https://github.com/cafaro/jit-transformer)**|
+|**2024-10-22**|**Assessment of Transformer-Based Encoder-Decoder Model for Human-Like Summarization**|Sindhu Nair et.al.|[2410.16842](http://arxiv.org/abs/2410.16842)|null|
+|**2024-10-22**|**A Deep Learning-Based Method for Metal Artifact-Resistant Syn-MP-RAGE Contrast Synthesis**|Ziyi Zeng et.al.|[2410.16817](http://arxiv.org/abs/2410.16817)|null|
+|**2024-10-22**|**Test-time Adversarial Defense with Opposite Adversarial Path and High Attack Time Cost**|Cheng-Han Yeh et.al.|[2410.16805](http://arxiv.org/abs/2410.16805)|null|
+|**2024-10-22**|**Efficient Frequency Selective Surface Analysis via End-to-End Model-Based Learning**|Cheima Hammami et.al.|[2410.16760](http://arxiv.org/abs/2410.16760)|null|
+|**2024-10-22**|**Optimal Partial Graph Matching**|Gathika Ratnayaka et.al.|[2410.16718](http://arxiv.org/abs/2410.16718)|null|
+|**2024-10-22**|**Development of CNN Architectures using Transfer Learning Methods for Medical Image Classification**|Ganga Prasad Basyal et.al.|[2410.16711](http://arxiv.org/abs/2410.16711)|null|
+|**2024-10-22**|**Universal approximation property of ODENet and ResNet with a single activation function**|Masato Kimura et.al.|[2410.16709](http://arxiv.org/abs/2410.16709)|null|
+|**2024-10-22**|**Privacy-hardened and hallucination-resistant synthetic data generation with logic-solvers**|Mark A. Burgess et.al.|[2410.16705](http://arxiv.org/abs/2410.16705)|null|
+|**2024-10-22**|**MPT: A Large-scale Multi-Phytoplankton Tracking Benchmark**|Yang Yu et.al.|[2410.16695](http://arxiv.org/abs/2410.16695)|null|
+|**2024-10-22**|**CKSP: Cross-species Knowledge Sharing and Preserving for Universal Animal Activity Recognition**|Axiu Mao et.al.|[2410.16644](http://arxiv.org/abs/2410.16644)|null|
+|**2024-10-22**|**Assessing and improving reliability of neighbor embedding methods: a map-continuity perspective**|Zhexuan Liu et.al.|[2410.16608](http://arxiv.org/abs/2410.16608)|null|
+|**2024-10-22**|**Foundation Models for Remote Sensing and Earth Observation: A Survey**|Aoran Xiao et.al.|[2410.16602](http://arxiv.org/abs/2410.16602)|null|
+|**2024-10-22**|**ViMGuard: A Novel Multi-Modal System for Video Misinformation Guarding**|Andrew Kan et.al.|[2410.16592](http://arxiv.org/abs/2410.16592)|null|
+|**2024-10-21**|**PlaneSAM: Multimodal Plane Instance Segmentation Using the Segment Anything Model**|Zhongchen Deng et.al.|[2410.16545](http://arxiv.org/abs/2410.16545)|null|
+|**2024-10-21**|**QIXAI: A Quantum-Inspired Framework for Enhancing Classical and Quantum Model Transparency and Understanding**|John M. Willis et.al.|[2410.16537](http://arxiv.org/abs/2410.16537)|null|
+|**2024-10-21**|**Cancer Cell Classification using Deep Learning**|Praneeth Kumar T et.al.|[2410.16519](http://arxiv.org/abs/2410.16519)|null|
+|**2024-10-21**|**Automated Planning Domain Inference for Task and Motion Planning**|Jinbang Huang et.al.|[2410.16445](http://arxiv.org/abs/2410.16445)|null|
+|**2024-10-21**|**Fair Bilevel Neural Network (FairBiNN): On Balancing fairness and accuracy via Stackelberg Equilibrium**|Mehdi Yazdani-Jahromi et.al.|[2410.16432](http://arxiv.org/abs/2410.16432)|null|
+|**2024-10-21**|**Advancements in Electric Vehicle Charging Optimization: A Survey of Reinforcement Learning Approaches**|Mehrshad Shokati et.al.|[2410.16425](http://arxiv.org/abs/2410.16425)|null|
+|**2024-10-21**|**AttentionPainter: An Efficient and Adaptive Stroke Predictor for Scene Painting**|Yizhe Tang et.al.|[2410.16418](http://arxiv.org/abs/2410.16418)|null|
+|**2024-10-21**|**Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives**|Angelo Moroncelli et.al.|[2410.16411](http://arxiv.org/abs/2410.16411)|null|
+|**2024-10-21**|**Exploring how deep learning decodes anomalous diffusion via Grad-CAM**|Jaeyong Bae et.al.|[2410.16345](http://arxiv.org/abs/2410.16345)|null|
 |**2024-10-21**|**Hyperparameter Optimisation in Deep Learning from Ensemble Methods: Applications to Proton Structure**|Juan Cruz-Martinez et.al.|[2410.16248](http://arxiv.org/abs/2410.16248)|null|
 |**2024-10-21**|**Comprehensive benchmarking of large language models for RNA secondary structure prediction**|L. I. Zablocki et.al.|[2410.16212](http://arxiv.org/abs/2410.16212)|**[link](https://github.com/sinc-lab/rna-llm-folding)**|
 |**2024-10-21**|**Systematic Review: Text Processing Algorithms in Machine Learning and Deep Learning for Mental Health Detection on Social Media**|Yuchen Cao et.al.|[2410.16204](http://arxiv.org/abs/2410.16204)|null|
@@ -6446,6 +6482,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**An evaluation of machine learning/molecular mechanics end-state corrections with mechanical embedding to calculate relative protein-ligand binding free energies**|Johannes Karwounopoulos et.al.|[2410.16818](http://arxiv.org/abs/2410.16818)|null|
+|**2024-10-21**|**QuickBind: A Light-Weight And Interpretable Molecular Docking Model**|Wojtek Treyde et.al.|[2410.16474](http://arxiv.org/abs/2410.16474)|null|
 |**2024-10-19**|**DEL-Ranking: Ranking-Correction Denoising Framework for Elucidating Molecular Affinities in DNA-Encoded Libraries**|Hanqun Cao et.al.|[2410.14946](http://arxiv.org/abs/2410.14946)|null|
 |**2024-10-16**|**DeltaDock: A Unified Framework for Accurate, Efficient, and Physically Reliable Molecular Docking**|Jiaxian Yan et.al.|[2410.11224](http://arxiv.org/abs/2410.11224)|**[link](https://github.com/jiaxianyan/DeltaDock)**|
 |**2024-10-10**|**InstructBioMol: Advancing Biomolecule Understanding and Design Following Human Instructions**|Xiang Zhuang et.al.|[2410.07919](http://arxiv.org/abs/2410.07919)|null|
