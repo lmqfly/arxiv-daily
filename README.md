@@ -619,6 +619,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Local stress in cylindrically curved lipid membrane: insights into local versus global lateral fluidity models**|Konstantin V. Pinigin et.al.|[2410.18043](http://arxiv.org/abs/2410.18043)|null|
+|**2024-10-23**|**Advanced simulations with PLUMED: OPES and Machine Learning Collective Variables**|Enrico Trizio et.al.|[2410.18019](http://arxiv.org/abs/2410.18019)|null|
+|**2024-10-23**|**Water cavitation results from the kinetic competition of bulk, surface and surface-defect nucleation events**|Philip Loche et.al.|[2410.17626](http://arxiv.org/abs/2410.17626)|null|
 |**2024-10-21**|**Tunable Crystalline Order and Growth Kinetics in 2D Binary Colloidal Self-assembly Driven by Depletion Interactions**|S. k. Tahmid Shahriar et.al.|[2410.16568](http://arxiv.org/abs/2410.16568)|null|
 |**2024-10-20**|**The Association of Zn $^{2+}$-SO$_4^{2-}$ and Mg$^{2+}$-SO$_4^{2-}$ in Aqueous MgSO$_4$/ZnSO$_4$ Hybrid Electrolytes: Insights from All-Atom Molecular Dynamics Simulations Molecular Dynamics Simulations**|Mayank Dixit et.al.|[2410.15309](http://arxiv.org/abs/2410.15309)|null|
 |**2024-10-18**|**Intrinsic bulk viscosity of the one-component plasma**|Jarett LeVan et.al.|[2410.14813](http://arxiv.org/abs/2410.14813)|null|
@@ -1071,6 +1074,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**CLEAR: Character Unlearning in Textual and Visual Modalities**|Alexey Dontsov et.al.|[2410.18057](http://arxiv.org/abs/2410.18057)|null|
+|**2024-10-23**|**Real time anomalies detection on video**|Fabien Poirier et.al.|[2410.18051](http://arxiv.org/abs/2410.18051)|null|
+|**2024-10-23**|**Deep Nonparametric Inference for Conditional Hazard Function**|Wen Su et.al.|[2410.18021](http://arxiv.org/abs/2410.18021)|null|
+|**2024-10-23**|**Closed-form merging of parameter-efficient modules for Federated Continual Learning**|Riccardo Salami et.al.|[2410.17961](http://arxiv.org/abs/2410.17961)|null|
+|**2024-10-23**|**Deep learning for model correction of dynamical systems with data scarcity**|Caroline Tatsuoka et.al.|[2410.17913](http://arxiv.org/abs/2410.17913)|null|
+|**2024-10-23**|**Leveraging Deep Learning for Time Series Extrinsic Regression in predicting photometric metallicity of Fundamental-mode RR Lyrae Stars**|Lorenzo Monti et.al.|[2410.17906](http://arxiv.org/abs/2410.17906)|**[link](https://github.com/lorenzomonti/metallicity_rrls)**|
+|**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889](http://arxiv.org/abs/2410.17889)|null|
+|**2024-10-23**|**Relaxed Equivariance via Multitask Learning**|Ahmed A. Elhag et.al.|[2410.17878](http://arxiv.org/abs/2410.17878)|null|
+|**2024-10-23**|**The Probabilistic Tsetlin Machine: A Novel Approach to Uncertainty Quantification**|K. Darshana Abeyrathna et.al.|[2410.17851](http://arxiv.org/abs/2410.17851)|null|
+|**2024-10-23**|**Deep Learning for Active Region Classification: A Systematic Study from Convolutional Neural Networks to Vision Transformers**|Edoardo Legnaro et.al.|[2410.17816](http://arxiv.org/abs/2410.17816)|null|
+|**2024-10-23**|**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**|Bingqing Han et.al.|[2410.17815](http://arxiv.org/abs/2410.17815)|null|
+|**2024-10-23**|**Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations**|Qijun Zhang et.al.|[2410.17782](http://arxiv.org/abs/2410.17782)|null|
+|**2024-10-23**|**YOLO-Vehicle-Pro: A Cloud-Edge Collaborative Framework for Object Detection in Autonomous Driving under Adverse Weather Conditions**|Xiguang Li et.al.|[2410.17734](http://arxiv.org/abs/2410.17734)|null|
+|**2024-10-23**|**AutoRNet: Automatically Optimizing Heuristics for Robust Network Design via Large Language Models**|He Yu et.al.|[2410.17656](http://arxiv.org/abs/2410.17656)|null|
+|**2024-10-23**|**Testing Deep Learning Recommender Systems Models on Synthetic GAN-Generated Datasets**|Jesús Bobadilla et.al.|[2410.17651](http://arxiv.org/abs/2410.17651)|null|
+|**2024-10-23**|**Exploring structure diversity in atomic resolution microscopy with graph neural networks**|Zheng Luo et.al.|[2410.17631](http://arxiv.org/abs/2410.17631)|null|
+|**2024-10-23**|**Efficient and Aesthetic UI Design with a Deep Learning-Based Interface Generation Tree Algorithm**|Shiyu Duan et.al.|[2410.17586](http://arxiv.org/abs/2410.17586)|null|
+|**2024-10-23**|**BlurryScope: a cost-effective and compact scanning microscope for automated HER2 scoring using deep learning on blurry image data**|Michael John Fanous et.al.|[2410.17557](http://arxiv.org/abs/2410.17557)|null|
+|**2024-10-23**|**Predicting 30-Day Hospital Readmission in Medicare Patients: Insights from an LSTM Deep Learning Model**|Xintao Li et.al.|[2410.17545](http://arxiv.org/abs/2410.17545)|null|
+|**2024-10-23**|**Unsupervised Low-dose CT Reconstruction with One-way Conditional Normalizing Flows**|Ran An et.al.|[2410.17543](http://arxiv.org/abs/2410.17543)|null|
+|**2024-10-23**|**Bilateral Hippocampi Segmentation in Low Field MRIs Using Mutual Feature Learning via Dual-Views**|Himashi Peiris et.al.|[2410.17502](http://arxiv.org/abs/2410.17502)|**[link](https://github.com/himashi92/lofihippseg)**|
+|**2024-10-23**|**Enhancing Multimodal Medical Image Classification using Cross-Graph Modal Contrastive Learning**|Jun-En Ding et.al.|[2410.17494](http://arxiv.org/abs/2410.17494)|null|
+|**2024-10-23**|**Unsupervised Domain Adaptation for Action Recognition via Self-Ensembling and Conditional Embedding Alignment**|Indrajeet Ghosh et.al.|[2410.17489](http://arxiv.org/abs/2410.17489)|**[link](https://github.com/indrajeetghosh/udar_icdm)**|
+|**2024-10-22**|**Deep Learning Aided Broadcast Codes with Feedback**|Jacqueline Malayter et.al.|[2410.17404](http://arxiv.org/abs/2410.17404)|null|
+|**2024-10-22**|**Efficient Feature Extraction Using Light-Weight CNN Attention-Based Deep Learning Architectures for Ultrasound Fetal Plane Classification**|Arrun Sivasubramanian et.al.|[2410.17396](http://arxiv.org/abs/2410.17396)|null|
+|**2024-10-22**|**PtychoFormer: A Transformer-based Model for Ptychographic Phase Retrieval**|Ryuma Nakahata et.al.|[2410.17377](http://arxiv.org/abs/2410.17377)|null|
+|**2024-10-22**|**On the use of Large Language Models in Model-Driven Engineering**|Juri Di Rocco et.al.|[2410.17370](http://arxiv.org/abs/2410.17370)|null|
+|**2024-10-22**|**DeLLiriuM: A large language model for delirium prediction in the ICU using structured EHR**|Miguel Contreras et.al.|[2410.17363](http://arxiv.org/abs/2410.17363)|null|
+|**2024-10-22**|**EEG-DIF: Early Warning of Epileptic Seizures through Generative Diffusion Model-based Multi-channel EEG Signals Forecasting**|Zekun Jiang et.al.|[2410.17343](http://arxiv.org/abs/2410.17343)|**[link](https://github.com/jzk00/eeg-dif)**|
 |**2024-10-22**|**HyperspectralViTs: Fast and Accurate methane detection on-board satellites**|Vít Růžička et.al.|[2410.17248](http://arxiv.org/abs/2410.17248)|null|
 |**2024-10-22**|**KANICE: Kolmogorov-Arnold Networks with Interactive Convolutional Elements**|Md Meftahul Ferdaus et.al.|[2410.17172](http://arxiv.org/abs/2410.17172)|**[link](https://github.com/m-ferdaus/kanice)**|
 |**2024-10-22**|**Dynamic Glucose Enhanced Imaging using Direct Water Saturation**|Linda Knutsson et.al.|[2410.17119](http://arxiv.org/abs/2410.17119)|null|
