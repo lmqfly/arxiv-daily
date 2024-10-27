@@ -608,7 +608,7 @@ layout: default
 |**2024-10-08**|**Dynamic Heterogeneity of Short Semi-crystalline Polymer Chains during Recrystallization**|Maziar Heidari et.al.|[2410.18093](http://arxiv.org/abs/2410.18093)|null|
 |**2024-10-23**|**Local stress in cylindrically curved lipid membrane: insights into local versus global lateral fluidity models**|Konstantin V. Pinigin et.al.|[2410.18043](http://arxiv.org/abs/2410.18043)|null|
 |**2024-10-23**|**Advanced simulations with PLUMED: OPES and Machine Learning Collective Variables**|Enrico Trizio et.al.|[2410.18019](http://arxiv.org/abs/2410.18019)|null|
-|**2024-10-23**|**Water cavitation results from the kinetic competition of bulk, surface and surface-defect nucleation events**|Philip Loche et.al.|[2410.17626](http://arxiv.org/abs/2410.17626)|null|
+|**2024-10-23**|**Water cavitation results from the kinetic competition of bulk, surface and surface-defect nucleation events**|Philip Loche et.al.|[2410.17626](http://arxiv.org/abs/2410.17626)|**[link](https://github.com/PicoCentauri/cavitation)**|
 |**2024-10-21**|**Tunable Crystalline Order and Growth Kinetics in 2D Binary Colloidal Self-assembly Driven by Depletion Interactions**|S. k. Tahmid Shahriar et.al.|[2410.16568](http://arxiv.org/abs/2410.16568)|null|
 |**2024-10-20**|**The Association of Zn $^{2+}$-SO$_4^{2-}$ and Mg$^{2+}$-SO$_4^{2-}$ in Aqueous MgSO$_4$/ZnSO$_4$ Hybrid Electrolytes: Insights from All-Atom Molecular Dynamics Simulations Molecular Dynamics Simulations**|Mayank Dixit et.al.|[2410.15309](http://arxiv.org/abs/2410.15309)|**[link](https://github.com/mayankmoni/PMF-from-gr)**|
 |**2024-10-18**|**Intrinsic bulk viscosity of the one-component plasma**|Jarett LeVan et.al.|[2410.14813](http://arxiv.org/abs/2410.14813)|null|
@@ -1064,7 +1064,7 @@ layout: default
 |**2024-10-24**|**Adaptive Convolutional Filter for Seismic Noise Attenuation**|Junheng Peng et.al.|[2410.18896](http://arxiv.org/abs/2410.18896)|null|
 |**2024-10-24**|**Multi-Class Abnormality Classification in Video Capsule Endoscopy Using Deep Learning**|Arnav Samal et.al.|[2410.18879](http://arxiv.org/abs/2410.18879)|**[link](https://github.com/arnavs04/capsule-vision-2024)**|
 |**2024-10-24**|**The Cat and Mouse Game: The Ongoing Arms Race Between Diffusion Models and Detection Methods**|Linda Laurier et.al.|[2410.18866](http://arxiv.org/abs/2410.18866)|null|
-|**2024-10-24**|**DL-Polycube: Deep learning enhanced polycube method for high-quality hexahedral mesh generation and volumetric spline construction**|Yuxuan Yu et.al.|[2410.18852](http://arxiv.org/abs/2410.18852)|null|
+|**2024-10-24**|**DL-Polycube: Deep learning enhanced polycube method for high-quality hexahedral mesh generation and volumetric spline construction**|Yuxuan Yu et.al.|[2410.18852](http://arxiv.org/abs/2410.18852)|**[link](https://github.com/cmu-cbml/dl-polycube)**|
 |**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834](http://arxiv.org/abs/2410.18834)|**[link](https://github.com/lab-midas/LAPANet)**|
 |**2024-10-24**|**MazeNet: An Accurate, Fast, and Scalable Deep Learning Solution for Steiner Minimum Trees**|Gabriel Díaz Ramos et.al.|[2410.18832](http://arxiv.org/abs/2410.18832)|null|
 |**2024-10-24**|**A Combinatorial Approach to Neural Emergent Communication**|Zheyuan Zhang et.al.|[2410.18806](http://arxiv.org/abs/2410.18806)|null|
@@ -1072,7 +1072,7 @@ layout: default
 |**2024-10-24**|**WARP-LCA: Efficient Convolutional Sparse Coding with Locally Competitive Algorithm**|Geoffrey Kasenbacher et.al.|[2410.18794](http://arxiv.org/abs/2410.18794)|null|
 |**2024-10-24**|**Cellpose+, a morphological analysis tool for feature extraction of stained cell images**|Israel A. Huaman et.al.|[2410.18738](http://arxiv.org/abs/2410.18738)|null|
 |**2024-10-24**|**Uplink Cell-Free Massive MIMO OFDM with Phase Noise-Aware Channel Estimation: Separate and Shared LOs**|Yibo Wu et.al.|[2410.18722](http://arxiv.org/abs/2410.18722)|null|
-|**2024-10-24**|**Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance**|Mulugeta Weldezgina Asres et.al.|[2410.18717](http://arxiv.org/abs/2410.18717)|null|
+|**2024-10-24**|**Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance**|Mulugeta Weldezgina Asres et.al.|[2410.18717](http://arxiv.org/abs/2410.18717)|**[link](https://github.com/muleina/la3d)**|
 |**2024-10-23**|**Uncovering the Genetic Basis of Glioblastoma Heterogeneity through Multimodal Analysis of Whole Slide Images and RNA Sequencing Data**|Ahmad Berjaoui et.al.|[2410.18710](http://arxiv.org/abs/2410.18710)|null|
 |**2024-10-24**|**Transferring Knowledge from High-Quality to Low-Quality MRI for Adult Glioma Diagnosis**|Yanguang Zhao et.al.|[2410.18698](http://arxiv.org/abs/2410.18698)|null|
 |**2024-10-24**|**Ali-AUG: Innovative Approaches to Labeled Data Augmentation using One-Step Diffusion Model**|Ali Hamza et.al.|[2410.18678](http://arxiv.org/abs/2410.18678)|null|
@@ -1092,9 +1092,9 @@ layout: default
 |**2024-10-24**|**DMVC: Multi-Camera Video Compression Network aimed at Improving Deep Learning Accuracy**|Huan Cui et.al.|[2410.18400](http://arxiv.org/abs/2410.18400)|null|
 |**2024-10-24**|**CloudEye: A New Paradigm of Video Analysis System for Mobile Visual Scenarios**|Huan Cui et.al.|[2410.18399](http://arxiv.org/abs/2410.18399)|null|
 |**2024-10-24**|**Precision Soil Quality Analysis Using Transformer-based Data Fusion Strategies: A Systematic Review**|Mahdi Saki et.al.|[2410.18353](http://arxiv.org/abs/2410.18353)|null|
-|**2024-10-23**|**Self-Supervised Learning for Time Series: A Review & Critique of FITS**|Andreas Løvendahl Eefsen et.al.|[2410.18318](http://arxiv.org/abs/2410.18318)|null|
+|**2024-10-23**|**Self-Supervised Learning for Time Series: A Review & Critique of FITS**|Andreas Løvendahl Eefsen et.al.|[2410.18318](http://arxiv.org/abs/2410.18318)|**[link](https://github.com/thorhojhus/ssl_fts)**|
 |**2024-10-23**|**MsMorph: An Unsupervised pyramid learning network for brain image registration**|Jiaofen Nan et.al.|[2410.18228](http://arxiv.org/abs/2410.18228)|null|
-|**2024-10-23**|**Automated Defect Detection and Grading of Piarom Dates Using Deep Learning**|Nasrin Azimi et.al.|[2410.18208](http://arxiv.org/abs/2410.18208)|**[link](https://github.com/nasrin117/Piarom-datenet)**|
+|**2024-10-23**|**Automated Defect Detection and Grading of Piarom Dates Using Deep Learning**|Nasrin Azimi et.al.|[2410.18208](http://arxiv.org/abs/2410.18208)|null|
 |**2024-10-23**|**Bridging the Diagnostic Divide: Classical Computer Vision and Advanced AI methods for distinguishing ITB and CD through CTE Scans**|Shashwat Gupta et.al.|[2410.18161](http://arxiv.org/abs/2410.18161)|**[link](https://github.com/ShashwatGupta2001/CrohnVsITB)**|
 |**2024-10-23**|**Dreaming Learning**|Alessandro Londei et.al.|[2410.18156](http://arxiv.org/abs/2410.18156)|null|
 |**2024-10-23**|**CLEAR: Character Unlearning in Textual and Visual Modalities**|Alexey Dontsov et.al.|[2410.18057](http://arxiv.org/abs/2410.18057)|null|
@@ -1123,14 +1123,14 @@ layout: default
 |**2024-10-22**|**Deep Learning Aided Broadcast Codes with Feedback**|Jacqueline Malayter et.al.|[2410.17404](http://arxiv.org/abs/2410.17404)|null|
 |**2024-10-22**|**Efficient Feature Extraction Using Light-Weight CNN Attention-Based Deep Learning Architectures for Ultrasound Fetal Plane Classification**|Arrun Sivasubramanian et.al.|[2410.17396](http://arxiv.org/abs/2410.17396)|null|
 |**2024-10-22**|**PtychoFormer: A Transformer-based Model for Ptychographic Phase Retrieval**|Ryuma Nakahata et.al.|[2410.17377](http://arxiv.org/abs/2410.17377)|null|
-|**2024-10-22**|**On the use of Large Language Models in Model-Driven Engineering**|Juri Di Rocco et.al.|[2410.17370](http://arxiv.org/abs/2410.17370)|null|
+|**2024-10-22**|**On the use of Large Language Models in Model-Driven Engineering**|Juri Di Rocco et.al.|[2410.17370](http://arxiv.org/abs/2410.17370)|**[link](https://github.com/MDEGroup/LLM4MDE-Appendix)**|
 |**2024-10-22**|**DeLLiriuM: A large language model for delirium prediction in the ICU using structured EHR**|Miguel Contreras et.al.|[2410.17363](http://arxiv.org/abs/2410.17363)|null|
 |**2024-10-22**|**EEG-DIF: Early Warning of Epileptic Seizures through Generative Diffusion Model-based Multi-channel EEG Signals Forecasting**|Zekun Jiang et.al.|[2410.17343](http://arxiv.org/abs/2410.17343)|**[link](https://github.com/jzk00/eeg-dif)**|
 |**2024-10-24**|**HyperspectralViTs: General Hyperspectral Models for On-board Remote Sensing**|Vít Růžička et.al.|[2410.17248](http://arxiv.org/abs/2410.17248)|null|
 |**2024-10-22**|**KANICE: Kolmogorov-Arnold Networks with Interactive Convolutional Elements**|Md Meftahul Ferdaus et.al.|[2410.17172](http://arxiv.org/abs/2410.17172)|**[link](https://github.com/m-ferdaus/kanice)**|
 |**2024-10-22**|**Dynamic Glucose Enhanced Imaging using Direct Water Saturation**|Linda Knutsson et.al.|[2410.17119](http://arxiv.org/abs/2410.17119)|null|
 |**2024-10-22**|**A Survey on Deep Learning-based Gaze Direction Regression: Searching for the State-of-the-art**|Franko Šikić et.al.|[2410.17082](http://arxiv.org/abs/2410.17082)|null|
-|**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|null|
+|**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|**[link](https://github.com/oxwhirl/pymarl)**|
 |**2024-10-22**|**Multi Kernel Estimation based Object Segmentation**|Haim Goldfisher et.al.|[2410.17064](http://arxiv.org/abs/2410.17064)|**[link](https://github.com/kuty007/multi-kernel-gan)**|
 |**2024-10-22**|**DIRI: Adversarial Patient Reidentification with Large Language Models for Evaluating Clinical Text Anonymization**|John X. Morris et.al.|[2410.17035](http://arxiv.org/abs/2410.17035)|null|
 |**2024-10-22**|**Variational autoencoders stabilise TCN performance when classifying weakly labelled bioacoustics data**|Laia Garrobé Fonollosa et.al.|[2410.17006](http://arxiv.org/abs/2410.17006)|null|
