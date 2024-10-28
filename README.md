@@ -622,6 +622,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Polarizable Water Model with Ab Initio Neural Network Dynamic Charges and Spontaneous Charge Transfer**|Qiujiang Liang et.al.|[2410.19445](http://arxiv.org/abs/2410.19445)|null|
+|**2024-10-24**|**Collective behavior of "flexicles"**|Philipp W. A. Schönhöfer et.al.|[2410.19172](http://arxiv.org/abs/2410.19172)|null|
 |**2024-10-24**|**Diffusion of impurities in a moderately dense confined granular gas**|Rubén Gómez González et.al.|[2410.18874](http://arxiv.org/abs/2410.18874)|null|
 |**2024-10-08**|**Dynamic Heterogeneity of Short Semi-crystalline Polymer Chains during Recrystallization**|Maziar Heidari et.al.|[2410.18093](http://arxiv.org/abs/2410.18093)|null|
 |**2024-10-23**|**Local stress in cylindrically curved lipid membrane: insights into local versus global lateral fluidity models**|Konstantin V. Pinigin et.al.|[2410.18043](http://arxiv.org/abs/2410.18043)|null|
@@ -1079,6 +1081,30 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Arabic Music Classification and Generation using Deep Learning**|Mohamed Elshaarawy et.al.|[2410.19719](http://arxiv.org/abs/2410.19719)|null|
+|**2024-10-25**|**Deep Learning for Classification of Inflammatory Bowel Disease Activity in Whole Slide Images of Colonic Histopathology**|Amit Das et.al.|[2410.19690](http://arxiv.org/abs/2410.19690)|null|
+|**2024-10-25**|**Electromechanical Dynamics of the Heart: A Study of Cardiac Hysteresis During Physical Stress Test**|Sajjad Karimi et.al.|[2410.19667](http://arxiv.org/abs/2410.19667)|null|
+|**2024-10-25**|**Deep learning-based identification of patients at increased risk of cancer using routine laboratory markers**|Vivek Singh et.al.|[2410.19646](http://arxiv.org/abs/2410.19646)|null|
+|**2024-10-25**|**VARS: Vision-based Assessment of Risk in Security Systems**|Pranav Gupta et.al.|[2410.19642](http://arxiv.org/abs/2410.19642)|null|
+|**2024-10-25**|**Toward Generalizable Multiple Sclerosis Lesion Segmentation Models**|Liviu Badea et.al.|[2410.19623](http://arxiv.org/abs/2410.19623)|null|
+|**2024-10-25**|**Microplastic Identification Using AI-Driven Image Segmentation and GAN-Generated Ecological Context**|Alex Dils et.al.|[2410.19604](http://arxiv.org/abs/2410.19604)|null|
+|**2024-10-25**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
+|**2024-10-25**|**Balancing the Scales: Enhancing Fairness in Facial Expression Recognition with Latent Alignment**|Syed Sameen Ahmad Rizvi et.al.|[2410.19444](http://arxiv.org/abs/2410.19444)|null|
+|**2024-10-25**|**Transductive Learning for Near-Duplicate Image Detection in Scanned Photo Collections**|Francesc Net et.al.|[2410.19437](http://arxiv.org/abs/2410.19437)|null|
+|**2024-10-25**|**On the Application of Deep Learning for Precise Indoor Positioning in 6G**|Sai Prasanth Kotturi et.al.|[2410.19436](http://arxiv.org/abs/2410.19436)|null|
+|**2024-10-25**|**Photometric Redshift Estimation for CSST Survey with LSTM Neural Networks**|Zhijian Luo et.al.|[2410.19402](http://arxiv.org/abs/2410.19402)|null|
+|**2024-10-25**|**Analysis of Financial Risk Behavior Prediction Using Deep Learning and Big Data Algorithms**|Haowei Yang et.al.|[2410.19394](http://arxiv.org/abs/2410.19394)|null|
+|**2024-10-25**|**CLAP. I. Resolving miscalibration for deep learning-based galaxy photometric redshift estimation**|Qiufan Lin et.al.|[2410.19390](http://arxiv.org/abs/2410.19390)|**[link](https://github.com/QiufanLin/CLAP-I)**|
+|**2024-10-25**|**DECADE: Towards Designing Efficient-yet-Accurate Distance Estimation Modules for Collision Avoidance in Mobile Advanced Driver Assistance Systems**|Muhammad Zaeem Shahzad et.al.|[2410.19336](http://arxiv.org/abs/2410.19336)|null|
+|**2024-10-25**|**Beyond Point Annotation: A Weakly Supervised Network Guided by Multi-Level Labels Generated from Four-Point Annotation for Thyroid Nodule Segmentation in Ultrasound Image**|Jianning Chi et.al.|[2410.19332](http://arxiv.org/abs/2410.19332)|null|
+|**2024-10-25**|**A Flow-based Truncated Denoising Diffusion Model for Super-resolution Magnetic Resonance Spectroscopic Imaging**|Siyuan Dong et.al.|[2410.19288](http://arxiv.org/abs/2410.19288)|null|
+|**2024-10-25**|**UbiHR: Resource-efficient Long-range Heart Rate Sensing on Ubiquitous Devices**|Haoyu Bian et.al.|[2410.19279](http://arxiv.org/abs/2410.19279)|null|
+|**2024-10-25**|**In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**|Dmytro Humeniuk et.al.|[2410.19277](http://arxiv.org/abs/2410.19277)|null|
+|**2024-10-25**|**Enhancing Exchange Rate Forecasting with Explainable Deep Learning Models**|Shuchen Meng et.al.|[2410.19241](http://arxiv.org/abs/2410.19241)|null|
+|**2024-10-24**|**Predicting Liquidity Coverage Ratio with Gated Recurrent Units: A Deep Learning Model for Risk Management**|Zhen Xu et.al.|[2410.19211](http://arxiv.org/abs/2410.19211)|null|
+|**2024-10-24**|**TEAM: Topological Evolution-aware Framework for Traffic Forecasting--Extended Version**|Duc Kieu et.al.|[2410.19192](http://arxiv.org/abs/2410.19192)|null|
+|**2024-10-24**|**DCT-HistoTransformer: Efficient Lightweight Vision Transformer with DCT Integration for histopathological image analysis**|Mahtab Ranjbar et.al.|[2410.19166](http://arxiv.org/abs/2410.19166)|null|
+|**2024-10-24**|**CapsuleNet: A Deep Learning Model To Classify GI Diseases Using EfficientNet-b7**|Aniket Das et.al.|[2410.19151](http://arxiv.org/abs/2410.19151)|null|
 |**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972](http://arxiv.org/abs/2410.18972)|null|
 |**2024-10-24**|**Modulated Adaptive Fourier Neural Operators for Temporal Interpolation of Weather Forecasts**|Jussi Leinonen et.al.|[2410.18904](http://arxiv.org/abs/2410.18904)|null|
 |**2024-10-24**|**Adaptive Convolutional Filter for Seismic Noise Attenuation**|Junheng Peng et.al.|[2410.18896](http://arxiv.org/abs/2410.18896)|null|
@@ -6579,6 +6605,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Binding memory of liquid molecules**|Shiyi Qin et.al.|[2410.19634](http://arxiv.org/abs/2410.19634)|null|
 |**2024-10-22**|**An evaluation of machine learning/molecular mechanics end-state corrections with mechanical embedding to calculate relative protein-ligand binding free energies**|Johannes Karwounopoulos et.al.|[2410.16818](http://arxiv.org/abs/2410.16818)|null|
 |**2024-10-21**|**QuickBind: A Light-Weight And Interpretable Molecular Docking Model**|Wojtek Treyde et.al.|[2410.16474](http://arxiv.org/abs/2410.16474)|**[link](https://github.com/aqlaboratory/quickbind)**|
 |**2024-10-19**|**DEL-Ranking: Ranking-Correction Denoising Framework for Elucidating Molecular Affinities in DNA-Encoded Libraries**|Hanqun Cao et.al.|[2410.14946](http://arxiv.org/abs/2410.14946)|null|
