@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -311,7 +311,7 @@ layout: default
 |**2024-09-25**|**Closure to the PRISM equation derived from nonlinear response theory**|James P. Donley et.al.|[2407.20392](http://arxiv.org/abs/2407.20392)|null|
 |**2024-07-26**|**Small Molecule Optimization with Large Language Models**|Philipp Guevorguian et.al.|[2407.18897](http://arxiv.org/abs/2407.18897)|**[link](https://github.com/yerevann/chemlactica)**|
 |**2024-07-20**|**Diff4VS: HIV-inhibiting Molecules Generation with Classifier Guidance Diffusion for Virtual Screening**|Jiaqing Lyu et.al.|[2407.15880](http://arxiv.org/abs/2407.15880)|null|
-|**2024-07-19**|**Decomposed Direct Preference Optimization for Structure-Based Drug Design**|Xiwei Cheng et.al.|[2407.13981](http://arxiv.org/abs/2407.13981)|null|
+|**2024-10-28**|**Decomposed Direct Preference Optimization for Structure-Based Drug Design**|Xiwei Cheng et.al.|[2407.13981](http://arxiv.org/abs/2407.13981)|null|
 |**2024-07-16**|**Directly Optimizing for Synthesizability in Generative Molecular Design using Retrosynthesis Models**|Jeff Guo et.al.|[2407.12186](http://arxiv.org/abs/2407.12186)|**[link](https://github.com/schwallergroup/saturn)**|
 |**2024-08-19**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930](http://arxiv.org/abs/2407.07930)|**[link](https://github.com/jkwang93/token-mol)**|
 |**2024-07-05**|**Benchmarking structure-based three-dimensional molecular generative models using GenBench3D: ligand conformation quality matters**|Benoit Baillif et.al.|[2407.04424](http://arxiv.org/abs/2407.04424)|**[link](https://github.com/bbaillif/genbench3d)**|
@@ -1068,7 +1068,7 @@ layout: default
 |**2024-10-25**|**VARS: Vision-based Assessment of Risk in Security Systems**|Pranav Gupta et.al.|[2410.19642](http://arxiv.org/abs/2410.19642)|null|
 |**2024-10-25**|**Toward Generalizable Multiple Sclerosis Lesion Segmentation Models**|Liviu Badea et.al.|[2410.19623](http://arxiv.org/abs/2410.19623)|null|
 |**2024-10-25**|**Microplastic Identification Using AI-Driven Image Segmentation and GAN-Generated Ecological Context**|Alex Dils et.al.|[2410.19604](http://arxiv.org/abs/2410.19604)|null|
-|**2024-10-25**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
+|**2024-10-28**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
 |**2024-10-25**|**Balancing the Scales: Enhancing Fairness in Facial Expression Recognition with Latent Alignment**|Syed Sameen Ahmad Rizvi et.al.|[2410.19444](http://arxiv.org/abs/2410.19444)|null|
 |**2024-10-25**|**Transductive Learning for Near-Duplicate Image Detection in Scanned Photo Collections**|Francesc Net et.al.|[2410.19437](http://arxiv.org/abs/2410.19437)|null|
 |**2024-10-25**|**On the Application of Deep Learning for Precise Indoor Positioning in 6G**|Sai Prasanth Kotturi et.al.|[2410.19436](http://arxiv.org/abs/2410.19436)|null|
@@ -6617,7 +6617,7 @@ layout: default
 |**2024-07-15**|**GraphPrint: Extracting Features from 3D Protein Structure for Drug Target Affinity Prediction**|Amritpal Singh et.al.|[2407.10452](http://arxiv.org/abs/2407.10452)|null|
 |**2024-07-12**|**Modeling Ion-Specific Effects in Polyelectrolyte Brushes: A Modified Poisson-Nernst-Planck Model**|William J Ceely et.al.|[2407.09633](http://arxiv.org/abs/2407.09633)|null|
 |**2024-07-05**|**Benchmarking structure-based three-dimensional molecular generative models using GenBench3D: ligand conformation quality matters**|Benoit Baillif et.al.|[2407.04424](http://arxiv.org/abs/2407.04424)|**[link](https://github.com/bbaillif/genbench3d)**|
-|**2024-07-01**|**Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization**|Siyi Gu et.al.|[2407.01648](http://arxiv.org/abs/2407.01648)|null|
+|**2024-10-27**|**Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization**|Siyi Gu et.al.|[2407.01648](http://arxiv.org/abs/2407.01648)|null|
 |**2024-04-16**|**Multi-objective generative AI for designing novel brain-targeting small molecules**|Ayush Noori et.al.|[2407.00004](http://arxiv.org/abs/2407.00004)|null|
 |**2024-06-26**|**Quantum Resources Required for Binding Affinity Calculations of Amyloid beta**|Matthew Otten et.al.|[2406.18744](http://arxiv.org/abs/2406.18744)|null|
 |**2024-06-13**|**MoleculeCLA: Rethinking Molecular Benchmark via Computational Ligand-Target Binding Analysis**|Shikun Feng et.al.|[2406.17797](http://arxiv.org/abs/2406.17797)|**[link](https://github.com/Zhenger959/MoleculeCLA)**|
@@ -6647,7 +6647,7 @@ layout: default
 |**2024-04-12**|**Ligand Equilibrium Influences Photoluminescence Blinking in CsPbBr3: A Change Point Analysis of Widefield Imaging Data**|Shaun Gallagher et.al.|[2404.08166](http://arxiv.org/abs/2404.08166)|null|
 |**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481](http://arxiv.org/abs/2404.06481)|null|
 |**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
-|**2024-06-26**|**Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization**|Xiangxin Zhou et.al.|[2403.16576](http://arxiv.org/abs/2403.16576)|null|
+|**2024-10-28**|**Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization**|Xiangxin Zhou et.al.|[2403.16576](http://arxiv.org/abs/2403.16576)|null|
 |**2024-03-07**|**DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization**|Xiangxin Zhou et.al.|[2403.13829](http://arxiv.org/abs/2403.13829)|null|
 |**2024-03-19**|**Elucidating the Nature of $π$ -hydrogen Bonding in Liquid Water and Ammonia**|Krystof Brezina et.al.|[2403.12937](http://arxiv.org/abs/2403.12937)|null|
 |**2024-06-26**|**Stabilizing Policy Gradients for Stochastic Differential Equations via Consistency with Perturbation Process**|Xiangxin Zhou et.al.|[2403.04154](http://arxiv.org/abs/2403.04154)|null|
