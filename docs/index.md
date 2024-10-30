@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -171,7 +171,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-24**|**Benchmarking Graph Learning for Drug-Drug Interaction Prediction**|Zhenqian Shen et.al.|[2410.18583](http://arxiv.org/abs/2410.18583)|null|
+|**2024-10-29**|**Benchmarking Graph Learning for Drug-Drug Interaction Prediction**|Zhenqian Shen et.al.|[2410.18583](http://arxiv.org/abs/2410.18583)|null|
 |**2024-10-16**|**Devil in the Tail: A Multi-Modal Framework for Drug-Drug Interaction Prediction in Long Tail Distinction**|Liangwei Nathan Zheng et.al.|[2410.12249](http://arxiv.org/abs/2410.12249)|**[link](https://github.com/IcurasLW/TFMD_Longtailed_DDI)**|
 |**2024-09-09**|**ExDDI: Explaining Drug-Drug Interaction Predictions with Natural Language**|Zhaoyue Sun et.al.|[2409.05592](http://arxiv.org/abs/2409.05592)|null|
 |**2024-08-27**|**RGDA-DDI: Residual graph attention network and dual-attention based framework for drug-drug interaction prediction**|Changjian Zhou et.al.|[2408.15310](http://arxiv.org/abs/2408.15310)|**[link](https://github.com/HPC-NEAU/RGDA-DDI)**|
@@ -327,7 +327,7 @@ layout: default
 |**2024-06-07**|**Variational Flow Matching for Graph Generation**|Floor Eijkelboom et.al.|[2406.04843](http://arxiv.org/abs/2406.04843)|null|
 |**2024-06-06**|**BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**|Artem Zholus et.al.|[2406.03686](http://arxiv.org/abs/2406.03686)|null|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|**[link](https://github.com/MoleculeAI/TAGMol)**|
-|**2024-10-16**|**Pessimistic Backward Policy for GFlowNets**|Hyosoon Jang et.al.|[2405.16012](http://arxiv.org/abs/2405.16012)|null|
+|**2024-10-29**|**Pessimistic Backward Policy for GFlowNets**|Hyosoon Jang et.al.|[2405.16012](http://arxiv.org/abs/2405.16012)|null|
 |**2024-04-04**|**GP-MoLFormer: A Foundation Model For Molecular Generation**|Jerret Ross et.al.|[2405.04912](http://arxiv.org/abs/2405.04912)|null|
 |**2024-07-16**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|**[link](https://github.com/seojin-kim/hi-mol)**|
 |**2024-10-16**|**SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints**|Miruna Cretu et.al.|[2405.01155](http://arxiv.org/abs/2405.01155)|**[link](https://github.com/mirunacrt/synflownet)**|
@@ -444,7 +444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-28**|**Contextual Representation Anchor Network to Alleviate Selection Bias in Few-Shot Drug Discovery**|Ruifeng Li et.al.|[2410.20711](http://arxiv.org/abs/2410.20711)|null|
+|**2024-10-29**|**Contextual Representation Anchor Network to Alleviate Selection Bias in Few-Shot Drug Discovery**|Ruifeng Li et.al.|[2410.20711](http://arxiv.org/abs/2410.20711)|null|
 |**2024-10-24**|**Homomorphism Counts as Structural Encodings for Graph Learning**|Linus Bao et.al.|[2410.18676](http://arxiv.org/abs/2410.18676)|**[link](https://github.com/linusbao/MoSE)**|
 |**2024-10-22**|**Publishing Neural Networks in Drug Discovery Might Compromise Training Data Privacy**|Fabian P. Krüger et.al.|[2410.16975](http://arxiv.org/abs/2410.16975)|null|
 |**2024-10-19**|**Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**|Yinhan He et.al.|[2410.15165](http://arxiv.org/abs/2410.15165)|null|
@@ -1073,7 +1073,7 @@ layout: default
 |**2024-10-28**|**Deep Learning-Based Fatigue Cracks Detection in Bridge Girders using Feature Pyramid Networks**|Jiawei Zhang et.al.|[2410.21175](http://arxiv.org/abs/2410.21175)|null|
 |**2024-10-28**|**KaLDeX: Kalman Filter based Linear Deformable Cross Attention for Retina Vessel Segmentation**|Zhihao Zhao et.al.|[2410.21160](http://arxiv.org/abs/2410.21160)|null|
 |**2024-10-28**|**Retrieval-Enhanced Mutation Mastery: Augmenting Zero-Shot Prediction of Protein Language Model**|Yang Tan et.al.|[2410.21127](http://arxiv.org/abs/2410.21127)|**[link](https://github.com/tyang816/protrem)**|
-|**2024-10-28**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069](http://arxiv.org/abs/2410.21069)|null|
+|**2024-10-29**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069](http://arxiv.org/abs/2410.21069)|null|
 |**2024-10-28**|**Deep Learning the Forecast of Galactic Cosmic-Rays Spectra**|Yi-Lun Du et.al.|[2410.21046](http://arxiv.org/abs/2410.21046)|null|
 |**2024-10-28**|**Breccia and basalt classification of thin sections of Apollo rocks with deep learning**|Freja Thoresen et.al.|[2410.21024](http://arxiv.org/abs/2410.21024)|null|
 |**2024-10-28**|**Informed Deep Abstaining Classifier: Investigating noise-robust training for diagnostic decision support systems**|Helen Schneider et.al.|[2410.21014](http://arxiv.org/abs/2410.21014)|null|
@@ -1092,8 +1092,8 @@ layout: default
 |**2024-10-28**|**A Comparative Study of Multiple Deep Learning Algorithms for Efficient Localization of Bone Joints in the Upper Limbs of Human Body**|Soumalya Bose et.al.|[2410.20639](http://arxiv.org/abs/2410.20639)|**[link](https://github.com/sohambasu07/bonejointslocalization)**|
 |**2024-10-27**|**Detection of adrenal anomalous findings in spinal CT images using multi model graph aggregatio**|Shabalin Carmel et.al.|[2410.20568](http://arxiv.org/abs/2410.20568)|null|
 |**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|null|
-|**2024-10-27**|**Search Wide, Focus Deep: Automated Fetal Brain Extraction with Sparse Training Data**|Javid Dadashkarimi et.al.|[2410.20532](http://arxiv.org/abs/2410.20532)|null|
-|**2024-10-27**|**Fractal and Turbulent Feature Extraction and NFT Label Generation for Pollock Style Migration Paintings Based on VGG19**|Yiquan Wang et.al.|[2410.20519](http://arxiv.org/abs/2410.20519)|null|
+|**2024-10-29**|**Search Wide, Focus Deep: Automated Fetal Brain Extraction with Sparse Training Data**|Javid Dadashkarimi et.al.|[2410.20532](http://arxiv.org/abs/2410.20532)|null|
+|**2024-10-29**|**Fractal and Turbulent Feature Extraction and NFT Label Generation for Pollock Style Migration Paintings Based on VGG19**|Yiquan Wang et.al.|[2410.20519](http://arxiv.org/abs/2410.20519)|**[link](https://github.com/mindspore-lab/models/tree/master/research/arxiv_papers/pollock_vgg19)**|
 |**2024-10-27**|**Efficient Diversity-based Experience Replay for Deep Reinforcement Learning**|Kaiyan Zhao et.al.|[2410.20487](http://arxiv.org/abs/2410.20487)|null|
 |**2024-10-27**|**Unlocking Comics: The AI4VA Dataset for Visual Understanding**|Peter Grönquist et.al.|[2410.20459](http://arxiv.org/abs/2410.20459)|**[link](https://github.com/ivrl/ai4va)**|
 |**2024-10-27**|**Large Scale Raman Spectrum Calculations in Defective 2D Materials using Deep Learning**|Olivier Malenfant-Thuot et.al.|[2410.20417](http://arxiv.org/abs/2410.20417)|null|
