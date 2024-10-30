@@ -287,6 +287,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**A Foundation Model for Chemical Design and Property Prediction**|Feiyang Cai et.al.|[2410.21422](http://arxiv.org/abs/2410.21422)|null|
 |**2024-10-26**|**SAFE setup for generative molecular design**|Yassir El Mesbahi et.al.|[2410.20232](http://arxiv.org/abs/2410.20232)|null|
 |**2024-10-26**|**Chemical Language Model Linker: blending text and molecules with modular adapters**|Yifan Deng et.al.|[2410.20182](http://arxiv.org/abs/2410.20182)|**[link](https://github.com/gitter-lab/chemlml)**|
 |**2024-10-21**|**Generative Design of Functional Metal Complexes Utilizing the Internal Knowledge of Large Language Models**|Jieyu Lu et.al.|[2410.18136](http://arxiv.org/abs/2410.18136)|null|
@@ -444,6 +445,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**Subgraph Aggregation for Out-of-Distribution Generalization on Graphs**|Bowen Liu et.al.|[2410.22228](http://arxiv.org/abs/2410.22228)|null|
 |**2024-10-29**|**Contextual Representation Anchor Network to Alleviate Selection Bias in Few-Shot Drug Discovery**|Ruifeng Li et.al.|[2410.20711](http://arxiv.org/abs/2410.20711)|null|
 |**2024-10-24**|**Homomorphism Counts as Structural Encodings for Graph Learning**|Linus Bao et.al.|[2410.18676](http://arxiv.org/abs/2410.18676)|**[link](https://github.com/linusbao/MoSE)**|
 |**2024-10-22**|**Publishing Neural Networks in Drug Discovery Might Compromise Training Data Privacy**|Fabian P. Krüger et.al.|[2410.16975](http://arxiv.org/abs/2410.16975)|null|
@@ -608,6 +610,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**Inverse Design Method with Enhanced Sampling for Complex Open Crystals: Application to Novel Zeolite Self-Assembly in a Coarse-Grained Model**|Chaohong Wang et.al.|[2410.22111](http://arxiv.org/abs/2410.22111)|null|
+|**2024-10-29**|**Collective Oxygen Transport in Tetragonal Ta $_\mathbf{2}$O$_\mathbf{5}$**|Sung-Hoon Lee et.al.|[2410.22017](http://arxiv.org/abs/2410.22017)|null|
+|**2024-10-28**|**Comment on: "Investigating the time dependence of neutron-proton equilibration using molecular dynamics simulations" by A.Jedele et al: Phys Rev C 107, 024601 (2023)**|Massimo Papa et.al.|[2410.21354](http://arxiv.org/abs/2410.21354)|null|
 |**2024-10-28**|**Inferring the Isotropic-nematic Phase Transition with Generative Machine Learning**|Eric R. Beyerle et.al.|[2410.21034](http://arxiv.org/abs/2410.21034)|null|
 |**2024-10-27**|**Behavior of water and aqueous LiCl solutions confined in cylindrical silica pores: A wide temperature range molecular dynamics simulation study**|Siddharth Gautam et.al.|[2410.20576](http://arxiv.org/abs/2410.20576)|null|
 |**2024-10-27**|**Revealing Molecular Mechanism of Nonmonotonic Relationship between Antifreeze Activity and Chain Length in Polyprolines**|Wentao Yang et.al.|[2410.20447](http://arxiv.org/abs/2410.20447)|null|
@@ -1068,6 +1073,41 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
+|**2024-10-29**|**Effective Guidance for Model Attention with Simple Yes-no Annotations**|Seongmin Lee et.al.|[2410.22312](http://arxiv.org/abs/2410.22312)|null|
+|**2024-10-29**|**Leveraging Recurrent Neural Networks for Predicting Motor Movements from Primate Motor Cortex Neural Recordings**|Yuanxi Wang et.al.|[2410.22283](http://arxiv.org/abs/2410.22283)|null|
+|**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|null|
+|**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|null|
+|**2024-10-29**|**MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation**|Ovais Iqbal Shah et.al.|[2410.22223](http://arxiv.org/abs/2410.22223)|null|
+|**2024-10-29**|**Drone Acoustic Analysis for Predicting Psychoacoustic Annoyance via Artificial Neural Networks**|Andrea Vaiuso et.al.|[2410.22208](http://arxiv.org/abs/2410.22208)|null|
+|**2024-10-29**|**Hyperspectral Imaging-Based Perception in Autonomous Driving Scenarios: Benchmarking Baseline Semantic Segmentation Models**|Imad Ali Shah et.al.|[2410.22101](http://arxiv.org/abs/2410.22101)|null|
+|**2024-10-29**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099](http://arxiv.org/abs/2410.22099)|null|
+|**2024-10-29**|**DINeuro: Distilling Knowledge from 2D Natural Images via Deformable Tubular Transferring Strategy for 3D Neuron Reconstruction**|Yik San Cheng et.al.|[2410.22078](http://arxiv.org/abs/2410.22078)|null|
+|**2024-10-29**|**Mapping the Neuro-Symbolic AI Landscape by Architectures: A Handbook on Augmenting Deep Learning Through Symbolic Reasoning**|Jonathan Feldstein et.al.|[2410.22077](http://arxiv.org/abs/2410.22077)|null|
+|**2024-10-29**|**Bayesian Quantum Neural Network for Renewable-Rich Power Flow with Training Efficiency and Generalization Capability Improvements**|Ziqing Zhu et.al.|[2410.22062](http://arxiv.org/abs/2410.22062)|null|
+|**2024-10-29**|**CHORDONOMICON: A Dataset of 666,000 Songs and their Chord Progressions**|Spyridon Kantarelis et.al.|[2410.22046](http://arxiv.org/abs/2410.22046)|null|
+|**2024-10-29**|**Automated Vulnerability Detection Using Deep Learning Technique**|Guan-Yan Yang et.al.|[2410.21968](http://arxiv.org/abs/2410.21968)|null|
+|**2024-10-29**|**LogSHIELD: A Graph-based Real-time Anomaly Detection Framework using Frequency Analysis**|Krishna Chandra Roy et.al.|[2410.21936](http://arxiv.org/abs/2410.21936)|null|
+|**2024-10-29**|**SCGNet-Stacked Convolution with Gated Recurrent Unit Network for Cyber Network Intrusion Detection and Intrusion Type Classification**|Rajana Akter et.al.|[2410.21873](http://arxiv.org/abs/2410.21873)|null|
+|**2024-10-29**|**Cross-Entropy Is All You Need To Invert the Data Generating Process**|Patrik Reizinger et.al.|[2410.21869](http://arxiv.org/abs/2410.21869)|null|
+|**2024-10-29**|**Enhanced Survival Prediction in Head and Neck Cancer Using Convolutional Block Attention and Multimodal Data Fusion**|Aiman Farooq et.al.|[2410.21831](http://arxiv.org/abs/2410.21831)|null|
+|**2024-10-29**|**DiffusionVel: Multi-Information Integrated Velocity Inversion Using Generative Diffusion Models**|Hao Zhang et.al.|[2410.21776](http://arxiv.org/abs/2410.21776)|null|
+|**2024-10-29**|**Memory-Efficient Point Cloud Registration via Overlapping Region Sampling**|Tomoyasu Shimada et.al.|[2410.21753](http://arxiv.org/abs/2410.21753)|null|
+|**2024-10-29**|**A Dual Adaptive Assignment Approach for Robust Graph-Based Clustering**|Yang Xiang et.al.|[2410.21745](http://arxiv.org/abs/2410.21745)|null|
+|**2024-10-29**|**PACE: Physics Informed Uncertainty Aware Climate Emulator**|Hira Saleem et.al.|[2410.21657](http://arxiv.org/abs/2410.21657)|null|
+|**2024-10-29**|**Fingerprints of Super Resolution Networks**|Jeremy Vonderfecht et.al.|[2410.21653](http://arxiv.org/abs/2410.21653)|null|
+|**2024-10-28**|**Deep Trees for (Un)structured Data: Tractability, Performance, and Interpretability**|Dimitris Bertsimas et.al.|[2410.21595](http://arxiv.org/abs/2410.21595)|null|
+|**2024-10-28**|**Mitigating Gradient Overlap in Deep Residual Networks with Gradient Normalization for Improved Non-Convex Optimization**|Juyoung Yun et.al.|[2410.21564](http://arxiv.org/abs/2410.21564)|null|
+|**2024-10-28**|**Empirical curvelet based Fully Convolutional Network for supervised texture image segmentation**|Yuan Huang et.al.|[2410.21562](http://arxiv.org/abs/2410.21562)|null|
+|**2024-10-28**|**ECMamba: Consolidating Selective State Space Model with Retinex Guidance for Efficient Multiple Exposure Correction**|Wei Dong et.al.|[2410.21535](http://arxiv.org/abs/2410.21535)|**[link](https://github.com/lowlevelai/ecmamba)**|
+|**2024-10-28**|**Deep Learning Methods for the Noniterative Conditional Expectation G-Formula for Causal Inference from Complex Observational Data**|Sophia M Rein et.al.|[2410.21531](http://arxiv.org/abs/2410.21531)|null|
+|**2024-10-28**|**Diagnosis of Knee Osteoarthritis Using Bioimpedance and Deep Learning**|Jamal Al-Nabulsi et.al.|[2410.21512](http://arxiv.org/abs/2410.21512)|null|
+|**2024-10-28**|**Denoising Diffusion Planner: Learning Complex Paths from Low-Quality Demonstrations**|Michiel Nikken et.al.|[2410.21497](http://arxiv.org/abs/2410.21497)|null|
+|**2024-10-28**|**Constrained Transformer-Based Porous Media Generation to Spatial Distribution of Rock Properties**|Zihan Ren et.al.|[2410.21462](http://arxiv.org/abs/2410.21462)|null|
+|**2024-10-28**|**A Temporal Linear Network for Time Series Forecasting**|Remi Genet et.al.|[2410.21448](http://arxiv.org/abs/2410.21448)|null|
+|**2024-10-27**|**Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness**|Qi Zhang et.al.|[2410.21331](http://arxiv.org/abs/2410.21331)|null|
+|**2024-10-27**|**Self-Supervised Learning and Opportunistic Inference for Continuous Monitoring of Freezing of Gait in Parkinson's Disease**|Shovito Barua Soumma et.al.|[2410.21326](http://arxiv.org/abs/2410.21326)|null|
+|**2024-10-25**|**Towards Robust Out-of-Distribution Generalization: Data Augmentation and Neural Architecture Search Approaches**|Haoyue Bai et.al.|[2410.21313](http://arxiv.org/abs/2410.21313)|null|
 |**2024-10-28**|**Modular Duality in Deep Learning**|Jeremy Bernstein et.al.|[2410.21265](http://arxiv.org/abs/2410.21265)|null|
 |**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262](http://arxiv.org/abs/2410.21262)|**[link](https://github.com/changwoolee/blast)**|
 |**2024-10-28**|**Deep Learning-Based Fatigue Cracks Detection in Bridge Girders using Feature Pyramid Networks**|Jiawei Zhang et.al.|[2410.21175](http://arxiv.org/abs/2410.21175)|null|
