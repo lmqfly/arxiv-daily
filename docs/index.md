@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.31
+## Updated on 2024.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1090,7 +1090,7 @@ layout: default
 |**2024-10-30**|**SFA-UNet: More Attention to Multi-Scale Contrast and Contextual Information in Infrared Small Object Segmentation**|Imad Ali Shah et.al.|[2410.22881](http://arxiv.org/abs/2410.22881)|**[link](https://github.com/imadalishah/sfa_unet)**|
 |**2024-10-30**|**Unfolding Target Detection with State Space Model**|Luca Jiang-Tao Yu et.al.|[2410.22774](http://arxiv.org/abs/2410.22774)|**[link](https://github.com/aiot-lab/neurodet)**|
 |**2024-10-30**|**Analysis of Classifier Training on Synthetic Data for Cross-Domain Datasets**|Andoni Cortés et.al.|[2410.22748](http://arxiv.org/abs/2410.22748)|null|
-|**2024-10-30**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
+|**2024-10-31**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
 |**2024-10-30**|**Dynamic PET Image Prediction Using a Network Combining Reversible and Irreversible Modules**|Jie Sun et.al.|[2410.22674](http://arxiv.org/abs/2410.22674)|null|
 |**2024-10-30**|**A Walsh Hadamard Derived Linear Vector Symbolic Architecture**|Mohammad Mahmudul Alam et.al.|[2410.22669](http://arxiv.org/abs/2410.22669)|null|
 |**2024-10-30**|**Efficient Feature Extraction and Classification Architecture for MRI-Based Brain Tumor Detection**|Plabon Paul et.al.|[2410.22619](http://arxiv.org/abs/2410.22619)|null|
@@ -1110,7 +1110,7 @@ layout: default
 |**2024-10-29**|**MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation**|Ovais Iqbal Shah et.al.|[2410.22223](http://arxiv.org/abs/2410.22223)|null|
 |**2024-10-29**|**Drone Acoustic Analysis for Predicting Psychoacoustic Annoyance via Artificial Neural Networks**|Andrea Vaiuso et.al.|[2410.22208](http://arxiv.org/abs/2410.22208)|null|
 |**2024-10-29**|**Hyperspectral Imaging-Based Perception in Autonomous Driving Scenarios: Benchmarking Baseline Semantic Segmentation Models**|Imad Ali Shah et.al.|[2410.22101](http://arxiv.org/abs/2410.22101)|null|
-|**2024-10-29**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099](http://arxiv.org/abs/2410.22099)|null|
+|**2024-10-30**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099](http://arxiv.org/abs/2410.22099)|null|
 |**2024-10-29**|**DINeuro: Distilling Knowledge from 2D Natural Images via Deformable Tubular Transferring Strategy for 3D Neuron Reconstruction**|Yik San Cheng et.al.|[2410.22078](http://arxiv.org/abs/2410.22078)|null|
 |**2024-10-29**|**Mapping the Neuro-Symbolic AI Landscape by Architectures: A Handbook on Augmenting Deep Learning Through Symbolic Reasoning**|Jonathan Feldstein et.al.|[2410.22077](http://arxiv.org/abs/2410.22077)|null|
 |**2024-10-29**|**Bayesian Quantum Neural Network for Renewable-Rich Power Flow with Training Efficiency and Generalization Capability Improvements**|Ziqing Zhu et.al.|[2410.22062](http://arxiv.org/abs/2410.22062)|null|
@@ -1159,7 +1159,7 @@ layout: default
 |**2024-10-28**|**Interpretable Image Classification with Adaptive Prototype-based Vision Transformers**|Chiyu Ma et.al.|[2410.20722](http://arxiv.org/abs/2410.20722)|**[link](https://github.com/Henrymachiyu/ProtoViT)**|
 |**2024-10-28**|**KANsformer for Scalable Beamforming**|Xinke Xie et.al.|[2410.20690](http://arxiv.org/abs/2410.20690)|null|
 |**2024-10-28**|**A Comparative Study of Multiple Deep Learning Algorithms for Efficient Localization of Bone Joints in the Upper Limbs of Human Body**|Soumalya Bose et.al.|[2410.20639](http://arxiv.org/abs/2410.20639)|**[link](https://github.com/sohambasu07/bonejointslocalization)**|
-|**2024-10-27**|**Detection of adrenal anomalous findings in spinal CT images using multi model graph aggregatio**|Shabalin Carmel et.al.|[2410.20568](http://arxiv.org/abs/2410.20568)|null|
+|**2024-10-31**|**Detection of adrenal anomalous findings in spinal CT images using multi model graph aggregation**|Shabalin Carmel et.al.|[2410.20568](http://arxiv.org/abs/2410.20568)|null|
 |**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|**[link](https://github.com/idiosyncracies/Sebica)**|
 |**2024-10-29**|**Search Wide, Focus Deep: Automated Fetal Brain Extraction with Sparse Training Data**|Javid Dadashkarimi et.al.|[2410.20532](http://arxiv.org/abs/2410.20532)|**[link](https://github.com/dadashkarimi/cascade)**|
 |**2024-10-29**|**Fractal and Turbulent Feature Extraction and NFT Label Generation for Pollock Style Migration Paintings Based on VGG19**|Yiquan Wang et.al.|[2410.20519](http://arxiv.org/abs/2410.20519)|**[link](https://github.com/mindspore-lab/models/tree/master/research/arxiv_papers/pollock_vgg19)**|
@@ -6799,7 +6799,7 @@ layout: default
 |**2024-03-05**|**Drug resistance revealed by in silico deep mutational scanning and mutation tracker**|Dong Chen et.al.|[2403.02603](http://arxiv.org/abs/2403.02603)|**[link](https://github.com/weilabmsu/plformer)**|
 |**2024-03-02**|**A Bayesian Committee Machine Potential for Oxygen-containing Organic Compounds**|Seungwon Kim et.al.|[2403.01158](http://arxiv.org/abs/2403.01158)|null|
 |**2024-01-15**|**Binding-Adaptive Diffusion Models for Structure-Based Drug Design**|Zhilin Huang et.al.|[2402.18583](http://arxiv.org/abs/2402.18583)|**[link](https://github.com/yangling0818/binddm)**|
-|**2024-02-27**|**Dual-Space Optimization: Improved Molecule Sequence Design by Latent Prompt Transformer**|Deqian Kong et.al.|[2402.17179](http://arxiv.org/abs/2402.17179)|null|
+|**2024-10-31**|**Molecule Design by Latent Prompt Transformer**|Deqian Kong et.al.|[2402.17179](http://arxiv.org/abs/2402.17179)|null|
 |**2024-10-30**|**Full-Atom Peptide Design with Geometric Latent Diffusion**|Xiangzhe Kong et.al.|[2402.13555](http://arxiv.org/abs/2402.13555)|null|
 |**2024-02-20**|**Equivariant Pretrained Transformer for Unified Geometric Learning on Multi-Domain 3D Molecules**|Rui Jiao et.al.|[2402.12714](http://arxiv.org/abs/2402.12714)|null|
 |**2024-02-21**|**Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge**|Yufei Huang et.al.|[2402.11459](http://arxiv.org/abs/2402.11459)|null|
