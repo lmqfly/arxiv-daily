@@ -301,6 +301,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Diffusion Twigs with Loop Guidance for Conditional Graph Generation**|Giangiacomo Mercatali et.al.|[2410.24012](http://arxiv.org/abs/2410.24012)|**[link](https://github.com/aalto-quml/diffusion_twigs)**|
 |**2024-10-28**|**A Foundation Model for Chemical Design and Property Prediction**|Feiyang Cai et.al.|[2410.21422](http://arxiv.org/abs/2410.21422)|null|
 |**2024-10-26**|**SAFE setup for generative molecular design**|Yassir El Mesbahi et.al.|[2410.20232](http://arxiv.org/abs/2410.20232)|null|
 |**2024-10-26**|**Chemical Language Model Linker: blending text and molecules with modular adapters**|Yifan Deng et.al.|[2410.20182](http://arxiv.org/abs/2410.20182)|**[link](https://github.com/gitter-lab/chemlml)**|
@@ -628,6 +629,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Learning Macroscopic Dynamics from Partial Microscopic Observations**|Mengyi Chen et.al.|[2410.23938](http://arxiv.org/abs/2410.23938)|null|
+|**2024-10-31**|**Performance of the MACE-MP-0 potential for calculating viscosity in LiF molten salt**|Harvey L. Devereux et.al.|[2410.23679](http://arxiv.org/abs/2410.23679)|null|
 |**2024-10-30**|**Mesoscopic modelling of bio-compatible PLGA polymers with coarse-grained molecular dynamics simulations**|Francesco Maria Bellussi et.al.|[2410.22836](http://arxiv.org/abs/2410.22836)|null|
 |**2024-10-29**|**Orb: A Fast, Scalable Neural Network Potential**|Mark Neumann et.al.|[2410.22570](http://arxiv.org/abs/2410.22570)|null|
 |**2024-10-29**|**Inverse Design Method with Enhanced Sampling for Complex Open Crystals: Application to Novel Zeolite Self-Assembly in a Coarse-Grained Model**|Chaohong Wang et.al.|[2410.22111](http://arxiv.org/abs/2410.22111)|null|
@@ -1095,6 +1098,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220](http://arxiv.org/abs/2410.24220)|null|
+|**2024-10-31**|**CaAdam: Improving Adam optimizer using connection aware methods**|Remi Genet et.al.|[2410.24216](http://arxiv.org/abs/2410.24216)|null|
+|**2024-10-31**|**TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling**|Yury Gorishniy et.al.|[2410.24210](http://arxiv.org/abs/2410.24210)|**[link](https://github.com/yandex-research/tabm)**|
+|**2024-10-31**|**Understanding Optimization in Deep Learning with Central Flows**|Jeremy M. Cohen et.al.|[2410.24206](http://arxiv.org/abs/2410.24206)|null|
+|**2024-10-31**|**Generative modelling for mass-mapping with fast uncertainty quantification**|Jessica J. Whitney et.al.|[2410.24197](http://arxiv.org/abs/2410.24197)|null|
+|**2024-10-31**|**Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**|Nouar AlDahoul et.al.|[2410.24148](http://arxiv.org/abs/2410.24148)|null|
+|**2024-10-31**|**In-Context Fine-Tuning for Time-Series Foundation Models**|Abhimanyu Das et.al.|[2410.24087](http://arxiv.org/abs/2410.24087)|null|
+|**2024-10-31**|**Advanced Predictive Quality Assessment for Ultrasonic Additive Manufacturing with Deep Learning Model**|Lokendra Poudel et.al.|[2410.24055](http://arxiv.org/abs/2410.24055)|null|
+|**2024-10-31**|**Deep Learning with HM-VGG: AI Strategies for Multi-modal Image Analysis**|Junliang Du et.al.|[2410.24046](http://arxiv.org/abs/2410.24046)|null|
+|**2024-10-31**|**Assessing the Efficacy of Classical and Deep Neuroimaging Biomarkers in Early Alzheimer's Disease Diagnosis**|Milla E. Nielsen et.al.|[2410.24002](http://arxiv.org/abs/2410.24002)|null|
+|**2024-10-31**|**Localization, balance and affinity: a stronger multifaceted collaborative salient object detector in remote sensing images**|Yakun Xie et.al.|[2410.23991](http://arxiv.org/abs/2410.23991)|null|
+|**2024-10-31**|**Simultaneous Control of Human Hand Joint Positions and Grip Force via HD-EMG and Deep Learning**|Farnaz Rahimi et.al.|[2410.23986](http://arxiv.org/abs/2410.23986)|null|
+|**2024-10-31**|**Deep Learning Frameworks for Cognitive Radio Networks: Review and Open Research Challenges**|Senthil Kumar Jagatheesaperumal et.al.|[2410.23949](http://arxiv.org/abs/2410.23949)|null|
+|**2024-10-31**|**Evaluating and Improving ChatGPT-Based Expansion of Abbreviations**|Yanjie Jiang et.al.|[2410.23866](http://arxiv.org/abs/2410.23866)|null|
+|**2024-10-31**|**Counterfactual MRI Data Augmentation using Conditional Denoising Diffusion Generative Models**|Pedro Morão et.al.|[2410.23835](http://arxiv.org/abs/2410.23835)|**[link](https://github.com/pedromorao/counterfactual-mri-data-augmentation)**|
+|**2024-10-31**|**Open-Set 3D object detection in LiDAR data as an Out-of-Distribution problem**|Louis Soum-Fontez et.al.|[2410.23767](http://arxiv.org/abs/2410.23767)|null|
+|**2024-10-31**|**EchoNarrator: Generating natural text explanations for ejection fraction predictions**|Sarina Thomas et.al.|[2410.23744](http://arxiv.org/abs/2410.23744)|null|
+|**2024-10-31**|**MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation**|Yufeng Jiang et.al.|[2410.23738](http://arxiv.org/abs/2410.23738)|null|
+|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690](http://arxiv.org/abs/2410.23690)|null|
+|**2024-10-31**|**Disentangling Interpretable Factors with Supervised Independent Subspace Principal Component Analysis**|Jiayu Su et.al.|[2410.23595](http://arxiv.org/abs/2410.23595)|null|
+|**2024-10-31**|**End-to-End Ontology Learning with Large Language Models**|Andy Lo et.al.|[2410.23584](http://arxiv.org/abs/2410.23584)|**[link](https://github.com/andylolu2/ollm)**|
+|**2024-10-30**|**Generative forecasting of brain activity enhances Alzheimer's classification and interpretation**|Yutong Gao et.al.|[2410.23515](http://arxiv.org/abs/2410.23515)|null|
+|**2024-10-30**|**Neural spell-checker: Beyond words with synthetic data generation**|Matej Klemen et.al.|[2410.23514](http://arxiv.org/abs/2410.23514)|null|
+|**2024-10-30**|**Tangent Space Causal Inference: Leveraging Vector Fields for Causal Discovery in Dynamical Systems**|Kurt Butler et.al.|[2410.23499](http://arxiv.org/abs/2410.23499)|**[link](https://github.com/KurtButler/tangentspaces)**|
+|**2024-10-30**|**The Transformative Impact of AI and Deep Learning in Business: A Literature Review**|Fabio S. Dias et.al.|[2410.23443](http://arxiv.org/abs/2410.23443)|null|
+|**2024-10-30**|**TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes**|Alessandro D'Amelio et.al.|[2410.23409](http://arxiv.org/abs/2410.23409)|**[link](https://github.com/phuselab/tppgaze)**|
+|**2024-10-30**|**STIED: A deep learning model for the SpatioTemporal detection of focal Interictal Epileptiform Discharges with MEG**|Raquel Fernández-Martín et.al.|[2410.23386](http://arxiv.org/abs/2410.23386)|null|
+|**2024-10-30**|**Tightening convex relaxations of trained neural networks: a unified approach for convex and S-shaped activations**|Pablo Carrasco et.al.|[2410.23362](http://arxiv.org/abs/2410.23362)|null|
+|**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
+|**2024-10-30**|**Deep learning meets tree phenology modeling: PhenoFormer vs. process-based models**|Vivien Sainte Fare Garnot et.al.|[2410.23327](http://arxiv.org/abs/2410.23327)|null|
+|**2024-10-30**|**Transfer Learning in Vocal Education: Technical Evaluation of Limited Samples Describing Mezzo-soprano**|Zhenyi Hou et.al.|[2410.23325](http://arxiv.org/abs/2410.23325)|null|
+|**2024-10-30**|**Beyond Current Boundaries: Integrating Deep Learning and AlphaFold for Enhanced Protein Structure Prediction from Low-Resolution Cryo-EM Maps**|Xin et.al.|[2410.23321](http://arxiv.org/abs/2410.23321)|null|
+|**2024-10-29**|**Improved Patch Denoising Diffusion Probabilistic Models for Magnetic Resonance Fingerprinting**|Perla Mayo et.al.|[2410.23318](http://arxiv.org/abs/2410.23318)|null|
 |**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|null|
 |**2024-10-30**|**Classically studied coherent structures only paint a partial picture of wall-bounded turbulence**|Andrés Cremades et.al.|[2410.23189](http://arxiv.org/abs/2410.23189)|null|
 |**2024-10-30**|**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**|Chiu-Wai Yan et.al.|[2410.23159](http://arxiv.org/abs/2410.23159)|**[link](https://github.com/argenycw/facl)**|
