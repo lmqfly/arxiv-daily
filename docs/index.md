@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -614,11 +614,11 @@ layout: default
 |**2024-10-31**|**Learning Macroscopic Dynamics from Partial Microscopic Observations**|Mengyi Chen et.al.|[2410.23938](http://arxiv.org/abs/2410.23938)|null|
 |**2024-10-31**|**Performance of the MACE-MP-0 potential for calculating viscosity in LiF molten salt**|Harvey L. Devereux et.al.|[2410.23679](http://arxiv.org/abs/2410.23679)|null|
 |**2024-10-30**|**Mesoscopic modelling of bio-compatible PLGA polymers with coarse-grained molecular dynamics simulations**|Francesco Maria Bellussi et.al.|[2410.22836](http://arxiv.org/abs/2410.22836)|null|
-|**2024-10-29**|**Orb: A Fast, Scalable Neural Network Potential**|Mark Neumann et.al.|[2410.22570](http://arxiv.org/abs/2410.22570)|null|
+|**2024-10-29**|**Orb: A Fast, Scalable Neural Network Potential**|Mark Neumann et.al.|[2410.22570](http://arxiv.org/abs/2410.22570)|**[link](https://github.com/orbital-materials/orb-models)**|
 |**2024-10-29**|**Inverse Design Method with Enhanced Sampling for Complex Open Crystals: Application to Novel Zeolite Self-Assembly in a Coarse-Grained Model**|Chaohong Wang et.al.|[2410.22111](http://arxiv.org/abs/2410.22111)|null|
 |**2024-10-29**|**Collective Oxygen Transport in Tetragonal Ta $_\mathbf{2}$O$_\mathbf{5}$**|Sung-Hoon Lee et.al.|[2410.22017](http://arxiv.org/abs/2410.22017)|null|
 |**2024-10-28**|**Comment on: "Investigating the time dependence of neutron-proton equilibration using molecular dynamics simulations" by A.Jedele et al: Phys Rev C 107, 024601 (2023)**|Massimo Papa et.al.|[2410.21354](http://arxiv.org/abs/2410.21354)|null|
-|**2024-10-28**|**Inferring the Isotropic-nematic Phase Transition with Generative Machine Learning**|Eric R. Beyerle et.al.|[2410.21034](http://arxiv.org/abs/2410.21034)|null|
+|**2024-10-28**|**Inferring the Isotropic-nematic Phase Transition with Generative Machine Learning**|Eric R. Beyerle et.al.|[2410.21034](http://arxiv.org/abs/2410.21034)|**[link](https://github.com/erb24/thermomaps-gayberne)**|
 |**2024-10-27**|**Behavior of water and aqueous LiCl solutions confined in cylindrical silica pores: A wide temperature range molecular dynamics simulation study**|Siddharth Gautam et.al.|[2410.20576](http://arxiv.org/abs/2410.20576)|null|
 |**2024-10-27**|**Revealing Molecular Mechanism of Nonmonotonic Relationship between Antifreeze Activity and Chain Length in Polyprolines**|Wentao Yang et.al.|[2410.20447](http://arxiv.org/abs/2410.20447)|null|
 |**2024-10-25**|**Polarizable Water Model with Ab Initio Neural Network Dynamic Charges and Spontaneous Charge Transfer**|Qiujiang Liang et.al.|[2410.19445](http://arxiv.org/abs/2410.19445)|null|
@@ -1079,7 +1079,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220](http://arxiv.org/abs/2410.24220)|null|
-|**2024-10-31**|**CaAdam: Improving Adam optimizer using connection aware methods**|Remi Genet et.al.|[2410.24216](http://arxiv.org/abs/2410.24216)|null|
+|**2024-10-31**|**CaAdam: Improving Adam optimizer using connection aware methods**|Remi Genet et.al.|[2410.24216](http://arxiv.org/abs/2410.24216)|**[link](https://github.com/remigenet/Caadam)**|
 |**2024-10-31**|**TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling**|Yury Gorishniy et.al.|[2410.24210](http://arxiv.org/abs/2410.24210)|**[link](https://github.com/yandex-research/tabm)**|
 |**2024-10-31**|**Understanding Optimization in Deep Learning with Central Flows**|Jeremy M. Cohen et.al.|[2410.24206](http://arxiv.org/abs/2410.24206)|null|
 |**2024-10-31**|**Generative modelling for mass-mapping with fast uncertainty quantification**|Jessica J. Whitney et.al.|[2410.24197](http://arxiv.org/abs/2410.24197)|null|
@@ -1097,10 +1097,10 @@ layout: default
 |**2024-10-31**|**EchoNarrator: Generating natural text explanations for ejection fraction predictions**|Sarina Thomas et.al.|[2410.23744](http://arxiv.org/abs/2410.23744)|null|
 |**2024-10-31**|**MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation**|Yufeng Jiang et.al.|[2410.23738](http://arxiv.org/abs/2410.23738)|null|
 |**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690](http://arxiv.org/abs/2410.23690)|null|
-|**2024-10-31**|**Disentangling Interpretable Factors with Supervised Independent Subspace Principal Component Analysis**|Jiayu Su et.al.|[2410.23595](http://arxiv.org/abs/2410.23595)|null|
+|**2024-10-31**|**Disentangling Interpretable Factors with Supervised Independent Subspace Principal Component Analysis**|Jiayu Su et.al.|[2410.23595](http://arxiv.org/abs/2410.23595)|**[link](https://github.com/JiayuSuPKU/sispca)**|
 |**2024-10-31**|**End-to-End Ontology Learning with Large Language Models**|Andy Lo et.al.|[2410.23584](http://arxiv.org/abs/2410.23584)|**[link](https://github.com/andylolu2/ollm)**|
 |**2024-10-30**|**Generative forecasting of brain activity enhances Alzheimer's classification and interpretation**|Yutong Gao et.al.|[2410.23515](http://arxiv.org/abs/2410.23515)|null|
-|**2024-10-30**|**Neural spell-checker: Beyond words with synthetic data generation**|Matej Klemen et.al.|[2410.23514](http://arxiv.org/abs/2410.23514)|null|
+|**2024-10-30**|**Neural spell-checker: Beyond words with synthetic data generation**|Matej Klemen et.al.|[2410.23514](http://arxiv.org/abs/2410.23514)|**[link](https://github.com/matejklemen/slonspell)**|
 |**2024-10-30**|**Tangent Space Causal Inference: Leveraging Vector Fields for Causal Discovery in Dynamical Systems**|Kurt Butler et.al.|[2410.23499](http://arxiv.org/abs/2410.23499)|**[link](https://github.com/KurtButler/tangentspaces)**|
 |**2024-10-30**|**The Transformative Impact of AI and Deep Learning in Business: A Literature Review**|Fabio S. Dias et.al.|[2410.23443](http://arxiv.org/abs/2410.23443)|null|
 |**2024-10-30**|**TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes**|Alessandro D'Amelio et.al.|[2410.23409](http://arxiv.org/abs/2410.23409)|**[link](https://github.com/phuselab/tppgaze)**|
@@ -1111,7 +1111,7 @@ layout: default
 |**2024-10-30**|**Transfer Learning in Vocal Education: Technical Evaluation of Limited Samples Describing Mezzo-soprano**|Zhenyi Hou et.al.|[2410.23325](http://arxiv.org/abs/2410.23325)|null|
 |**2024-10-30**|**Beyond Current Boundaries: Integrating Deep Learning and AlphaFold for Enhanced Protein Structure Prediction from Low-Resolution Cryo-EM Maps**|Xin et.al.|[2410.23321](http://arxiv.org/abs/2410.23321)|null|
 |**2024-10-29**|**Improved Patch Denoising Diffusion Probabilistic Models for Magnetic Resonance Fingerprinting**|Perla Mayo et.al.|[2410.23318](http://arxiv.org/abs/2410.23318)|null|
-|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|null|
+|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|**[link](https://github.com/ai-med/diamond)**|
 |**2024-10-30**|**Classically studied coherent structures only paint a partial picture of wall-bounded turbulence**|Andrés Cremades et.al.|[2410.23189](http://arxiv.org/abs/2410.23189)|null|
 |**2024-10-30**|**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**|Chiu-Wai Yan et.al.|[2410.23159](http://arxiv.org/abs/2410.23159)|**[link](https://github.com/argenycw/facl)**|
 |**2024-10-30**|**Nested ResNet: A Vision-Based Method for Detecting the Sensing Area of a Drop-in Gamma Probe**|Songyu Xu et.al.|[2410.23154](http://arxiv.org/abs/2410.23154)|null|
@@ -1121,7 +1121,7 @@ layout: default
 |**2024-10-30**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
 |**2024-10-30**|**Legitimate ground-truth-free metrics for deep uncertainty classification scoring**|Arthur Pignet et.al.|[2410.23046](http://arxiv.org/abs/2410.23046)|null|
 |**2024-10-30**|**Higher-order Cross-structural Embedding Model for Time Series Analysis**|Guancen Lin et.al.|[2410.22984](http://arxiv.org/abs/2410.22984)|null|
-|**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|null|
+|**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|**[link](https://github.com/sunshangquan/EnsIR)**|
 |**2024-10-30**|**YOLOv11 for Vehicle Detection: Advancements, Performance, and Applications in Intelligent Transportation Systems**|Mujadded Al Rabbani Alif et.al.|[2410.22898](http://arxiv.org/abs/2410.22898)|null|
 |**2024-10-30**|**SFA-UNet: More Attention to Multi-Scale Contrast and Contextual Information in Infrared Small Object Segmentation**|Imad Ali Shah et.al.|[2410.22881](http://arxiv.org/abs/2410.22881)|**[link](https://github.com/imadalishah/sfa_unet)**|
 |**2024-10-30**|**Unfolding Target Detection with State Space Model**|Luca Jiang-Tao Yu et.al.|[2410.22774](http://arxiv.org/abs/2410.22774)|**[link](https://github.com/aiot-lab/neurodet)**|
@@ -1132,7 +1132,7 @@ layout: default
 |**2024-10-30**|**Efficient Feature Extraction and Classification Architecture for MRI-Based Brain Tumor Detection**|Plabon Paul et.al.|[2410.22619](http://arxiv.org/abs/2410.22619)|null|
 |**2024-10-29**|**Performance of the Segment Anything Model in Various RFI/Events Detection in Radio Astronomy**|Yanbin Yang et.al.|[2410.22497](http://arxiv.org/abs/2410.22497)|null|
 |**2024-10-29**|**AI-assisted Agile Propagation Modeling for Real-time Digital Twin Wireless Networks**|Ali Saeizadeh et.al.|[2410.22437](http://arxiv.org/abs/2410.22437)|null|
-|**2024-10-29**|**Power side-channel leakage localization through adversarial training of deep neural networks**|Jimmy Gammell et.al.|[2410.22425](http://arxiv.org/abs/2410.22425)|null|
+|**2024-10-29**|**Power side-channel leakage localization through adversarial training of deep neural networks**|Jimmy Gammell et.al.|[2410.22425](http://arxiv.org/abs/2410.22425)|**[link](https://github.com/jimgammell/gan_side_channel_leakage_detector)**|
 |**2024-10-29**|**Gradient Distance Function**|Hieu Le et.al.|[2410.22422](http://arxiv.org/abs/2410.22422)|null|
 |**2024-10-29**|**Discovering Multi-omic Biomarkers for Prostate Cancer Severity Using Machine Learning**|Jefferson Zhou et.al.|[2410.22387](http://arxiv.org/abs/2410.22387)|null|
 |**2024-10-29**|**Exploiting Semantic Scene Reconstruction for Estimating Building Envelope Characteristics**|Chenghao Xu et.al.|[2410.22383](http://arxiv.org/abs/2410.22383)|null|
@@ -1146,7 +1146,7 @@ layout: default
 |**2024-10-29**|**MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation**|Ovais Iqbal Shah et.al.|[2410.22223](http://arxiv.org/abs/2410.22223)|null|
 |**2024-10-29**|**Drone Acoustic Analysis for Predicting Psychoacoustic Annoyance via Artificial Neural Networks**|Andrea Vaiuso et.al.|[2410.22208](http://arxiv.org/abs/2410.22208)|null|
 |**2024-10-29**|**Hyperspectral Imaging-Based Perception in Autonomous Driving Scenarios: Benchmarking Baseline Semantic Segmentation Models**|Imad Ali Shah et.al.|[2410.22101](http://arxiv.org/abs/2410.22101)|null|
-|**2024-10-30**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099](http://arxiv.org/abs/2410.22099)|null|
+|**2024-10-30**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099](http://arxiv.org/abs/2410.22099)|**[link](https://github.com/slicerdmri/tractshapenet)**|
 |**2024-10-29**|**DINeuro: Distilling Knowledge from 2D Natural Images via Deformable Tubular Transferring Strategy for 3D Neuron Reconstruction**|Yik San Cheng et.al.|[2410.22078](http://arxiv.org/abs/2410.22078)|null|
 |**2024-10-29**|**Mapping the Neuro-Symbolic AI Landscape by Architectures: A Handbook on Augmenting Deep Learning Through Symbolic Reasoning**|Jonathan Feldstein et.al.|[2410.22077](http://arxiv.org/abs/2410.22077)|null|
 |**2024-10-29**|**Bayesian Quantum Neural Network for Renewable-Rich Power Flow with Training Efficiency and Generalization Capability Improvements**|Ziqing Zhu et.al.|[2410.22062](http://arxiv.org/abs/2410.22062)|null|
