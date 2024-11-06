@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -292,7 +292,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-01**|**Conditional Synthesis of 3D Molecules with Time Correction Sampler**|Hojung Jung et.al.|[2411.00551](http://arxiv.org/abs/2411.00551)|null|
 |**2024-10-31**|**Diffusion Twigs with Loop Guidance for Conditional Graph Generation**|Giangiacomo Mercatali et.al.|[2410.24012](http://arxiv.org/abs/2410.24012)|**[link](https://github.com/aalto-quml/diffusion_twigs)**|
-|**2024-10-28**|**A Foundation Model for Chemical Design and Property Prediction**|Feiyang Cai et.al.|[2410.21422](http://arxiv.org/abs/2410.21422)|null|
+|**2024-10-28**|**A Foundation Model for Chemical Design and Property Prediction**|Feiyang Cai et.al.|[2410.21422](http://arxiv.org/abs/2410.21422)|**[link](https://github.com/TheLuoFengLab/ChemFM)**|
 |**2024-10-26**|**SAFE setup for generative molecular design**|Yassir El Mesbahi et.al.|[2410.20232](http://arxiv.org/abs/2410.20232)|null|
 |**2024-10-26**|**Chemical Language Model Linker: blending text and molecules with modular adapters**|Yifan Deng et.al.|[2410.20182](http://arxiv.org/abs/2410.20182)|**[link](https://github.com/gitter-lab/chemlml)**|
 |**2024-10-21**|**Generative Design of Functional Metal Complexes Utilizing the Internal Knowledge of Large Language Models**|Jieyu Lu et.al.|[2410.18136](http://arxiv.org/abs/2410.18136)|null|
@@ -677,7 +677,7 @@ layout: default
 |**2024-10-02**|**Phonon coherence and minimum thermal conductivity in disordered superlattice**|Xin Wu et.al.|[2410.01311](http://arxiv.org/abs/2410.01311)|**[link](https://gitlab.com/brucefan1983/nep-data)**|
 |**2024-10-01**|**Thermally activated dynamics of annealed glasses near the yielding transition under cyclic shear**|Ian R Graham et.al.|[2410.01062](http://arxiv.org/abs/2410.01062)|null|
 |**2024-10-01**|**Molecular origin of slippery behaviour in tethered liquid layers**|Fabio Rasera et.al.|[2410.00815](http://arxiv.org/abs/2410.00815)|null|
-|**2024-09-30**|**Mode-Dependent Phonon Relaxation in fcc Ni: Insights from Molecular Dynamics Simulations with Frozen-Trajectory Excitations**|Wojciech Marciniak et.al.|[2409.20334](http://arxiv.org/abs/2409.20334)|null|
+|**2024-10-20**|**Mode-Dependent Phonon Relaxation in fcc Ni: Insights from Molecular Dynamics Simulations with Frozen-Trajectory Excitations**|Wojciech Marciniak et.al.|[2409.20334](http://arxiv.org/abs/2409.20334)|null|
 |**2024-09-29**|**Ion density waves driving the formation of filamentary dust structures**|A. Mendoza et.al.|[2409.19793](http://arxiv.org/abs/2409.19793)|null|
 |**2024-09-27**|**Cyclic random graph models predicting giant molecules in hydrocarbon pyrolysis**|Perrin E. Ruth et.al.|[2409.19141](http://arxiv.org/abs/2409.19141)|null|
 |**2024-10-15**|**The molecular nature of superfluidity: Viscosity of helium from quantum stochastic molecular dynamics simulations over real trajectories**|Phil Attard et.al.|[2409.19036](http://arxiv.org/abs/2409.19036)|null|
@@ -1162,7 +1162,7 @@ layout: default
 |**2024-11-01**|**Explainable few-shot learning workflow for detecting invasive and exotic tree species**|Caroline M. Gevaert et.al.|[2411.00684](http://arxiv.org/abs/2411.00684)|null|
 |**2024-11-01**|**TaxaBind: A Unified Embedding Space for Ecological Applications**|Srikumar Sastry et.al.|[2411.00683](http://arxiv.org/abs/2411.00683)|**[link](https://github.com/mvrl/taxabind)**|
 |**2024-11-01**|**AI-based traffic analysis in digital twin networks**|Sarah Al-Shareeda et.al.|[2411.00681](http://arxiv.org/abs/2411.00681)|null|
-|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|null|
+|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-11-01**|**Deep learning-based auto-contouring of organs/structures-at-risk for pediatric upper abdominal radiotherapy**|Mianyong Ding et.al.|[2411.00594](http://arxiv.org/abs/2411.00594)|**[link](https://github.com/MMianyong/-PedAbdSeg-)**|
 |**2024-11-01**|**Federated Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2411.00578](http://arxiv.org/abs/2411.00578)|null|
 |**2024-11-01**|**Handheld Video Document Scanning: A Robust On-Device Model for Multi-Page Document Scanning**|Curtis Wigington et.al.|[2411.00576](http://arxiv.org/abs/2411.00576)|null|
