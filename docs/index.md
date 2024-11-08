@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -328,7 +328,7 @@ layout: default
 |**2024-06-13**|**Human-level molecular optimization driven by mol-gene evolution**|Jiebin Fang et.al.|[2406.12910](http://arxiv.org/abs/2406.12910)|null|
 |**2024-06-15**|**Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space**|Mohamed Amine Ketata et.al.|[2406.10513](http://arxiv.org/abs/2406.10513)|null|
 |**2024-06-07**|**Diffusion Models in $\textit{De Novo}$ Drug Design**|Amira Alakhdar et.al.|[2406.08511](http://arxiv.org/abs/2406.08511)|null|
-|**2024-06-01**|**RGFN: Synthesizable Molecular Generation Using GFlowNets**|Michał Koziarski et.al.|[2406.08506](http://arxiv.org/abs/2406.08506)|null|
+|**2024-11-06**|**RGFN: Synthesizable Molecular Generation Using GFlowNets**|Michał Koziarski et.al.|[2406.08506](http://arxiv.org/abs/2406.08506)|null|
 |**2024-06-25**|**Efficient 3D Molecular Generation with Flow Matching and Scale Optimal Transport**|Ross Irwin et.al.|[2406.07266](http://arxiv.org/abs/2406.07266)|null|
 |**2024-06-07**|**Variational Flow Matching for Graph Generation**|Floor Eijkelboom et.al.|[2406.04843](http://arxiv.org/abs/2406.04843)|null|
 |**2024-06-06**|**BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**|Artem Zholus et.al.|[2406.03686](http://arxiv.org/abs/2406.03686)|null|
@@ -1153,7 +1153,7 @@ layout: default
 |**2024-11-04**|**Estimating the Number and Locations of Boundaries in Reverberant Environments with Deep Learning**|Toros Arikan et.al.|[2411.02609](http://arxiv.org/abs/2411.02609)|null|
 |**2024-11-04**|**Computing critical exponents in 3D Ising model via pattern recognition/deep learning approach**|Timothy A. Burt et.al.|[2411.02604](http://arxiv.org/abs/2411.02604)|null|
 |**2024-11-04**|**Building a Synthetic Vascular Model: Evaluation in an Intracranial Aneurysms Detection Scenario**|Rafic Nader et.al.|[2411.02477](http://arxiv.org/abs/2411.02477)|null|
-|**2024-11-04**|**Energy-Aware Dynamic Neural Inference**|Marcello Bullo et.al.|[2411.02471](http://arxiv.org/abs/2411.02471)|null|
+|**2024-11-06**|**Energy-Aware Dynamic Neural Inference**|Marcello Bullo et.al.|[2411.02471](http://arxiv.org/abs/2411.02471)|null|
 |**2024-11-04**|**Weakly supervised deep learning model with size constraint for prostate cancer detection in multiparametric MRI and generalization to unseen domains**|Robin Trombetta et.al.|[2411.02466](http://arxiv.org/abs/2411.02466)|null|
 |**2024-11-04**|**A Study of Data Augmentation Techniques to Overcome Data Scarcity in Wound Classification using Deep Learning**|Harini Narayanan et.al.|[2411.02456](http://arxiv.org/abs/2411.02456)|null|
 |**2024-11-03**|**Chronic Obstructive Pulmonary Disease Prediction Using Deep Convolutional Network**|Shahran Rahman Alve et.al.|[2411.02449](http://arxiv.org/abs/2411.02449)|null|
@@ -6967,7 +6967,7 @@ layout: default
 |**2024-08-29**|**Universal mechanistic rules for de novo design of enzymes**|Michalis Chatzittofi et.al.|[2408.16639](http://arxiv.org/abs/2408.16639)|null|
 |**2024-08-23**|**Mayer-homology learning prediction of protein-ligand binding affinities**|Hongsong Feng et.al.|[2408.13299](http://arxiv.org/abs/2408.13299)|null|
 |**2024-08-19**|**Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models**|Cong Fu et.al.|[2408.09730](http://arxiv.org/abs/2408.09730)|null|
-|**2024-08-01**|**Persistent de Rham-Hodge Laplacians in the Eulerian representation**|Zhe Su et.al.|[2408.00220](http://arxiv.org/abs/2408.00220)|null|
+|**2024-11-06**|**Persistent de Rham-Hodge Laplacians in Eulerian representation for manifold topological learning**|Zhe Su et.al.|[2408.00220](http://arxiv.org/abs/2408.00220)|null|
 |**2024-07-15**|**On Machine Learning Approaches for Protein-Ligand Binding Affinity Prediction**|Nikolai Schapin et.al.|[2407.19073](http://arxiv.org/abs/2407.19073)|null|
 |**2024-07-21**|**Exploiting Pre-trained Models for Drug Target Affinity Prediction with Nearest Neighbors**|Qizhi Pei et.al.|[2407.15202](http://arxiv.org/abs/2407.15202)|null|
 |**2024-07-14**|**Pre-training with Fractional Denoising to Enhance Molecular Property Prediction**|Yuyan Ni et.al.|[2407.11086](http://arxiv.org/abs/2407.11086)|null|
