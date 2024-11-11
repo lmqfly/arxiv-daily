@@ -291,6 +291,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation**|Peidong Liu et.al.|[2411.05472](http://arxiv.org/abs/2411.05472)|**[link](https://github.com/hughnew/gapdiff)**|
 |**2024-11-01**|**Conditional Synthesis of 3D Molecules with Time Correction Sampler**|Hojung Jung et.al.|[2411.00551](http://arxiv.org/abs/2411.00551)|null|
 |**2024-10-31**|**Diffusion Twigs with Loop Guidance for Conditional Graph Generation**|Giangiacomo Mercatali et.al.|[2410.24012](http://arxiv.org/abs/2410.24012)|**[link](https://github.com/aalto-quml/diffusion_twigs)**|
 |**2024-10-28**|**A Foundation Model for Chemical Design and Property Prediction**|Feiyang Cai et.al.|[2410.21422](http://arxiv.org/abs/2410.21422)|**[link](https://github.com/TheLuoFengLab/ChemFM)**|
@@ -620,6 +621,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Bayesian exploration of the composition space of CuZrAl metallic glasses for mechanical properties**|Tero Mäkinen et.al.|[2411.05529](http://arxiv.org/abs/2411.05529)|null|
+|**2024-11-07**|**Disentangling enhanced diffusion and ballistic motion of excitons coupled to Bloch surface waves with molecular dynamics simulations**|Ilia Sokolovskii et.al.|[2411.05168](http://arxiv.org/abs/2411.05168)|null|
 |**2024-11-06**|**Equivariant Graph Network Approximations of High-Degree Polynomials for Force Field Prediction**|Zhao Xu et.al.|[2411.04219](http://arxiv.org/abs/2411.04219)|**[link](https://github.com/divelab/AIRS)**|
 |**2024-11-05**|**Chemifriction and Superlubricity: Friends or Foes?**|Penghua Ying et.al.|[2411.03078](http://arxiv.org/abs/2411.03078)|null|
 |**2024-11-05**|**Hotter isn't faster for a melting RNA hairpin**|Huaping Li et.al.|[2411.03072](http://arxiv.org/abs/2411.03072)|null|
@@ -1099,6 +1102,41 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**GazeSearch: Radiology Findings Search Benchmark**|Trong Thang Pham et.al.|[2411.05780](http://arxiv.org/abs/2411.05780)|null|
+|**2024-11-08**|**Curriculum Learning for Few-Shot Domain Adaptation in CT-based Airway Tree Segmentation**|Maxime Jacovella et.al.|[2411.05779](http://arxiv.org/abs/2411.05779)|null|
+|**2024-11-08**|**Tract-RLFormer: A Tract-Specific RL policy based Decoder-only Transformer Network**|Ankita Joshi et.al.|[2411.05757](http://arxiv.org/abs/2411.05757)|null|
+|**2024-11-08**|**FisherMask: Enhancing Neural Network Labeling Efficiency in Image Classification Using Fisher Information**|Shreen Gul et.al.|[2411.05752](http://arxiv.org/abs/2411.05752)|**[link](https://github.com/sgchr273/fishermask)**|
+|**2024-11-08**|**Continuous-Time Analysis of Adaptive Optimization and Normalization**|Rhys Gould et.al.|[2411.05746](http://arxiv.org/abs/2411.05746)|null|
+|**2024-11-08**|**Differential Privacy Under Class Imbalance: Methods and Empirical Insights**|Lucas Rosenblatt et.al.|[2411.05733](http://arxiv.org/abs/2411.05733)|null|
+|**2024-11-08**|**Learning Subsystem Dynamics in Nonlinear Systems via Port-Hamiltonian Neural Networks**|G. J. E. van Otterdijk et.al.|[2411.05730](http://arxiv.org/abs/2411.05730)|null|
+|**2024-11-08**|**Image inpainting enhancement by replacing the original mask with a self-attended region from the input image**|Kourosh Kiani et.al.|[2411.05705](http://arxiv.org/abs/2411.05705)|null|
+|**2024-11-08**|**Impact of Fake News on Social Media Towards Public Users of Different Age Groups**|Kahlil bin Abdul Hakim et.al.|[2411.05638](http://arxiv.org/abs/2411.05638)|null|
+|**2024-11-08**|**SynDroneVision: A Synthetic Dataset for Image-Based Drone Detection**|Tamara R. Lenhard et.al.|[2411.05633](http://arxiv.org/abs/2411.05633)|null|
+|**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|null|
+|**2024-11-08**|**DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions**|Rafael Berral-Soler et.al.|[2411.05552](http://arxiv.org/abs/2411.05552)|**[link](https://github.com/avauco/deeparuco)**|
+|**2024-11-08**|**EROAS: 3D Efficient Reactive Obstacle Avoidance System for Autonomous Underwater Vehicles using 2.5D Forward-Looking Sonar**|Pruthviraj Mane et.al.|[2411.05516](http://arxiv.org/abs/2411.05516)|null|
+|**2024-11-08**|**An Early FIRST Reproduction and Improvements to Single-Token Decoding for Fast Listwise Reranking**|Zijian Chen et.al.|[2411.05508](http://arxiv.org/abs/2411.05508)|null|
+|**2024-11-08**|**FGGP: Fixed-Rate Gradient-First Gradual Pruning**|Lingkai Zhu et.al.|[2411.05500](http://arxiv.org/abs/2411.05500)|null|
+|**2024-11-08**|**Do Histopathological Foundation Models Eliminate Batch Effects? A Comparative Study**|Jonah Kömen et.al.|[2411.05489](http://arxiv.org/abs/2411.05489)|null|
+|**2024-11-08**|**Handling geometrical variability in nonlinear reduced order modeling through Continuous Geometry-Aware DL-ROMs**|Simone Brivio et.al.|[2411.05486](http://arxiv.org/abs/2411.05486)|null|
+|**2024-11-08**|**Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques**|Mohammad Imran Hossain et.al.|[2411.05456](http://arxiv.org/abs/2411.05456)|null|
+|**2024-11-08**|**The sampling complexity of learning invertible residual neural networks**|Yuanyuan Li et.al.|[2411.05453](http://arxiv.org/abs/2411.05453)|null|
+|**2024-11-08**|**SASWISE-UE: Segmentation and Synthesis with Interpretable Scalable Ensembles for Uncertainty Estimation**|Weijie Chen et.al.|[2411.05324](http://arxiv.org/abs/2411.05324)|null|
+|**2024-11-08**|**GPUVM: GPU-driven Unified Virtual Memory**|Nurlan Nazaraliyev et.al.|[2411.05309](http://arxiv.org/abs/2411.05309)|null|
+|**2024-11-08**|**Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet**|Boxiao Yu et.al.|[2411.05302](http://arxiv.org/abs/2411.05302)|null|
+|**2024-11-08**|**Cancer-Net SCa-Synth: An Open Access Synthetically Generated 2D Skin Lesion Dataset for Skin Cancer Classification**|Chi-en Amy Tai et.al.|[2411.05269](http://arxiv.org/abs/2411.05269)|**[link](https://github.com/catai9/cancer-net-sca-synth)**|
+|**2024-11-07**|**Nonperfused Retinal Capillaries -- A New Method Developed on OCT and OCTA**|Min Gao et.al.|[2411.05244](http://arxiv.org/abs/2411.05244)|null|
+|**2024-11-07**|**Feature Importance in the Context of Traditional and Just-In-Time Software Defect Prediction Models**|Susmita Haldar et.al.|[2411.05230](http://arxiv.org/abs/2411.05230)|null|
+|**2024-11-07**|**Solving Hidden Monotone Variational Inequalities with Surrogate Losses**|Ryan D'Orazio et.al.|[2411.05228](http://arxiv.org/abs/2411.05228)|null|
+|**2024-11-07**|**Anticipatory Understanding of Resilient Agriculture to Climate**|David Willmes et.al.|[2411.05219](http://arxiv.org/abs/2411.05219)|null|
+|**2024-11-07**|**AGE2HIE: Transfer Learning from Brain Age to Predicting Neurocognitive Outcome for Infant Brain Injury**|Rina Bao et.al.|[2411.05188](http://arxiv.org/abs/2411.05188)|null|
+|**2024-11-07**|**Interpretable Measurement of CNN Deep Feature Density using Copula and the Generalized Characteristic Function**|David Chapman et.al.|[2411.05183](http://arxiv.org/abs/2411.05183)|null|
+|**2024-11-07**|**EPIC: Enhancing Privacy through Iterative Collaboration**|Prakash Chourasia et.al.|[2411.05167](http://arxiv.org/abs/2411.05167)|null|
+|**2024-11-07**|**Exploiting the Structure of Two Graphs with Graph Neural Networks**|Victor M. Tenorio et.al.|[2411.05119](http://arxiv.org/abs/2411.05119)|**[link](https://github.com/vmtenorio/io-gnn)**|
+|**2024-11-07**|**Intellectual Property Protection for Deep Learning Model and Dataset Intelligence**|Yongqi Jiang et.al.|[2411.05051](http://arxiv.org/abs/2411.05051)|null|
+|**2024-11-07**|**Deep Heuristic Learning for Real-Time Urban Pathfinding**|Mohamed Hussein Abo El-Ela et.al.|[2411.05044](http://arxiv.org/abs/2411.05044)|null|
+|**2024-11-07**|**Multi-language Video Subtitle Dataset for Image-based Text Recognition**|Thanadol Singkhornart et.al.|[2411.05043](http://arxiv.org/abs/2411.05043)|null|
+|**2024-11-05**|**Leveraging Transfer Learning and Multiple Instance Learning for HER2 Automatic Scoring of H\&E Whole Slide Images**|Rawan S. Abdulsadig et.al.|[2411.05028](http://arxiv.org/abs/2411.05028)|null|
 |**2024-11-07**|**Fed-LDR: Federated Local Data-infused Graph Creation with Node-centric Model Refinement**|Jiechao Gao et.al.|[2411.04936](http://arxiv.org/abs/2411.04936)|null|
 |**2024-11-07**|**Bridging an energy system model with an ensemble deep-learning approach for electricity price forecasting**|Souhir Ben Amor et.al.|[2411.04880](http://arxiv.org/abs/2411.04880)|null|
 |**2024-11-07**|**Differentiable Gaussian Representation for Incomplete CT Reconstruction**|Shaokai Wu et.al.|[2411.04844](http://arxiv.org/abs/2411.04844)|null|
