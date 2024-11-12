@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.11
+## Updated on 2024.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1166,7 +1166,7 @@ layout: default
 |**2024-11-07**|**Model and Deep learning based Dynamic Range Compression Inversion**|Haoran Sun et.al.|[2411.04337](http://arxiv.org/abs/2411.04337)|null|
 |**2024-11-07**|**Balancing Transparency and Accuracy: A Comparative Analysis of Rule-Based and Deep Learning Models in Political Bias Classification**|Manuel Nunez Martinez et.al.|[2411.04328](http://arxiv.org/abs/2411.04328)|null|
 |**2024-11-06**|**Running Markov Chain Monte Carlo on Modern Hardware and Software**|Pavel Sountsov et.al.|[2411.04260](http://arxiv.org/abs/2411.04260)|null|
-|**2024-11-06**|**Astronomaly Protege: Discovery Through Human-Machine Collaboration**|Michelle Lochner et.al.|[2411.04188](http://arxiv.org/abs/2411.04188)|**[link](https://github.com/MichelleLochner/astronomaly)**|
+|**2024-11-06**|**Astronomaly Protege: Discovery Through Human-Machine Collaboration**|Michelle Lochner et.al.|[2411.04188](http://arxiv.org/abs/2411.04188)|**[link](https://github.com/michellelochner/mgcls.protege)**|
 |**2024-11-06**|**Urban Flood Mapping Using Satellite Synthetic Aperture Radar Data: A Review of Characteristics, Approaches and Datasets**|Jie Zhao et.al.|[2411.04153](http://arxiv.org/abs/2411.04153)|null|
 |**2024-11-06**|**Multi-branch Spatio-Temporal Graph Neural Network For Efficient Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2411.04055](http://arxiv.org/abs/2411.04055)|null|
 |**2024-11-06**|**Stepping Forward on the Last Mile**|Chen Feng et.al.|[2411.04036](http://arxiv.org/abs/2411.04036)|null|
