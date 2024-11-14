@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.13
+## Updated on 2024.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -181,7 +181,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## DDI
 
@@ -300,7 +300,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## MG
 
@@ -464,7 +464,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## MPP
 
@@ -635,7 +635,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## MD
 
@@ -1125,7 +1125,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## Transformer
 
@@ -1150,8 +1150,8 @@
 |**2024-11-12**|**Depthwise Separable Convolutions with Deep Residual Convolutions**|Md Arid Hasan et.al.|[2411.07544](http://arxiv.org/abs/2411.07544)|null|
 |**2024-11-12**|**Bayesian Deep Learning Approach for Real-time Lane-based Arrival Curve Reconstruction at Intersection using License Plate Recognition Data**|Yang He et.al.|[2411.07515](http://arxiv.org/abs/2411.07515)|null|
 |**2024-11-12**|**AdaS&S: a One-Shot Supernet Approach for Automatic Embedding Size Search in Deep Recommender System**|He Wei et.al.|[2411.07504](http://arxiv.org/abs/2411.07504)|null|
-|**2024-11-12**|**LAUREL: Learned Augmented Residual Layer**|Gaurav Menghani et.al.|[2411.07501](http://arxiv.org/abs/2411.07501)|null|
-|**2024-11-12**|**MSEG-VCUQ: Multimodal SEGmentation with Enhanced Vision Foundation Models, Convolutional Neural Networks, and Uncertainty Quantification for High-Speed Video Phase Detection Data**|Chika Maduabuchi et.al.|[2411.07463](http://arxiv.org/abs/2411.07463)|**[link](https://github.com/chikap421/mseg_vcuq)**|
+|**2024-11-13**|**LAuReL: Learned Augmented Residual Layer**|Gaurav Menghani et.al.|[2411.07501](http://arxiv.org/abs/2411.07501)|null|
+|**2024-11-13**|**MSEG-VCUQ: Multimodal SEGmentation with Enhanced Vision Foundation Models, Convolutional Neural Networks, and Uncertainty Quantification for High-Speed Video Phase Detection Data**|Chika Maduabuchi et.al.|[2411.07463](http://arxiv.org/abs/2411.07463)|**[link](https://github.com/chikap421/mseg_vcuq)**|
 |**2024-11-11**|**Predicting BWR Criticality with Data-Driven Machine Learning Model**|Muhammad Rizki Oktavian et.al.|[2411.07425](http://arxiv.org/abs/2411.07425)|null|
 |**2024-11-11**|**Data-Driven Analysis of AI in Medical Device Software in China: Deep Learning and General AI Trends Based on Regulatory Data**|Yu Han et.al.|[2411.07378](http://arxiv.org/abs/2411.07378)|null|
 |**2024-11-11**|**Watermark Anything with Localized Messages**|Tom Sander et.al.|[2411.07231](http://arxiv.org/abs/2411.07231)|null|
@@ -1181,7 +1181,7 @@
 |**2024-11-10**|**Enhancing frozen histological section images using permanent-section-guided deep learning with nuclei attention**|Elad Yoshai et.al.|[2411.06583](http://arxiv.org/abs/2411.06583)|null|
 |**2024-11-10**|**Enabling ISAC in Real World: Beam-Based User Identification with Machine Learning**|Umut Demirhan et.al.|[2411.06578](http://arxiv.org/abs/2411.06578)|null|
 |**2024-11-10**|**Diff-MSTC: A Mixing Style Transfer Prototype for Cubase**|Soumya Sai Vanka et.al.|[2411.06576](http://arxiv.org/abs/2411.06576)|null|
-|**2024-11-10**|**AE-DENet: Enhancement for Deep Learning-based Channel Estimation in OFDM Systems**|Ephrem Fola et.al.|[2411.06526](http://arxiv.org/abs/2411.06526)|null|
+|**2024-11-13**|**AE-DENet: Enhancement for Deep Learning-based Channel Estimation in OFDM Systems**|Ephrem Fola et.al.|[2411.06526](http://arxiv.org/abs/2411.06526)|null|
 |**2024-11-10**|**PRISM: Privacy-preserving Inter-Site MRI Harmonization via Disentangled Representation Learning**|Sarang Galada et.al.|[2411.06513](http://arxiv.org/abs/2411.06513)|**[link](https://github.com/saranggalada/prism)**|
 |**2024-11-10**|**Deep Learning Approaches for BSM Physics: Evaluating DNN and GNN Performance in Particle Collision Event Classification**|Ali Çelik et.al.|[2411.06487](http://arxiv.org/abs/2411.06487)|null|
 |**2024-11-10**|**Superpixel Segmentation: A Long-Lasting Ill-Posed Problem**|Rémi Giraud et.al.|[2411.06478](http://arxiv.org/abs/2411.06478)|null|
@@ -7116,7 +7116,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## Binding
 
@@ -7298,13 +7298,13 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## Geometric deep learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-26**|**SPDIM: Source-Free Unsupervised Conditional and Label Shifts Adaptation in EEG**|Shanglin Li et.al.|[2411.07249](http://arxiv.org/abs/2411.07249)|null|
+|**2024-11-13**|**SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG**|Shanglin Li et.al.|[2411.07249](http://arxiv.org/abs/2411.07249)|null|
 |**2024-11-09**|**A Multimodal Adaptive Graph-based Intelligent Classification Model for Fake News**|Junhao et.al.|[2411.06097](http://arxiv.org/abs/2411.06097)|null|
 |**2024-11-07**|**Equivariant Graph Attention Networks with Structural Motifs for Predicting Cell Line-Specific Synergistic Drug Combinations**|Zachary Schwehr et.al.|[2411.04747](http://arxiv.org/abs/2411.04747)|**[link](https://github.com/wetothemoon/egat_drugsynergy)**|
 |**2024-11-06**|**Multi-branch Spatio-Temporal Graph Neural Network For Efficient Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2411.04055](http://arxiv.org/abs/2411.04055)|null|
@@ -7442,7 +7442,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

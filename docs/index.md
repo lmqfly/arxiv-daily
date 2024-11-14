@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.13
+## Updated on 2024.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1130,8 +1130,8 @@ layout: default
 |**2024-11-12**|**Depthwise Separable Convolutions with Deep Residual Convolutions**|Md Arid Hasan et.al.|[2411.07544](http://arxiv.org/abs/2411.07544)|null|
 |**2024-11-12**|**Bayesian Deep Learning Approach for Real-time Lane-based Arrival Curve Reconstruction at Intersection using License Plate Recognition Data**|Yang He et.al.|[2411.07515](http://arxiv.org/abs/2411.07515)|null|
 |**2024-11-12**|**AdaS&S: a One-Shot Supernet Approach for Automatic Embedding Size Search in Deep Recommender System**|He Wei et.al.|[2411.07504](http://arxiv.org/abs/2411.07504)|null|
-|**2024-11-12**|**LAUREL: Learned Augmented Residual Layer**|Gaurav Menghani et.al.|[2411.07501](http://arxiv.org/abs/2411.07501)|null|
-|**2024-11-12**|**MSEG-VCUQ: Multimodal SEGmentation with Enhanced Vision Foundation Models, Convolutional Neural Networks, and Uncertainty Quantification for High-Speed Video Phase Detection Data**|Chika Maduabuchi et.al.|[2411.07463](http://arxiv.org/abs/2411.07463)|**[link](https://github.com/chikap421/mseg_vcuq)**|
+|**2024-11-13**|**LAuReL: Learned Augmented Residual Layer**|Gaurav Menghani et.al.|[2411.07501](http://arxiv.org/abs/2411.07501)|null|
+|**2024-11-13**|**MSEG-VCUQ: Multimodal SEGmentation with Enhanced Vision Foundation Models, Convolutional Neural Networks, and Uncertainty Quantification for High-Speed Video Phase Detection Data**|Chika Maduabuchi et.al.|[2411.07463](http://arxiv.org/abs/2411.07463)|**[link](https://github.com/chikap421/mseg_vcuq)**|
 |**2024-11-11**|**Predicting BWR Criticality with Data-Driven Machine Learning Model**|Muhammad Rizki Oktavian et.al.|[2411.07425](http://arxiv.org/abs/2411.07425)|null|
 |**2024-11-11**|**Data-Driven Analysis of AI in Medical Device Software in China: Deep Learning and General AI Trends Based on Regulatory Data**|Yu Han et.al.|[2411.07378](http://arxiv.org/abs/2411.07378)|null|
 |**2024-11-11**|**Watermark Anything with Localized Messages**|Tom Sander et.al.|[2411.07231](http://arxiv.org/abs/2411.07231)|null|
@@ -1161,7 +1161,7 @@ layout: default
 |**2024-11-10**|**Enhancing frozen histological section images using permanent-section-guided deep learning with nuclei attention**|Elad Yoshai et.al.|[2411.06583](http://arxiv.org/abs/2411.06583)|null|
 |**2024-11-10**|**Enabling ISAC in Real World: Beam-Based User Identification with Machine Learning**|Umut Demirhan et.al.|[2411.06578](http://arxiv.org/abs/2411.06578)|null|
 |**2024-11-10**|**Diff-MSTC: A Mixing Style Transfer Prototype for Cubase**|Soumya Sai Vanka et.al.|[2411.06576](http://arxiv.org/abs/2411.06576)|null|
-|**2024-11-10**|**AE-DENet: Enhancement for Deep Learning-based Channel Estimation in OFDM Systems**|Ephrem Fola et.al.|[2411.06526](http://arxiv.org/abs/2411.06526)|null|
+|**2024-11-13**|**AE-DENet: Enhancement for Deep Learning-based Channel Estimation in OFDM Systems**|Ephrem Fola et.al.|[2411.06526](http://arxiv.org/abs/2411.06526)|null|
 |**2024-11-10**|**PRISM: Privacy-preserving Inter-Site MRI Harmonization via Disentangled Representation Learning**|Sarang Galada et.al.|[2411.06513](http://arxiv.org/abs/2411.06513)|**[link](https://github.com/saranggalada/prism)**|
 |**2024-11-10**|**Deep Learning Approaches for BSM Physics: Evaluating DNN and GNN Performance in Particle Collision Event Classification**|Ali Çelik et.al.|[2411.06487](http://arxiv.org/abs/2411.06487)|null|
 |**2024-11-10**|**Superpixel Segmentation: A Long-Lasting Ill-Posed Problem**|Rémi Giraud et.al.|[2411.06478](http://arxiv.org/abs/2411.06478)|null|
@@ -7280,7 +7280,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-26**|**SPDIM: Source-Free Unsupervised Conditional and Label Shifts Adaptation in EEG**|Shanglin Li et.al.|[2411.07249](http://arxiv.org/abs/2411.07249)|null|
+|**2024-11-13**|**SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG**|Shanglin Li et.al.|[2411.07249](http://arxiv.org/abs/2411.07249)|null|
 |**2024-11-09**|**A Multimodal Adaptive Graph-based Intelligent Classification Model for Fake News**|Junhao et.al.|[2411.06097](http://arxiv.org/abs/2411.06097)|null|
 |**2024-11-07**|**Equivariant Graph Attention Networks with Structural Motifs for Predicting Cell Line-Specific Synergistic Drug Combinations**|Zachary Schwehr et.al.|[2411.04747](http://arxiv.org/abs/2411.04747)|**[link](https://github.com/wetothemoon/egat_drugsynergy)**|
 |**2024-11-06**|**Multi-branch Spatio-Temporal Graph Neural Network For Efficient Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2411.04055](http://arxiv.org/abs/2411.04055)|null|
