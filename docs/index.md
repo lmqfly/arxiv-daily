@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.14
+## Updated on 2024.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1188,7 +1188,7 @@ layout: default
 |**2024-11-11**|**Real-time Monitoring and Analysis of Track and Field Athletes Based on Edge Computing and Deep Reinforcement Learning Algorithm**|Xiaowei Tang et.al.|[2411.06720](http://arxiv.org/abs/2411.06720)|null|
 |**2024-11-11**|**United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images**|Yanguang Sun et.al.|[2411.06703](http://arxiv.org/abs/2411.06703)|**[link](https://github.com/csysi/udcnet)**|
 |**2024-11-11**|**Predicting Country Instability Using Bayesian Deep Learning and Random Forest**|Adam Zebrowski et.al.|[2411.06639](http://arxiv.org/abs/2411.06639)|null|
-|**2024-11-11**|**Mixed Effects Deep Learning Autoencoder for interpretable analysis of single cell RNA Sequencing data**|Aixa X. Andrade et.al.|[2411.06635](http://arxiv.org/abs/2411.06635)|null|
+|**2024-11-13**|**Mixed Effects Deep Learning for the interpretable analysis of single cell RNA sequencing data by quantifying and visualizing batch effects**|Aixa X. Andrade et.al.|[2411.06635](http://arxiv.org/abs/2411.06635)|null|
 |**2024-11-10**|**An Analysis of Deep Learning Parameterizations for Ocean Subgrid Eddy Forcing**|Cem Gultekin et.al.|[2411.06604](http://arxiv.org/abs/2411.06604)|null|
 |**2024-11-10**|**Graph Neural Networks for modelling breast biomechanical compression**|Hadeel Awwad et.al.|[2411.06596](http://arxiv.org/abs/2411.06596)|**[link](https://github.com/hadiiiil/gnns-breastcompression)**|
 |**2024-11-10**|**Algebraic and Statistical Properties of the Partially Regularized Ordinary Least Squares Interpolator**|Letian Yang et.al.|[2411.06593](http://arxiv.org/abs/2411.06593)|null|
