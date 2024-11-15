@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Long-context Protein Language Model**|Yingheng Wang et.al.|[2411.08909](http://arxiv.org/abs/2411.08909)|null|
 |**2024-11-09**|**Learning From Graph-Structured Data: Addressing Design Issues and Exploring Practical Applications in Graph Representation Learning**|Chenqing Hua et.al.|[2411.07269](http://arxiv.org/abs/2411.07269)|null|
 |**2024-11-06**|**BAPULM: Binding Affinity Prediction using Language Models**|Radheesh Sharma Meda et.al.|[2411.04150](http://arxiv.org/abs/2411.04150)|**[link](https://github.com/radh55sh/BAPULM)**|
 |**2024-11-01**|**Shock profiles for the non-cutoff Boltzmann equation with hard potentials**|Dominic Wynter et.al.|[2411.00971](http://arxiv.org/abs/2411.00971)|null|
@@ -641,6 +642,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388](http://arxiv.org/abs/2411.09388)|null|
 |**2024-11-12**|**Temperature-driven flows in nanochannels: Theory and Simulations**|Pietro Anzini et.al.|[2411.07904](http://arxiv.org/abs/2411.07904)|null|
 |**2024-11-12**|**Rate- and temperature-dependent strain hardening in glassy polymers: Micromechanisms and constitutive modeling based on molecular dynamics simulations**|Wuyang Zhao et.al.|[2411.07811](http://arxiv.org/abs/2411.07811)|null|
 |**2024-11-11**|**Azurin-Based Peptide p28 Arrests the p53-HDM2 Interactions: A Novel Anti-Cancer Pathway**|Albin Joy et.al.|[2411.07124](http://arxiv.org/abs/2411.07124)|null|
@@ -1131,10 +1133,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
+|**2024-11-14**|**Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images**|Bipasha Kundu et.al.|[2411.09598](http://arxiv.org/abs/2411.09598)|null|
+|**2024-11-14**|**SMILE-UHURA Challenge -- Small Vessel Segmentation at Mesoscopic Scale from Ultra-High Resolution 7T Magnetic Resonance Angiograms**|Soumick Chatterjee et.al.|[2411.09593](http://arxiv.org/abs/2411.09593)|null|
+|**2024-11-14**|**Likelihood and Deep Learning Analysis of the electron neutrino event sample at Intermediate Water Cherenkov Detector (IWCD) of the Hyper-Kamiokande experiment**|T. Mondal et.al.|[2411.09562](http://arxiv.org/abs/2411.09562)|null|
+|**2024-11-14**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
+|**2024-11-14**|**An Explainable Attention Model for Cervical Precancer Risk Classification using Colposcopic Images**|Smith K. Khare et.al.|[2411.09469](http://arxiv.org/abs/2411.09469)|null|
+|**2024-11-14**|**Localization of nanoscale objects with light singularities**|Thomas A. Grant et.al.|[2411.09415](http://arxiv.org/abs/2411.09415)|null|
+|**2024-11-14**|**Inherently Interpretable and Uncertainty-Aware Models for Online Learning in Cyber-Security Problems**|Benjamin Kolicic et.al.|[2411.09393](http://arxiv.org/abs/2411.09393)|null|
+|**2024-11-14**|**Compression Method for Solar Polarization Spectra Collected from Hinode SOT/SP Observations**|Jargalmaa Batmunkh et.al.|[2411.09311](http://arxiv.org/abs/2411.09311)|null|
+|**2024-11-14**|**Leveraging Auxiliary Classification for Rib Fracture Segmentation**|Harini G. et.al.|[2411.09283](http://arxiv.org/abs/2411.09283)|null|
+|**2024-11-14**|**Harnessing multiple LLMs for Information Retrieval: A case study on Deep Learning methodologies in Biodiversity publications**|Vamsi Krishna Kommineni et.al.|[2411.09269](http://arxiv.org/abs/2411.09269)|null|
+|**2024-11-14**|**Rethinking Weight-Averaged Model-merging**|Hu Wang et.al.|[2411.09263](http://arxiv.org/abs/2411.09263)|null|
+|**2024-11-14**|**Towards Unified Neural Decoding of Perceived, Spoken and Imagined Speech from EEG Signals**|Jung-Sun Lee et.al.|[2411.09243](http://arxiv.org/abs/2411.09243)|null|
+|**2024-11-14**|**RibCageImp: A Deep Learning Framework for 3D Ribcage Implant Generation**|Gyanendra Chaubey et.al.|[2411.09204](http://arxiv.org/abs/2411.09204)|null|
+|**2024-11-14**|**GRAINRec: Graph and Attention Integrated Approach for Real-Time Session-Based Item Recommendations**|Bhavtosh Rath et.al.|[2411.09152](http://arxiv.org/abs/2411.09152)|null|
+|**2024-11-14**|**Deep Learning for Beamforming in Multi-User Continuous Aperture Array (CAPA) Systems**|Jia Guo et.al.|[2411.09104](http://arxiv.org/abs/2411.09104)|null|
+|**2024-11-13**|**Transformer-based Time-Series Biomarker Discovery for COPD Diagnosis**|Soham Gadgil et.al.|[2411.09027](http://arxiv.org/abs/2411.09027)|null|
+|**2024-11-13**|**The geometry of the deep linear network**|Govind Menon et.al.|[2411.09004](http://arxiv.org/abs/2411.09004)|null|
+|**2024-11-13**|**Virtual teaching assistant for undergraduate students using natural language processing & deep learning**|Sadman Jashim Sakib et.al.|[2411.09001](http://arxiv.org/abs/2411.09001)|null|
+|**2024-11-13**|**Classification of Keratitis from Eye Corneal Photographs using Deep Learning**|Maria Miguel Beirão et.al.|[2411.08935](http://arxiv.org/abs/2411.08935)|null|
+|**2024-11-13**|**Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness**|Suhyeok Jang et.al.|[2411.08933](http://arxiv.org/abs/2411.08933)|**[link](https://github.com/suhyeok24/ft-cadis)**|
 |**2024-11-13**|**Deep Learning Accelerated Quantum Transport Simulations in Nanoelectronics: From Break Junctions to Field-Effect Transistors**|Jijie Zou et.al.|[2411.08800](http://arxiv.org/abs/2411.08800)|**[link](https://github.com/deepmodeling/DeePTB)**|
 |**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734](http://arxiv.org/abs/2411.08734)|null|
 |**2024-11-13**|**Analyst Reports and Stock Performance: Evidence from the Chinese Market**|Rui Liu et.al.|[2411.08726](http://arxiv.org/abs/2411.08726)|null|
-|**2024-11-13**|**A Deep Uzawa-Lagrange Multiplier Approach for Boundary Conditions in PINNs and Deep Ritz Methods**|Charalambos G. Makridakis et.al.|[2411.08702](http://arxiv.org/abs/2411.08702)|null|
+|**2024-11-14**|**A Deep Uzawa-Lagrange Multiplier Approach for Boundary Conditions in PINNs and Deep Ritz Methods**|Charalambos G. Makridakis et.al.|[2411.08702](http://arxiv.org/abs/2411.08702)|null|
 |**2024-11-13**|**Measuring similarity between embedding spaces using induced neighborhood graphs**|Tiago F. Tavares et.al.|[2411.08687](http://arxiv.org/abs/2411.08687)|null|
 |**2024-11-13**|**Estimating unknown parameters in differential equations with a reinforcement learning based PSO method**|Wenkui Sun et.al.|[2411.08651](http://arxiv.org/abs/2411.08651)|null|
 |**2024-11-13**|**Slender Object Scene Segmentation in Remote Sensing Image Based on Learnable Morphological Skeleton with Segment Anything Model**|Jun Xie et.al.|[2411.08592](http://arxiv.org/abs/2411.08592)|null|
