@@ -1150,13 +1150,13 @@ layout: default
 |**2024-11-13**|**Impact of Iris Pigmentation on Performance Bias in Visible Iris Verification Systems: A Comparative Study**|Geetanjali Sharma et.al.|[2411.08490](http://arxiv.org/abs/2411.08490)|null|
 |**2024-11-13**|**UNSCT-HRNet: Modeling Anatomical Uncertainty for Landmark Detection in Total Hip Arthroplasty**|Jiaxin Wan et.al.|[2411.08488](http://arxiv.org/abs/2411.08488)|null|
 |**2024-11-13**|**Methodology for a Statistical Analysis of Influencing Factors on 3D Object Detection Performance**|Anton Kuznietsov et.al.|[2411.08482](http://arxiv.org/abs/2411.08482)|null|
-|**2024-11-13**|**Variable-Length Feedback Codes via Deep Learning**|Wenwei Lai et.al.|[2411.08481](http://arxiv.org/abs/2411.08481)|null|
+|**2024-11-13**|**Variable-Length Feedback Codes via Deep Learning**|Wenwei Lai et.al.|[2411.08481](http://arxiv.org/abs/2411.08481)|**[link](https://github.com/lynshao/DeepVLF)**|
 |**2024-11-13**|**Can MLLMs Guide Weakly-Supervised Temporal Action Localization Tasks?**|Quan Zhang et.al.|[2411.08466](http://arxiv.org/abs/2411.08466)|null|
 |**2024-11-13**|**Symbolic-AI-Fusion Deep Learning (SAIF-DL): Encoding Knowledge into Training with Answer Set Programming Loss Penalties by a Novel Loss Function Approach**|Fadi Al Machot et.al.|[2411.08463](http://arxiv.org/abs/2411.08463)|null|
 |**2024-11-13**|**Transfer Learning Guided Noise Reduction for Automatic Modulation Classification**|Zelin Ji et.al.|[2411.08376](http://arxiv.org/abs/2411.08376)|null|
 |**2024-11-13**|**Developing an Effective Training Dataset to Enhance the Performance of AI-based Speaker Separation Systems**|Rawad Melhem et.al.|[2411.08375](http://arxiv.org/abs/2411.08375)|null|
 |**2024-11-13**|**DEEGITS: Deep Learning based Framework for Measuring Heterogenous Traffic State in Challenging Traffic Scenarios**|Muttahirul Islam et.al.|[2411.08335](http://arxiv.org/abs/2411.08335)|null|
-|**2024-11-13**|**LBONet: Supervised Spectral Descriptors for Shape Analysis**|Oguzhan Yigit et.al.|[2411.08272](http://arxiv.org/abs/2411.08272)|null|
+|**2024-11-13**|**LBONet: Supervised Spectral Descriptors for Shape Analysis**|Oguzhan Yigit et.al.|[2411.08272](http://arxiv.org/abs/2411.08272)|**[link](https://github.com/yioguz/LBONet)**|
 |**2024-11-12**|**Deceiving Question-Answering Models: A Hybrid Word-Level Adversarial Approach**|Jiyao Li et.al.|[2411.08248](http://arxiv.org/abs/2411.08248)|**[link](https://github.com/utsjiyaoli/qa-attack)**|
 |**2024-11-12**|**SynapsNet: Enhancing Neuronal Population Dynamics Modeling via Learning Functional Connectivity**|Parsa Delavari et.al.|[2411.08221](http://arxiv.org/abs/2411.08221)|null|
 |**2024-11-12**|**GTA: Global Tracklet Association for Multi-Object Tracking in Sports**|Jiacheng Sun et.al.|[2411.08216](http://arxiv.org/abs/2411.08216)|**[link](https://github.com/sjc042/gta-link)**|
