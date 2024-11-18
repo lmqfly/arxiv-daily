@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.17
+## Updated on 2024.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1133,7 +1133,7 @@ layout: default
 |**2024-11-13**|**The geometry of the deep linear network**|Govind Menon et.al.|[2411.09004](http://arxiv.org/abs/2411.09004)|null|
 |**2024-11-13**|**Virtual teaching assistant for undergraduate students using natural language processing & deep learning**|Sadman Jashim Sakib et.al.|[2411.09001](http://arxiv.org/abs/2411.09001)|null|
 |**2024-11-13**|**Classification of Keratitis from Eye Corneal Photographs using Deep Learning**|Maria Miguel Beirão et.al.|[2411.08935](http://arxiv.org/abs/2411.08935)|null|
-|**2024-11-13**|**Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness**|Suhyeok Jang et.al.|[2411.08933](http://arxiv.org/abs/2411.08933)|**[link](https://github.com/suhyeok24/ft-cadis)**|
+|**2024-11-15**|**Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness**|Suhyeok Jang et.al.|[2411.08933](http://arxiv.org/abs/2411.08933)|**[link](https://github.com/suhyeok24/ft-cadis)**|
 |**2024-11-13**|**Deep Learning Accelerated Quantum Transport Simulations in Nanoelectronics: From Break Junctions to Field-Effect Transistors**|Jijie Zou et.al.|[2411.08800](http://arxiv.org/abs/2411.08800)|**[link](https://github.com/deepmodeling/DeePTB)**|
 |**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734](http://arxiv.org/abs/2411.08734)|**[link](https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review)**|
 |**2024-11-13**|**Analyst Reports and Stock Performance: Evidence from the Chinese Market**|Rui Liu et.al.|[2411.08726](http://arxiv.org/abs/2411.08726)|null|
@@ -1177,7 +1177,7 @@ layout: default
 |**2024-11-12**|**IAE: Irony-based Adversarial Examples for Sentiment Analysis Systems**|Xiaoyin Yi et.al.|[2411.07850](http://arxiv.org/abs/2411.07850)|null|
 |**2024-11-12**|**Towards Vision Mixture of Experts for Wildlife Monitoring on the Edge**|Emmanuel Azuh Mensah et.al.|[2411.07834](http://arxiv.org/abs/2411.07834)|null|
 |**2024-11-12**|**Suite-IN: Aggregating Motion Features from Apple Suite for Robust Inertial Navigation**|Lan Sun et.al.|[2411.07828](http://arxiv.org/abs/2411.07828)|null|
-|**2024-11-12**|**Constraint Learning for Parametric Point Cloud**|Xi Cheng et.al.|[2411.07747](http://arxiv.org/abs/2411.07747)|null|
+|**2024-11-15**|**Constraint Learning for Parametric Point Cloud**|Xi Cheng et.al.|[2411.07747](http://arxiv.org/abs/2411.07747)|null|
 |**2024-11-12**|**Understanding Audiovisual Deepfake Detection: Techniques, Challenges, Human Factors and Perceptual Insights**|Ammarah Hashmi et.al.|[2411.07650](http://arxiv.org/abs/2411.07650)|null|
 |**2024-11-12**|**Maritime Search and Rescue Missions with Aerial Images: A Survey**|Juan P. Martinez-Esteso et.al.|[2411.07649](http://arxiv.org/abs/2411.07649)|null|
 |**2024-11-12**|**xCG: Explainable Cell Graphs for Survival Prediction in Non-Small Cell Lung Cancer**|Marvin Sextro et.al.|[2411.07643](http://arxiv.org/abs/2411.07643)|**[link](https://github.com/marvinsxtr/explainable-cell-graphs)**|
@@ -1189,7 +1189,7 @@ layout: default
 |**2024-11-12**|**Bayesian Deep Learning Approach for Real-time Lane-based Arrival Curve Reconstruction at Intersection using License Plate Recognition Data**|Yang He et.al.|[2411.07515](http://arxiv.org/abs/2411.07515)|null|
 |**2024-11-12**|**AdaS&S: a One-Shot Supernet Approach for Automatic Embedding Size Search in Deep Recommender System**|He Wei et.al.|[2411.07504](http://arxiv.org/abs/2411.07504)|null|
 |**2024-11-13**|**LAuReL: Learned Augmented Residual Layer**|Gaurav Menghani et.al.|[2411.07501](http://arxiv.org/abs/2411.07501)|null|
-|**2024-11-13**|**MSEG-VCUQ: Multimodal SEGmentation with Enhanced Vision Foundation Models, Convolutional Neural Networks, and Uncertainty Quantification for High-Speed Video Phase Detection Data**|Chika Maduabuchi et.al.|[2411.07463](http://arxiv.org/abs/2411.07463)|**[link](https://github.com/chikap421/mseg_vcuq)**|
+|**2024-11-14**|**MSEG-VCUQ: Multimodal SEGmentation with Enhanced Vision Foundation Models, Convolutional Neural Networks, and Uncertainty Quantification for High-Speed Video Phase Detection Data**|Chika Maduabuchi et.al.|[2411.07463](http://arxiv.org/abs/2411.07463)|**[link](https://github.com/chikap421/mseg_vcuq)**|
 |**2024-11-11**|**Predicting BWR Criticality with Data-Driven Machine Learning Model**|Muhammad Rizki Oktavian et.al.|[2411.07425](http://arxiv.org/abs/2411.07425)|null|
 |**2024-11-11**|**Data-Driven Analysis of AI in Medical Device Software in China: Deep Learning and General AI Trends Based on Regulatory Data**|Yu Han et.al.|[2411.07378](http://arxiv.org/abs/2411.07378)|null|
 |**2024-11-11**|**Watermark Anything with Localized Messages**|Tom Sander et.al.|[2411.07231](http://arxiv.org/abs/2411.07231)|**[link](https://github.com/facebookresearch/watermark-anything)**|
@@ -1207,7 +1207,7 @@ layout: default
 |**2024-11-11**|**White-Box Diffusion Transformer for single-cell RNA-seq generation**|Zhuorui Cui et.al.|[2411.06785](http://arxiv.org/abs/2411.06785)|**[link](https://github.com/lingximamo/white-box-diffusion-transformer)**|
 |**2024-11-12**|**Sketched Adaptive Federated Deep Learning: A Sharp Convergence Analysis**|Zhijie Chen et.al.|[2411.06770](http://arxiv.org/abs/2411.06770)|null|
 |**2024-11-11**|**Methane projections from Canada's oil sands tailings using scientific deep learning reveal significant underestimation**|Esha Saha et.al.|[2411.06741](http://arxiv.org/abs/2411.06741)|null|
-|**2024-11-11**|**Dockformer: A transformer-based molecular docking paradigm for large-scale virtual screening**|Zhangfan Yang et.al.|[2411.06740](http://arxiv.org/abs/2411.06740)|null|
+|**2024-11-15**|**Dockformer: A transformer-based molecular docking paradigm for large-scale virtual screening**|Zhangfan Yang et.al.|[2411.06740](http://arxiv.org/abs/2411.06740)|null|
 |**2024-11-11**|**Real-time Monitoring and Analysis of Track and Field Athletes Based on Edge Computing and Deep Reinforcement Learning Algorithm**|Xiaowei Tang et.al.|[2411.06720](http://arxiv.org/abs/2411.06720)|null|
 |**2024-11-11**|**United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images**|Yanguang Sun et.al.|[2411.06703](http://arxiv.org/abs/2411.06703)|**[link](https://github.com/csysi/udcnet)**|
 |**2024-11-11**|**Predicting Country Instability Using Bayesian Deep Learning and Random Forest**|Adam Zebrowski et.al.|[2411.06639](http://arxiv.org/abs/2411.06639)|null|
