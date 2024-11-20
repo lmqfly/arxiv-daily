@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1125,13 +1125,13 @@ layout: default
 |**2024-11-18**|**KAN/MultKAN with Physics-Informed Spline fitting (KAN-PISF) for ordinary/partial differential equation discovery of nonlinear dynamic systems**|Ashish Pal et.al.|[2411.11801](http://arxiv.org/abs/2411.11801)|null|
 |**2024-11-18**|**Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion**|Meng Zhou et.al.|[2411.11799](http://arxiv.org/abs/2411.11799)|**[link](https://github.com/simonzhou86/en_dran)**|
 |**2024-11-18**|**AdaptLIL: A Gaze-Adaptive Visualization for Ontology Mapping**|Nicholas Chow et.al.|[2411.11768](http://arxiv.org/abs/2411.11768)|null|
-|**2024-11-18**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764](http://arxiv.org/abs/2411.11764)|null|
+|**2024-11-19**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764](http://arxiv.org/abs/2411.11764)|null|
 |**2024-11-18**|**Artificial Scientific Discovery**|Antonio Norelli et.al.|[2411.11672](http://arxiv.org/abs/2411.11672)|null|
 |**2024-11-18**|**Introducing IHARDS-CNN: A Cutting-Edge Deep Learning Method for Human Activity Recognition Using Wearable Sensors**|Nazanin Sedaghati et.al.|[2411.11658](http://arxiv.org/abs/2411.11658)|null|
 |**2024-11-18**|**SP ${ }^3$ : Superpixel-propagated pseudo-label learning for weakly semi-supervised medical image segmentation**|Shiman Li et.al.|[2411.11636](http://arxiv.org/abs/2411.11636)|null|
 |**2024-11-18**|**Data-driven model reconstruction for nonlinear wave dynamics**|Ekaterina Smolina et.al.|[2411.11556](http://arxiv.org/abs/2411.11556)|null|
 |**2024-11-18**|**Transformer networks for Heavy flavor jet tagging**|A. Hammad et.al.|[2411.11519](http://arxiv.org/abs/2411.11519)|null|
-|**2024-11-18**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|null|
+|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|null|
 |**2024-11-18**|**Look a Group at Once: Multi-Slide Modeling for Survival Prediction**|Xinyang Li et.al.|[2411.11487](http://arxiv.org/abs/2411.11487)|null|
 |**2024-11-18**|**Deep Learning-based Code Reviews: A Paradigm Shift or a Double-Edged Sword?**|Rosalia Tufano et.al.|[2411.11401](http://arxiv.org/abs/2411.11401)|null|
 |**2024-11-18**|**Adapting to Cyber Threats: A Phishing Evolution Network (PEN) Framework for Phishing Generation and Analyzing Evolution Patterns using Large Language Models**|Fengchao Chen et.al.|[2411.11389](http://arxiv.org/abs/2411.11389)|null|
@@ -1164,7 +1164,7 @@ layout: default
 |**2024-11-16**|**MetricGold: Leveraging Text-To-Image Latent Diffusion Models for Metric Depth Estimation**|Ansh Shah et.al.|[2411.10886](http://arxiv.org/abs/2411.10886)|null|
 |**2024-11-16**|**Neighboring Slice Noise2Noise: Self-Supervised Medical Image Denoising from Single Noisy Image Volume**|Langrui Zhou et.al.|[2411.10831](http://arxiv.org/abs/2411.10831)|null|
 |**2024-11-16**|**DEAL: Decoupled Classifier with Adaptive Linear Modulation for Group Robust Early Diagnosis of MCI to AD Conversion**|Donggyu Lee et.al.|[2411.10814](http://arxiv.org/abs/2411.10814)|null|
-|**2024-11-16**|**Going Beyond Conventional OOD Detection**|Sudarshan Regmi et.al.|[2411.10794](http://arxiv.org/abs/2411.10794)|null|
+|**2024-11-16**|**Going Beyond Conventional OOD Detection**|Sudarshan Regmi et.al.|[2411.10794](http://arxiv.org/abs/2411.10794)|**[link](https://github.com/sudarshanregmi/ascood)**|
 |**2024-11-16**|**An All-in-one Approach for Accelerated Cardiac MRI Reconstruction**|Kian Anvari Hamedani et.al.|[2411.10787](http://arxiv.org/abs/2411.10787)|null|
 |**2024-11-16**|**ML $^2$ Tuner: Efficient Code Tuning via Multi-Level Machine Learning Models**|JooHyoung Cha et.al.|[2411.10764](http://arxiv.org/abs/2411.10764)|null|
 |**2024-11-16**|**Integrated Machine Learning and Survival Analysis Modeling for Enhanced Chronic Kidney Disease Risk Stratification**|Zachary Dana et.al.|[2411.10754](http://arxiv.org/abs/2411.10754)|null|
@@ -1208,7 +1208,7 @@ layout: default
 |**2024-11-14**|**WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking**|Yunchao et.al.|[2411.09820](http://arxiv.org/abs/2411.09820)|null|
 |**2024-11-14**|**Video Denoising in Fluorescence Guided Surgery**|Trevor Seets et.al.|[2411.09798](http://arxiv.org/abs/2411.09798)|null|
 |**2024-11-14**|**Deep Learning for Fetal Inflammatory Response Diagnosis in the Umbilical Cord**|Marina A. Ayad et.al.|[2411.09767](http://arxiv.org/abs/2411.09767)|null|
-|**2024-11-14**|**NACNet: A Histology Context-aware Transformer Graph Convolution Network for Predicting Treatment Response to Neoadjuvant Chemotherapy in Triple Negative Breast Cancer**|Qiang Li et.al.|[2411.09766](http://arxiv.org/abs/2411.09766)|null|
+|**2024-11-19**|**NACNet: A Histology Context-aware Transformer Graph Convolution Network for Predicting Treatment Response to Neoadjuvant Chemotherapy in Triple Negative Breast Cancer**|Qiang Li et.al.|[2411.09766](http://arxiv.org/abs/2411.09766)|null|
 |**2024-11-14**|**Partial Multi-View Clustering via Meta-Learning and Contrastive Feature Alignment**|BoHao Chen et.al.|[2411.09758](http://arxiv.org/abs/2411.09758)|null|
 |**2024-11-14**|**NeuralDEM -- Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
 |**2024-11-14**|**Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images**|Bipasha Kundu et.al.|[2411.09598](http://arxiv.org/abs/2411.09598)|null|

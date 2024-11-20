@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -182,7 +182,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
 
 ## DDI
 
@@ -301,7 +301,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
 
 ## MG
 
@@ -465,7 +465,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
 
 ## MPP
 
@@ -637,7 +637,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
 
 ## MD
 
@@ -1135,7 +1135,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
 
 ## Transformer
 
@@ -1145,13 +1145,13 @@
 |**2024-11-18**|**KAN/MultKAN with Physics-Informed Spline fitting (KAN-PISF) for ordinary/partial differential equation discovery of nonlinear dynamic systems**|Ashish Pal et.al.|[2411.11801](http://arxiv.org/abs/2411.11801)|null|
 |**2024-11-18**|**Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion**|Meng Zhou et.al.|[2411.11799](http://arxiv.org/abs/2411.11799)|**[link](https://github.com/simonzhou86/en_dran)**|
 |**2024-11-18**|**AdaptLIL: A Gaze-Adaptive Visualization for Ontology Mapping**|Nicholas Chow et.al.|[2411.11768](http://arxiv.org/abs/2411.11768)|null|
-|**2024-11-18**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764](http://arxiv.org/abs/2411.11764)|null|
+|**2024-11-19**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764](http://arxiv.org/abs/2411.11764)|null|
 |**2024-11-18**|**Artificial Scientific Discovery**|Antonio Norelli et.al.|[2411.11672](http://arxiv.org/abs/2411.11672)|null|
 |**2024-11-18**|**Introducing IHARDS-CNN: A Cutting-Edge Deep Learning Method for Human Activity Recognition Using Wearable Sensors**|Nazanin Sedaghati et.al.|[2411.11658](http://arxiv.org/abs/2411.11658)|null|
 |**2024-11-18**|**SP ${ }^3$ : Superpixel-propagated pseudo-label learning for weakly semi-supervised medical image segmentation**|Shiman Li et.al.|[2411.11636](http://arxiv.org/abs/2411.11636)|null|
 |**2024-11-18**|**Data-driven model reconstruction for nonlinear wave dynamics**|Ekaterina Smolina et.al.|[2411.11556](http://arxiv.org/abs/2411.11556)|null|
 |**2024-11-18**|**Transformer networks for Heavy flavor jet tagging**|A. Hammad et.al.|[2411.11519](http://arxiv.org/abs/2411.11519)|null|
-|**2024-11-18**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|null|
+|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|null|
 |**2024-11-18**|**Look a Group at Once: Multi-Slide Modeling for Survival Prediction**|Xinyang Li et.al.|[2411.11487](http://arxiv.org/abs/2411.11487)|null|
 |**2024-11-18**|**Deep Learning-based Code Reviews: A Paradigm Shift or a Double-Edged Sword?**|Rosalia Tufano et.al.|[2411.11401](http://arxiv.org/abs/2411.11401)|null|
 |**2024-11-18**|**Adapting to Cyber Threats: A Phishing Evolution Network (PEN) Framework for Phishing Generation and Analyzing Evolution Patterns using Large Language Models**|Fengchao Chen et.al.|[2411.11389](http://arxiv.org/abs/2411.11389)|null|
@@ -1184,7 +1184,7 @@
 |**2024-11-16**|**MetricGold: Leveraging Text-To-Image Latent Diffusion Models for Metric Depth Estimation**|Ansh Shah et.al.|[2411.10886](http://arxiv.org/abs/2411.10886)|null|
 |**2024-11-16**|**Neighboring Slice Noise2Noise: Self-Supervised Medical Image Denoising from Single Noisy Image Volume**|Langrui Zhou et.al.|[2411.10831](http://arxiv.org/abs/2411.10831)|null|
 |**2024-11-16**|**DEAL: Decoupled Classifier with Adaptive Linear Modulation for Group Robust Early Diagnosis of MCI to AD Conversion**|Donggyu Lee et.al.|[2411.10814](http://arxiv.org/abs/2411.10814)|null|
-|**2024-11-16**|**Going Beyond Conventional OOD Detection**|Sudarshan Regmi et.al.|[2411.10794](http://arxiv.org/abs/2411.10794)|null|
+|**2024-11-16**|**Going Beyond Conventional OOD Detection**|Sudarshan Regmi et.al.|[2411.10794](http://arxiv.org/abs/2411.10794)|**[link](https://github.com/sudarshanregmi/ascood)**|
 |**2024-11-16**|**An All-in-one Approach for Accelerated Cardiac MRI Reconstruction**|Kian Anvari Hamedani et.al.|[2411.10787](http://arxiv.org/abs/2411.10787)|null|
 |**2024-11-16**|**ML $^2$ Tuner: Efficient Code Tuning via Multi-Level Machine Learning Models**|JooHyoung Cha et.al.|[2411.10764](http://arxiv.org/abs/2411.10764)|null|
 |**2024-11-16**|**Integrated Machine Learning and Survival Analysis Modeling for Enhanced Chronic Kidney Disease Risk Stratification**|Zachary Dana et.al.|[2411.10754](http://arxiv.org/abs/2411.10754)|null|
@@ -1228,7 +1228,7 @@
 |**2024-11-14**|**WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking**|Yunchao et.al.|[2411.09820](http://arxiv.org/abs/2411.09820)|null|
 |**2024-11-14**|**Video Denoising in Fluorescence Guided Surgery**|Trevor Seets et.al.|[2411.09798](http://arxiv.org/abs/2411.09798)|null|
 |**2024-11-14**|**Deep Learning for Fetal Inflammatory Response Diagnosis in the Umbilical Cord**|Marina A. Ayad et.al.|[2411.09767](http://arxiv.org/abs/2411.09767)|null|
-|**2024-11-14**|**NACNet: A Histology Context-aware Transformer Graph Convolution Network for Predicting Treatment Response to Neoadjuvant Chemotherapy in Triple Negative Breast Cancer**|Qiang Li et.al.|[2411.09766](http://arxiv.org/abs/2411.09766)|null|
+|**2024-11-19**|**NACNet: A Histology Context-aware Transformer Graph Convolution Network for Predicting Treatment Response to Neoadjuvant Chemotherapy in Triple Negative Breast Cancer**|Qiang Li et.al.|[2411.09766](http://arxiv.org/abs/2411.09766)|null|
 |**2024-11-14**|**Partial Multi-View Clustering via Meta-Learning and Contrastive Feature Alignment**|BoHao Chen et.al.|[2411.09758](http://arxiv.org/abs/2411.09758)|null|
 |**2024-11-14**|**NeuralDEM -- Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
 |**2024-11-14**|**Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images**|Bipasha Kundu et.al.|[2411.09598](http://arxiv.org/abs/2411.09598)|null|
@@ -7271,7 +7271,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
 
 ## Binding
 
@@ -7453,7 +7453,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -7597,7 +7597,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
