@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.21
+## Updated on 2024.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -78,7 +78,7 @@ layout: default
 |**2024-01-30**|**A large dataset curation and benchmark for drug target interaction**|Alex Golts et.al.|[2401.17174](http://arxiv.org/abs/2401.17174)|null|
 |**2024-08-04**|**Self-consistent sharp interface theory of active condensate dynamics**|Andriy Goychuk et.al.|[2401.17111](http://arxiv.org/abs/2401.17111)|null|
 |**2024-03-13**|**Fast Dual-Regularized Autoencoder for Sparse Biological Data**|Aleksandar Poleksic et.al.|[2401.16664](http://arxiv.org/abs/2401.16664)|null|
-|**2024-01-29**|**Analytic Model for Molecules Under Collective Vibrational Strong Coupling in Optical Cavities**|Jacob Horak et.al.|[2401.16374](http://arxiv.org/abs/2401.16374)|null|
+|**2024-11-21**|**Analytic Model Reveals Local Molecular Polarizability Changes Induced by Collective Strong Coupling in Optical Cavities**|Jacob Horak et.al.|[2401.16374](http://arxiv.org/abs/2401.16374)|null|
 |**2024-01-24**|**In Silico Seawater**|I. M. Zeron et.al.|[2401.13158](http://arxiv.org/abs/2401.13158)|null|
 |**2024-01-23**|**Uncertainty quantification of receptor ligand binding sites prediction**|Nanjie Chen et.al.|[2401.11312](http://arxiv.org/abs/2401.11312)|null|
 |**2024-07-22**|**Force Propagation in Active Cytoskeletal Networks**|Shichen Liu et.al.|[2401.04217](http://arxiv.org/abs/2401.04217)|null|
@@ -686,7 +686,7 @@ layout: default
 |**2024-10-17**|**The Latent Road to Atoms: Backmapping Coarse-grained Protein Structures with Latent Diffusion**|Xu Han et.al.|[2410.13264](http://arxiv.org/abs/2410.13264)|null|
 |**2024-10-17**|**Entropy-Driven Preordering Assists Nucleation in Polyethylene**|Renkuan Cao et.al.|[2410.13128](http://arxiv.org/abs/2410.13128)|null|
 |**2024-10-16**|**Structure of the water/magnetite interface from sum frequency generation experiments and neural network based molecular dynamics simulations**|Salvatore Romano et.al.|[2410.12717](http://arxiv.org/abs/2410.12717)|null|
-|**2024-10-16**|**Phase transformation kinetics in polycrystalline Fe_xAl_1-x (x>0.6) alloys: Experiment and Simulation**|Artem A. Nazarov et.al.|[2410.12486](http://arxiv.org/abs/2410.12486)|null|
+|**2024-11-21**|**Phase transformation kinetics in polycrystalline Fe_xAl_1-x (x>0.6) alloys: Experiment and Simulation**|Artem A. Nazarov et.al.|[2410.12486](http://arxiv.org/abs/2410.12486)|null|
 |**2024-10-16**|**Intrinsic grain boundary mobility tensor from three-dimensional interface random walk**|Xinyuan Song et.al.|[2410.12133](http://arxiv.org/abs/2410.12133)|null|
 |**2024-10-15**|**Narrowband gamma-ray radiation generation by acoustically driven crystalline undulators**|Konstantinos Kaleris et.al.|[2410.11621](http://arxiv.org/abs/2410.11621)|null|
 |**2024-10-15**|**Multi-Scale Molecular Dynamics Simulations**|Frédéric Boussinot et.al.|[2410.11342](http://arxiv.org/abs/2410.11342)|null|
@@ -7349,7 +7349,7 @@ layout: default
 |**2024-09-30**|**Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design**|Shengchao Liu et.al.|[2409.10584](http://arxiv.org/abs/2409.10584)|null|
 |**2024-09-16**|**Uncovering the Mechanism of Hepatotoxiciy of PFAS Targeting L-FABP Using GCN and Computational Modeling**|Lucas Jividen et.al.|[2409.10370](http://arxiv.org/abs/2409.10370)|**[link](https://github.com/LabJunBMI/GCN-PFAS-Docking-Score-Prediction)**|
 |**2024-09-12**|**De novo design of high-affinity protein binders with AlphaProteo**|Vinicius Zambaldi et.al.|[2409.08022](http://arxiv.org/abs/2409.08022)|null|
-|**2024-08-27**|**S-MolSearch: 3D Semi-supervised Contrastive Learning for Bioactive Molecule Search**|Gengmo Zhou et.al.|[2409.07462](http://arxiv.org/abs/2409.07462)|null|
+|**2024-11-21**|**S-MolSearch: 3D Semi-supervised Contrastive Learning for Bioactive Molecule Search**|Gengmo Zhou et.al.|[2409.07462](http://arxiv.org/abs/2409.07462)|null|
 |**2024-09-07**|**CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction**|Shrimon Mukherjee et.al.|[2409.04737](http://arxiv.org/abs/2409.04737)|null|
 |**2024-08-21**|**CoPRA: Bridging Cross-domain Pretrained Sequence Models with Complex Structures for Protein-RNA Binding Affinity Prediction**|Rong Han et.al.|[2409.03773](http://arxiv.org/abs/2409.03773)|null|
 |**2024-08-29**|**Universal mechanistic rules for de novo design of enzymes**|Michalis Chatzittofi et.al.|[2408.16639](http://arxiv.org/abs/2408.16639)|null|
@@ -7504,7 +7504,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-19**|**E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting**|Madhurima Panja et.al.|[2411.12258](http://arxiv.org/abs/2411.12258)|null|
-|**2024-11-13**|**SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG**|Shanglin Li et.al.|[2411.07249](http://arxiv.org/abs/2411.07249)|null|
+|**2024-11-21**|**SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG**|Shanglin Li et.al.|[2411.07249](http://arxiv.org/abs/2411.07249)|null|
 |**2024-11-18**|**A Multimodal Adaptive Graph-based Intelligent Classification Model for Fake News**|Jun-hao et.al.|[2411.06097](http://arxiv.org/abs/2411.06097)|null|
 |**2024-11-07**|**Equivariant Graph Attention Networks with Structural Motifs for Predicting Cell Line-Specific Synergistic Drug Combinations**|Zachary Schwehr et.al.|[2411.04747](http://arxiv.org/abs/2411.04747)|**[link](https://github.com/wetothemoon/egat_drugsynergy)**|
 |**2024-11-06**|**Multi-branch Spatio-Temporal Graph Neural Network For Efficient Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2411.04055](http://arxiv.org/abs/2411.04055)|null|
