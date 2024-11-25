@@ -308,6 +308,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Enhancing Molecular Design through Graph-based Topological Reinforcement Learning**|Xiangyu Zhang et.al.|[2411.14726](http://arxiv.org/abs/2411.14726)|null|
 |**2024-11-18**|**Molecule Generation with Fragment Retrieval Augmentation**|Seul Lee et.al.|[2411.12078](http://arxiv.org/abs/2411.12078)|null|
 |**2024-11-10**|**MolMiner: Transformer architecture for fragment-based autoregressive generation of molecular stories**|Raul Ortega Ochoa et.al.|[2411.06608](http://arxiv.org/abs/2411.06608)|null|
 |**2024-11-08**|**Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation**|Peidong Liu et.al.|[2411.05472](http://arxiv.org/abs/2411.05472)|**[link](https://github.com/hughnew/gapdiff)**|
@@ -646,6 +647,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Interfacial Properties of Composites Based on h-BN and c-BN in Function of Temperature: a Molecular Dynamics Study**|Pedro A. Parra et.al.|[2411.14888](http://arxiv.org/abs/2411.14888)|null|
+|**2024-11-22**|**Constant-Potential Machine Learning Molecular Dynamics Simulations Reveal Potential-Regulated Cu Cluster Formation on MoS $_{2}$**|Jingwen Zhou et.al.|[2411.14732](http://arxiv.org/abs/2411.14732)|null|
+|**2024-11-20**|**Hierarchical multiscale fracture modeling of carbon-nitride nanosheet reinforced composites by combining cohesive phase-field and molecular dynamics**|Qinghua Zhang et.al.|[2411.14492](http://arxiv.org/abs/2411.14492)|null|
 |**2024-11-21**|**Anomalous Transition in Thermal Conductivity in Germanene Monolayer**|Sapta Sindhu Paul Chowdhury et.al.|[2411.14197](http://arxiv.org/abs/2411.14197)|null|
 |**2024-11-21**|**ALKPU: an active learning method for the DeePMD model with Kalman filter**|Haibo Li et.al.|[2411.13850](http://arxiv.org/abs/2411.13850)|null|
 |**2024-11-20**|**Interfacial Water Polarization: A Critical Force for Graphene-based Electrochemical Interfaces**|Peiyao Wang et.al.|[2411.13747](http://arxiv.org/abs/2411.13747)|null|
@@ -1153,6 +1157,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Dimension-independent rates for structured neural density estimation**|Robert A. Vandermeulen et.al.|[2411.15095](http://arxiv.org/abs/2411.15095)|null|
+|**2024-11-22**|**Leapfrog Latent Consistency Model (LLCM) for Medical Images Generation**|Lakshmikar R. Polamreddy et.al.|[2411.15084](http://arxiv.org/abs/2411.15084)|**[link](https://github.com/lskdsjy/leapfroglcm)**|
+|**2024-11-22**|**Resolution-Adaptive Micro-Doppler Spectrogram for Human Activity Recognition**|Do-Hyun Park et.al.|[2411.15057](http://arxiv.org/abs/2411.15057)|null|
+|**2024-11-22**|**Fantastic Biases (What are They) and Where to Find Them**|Valentin Barriere et.al.|[2411.15051](http://arxiv.org/abs/2411.15051)|null|
+|**2024-11-22**|**Adaptive Group Robust Ensemble Knowledge Distillation**|Patrik Kenfack et.al.|[2411.14984](http://arxiv.org/abs/2411.14984)|null|
+|**2024-11-22**|**Exploring Kolmogorov-Arnold Networks for Interpretable Time Series Classification**|Irina Barašin et.al.|[2411.14904](http://arxiv.org/abs/2411.14904)|null|
+|**2024-11-22**|**Rapid eccentric spin-aligned binary black hole waveform generation based on deep learning**|Ruijun Shi et.al.|[2411.14893](http://arxiv.org/abs/2411.14893)|null|
+|**2024-11-22**|**CardioLab: Laboratory Values Estimation and Monitoring from Electrocardiogram Signals -- A Multimodal Deep Learning Approach**|Juan Miguel Lopez Alcaraz et.al.|[2411.14886](http://arxiv.org/abs/2411.14886)|null|
+|**2024-11-22**|**Ex Uno Pluria: Insights on Ensembling in Low Precision Number Systems**|Giung Nam et.al.|[2411.14860](http://arxiv.org/abs/2411.14860)|null|
+|**2024-11-22**|**On building the state error covariance from a state estimate**|Pavel Sakov et.al.|[2411.14809](http://arxiv.org/abs/2411.14809)|null|
+|**2024-11-22**|**Harlequin: Color-driven Generation of Synthetic Data for Referring Expression Comprehension**|Luca Parolari et.al.|[2411.14807](http://arxiv.org/abs/2411.14807)|null|
+|**2024-11-22**|**Comparative Analysis of nnUNet and MedNeXt for Head and Neck Tumor Segmentation in MRI-guided Radiotherapy**|Nikoo Moradi et.al.|[2411.14752](http://arxiv.org/abs/2411.14752)|**[link](https://github.com/NikooMoradi/HNTSMRG24_team_TUMOR)**|
+|**2024-11-22**|**Double Machine Learning for Adaptive Causal Representation in High-Dimensional Data**|Lynda Aouar et.al.|[2411.14665](http://arxiv.org/abs/2411.14665)|null|
+|**2024-11-22**|**mmWave Radar for Sit-to-Stand Analysis: A Comparative Study with Wearables and Kinect**|Shuting Hu et.al.|[2411.14656](http://arxiv.org/abs/2411.14656)|null|
+|**2024-11-21**|**ACE-Net: AutofoCus-Enhanced Convolutional Network for Field Imperfection Estimation with application to high b-value spiral Diffusion MRI**|Mengze Gao et.al.|[2411.14630](http://arxiv.org/abs/2411.14630)|null|
+|**2024-11-21**|**Efficient Spatio-Temporal Signal Recognition on Edge Devices Using PointLCA-Net**|Sanaz Mahmoodi Takaghaj et.al.|[2411.14585](http://arxiv.org/abs/2411.14585)|null|
+|**2024-11-21**|**Enhancing GeoAI and location encoding with spatial point pattern statistics: A Case Study of Terrain Feature Classification**|Sizhe Wang et.al.|[2411.14560](http://arxiv.org/abs/2411.14560)|null|
+|**2024-11-21**|**Deep operator network models for predicting post-burn contraction**|Selma Husanovic et.al.|[2411.14555](http://arxiv.org/abs/2411.14555)|null|
 |**2024-11-21**|**From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption**|Shourya Bose et.al.|[2411.14421](http://arxiv.org/abs/2411.14421)|null|
 |**2024-11-21**|**Engineering spectro-temporal light states with physics-trained deep learning**|Shilong Liu et.al.|[2411.14410](http://arxiv.org/abs/2411.14410)|null|
 |**2024-11-21**|**Enhancing Diagnostic Precision in Gastric Bleeding through Automated Lesion Segmentation: A Deep DuS-KFCM Approach**|Xian-Xian Liu et.al.|[2411.14385](http://arxiv.org/abs/2411.14385)|null|
@@ -7378,6 +7400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Enhancing Molecular Design through Graph-based Topological Reinforcement Learning**|Xiangyu Zhang et.al.|[2411.14726](http://arxiv.org/abs/2411.14726)|null|
 |**2024-11-20**|**DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback**|Mahsa Sheikholeslami et.al.|[2411.14157](http://arxiv.org/abs/2411.14157)|**[link](https://github.com/mahsasheikh/DrugGen)**|
 |**2024-11-06**|**BAPULM: Binding Affinity Prediction using Language Models**|Radheesh Sharma Meda et.al.|[2411.04150](http://arxiv.org/abs/2411.04150)|**[link](https://github.com/radh55sh/BAPULM)**|
 |**2024-11-07**|**Persistent Directed Flag Laplacian (PDFL)-Based Machine Learning for Protein-Ligand Binding Affinity Prediction**|Mushal Zia et.al.|[2411.02596](http://arxiv.org/abs/2411.02596)|**[link](https://github.com/bdjones13/flagser-laplacian)**|
