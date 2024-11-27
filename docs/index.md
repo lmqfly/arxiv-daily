@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1165,7 +1165,7 @@ layout: default
 |**2024-11-25**|**A Graph Neural Architecture Search Approach for Identifying Bots in Social Media**|Georgios Tzoumanekas et.al.|[2411.16285](http://arxiv.org/abs/2411.16285)|null|
 |**2024-11-25**|**Deep Learning for Motion Classification in Ankle Exoskeletons Using Surface EMG and IMU Signals**|Silas Ruhrberg Estévez et.al.|[2411.16273](http://arxiv.org/abs/2411.16273)|null|
 |**2024-11-25**|**Diagnosis of diabetic retinopathy using machine learning & deep learning technique**|Eric Shah et.al.|[2411.16250](http://arxiv.org/abs/2411.16250)|null|
-|**2024-11-25**|**BadSFL: Backdoor Attack against Scaffold Federated Learning**|Xingshuo Han et.al.|[2411.16167](http://arxiv.org/abs/2411.16167)|null|
+|**2024-11-26**|**BadSFL: Backdoor Attack against Scaffold Federated Learning**|Xingshuo Han et.al.|[2411.16167](http://arxiv.org/abs/2411.16167)|null|
 |**2024-11-25**|**Explainable MST-ECoGNet Decode Visual Information from ECoG Signal**|Changqing JI et.al.|[2411.16165](http://arxiv.org/abs/2411.16165)|null|
 |**2024-11-25**|**Optimizing Winograd Convolution on ARMv8 manycore processors**|Haoyuan Gui et.al.|[2411.16152](http://arxiv.org/abs/2411.16152)|null|
 |**2024-11-25**|**Beyond Task Vectors: Selective Task Arithmetic Based on Importance Metrics**|Tian Bowen et.al.|[2411.16139](http://arxiv.org/abs/2411.16139)|null|
@@ -1195,7 +1195,7 @@ layout: default
 |**2024-11-23**|**Enhancing Object Detection Accuracy in Autonomous Vehicles Using Synthetic Data**|Sergei Voronin et.al.|[2411.15602](http://arxiv.org/abs/2411.15602)|null|
 |**2024-11-23**|**Optimizing Gesture Recognition for Seamless UI Interaction Using Convolutional Neural Networks**|Qi Sun et.al.|[2411.15598](http://arxiv.org/abs/2411.15598)|null|
 |**2024-11-23**|**Comparative Analysis of Resource-Efficient CNN Architectures for Brain Tumor Classification**|Md Ashik Khan et.al.|[2411.15596](http://arxiv.org/abs/2411.15596)|null|
-|**2024-11-23**|**Classifier Enhanced Deep Learning Model for Erythroblast Differentiation with Limited Data**|Buddhadev Goswami et.al.|[2411.15592](http://arxiv.org/abs/2411.15592)|null|
+|**2024-11-26**|**Classifier Enhanced Deep Learning Model for Erythroblast Differentiation with Limited Data**|Buddhadev Goswami et.al.|[2411.15592](http://arxiv.org/abs/2411.15592)|null|
 |**2024-11-23**|**Deep Learning for THz Channel Estimation and Beamforming Prediction via Sub-6GHz Channel**|Sagnik Bhattacharya et.al.|[2411.15589](http://arxiv.org/abs/2411.15589)|null|
 |**2024-11-23**|**Transparent but Powerful: Explainability, Accuracy, and Generalizability in ADHD Detection from Social Media Data**|D. Wiechmann et.al.|[2411.15586](http://arxiv.org/abs/2411.15586)|null|
 |**2024-11-23**|**Enhancing Grammatical Error Detection using BERT with Cleaned Lang-8 Dataset**|Rahul Nihalani et.al.|[2411.15523](http://arxiv.org/abs/2411.15523)|null|
@@ -7460,7 +7460,7 @@ layout: default
 |**2024-11-02**|**PDBBind Optimization to Create a High-Quality Protein-Ligand Binding Dataset for Binding Affinity Prediction**|Yingze Wang et.al.|[2411.01223](http://arxiv.org/abs/2411.01223)|**[link](https://github.com/THGLab/PDBBind-Opt)**|
 |**2024-10-31**|**Revolutionizing Personalized Cancer Vaccines with NEO: Novel Epitope Optimization Using an Aggregated Feed Forward and Recurrent Neural Network with LSTM Architecture**|Nishanth Basava et.al.|[2411.00885](http://arxiv.org/abs/2411.00885)|null|
 |**2024-10-28**|**Retrieval-Enhanced Mutation Mastery: Augmenting Zero-Shot Prediction of Protein Language Model**|Yang Tan et.al.|[2410.21127](http://arxiv.org/abs/2410.21127)|**[link](https://github.com/tyang816/protrem)**|
-|**2024-10-28**|**Reprogramming Pretrained Target-Specific Diffusion Models for Dual-Target Drug Design**|Xiangxin Zhou et.al.|[2410.20688](http://arxiv.org/abs/2410.20688)|null|
+|**2024-11-26**|**Reprogramming Pretrained Target-Specific Diffusion Models for Dual-Target Drug Design**|Xiangxin Zhou et.al.|[2410.20688](http://arxiv.org/abs/2410.20688)|null|
 |**2024-10-25**|**Binding memory of liquid molecules**|Shiyi Qin et.al.|[2410.19634](http://arxiv.org/abs/2410.19634)|null|
 |**2024-10-22**|**An evaluation of machine learning/molecular mechanics end-state corrections with mechanical embedding to calculate relative protein-ligand binding free energies**|Johannes Karwounopoulos et.al.|[2410.16818](http://arxiv.org/abs/2410.16818)|null|
 |**2024-10-21**|**QuickBind: A Light-Weight And Interpretable Molecular Docking Model**|Wojtek Treyde et.al.|[2410.16474](http://arxiv.org/abs/2410.16474)|**[link](https://github.com/aqlaboratory/quickbind)**|
