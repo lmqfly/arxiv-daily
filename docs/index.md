@@ -298,8 +298,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-25**|**Limeade: Let integer molecular encoding aid**|Shiqiang Zhang et.al.|[2411.16623](http://arxiv.org/abs/2411.16623)|**[link](https://github.com/cog-imperial/limeade)**|
-|**2024-11-23**|**MolMetaLM: a Physicochemical Knowledge-Guided Molecular Meta Language Model**|Yifan Wu et.al.|[2411.15500](http://arxiv.org/abs/2411.15500)|null|
-|**2024-11-19**|**Balancing property optimization and constraint satisfaction for constrained multi-property molecular optimization**|Xin Xia et.al.|[2411.15183](http://arxiv.org/abs/2411.15183)|null|
+|**2024-11-23**|**MolMetaLM: a Physicochemical Knowledge-Guided Molecular Meta Language Model**|Yifan Wu et.al.|[2411.15500](http://arxiv.org/abs/2411.15500)|**[link](https://github.com/CSUBioGroup/MolMetaLM)**|
+|**2024-11-19**|**Balancing property optimization and constraint satisfaction for constrained multi-property molecular optimization**|Xin Xia et.al.|[2411.15183](http://arxiv.org/abs/2411.15183)|**[link](https://github.com/ahu-bioinf-lab/CMOMO-master)**|
 |**2024-11-22**|**Enhancing Molecular Design through Graph-based Topological Reinforcement Learning**|Xiangyu Zhang et.al.|[2411.14726](http://arxiv.org/abs/2411.14726)|null|
 |**2024-11-18**|**Molecule Generation with Fragment Retrieval Augmentation**|Seul Lee et.al.|[2411.12078](http://arxiv.org/abs/2411.12078)|null|
 |**2024-11-10**|**MolMiner: Transformer architecture for fragment-based autoregressive generation of molecular stories**|Raul Ortega Ochoa et.al.|[2411.06608](http://arxiv.org/abs/2411.06608)|null|
@@ -1180,8 +1180,8 @@ layout: default
 |**2024-11-27**|**ESS-ReduNet: Enhancing Subspace Separability of ReduNet via Dynamic Expansion with Bayesian Inference**|Xiaojie Yu et.al.|[2411.17961](http://arxiv.org/abs/2411.17961)|null|
 |**2024-11-26**|**Automating grapevine LAI features estimation with UAV imagery and machine learning**|Muhammad Waseem Akram et.al.|[2411.17897](http://arxiv.org/abs/2411.17897)|null|
 |**2024-11-26**|**Multimodal Crash Likelihood Prediction: A Complexity-Infused Approach Integrating Semantic, Contextual, and Driving Features**|Meng Wang et.al.|[2411.17886](http://arxiv.org/abs/2411.17886)|null|
-|**2024-11-26**|**Breast Tumor Classification Using EfficientNet Deep Learning Model**|Majid Behzadpour et.al.|[2411.17870](http://arxiv.org/abs/2411.17870)|null|
-|**2024-11-26**|**ReC-TTT: Contrastive Feature Reconstruction for Test-Time Training**|Marco Colussi et.al.|[2411.17869](http://arxiv.org/abs/2411.17869)|null|
+|**2024-11-26**|**Breast Tumor Classification Using EfficientNet Deep Learning Model**|Majid Behzadpour et.al.|[2411.17870](http://arxiv.org/abs/2411.17870)|**[link](https://github.com/majid9418/Breast-Tumor-Classification-Histopathological)**|
+|**2024-11-26**|**ReC-TTT: Contrastive Feature Reconstruction for Test-Time Training**|Marco Colussi et.al.|[2411.17869](http://arxiv.org/abs/2411.17869)|**[link](https://github.com/warpcut/ReC-TTT)**|
 |**2024-11-26**|**Distributed Sign Momentum with Local Steps for Training Transformers**|Shuhua Yu et.al.|[2411.17866](http://arxiv.org/abs/2411.17866)|null|
 |**2024-11-26**|**Reliability of deep learning models for anatomical landmark detection: The role of inter-rater variability**|Soorena Salari et.al.|[2411.17850](http://arxiv.org/abs/2411.17850)|null|
 |**2024-11-26**|**CAMLD: Contrast-Agnostic Medical Landmark Detection with Consistency-Based Regularization**|Soorena Salari et.al.|[2411.17845](http://arxiv.org/abs/2411.17845)|null|
@@ -1211,7 +1211,7 @@ layout: default
 |**2024-11-26**|**Physics-Informed Neural Networks with good lattice points set for solve low regularity PDEs and high dimensional PDE**|Yu Yang et.al.|[2411.17039](http://arxiv.org/abs/2411.17039)|null|
 |**2024-11-25**|**CMAViT: Integrating Climate, Managment, and Remote Sensing Data for Crop Yield Estimation with Multimodel Vision Transformers**|Hamid Kamangir et.al.|[2411.16989](http://arxiv.org/abs/2411.16989)|null|
 |**2024-11-25**|**Glo-In-One-v2: Holistic Identification of Glomerular Cells, Tissues, and Lesions in Human and Mouse Histopathology**|Lining Yu et.al.|[2411.16961](http://arxiv.org/abs/2411.16961)|**[link](https://github.com/hrlblab/glo-in-one_v2)**|
-|**2024-11-25**|**Contrastive Deep Learning Reveals Age Biomarkers in Histopathological Skin Biopsies**|Kaustubh Chakradeo et.al.|[2411.16956](http://arxiv.org/abs/2411.16956)|**[link](https://github.com/kaustubhchakradeo/cdl_skin_biopsies)**|
+|**2024-11-25**|**Contrastive Deep Learning Reveals Age Biomarkers in Histopathological Skin Biopsies**|Kaustubh Chakradeo et.al.|[2411.16956](http://arxiv.org/abs/2411.16956)|null|
 |**2024-11-25**|**Performance Evaluation of Deep Learning-Based State Estimation: A Comparative Study of KalmanNet**|Arian Mehrfard et.al.|[2411.16930](http://arxiv.org/abs/2411.16930)|null|
 |**2024-11-25**|**ASSERTIFY: Utilizing Large Language Models to Generate Assertions for Production Code**|Mohammad Jalili Torkamani et.al.|[2411.16927](http://arxiv.org/abs/2411.16927)|null|
 |**2024-11-25**|**A Gigaparsec-Scale Hydrodynamic Volume Reconstructed with Deep Learning**|Cooper Jacobus et.al.|[2411.16920](http://arxiv.org/abs/2411.16920)|null|
