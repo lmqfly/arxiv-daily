@@ -635,7 +635,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-27**|**Building Confidence in Deep Generative Protein Design**|Tianyuan Zheng et.al.|[2411.18568](http://arxiv.org/abs/2411.18568)|null|
+|**2024-11-27**|**Building Confidence in Deep Generative Protein Design**|Tianyuan Zheng et.al.|[2411.18568](http://arxiv.org/abs/2411.18568)|**[link](https://github.com/ecburx/proteval)**|
 |**2024-11-27**|**Relaxation Dynamics of Entangled Linear Polymer Melts via Molecular Dynamics Simulations**|Alireza F. Behbahani et.al.|[2411.17953](http://arxiv.org/abs/2411.17953)|null|
 |**2024-11-25**|**Characterization of Silicon Carbide Biphenylene Network through G0W0-BSE Calculations**|Arushi Singh et.al.|[2411.16520](http://arxiv.org/abs/2411.16520)|null|
 |**2024-11-23**|**Accelerated Hydration Site Localization and Thermodynamic Profiling**|Florian B. Hinz et.al.|[2411.15618](http://arxiv.org/abs/2411.15618)|**[link](https://github.com/lillgroup/HydrationSitePrediction)**|
@@ -1161,10 +1161,10 @@ layout: default
 |**2024-11-27**|**Streamlining Prediction in Bayesian Deep Learning**|Rui Li et.al.|[2411.18425](http://arxiv.org/abs/2411.18425)|null|
 |**2024-11-27**|**Preserving Information: How does Topological Data Analysis improve Neural Network performance?**|A. Stolarek et.al.|[2411.18410](http://arxiv.org/abs/2411.18410)|null|
 |**2024-11-27**|**Deep Fourier-embedded Network for Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.18409](http://arxiv.org/abs/2411.18409)|**[link](https://github.com/joshualpf/dfenet)**|
-|**2024-11-27**|**The more, the better? Evaluating the role of EEG preprocessing for deep learning applications**|Federico Del Pup et.al.|[2411.18392](http://arxiv.org/abs/2411.18392)|null|
+|**2024-11-27**|**The more, the better? Evaluating the role of EEG preprocessing for deep learning applications**|Federico Del Pup et.al.|[2411.18392](http://arxiv.org/abs/2411.18392)|**[link](https://github.com/medmaxlab/eegprepro)**|
 |**2024-11-27**|**Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment**|Shima Mohammadi et.al.|[2411.18372](http://arxiv.org/abs/2411.18372)|null|
 |**2024-11-27**|**FreqX: What neural networks learn is what network designers say**|Zechen Liu et.al.|[2411.18343](http://arxiv.org/abs/2411.18343)|null|
-|**2024-11-27**|**Transfer Learning for Deep Learning-based Prediction of Lattice Thermal Conductivity**|L. Klochko et.al.|[2411.18259](http://arxiv.org/abs/2411.18259)|null|
+|**2024-11-27**|**Transfer Learning for Deep Learning-based Prediction of Lattice Thermal Conductivity**|L. Klochko et.al.|[2411.18259](http://arxiv.org/abs/2411.18259)|**[link](https://github.com/liudakl/ParAIsite)**|
 |**2024-11-27**|**Multimodal Integration of Longitudinal Noninvasive Diagnostics for Survival Prediction in Immunotherapy Using Deep Learning**|Melda Yeghaian et.al.|[2411.18253](http://arxiv.org/abs/2411.18253)|null|
 |**2024-11-27**|**Deep End-to-end Adaptive k-Space Sampling, Reconstruction, and Registration for Dynamic MRI**|George Yiasemis et.al.|[2411.18249](http://arxiv.org/abs/2411.18249)|null|
 |**2024-11-27**|**Machine Unlearning reveals that the Gender-based Violence Victim Condition can be detected from Speech in a Speaker-Agnostic Setting**|Emma Reyner-Fuentes et.al.|[2411.18177](http://arxiv.org/abs/2411.18177)|null|
