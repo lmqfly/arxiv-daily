@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.03
+## Updated on 2024.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1195,7 +1195,7 @@ layout: default
 |**2024-11-27**|**6G Takes Shape**|Jeffrey G. Andrews et.al.|[2411.18435](http://arxiv.org/abs/2411.18435)|null|
 |**2024-11-27**|**An End-to-End Smart Predict-then-Optimize Framework for Vehicle Relocation Problems in Large-Scale Vehicle Crowd Sensing**|Xinyu Wang et.al.|[2411.18432](http://arxiv.org/abs/2411.18432)|null|
 |**2024-11-27**|**Streamlining Prediction in Bayesian Deep Learning**|Rui Li et.al.|[2411.18425](http://arxiv.org/abs/2411.18425)|null|
-|**2024-11-27**|**Preserving Information: How does Topological Data Analysis improve Neural Network performance?**|A. Stolarek et.al.|[2411.18410](http://arxiv.org/abs/2411.18410)|null|
+|**2024-12-02**|**Preserving Information: How does Topological Data Analysis improve Neural Network performance?**|A. Stolarek et.al.|[2411.18410](http://arxiv.org/abs/2411.18410)|null|
 |**2024-11-27**|**Deep Fourier-embedded Network for Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.18409](http://arxiv.org/abs/2411.18409)|**[link](https://github.com/joshualpf/dfenet)**|
 |**2024-11-27**|**The more, the better? Evaluating the role of EEG preprocessing for deep learning applications**|Federico Del Pup et.al.|[2411.18392](http://arxiv.org/abs/2411.18392)|**[link](https://github.com/medmaxlab/eegprepro)**|
 |**2024-11-27**|**Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment**|Shima Mohammadi et.al.|[2411.18372](http://arxiv.org/abs/2411.18372)|**[link](https://github.com/shimamohammadi/LBPS-EIC)**|
