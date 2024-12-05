@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -187,7 +187,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 ## DDI
 
@@ -306,7 +306,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 ## MG
 
@@ -476,7 +476,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 ## MPP
 
@@ -649,7 +649,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 ## MD
 
@@ -697,7 +697,7 @@
 |**2024-11-05**|**Chemifriction and Superlubricity: Friends or Foes?**|Penghua Ying et.al.|[2411.03078](http://arxiv.org/abs/2411.03078)|null|
 |**2024-11-05**|**Hotter isn't faster for a melting RNA hairpin**|Huaping Li et.al.|[2411.03072](http://arxiv.org/abs/2411.03072)|null|
 |**2024-11-05**|**Adaptive-precision potentials for large-scale atomistic simulations**|David Immel et.al.|[2411.03002](http://arxiv.org/abs/2411.03002)|null|
-|**2024-11-05**|**Utilizing a machine-learned potential to explore enhanced radiation tolerance in the MoNbTaVW high-entropy alloy**|Jiahui Liu et.al.|[2411.02834](http://arxiv.org/abs/2411.02834)|null|
+|**2024-12-04**|**Utilizing a machine-learned potential to explore enhanced radiation tolerance in the MoNbTaVW high-entropy alloy**|Jiahui Liu et.al.|[2411.02834](http://arxiv.org/abs/2411.02834)|null|
 |**2024-11-04**|**Quantum Ornstein-Zernike Theory for Two-Temperature Two-Component Plasmas**|Zachary A. Johnson et.al.|[2411.02363](http://arxiv.org/abs/2411.02363)|null|
 |**2024-11-03**|**Graph Fourier Neural ODEs: Bridging Spatial and Temporal Multiscales in Molecular Dynamics**|Fang Sun et.al.|[2411.01600](http://arxiv.org/abs/2411.01600)|null|
 |**2024-11-02**|**Probing trade-off between critical size and velocity in cold-spray: An atomistic simulation**|Mahyar Ghasemi et.al.|[2411.01328](http://arxiv.org/abs/2411.01328)|null|
@@ -717,7 +717,7 @@
 |**2024-10-27**|**Revealing Molecular Mechanism of Nonmonotonic Relationship between Antifreeze Activity and Chain Length in Polyprolines**|Wentao Yang et.al.|[2410.20447](http://arxiv.org/abs/2410.20447)|null|
 |**2024-10-25**|**Polarizable Water Model with Ab Initio Neural Network Dynamic Charges and Spontaneous Charge Transfer**|Qiujiang Liang et.al.|[2410.19445](http://arxiv.org/abs/2410.19445)|null|
 |**2024-10-24**|**Collective behavior of "flexicles"**|Philipp W. A. Schönhöfer et.al.|[2410.19172](http://arxiv.org/abs/2410.19172)|null|
-|**2024-10-24**|**Diffusion of impurities in a moderately dense confined granular gas**|Rubén Gómez González et.al.|[2410.18874](http://arxiv.org/abs/2410.18874)|null|
+|**2024-12-04**|**Diffusion of impurities in a moderately dense confined granular gas**|Rubén Gómez González et.al.|[2410.18874](http://arxiv.org/abs/2410.18874)|null|
 |**2024-10-08**|**Dynamic Heterogeneity of Short Semi-crystalline Polymer Chains during Recrystallization**|Maziar Heidari et.al.|[2410.18093](http://arxiv.org/abs/2410.18093)|null|
 |**2024-10-23**|**Local stress in cylindrically curved lipid membrane: insights into local versus global lateral fluidity models**|Konstantin V. Pinigin et.al.|[2410.18043](http://arxiv.org/abs/2410.18043)|null|
 |**2024-10-23**|**Advanced simulations with PLUMED: OPES and Machine Learning Collective Variables**|Enrico Trizio et.al.|[2410.18019](http://arxiv.org/abs/2410.18019)|null|
@@ -1168,7 +1168,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 ## Transformer
 
@@ -1198,7 +1198,7 @@
 |**2024-12-03**|**Unsupervised Learning-based Calibration Scheme for the Rough Bergomi Model**|Changqing Teng et.al.|[2412.02135](http://arxiv.org/abs/2412.02135)|null|
 |**2024-12-03**|**Performance Comparison of Deep Learning Techniques in Naira Classification**|Ismail Ismail Tijjani et.al.|[2412.02072](http://arxiv.org/abs/2412.02072)|null|
 |**2024-12-03**|**A Classic-Quantum Hybrid Network Framework: CQH-Net**|Ao Liu et.al.|[2412.02059](http://arxiv.org/abs/2412.02059)|null|
-|**2024-12-03**|**BN-AuthProf: Benchmarking Machine Learning for Bangla Author Profiling on Social Media Texts**|Raisa Tasnim et.al.|[2412.02058](http://arxiv.org/abs/2412.02058)|null|
+|**2024-12-03**|**BN-AuthProf: Benchmarking Machine Learning for Bangla Author Profiling on Social Media Texts**|Raisa Tasnim et.al.|[2412.02058](http://arxiv.org/abs/2412.02058)|**[link](https://github.com/crusnic-corp/BN-AuthProf)**|
 |**2024-12-03**|**Impact of Data Snooping on Deep Learning Models for Locating Vulnerabilities in Lifted Code**|Gary A. McCully et.al.|[2412.02048](http://arxiv.org/abs/2412.02048)|null|
 |**2024-12-02**|**Linear Supervision for Nonlinear, High-Dimensional Neural Control and Differential Games**|William Sharpless et.al.|[2412.02033](http://arxiv.org/abs/2412.02033)|null|
 |**2024-12-02**|**Learning Ensembles of Vision-based Safety Control Filters**|Ihab Tabbara et.al.|[2412.02029](http://arxiv.org/abs/2412.02029)|null|
@@ -1241,7 +1241,7 @@
 |**2024-12-02**|**Federated Motor Imagery Classification for Privacy-Preserving Brain-Computer Interfaces**|Tianwang Jia et.al.|[2412.01079](http://arxiv.org/abs/2412.01079)|null|
 |**2024-12-02**|**Research on Optimizing Real-Time Data Processing in High-Frequency Trading Algorithms using Machine Learning**|Yuxin Fan et.al.|[2412.01062](http://arxiv.org/abs/2412.01062)|null|
 |**2024-12-02**|**Deep Learning Based Near-Field User Localization with Beam Squint in Wideband XL-MIMO Systems**|Hao Lei et.al.|[2412.01029](http://arxiv.org/abs/2412.01029)|null|
-|**2024-12-01**|**AI Meets Antimatter: Unveiling Antihydrogen Annihilations**|Ashley Ferreira et.al.|[2412.00961](http://arxiv.org/abs/2412.00961)|null|
+|**2024-12-03**|**AI Meets Antimatter: Unveiling Antihydrogen Annihilations**|Ashley Ferreira et.al.|[2412.00961](http://arxiv.org/abs/2412.00961)|null|
 |**2024-12-01**|**Generative Language Models Potential for Requirement Engineering Applications: Insights into Current Strengths and Limitations**|Summra Saleem et.al.|[2412.00959](http://arxiv.org/abs/2412.00959)|null|
 |**2024-12-01**|**Neural Network Approach to Demand Estimation and Dynamic Pricing in Retail**|Kirill Safonov et.al.|[2412.00920](http://arxiv.org/abs/2412.00920)|null|
 |**2024-12-03**|**Tomographic SAR Reconstruction for Forest Height Estimation**|Grace Colverd et.al.|[2412.00903](http://arxiv.org/abs/2412.00903)|null|
@@ -1258,7 +1258,7 @@
 |**2024-12-01**|**Deep Learning for Longitudinal Gross Tumor Volume Segmentation in MRI-Guided Adaptive Radiotherapy for Head and Neck Cancer**|Xin Tie et.al.|[2412.00663](http://arxiv.org/abs/2412.00663)|**[link](https://github.com/xtie97/hnts-mrg24-uwlair)**|
 |**2024-12-01**|**Predictive Inference With Fast Feature Conformal Prediction**|Zihao Tang et.al.|[2412.00653](http://arxiv.org/abs/2412.00653)|null|
 |**2024-11-30**|**Parameter estimation of microlensed gravitational waves with Conditional Variational Autoencoders**|Roberto Bada Nerin et.al.|[2412.00566](http://arxiv.org/abs/2412.00566)|null|
-|**2024-11-30**|**Pruned Convolutional Attention Network Based Wideband Spectrum Sensing with Sub-Nyquist Sampling**|Peihao Dong et.al.|[2412.00562](http://arxiv.org/abs/2412.00562)|null|
+|**2024-11-30**|**Pruned Convolutional Attention Network Based Wideband Spectrum Sensing with Sub-Nyquist Sampling**|Peihao Dong et.al.|[2412.00562](http://arxiv.org/abs/2412.00562)|**[link](https://github.com/AI4CogComm/PCA-WSSNet)**|
 |**2024-11-30**|**A Self-Explainable Heterogeneous GNN for Relational Deep Learning**|Francesco Ferrini et.al.|[2412.00521](http://arxiv.org/abs/2412.00521)|null|
 |**2024-11-30**|**Automatic Differentiation-based Full Waveform Inversion with Flexible Workflows**|Feng Liu et.al.|[2412.00486](http://arxiv.org/abs/2412.00486)|**[link](https://github.com/liufeng2317/ADFWI)**|
 |**2024-11-30**|**Enhancing Skin Cancer Diagnosis (SCD) Using Late Discrete Wavelet Transform (DWT) and New Swarm-Based Optimizers**|Ramin Mousa et.al.|[2412.00472](http://arxiv.org/abs/2412.00472)|null|
@@ -7691,7 +7691,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 ## Binding
 
@@ -7710,7 +7710,7 @@
 |**2024-10-25**|**Binding memory of liquid molecules**|Shiyi Qin et.al.|[2410.19634](http://arxiv.org/abs/2410.19634)|null|
 |**2024-10-22**|**An evaluation of machine learning/molecular mechanics end-state corrections with mechanical embedding to calculate relative protein-ligand binding free energies**|Johannes Karwounopoulos et.al.|[2410.16818](http://arxiv.org/abs/2410.16818)|null|
 |**2024-10-21**|**QuickBind: A Light-Weight And Interpretable Molecular Docking Model**|Wojtek Treyde et.al.|[2410.16474](http://arxiv.org/abs/2410.16474)|**[link](https://github.com/aqlaboratory/quickbind)**|
-|**2024-10-19**|**DEL-Ranking: Ranking-Correction Denoising Framework for Elucidating Molecular Affinities in DNA-Encoded Libraries**|Hanqun Cao et.al.|[2410.14946](http://arxiv.org/abs/2410.14946)|null|
+|**2024-12-04**|**DEL-Ranking: Ranking-Correction Denoising Framework for Elucidating Molecular Affinities in DNA-Encoded Libraries**|Hanqun Cao et.al.|[2410.14946](http://arxiv.org/abs/2410.14946)|null|
 |**2024-10-16**|**DeltaDock: A Unified Framework for Accurate, Efficient, and Physically Reliable Molecular Docking**|Jiaxian Yan et.al.|[2410.11224](http://arxiv.org/abs/2410.11224)|**[link](https://github.com/jiaxianyan/DeltaDock)**|
 |**2024-10-10**|**InstructBioMol: Advancing Biomolecule Understanding and Design Following Human Instructions**|Xiang Zhuang et.al.|[2410.07919](http://arxiv.org/abs/2410.07919)|null|
 |**2024-10-02**|**ANTIPASTI: interpretable prediction of antibody binding affinity exploiting Normal Modes and Deep Learning**|Kevin Michalewicz et.al.|[2410.01523](http://arxiv.org/abs/2410.01523)|**[link](https://github.com/kevinmicha/ANTIPASTI)**|
@@ -7878,7 +7878,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -8023,7 +8023,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
