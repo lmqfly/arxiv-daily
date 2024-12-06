@@ -638,6 +638,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Enhanced Sampling of Protein Conformational Changes via True Reaction Coordinates from Energy Relaxation**|Huiyu Li et.al.|[2412.04400](http://arxiv.org/abs/2412.04400)|null|
+|**2024-12-04**|**Impact of local structure on melt dynamics in Cu-Ti alloys: Insights from ab-initio molecular dynamics simulations**|Lucas P. Kreuzer et.al.|[2412.03741](http://arxiv.org/abs/2412.03741)|null|
+|**2024-12-04**|**Water under hydrophobic confinement: entropy and diffusion**|Lorenzo Agosta et.al.|[2412.03726](http://arxiv.org/abs/2412.03726)|null|
 |**2024-12-04**|**Dielectric tensor of perovskite oxides at finite temperature using equivariant graph neural network potentials**|Alex Kutana et.al.|[2412.03541](http://arxiv.org/abs/2412.03541)|null|
 |**2024-12-04**|**Consequences of the failure of equipartition for the p-V behavior of liquid water and the hydration free energy components of a small protein**|Dilipkumar N. Asthagiri et.al.|[2412.03448](http://arxiv.org/abs/2412.03448)|null|
 |**2024-12-04**|**Fast and flexible range-separated models for atomistic machine learning**|Philip Loche et.al.|[2412.03281](http://arxiv.org/abs/2412.03281)|null|
@@ -1159,6 +1162,48 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction**|Ben Kaye et.al.|[2412.04464](http://arxiv.org/abs/2412.04464)|null|
+|**2024-12-05**|**Likelihood-Scheduled Score-Based Generative Modeling for Fully 3D PET Image Reconstruction**|George Webber et.al.|[2412.04339](http://arxiv.org/abs/2412.04339)|null|
+|**2024-12-05**|**Multi-Subject Image Synthesis as a Generative Prior for Single-Subject PET Image Reconstruction**|George Webber et.al.|[2412.04324](http://arxiv.org/abs/2412.04324)|null|
+|**2024-12-05**|**Generative-Model-Based Fully 3D PET Image Reconstruction by Conditional Diffusion Sampling**|George Webber et.al.|[2412.04319](http://arxiv.org/abs/2412.04319)|null|
+|**2024-12-05**|**On Deep-Learning-Based Closures for Algebraic Surrogate Models of Turbulent Flows**|Benet Eiximeno et.al.|[2412.04239](http://arxiv.org/abs/2412.04239)|null|
+|**2024-12-05**|**Physics-informed Deep Learning for Muscle Force Prediction with Unlabeled sEMG Signals**|Shuhao Ma et.al.|[2412.04213](http://arxiv.org/abs/2412.04213)|null|
+|**2024-12-05**|**Linear Discriminant Analysis in Credit Scoring: A Transparent Hybrid Model Approach**|Md Shihab Reza et.al.|[2412.04183](http://arxiv.org/abs/2412.04183)|null|
+|**2024-12-05**|**Fixed-Mean Gaussian Processes for Post-hoc Bayesian Deep Learning**|Luis A. Ortega et.al.|[2412.04177](http://arxiv.org/abs/2412.04177)|null|
+|**2024-12-05**|**Methodology for Online Estimation of Rheological Parameters in Polymer Melts Using Deep Learning and Microfluidics**|Juan Sandubete-López et.al.|[2412.04142](http://arxiv.org/abs/2412.04142)|null|
+|**2024-12-05**|**Deep priors for satellite image restoration with accurate uncertainties**|Biquard Maud et.al.|[2412.04130](http://arxiv.org/abs/2412.04130)|null|
+|**2024-12-05**|**DeepFEA: Deep Learning for Prediction of Transient Finite Element Analysis Solutions**|Georgios Triantafyllou et.al.|[2412.04121](http://arxiv.org/abs/2412.04121)|null|
+|**2024-12-05**|**Nonlinear unitary circuits for photonic neural networks**|Sunkyu Yu et.al.|[2412.04112](http://arxiv.org/abs/2412.04112)|null|
+|**2024-12-05**|**Adult Glioma Segmentation in Sub-Saharan Africa using Transfer Learning on Stratified Finetuning Data**|Abhijeet Parida et.al.|[2412.04111](http://arxiv.org/abs/2412.04111)|null|
+|**2024-12-05**|**HyperFLINT: Hypernetwork-based Flow Estimation and Temporal Interpolation for Scientific Ensemble Visualization**|Hamid Gadirov et.al.|[2412.04095](http://arxiv.org/abs/2412.04095)|null|
+|**2024-12-05**|**Magnetic Resonance Imaging Feature-Based Subtyping and Model Ensemble for Enhanced Brain Tumor Segmentation**|Zhifan Jiang et.al.|[2412.04094](http://arxiv.org/abs/2412.04094)|null|
+|**2024-12-05**|**Does your model understand genes? A benchmark of gene properties for biological and text models**|Yoav Kan-Tor et.al.|[2412.04075](http://arxiv.org/abs/2412.04075)|null|
+|**2024-12-05**|**Boundary-Guided Learning for Gene Expression Prediction in Spatial Transcriptomics**|Mingcheng Qu et.al.|[2412.04072](http://arxiv.org/abs/2412.04072)|null|
+|**2024-12-05**|**Automated Medical Report Generation for ECG Data: Bridging Medical Text and Signal Processing with Deep Learning**|Amnon Bleich et.al.|[2412.04067](http://arxiv.org/abs/2412.04067)|null|
+|**2024-12-05**|**Graph Neural Networks Need Cluster-Normalize-Activate Modules**|Arseny Skryagin et.al.|[2412.04064](http://arxiv.org/abs/2412.04064)|null|
+|**2024-12-05**|**Expanding Deep Learning-based Sensing Systems with Multi-Source Knowledge Transfer**|Gaole Dai et.al.|[2412.04060](http://arxiv.org/abs/2412.04060)|null|
+|**2024-12-05**|**Learning Dual-Arm Push and Grasp Synergy in Dense Clutter**|Yongliang Wang et.al.|[2412.04052](http://arxiv.org/abs/2412.04052)|null|
+|**2024-12-05**|**Benchmarking and Enhancing Surgical Phase Recognition Models for Robotic-Assisted Esophagectomy**|Yiping Li et.al.|[2412.04039](http://arxiv.org/abs/2412.04039)|null|
+|**2024-12-05**|**Restoring Missing Modes of 21cm Intensity Mapping with Deep Learning: Impact on BAO Reconstruction**|Qian Li et.al.|[2412.04021](http://arxiv.org/abs/2412.04021)|null|
+|**2024-12-05**|**Blind Underwater Image Restoration using Co-Operational Regressor Networks**|Ozer Can Devecioglu et.al.|[2412.03995](http://arxiv.org/abs/2412.03995)|null|
+|**2024-12-05**|**Electronic Health Records-Based Data-Driven Diabetes Knowledge Unveiling and Risk Prognosis**|Huadong Pang et.al.|[2412.03961](http://arxiv.org/abs/2412.03961)|null|
+|**2024-12-05**|**Deep Learning Modeling Method for RF Devices Based on Uniform Noise Training Set**|Zhaokun Hu et.al.|[2412.03936](http://arxiv.org/abs/2412.03936)|null|
+|**2024-12-05**|**Privacy-Preserving in Medical Image Analysis: A Review of Methods and Applications**|Yanming Zhu et.al.|[2412.03924](http://arxiv.org/abs/2412.03924)|null|
+|**2024-12-05**|**Deformation-Aware Segmentation Network Robust to Motion Artifacts for Brain Tissue Segmentation using Disentanglement Learning**|Sunyoung Jung et.al.|[2412.03922](http://arxiv.org/abs/2412.03922)|null|
+|**2024-12-05**|**Quantized and Interpretable Learning Scheme for Deep Neural Networks in Classification Task**|Alireza Maleki et.al.|[2412.03915](http://arxiv.org/abs/2412.03915)|null|
+|**2024-12-05**|**Dual-Branch Subpixel-Guided Network for Hyperspectral Image Classification**|Zhu Han et.al.|[2412.03893](http://arxiv.org/abs/2412.03893)|null|
+|**2024-12-05**|**Uniform Discretized Integrated Gradients: An effective attribution based method for explaining large language models**|Swarnava Sinha Roy et.al.|[2412.03886](http://arxiv.org/abs/2412.03886)|null|
+|**2024-12-05**|**A Unified Framework for Evaluating the Effectiveness and Enhancing the Transparency of Explainable AI Methods in Real-World Applications**|Md. Ariful Islam et.al.|[2412.03884](http://arxiv.org/abs/2412.03884)|null|
+|**2024-12-05**|**Transferring self-supervised pre-trained models for SHM data anomaly detection with scarce labeled data**|Mingyuan Zhou et.al.|[2412.03880](http://arxiv.org/abs/2412.03880)|null|
+|**2024-12-05**|**AyutthayaAlpha: A Thai-Latin Script Transliteration Transformer**|Davor Lauc et.al.|[2412.03877](http://arxiv.org/abs/2412.03877)|null|
+|**2024-12-05**|**Fine-Grained Sentiment Analysis of Electric Vehicle User Reviews: A Bidirectional LSTM Approach to Capturing Emotional Intensity in Chinese Text**|Shuhao Chen et.al.|[2412.03873](http://arxiv.org/abs/2412.03873)|null|
+|**2024-12-05**|**INRetouch: Context Aware Implicit Neural Representation for Photography Retouching**|Omar Elezabi et.al.|[2412.03848](http://arxiv.org/abs/2412.03848)|null|
+|**2024-12-05**|**Exploring Real&Synthetic Dataset and Linear Attention in Image Restoration**|Yuzhen Du et.al.|[2412.03814](http://arxiv.org/abs/2412.03814)|null|
+|**2024-12-04**|**A Hybrid Deep-Learning Model for El Niño Southern Oscillation in the Low-Data Regime**|Jakob Schlör et.al.|[2412.03743](http://arxiv.org/abs/2412.03743)|null|
+|**2024-12-04**|**Interpretable Hierarchical Attention Network for Medical Condition Identification**|Dongping Fang et.al.|[2412.03701](http://arxiv.org/abs/2412.03701)|null|
+|**2024-12-04**|**Hyperparameter Tuning Through Pessimistic Bilevel Optimization**|Meltem Apaydin Ustun et.al.|[2412.03666](http://arxiv.org/abs/2412.03666)|null|
+|**2024-12-04**|**DiffuPT: Class Imbalance Mitigation for Glaucoma Detection via Diffusion Based Generation and Model Pretraining**|Youssof Nawar et.al.|[2412.03629](http://arxiv.org/abs/2412.03629)|null|
+|**2024-12-04**|**Deep Learning in Single-Cell and Spatial Transcriptomics Data Analysis: Advances and Challenges from a Data Science Perspective**|Shuang Ge et.al.|[2412.03614](http://arxiv.org/abs/2412.03614)|null|
 |**2024-12-04**|**Solving Monge problem by Hilbert space embeddings of probability measures**|Takafumi Saito et.al.|[2412.03478](http://arxiv.org/abs/2412.03478)|null|
 |**2024-12-04**|**Deep Learning for Sea Surface Temperature Reconstruction under Cloud Occlusion**|Andrea Asperti et.al.|[2412.03413](http://arxiv.org/abs/2412.03413)|null|
 |**2024-12-04**|**Benchmarking Pretrained Attention-based Models for Real-Time Recognition in Robot-Assisted Esophagectomy**|Ronald L. P. D. de Jong et.al.|[2412.03401](http://arxiv.org/abs/2412.03401)|null|
