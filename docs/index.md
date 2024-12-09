@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Surface molecular engineering to enable processing of sulfide solid electrolytes in humid ambient air**|Mengchen Liu et.al.|[2412.04633](http://arxiv.org/abs/2412.04633)|null|
 |**2024-12-04**|**3D Interaction Geometric Pre-training for Molecular Relational Learning**|Namkyeong Lee et.al.|[2412.02957](http://arxiv.org/abs/2412.02957)|**[link](https://github.com/Namkyeong/3DMRL)**|
 |**2024-12-03**|**COMET:Combined Matrix for Elucidating Targets**|Haojie Wang et.al.|[2412.02471](http://arxiv.org/abs/2412.02471)|null|
 |**2024-11-27**|**A Size-Dependent Ideal Solution Model for Liquid-Solid Phase Equilibria Prediction in Aqueous Organic Solutions**|Spencer P. Alliston et.al.|[2411.17968](http://arxiv.org/abs/2411.17968)|null|
@@ -638,6 +639,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Thermal Stability and Topological Charge Fragmentation in Antiskyrmions of Rhombohedral Barium Titanate**|Florian Mayer et.al.|[2412.04869](http://arxiv.org/abs/2412.04869)|null|
+|**2024-12-06**|**Femtosecond two-pulse laser approach for spall failure in thin foils**|Mewael Isiet et.al.|[2412.04762](http://arxiv.org/abs/2412.04762)|null|
 |**2024-12-05**|**Enhanced Sampling of Protein Conformational Changes via True Reaction Coordinates from Energy Relaxation**|Huiyu Li et.al.|[2412.04400](http://arxiv.org/abs/2412.04400)|null|
 |**2024-12-04**|**Impact of local structure on melt dynamics in Cu-Ti alloys: Insights from ab-initio molecular dynamics simulations**|Lucas P. Kreuzer et.al.|[2412.03741](http://arxiv.org/abs/2412.03741)|null|
 |**2024-12-04**|**Water under hydrophobic confinement: entropy and diffusion**|Lorenzo Agosta et.al.|[2412.03726](http://arxiv.org/abs/2412.03726)|null|
@@ -1162,6 +1165,37 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**From classical techniques to convolution-based models: A review of object detection algorithms**|Fnu Neha et.al.|[2412.05252](http://arxiv.org/abs/2412.05252)|null|
+|**2024-12-06**|**Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization**|Luca Masserano et.al.|[2412.05244](http://arxiv.org/abs/2412.05244)|null|
+|**2024-12-06**|**ColonNet: A Hybrid Of DenseNet121 And U-NET Model For Detection And Segmentation Of GI Bleeding**|Ayushman Singh et.al.|[2412.05216](http://arxiv.org/abs/2412.05216)|null|
+|**2024-12-06**|**Archaeoscape: Bringing Aerial Laser Scanning Archaeology to the Deep Learning Era**|Yohann Perron et.al.|[2412.05203](http://arxiv.org/abs/2412.05203)|null|
+|**2024-12-06**|**Variational Encoder-Decoders for Learning Latent Representations of Physical Systems**|Subashree Venkatasubramanian et.al.|[2412.05175](http://arxiv.org/abs/2412.05175)|null|
+|**2024-12-06**|**Effective Rank and the Staircase Phenomenon: New Insights into Neural Network Training Dynamics**|Yang Jiang et.al.|[2412.05144](http://arxiv.org/abs/2412.05144)|null|
+|**2024-12-06**|**How to Squeeze An Explanation Out of Your Model**|Tiago Roxo et.al.|[2412.05134](http://arxiv.org/abs/2412.05134)|null|
+|**2024-12-06**|**Improving analytical color and texture similarity estimation methods for dataset-agnostic person reidentification**|Nikita Gabdullin et.al.|[2412.05076](http://arxiv.org/abs/2412.05076)|null|
+|**2024-12-06**|**Improving Post-Earthquake Crack Detection using Semi-Synthetic Generated Images**|Piercarlo Dondi et.al.|[2412.05042](http://arxiv.org/abs/2412.05042)|null|
+|**2024-12-06**|**Video Decomposition Prior: A Methodology to Decompose Videos into Layers**|Gaurav Shrivastava et.al.|[2412.04930](http://arxiv.org/abs/2412.04930)|null|
+|**2024-12-06**|**Mitigating Instance-Dependent Label Noise: Integrating Self-Supervised Pretraining with Pseudo-Label Refinement**|Gouranga Bala et.al.|[2412.04898](http://arxiv.org/abs/2412.04898)|null|
+|**2024-12-06**|**Comprehensive Analysis and Improvements in Pansharpening Using Deep Learning**|Mahek Kantharia et.al.|[2412.04896](http://arxiv.org/abs/2412.04896)|null|
+|**2024-12-06**|**MozzaVID: Mozzarella Volumetric Image Dataset**|Pawel Tomasz Pieta et.al.|[2412.04880](http://arxiv.org/abs/2412.04880)|null|
+|**2024-12-06**|**Rethink Deep Learning with Invariance in Data Representation**|Shuren Qi et.al.|[2412.04858](http://arxiv.org/abs/2412.04858)|null|
+|**2024-12-06**|**WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting**|Chaozheng Wen et.al.|[2412.04832](http://arxiv.org/abs/2412.04832)|null|
+|**2024-12-06**|**Automatic Prediction of Stroke Treatment Outcomes: Latest Advances and Perspectives**|Zeynel A. Samak et.al.|[2412.04812](http://arxiv.org/abs/2412.04812)|null|
+|**2024-12-06**|**Estimating the treatment effect over time under general interference through deep learner integrated TMLE**|Suhan Guo et.al.|[2412.04799](http://arxiv.org/abs/2412.04799)|null|
+|**2024-12-06**|**Latent Space Characterization of Autoencoder Variants**|Anika Shrivastava et.al.|[2412.04755](http://arxiv.org/abs/2412.04755)|null|
+|**2024-12-06**|**Deep Learning-Enabled ISAC-OTFS Pre-equalization Design for Aerial-Terrestrial Networks**|Weihao Wang et.al.|[2412.04751](http://arxiv.org/abs/2412.04751)|null|
+|**2024-12-06**|**Code generation and runtime techniques for enabling data-efficient deep learning training on GPUs**|Kun Wu et.al.|[2412.04747](http://arxiv.org/abs/2412.04747)|null|
+|**2024-12-06**|**Learning to Translate Noise for Robust Image Denoising**|Inju Ha et.al.|[2412.04727](http://arxiv.org/abs/2412.04727)|null|
+|**2024-12-06**|**PCTreeS: 3D Point Cloud Tree Species Classification Using Airborne LiDAR Images**|Hongjin Lin et.al.|[2412.04714](http://arxiv.org/abs/2412.04714)|null|
+|**2024-12-06**|**Comparison of Deep Learning and Particle Smoother Expectation Maximization Methods for Estimation of Myocardial Perfusion PET Kinetic Parameters**|Myungheon Chin et.al.|[2412.04706](http://arxiv.org/abs/2412.04706)|null|
+|**2024-12-05**|**Soft Tensor Product Representations for Fully Continuous, Compositional Visual Representations**|Bethia Sun et.al.|[2412.04671](http://arxiv.org/abs/2412.04671)|**[link](https://github.com/gomb0c/soft_tpr)**|
+|**2024-12-05**|**Deep Learning application for stellar parameters determination: III- Denoising Procedure**|Marwan Gebran et.al.|[2412.04631](http://arxiv.org/abs/2412.04631)|null|
+|**2024-12-05**|**ARC Prize 2024: Technical Report**|Francois Chollet et.al.|[2412.04604](http://arxiv.org/abs/2412.04604)|null|
+|**2024-12-05**|**Learning Symmetries via Weight-Sharing with Doubly Stochastic Tensors**|Putri A. van der Linden et.al.|[2412.04594](http://arxiv.org/abs/2412.04594)|null|
+|**2024-12-05**|**Data-Driven, Parameterized Reduced-order Models for Predicting Distortion in Metal 3D Printing**|Indu Kant Deo et.al.|[2412.04577](http://arxiv.org/abs/2412.04577)|null|
+|**2024-12-05**|**WinTSR: A Windowed Temporal Saliency Rescaling Method for Interpreting Time Series Deep Learning Models**|Md. Khairul Islam et.al.|[2412.04532](http://arxiv.org/abs/2412.04532)|null|
+|**2024-12-04**|**A Taxonomy of System-Level Attacks on Deep Learning Models in Autonomous Vehicles**|Masoud Jamshidiyan Tehrani et.al.|[2412.04510](http://arxiv.org/abs/2412.04510)|null|
+|**2024-12-04**|**Video Quality Assessment: A Comprehensive Survey**|Qi Zheng et.al.|[2412.04508](http://arxiv.org/abs/2412.04508)|null|
 |**2024-12-05**|**DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction**|Ben Kaye et.al.|[2412.04464](http://arxiv.org/abs/2412.04464)|null|
 |**2024-12-05**|**Likelihood-Scheduled Score-Based Generative Modeling for Fully 3D PET Image Reconstruction**|George Webber et.al.|[2412.04339](http://arxiv.org/abs/2412.04339)|null|
 |**2024-12-05**|**Multi-Subject Image Synthesis as a Generative Prior for Single-Subject PET Image Reconstruction**|George Webber et.al.|[2412.04324](http://arxiv.org/abs/2412.04324)|null|
@@ -7753,6 +7787,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Generative Humanization for Therapeutic Antibodies**|Cade Gordon et.al.|[2412.04737](http://arxiv.org/abs/2412.04737)|null|
 |**2024-11-26**|**DapPep: Domain Adaptive Peptide-agnostic Learning for Universal T-cell Receptor-antigen Binding Affinity Prediction**|Jiangbin Zheng et.al.|[2411.17798](http://arxiv.org/abs/2411.17798)|null|
 |**2024-11-20**|**S $^2$ ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning**|Mingze Yin et.al.|[2411.15215](http://arxiv.org/abs/2411.15215)|null|
 |**2024-11-22**|**Enhancing Molecular Design through Graph-based Topological Reinforcement Learning**|Xiangyu Zhang et.al.|[2411.14726](http://arxiv.org/abs/2411.14726)|null|
@@ -7938,6 +7973,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Rethink Deep Learning with Invariance in Data Representation**|Shuren Qi et.al.|[2412.04858](http://arxiv.org/abs/2412.04858)|null|
 |**2024-11-19**|**E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting**|Madhurima Panja et.al.|[2411.12258](http://arxiv.org/abs/2411.12258)|null|
 |**2024-11-28**|**SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG**|Shanglin Li et.al.|[2411.07249](http://arxiv.org/abs/2411.07249)|null|
 |**2024-11-18**|**A Multimodal Adaptive Graph-based Intelligent Classification Model for Fake News**|Jun-hao et.al.|[2411.06097](http://arxiv.org/abs/2411.06097)|null|
