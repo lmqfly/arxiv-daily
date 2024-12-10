@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1256,7 +1256,7 @@ layout: default
 |**2024-12-04**|**A new Time-decay Radiomics Integrated Network (TRINet) for short-term breast cancer risk prediction**|Hong Hui Yeoh et.al.|[2412.03081](http://arxiv.org/abs/2412.03081)|null|
 |**2024-12-04**|**Deep Learning based Computer-vision for Enhanced Beamforming**|Sachira Karunasena et.al.|[2412.03073](http://arxiv.org/abs/2412.03073)|null|
 |**2024-12-04**|**Revisiting Energy-Based Model for Out-of-Distribution Detection**|Yifan Wu et.al.|[2412.03058](http://arxiv.org/abs/2412.03058)|**[link](https://github.com/victor-yifanwu/Outlier-Exposure-by-Simple-Transformations)**|
-|**2024-12-04**|**Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification**|Marzieh Mohammadi et.al.|[2412.03056](http://arxiv.org/abs/2412.03056)|**[link](https://github.com/asalarpour/Point_GN)**|
+|**2024-12-07**|**Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification**|Marzieh Mohammadi et.al.|[2412.03056](http://arxiv.org/abs/2412.03056)|**[link](https://github.com/asalarpour/Point_GN)**|
 |**2024-12-04**|**Point-GR: Graph Residual Point Cloud Network for 3D Object Classification and Segmentation**|Md Meraz et.al.|[2412.03052](http://arxiv.org/abs/2412.03052)|null|
 |**2024-12-04**|**ASIGN: An Anatomy-aware Spatial Imputation Graphic Network for 3D Spatial Transcriptomics**|Junchao Zhu et.al.|[2412.03026](http://arxiv.org/abs/2412.03026)|**[link](https://github.com/hrlblab/asign)**|
 |**2024-12-04**|**PopSweeper: Automatically Detecting and Resolving App-Blocking Pop-Ups to Assist Automated Mobile GUI Testing**|Linqiang Guo et.al.|[2412.02933](http://arxiv.org/abs/2412.02933)|null|
