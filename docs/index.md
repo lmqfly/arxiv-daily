@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.10
+## Updated on 2024.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -367,7 +367,7 @@ layout: default
 |**2024-10-10**|**Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model**|Peng Zhou et.al.|[2403.13244](http://arxiv.org/abs/2403.13244)|**[link](https://github.com/hhw-zhou/tsmmg)**|
 |**2024-04-12**|**Leap: molecular synthesisability scoring with intermediates**|Antonia Calvi et.al.|[2403.13005](http://arxiv.org/abs/2403.13005)|null|
 |**2024-03-04**|**Rethinking Specificity in SBDD: Leveraging Delta Score and Energy-Guided Diffusion**|Bowen Gao et.al.|[2403.12987](http://arxiv.org/abs/2403.12987)|null|
-|**2024-03-06**|**Sculpting Molecules in 3D: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization**|Kaiwei Zhang et.al.|[2403.03425](http://arxiv.org/abs/2403.03425)|null|
+|**2024-12-10**|**Sculpting Molecules in Text-3D Space: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization**|Kaiwei Zhang et.al.|[2403.03425](http://arxiv.org/abs/2403.03425)|null|
 |**2024-03-05**|**DeepBioisostere: Discovering Bioisosteres with Deep Learning for a Fine Control of Multiple Molecular Properties**|Hyeongwoo Kim et.al.|[2403.02706](http://arxiv.org/abs/2403.02706)|null|
 |**2024-01-15**|**Binding-Adaptive Diffusion Models for Structure-Based Drug Design**|Zhilin Huang et.al.|[2402.18583](http://arxiv.org/abs/2402.18583)|**[link](https://github.com/yangling0818/binddm)**|
 |**2024-01-18**|**Attention Based Molecule Generation via Hierarchical Variational Autoencoder**|Divahar Sivanesan et.al.|[2402.16854](http://arxiv.org/abs/2402.16854)|null|
