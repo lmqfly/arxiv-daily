@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**Precise Antigen-Antibody Structure Predictions Enhance Antibody Development with HelixFold-Multimer**|Jie Gao et.al.|[2412.09826](http://arxiv.org/abs/2412.09826)|null|
 |**2024-11-23**|**MIN: Multi-channel Interaction Network for Drug-Target Interaction with Protein Distillation**|Shuqi Li et.al.|[2412.07778](http://arxiv.org/abs/2412.07778)|null|
 |**2024-12-10**|**Bidirectional Mamba state-space model for anomalous diffusion**|Maxime Lavaud et.al.|[2412.07299](http://arxiv.org/abs/2412.07299)|null|
 |**2024-12-09**|**Timing consistency of T cell receptor activation in a stochastic model combining kinetic segregation and proofreading**|Thorsten Prüstel et.al.|[2412.06773](http://arxiv.org/abs/2412.06773)|null|
@@ -1202,6 +1203,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**COMET: Benchmark for Comprehensive Biological Multi-omics Evaluation Tasks and Language Models**|Yuchen Ren et.al.|[2412.10347](http://arxiv.org/abs/2412.10347)|null|
+|**2024-12-13**|**Cycle-Consistent Bridge Diffusion Model for Accelerated MRI Reconstruction**|Tao Song et.al.|[2412.09998](http://arxiv.org/abs/2412.09998)|null|
+|**2024-12-13**|**Visual Object Tracking across Diverse Data Modalities: A Review**|Mengmeng Wang et.al.|[2412.09991](http://arxiv.org/abs/2412.09991)|null|
+|**2024-12-13**|**Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models**|Matteo Tomasetto et.al.|[2412.09942](http://arxiv.org/abs/2412.09942)|null|
+|**2024-12-13**|**Active Poisoning: Efficient Backdoor Attacks on Transfer Learning-Based Brain-Computer Interfaces**|X. Jiang et.al.|[2412.09933](http://arxiv.org/abs/2412.09933)|null|
+|**2024-12-13**|**Deep Learning for Spectrum Prediction in Cognitive Radio Networks: State-of-the-Art, New Opportunities, and Challenges**|Guangliang Pan et.al.|[2412.09849](http://arxiv.org/abs/2412.09849)|null|
+|**2024-12-13**|**A Single-Frame and Multi-Frame Cascaded Image Super-Resolution Method**|Jing Sun et.al.|[2412.09846](http://arxiv.org/abs/2412.09846)|null|
+|**2024-12-13**|**Super-Resolution for Remote Sensing Imagery via the Coupling of a Variational Model and Deep Learning**|Jing Sun et.al.|[2412.09841](http://arxiv.org/abs/2412.09841)|null|
+|**2024-12-13**|**AI and Deep Learning for THz Ultra-Massive MIMO: From Model-Driven Approaches to Foundation Models**|Wentao Yu et.al.|[2412.09839](http://arxiv.org/abs/2412.09839)|null|
+|**2024-12-13**|**Speech-based Multimodel Pipeline for Vietnamese Services Quality Assessment**|Quang-Anh N. D. et.al.|[2412.09829](http://arxiv.org/abs/2412.09829)|null|
+|**2024-12-13**|**Precise Antigen-Antibody Structure Predictions Enhance Antibody Development with HelixFold-Multimer**|Jie Gao et.al.|[2412.09826](http://arxiv.org/abs/2412.09826)|null|
+|**2024-12-13**|**deepNoC: A deep learning system to assign the number of contributors to a short tandem repeat DNA profile**|Duncan Taylor et.al.|[2412.09803](http://arxiv.org/abs/2412.09803)|null|
+|**2024-12-13**|**Is it the model or the metric -- On robustness measures of deeplearning models**|Zhijin Lyu et.al.|[2412.09795](http://arxiv.org/abs/2412.09795)|null|
+|**2024-12-13**|**A Statistical Analysis for Supervised Deep Learning with Exponential Families for Intrinsically Low-dimensional Data**|Saptarshi Chakraborty et.al.|[2412.09779](http://arxiv.org/abs/2412.09779)|null|
+|**2024-12-12**|**Double-Exponential Increases in Inference Energy: The Cost of the Race for Accuracy**|Zeyu Yang et.al.|[2412.09731](http://arxiv.org/abs/2412.09731)|null|
+|**2024-12-12**|**Soybean Maturity Prediction using 2D Contour Plots from Drone based Time Series Imagery**|Bitgoeul Kim et.al.|[2412.09696](http://arxiv.org/abs/2412.09696)|**[link](https://bitbucket.org/baskargroup/soystcontour)**|
+|**2024-12-12**|**From Noise to Nuance: Advances in Deep Generative Image Models**|Benji Peng et.al.|[2412.09656](http://arxiv.org/abs/2412.09656)|null|
 |**2024-12-12**|**Geometric Deep Learning for Realized Covariance Matrix Forecasting**|Andrea Bucci et.al.|[2412.09517](http://arxiv.org/abs/2412.09517)|null|
 |**2024-12-12**|**A Novel Ensemble-Based Deep Learning Model with Explainable AI for Accurate Kidney Disease Diagnosis**|Md. Arifuzzaman et.al.|[2412.09472](http://arxiv.org/abs/2412.09472)|null|
 |**2024-12-12**|**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs**|Yuanzhi Zhu et.al.|[2412.09465](http://arxiv.org/abs/2412.09465)|**[link](https://github.com/yuanzhi-zhu/oftsr)**|
