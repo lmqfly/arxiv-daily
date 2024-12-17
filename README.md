@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2024-11-27**|**A Size-Dependent Ideal Solution Model for Liquid-Solid Phase Equilibria Prediction in Aqueous Organic Solutions**|Spencer P. Alliston et.al.|[2411.17968](http://arxiv.org/abs/2411.17968)|null|
 |**2024-11-23**|**SPRINT Enables Interpretable and Ultra-Fast Virtual Screening against Thousands of Proteomes**|Andrew T. McNutt et.al.|[2411.15418](http://arxiv.org/abs/2411.15418)|**[link](https://github.com/abhinadduri/panspecies-dti)**|
 |**2024-11-12**|**Feedback between microscopic activity and macroscopic dynamics drives excitability and oscillations in mechanochemical matter**|Tim Dullweber et.al.|[2411.15165](http://arxiv.org/abs/2411.15165)|null|
-|**2024-11-20**|**DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback**|Mahsa Sheikholeslami et.al.|[2411.14157](http://arxiv.org/abs/2411.14157)|**[link](https://github.com/mahsasheikh/DrugGen)**|
+|**2024-11-20**|**DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback**|Mahsa Sheikholeslami et.al.|[2411.14157](http://arxiv.org/abs/2411.14157)|**[link](https://huggingface.co/spaces/alimotahharynia/GPT-2-Drug-Generator)**|
 |**2024-10-29**|**Long-context Protein Language Model**|Yingheng Wang et.al.|[2411.08909](http://arxiv.org/abs/2411.08909)|null|
 |**2024-11-09**|**Learning From Graph-Structured Data: Addressing Design Issues and Exploring Practical Applications in Graph Representation Learning**|Chenqing Hua et.al.|[2411.07269](http://arxiv.org/abs/2411.07269)|null|
 |**2024-11-06**|**BAPULM: Binding Affinity Prediction using Language Models**|Radheesh Sharma Meda et.al.|[2411.04150](http://arxiv.org/abs/2411.04150)|**[link](https://github.com/radh55sh/BAPULM)**|
@@ -193,7 +193,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## DDI
 
@@ -313,7 +313,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## MG
 
@@ -483,7 +483,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## MPP
 
@@ -659,7 +659,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## MD
 
@@ -1197,7 +1197,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Transformer
 
@@ -1237,7 +1237,7 @@
 |**2024-12-12**|**Deep learning-enhanced chemiluminescence vertical flow assay for high-sensitivity cardiac troponin I testing**|Gyeo-Re Han et.al.|[2412.08945](http://arxiv.org/abs/2412.08945)|null|
 |**2024-12-12**|**Deep Clustering using Dirichlet Process Gaussian Mixture and Alpha Jensen-Shannon Divergence Clustering Loss**|Kart-Leong Lim et.al.|[2412.08940](http://arxiv.org/abs/2412.08940)|null|
 |**2024-12-12**|**Deep clustering using adversarial net based clustering loss**|Kart-Leong Lim et.al.|[2412.08933](http://arxiv.org/abs/2412.08933)|null|
-|**2024-12-12**|**Sensing for Space Safety and Sustainability: A Deep Learning Approach with Vision Transformers**|Wenxuan Zhang et.al.|[2412.08913](http://arxiv.org/abs/2412.08913)|null|
+|**2024-12-15**|**Sensing for Space Safety and Sustainability: A Deep Learning Approach with Vision Transformers**|Wenxuan Zhang et.al.|[2412.08913](http://arxiv.org/abs/2412.08913)|null|
 |**2024-12-12**|**Towards modeling evolving longitudinal health trajectories with a transformer-based deep learning model**|Hans Moen et.al.|[2412.08873](http://arxiv.org/abs/2412.08873)|null|
 |**2024-12-12**|**Words of War: Exploring the Presidential Rhetorical Arsenal with Deep Learning**|Wyatt Scott et.al.|[2412.08868](http://arxiv.org/abs/2412.08868)|null|
 |**2024-12-12**|**Emulating the Global Change Analysis Model with Deep Learning**|Andrew Holmes et.al.|[2412.08850](http://arxiv.org/abs/2412.08850)|null|
@@ -1247,7 +1247,7 @@
 |**2024-12-11**|**Emotional Vietnamese Speech-Based Depression Diagnosis Using Dynamic Attention Mechanism**|Quang-Anh N. D. et.al.|[2412.08683](http://arxiv.org/abs/2412.08683)|**[link](https://github.com/fiyud/Emotional-Vietnamese-Speech-Based-Depression-Diagnosis-Using-Dynamic-Attention-Mechanism)**|
 |**2024-12-11**|**MNIST-Fraction: Enhancing Math Education with AI-Driven Fraction Detection and Analysis**|Pegah Ahadian et.al.|[2412.08633](http://arxiv.org/abs/2412.08633)|null|
 |**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
-|**2024-12-11**|**CCSNscore: A multi-input deep learning tool for classification of core-collapse supernovae using SED-Machine spectra**|Yashvi Sharma et.al.|[2412.08601](http://arxiv.org/abs/2412.08601)|null|
+|**2024-12-11**|**CCSNscore: A multi-input deep learning tool for classification of core-collapse supernovae using SED-Machine spectra**|Yashvi Sharma et.al.|[2412.08601](http://arxiv.org/abs/2412.08601)|**[link](https://github.com/Yashvi-Sharma/CCSNscore)**|
 |**2024-12-11**|**Numerical Analysis of HiPPO-LegS ODE for Deep State Space Models**|Jaesung R. Park et.al.|[2412.08595](http://arxiv.org/abs/2412.08595)|null|
 |**2024-12-11**|**TryOffAnyone: Tiled Cloth Generation from a Dressed Person**|Ioannis Xarchakos et.al.|[2412.08573](http://arxiv.org/abs/2412.08573)|**[link](https://github.com/ixarchakos/try-off-anyone)**|
 |**2024-12-11**|**Image-Based Malware Classification Using QR and Aztec Codes**|Atharva Khadilkar et.al.|[2412.08514](http://arxiv.org/abs/2412.08514)|null|
@@ -7971,7 +7971,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Binding
 
@@ -7981,7 +7981,7 @@
 |**2024-11-26**|**DapPep: Domain Adaptive Peptide-agnostic Learning for Universal T-cell Receptor-antigen Binding Affinity Prediction**|Jiangbin Zheng et.al.|[2411.17798](http://arxiv.org/abs/2411.17798)|null|
 |**2024-11-20**|**S $^2$ ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning**|Mingze Yin et.al.|[2411.15215](http://arxiv.org/abs/2411.15215)|null|
 |**2024-11-22**|**Enhancing Molecular Design through Graph-based Topological Reinforcement Learning**|Xiangyu Zhang et.al.|[2411.14726](http://arxiv.org/abs/2411.14726)|null|
-|**2024-11-20**|**DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback**|Mahsa Sheikholeslami et.al.|[2411.14157](http://arxiv.org/abs/2411.14157)|**[link](https://github.com/mahsasheikh/DrugGen)**|
+|**2024-11-20**|**DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback**|Mahsa Sheikholeslami et.al.|[2411.14157](http://arxiv.org/abs/2411.14157)|**[link](https://huggingface.co/spaces/alimotahharynia/GPT-2-Drug-Generator)**|
 |**2024-11-06**|**BAPULM: Binding Affinity Prediction using Language Models**|Radheesh Sharma Meda et.al.|[2411.04150](http://arxiv.org/abs/2411.04150)|**[link](https://github.com/radh55sh/BAPULM)**|
 |**2024-11-07**|**Persistent Directed Flag Laplacian (PDFL)-Based Machine Learning for Protein-Ligand Binding Affinity Prediction**|Mushal Zia et.al.|[2411.02596](http://arxiv.org/abs/2411.02596)|**[link](https://github.com/bdjones13/flagser-laplacian)**|
 |**2024-11-02**|**PDBBind Optimization to Create a High-Quality Protein-Ligand Binding Dataset for Binding Affinity Prediction**|Yingze Wang et.al.|[2411.01223](http://arxiv.org/abs/2411.01223)|**[link](https://github.com/THGLab/PDBBind-Opt)**|
@@ -8159,7 +8159,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -8307,7 +8307,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
