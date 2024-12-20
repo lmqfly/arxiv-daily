@@ -356,7 +356,7 @@
 |**2024-11-28**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|V Shreyas et.al.|[2408.06261](http://arxiv.org/abs/2408.06261)|null|
 |**2024-09-25**|**Closure to the PRISM equation derived from nonlinear response theory**|James P. Donley et.al.|[2407.20392](http://arxiv.org/abs/2407.20392)|null|
 |**2024-07-26**|**Small Molecule Optimization with Large Language Models**|Philipp Guevorguian et.al.|[2407.18897](http://arxiv.org/abs/2407.18897)|**[link](https://github.com/yerevann/chemlactica)**|
-|**2024-07-20**|**Diff4VS: HIV-inhibiting Molecules Generation with Classifier Guidance Diffusion for Virtual Screening**|Jiaqing Lyu et.al.|[2407.15880](http://arxiv.org/abs/2407.15880)|null|
+|**2024-07-20**|**Diff4VS: HIV-inhibiting Molecules Generation with Classifier Guidance Diffusion for Virtual Screening**|Jiaqing Lyu et.al.|[2407.15880](http://arxiv.org/abs/2407.15880)|**[link](https://github.com/jiaqinglv2000/diff4vs)**|
 |**2024-10-28**|**Decomposed Direct Preference Optimization for Structure-Based Drug Design**|Xiwei Cheng et.al.|[2407.13981](http://arxiv.org/abs/2407.13981)|null|
 |**2024-07-16**|**Directly Optimizing for Synthesizability in Generative Molecular Design using Retrosynthesis Models**|Jeff Guo et.al.|[2407.12186](http://arxiv.org/abs/2407.12186)|**[link](https://github.com/schwallergroup/saturn)**|
 |**2024-08-19**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930](http://arxiv.org/abs/2407.07930)|**[link](https://github.com/jkwang93/token-mol)**|
@@ -665,13 +665,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Non-Markovian Effects in Quantum Rate Calculations of Hydrogen Diffusion with Electronic Friction**|George Trenins et.al.|[2412.15014](http://arxiv.org/abs/2412.15014)|null|
 |**2024-12-18**|**Henry constant of helium in liquid lead-lithium alloys**|Edgar Alvarez-Galera et.al.|[2412.14152](http://arxiv.org/abs/2412.14152)|null|
 |**2024-12-18**|**Re-visiting the intracellular pathway of transferrin on board of a mathematical simulation**|Franco Nieto et.al.|[2412.14131](http://arxiv.org/abs/2412.14131)|null|
 |**2024-12-18**|**Segregation, ordering, and precipitation in refractory alloys**|Jesper Byggmästar et.al.|[2412.13750](http://arxiv.org/abs/2412.13750)|null|
 |**2024-12-18**|**Length-dependent residence time of contacts in simple polymeric models**|E. Marchi et.al.|[2412.13563](http://arxiv.org/abs/2412.13563)|null|
 |**2024-12-18**|**Scaling field-theoretic simulation for multi-component mixtures with neural operators**|Emmit K. Pert et.al.|[2412.13415](http://arxiv.org/abs/2412.13415)|null|
 |**2024-12-17**|**Observing Li Nucleation at Li Metal-Solid Electrolyte Interface in All-Solid-State Batteries**|Yun An et.al.|[2412.12611](http://arxiv.org/abs/2412.12611)|null|
-|**2024-12-16**|**Superionic Ionic Conductor Discovery via Multiscale Topological Learning**|Dong Chen et.al.|[2412.11398](http://arxiv.org/abs/2412.11398)|null|
+|**2024-12-16**|**Superionic Ionic Conductor Discovery via Multiscale Topological Learning**|Dong Chen et.al.|[2412.11398](http://arxiv.org/abs/2412.11398)|**[link](https://github.com/pkusam2023/mtul-lsic)**|
 |**2024-12-16**|**Structure and Dynamic Evolution of Interfaces between Polymer Solutions and Gels and Polymer Interdiffusion: A Molecular Dynamics Study**|Jude Ann Vishnu et.al.|[2412.11346](http://arxiv.org/abs/2412.11346)|null|
 |**2024-12-15**|**AI-Driven Accelerated Discovery of Intercalation-type Cathode Materials for Magnesium Batteries**|Wenjie Chen et.al.|[2412.11032](http://arxiv.org/abs/2412.11032)|null|
 |**2024-12-12**|**Impact of Lipid Structural Variations on Bilayer Properties: A Coarse-Grained Molecular Dynamics Study**|Sonam Phuntsho et.al.|[2412.09312](http://arxiv.org/abs/2412.09312)|null|
@@ -1212,17 +1213,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**DroughtSet: Understanding Drought Through Spatial-Temporal Learning**|Xuwei Tan et.al.|[2412.15075](http://arxiv.org/abs/2412.15075)|null|
+|**2024-12-19**|**MitraClip Device Automated Localization in 3D Transesophageal Echocardiography via Deep Learning**|Riccardo Munafò et.al.|[2412.15013](http://arxiv.org/abs/2412.15013)|null|
+|**2024-12-19**|**Arti-PG: A Toolbox for Procedurally Synthesizing Large-Scale and Diverse Articulated Objects with Rich Annotations**|Jianhua Sun et.al.|[2412.14974](http://arxiv.org/abs/2412.14974)|null|
+|**2024-12-19**|**TDCNet: Transparent Objects Depth Completion with CNN-Transformer Dual-Branch Parallel Network**|Xianghui Fan et.al.|[2412.14961](http://arxiv.org/abs/2412.14961)|**[link](https://github.com/xianghuifan/tdcnet)**|
+|**2024-12-19**|**Corn Ear Detection and Orientation Estimation Using Deep Learning**|Nathan Sprague et.al.|[2412.14954](http://arxiv.org/abs/2412.14954)|null|
+|**2024-12-19**|**Zero-Shot Artifact2Artifact: Self-incentive artifact removal for photoacoustic imaging without any data**|Shuang Li et.al.|[2412.14873](http://arxiv.org/abs/2412.14873)|null|
+|**2024-12-19**|**Large-scale School Mapping using Weakly Supervised Deep Learning for Universal School Connectivity**|Isabelle Tingzon et.al.|[2412.14870](http://arxiv.org/abs/2412.14870)|null|
+|**2024-12-19**|**Provably Convergent Plug-and-play Proximal Block Coordinate Descent Method for Hyperspectral Anomaly Detection**|Xiaoxia Liu et.al.|[2412.14824](http://arxiv.org/abs/2412.14824)|null|
+|**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|null|
+|**2024-12-19**|**MARIA: a Multimodal Transformer Model for Incomplete Healthcare Data**|Camillo Maria Caruso et.al.|[2412.14810](http://arxiv.org/abs/2412.14810)|null|
+|**2024-12-19**|**Stack Trace Deduplication: Faster, More Accurately, and in More Realistic Scenarios**|Egor Shibaev et.al.|[2412.14802](http://arxiv.org/abs/2412.14802)|**[link](https://github.com/jetbrains-research/stack-trace-deduplication)**|
+|**2024-12-19**|**Taming Landau level mixing in fractional quantum Hall states with deep learning**|Yubing Qian et.al.|[2412.14795](http://arxiv.org/abs/2412.14795)|null|
+|**2024-12-19**|**Deep Learning Based Recalibration of SDSS and DESI BAO Alleviates Hubble and Clustering Tensions**|Rahul Shah et.al.|[2412.14750](http://arxiv.org/abs/2412.14750)|null|
+|**2024-12-19**|**On the Use of Deep Learning Models for Semantic Clone Detection**|Subroto Nag Pinku et.al.|[2412.14739](http://arxiv.org/abs/2412.14739)|**[link](https://github.com/subrotonpi/clone_evaluation)**|
+|**2024-12-19**|**Generative AI for Banks: Benchmarks and Algorithms for Synthetic Financial Transaction Data**|Fabian Sven Karst et.al.|[2412.14730](http://arxiv.org/abs/2412.14730)|**[link](https://github.com/faruman/comparison_financialdatageneration)**|
+|**2024-12-19**|**Creation of AI-driven Smart Spaces for Enhanced Indoor Environments -- A Survey**|Aygün Varol et.al.|[2412.14708](http://arxiv.org/abs/2412.14708)|null|
+|**2024-12-19**|**Analysis and Visualization of Linguistic Structures in Large Language Models: Neural Representations of Verb-Particle Constructions in BERT**|Hassane Kissane et.al.|[2412.14670](http://arxiv.org/abs/2412.14670)|null|
+|**2024-12-19**|**Complexities of Armijo-like algorithms in Deep Learning context**|Bensaid Bilel et.al.|[2412.14637](http://arxiv.org/abs/2412.14637)|null|
+|**2024-12-19**|**Machine Learning Symmetry Discovery for Classical Mechanics**|Wanda Hou et.al.|[2412.14632](http://arxiv.org/abs/2412.14632)|null|
+|**2024-12-19**|**Continuous latent representations for modeling precipitation with deep learning**|Gokul Radhakrishnan et.al.|[2412.14620](http://arxiv.org/abs/2412.14620)|null|
+|**2024-12-19**|**Fast inverse lithography based on a model-driven block stacking convolutional neural network**|Ruixiang Chen et.al.|[2412.14599](http://arxiv.org/abs/2412.14599)|null|
+|**2024-12-19**|**TorchQC -- A framework for efficiently integrating machine and deep learning methods in quantum dynamics and control**|Dimitris Koutromanos et.al.|[2412.14591](http://arxiv.org/abs/2412.14591)|null|
+|**2024-12-19**|**Accelerated Patient-Specific Calibration via Differentiable Hemodynamics Simulations**|Diego Renner et.al.|[2412.14572](http://arxiv.org/abs/2412.14572)|null|
+|**2024-12-19**|**The Current Challenges of Software Engineering in the Era of Large Language Models**|Cuiyun Gao et.al.|[2412.14554](http://arxiv.org/abs/2412.14554)|null|
+|**2024-12-19**|**Downscaling Precipitation with Bias-informed Conditional Diffusion Model**|Ran Lyu et.al.|[2412.14539](http://arxiv.org/abs/2412.14539)|**[link](https://github.com/roselv/research_super-resolution)**|
+|**2024-12-19**|**Leveraging Time Series Categorization and Temporal Fusion Transformers to Improve Cryptocurrency Price Forecasting**|Arash Peik et.al.|[2412.14529](http://arxiv.org/abs/2412.14529)|null|
+|**2024-12-19**|**Knowledge Distillation in RNN-Attention Models for Early Prediction of Student Performance**|Sukrit Leelaluk et.al.|[2412.14526](http://arxiv.org/abs/2412.14526)|**[link](https://github.com/limu-research/2025-sac-rnn-attention-kd)**|
+|**2024-12-19**|**Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine**|Luis Roque et.al.|[2412.14435](http://arxiv.org/abs/2412.14435)|null|
+|**2024-12-18**|**ChainRank-DPO: Chain Rank Direct Preference Optimization for LLM Rankers**|Haowei Liu et.al.|[2412.14405](http://arxiv.org/abs/2412.14405)|null|
+|**2024-12-18**|**Enhancing Fingerprint Recognition Systems: Comparative Analysis of Biometric Authentication Algorithms and Techniques for Improved Accuracy and Reliability**|Temirlan Meiramkhanov et.al.|[2412.14404](http://arxiv.org/abs/2412.14404)|null|
+|**2024-12-18**|**Scaling Deep Learning Training with MPMD Pipeline Parallelism**|Anxhelo Xhebraj et.al.|[2412.14374](http://arxiv.org/abs/2412.14374)|null|
+|**2024-12-18**|**Dynamic semantic VSLAM with known and unknown objects**|Sanghyoup Gu et.al.|[2412.14359](http://arxiv.org/abs/2412.14359)|null|
+|**2024-12-18**|**SAFERec: Self-Attention and Frequency Enriched Model for Next Basket Recommendation**|Oleg Lashinin et.al.|[2412.14302](http://arxiv.org/abs/2412.14302)|null|
+|**2024-12-17**|**A Comprehensive Review on Traffic Datasets and Simulators for Autonomous Vehicles**|Supriya Sarker et.al.|[2412.14207](http://arxiv.org/abs/2412.14207)|null|
 |**2024-12-18**|**Parameter-efficient Fine-tuning for improved Convolutional Baseline for Brain Tumor Segmentation in Sub-Saharan Africa Adult Glioma Dataset**|Bijay Adhikari et.al.|[2412.14100](http://arxiv.org/abs/2412.14100)|null|
 |**2024-12-18**|**Future Research Avenues for Artificial Intelligence in Digital Gaming: An Exploratory Report**|Markus Dablander et.al.|[2412.14085](http://arxiv.org/abs/2412.14085)|null|
 |**2024-12-18**|**A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future**|Shilin Sun et.al.|[2412.14056](http://arxiv.org/abs/2412.14056)|**[link](https://github.com/shilinsun/mxai_review)**|
 |**2024-12-18**|**Digestion Algorithm in Hierarchical Symbolic Forests: A Fast Text Normalization Algorithm and Semantic Parsing Framework for Specific Scenarios and Lightweight Deployment**|Kevin You et.al.|[2412.14054](http://arxiv.org/abs/2412.14054)|null|
-|**2024-12-18**|**Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems**|Igor G. Smit et.al.|[2412.14052](http://arxiv.org/abs/2412.14052)|null|
+|**2024-12-18**|**Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems**|Igor G. Smit et.al.|[2412.14052](http://arxiv.org/abs/2412.14052)|**[link](https://github.com/ai-for-decision-making-tue/NCO-for-Stochastic-FJSP)**|
 |**2024-12-18**|**Evidential Deep Learning for Probabilistic Modelling of Extreme Storm Events**|Ayush Khot et.al.|[2412.14048](http://arxiv.org/abs/2412.14048)|**[link](https://github.com/suli24/edl-stormcast)**|
 |**2024-12-18**|**Robust Optimal Safe and Stability Guaranteeing Reinforcement Learning Control for Quadcopter**|Sanghyoup Gu et.al.|[2412.14003](http://arxiv.org/abs/2412.14003)|null|
 |**2024-12-18**|**Variance-based loss function for improved regularization**|John M. Hanna et.al.|[2412.13993](http://arxiv.org/abs/2412.13993)|null|
 |**2024-12-18**|**Comparative Analysis of Machine Learning-Based Imputation Techniques for Air Quality Datasets with High Missing Data Rates**|Sen Yan et.al.|[2412.13966](http://arxiv.org/abs/2412.13966)|null|
 |**2024-12-18**|**Security and Privacy of Digital Twins for Advanced Manufacturing: A Survey**|Alexander D. Zemskov et.al.|[2412.13939](http://arxiv.org/abs/2412.13939)|null|
-|**2024-12-18**|**A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection**|Fu Wang et.al.|[2412.13913](http://arxiv.org/abs/2412.13913)|null|
+|**2024-12-19**|**A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection**|Fu Wang et.al.|[2412.13913](http://arxiv.org/abs/2412.13913)|null|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912](http://arxiv.org/abs/2412.13912)|null|
 |**2024-12-18**|**Graph-Driven Models for Gas Mixture Identification and Concentration Estimation on Heterogeneous Sensor Array Signals**|Ding Wang et.al.|[2412.13891](http://arxiv.org/abs/2412.13891)|null|
 |**2024-12-18**|**A Review of the Duality of Adversarial Learning in Network Intrusion: Attacks and Countermeasures**|Shalini Saini et.al.|[2412.13880](http://arxiv.org/abs/2412.13880)|null|
