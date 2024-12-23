@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.22
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1225,7 +1225,7 @@ layout: default
 |**2024-12-18**|**Enhancing Fingerprint Recognition Systems: Comparative Analysis of Biometric Authentication Algorithms and Techniques for Improved Accuracy and Reliability**|Temirlan Meiramkhanov et.al.|[2412.14404](http://arxiv.org/abs/2412.14404)|null|
 |**2024-12-18**|**Scaling Deep Learning Training with MPMD Pipeline Parallelism**|Anxhelo Xhebraj et.al.|[2412.14374](http://arxiv.org/abs/2412.14374)|null|
 |**2024-12-18**|**Dynamic semantic VSLAM with known and unknown objects**|Sanghyoup Gu et.al.|[2412.14359](http://arxiv.org/abs/2412.14359)|null|
-|**2024-12-18**|**SAFERec: Self-Attention and Frequency Enriched Model for Next Basket Recommendation**|Oleg Lashinin et.al.|[2412.14302](http://arxiv.org/abs/2412.14302)|**[link](https://github.com/anon-ecir-nbr/saferec)**|
+|**2024-12-20**|**SAFERec: Self-Attention and Frequency Enriched Model for Next Basket Recommendation**|Oleg Lashinin et.al.|[2412.14302](http://arxiv.org/abs/2412.14302)|**[link](https://github.com/anon-ecir-nbr/saferec)**|
 |**2024-12-17**|**A Comprehensive Review on Traffic Datasets and Simulators for Autonomous Vehicles**|Supriya Sarker et.al.|[2412.14207](http://arxiv.org/abs/2412.14207)|null|
 |**2024-12-18**|**Parameter-efficient Fine-tuning for improved Convolutional Baseline for Brain Tumor Segmentation in Sub-Saharan Africa Adult Glioma Dataset**|Bijay Adhikari et.al.|[2412.14100](http://arxiv.org/abs/2412.14100)|null|
 |**2024-12-18**|**Future Research Avenues for Artificial Intelligence in Digital Gaming: An Exploratory Report**|Markus Dablander et.al.|[2412.14085](http://arxiv.org/abs/2412.14085)|null|
