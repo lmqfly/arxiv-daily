@@ -1240,7 +1240,7 @@ layout: default
 |**2024-12-23**|**Enhancing Cancer Diagnosis with Explainable & Trustworthy Deep Learning Models**|Badaru I. Olumuyiwa et.al.|[2412.17527](http://arxiv.org/abs/2412.17527)|null|
 |**2024-12-23**|**Uncertainties of Satellite-based Essential Climate Variables from Deep Learning**|Junyang Gou et.al.|[2412.17506](http://arxiv.org/abs/2412.17506)|null|
 |**2024-12-23**|**A Toolkit for Virtual Reality Data Collection**|Tim Rolff et.al.|[2412.17490](http://arxiv.org/abs/2412.17490)|null|
-|**2024-12-23**|**Fast generation of entanglement between coupled spins using optimization and deep learning methods**|Dimitris Koutromanos et.al.|[2412.17489](http://arxiv.org/abs/2412.17489)|null|
+|**2024-12-23**|**Fast generation of entanglement between coupled spins using optimization and deep learning methods**|Dimitris Koutromanos et.al.|[2412.17489](http://arxiv.org/abs/2412.17489)|**[link](https://github.com/dkoytrom/Fast-generation-of-entanglement-between-coupled-spins-using-optimization-and-deep-learning-methods)**|
 |**2024-12-23**|**Predicting Satisfied User and Machine Ratio for Compressed Images: A Unified Approach**|Qi Zhang et.al.|[2412.17477](http://arxiv.org/abs/2412.17477)|null|
 |**2024-12-23**|**Assessment of Deep-Learning Methods for the Enhancement of Experimental Low Dose Dental CBCT Volumes**|Louise Friot--Giroux et.al.|[2412.17423](http://arxiv.org/abs/2412.17423)|null|
 |**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390](http://arxiv.org/abs/2412.17390)|null|
@@ -1272,7 +1272,7 @@ layout: default
 |**2024-12-22**|**Application of 3D U-Net Neural Networks in Extracting the Epoch of Reionization Signal from SKA-Low Observations Based on Real Observations of NCP Field from LOFAR**|Li-Yang Gao et.al.|[2412.16853](http://arxiv.org/abs/2412.16853)|null|
 |**2024-12-22**|**Fatigue Monitoring Using Wearables and AI: Trends, Challenges, and Future Opportunities**|Kourosh Kakhi et.al.|[2412.16847](http://arxiv.org/abs/2412.16847)|null|
 |**2024-12-22**|**Technical Report: Towards Spatial Feature Regularization in Deep-Learning-Based Array-SAR Reconstruction**|Yu Ren et.al.|[2412.16828](http://arxiv.org/abs/2412.16828)|null|
-|**2024-12-24**|**Time-Graph Frequency Representation with Singular Value Decomposition for Neural Speech Enhancement**|Tingting Wang et.al.|[2412.16823](http://arxiv.org/abs/2412.16823)|null|
+|**2024-12-24**|**Time-Graph Frequency Representation with Singular Value Decomposition for Neural Speech Enhancement**|Tingting Wang et.al.|[2412.16823](http://arxiv.org/abs/2412.16823)|**[link](https://github.com/Wangfighting0015/GFT_project)**|
 |**2024-12-21**|**NMPC and Deep Learning-Based Vibration Control of Satellite Beam Antenna Dynamics Using PZT Actuators and Sensors**|Sean Kalaycioglu et.al.|[2412.16805](http://arxiv.org/abs/2412.16805)|null|
 |**2024-12-21**|**Paraformer: Parameterization of Sub-grid Scale Processes Using Transformers**|Shuochen Wang et.al.|[2412.16763](http://arxiv.org/abs/2412.16763)|null|
 |**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755](http://arxiv.org/abs/2412.16755)|null|
