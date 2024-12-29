@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.28
+## Updated on 2024.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1229,7 +1229,7 @@ layout: default
 |**2024-12-23**|**tubGEMM: Energy-Efficient and Sparsity-Effective Temporal-Unary-Binary Based Matrix Multiply Unit**|Prabhu Vellaisamy et.al.|[2412.17955](http://arxiv.org/abs/2412.17955)|null|
 |**2024-12-23**|**Hyperbolic Chamfer Distance for Point Cloud Completion and Beyond**|Fangzhou Lin et.al.|[2412.17951](http://arxiv.org/abs/2412.17951)|null|
 |**2024-12-23**|**Trading Devil RL: Backdoor attack via Stock market, Bayesian Optimization and Reinforcement Learning**|Orson Mengara et.al.|[2412.17908](http://arxiv.org/abs/2412.17908)|null|
-|**2024-12-24**|**Contextual Backpropagation Loops: Amplifying Deep Reasoning with Iterative Top-Down Feedback**|Jacob Fein-Ashley et.al.|[2412.17737](http://arxiv.org/abs/2412.17737)|null|
+|**2024-12-24**|**Contextual Backpropagation Loops: Amplifying Deep Reasoning with Iterative Top-Down Feedback**|Jacob Fein-Ashley et.al.|[2412.17737](http://arxiv.org/abs/2412.17737)|**[link](https://github.com/contextualbackpropagationloops/cbl)**|
 |**2024-12-23**|**Asynchronous Federated Learning: A Scalable Approach for Decentralized Machine Learning**|Ali Forootani et.al.|[2412.17723](http://arxiv.org/abs/2412.17723)|**[link](https://github.com/ali-forootani/asynchronous-federated-learning)**|
 |**2024-12-23**|**MRANet: A Modified Residual Attention Networks for Lung and Colon Cancer Classification**|Diponkor Bala et.al.|[2412.17700](http://arxiv.org/abs/2412.17700)|null|
 |**2024-12-23**|**Benchmarking Generative AI Models for Deep Learning Test Input Generation**|Maryam et.al.|[2412.17652](http://arxiv.org/abs/2412.17652)|**[link](https://github.com/maryammaryam877/genai_tigs)**|
