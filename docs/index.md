@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-11**|**Enhancing Drug-Target Interaction Prediction through Transfer Learning from Activity Cliff Prediction Tasks**|Regina Ibragimova et.al.|[2412.19815](http://arxiv.org/abs/2412.19815)|null|
+|**2024-12-11**|**Enhancing Drug-Target Interaction Prediction through Transfer Learning from Activity Cliff Prediction Tasks**|Regina Ibragimova et.al.|[2412.19815](http://arxiv.org/abs/2412.19815)|**[link](https://github.com/reginaib/ac-dti)**|
 |**2024-12-27**|**ViDTA: Enhanced Drug-Target Affinity Prediction via Virtual Graph Nodes and Attention-based Feature Fusion**|Minghui Li et.al.|[2412.19589](http://arxiv.org/abs/2412.19589)|null|
 |**2024-12-26**|**The role of potential energy landscape research in the development of new electrolyte solutions**|Vitaly V. Chaban et.al.|[2412.19103](http://arxiv.org/abs/2412.19103)|null|
 |**2024-12-13**|**Precise Antigen-Antibody Structure Predictions Enhance Antibody Development with HelixFold-Multimer**|Jie Gao et.al.|[2412.09826](http://arxiv.org/abs/2412.09826)|null|
@@ -653,8 +653,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-30**|**Atomistic modeling of the structure and diffusion processes at Al(110)/Si(001) interphase boundaries obtained by vapor deposition**|Yang Li et.al.|[2412.20994](http://arxiv.org/abs/2412.20994)|null|
-|**2024-12-30**|**EdSr: A Novel End-to-End Approach for State-Space Sampling in Molecular Dynamics Simulation**|Hai-Ming Cao et.al.|[2412.20978](http://arxiv.org/abs/2412.20978)|null|
-|**2024-12-29**|**Topological analysis reveals multiple pathways in molecular dynamics**|Luca Donati et.al.|[2412.20580](http://arxiv.org/abs/2412.20580)|null|
+|**2024-12-30**|**EdSr: A Novel End-to-End Approach for State-Space Sampling in Molecular Dynamics Simulation**|Hai-Ming Cao et.al.|[2412.20978](http://arxiv.org/abs/2412.20978)|**[link](https://github.com/haiming-cao/edsr)**|
+|**2024-12-29**|**Topological analysis reveals multiple pathways in molecular dynamics**|Luca Donati et.al.|[2412.20580](http://arxiv.org/abs/2412.20580)|**[link](https://github.com/donatiluca/MoKiTo)**|
 |**2024-12-27**|**Global thermodynamics for isothermal fluids under gravity**|Naoko Nakagawa et.al.|[2412.19643](http://arxiv.org/abs/2412.19643)|null|
 |**2024-12-25**|**Enhanced Elastocaloric Effects in γ-graphyne**|Guilherme B. Kanegae et.al.|[2412.18978](http://arxiv.org/abs/2412.18978)|null|
 |**2024-12-24**|**OpenMM-Python-Force: Deploying Accelerated Python Modules in Molecular Dynamics Simulation**|Zhi Wang et.al.|[2412.18271](http://arxiv.org/abs/2412.18271)|**[link](https://github.com/bytedance/OpenMM-Python-Force)**|
@@ -1209,7 +1209,7 @@ layout: default
 |**2024-12-30**|**Adversarial Attack and Defense for LoRa Device Identification and Authentication via Deep Learning**|Yalin E. Sagduyu et.al.|[2412.21164](http://arxiv.org/abs/2412.21164)|null|
 |**2024-12-30**|**Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**|Maria Barbosa et.al.|[2412.21161](http://arxiv.org/abs/2412.21161)|null|
 |**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151](http://arxiv.org/abs/2412.21151)|**[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)**|
-|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130](http://arxiv.org/abs/2412.21130)|null|
+|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130](http://arxiv.org/abs/2412.21130)|**[link](https://github.com/Fucheng-Zhong/GaSNet-III)**|
 |**2024-12-30**|**Comparative Analysis of 2D and 3D ResNet Architectures for IDH and MGMT Mutation Detection in Glioma Patients**|Danial Elyassirad et.al.|[2412.21091](http://arxiv.org/abs/2412.21091)|null|
 |**2024-12-30**|**Machine Learning Optimal Ordering in Global Routing Problems in Semiconductors**|Heejin Choi et.al.|[2412.21035](http://arxiv.org/abs/2412.21035)|null|
 |**2024-12-30**|**Improving Location-based Thermal Emission Side-Channel Analysis Using Iterative Transfer Learning**|Tun-Chieh Lou et.al.|[2412.21030](http://arxiv.org/abs/2412.21030)|null|
