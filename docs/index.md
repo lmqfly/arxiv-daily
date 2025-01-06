@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**|Tien Dang et.al.|[2501.01644](http://arxiv.org/abs/2501.01644)|null|
 |**2024-12-11**|**Enhancing Drug-Target Interaction Prediction through Transfer Learning from Activity Cliff Prediction Tasks**|Regina Ibragimova et.al.|[2412.19815](http://arxiv.org/abs/2412.19815)|**[link](https://github.com/reginaib/ac-dti)**|
 |**2024-12-27**|**ViDTA: Enhanced Drug-Target Affinity Prediction via Virtual Graph Nodes and Attention-based Feature Fusion**|Minghui Li et.al.|[2412.19589](http://arxiv.org/abs/2412.19589)|null|
 |**2024-12-26**|**The role of potential energy landscape research in the development of new electrolyte solutions**|Vitaly V. Chaban et.al.|[2412.19103](http://arxiv.org/abs/2412.19103)|null|
@@ -308,6 +309,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**MADGEN -- Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|null|
 |**2024-12-02**|**Tokenizing 3D Molecule Structure with Quantized Spherical Coordinates**|Kaiyuan Gao et.al.|[2412.01564](http://arxiv.org/abs/2412.01564)|null|
 |**2024-11-25**|**Limeade: Let integer molecular encoding aid**|Shiqiang Zhang et.al.|[2411.16623](http://arxiv.org/abs/2411.16623)|**[link](https://github.com/cog-imperial/limeade)**|
 |**2024-11-23**|**MolMetaLM: a Physicochemical Knowledge-Guided Molecular Meta Language Model**|Yifan Wu et.al.|[2411.15500](http://arxiv.org/abs/2411.15500)|**[link](https://github.com/CSUBioGroup/MolMetaLM)**|
@@ -654,6 +656,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Linear Scaling Calculation of Atomic Forces and Energies with Machine Learning Local Density Matrix**|Zaizhou Xin et.al.|[2501.01863](http://arxiv.org/abs/2501.01863)|null|
 |**2025-01-02**|**Competing Hexagonal and Square Lattices on a Spherical Surface**|Han Xie et.al.|[2501.01270](http://arxiv.org/abs/2501.01270)|null|
 |**2024-12-30**|**Atomistic modeling of the structure and diffusion processes at Al(110)/Si(001) interphase boundaries obtained by vapor deposition**|Yang Li et.al.|[2412.20994](http://arxiv.org/abs/2412.20994)|null|
 |**2024-12-30**|**EdSr: A Novel End-to-End Approach for State-Space Sampling in Molecular Dynamics Simulation**|Hai-Ming Cao et.al.|[2412.20978](http://arxiv.org/abs/2412.20978)|**[link](https://github.com/haiming-cao/edsr)**|
@@ -1209,6 +1212,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Hybrid-z: Enhancing Kilo-Degree Survey bright galaxy sample photometric redshifts with deep learning**|Anjitha John William et.al.|[2501.01942](http://arxiv.org/abs/2501.01942)|null|
+|**2025-01-03**|**Detecting and Mitigating Adversarial Attacks on Deep Learning-Based MRI Reconstruction Without Any Retraining**|Mahdi Saberi et.al.|[2501.01908](http://arxiv.org/abs/2501.01908)|null|
+|**2025-01-03**|**Towards Hard and Soft Shadow Removal via Dual-Branch Separation Network and Vision Transformer**|Jiajia Liang et.al.|[2501.01864](http://arxiv.org/abs/2501.01864)|null|
+|**2025-01-03**|**Semantic Segmentation for Sequential Historical Maps by Learning from Only One Map**|Yunshuang Yuan et.al.|[2501.01845](http://arxiv.org/abs/2501.01845)|null|
+|**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
+|**2025-01-03**|**BERT4MIMO: A Foundation Model using BERT Architecture for Massive MIMO Channel State Information Prediction**|Ferhat Ozgur Catak et.al.|[2501.01802](http://arxiv.org/abs/2501.01802)|null|
+|**2025-01-03**|**Creating Artificial Students that Never Existed: Leveraging Large Language Models and CTGANs for Synthetic Data Generation**|Mohammad Khalil et.al.|[2501.01793](http://arxiv.org/abs/2501.01793)|null|
+|**2025-01-03**|**Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations**|Ruikang Chen et.al.|[2501.01733](http://arxiv.org/abs/2501.01733)|null|
+|**2025-01-03**|**Multi-modal classification of forest biodiversity potential from 2D orthophotos and 3D airborne laser scanning point clouds**|Simon B. Jensen et.al.|[2501.01728](http://arxiv.org/abs/2501.01728)|null|
+|**2025-01-03**|**Subject Specific Deep Learning Model for Motor Imagery Direction Decoding**|Praveen K. Parashiva et.al.|[2501.01725](http://arxiv.org/abs/2501.01725)|null|
+|**2025-01-03**|**Aesthetic Matters in Music Perception for Image Stylization: A Emotion-driven Music-to-Visual Manipulation**|Junjie Xu et.al.|[2501.01700](http://arxiv.org/abs/2501.01700)|null|
+|**2025-01-03**|**Comparative Study of Deep Learning Architectures for Textual Damage Level Classification**|Aziida Nanyonga et.al.|[2501.01694](http://arxiv.org/abs/2501.01694)|null|
+|**2025-01-03**|**VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement**|Jiachen Li et.al.|[2501.01691](http://arxiv.org/abs/2501.01691)|null|
+|**2025-01-03**|**iCBIR-Sli: Interpretable Content-Based Image Retrieval with 2D Slice Embeddings**|Shuhei Tomoshige et.al.|[2501.01642](http://arxiv.org/abs/2501.01642)|null|
+|**2025-01-03**|**Digital-Analog Transmission based Emergency Semantic Communications**|Yuzhou Fu et.al.|[2501.01616](http://arxiv.org/abs/2501.01616)|null|
+|**2025-01-03**|**Test Input Validation for Vision-based DL Systems: An Active Learning Approach**|Delaram Ghobari et.al.|[2501.01606](http://arxiv.org/abs/2501.01606)|null|
+|**2025-01-02**|**Constructing and explaining machine learning models for chemistry: example of the exploration and design of boron-based Lewis acids**|Juliette Fenogli et.al.|[2501.01576](http://arxiv.org/abs/2501.01576)|null|
+|**2025-01-02**|**Semialgebraic Neural Networks: From roots to representations**|S. David Mis et.al.|[2501.01564](http://arxiv.org/abs/2501.01564)|null|
+|**2025-01-02**|**DiagrammaticLearning: A Graphical Language for Compositional Training Regimes**|Mason Lary et.al.|[2501.01515](http://arxiv.org/abs/2501.01515)|null|
+|**2025-01-02**|**Explainable Brain Age Gap Prediction in Neurodegenerative Conditions using coVariance Neural Networks**|Saurabh Sihag et.al.|[2501.01510](http://arxiv.org/abs/2501.01510)|null|
+|**2025-01-02**|**AI-Enabled Operations at Fermi Complex: Multivariate Time Series Prediction for Outage Prediction and Diagnosis**|Milan Jain et.al.|[2501.01509](http://arxiv.org/abs/2501.01509)|null|
+|**2025-01-02**|**ORACLE: A Real-Time, Hierarchical, Deep-Learning Photometric Classifier for the LSST**|Ved G. Shah et.al.|[2501.01496](http://arxiv.org/abs/2501.01496)|null|
+|**2025-01-02**|**A Survey of Deep Learning Methods in Protein Bioinformatics and its Impact on Protein Design**|Weihang Dai et.al.|[2501.01477](http://arxiv.org/abs/2501.01477)|null|
+|**2024-12-31**|**SS-CTML: Self-Supervised Cross-Task Mutual Learning for CT Image Reconstruction**|Gaofeng Chen et.al.|[2501.01456](http://arxiv.org/abs/2501.01456)|null|
 |**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|null|
 |**2025-01-02**|**Best Transition Matrix Esitimation or Best Label Noise Robustness Classifier? Two Possible Methods to Enhance the Performance of T-revision**|Haixu Liu et.al.|[2501.01402](http://arxiv.org/abs/2501.01402)|null|
 |**2025-01-02**|**Evaluation of Deep Learning-based Scatter Correction for Total-body PET**|Baptiste Laurent et.al.|[2501.01341](http://arxiv.org/abs/2501.01341)|null|
@@ -8452,6 +8479,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**QuantumBind-RBFE: Accurate Relative Binding Free Energy Calculations Using Neural Network Potentials**|Francesc Sabanés Zariquiey et.al.|[2501.01811](http://arxiv.org/abs/2501.01811)|null|
 |**2024-12-30**|**AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies**|Yibo Wen et.al.|[2412.20984](http://arxiv.org/abs/2412.20984)|null|
 |**2024-12-28**|**AI Model for Predicting Binding Affinity of Antidiabetic Compounds Targeting PPAR**|La Ode Aman et.al.|[2412.20011](http://arxiv.org/abs/2412.20011)|null|
 |**2024-12-28**|**Relative Binding Free Energy Estimation of Congeneric Ligands and Macromolecular Mutants with the Alchemical Transfer with Coordinate Swapping Method**|Emilio Gallicchio et.al.|[2412.19971](http://arxiv.org/abs/2412.19971)|null|
