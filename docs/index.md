@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1236,7 +1236,7 @@ layout: default
 |**2025-01-02**|**ORACLE: A Real-Time, Hierarchical, Deep-Learning Photometric Classifier for the LSST**|Ved G. Shah et.al.|[2501.01496](http://arxiv.org/abs/2501.01496)|null|
 |**2025-01-02**|**A Survey of Deep Learning Methods in Protein Bioinformatics and its Impact on Protein Design**|Weihang Dai et.al.|[2501.01477](http://arxiv.org/abs/2501.01477)|null|
 |**2024-12-31**|**SS-CTML: Self-Supervised Cross-Task Mutual Learning for CT Image Reconstruction**|Gaofeng Chen et.al.|[2501.01456](http://arxiv.org/abs/2501.01456)|null|
-|**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|null|
+|**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|**[link](https://github.com/yoshitomo-matsubara/ladon-multi-task-sc2)**|
 |**2025-01-02**|**Best Transition Matrix Esitimation or Best Label Noise Robustness Classifier? Two Possible Methods to Enhance the Performance of T-revision**|Haixu Liu et.al.|[2501.01402](http://arxiv.org/abs/2501.01402)|null|
 |**2025-01-02**|**Evaluation of Deep Learning-based Scatter Correction for Total-body PET**|Baptiste Laurent et.al.|[2501.01341](http://arxiv.org/abs/2501.01341)|null|
 |**2025-01-02**|**Enhancement of Neural Inertial Regression Networks: A Data-Driven Perspective**|Victoria Khalfin Fekson et.al.|[2501.01327](http://arxiv.org/abs/2501.01327)|null|
@@ -1273,12 +1273,12 @@ layout: default
 |**2024-12-31**|**A New Dataset and Methodology for Malicious URL Classification**|Ilan Schvartzman et.al.|[2501.00356](http://arxiv.org/abs/2501.00356)|null|
 |**2024-12-31**|**Outlier-Robust Training of Machine Learning Models**|Rajat Talak et.al.|[2501.00265](http://arxiv.org/abs/2501.00265)|null|
 |**2024-12-31**|**Improving image quality of the Solar Disk Imager (SDI) of the Lyman-alpha Solar Telescope (LST) onboard the ASO-S mission**|Hui Liu et.al.|[2501.00231](http://arxiv.org/abs/2501.00231)|null|
-|**2024-12-30**|**TrajLearn: Trajectory Prediction Learning using Deep Generative Models**|Amirhossein Nadiri et.al.|[2501.00184](http://arxiv.org/abs/2501.00184)|null|
+|**2024-12-30**|**TrajLearn: Trajectory Prediction Learning using Deep Generative Models**|Amirhossein Nadiri et.al.|[2501.00184](http://arxiv.org/abs/2501.00184)|**[link](https://github.com/amir-ni/trajectory-prediction)**|
 |**2024-12-30**|**The Text Classification Pipeline: Starting Shallow going Deeper**|Marco Siino et.al.|[2501.00174](http://arxiv.org/abs/2501.00174)|null|
 |**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169](http://arxiv.org/abs/2501.00169)|null|
 |**2024-12-30**|**Urban Water Consumption Forecasting Using Deep Learning and Correlated District Metered Areas**|Kleanthis Malialis et.al.|[2501.00158](http://arxiv.org/abs/2501.00158)|null|
 |**2024-12-30**|**Autoencoder Reconstruction of Cosmological Microlensing Magnification Maps**|Somayeh Khakpash et.al.|[2501.00153](http://arxiv.org/abs/2501.00153)|null|
-|**2024-12-30**|**Detection-Fusion for Knowledge Graph Extraction from Videos**|Taniya Das et.al.|[2501.00136](http://arxiv.org/abs/2501.00136)|null|
+|**2024-12-30**|**Detection-Fusion for Knowledge Graph Extraction from Videos**|Taniya Das et.al.|[2501.00136](http://arxiv.org/abs/2501.00136)|**[link](https://github.com/Taniya-Das/video_annotation)**|
 |**2024-12-30**|**Deep learning optimal molecular scintillators for dark matter direct detection**|Cameron Cook et.al.|[2501.00091](http://arxiv.org/abs/2501.00091)|null|
 |**2024-12-29**|**Predicting Preschoolers' Externalizing Problems with Mother-Child Interaction Dynamics and Deep Learning**|Xi Chen et.al.|[2501.00065](http://arxiv.org/abs/2501.00065)|null|
 |**2024-12-29**|**Lungmix: A Mixup-Based Strategy for Generalization in Respiratory Sound Classification**|Shijia Ge et.al.|[2501.00064](http://arxiv.org/abs/2501.00064)|null|
@@ -1315,7 +1315,7 @@ layout: default
 |**2024-12-29**|**Segmentation of Muscularis Propria in Colon Histopathology Images Using Vision Transformers for Hirschsprung's Disease**|Youssef Megahed et.al.|[2412.20571](http://arxiv.org/abs/2412.20571)|null|
 |**2024-12-29**|**Enhancing autonomous vehicle safety in rain: a data-centric approach for clear vision**|Mark A. Seferian et.al.|[2412.20565](http://arxiv.org/abs/2412.20565)|null|
 |**2024-12-29**|**Can Robots "Taste" Grapes? Estimating SSC with Simple RGB Sensors**|Thomas Alessandro Ciarfuglia et.al.|[2412.20521](http://arxiv.org/abs/2412.20521)|null|
-|**2024-12-29**|**Regulating radiology AI medical devices that evolve in their lifecycle**|Camila González et.al.|[2412.20498](http://arxiv.org/abs/2412.20498)|null|
+|**2025-01-03**|**Regulating radiology AI medical devices that evolve in their lifecycle**|Camila González et.al.|[2412.20498](http://arxiv.org/abs/2412.20498)|null|
 |**2024-12-29**|**An Efficient Stochastic Optimization Method for Global Placement in VLSI Problem**|Yi-Shuang Yue et.al.|[2412.20425](http://arxiv.org/abs/2412.20425)|null|
 |**2024-12-29**|**Open-Sora: Democratizing Efficient Video Production for All**|Zangwei Zheng et.al.|[2412.20404](http://arxiv.org/abs/2412.20404)|**[link](https://github.com/hpcaitech/open-sora)**|
 |**2024-12-29**|**Impact of Data Distribution on Fairness Guarantees in Equitable Deep Learning**|Yan Luo et.al.|[2412.20377](http://arxiv.org/abs/2412.20377)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairness_guarantees)**|
