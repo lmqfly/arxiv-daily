@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1284,7 +1284,7 @@ layout: default
 |**2025-01-03**|**Subject Specific Deep Learning Model for Motor Imagery Direction Decoding**|Praveen K. Parashiva et.al.|[2501.01725](http://arxiv.org/abs/2501.01725)|null|
 |**2025-01-03**|**Aesthetic Matters in Music Perception for Image Stylization: A Emotion-driven Music-to-Visual Manipulation**|Junjie Xu et.al.|[2501.01700](http://arxiv.org/abs/2501.01700)|null|
 |**2025-01-03**|**Comparative Study of Deep Learning Architectures for Textual Damage Level Classification**|Aziida Nanyonga et.al.|[2501.01694](http://arxiv.org/abs/2501.01694)|null|
-|**2025-01-03**|**VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement**|Jiachen Li et.al.|[2501.01691](http://arxiv.org/abs/2501.01691)|null|
+|**2025-01-07**|**VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement**|Jiachen Li et.al.|[2501.01691](http://arxiv.org/abs/2501.01691)|null|
 |**2025-01-03**|**iCBIR-Sli: Interpretable Content-Based Image Retrieval with 2D Slice Embeddings**|Shuhei Tomoshige et.al.|[2501.01642](http://arxiv.org/abs/2501.01642)|null|
 |**2025-01-03**|**Digital-Analog Transmission based Emergency Semantic Communications**|Yuzhou Fu et.al.|[2501.01616](http://arxiv.org/abs/2501.01616)|null|
 |**2025-01-03**|**Test Input Validation for Vision-based DL Systems: An Active Learning Approach**|Delaram Ghobari et.al.|[2501.01606](http://arxiv.org/abs/2501.01606)|null|
@@ -1316,7 +1316,7 @@ layout: default
 |**2025-01-01**|**A Novel Approach using CapsNet and Deep Belief Network for Detection and Identification of Oral Leukopenia**|Hirthik Mathesh GV et.al.|[2501.00876](http://arxiv.org/abs/2501.00876)|null|
 |**2025-01-01**|**Recognizing Artistic Style of Archaeological Image Fragments Using Deep Style Extrapolation**|Gur Elkin et.al.|[2501.00836](http://arxiv.org/abs/2501.00836)|null|
 |**2025-01-01**|**An LLM-Empowered Adaptive Evolutionary Algorithm For Multi-Component Deep Learning Systems**|Haoxiang Tian et.al.|[2501.00829](http://arxiv.org/abs/2501.00829)|null|
-|**2025-01-01**|**LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management**|Yichen Luo et.al.|[2501.00826](http://arxiv.org/abs/2501.00826)|null|
+|**2025-01-07**|**LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management**|Yichen Luo et.al.|[2501.00826](http://arxiv.org/abs/2501.00826)|null|
 |**2025-01-01**|**Solving McKean-Vlasov Equation by deep learning particle method**|Jingyuan Li et.al.|[2501.00780](http://arxiv.org/abs/2501.00780)|null|
 |**2025-01-01**|**Enhancing Transformers for Generalizable First-Order Logical Entailment**|Tianshi Zheng et.al.|[2501.00759](http://arxiv.org/abs/2501.00759)|null|
 |**2025-01-01**|**Kolmogorov GAM Networks are all you need!**|Sarah Polson et.al.|[2501.00704](http://arxiv.org/abs/2501.00704)|null|
