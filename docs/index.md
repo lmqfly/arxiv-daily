@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.08
+## Updated on 2025.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1255,7 +1255,7 @@ layout: default
 |**2025-01-07**|**Interface reconstruction of adhering droplets for distortion correction using glare points and deep learning**|Maximilian Dreisbach et.al.|[2501.03453](http://arxiv.org/abs/2501.03453)|null|
 |**2025-01-07**|**Optimization Learning**|Pascal Van Hentenryck et.al.|[2501.03443](http://arxiv.org/abs/2501.03443)|null|
 |**2025-01-06**|**ProtoBeam: Generalizing Deep Beam Prediction to Unseen Antennas using Prototypical Networks**|Omar Mashaal et.al.|[2501.03435](http://arxiv.org/abs/2501.03435)|null|
-|**2025-01-06**|**Low-Order Flow Reconstruction and Uncertainty Quantification in Disturbed Aerodynamics Using Sparse Pressure Measurements**|Hanieh Mousavi et.al.|[2501.03406](http://arxiv.org/abs/2501.03406)|null|
+|**2025-01-06**|**Low-Order Flow Reconstruction and Uncertainty Quantification in Disturbed Aerodynamics Using Sparse Pressure Measurements**|Hanieh Mousavi et.al.|[2501.03406](http://arxiv.org/abs/2501.03406)|**[link](https://github.com/haniehmsv/LowOrderFlowUQ)**|
 |**2025-01-06**|**The Artificial Scientist -- in-transit Machine Learning of Plasma Simulations**|Jeffrey Kelling et.al.|[2501.03383](http://arxiv.org/abs/2501.03383)|null|
 |**2025-01-06**|**FTA-FTL: A Fine-Tuned Aggregation Federated Transfer Learning Scheme for Lithology Microscopic Image Classification**|Keyvan RahimiZadeh et.al.|[2501.03349](http://arxiv.org/abs/2501.03349)|**[link](https://github.com/ahmadtaheri2021/lithology-microscopic-images-mini-dataset)**|
 |**2025-01-06**|**Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective**|Md. Jalal Uddin Chowdhury et.al.|[2501.03305](http://arxiv.org/abs/2501.03305)|null|
@@ -1285,7 +1285,7 @@ layout: default
 |**2025-01-06**|**Are GNNs Effective for Multimodal Fault Diagnosis in Microservice Systems?**|Fei Gao et.al.|[2501.02766](http://arxiv.org/abs/2501.02766)|null|
 |**2025-01-06**|**Interpretable Recognition of Fused Magnesium Furnace Working Conditions with Deep Convolutional Stochastic Configuration Networks**|Li Weitao et.al.|[2501.02740](http://arxiv.org/abs/2501.02740)|null|
 |**2025-01-06**|**Underwater Image Restoration Through a Prior Guided Hybrid Sense Approach and Extensive Benchmark Analysis**|Xiaojiao Guo et.al.|[2501.02701](http://arxiv.org/abs/2501.02701)|**[link](https://github.com/cxh-research/guidedhybsensuir)**|
-|**2025-01-05**|**Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks**|Yang Wang et.al.|[2501.02654](http://arxiv.org/abs/2501.02654)|**[link](https://github.com/puredefence/advbench4text)**|
+|**2025-01-08**|**Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks**|Yang Wang et.al.|[2501.02654](http://arxiv.org/abs/2501.02654)|**[link](https://github.com/puredefence/advbench4text)**|
 |**2025-01-05**|**LLMs Help Alleviate the Cross-Subject Variability in Brain Signal and Language Alignment**|Yifei Liu et.al.|[2501.02621](http://arxiv.org/abs/2501.02621)|null|
 |**2025-01-05**|**Identifying Surgical Instruments in Pedagogical Cataract Surgery Videos through an Optimized Aggregation Network**|Sanya Sinha et.al.|[2501.02618](http://arxiv.org/abs/2501.02618)|null|
 |**2025-01-05**|**LWFNet: Coherent Doppler Wind Lidar-Based Network for Wind Field Retrieval**|Ran Tao et.al.|[2501.02613](http://arxiv.org/abs/2501.02613)|null|
@@ -1298,11 +1298,11 @@ layout: default
 |**2025-01-04**|**GNSS/GPS Spoofing and Jamming Identification Using Machine Learning and Deep Learning**|Ali Ghanbarzade et.al.|[2501.02352](http://arxiv.org/abs/2501.02352)|null|
 |**2025-01-04**|**Accurate Crop Yield Estimation of Blueberries using Deep Learning and Smart Drones**|Hieu D. Nguyen et.al.|[2501.02344](http://arxiv.org/abs/2501.02344)|null|
 |**2025-01-04**|**Deep Learning-Driven Segmentation of Ischemic Stroke Lesions Using Multi-Channel MRI**|Ashiqur Rahman et.al.|[2501.02287](http://arxiv.org/abs/2501.02287)|null|
-|**2025-01-04**|**Efficient Video-Based ALPR System Using YOLO and Visual Rhythm**|Victor Nascimento Ribeiro et.al.|[2501.02270](http://arxiv.org/abs/2501.02270)|null|
+|**2025-01-08**|**Efficient Video-Based ALPR System Using YOLO and Visual Rhythm**|Victor Nascimento Ribeiro et.al.|[2501.02270](http://arxiv.org/abs/2501.02270)|null|
 |**2025-01-04**|**Distillation-Enhanced Physical Adversarial Attacks**|Wei Liu et.al.|[2501.02232](http://arxiv.org/abs/2501.02232)|null|
 |**2025-01-04**|**AdaMixup: A Dynamic Defense Framework for Membership Inference Attack Mitigation**|Ying Chen et.al.|[2501.02182](http://arxiv.org/abs/2501.02182)|null|
 |**2025-01-04**|**IMUFace: Real-Time, Low-Power, Continuous 3D Facial Reconstruction Through Earphones**|Xianrong Yao et.al.|[2501.02177](http://arxiv.org/abs/2501.02177)|null|
-|**2025-01-04**|**Bit-bit encoding, optimizer-free training and sub-net initialization: techniques for scalable quantum machine learning**|Sonika Johri et.al.|[2501.02148](http://arxiv.org/abs/2501.02148)|null|
+|**2025-01-08**|**Bit-bit encoding, optimizer-free training and sub-net initialization: techniques for scalable quantum machine learning**|Sonika Johri et.al.|[2501.02148](http://arxiv.org/abs/2501.02148)|null|
 |**2025-01-03**|**Siamese Networks for Cat Re-Identification: Exploring Neural Models for Cat Instance Recognition**|Tobias Trein et.al.|[2501.02112](http://arxiv.org/abs/2501.02112)|**[link](https://github.com/tobiastrein/hsc-reident)**|
 |**2025-01-02**|**RealDiffFusionNet: Neural Controlled Differential Equation Informed Multi-Head Attention Fusion Networks for Disease Progression Modeling Using Real-World Data**|Aashish Cheruvu et.al.|[2501.02025](http://arxiv.org/abs/2501.02025)|null|
 |**2025-01-02**|**KANS: Knowledge Discovery Graph Attention Network for Soft Sensing in Multivariate Industrial Processes**|Hwa Hui Tew et.al.|[2501.02015](http://arxiv.org/abs/2501.02015)|null|
