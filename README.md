@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Magnetism based on nitrate-nitrate interactions: The cases of LiNO $_3$, K$_{0.5}$Rb$_{0.5}$NO$_3$, Ca(NO$_3$)$_2$ and C(NH$_2$)$_3$NO$_3$**|Na Du et.al.|[2501.05754](http://arxiv.org/abs/2501.05754)|null|
 |**2025-01-06**|**Proteomic Learning of Gamma-Aminobutyric Acid (GABA) Receptor-Mediated Anesthesia**|Jian Jiang et.al.|[2501.02824](http://arxiv.org/abs/2501.02824)|**[link](https://github.com/longchen0/gaba-ppi)**|
 |**2025-01-06**|**CHAT: Beyond Contrastive Graph Transformer for Link Prediction in Heterogeneous Networks**|Shengming Zhang et.al.|[2501.02760](http://arxiv.org/abs/2501.02760)|null|
 |**2025-01-03**|**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**|Tien Dang et.al.|[2501.01644](http://arxiv.org/abs/2501.01644)|**[link](https://github.com/hysonlab/biomedkg)**|
@@ -325,6 +326,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**GenMol: A Drug Discovery Generalist with Discrete Diffusion**|Seul Lee et.al.|[2501.06158](http://arxiv.org/abs/2501.06158)|null|
 |**2025-01-05**|**Unified Guidance for Geometry-Conditioned Molecular Generation**|Sirine Ayadi et.al.|[2501.02526](http://arxiv.org/abs/2501.02526)|null|
 |**2025-01-03**|**Active Learning Enables Extrapolation in Molecular Generative Models**|Evan R. Antoniuk et.al.|[2501.02059](http://arxiv.org/abs/2501.02059)|null|
 |**2025-01-08**|**MADGEN: Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|null|
@@ -1248,6 +1250,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**SkyReconNet: A Deep Learning Inpainting Approach for Enhanced CMB Map Reconstruction**|Reyhan D. Lambaga et.al.|[2501.06139](http://arxiv.org/abs/2501.06139)|null|
+|**2025-01-10**|**Merging Feed-Forward Sublayers for Compressed Transformers**|Neha Verma et.al.|[2501.06126](http://arxiv.org/abs/2501.06126)|**[link](https://github.com/nverma1/merging-ffs-compression)**|
+|**2025-01-10**|**Explaining Deep Learning-based Anomaly Detection in Energy Consumption Data by Focusing on Contextually Relevant Data**|Mohammad Noorchenarboo et.al.|[2501.06099](http://arxiv.org/abs/2501.06099)|null|
+|**2025-01-10**|**Averaged Adam accelerates stochastic optimization in the training of deep neural network approximations for partial differential equation and optimal control problems**|Steffen Dereich et.al.|[2501.06081](http://arxiv.org/abs/2501.06081)|**[link](https://github.com/deeplearningmethods/averaged-adam)**|
+|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080](http://arxiv.org/abs/2501.06080)|null|
+|**2025-01-10**|**DeltaGNN: Graph Neural Network with Information Flow Control**|Kevin Mancini et.al.|[2501.06002](http://arxiv.org/abs/2501.06002)|**[link](https://github.com/basiralab/deltagnn)**|
+|**2025-01-10**|**An Attention-Guided Deep Learning Approach for Classifying 39 Skin Lesion Types**|Sauda Adiv Hanum et.al.|[2501.05991](http://arxiv.org/abs/2501.05991)|**[link](https://github.com/akabircs/skin-lesions-classification)**|
+|**2025-01-10**|**Swin-X2S: Reconstructing 3D Shape from 2D Biplanar X-ray with Swin Transformers**|Kuan Liu et.al.|[2501.05961](http://arxiv.org/abs/2501.05961)|null|
+|**2025-01-10**|**Reusable specimen-level inference in computational pathology**|Jakub R. Kaczmarzyk et.al.|[2501.05945](http://arxiv.org/abs/2501.05945)|null|
+|**2025-01-10**|**Random Sparse Lifts: Construction, Analysis and Convergence of finite sparse networks**|David A. R. Robin et.al.|[2501.05930](http://arxiv.org/abs/2501.05930)|null|
+|**2025-01-10**|**Orthogonal projection-based regularization for efficient model augmentation**|Bendegúz M. Györök et.al.|[2501.05842](http://arxiv.org/abs/2501.05842)|**[link](https://github.com/aimotionlab-sztaki/orthogonal-augmentation)**|
+|**2025-01-10**|**AI-Driven Diabetic Retinopathy Screening: Multicentric Validation of AIDRSS in India**|Amit Kr Dey et.al.|[2501.05826](http://arxiv.org/abs/2501.05826)|null|
+|**2025-01-10**|**Evidential Deep Learning for Uncertainty Quantification and Out-of-Distribution Detection in Jet Identification using Deep Neural Networks**|Ayush Khot et.al.|[2501.05656](http://arxiv.org/abs/2501.05656)|**[link](https://github.com/fair4hep/pfin4uqad)**|
+|**2025-01-10**|**Interpretable Enzyme Function Prediction via Residue-Level Detection**|Zhao Yang et.al.|[2501.05644](http://arxiv.org/abs/2501.05644)|**[link](https://github.com/yangzhao1230/protdetr)**|
+|**2025-01-09**|**Prediction of Binding Affinity for ErbB Inhibitors Using Deep Neural Network Model with Morgan Fingerprints as Features**|La Ode Aman et.al.|[2501.05607](http://arxiv.org/abs/2501.05607)|null|
+|**2025-01-09**|**Advancing Personalized Learning Analysis via an Innovative Domain Knowledge Informed Attention-based Knowledge Tracing Method**|Shubham Kose et.al.|[2501.05605](http://arxiv.org/abs/2501.05605)|null|
+|**2025-01-09**|**LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning**|Jianchao Lu et.al.|[2501.05589](http://arxiv.org/abs/2501.05589)|null|
+|**2025-01-09**|**Enforcing Fundamental Relations via Adversarial Attacks on Input Parameter Correlations**|Timo Saala et.al.|[2501.05588](http://arxiv.org/abs/2501.05588)|null|
+|**2025-01-09**|**Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics**|Gert Aarts et.al.|[2501.05580](http://arxiv.org/abs/2501.05580)|null|
+|**2025-01-09**|**Prediction-Assisted Online Distributed Deep Learning Workload Scheduling in GPU Clusters**|Ziyue Luo et.al.|[2501.05563](http://arxiv.org/abs/2501.05563)|null|
+|**2025-01-09**|**Quantum Simplicial Neural Networks**|Simone Piperno et.al.|[2501.05558](http://arxiv.org/abs/2501.05558)|null|
+|**2025-01-09**|**Emergent weight morphologies in deep neural networks**|Pascal de Jong et.al.|[2501.05550](http://arxiv.org/abs/2501.05550)|null|
+|**2025-01-09**|**Deep learning of phase transitions with minimal examples**|Ahmed Abuali et.al.|[2501.05547](http://arxiv.org/abs/2501.05547)|null|
+|**2025-01-09**|**MECASA: Motor Execution Classification using Additive Self-Attention for Hybrid EEG-fNIRS Data**|Gourav Siddhad et.al.|[2501.05525](http://arxiv.org/abs/2501.05525)|null|
+|**2025-01-09**|**The more polypersonal the better -- a short look on space geometry of fine-tuned layers**|Sergei Kudriashov et.al.|[2501.05503](http://arxiv.org/abs/2501.05503)|null|
+|**2025-01-09**|**Shrink the longest: improving latent space isotropy with symplicial geometry**|Sergei Kudriashov et.al.|[2501.05502](http://arxiv.org/abs/2501.05502)|null|
+|**2025-01-09**|**Interpretable deep learning illuminates multiple structures fluorescence imaging: a path toward trustworthy artificial intelligence in microscopy**|Mingyang Chen et.al.|[2501.05490](http://arxiv.org/abs/2501.05490)|null|
 |**2025-01-09**|**Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures**|Md. Arafat Alam Khandaker et.al.|[2501.05449](http://arxiv.org/abs/2501.05449)|null|
 |**2025-01-09**|**From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI**|Md. Arafat Alam Khandaker et.al.|[2501.05426](http://arxiv.org/abs/2501.05426)|null|
 |**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|**[link](https://github.com/uncertaintyforknowledgetracing/ukt)**|
@@ -1276,7 +1305,7 @@
 |**2025-01-08**|**Using Diffusion Models for Reducing Spatiotemporal Errors of Deep Learning Based Urban Microclimate Predictions at Post-Processing Stage**|Sepehrdad Tahmasebi et.al.|[2501.04847](http://arxiv.org/abs/2501.04847)|null|
 |**2025-01-08**|**A Deep Learning-Based Method for Power System Resilience Evaluation**|Xuesong Wang et.al.|[2501.04830](http://arxiv.org/abs/2501.04830)|null|
 |**2025-01-08**|**Probabilistic Skip Connections for Deterministic Uncertainty Quantification in Deep Neural Networks**|Felix Jimenez et.al.|[2501.04816](http://arxiv.org/abs/2501.04816)|null|
-|**2025-01-08**|**A Steerable Deep Network for Model-Free Diffusion MRI Registration**|Gianfranco Cortes et.al.|[2501.04794](http://arxiv.org/abs/2501.04794)|null|
+|**2025-01-10**|**A Steerable Deep Network for Model-Free Diffusion MRI Registration**|Gianfranco Cortes et.al.|[2501.04794](http://arxiv.org/abs/2501.04794)|null|
 |**2025-01-08**|**Comparison of fundamental frequency estimators with subharmonic voice signals**|Takeshi Ikuma et.al.|[2501.04789](http://arxiv.org/abs/2501.04789)|null|
 |**2025-01-07**|**Topology-based deep-learning segmentation method for deep anterior lamellar keratoplasty (DALK) surgical guidance using M-mode OCT data**|J. Yu et.al.|[2501.04735](http://arxiv.org/abs/2501.04735)|null|
 |**2025-01-07**|**Generative Style Transfer for MRI Image Segmentation: A Case of Glioma Segmentation in Sub-Saharan Africa**|Rancy Chepchirchir et.al.|[2501.04734](http://arxiv.org/abs/2501.04734)|**[link](https://github.com/CAMERA-MRI/SPARK2023/tree/main/SPARK_BTS_KIFARU)**|
@@ -1294,7 +1323,7 @@
 |**2025-01-08**|**Neural Parameter Estimation with Incomplete Data**|Matthew Sainsbury-Dale et.al.|[2501.04330](http://arxiv.org/abs/2501.04330)|**[link](https://github.com/msainsburydale/neuralincompletedata)**|
 |**2025-01-08**|**Your Fix Is My Exploit: Enabling Comprehensive DL Library API Fuzzing with Large Language Models**|Kunpeng Zhang et.al.|[2501.04312](http://arxiv.org/abs/2501.04312)|null|
 |**2025-01-08**|**Separate Source Channel Coding Is Still What You Need: An LLM-based Rethinking**|Tianqi Ren et.al.|[2501.04285](http://arxiv.org/abs/2501.04285)|null|
-|**2025-01-08**|**CURing Large Models: Compression via CUR Decomposition**|Sanghyeon Park et.al.|[2501.04211](http://arxiv.org/abs/2501.04211)|null|
+|**2025-01-10**|**CURing Large Models: Compression via CUR Decomposition**|Sanghyeon Park et.al.|[2501.04211](http://arxiv.org/abs/2501.04211)|null|
 |**2025-01-08**|**Recognition-Oriented Low-Light Image Enhancement based on Global and Pixelwise Optimization**|Seitaro Ono et.al.|[2501.04210](http://arxiv.org/abs/2501.04210)|null|
 |**2025-01-08**|**GRAPHITE: Graph-Based Interpretable Tissue Examination for Enhanced Explainability in Breast Cancer Histopathology**|Raktim Kumar Mondol et.al.|[2501.04206](http://arxiv.org/abs/2501.04206)|null|
 |**2025-01-08**|**LipGen: Viseme-Guided Lip Video Generation for Enhancing Visual Speech Recognition**|Bowen Hao et.al.|[2501.04204](http://arxiv.org/abs/2501.04204)|null|
@@ -8658,6 +8687,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Prediction of Binding Affinity for ErbB Inhibitors Using Deep Neural Network Model with Morgan Fingerprints as Features**|La Ode Aman et.al.|[2501.05607](http://arxiv.org/abs/2501.05607)|null|
 |**2025-01-05**|**From thermodynamics to protein design: Diffusion models for biomolecule generation towards autonomous protein engineering**|Wen-ran Li et.al.|[2501.02680](http://arxiv.org/abs/2501.02680)|null|
 |**2025-01-03**|**QuantumBind-RBFE: Accurate Relative Binding Free Energy Calculations Using Neural Network Potentials**|Francesc Sabanés Zariquiey et.al.|[2501.01811](http://arxiv.org/abs/2501.01811)|**[link](https://github.com/acellera/quantumbind_rbfe)**|
 |**2024-12-30**|**AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies**|Yibo Wen et.al.|[2412.20984](http://arxiv.org/abs/2412.20984)|null|
@@ -8858,6 +8888,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning**|Jianchao Lu et.al.|[2501.05589](http://arxiv.org/abs/2501.05589)|null|
 |**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390](http://arxiv.org/abs/2412.17390)|null|
 |**2024-12-17**|**Image registration is a geometric deep learning task**|Vasiliki Sideri-Lampretsa et.al.|[2412.13294](http://arxiv.org/abs/2412.13294)|null|
 |**2024-12-12**|**Geometric Deep Learning for Realized Covariance Matrix Forecasting**|Andrea Bucci et.al.|[2412.09517](http://arxiv.org/abs/2412.09517)|null|
