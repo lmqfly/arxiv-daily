@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1230,28 +1230,28 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-09**|**Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures**|Md. Arafat Alam Khandaker et.al.|[2501.05449](http://arxiv.org/abs/2501.05449)|null|
 |**2025-01-09**|**From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI**|Md. Arafat Alam Khandaker et.al.|[2501.05426](http://arxiv.org/abs/2501.05426)|null|
-|**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|null|
+|**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|**[link](https://github.com/uncertaintyforknowledgetracing/ukt)**|
 |**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408](http://arxiv.org/abs/2501.05408)|null|
 |**2025-01-09**|**BRATI: Bidirectional Recurrent Attention for Time-Series Imputation**|Armando Collado-Villaverde et.al.|[2501.05401](http://arxiv.org/abs/2501.05401)|null|
-|**2025-01-09**|**Comparison Study: Glacier Calving Front Delineation in Synthetic Aperture Radar Images With Deep Learning**|Nora Gourmelon et.al.|[2501.05281](http://arxiv.org/abs/2501.05281)|null|
+|**2025-01-09**|**Comparison Study: Glacier Calving Front Delineation in Synthetic Aperture Radar Images With Deep Learning**|Nora Gourmelon et.al.|[2501.05281](http://arxiv.org/abs/2501.05281)|**[link](https://github.com/pcdurham/see_ice)**|
 |**2025-01-09**|**HipyrNet: Hypernet-Guided Feature Pyramid network for mixed-exposure correction**|Shaurya Singh Rathore et.al.|[2501.05195](http://arxiv.org/abs/2501.05195)|null|
 |**2025-01-09**|**RadioTransformer: Accurate Radio Map Construction and Coverage Prediction**|Yuxuan Li et.al.|[2501.05190](http://arxiv.org/abs/2501.05190)|null|
 |**2025-01-09**|**Deep Assessment of Code Review Generation Approaches: Beyond Lexical Similarity**|Yanjie Jiang et.al.|[2501.05176](http://arxiv.org/abs/2501.05176)|null|
 |**2025-01-09**|**A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision**|Ali Rohan et.al.|[2501.05147](http://arxiv.org/abs/2501.05147)|null|
 |**2025-01-09**|**EquiBoost: An Equivariant Boosting Approach to Molecular Conformation Generation**|Yixuan Yang et.al.|[2501.05109](http://arxiv.org/abs/2501.05109)|null|
-|**2025-01-09**|**Hierarchical Decomposed Dual-domain Deep Learning for Sparse-View CT Reconstruction**|Yoseob Han et.al.|[2501.05093](http://arxiv.org/abs/2501.05093)|null|
+|**2025-01-09**|**Hierarchical Decomposed Dual-domain Deep Learning for Sparse-View CT Reconstruction**|Yoseob Han et.al.|[2501.05093](http://arxiv.org/abs/2501.05093)|**[link](https://github.com/hanyoseob/hdd-dl-for-svct)**|
 |**2025-01-09**|**End-to-End Deep Learning for Interior Tomography with Low-Dose X-ray CT**|Yoseob Han et.al.|[2501.05085](http://arxiv.org/abs/2501.05085)|null|
 |**2025-01-09**|**TipSegNet: Fingertip Segmentation in Contactless Fingerprint Imaging**|Laurenz Ruzicka et.al.|[2501.05076](http://arxiv.org/abs/2501.05076)|null|
 |**2025-01-09**|**Deep Learning-based Code Completion: On the Impact on Performance of Contextual Information**|Matteo Ciniselli et.al.|[2501.05062](http://arxiv.org/abs/2501.05062)|null|
 |**2025-01-09**|**Simultaneous emulation and downscaling with physically-consistent deep learning-based regional ocean emulators**|Leonard Lupin-Jimenez et.al.|[2501.05058](http://arxiv.org/abs/2501.05058)|null|
 |**2025-01-09**|**Towards Fingerprint Mosaicking Artifact Detection: A Self-Supervised Deep Learning Approach**|Laurenz Ruzicka et.al.|[2501.05034](http://arxiv.org/abs/2501.05034)|null|
 |**2025-01-09**|**Finding Needles in Emb(a)dding Haystacks: Legal Document Retrieval via Bagging and SVR Ensembles**|Kevin Bönisch et.al.|[2501.05018](http://arxiv.org/abs/2501.05018)|**[link](https://github.com/TheItCrOw/LIRAI24)**|
-|**2025-01-09**|**Load Forecasting for Households and Energy Communities: Are Deep Learning Models Worth the Effort?**|Lukas Moosbrugger et.al.|[2501.05000](http://arxiv.org/abs/2501.05000)|null|
+|**2025-01-09**|**Load Forecasting for Households and Energy Communities: Are Deep Learning Models Worth the Effort?**|Lukas Moosbrugger et.al.|[2501.05000](http://arxiv.org/abs/2501.05000)|**[link](https://github.com/rce-fhv/loadforecasting)**|
 |**2025-01-09**|**A CT Image Classification Network Framework for Lung Tumors Based on Pre-trained MobileNetV2 Model and Transfer learning, And Its Application and Market Analysis in the Medical field**|Ziyang Gao et.al.|[2501.04996](http://arxiv.org/abs/2501.04996)|null|
-|**2025-01-09**|**Targeted Adversarial Denoising Autoencoders (TADA) for Neural Time Series Filtration**|Benjamin J. Choi et.al.|[2501.04967](http://arxiv.org/abs/2501.04967)|null|
-|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958](http://arxiv.org/abs/2501.04958)|null|
+|**2025-01-10**|**Targeted Adversarial Denoising Autoencoders (TADA) for Neural Time Series Filtration**|Benjamin J. Choi et.al.|[2501.04967](http://arxiv.org/abs/2501.04967)|null|
+|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958](http://arxiv.org/abs/2501.04958)|**[link](https://github.com/yinghemedical/imbalance-aware_domain_adaptation)**|
 |**2025-01-09**|**SpecTf: Transformers Enable Data-Driven Imaging Spectroscopy Cloud Detection**|Jake H. Lee et.al.|[2501.04916](http://arxiv.org/abs/2501.04916)|**[link](https://github.com/emit-sds/SpecTf)**|
-|**2025-01-09**|**From Mesh Completion to AI Designed Crown**|Golriz Hosseinimanesh et.al.|[2501.04914](http://arxiv.org/abs/2501.04914)|null|
+|**2025-01-09**|**From Mesh Completion to AI Designed Crown**|Golriz Hosseinimanesh et.al.|[2501.04914](http://arxiv.org/abs/2501.04914)|**[link](https://github.com/golriz-code/dmc)**|
 |**2025-01-08**|**LayerMix: Enhanced Data Augmentation through Fractal Integration for Robust Deep Learning**|Hafiz Mughees Ahmad et.al.|[2501.04861](http://arxiv.org/abs/2501.04861)|null|
 |**2025-01-08**|**Using Diffusion Models for Reducing Spatiotemporal Errors of Deep Learning Based Urban Microclimate Predictions at Post-Processing Stage**|Sepehrdad Tahmasebi et.al.|[2501.04847](http://arxiv.org/abs/2501.04847)|null|
 |**2025-01-08**|**A Deep Learning-Based Method for Power System Resilience Evaluation**|Xuesong Wang et.al.|[2501.04830](http://arxiv.org/abs/2501.04830)|null|
