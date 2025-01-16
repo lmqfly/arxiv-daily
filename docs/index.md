@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1234,6 +1234,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**AI Driven Water Segmentation with deep learning models for Enhanced Flood Monitoring**|Sanjida Afrin Mou et.al.|[2501.08266](http://arxiv.org/abs/2501.08266)|**[link](https://github.com/SanjidaAfrin25/flood-detection-using-deepLab-unet-resnet)**|
+|**2025-01-14**|**Continual Deep Active Learning for Medical Imaging: Replay-Base Architecture for Context Adaptation**|Rui Daniel et.al.|[2501.08245](http://arxiv.org/abs/2501.08245)|**[link](https://github.com/ruidaniel/rbaca)**|
+|**2025-01-14**|**A Feature-Level Ensemble Model for COVID-19 Identification in CXR Images using Choquet Integral and Differential Evolution Optimization**|Amir Reza Takhsha et.al.|[2501.08241](http://arxiv.org/abs/2501.08241)|null|
+|**2025-01-14**|**Efficient Deep Learning-based Forward Solvers for Brain Tumor Growth Models**|Zeineb Haouari et.al.|[2501.08226](http://arxiv.org/abs/2501.08226)|null|
+|**2025-01-14**|**Data-driven system identification using quadratic embeddings of nonlinear dynamics**|Stefan Klus et.al.|[2501.08202](http://arxiv.org/abs/2501.08202)|null|
+|**2025-01-14**|**EmoNeXt: an Adapted ConvNeXt for Facial Emotion Recognition**|Yassine El Boudouri et.al.|[2501.08199](http://arxiv.org/abs/2501.08199)|**[link](https://github.com/yelboudouri/EmoNeXt)**|
+|**2025-01-14**|**Revolutionizing Communication with Deep Learning and XAI for Enhanced Arabic Sign Language Recognition**|Mazen Balat et.al.|[2501.08169](http://arxiv.org/abs/2501.08169)|null|
+|**2025-01-14**|**Energy Backdoor Attack to Deep Neural Networks**|Hanene F. Z. Brachemi Meftah et.al.|[2501.08152](http://arxiv.org/abs/2501.08152)|**[link](https://github.com/hbrachemi/energy_backdoor)**|
+|**2025-01-14**|**EarthView: A Large Scale Remote Sensing Dataset for Self-Supervision**|Diego Velazquez et.al.|[2501.08111](http://arxiv.org/abs/2501.08111)|null|
+|**2025-01-14**|**Guiding the classification of hepatocellular carcinoma on 3D CT-scans using deep and handcrafted radiological features**|E. Sarfati et.al.|[2501.08097](http://arxiv.org/abs/2501.08097)|null|
+|**2025-01-14**|**Tutorial: VAE as an inference paradigm for neuroimaging**|C. Vázquez-García et.al.|[2501.08009](http://arxiv.org/abs/2501.08009)|null|
+|**2025-01-14**|**Synchronization of Kuramoto oscillators via HEOL, and a discussion on AI**|Emmanuel Delaleau et.al.|[2501.07948](http://arxiv.org/abs/2501.07948)|null|
+|**2025-01-14**|**Phase of Flight Classification in Aviation Safety using LSTM, GRU, and BiLSTM: A Case Study with ASN Dataset**|Aziida Nanyonga et.al.|[2501.07925](http://arxiv.org/abs/2501.07925)|null|
+|**2025-01-14**|**Aviation Safety Enhancement via NLP & Deep Learning: Classifying Flight Phases in ATSB Safety Reports**|Aziida Nanyonga et.al.|[2501.07923](http://arxiv.org/abs/2501.07923)|null|
+|**2025-01-14**|**Deep Learning and Natural Language Processing in the Field of Construction**|Rémy Kessler et.al.|[2501.07911](http://arxiv.org/abs/2501.07911)|null|
+|**2025-01-14**|**State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications**|Debasish Dutta et.al.|[2501.07855](http://arxiv.org/abs/2501.07855)|null|
+|**2025-01-14**|**An Intra- and Cross-frame Topological Consistency Scheme for Semi-supervised Atherosclerotic Coronary Plaque Segmentation**|Ziheng Zhang et.al.|[2501.07850](http://arxiv.org/abs/2501.07850)|null|
+|**2025-01-14**|**Advanced representation learning for flow field analysis and reconstruction**|Yikai Wang et.al.|[2501.07835](http://arxiv.org/abs/2501.07835)|null|
+|**2025-01-14**|**Deep Learning Waveform Modeling for Wideband Optical Fiber Channel Transmission: Challenges and Potential Solutions**|Minghui Shi et.al.|[2501.07830](http://arxiv.org/abs/2501.07830)|null|
+|**2025-01-14**|**A Low-cost and Ultra-lightweight Binary Neural Network for Traffic Signal Recognition**|Mingke Xiao et.al.|[2501.07808](http://arxiv.org/abs/2501.07808)|null|
+|**2025-01-14**|**Linearly Convergent Mixup Learning**|Gakuto Obi et.al.|[2501.07794](http://arxiv.org/abs/2501.07794)|null|
+|**2025-01-14**|**Transforming Indoor Localization: Advanced Transformer Architecture for NLOS Dominated Wireless Environments with Distributed Sensors**|Saad Masrur et.al.|[2501.07774](http://arxiv.org/abs/2501.07774)|null|
+|**2025-01-14**|**Large Language Models for Knowledge Graph Embedding Techniques, Methods, and Challenges: A Survey**|Bingchen Liu et.al.|[2501.07766](http://arxiv.org/abs/2501.07766)|null|
+|**2025-01-14**|**Deep Learning for Disease Outbreak Prediction: A Robust Early Warning Signal for Transcritical Bifurcations**|Reza Miry et.al.|[2501.07764](http://arxiv.org/abs/2501.07764)|null|
+|**2025-01-13**|**Boosting Sclera Segmentation through Semi-supervised Learning with Fewer Labels**|Guanjun Wang et.al.|[2501.07750](http://arxiv.org/abs/2501.07750)|null|
+|**2025-01-13**|**A Heterogeneous Multimodal Graph Learning Framework for Recognizing User Emotions in Social Networks**|Sree Bhattacharyya et.al.|[2501.07746](http://arxiv.org/abs/2501.07746)|null|
+|**2025-01-13**|**Testing Human-Hand Segmentation on In-Distribution and Out-of-Distribution Data in Human-Robot Interactions Using a Deep Ensemble Model**|Reza Jalayer et.al.|[2501.07713](http://arxiv.org/abs/2501.07713)|null|
+|**2025-01-13**|**Signal Processing Challenges in Automotive Radar**|Sandeep Rao et.al.|[2501.07649](http://arxiv.org/abs/2501.07649)|null|
+|**2025-01-10**|**Impact of Data Breadth and Depth on Performance of Siamese Neural Network Model: Experiments with Three Keystroke Dynamic Datasets**|Ahmed Anu Wahab et.al.|[2501.07600](http://arxiv.org/abs/2501.07600)|null|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**PROTECT: Protein circadian time prediction using unsupervised learning**|Aram Ansary Ogholbake et.al.|[2501.07405](http://arxiv.org/abs/2501.07405)|null|
@@ -1245,7 +1274,7 @@ layout: default
 |**2025-01-13**|**A4O: All Trigger for One sample**|Duc Anh Vu et.al.|[2501.07192](http://arxiv.org/abs/2501.07192)|null|
 |**2025-01-13**|**Pre-Trained Large Language Model Based Remaining Useful Life Transfer Prediction of Bearing**|Laifa Tao et.al.|[2501.07191](http://arxiv.org/abs/2501.07191)|null|
 |**2025-01-13**|**Uncertainty Guarantees on Automated Precision Weeding using Conformal Prediction**|Paul Melki et.al.|[2501.07185](http://arxiv.org/abs/2501.07185)|null|
-|**2025-01-13**|**Adaptive Noise-Tolerant Network for Image Segmentation**|Weizhi Li et.al.|[2501.07163](http://arxiv.org/abs/2501.07163)|null|
+|**2025-01-15**|**Adaptive Noise-Tolerant Network for Image Segmentation**|Weizhi Li et.al.|[2501.07163](http://arxiv.org/abs/2501.07163)|null|
 |**2025-01-13**|**A Federated Deep Learning Framework for Cell-Free RSMA Networks**|S. Ali Mousavi et.al.|[2501.07126](http://arxiv.org/abs/2501.07126)|null|
 |**2025-01-13**|**MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation**|Xiaoxian Yang et.al.|[2501.07120](http://arxiv.org/abs/2501.07120)|null|
 |**2025-01-13**|**The Quest for Visual Understanding: A Journey Through the Evolution of Visual Question Answering**|Anupam Pandey et.al.|[2501.07109](http://arxiv.org/abs/2501.07109)|null|
