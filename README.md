@@ -683,6 +683,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Butterfly Patterns for Stretched Inhomogeneous Gel Networks using Large-Scale Molecular Dynamics Simulations**|Katsumi Hagita et.al.|[2501.10086](http://arxiv.org/abs/2501.10086)|null|
+|**2025-01-17**|**Two-dimensional ferroelectric crystal with temperature-invariant ultralow thermal conductivity**|Wenjie Zhou et.al.|[2501.09990](http://arxiv.org/abs/2501.09990)|null|
+|**2025-01-16**|**Automatically Detecting Heterogeneous Bugs in High-Performance Computing Scientific Software**|Matthew Davis et.al.|[2501.09872](http://arxiv.org/abs/2501.09872)|null|
 |**2025-01-16**|**Very soft microgels at the interface behave and flow as Hertzian-like spheres**|José Ruiz-Franco et.al.|[2501.09472](http://arxiv.org/abs/2501.09472)|null|
 |**2025-01-16**|**Edge-Dependent Step-Flow Growth Mechanism in $β$-Ga$_{2}$O$_{3}$ (100) Facet at the Atomic Level**|Qi Li et.al.|[2501.09427](http://arxiv.org/abs/2501.09427)|null|
 |**2025-01-15**|**Selective Excitation of IR-Inactive Vibrations via Vibrational Polaritons: Insights from Atomistic Simulations**|Xinwei Ji et.al.|[2501.09094](http://arxiv.org/abs/2501.09094)|null|
@@ -1264,11 +1267,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Hybrid Deep Learning Model for epileptic seizure classification by using 1D-CNN with multi-head attention mechanism**|Mohammed Guhdar et.al.|[2501.10342](http://arxiv.org/abs/2501.10342)|null|
+|**2025-01-17**|**Uncertainty-Aware Digital Twins: Robust Model Predictive Control using Time-Series Deep Quantile Learning**|Yi-Ping Chen et.al.|[2501.10337](http://arxiv.org/abs/2501.10337)|null|
+|**2025-01-17**|**Disharmony: Forensics using Reverse Lighting Harmonization**|Philip Wootaek Shin et.al.|[2501.10212](http://arxiv.org/abs/2501.10212)|null|
+|**2025-01-17**|**FECT: Classification of Breast Cancer Pathological Images Based on Fusion Features**|Jiacheng Hao et.al.|[2501.10128](http://arxiv.org/abs/2501.10128)|null|
+|**2025-01-17**|**Classifier Ensemble for Efficient Uncertainty Calibration of Deep Neural Networks for Image Classification**|Michael Schulze et.al.|[2501.10089](http://arxiv.org/abs/2501.10089)|null|
+|**2025-01-17**|**A recursive Bayesian neural network for constitutive modeling of sands under monotonic loading**|Toiba Noor et.al.|[2501.10088](http://arxiv.org/abs/2501.10088)|null|
+|**2025-01-17**|**Author-Specific Linguistic Patterns Unveiled: A Deep Learning Study on Word Class Distributions**|Patrick Krauss et.al.|[2501.10072](http://arxiv.org/abs/2501.10072)|null|
+|**2025-01-17**|**Nuclear equation of state at finite $μ_B$ using deep learning assisted quasi-parton model**|Fu-Peng Li et.al.|[2501.10012](http://arxiv.org/abs/2501.10012)|null|
+|**2025-01-17**|**Deep Learning for Early Alzheimer Disease Detection with MRI Scans**|Mohammad Rafsan et.al.|[2501.09999](http://arxiv.org/abs/2501.09999)|**[link](https://github.com/rafusan/dl-alzheimer)**|
+|**2025-01-17**|**ComptoNet: An End-to-End Deep Learning Framework for Scatter Estimation in Multi-Source Stationary CT**|Yingxian Xia et.al.|[2501.09986](http://arxiv.org/abs/2501.09986)|null|
+|**2025-01-17**|**Dendritic Localized Learning: Toward Biologically Plausible Algorithm**|Changze Lv et.al.|[2501.09976](http://arxiv.org/abs/2501.09976)|null|
+|**2025-01-17**|**A Multi-Scale Feature Extraction and Fusion Deep Learning Method for Classification of Wheat Diseases**|Sajjad Saleem et.al.|[2501.09938](http://arxiv.org/abs/2501.09938)|null|
+|**2025-01-17**|**Sparse Binary Representation Learning for Knowledge Tracing**|Yahya Badran et.al.|[2501.09893](http://arxiv.org/abs/2501.09893)|null|
+|**2025-01-16**|**Semi-Supervised Image-Based Narrative Extraction: A Case Study with Historical Photographic Records**|Fausto German et.al.|[2501.09884](http://arxiv.org/abs/2501.09884)|**[link](https://github.com/faustogerman/roger-concept-narratives)**|
+|**2025-01-16**|**Identification of 4876 Bent-Tail Radio Galaxies in the FIRST Survey Using Deep Learning Combined with Visual Inspection**|Baoqiang Lao et.al.|[2501.09883](http://arxiv.org/abs/2501.09883)|null|
+|**2025-01-16**|**Coded Deep Learning: Framework and Algorithm**|En-hui Yang et.al.|[2501.09849](http://arxiv.org/abs/2501.09849)|null|
+|**2025-01-16**|**MuFF: Stable and Sensitive Post-training MutationTesting for Deep Learning**|Jinhan Kim et.al.|[2501.09846](http://arxiv.org/abs/2501.09846)|null|
 |**2025-01-16**|**Convergence of a Deep BSDE solver with jumps**|Alessandro Gnoatto et.al.|[2501.09727](http://arxiv.org/abs/2501.09727)|null|
 |**2025-01-16**|**Attention based Bidirectional GRU hybrid model for inappropriate content detection in Urdu language**|Ezzah Shoukat et.al.|[2501.09722](http://arxiv.org/abs/2501.09722)|null|
-|**2025-01-16**|**FLOL: Fast Baselines for Real-World Low-Light Enhancement**|Juan C. Benito et.al.|[2501.09718](http://arxiv.org/abs/2501.09718)|null|
+|**2025-01-16**|**FLOL: Fast Baselines for Real-World Low-Light Enhancement**|Juan C. Benito et.al.|[2501.09718](http://arxiv.org/abs/2501.09718)|**[link](https://github.com/cidautai/flol)**|
 |**2025-01-16**|**Cueless EEG imagined speech for subject identification: dataset and benchmarks**|Ali Derakhshesh et.al.|[2501.09700](http://arxiv.org/abs/2501.09700)|**[link](https://github.com/alidr79/cueless_eeg_subject_identification)**|
-|**2025-01-16**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636](http://arxiv.org/abs/2501.09636)|null|
+|**2025-01-17**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636](http://arxiv.org/abs/2501.09636)|null|
 |**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628](http://arxiv.org/abs/2501.09628)|null|
 |**2025-01-16**|**Multi-task deep-learning for sleep event detection and stage classification**|Adriana Anido-Alonso et.al.|[2501.09519](http://arxiv.org/abs/2501.09519)|**[link](https://github.com/adrania/sleep-events-detection)**|
 |**2025-01-16**|**Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection**|Md Shofiqul Islama et.al.|[2501.09506](http://arxiv.org/abs/2501.09506)|**[link](https://github.com/shafiq-islam-cse/multimodal-marvels-of-deep-learning-using-image-speech-and-text-review-of-covid-19-detection)**|
