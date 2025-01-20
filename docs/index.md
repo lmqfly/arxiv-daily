@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.19
+## Updated on 2025.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1256,7 +1256,7 @@ layout: default
 |**2025-01-16**|**On the Relation between Optical Aperture and Automotive Object Detection**|Ofer Bar-Shalom et.al.|[2501.09456](http://arxiv.org/abs/2501.09456)|null|
 |**2025-01-16**|**Joint Transmission and Deblurring: A Semantic Communication Approach Using Events**|Pujing Yang et.al.|[2501.09396](http://arxiv.org/abs/2501.09396)|null|
 |**2025-01-16**|**Identification of Traditional Medicinal Plant Leaves Using an effective Deep Learning model and Self-Curated Dataset**|Deepjyoti Chetia et.al.|[2501.09363](http://arxiv.org/abs/2501.09363)|null|
-|**2025-01-16**|**Neural Honeytrace: A Robust Plug-and-Play Watermarking Framework against Model Extraction Attacks**|Yixiao Xu et.al.|[2501.09328](http://arxiv.org/abs/2501.09328)|**[link](https://github.com/neurht/neurht)**|
+|**2025-01-17**|**Neural Honeytrace: A Robust Plug-and-Play Watermarking Framework against Model Extraction Attacks**|Yixiao Xu et.al.|[2501.09328](http://arxiv.org/abs/2501.09328)|**[link](https://github.com/neurht/neurht)**|
 |**2025-01-16**|**Physics-informed deep learning for infectious disease forecasting**|Ying Qian et.al.|[2501.09298](http://arxiv.org/abs/2501.09298)|null|
 |**2025-01-16**|**Acc-SpMM: Accelerating General-purpose Sparse Matrix-Matrix Multiplication with GPU Tensor Cores**|Haisha Zhao et.al.|[2501.09251](http://arxiv.org/abs/2501.09251)|null|
 |**2025-01-16**|**Tessellated Linear Model for Age Prediction from Voice**|Dareen Alharthi et.al.|[2501.09229](http://arxiv.org/abs/2501.09229)|null|
