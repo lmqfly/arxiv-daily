@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -670,9 +670,9 @@ layout: default
 |**2025-01-16**|**Automatically Detecting Heterogeneous Bugs in High-Performance Computing Scientific Software**|Matthew Davis et.al.|[2501.09872](http://arxiv.org/abs/2501.09872)|null|
 |**2025-01-16**|**Very soft microgels at the interface behave and flow as Hertzian-like spheres**|José Ruiz-Franco et.al.|[2501.09472](http://arxiv.org/abs/2501.09472)|null|
 |**2025-01-16**|**Edge-Dependent Step-Flow Growth Mechanism in $β$-Ga$_{2}$O$_{3}$ (100) Facet at the Atomic Level**|Qi Li et.al.|[2501.09427](http://arxiv.org/abs/2501.09427)|null|
-|**2025-01-15**|**Selective Excitation of IR-Inactive Vibrations via Vibrational Polaritons: Insights from Atomistic Simulations**|Xinwei Ji et.al.|[2501.09094](http://arxiv.org/abs/2501.09094)|null|
+|**2025-01-15**|**Selective Excitation of IR-Inactive Vibrations via Vibrational Polaritons: Insights from Atomistic Simulations**|Xinwei Ji et.al.|[2501.09094](http://arxiv.org/abs/2501.09094)|**[link](https://github.com/TaoELi/cavity-md-ipi)**|
 |**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
-|**2025-01-15**|**WeTICA: A directed search weighted ensemble based enhanced sampling method to estimate rare event kinetics in a reduced dimensional space**|Sudipta Mitra et.al.|[2501.08926](http://arxiv.org/abs/2501.08926)|null|
+|**2025-01-15**|**WeTICA: A directed search weighted ensemble based enhanced sampling method to estimate rare event kinetics in a reduced dimensional space**|Sudipta Mitra et.al.|[2501.08926](http://arxiv.org/abs/2501.08926)|**[link](https://github.com/teamsuman/wetica)**|
 |**2025-01-15**|**Simulating inverse patchy colloid models**|Daniele Notarmuzi et.al.|[2501.08920](http://arxiv.org/abs/2501.08920)|null|
 |**2025-01-15**|**Investigation on non-ergodicity of protein dynamics**|Luca Maggi et.al.|[2501.08754](http://arxiv.org/abs/2501.08754)|null|
 |**2025-01-15**|**ABACUS: An Electronic Structure Analysis Package for the AI Era**|Weiqing Zhou et.al.|[2501.08697](http://arxiv.org/abs/2501.08697)|null|
@@ -1266,7 +1266,7 @@ layout: default
 |**2025-01-16**|**MuFF: Stable and Sensitive Post-training MutationTesting for Deep Learning**|Jinhan Kim et.al.|[2501.09846](http://arxiv.org/abs/2501.09846)|null|
 |**2025-01-16**|**Convergence of a Deep BSDE solver with jumps**|Alessandro Gnoatto et.al.|[2501.09727](http://arxiv.org/abs/2501.09727)|null|
 |**2025-01-16**|**Attention based Bidirectional GRU hybrid model for inappropriate content detection in Urdu language**|Ezzah Shoukat et.al.|[2501.09722](http://arxiv.org/abs/2501.09722)|null|
-|**2025-01-16**|**FLOL: Fast Baselines for Real-World Low-Light Enhancement**|Juan C. Benito et.al.|[2501.09718](http://arxiv.org/abs/2501.09718)|**[link](https://github.com/cidautai/flol)**|
+|**2025-01-16**|**FLOL: Fast Baselines for Real-World Low-Light Enhancement**|Juan C. Benito et.al.|[2501.09718](http://arxiv.org/abs/2501.09718)|null|
 |**2025-01-16**|**Cueless EEG imagined speech for subject identification: dataset and benchmarks**|Ali Derakhshesh et.al.|[2501.09700](http://arxiv.org/abs/2501.09700)|**[link](https://github.com/alidr79/cueless_eeg_subject_identification)**|
 |**2025-01-17**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636](http://arxiv.org/abs/2501.09636)|null|
 |**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628](http://arxiv.org/abs/2501.09628)|null|
@@ -1282,7 +1282,7 @@ layout: default
 |**2025-01-16**|**Tessellated Linear Model for Age Prediction from Voice**|Dareen Alharthi et.al.|[2501.09229](http://arxiv.org/abs/2501.09229)|null|
 |**2025-01-16**|**Estimating Task-based Performance Bounds for Accelerated MRI Image Reconstruction Methods by Use of Learned-Ideal Observers**|Kaiyan Li et.al.|[2501.09224](http://arxiv.org/abs/2501.09224)|null|
 |**2025-01-15**|**Cancer-Net PCa-Seg: Benchmarking Deep Learning Models for Prostate Cancer Segmentation Using Synthetic Correlated Diffusion Imaging**|Jarett Dewbury et.al.|[2501.09185](http://arxiv.org/abs/2501.09185)|null|
-|**2025-01-15**|**JERALD: high-fidelity dark matter, stellar mass and neutral hydrogen maps from fast N-body simulations**|Mauro Rigo et.al.|[2501.09168](http://arxiv.org/abs/2501.09168)|null|
+|**2025-01-15**|**JERALD: high-fidelity dark matter, stellar mass and neutral hydrogen maps from fast N-body simulations**|Mauro Rigo et.al.|[2501.09168](http://arxiv.org/abs/2501.09168)|**[link](https://github.com/maurorigo/jerald)**|
 |**2025-01-15**|**A Vessel Bifurcation Landmark Pair Dataset for Abdominal CT Deformable Image Registration (DIR) Validation**|Edward R Criscuolo et.al.|[2501.09162](http://arxiv.org/abs/2501.09162)|**[link](https://github.com/deshanyang/abdominal-dir-qa)**|
 |**2025-01-15**|**Towards detecting the pathological subharmonic voicing with fully convolutional neural networks**|Takeshi Ikuma et.al.|[2501.09159](http://arxiv.org/abs/2501.09159)|null|
 |**2025-01-15**|**Deep Distance Map Regression Network with Shape-aware Loss for Imbalanced Medical Image Segmentation**|Huiyu Li et.al.|[2501.09116](http://arxiv.org/abs/2501.09116)|null|
@@ -1298,7 +1298,7 @@ layout: default
 |**2025-01-15**|**Joint Detection and Decoding: A Graph Neural Network Approach**|Jannis Clausius et.al.|[2501.08871](http://arxiv.org/abs/2501.08871)|null|
 |**2025-01-15**|**Graph Counterfactual Explainable AI via Latent Space Traversal**|Andreas Abildtrup Hansen et.al.|[2501.08850](http://arxiv.org/abs/2501.08850)|null|
 |**2025-01-15**|**Deep Learning Meets Queue-Reactive: A Framework for Realistic Limit Order Book Simulation**|Hamza Bodor et.al.|[2501.08822](http://arxiv.org/abs/2501.08822)|null|
-|**2025-01-15**|**Deep learning for temporal super-resolution 4D Flow MRI**|Pia Callmer et.al.|[2501.08780](http://arxiv.org/abs/2501.08780)|null|
+|**2025-01-15**|**Deep learning for temporal super-resolution 4D Flow MRI**|Pia Callmer et.al.|[2501.08780](http://arxiv.org/abs/2501.08780)|**[link](https://github.com/piaacaa/temporal4dflownet)**|
 |**2025-01-15**|**Admitting Ignorance Helps the Video Question Answering Models to Answer**|Haopeng Li et.al.|[2501.08771](http://arxiv.org/abs/2501.08771)|null|
 |**2025-01-15**|**Deep Learning-Based Feature Fusion for Emotion Analysis and Suicide Risk Differentiation in Chinese Psychological Support Hotlines**|Han Wang et.al.|[2501.08696](http://arxiv.org/abs/2501.08696)|**[link](https://github.com/sco-field/speechemotionrecognition)**|
 |**2025-01-15**|**Bayesian Multifractal Image Segmentation**|Kareth M. León-López et.al.|[2501.08694](http://arxiv.org/abs/2501.08694)|null|
