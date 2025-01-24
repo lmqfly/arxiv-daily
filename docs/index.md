@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.23
+## Updated on 2025.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -679,7 +679,7 @@ layout: default
 |**2025-01-18**|**Nanoscale defects and heterogeneous cavitation in water**|Marin Šako et.al.|[2501.10776](http://arxiv.org/abs/2501.10776)|null|
 |**2025-01-17**|**Accurate and thermodynamically consistent hydrogen equation of state for planetary modeling with flow matching**|Hao Xie et.al.|[2501.10594](http://arxiv.org/abs/2501.10594)|null|
 |**2025-01-17**|**Butterfly Patterns for Stretched Inhomogeneous Gel Networks using Large-Scale Molecular Dynamics Simulations**|Katsumi Hagita et.al.|[2501.10086](http://arxiv.org/abs/2501.10086)|null|
-|**2025-01-17**|**Two-dimensional ferroelectric crystal with temperature-invariant ultralow thermal conductivity**|Wenjie Zhou et.al.|[2501.09990](http://arxiv.org/abs/2501.09990)|null|
+|**2025-01-23**|**Two-dimensional ferroelectric crystal with temperature-invariant ultralow thermal conductivity**|Wenjie Zhou et.al.|[2501.09990](http://arxiv.org/abs/2501.09990)|null|
 |**2025-01-16**|**Automatically Detecting Heterogeneous Bugs in High-Performance Computing Scientific Software**|Matthew Davis et.al.|[2501.09872](http://arxiv.org/abs/2501.09872)|null|
 |**2025-01-16**|**Very soft microgels at the interface behave and flow as Hertzian-like spheres**|José Ruiz-Franco et.al.|[2501.09472](http://arxiv.org/abs/2501.09472)|null|
 |**2025-01-16**|**Edge-Dependent Step-Flow Growth Mechanism in $β$-Ga$_{2}$O$_{3}$ (100) Facet at the Atomic Level**|Qi Li et.al.|[2501.09427](http://arxiv.org/abs/2501.09427)|null|
@@ -1296,7 +1296,7 @@ layout: default
 |**2025-01-21**|**Early Detection and Classification of Breast Cancer Using Deep Learning Techniques**|Mst. Mumtahina Labonno et.al.|[2501.12217](http://arxiv.org/abs/2501.12217)|null|
 |**2025-01-21**|**Fast-RF-Shimming: Accelerate RF Shimming in 7T MRI using Deep Learning**|Zhengyi Lu et.al.|[2501.12157](http://arxiv.org/abs/2501.12157)|null|
 |**2025-01-21**|**Dissecting the NVIDIA Hopper Architecture through Microbenchmarking and Multiple Level Analysis**|Weile Luo et.al.|[2501.12084](http://arxiv.org/abs/2501.12084)|null|
-|**2025-01-21**|**Unified 3D MRI Representations via Sequence-Invariant Contrastive Learning**|Liam Chalcroft et.al.|[2501.12057](http://arxiv.org/abs/2501.12057)|null|
+|**2025-01-22**|**Unified 3D MRI Representations via Sequence-Invariant Contrastive Learning**|Liam Chalcroft et.al.|[2501.12057](http://arxiv.org/abs/2501.12057)|null|
 |**2025-01-21**|**PINNsAgent: Automated PDE Surrogation with Large Language Models**|Qingpo Wuwu et.al.|[2501.12053](http://arxiv.org/abs/2501.12053)|null|
 |**2025-01-21**|**Aggrotech: Leveraging Deep Learning for Sustainable Tomato Disease Management**|MD Mehraz Hosen et.al.|[2501.12052](http://arxiv.org/abs/2501.12052)|null|
 |**2025-01-21**|**Parameterised Quantum Circuits for Novel Representation Learning in Speech Emotion Recognition**|Thejan Rajapakshe et.al.|[2501.12050](http://arxiv.org/abs/2501.12050)|null|
