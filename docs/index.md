@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Reaction kinetics of membrane receptors: a spatial modeling approach**|Anil Cengiz et.al.|[2501.13837](http://arxiv.org/abs/2501.13837)|null|
 |**2025-01-22**|**Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications**|Yuxing Lu et.al.|[2501.11632](http://arxiv.org/abs/2501.11632)|null|
 |**2025-01-10**|**Magnetism based on nitrate-nitrate interactions: The cases of LiNO $_3$, K$_{0.5}$Rb$_{0.5}$NO$_3$, Ca(NO$_3$)$_2$ and C(NH$_2$)$_3$NO$_3$**|Na Du et.al.|[2501.05754](http://arxiv.org/abs/2501.05754)|null|
 |**2025-01-06**|**Proteomic Learning of Gamma-Aminobutyric Acid (GABA) Receptor-Mediated Anesthesia**|Jian Jiang et.al.|[2501.02824](http://arxiv.org/abs/2501.02824)|**[link](https://github.com/longchen0/gaba-ppi)**|
@@ -668,6 +669,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Impact of the RNA Binding Domain Localization of the Protein Shell on Virus Particle Stability**|Mohammadamin Safdari et.al.|[2501.13891](http://arxiv.org/abs/2501.13891)|null|
 |**2025-01-22**|**Heat Transport Hysteresis Generated through Frequency Switching of a Time-Dependent Temperature Gradient**|Renai Chen et.al.|[2501.12649](http://arxiv.org/abs/2501.12649)|null|
 |**2025-01-21**|**Unveiling the thermal transport mechanism in compressed plastic crystals assisted by deep potential**|Yangjun Qin et.al.|[2501.12078](http://arxiv.org/abs/2501.12078)|null|
 |**2025-01-21**|**Freezing in flat monolayers of soft spherocylinders**|Jaydeep Mandal et.al.|[2501.11952](http://arxiv.org/abs/2501.11952)|null|
@@ -1260,7 +1262,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-22**|**CHaRNet: Conditioned Heatmap Regression for Robust Dental Landmark Localization**|José Rodríguez-Ortega et.al.|[2501.13073](http://arxiv.org/abs/2501.13073)|null|
+|**2025-01-23**|**Multimodal Sensor Dataset for Monitoring Older Adults Post Lower-Limb Fractures in Community Settings**|Ali Abedi et.al.|[2501.13888](http://arxiv.org/abs/2501.13888)|null|
+|**2025-01-23**|**Identifying and Mitigating Machine Learning Biases for the Gravitational-wave Detection Problem**|Narenraju Nagarajan et.al.|[2501.13846](http://arxiv.org/abs/2501.13846)|null|
+|**2025-01-23**|**A space-decoupling framework for optimization on bounded-rank matrices with orthogonally invariant constraints**|Yan Yang et.al.|[2501.13830](http://arxiv.org/abs/2501.13830)|null|
+|**2025-01-23**|**Integrating Causality with Neurochaos Learning: Proposed Approach and Research Agenda**|Nanjangud C. Narendra et.al.|[2501.13763](http://arxiv.org/abs/2501.13763)|null|
+|**2025-01-23**|**An Empirical Study of Retrieval-Augmented Code Generation: Challenges and Opportunities**|Zezhou Yang et.al.|[2501.13742](http://arxiv.org/abs/2501.13742)|null|
+|**2025-01-23**|**Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function**|Maria-Florina Balcan et.al.|[2501.13734](http://arxiv.org/abs/2501.13734)|null|
+|**2025-01-23**|**Skin Disease Detection and Classification of Actinic Keratosis and Psoriasis Utilizing Deep Transfer Learning**|Fahud Ahmmed et.al.|[2501.13713](http://arxiv.org/abs/2501.13713)|null|
+|**2025-01-23**|**Regularizing cross entropy loss via minimum entropy and K-L divergence**|Abdulrahman Oladipupo Ibraheem et.al.|[2501.13709](http://arxiv.org/abs/2501.13709)|null|
+|**2025-01-23**|**The First Indoor Pathloss Radio Map Prediction Challenge**|Stefanos Bakirtzis et.al.|[2501.13698](http://arxiv.org/abs/2501.13698)|null|
+|**2025-01-23**|**Learning-based A Posteriori Speech Presence Probability Estimation and Applications**|Shuai Tao et.al.|[2501.13642](http://arxiv.org/abs/2501.13642)|null|
+|**2025-01-23**|**Quantification via Gaussian Latent Space Representations**|Olaya Pérez-Mon et.al.|[2501.13638](http://arxiv.org/abs/2501.13638)|**[link](https://github.com/aicgijon/gmnet)**|
+|**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552](http://arxiv.org/abs/2501.13552)|null|
+|**2025-01-23**|**Propensity-driven Uncertainty Learning for Sample Exploration in Source-Free Active Domain Adaptation**|Zicheng Pan et.al.|[2501.13517](http://arxiv.org/abs/2501.13517)|null|
+|**2025-01-23**|**Solving continuum and rarefied flows using differentiable programming**|Tianbai Xiao et.al.|[2501.13478](http://arxiv.org/abs/2501.13478)|null|
+|**2025-01-23**|**Deep Multi-modal Neural Receiver for 6G Vehicular Communication**|Osama Saleem et.al.|[2501.13464](http://arxiv.org/abs/2501.13464)|null|
+|**2025-01-23**|**Atmospheric Noise-Resilient Image Classification in a Real-World Scenario: Using Hybrid CNN and Pin-GTSVM**|Shlok Mehendale et.al.|[2501.13422](http://arxiv.org/abs/2501.13422)|null|
+|**2025-01-23**|**Predicting Turbulence Structure In Street-Canyon Flows using Deep Generative Modeling**|Tomek Jaroslawski et.al.|[2501.13415](http://arxiv.org/abs/2501.13415)|null|
+|**2025-01-23**|**Load and Renewable Energy Forecasting Using Deep Learning for Grid Stability**|Kamal Sarkar et.al.|[2501.13412](http://arxiv.org/abs/2501.13412)|null|
+|**2025-01-23**|**YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review**|Priyanto Hidayatullah et.al.|[2501.13400](http://arxiv.org/abs/2501.13400)|null|
+|**2025-01-23**|**Time Series Embedding Methods for Classification Tasks: A Review**|Yasamin Ghahremani et.al.|[2501.13392](http://arxiv.org/abs/2501.13392)|null|
+|**2025-01-23**|**A light-weight model to generate NDWI from Sentinel-1**|Saleh Sakib Ahmed et.al.|[2501.13357](http://arxiv.org/abs/2501.13357)|null|
+|**2025-01-23**|**Polyhedra Encoding Transformers: Enhancing Diffusion MRI Analysis Beyond Voxel and Volumetric Embedding**|Tianyuan Yao et.al.|[2501.13352](http://arxiv.org/abs/2501.13352)|null|
+|**2025-01-23**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341](http://arxiv.org/abs/2501.13341)|null|
+|**2025-01-23**|**Tensor-Var: Variational Data Assimilation in Tensor Product Feature Space**|Yiming Yang et.al.|[2501.13312](http://arxiv.org/abs/2501.13312)|null|
+|**2025-01-23**|**STM Image Analysis using Autoencoders**|Peter Binev et.al.|[2501.13283](http://arxiv.org/abs/2501.13283)|null|
+|**2025-01-22**|**Hybrid Two-Stage Reconstruction of Multiscale Subsurface Flow with Physics-informed Residual Connected Neural Operator**|Peiqi Li et.al.|[2501.13271](http://arxiv.org/abs/2501.13271)|null|
+|**2025-01-22**|**Stochastic Deep Learning Surrogate Models for Uncertainty Propagation in Microstructure-Properties of Ceramic Aerogels**|Md Azharul Islama et.al.|[2501.13255](http://arxiv.org/abs/2501.13255)|null|
+|**2025-01-22**|**Forecasting of Bitcoin Prices Using Hashrate Features: Wavelet and Deep Stacking Approach**|Ramin Mousa et.al.|[2501.13136](http://arxiv.org/abs/2501.13136)|null|
+|**2025-01-21**|**A Learnt Half-Quadratic Splitting-Based Algorithm for Fast and High-Quality Industrial Cone-beam CT Reconstruction**|Aniket Pramanik et.al.|[2501.13128](http://arxiv.org/abs/2501.13128)|null|
+|**2025-01-23**|**CHaRNet: Conditioned Heatmap Regression for Robust Dental Landmark Localization**|José Rodríguez-Ortega et.al.|[2501.13073](http://arxiv.org/abs/2501.13073)|null|
 |**2025-01-22**|**SMART-Vision: Survey of Modern Action Recognition Techniques in Vision**|Ali K. AlShami et.al.|[2501.13066](http://arxiv.org/abs/2501.13066)|null|
 |**2025-01-22**|**STMDNet: A Lightweight Directional Framework for Motion Pattern Recognition of Tiny Targets**|Mingshuo Xu et.al.|[2501.13054](http://arxiv.org/abs/2501.13054)|**[link](https://github.com/mingshuoxu/stmdnet)**|
 |**2025-01-22**|**Learning accurate rigid registration for longitudinal brain MRI from synthetic data**|Jingru Fu et.al.|[2501.13010](http://arxiv.org/abs/2501.13010)|null|
@@ -9144,7 +9175,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-15**|**Learning Hemodynamic Scalar Fields on Coronary Artery Meshes: A Benchmark of Geometric Deep Learning Models**|Guido Nannini et.al.|[2501.09046](http://arxiv.org/abs/2501.09046)|null|
+|**2025-01-23**|**Learning Hemodynamic Scalar Fields on Coronary Artery Meshes: A Benchmark of Geometric Deep Learning Models**|Guido Nannini et.al.|[2501.09046](http://arxiv.org/abs/2501.09046)|null|
 |**2025-01-09**|**LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning**|Jianchao Lu et.al.|[2501.05589](http://arxiv.org/abs/2501.05589)|null|
 |**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390](http://arxiv.org/abs/2412.17390)|null|
 |**2024-12-17**|**Image registration is a geometric deep learning task**|Vasiliki Sideri-Lampretsa et.al.|[2412.13294](http://arxiv.org/abs/2412.13294)|null|
