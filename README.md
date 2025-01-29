@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Bridging spatial and temporal scales of developmental gene regulation**|Andrés H. Cardona et.al.|[2501.16799](http://arxiv.org/abs/2501.16799)|null|
+|**2025-01-26**|**Leveraging Induced Transferable Binding Principles for Associative Prediction of Novel Drug-Target Interactions**|Xiaoqing Lian et.al.|[2501.16391](http://arxiv.org/abs/2501.16391)|null|
 |**2025-01-23**|**Reaction kinetics of membrane receptors: a spatial modeling approach**|Anil Cengiz et.al.|[2501.13837](http://arxiv.org/abs/2501.13837)|null|
 |**2025-01-22**|**Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications**|Yuxing Lu et.al.|[2501.11632](http://arxiv.org/abs/2501.11632)|null|
 |**2025-01-10**|**Magnetism based on nitrate-nitrate interactions: The cases of LiNO $_3$, K$_{0.5}$Rb$_{0.5}$NO$_3$, Ca(NO$_3$)$_2$ and C(NH$_2$)$_3$NO$_3$**|Na Du et.al.|[2501.05754](http://arxiv.org/abs/2501.05754)|null|
@@ -688,6 +690,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Inhomogeneous Electric Fields for Precise Control and Displacement of Polar Textures**|Fernando Gómez-Ortiz et.al.|[2501.17057](http://arxiv.org/abs/2501.17057)|null|
+|**2025-01-28**|**Numerical insights on the volume phase transition of thermoresponsive hollow microgels**|Leah Rank et.al.|[2501.17020](http://arxiv.org/abs/2501.17020)|null|
+|**2025-01-28**|**Small hole polarons in yellow phase $δ$-CsPbI$_3$**|Yun Liu et.al.|[2501.16695](http://arxiv.org/abs/2501.16695)|null|
 |**2025-01-26**|**Mixing and Ergodicity in Systems with Long-Range Interactions**|Tarcísio Nunes Teles et.al.|[2501.15593](http://arxiv.org/abs/2501.15593)|null|
 |**2025-01-26**|**Pressure induced Structure Change and Anomalies in Thermodynamic Quantities and Transport Properties in Liquid Lithium Hydride**|X. Z. Yan et.al.|[2501.15532](http://arxiv.org/abs/2501.15532)|null|
 |**2025-01-25**|**Unravelling The potential of Hybrid Borocarbonitride Biphenylene 2D Network for Thermoelectric Applications: A First Principles Study**|Ajay Kumar Parbati Senapati et.al.|[2501.15158](http://arxiv.org/abs/2501.15158)|null|
@@ -756,7 +761,7 @@
 |**2024-12-11**|**Machine-Learning-Accelerated Surface Exploration of Reconstructed BiVO $_{4}$ (010) and Characterization of Their Aqueous Interfaces**|Yonghyuk Lee et.al.|[2412.08126](http://arxiv.org/abs/2412.08126)|null|
 |**2024-12-10**|**Threading in star catenanes: The role of ring rigidity, topology and environmental crowding**|Zahra Ahmadian Dehaghani et.al.|[2412.07860](http://arxiv.org/abs/2412.07860)|null|
 |**2024-12-10**|**Structural, Electronic, and Li-ion Adsorption Properties of PolyPyGY Explored by First-Principles and Machine Learning Simulations: A New Multi-Ringed 2D Carbon Allotrope**|K. A. L. Lima et.al.|[2412.07753](http://arxiv.org/abs/2412.07753)|null|
-|**2024-12-10**|**Diffusion behavior of Li ions in crystalline and amorphous Li-Zr-O and Li-Nb-O phases**|Daniel Mutter et.al.|[2412.07296](http://arxiv.org/abs/2412.07296)|null|
+|**2025-01-28**|**Diffusion behavior of Li ions in crystalline and amorphous Li-Zr-O and Li-Nb-O phases**|Daniel Mutter et.al.|[2412.07296](http://arxiv.org/abs/2412.07296)|null|
 |**2024-12-06**|**Thermal Slip Length at a Liquid/Solid Interface: Power Law Relations From Spatial and Frequency Attributes of the Contact Layer**|Hiroki Kaifu et.al.|[2412.05443](http://arxiv.org/abs/2412.05443)|null|
 |**2024-12-06**|**Thermal Stability and Topological Charge Fragmentation in Antiskyrmions of Rhombohedral Barium Titanate**|Florian Mayer et.al.|[2412.04869](http://arxiv.org/abs/2412.04869)|null|
 |**2024-12-06**|**Femtosecond two-pulse laser approach for spall failure in thin foils**|Mewael Isiet et.al.|[2412.04762](http://arxiv.org/abs/2412.04762)|null|
@@ -764,7 +769,7 @@
 |**2024-12-04**|**Impact of local structure on melt dynamics in Cu-Ti alloys: Insights from ab-initio molecular dynamics simulations**|Lucas P. Kreuzer et.al.|[2412.03741](http://arxiv.org/abs/2412.03741)|null|
 |**2024-12-04**|**Water under hydrophobic confinement: entropy and diffusion**|Lorenzo Agosta et.al.|[2412.03726](http://arxiv.org/abs/2412.03726)|null|
 |**2024-12-04**|**Dielectric tensor of perovskite oxides at finite temperature using equivariant graph neural network potentials**|Alex Kutana et.al.|[2412.03541](http://arxiv.org/abs/2412.03541)|null|
-|**2024-12-04**|**Consequences of the failure of equipartition for the p-V behavior of liquid water and the hydration free energy components of a small protein**|Dilipkumar N. Asthagiri et.al.|[2412.03448](http://arxiv.org/abs/2412.03448)|null|
+|**2025-01-28**|**Consequences of the failure of equipartition for the p-V behavior of liquid water and the hydration free energy components of a small protein**|Dilipkumar N. Asthagiri et.al.|[2412.03448](http://arxiv.org/abs/2412.03448)|null|
 |**2024-12-04**|**Fast and flexible range-separated models for atomistic machine learning**|Philip Loche et.al.|[2412.03281](http://arxiv.org/abs/2412.03281)|**[link](https://github.com/lab-cosmo/torch-pme)**|
 |**2024-12-03**|**Phase separation and rheology of segregating binary fluid under shear**|Daniya Davis et.al.|[2412.02774](http://arxiv.org/abs/2412.02774)|null|
 |**2024-12-02**|**Iterative variational learning of committor-consistent transition pathways using artificial neural networks**|Alberto Megías et.al.|[2412.01947](http://arxiv.org/abs/2412.01947)|null|
@@ -1287,6 +1292,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**A Hybrid Deep Learning CNN Model for Enhanced COVID-19 Detection from Computed Tomography (CT) Scan Images**|Suresh Babu Nettur et.al.|[2501.17160](http://arxiv.org/abs/2501.17160)|null|
+|**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
+|**2025-01-28**|**Hybrid Deep Learning Model for Multiple Cache Side Channel Attacks Detection: A Comparative Analysis**|Tejal Joshi et.al.|[2501.17123](http://arxiv.org/abs/2501.17123)|null|
+|**2025-01-28**|**Accelerated Training through Iterative Gradient Propagation Along the Residual Path**|Erwan Fagnou et.al.|[2501.17086](http://arxiv.org/abs/2501.17086)|null|
+|**2025-01-28**|**Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils**|Gregory Duthé et.al.|[2501.17081](http://arxiv.org/abs/2501.17081)|null|
+|**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
+|**2025-01-28**|**A systematic search for tectonic tremor and low-frequency earthquakes in the Atacama segment of the Chilean subduction zone (24 $^\circ$S-31$^\circ$ S) turns up empty**|Jannes Münchmeyer et.al.|[2501.16934](http://arxiv.org/abs/2501.16934)|null|
+|**2025-01-28**|**Frequency Matters: Explaining Biases of Face Recognition in the Frequency Domain**|Marco Huber et.al.|[2501.16896](http://arxiv.org/abs/2501.16896)|null|
+|**2025-01-28**|**Can Transformers Learn Full Bayesian Inference in Context?**|Arik Reuter et.al.|[2501.16825](http://arxiv.org/abs/2501.16825)|null|
+|**2025-01-28**|**Dynamic Hypergraph Representation for Bone Metastasis Cancer Analysis**|Yuxuan Chen et.al.|[2501.16787](http://arxiv.org/abs/2501.16787)|null|
+|**2025-01-28**|**AdaSemSeg: An Adaptive Few-shot Semantic Segmentation of Seismic Facies**|Surojit Saha et.al.|[2501.16760](http://arxiv.org/abs/2501.16760)|null|
+|**2025-01-28**|**DebugAgent: Efficient and Interpretable Error Slice Discovery for Comprehensive Model Debugging**|Muxi Chen et.al.|[2501.16751](http://arxiv.org/abs/2501.16751)|null|
+|**2025-01-28**|**Distilling Large Language Models for Network Active Queue Management**|Deol Satish et.al.|[2501.16734](http://arxiv.org/abs/2501.16734)|null|
+|**2025-01-28**|**Determining Mosaic Resilience in Sugarcane Plants using Hyperspectral Images**|Ali Zia et.al.|[2501.16700](http://arxiv.org/abs/2501.16700)|null|
+|**2025-01-28**|**Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI**|Dayong Ye et.al.|[2501.16671](http://arxiv.org/abs/2501.16671)|null|
+|**2025-01-28**|**Vision-based autonomous structural damage detection using data-driven methods**|Seyyed Taghi Ataei et.al.|[2501.16662](http://arxiv.org/abs/2501.16662)|null|
+|**2025-01-28**|**Vehicle occupancy estimation in Automated Guideway Transit via deep learning with Wi-Fi probe requests**|Ziyue Li et.al.|[2501.16644](http://arxiv.org/abs/2501.16644)|null|
+|**2025-01-28**|**Analysis of Zero Day Attack Detection Using MLP and XAI**|Ashim Dahal et.al.|[2501.16638](http://arxiv.org/abs/2501.16638)|null|
+|**2025-01-28**|**Ultrafast neuromorphic computing with nanophotonic optical parametric oscillators**|Midya Parto et.al.|[2501.16604](http://arxiv.org/abs/2501.16604)|null|
+|**2025-01-27**|**HopCast: Calibration of Autoregressive Dynamics Models**|Muhammad Bilal Shahid et.al.|[2501.16587](http://arxiv.org/abs/2501.16587)|null|
+|**2025-01-27**|**C-HDNet: A Fast Hyperdimensional Computing Based Method for Causal Effect Estimation from Networked Observational Data**|Abhishek Dalvi et.al.|[2501.16562](http://arxiv.org/abs/2501.16562)|null|
+|**2025-01-27**|**Multi-Objective Deep-Learning-based Biomechanical Deformable Image Registration with MOREA**|Georgios Andreadis et.al.|[2501.16525](http://arxiv.org/abs/2501.16525)|null|
+|**2025-01-27**|**Generating customized prompts for Zero-Shot Rare Event Medical Image Classification using LLM**|Payal Kamboj et.al.|[2501.16481](http://arxiv.org/abs/2501.16481)|null|
+|**2025-01-27**|**Object Detection for Medical Image Analysis: Insights from the RT-DETR Model**|Weijie He et.al.|[2501.16469](http://arxiv.org/abs/2501.16469)|null|
+|**2025-01-27**|**MoEVD: Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)**|Xu Yang et.al.|[2501.16454](http://arxiv.org/abs/2501.16454)|null|
+|**2025-01-26**|**Transformer^-1: Input-Adaptive Computation for Resource-Constrained Deployment**|Lumen AI et.al.|[2501.16394](http://arxiv.org/abs/2501.16394)|null|
+|**2025-01-25**|**Development and Validation of a Dynamic Kidney Failure Prediction Model based on Deep Learning: A Real-World Study with External Validation**|Jingying Ma et.al.|[2501.16388](http://arxiv.org/abs/2501.16388)|null|
 |**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
 |**2025-01-27**|**Multi-view Structural Convolution Network for Domain-Invariant Point Cloud Recognition of Autonomous Vehicles**|Younggun Kim et.al.|[2501.16289](http://arxiv.org/abs/2501.16289)|**[link](https://github.com/mlmlab/mscn)**|
 |**2025-01-27**|**From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases**|Gary Tom et.al.|[2501.16271](http://arxiv.org/abs/2501.16271)|null|
@@ -1329,7 +1361,7 @@
 |**2025-01-26**|**DDUNet: Dual Dynamic U-Net for Highly-Efficient Cloud Segmentation**|Yijie Li et.al.|[2501.15385](http://arxiv.org/abs/2501.15385)|**[link](https://github.com/Att100/DDUNet)**|
 |**2025-01-26**|**Fine Tuning without Catastrophic Forgetting via Selective Low Rank Adaptation**|Reza Akbarian Bafghi et.al.|[2501.15377](http://arxiv.org/abs/2501.15377)|null|
 |**2025-01-26**|**A Transfer Learning Framework for Anomaly Detection in Multivariate IoT Traffic Data**|Mahshid Rezakhani et.al.|[2501.15365](http://arxiv.org/abs/2501.15365)|null|
-|**2025-01-25**|**Scaling laws for decoding images from brain activity**|Hubert Banville et.al.|[2501.15322](http://arxiv.org/abs/2501.15322)|null|
+|**2025-01-28**|**Scaling laws for decoding images from brain activity**|Hubert Banville et.al.|[2501.15322](http://arxiv.org/abs/2501.15322)|null|
 |**2025-01-25**|**Kalman filter/deep-learning hybrid automatic boundary tracking of optical coherence tomography data for deep anterior lamellar keratoplasty (DALK)**|Hongrui Yi et.al.|[2501.15311](http://arxiv.org/abs/2501.15311)|null|
 |**2025-01-25**|**Deep Learning in Early Alzheimers diseases Detection: A Comprehensive Survey of Classification, Segmentation, and Feature Extraction Methods**|Rubab Hafeez et.al.|[2501.15293](http://arxiv.org/abs/2501.15293)|null|
 |**2025-01-25**|**End-to-end localized deep learning for Cryo-ET**|Vinith Kishore et.al.|[2501.15246](http://arxiv.org/abs/2501.15246)|null|
@@ -9120,7 +9152,7 @@
 |**2025-01-01**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
 |**2024-12-18**|**Fool's gold: ligand-receptor interactions and the origins of life**|Betony Adams et.al.|[2412.13836](http://arxiv.org/abs/2412.13836)|null|
 |**2024-12-18**|**Data-driven Discovery of Biophysical T Cell Receptor Co-specificity Rules**|Andrew G. T. Pyo et.al.|[2412.13722](http://arxiv.org/abs/2412.13722)|null|
-|**2024-12-17**|**Guiding Generative Protein Language Models with Reinforcement Learning**|Filippo Stocco et.al.|[2412.12979](http://arxiv.org/abs/2412.12979)|**[link](https://github.com/ai4pdlab/dpo_plm)**|
+|**2025-01-28**|**Guiding Generative Protein Language Models with Reinforcement Learning**|Filippo Stocco et.al.|[2412.12979](http://arxiv.org/abs/2412.12979)|**[link](https://github.com/ai4pdlab/dpo_plm)**|
 |**2025-01-15**|**FlowDock: Geometric Flow Matching for Generative Protein-Ligand Docking and Affinity Prediction**|Alex Morehead et.al.|[2412.10966](http://arxiv.org/abs/2412.10966)|**[link](https://github.com/bioinfomachinelearning/flowdock)**|
 |**2024-12-09**|**Generative Humanization for Therapeutic Antibodies**|Cade Gordon et.al.|[2412.04737](http://arxiv.org/abs/2412.04737)|null|
 |**2024-11-26**|**DapPep: Domain Adaptive Peptide-agnostic Learning for Universal T-cell Receptor-antigen Binding Affinity Prediction**|Jiangbin Zheng et.al.|[2411.17798](http://arxiv.org/abs/2411.17798)|null|
