@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1272,7 +1272,7 @@ layout: default
 |**2025-01-27**|**From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases**|Gary Tom et.al.|[2501.16271](http://arxiv.org/abs/2501.16271)|null|
 |**2025-01-27**|**CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation**|Xiaochuan Ma et.al.|[2501.16246](http://arxiv.org/abs/2501.16246)|null|
 |**2025-01-27**|**Optimizer-Dependent Generalization Bound for Quantum Neural Networks**|Chenghong Zhu et.al.|[2501.16228](http://arxiv.org/abs/2501.16228)|null|
-|**2025-01-27**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222](http://arxiv.org/abs/2501.16222)|**[link](https://github.com/lipang/special)**|
+|**2025-01-28**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222](http://arxiv.org/abs/2501.16222)|**[link](https://github.com/lipang/special)**|
 |**2025-01-27**|**MILP initialization for solving parabolic PDEs with PINNs**|Sirui Li et.al.|[2501.16153](http://arxiv.org/abs/2501.16153)|null|
 |**2025-01-27**|**Toward Efficient Generalization in 3D Human Pose Estimation via a Canonical Domain Approach**|Hoosang Lee et.al.|[2501.16146](http://arxiv.org/abs/2501.16146)|null|
 |**2025-01-27**|**SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**|Jingtong Gao et.al.|[2501.16125](http://arxiv.org/abs/2501.16125)|null|
@@ -1297,7 +1297,7 @@ layout: default
 |**2025-01-26**|**Mathematical analysis of the gradients in deep learning**|Steffen Dereich et.al.|[2501.15646](http://arxiv.org/abs/2501.15646)|null|
 |**2025-01-26**|**BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation**|Ali Khodabandeh Yalabadi et.al.|[2501.15631](http://arxiv.org/abs/2501.15631)|**[link](https://github.com/khodabandeh-ali/bokdiff)**|
 |**2025-01-26**|**Stepback: Enhanced Disentanglement for Voice Conversion via Multi-Task Learning**|Qian Yang et.al.|[2501.15613](http://arxiv.org/abs/2501.15613)|null|
-|**2025-01-26**|**PCAP-Backdoor: Backdoor Poisoning Generator for Network Traffic in CPS/IoT Environments**|Ajesh Koyatan Chathoth et.al.|[2501.15563](http://arxiv.org/abs/2501.15563)|null|
+|**2025-01-28**|**PCAP-Backdoor: Backdoor Poisoning Generator for Network Traffic in CPS/IoT Environments**|Ajesh Koyatan Chathoth et.al.|[2501.15563](http://arxiv.org/abs/2501.15563)|null|
 |**2025-01-26**|**Efficient Self-Supervised Grading of Prostate Cancer Pathology**|Riddhasree Bhattacharyya et.al.|[2501.15520](http://arxiv.org/abs/2501.15520)|null|
 |**2025-01-26**|**Expert-Free Online Transfer Learning in Multi-Agent Reinforcement Learning**|Alberto Castagna et.al.|[2501.15495](http://arxiv.org/abs/2501.15495)|null|
 |**2025-01-26**|**Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals**|Michaela Cohrs et.al.|[2501.15492](http://arxiv.org/abs/2501.15492)|null|
@@ -1306,7 +1306,7 @@ layout: default
 |**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440](http://arxiv.org/abs/2501.15440)|null|
 |**2025-01-26**|**Foundations of a Knee Joint Digital Twin from qMRI Biomarkers for Osteoarthritis and Knee Replacement**|Gabrielle Hoyer et.al.|[2501.15396](http://arxiv.org/abs/2501.15396)|null|
 |**2025-01-26**|**CP2M: Clustered-Patch-Mixed Mosaic Augmentation for Aerial Image Segmentation**|Yijie Li et.al.|[2501.15389](http://arxiv.org/abs/2501.15389)|null|
-|**2025-01-26**|**DDUNet: Dual Dynamic U-Net for Highly-Efficient Cloud Segmentation**|Yijie Li et.al.|[2501.15385](http://arxiv.org/abs/2501.15385)|null|
+|**2025-01-26**|**DDUNet: Dual Dynamic U-Net for Highly-Efficient Cloud Segmentation**|Yijie Li et.al.|[2501.15385](http://arxiv.org/abs/2501.15385)|**[link](https://github.com/Att100/DDUNet)**|
 |**2025-01-26**|**Fine Tuning without Catastrophic Forgetting via Selective Low Rank Adaptation**|Reza Akbarian Bafghi et.al.|[2501.15377](http://arxiv.org/abs/2501.15377)|null|
 |**2025-01-26**|**A Transfer Learning Framework for Anomaly Detection in Multivariate IoT Traffic Data**|Mahshid Rezakhani et.al.|[2501.15365](http://arxiv.org/abs/2501.15365)|null|
 |**2025-01-25**|**Scaling laws for decoding images from brain activity**|Hubert Banville et.al.|[2501.15322](http://arxiv.org/abs/2501.15322)|null|
@@ -9294,7 +9294,7 @@ layout: default
 |**2025-01-09**|**LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning**|Jianchao Lu et.al.|[2501.05589](http://arxiv.org/abs/2501.05589)|null|
 |**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390](http://arxiv.org/abs/2412.17390)|null|
 |**2024-12-17**|**Image registration is a geometric deep learning task**|Vasiliki Sideri-Lampretsa et.al.|[2412.13294](http://arxiv.org/abs/2412.13294)|null|
-|**2024-12-12**|**Geometric Deep Learning for Realized Covariance Matrix Forecasting**|Andrea Bucci et.al.|[2412.09517](http://arxiv.org/abs/2412.09517)|null|
+|**2024-12-12**|**Geometric Deep Learning for Realized Covariance Matrix Forecasting**|Andrea Bucci et.al.|[2412.09517](http://arxiv.org/abs/2412.09517)|**[link](https://github.com/C4ntor/GeoHAR-SPDNet)**|
 |**2024-12-10**|**Non-Progressive Influence Maximization in Dynamic Social Networks**|Yunming Hui et.al.|[2412.07402](http://arxiv.org/abs/2412.07402)|null|
 |**2024-12-06**|**Rethink Deep Learning with Invariance in Data Representation**|Shuren Qi et.al.|[2412.04858](http://arxiv.org/abs/2412.04858)|null|
 |**2024-11-19**|**E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting**|Madhurima Panja et.al.|[2411.12258](http://arxiv.org/abs/2411.12258)|null|
