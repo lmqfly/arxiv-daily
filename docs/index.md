@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.01
+## Updated on 2025.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -561,7 +561,7 @@ layout: default
 |**2024-05-04**|**Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction**|Zexing Zhao et.al.|[2405.02628](http://arxiv.org/abs/2405.02628)|**[link](https://github.com/ZeXingZ/DIG-Mol)**|
 |**2024-05-02**|**CACTUS: Chemistry Agent Connecting Tool-Usage to Science**|Andrew D. McNaughton et.al.|[2405.00972](http://arxiv.org/abs/2405.00972)|**[link](https://github.com/pnnl/cactus)**|
 |**2024-05-02**|**The Role of Model Architecture and Scale in Predicting Molecular Properties: Insights from Fine-Tuning RoBERTa, BART, and LLaMA**|Lee Youngmin et.al.|[2405.00949](http://arxiv.org/abs/2405.00949)|**[link](https://github.com/BrightBlueCheese/transformers_and_chemistry)**|
-|**2024-11-29**|**ApisTox: a new benchmark dataset for the classification of small molecules toxicity on honey bees**|Jakub Adamczyk et.al.|[2404.16196](http://arxiv.org/abs/2404.16196)|**[link](https://github.com/j-adamczyk/apistox_dataset)**|
+|**2024-11-29**|**ApisTox: a new benchmark dataset for the classification of small molecules toxicity on honey bees**|Jakub Adamczyk et.al.|[2404.16196](http://arxiv.org/abs/2404.16196)|**[link](https://github.com/j-adamczyk/apis_tox_dataset)**|
 |**2024-10-12**|**Transfer Learning for Molecular Property Predictions from Small Data Sets**|Thorren Kirschbaum et.al.|[2404.13393](http://arxiv.org/abs/2404.13393)|**[link](https://github.com/thorrenkirschbaum/transferlearningpainn)**|
 |**2024-04-05**|**Transformers for molecular property prediction: Lessons learned from the past five years**|Afnan Sultan et.al.|[2404.03969](http://arxiv.org/abs/2404.03969)|**[link](https://github.com/volkamerlab/transformers4mpp_review)**|
 |**2025-01-29**|**Generalizable, Fast, and Accurate DeepQSPR with fastprop**|Jackson Burns et.al.|[2404.02058](http://arxiv.org/abs/2404.02058)|**[link](https://github.com/jacksonburns/fastprop)**|
