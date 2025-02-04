@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.03
+## Updated on 2025.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1338,7 +1338,7 @@ layout: default
 |**2025-01-30**|**ISAM-MTL: Cross-subject multi-task learning model with identifiable spikes and associative memory networks**|Junyan Li et.al.|[2501.18089](http://arxiv.org/abs/2501.18089)|null|
 |**2025-01-30**|**Input layer regularization and automated regularization hyperparameter tuning for myelin water estimation using deep learning**|Mirage Modi et.al.|[2501.18074](http://arxiv.org/abs/2501.18074)|**[link](https://github.com/ShashankSule/ILR-for-MWF)**|
 |**2025-01-29**|**Reinforcement-Learning Portfolio Allocation with Dynamic Embedding of Market Information**|Jinghai He et.al.|[2501.17992](http://arxiv.org/abs/2501.17992)|null|
-|**2025-01-29**|**KoopAGRU: A Koopman-based Anomaly Detection in Time-Series using Gated Recurrent Units**|Issam Ait Yahia et.al.|[2501.17976](http://arxiv.org/abs/2501.17976)|null|
+|**2025-01-31**|**KoopAGRU: A Koopman-based Anomaly Detection in Time-Series using Gated Recurrent Units**|Issam Ait Yahia et.al.|[2501.17976](http://arxiv.org/abs/2501.17976)|null|
 |**2025-01-29**|**Molecular Fingerprints Are Strong Models for Peptide Function Prediction**|Jakub Adamczyk et.al.|[2501.17901](http://arxiv.org/abs/2501.17901)|**[link](https://github.com/AGH-ML-and-Chemoinformatics-Group/peptides_molecular_fingerprints_classification)**|
 |**2025-01-28**|**Object Detection with Deep Learning for Rare Event Search in the GADGET II TPC**|Tyler Wheeler et.al.|[2501.17892](http://arxiv.org/abs/2501.17892)|null|
 |**2025-01-28**|**VidSole: A Multimodal Dataset for Joint Kinetics Quantification and Disease Detection with Deep Learning**|Archit Kambhamettu et.al.|[2501.17890](http://arxiv.org/abs/2501.17890)|null|
