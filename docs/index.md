@@ -513,7 +513,7 @@ layout: default
 |**2024-11-01**|**MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction**|Carl Edwards et.al.|[2411.00737](http://arxiv.org/abs/2411.00737)|**[link](https://github.com/genentech/molcap-arena)**|
 |**2024-10-29**|**Subgraph Aggregation for Out-of-Distribution Generalization on Graphs**|Bowen Liu et.al.|[2410.22228](http://arxiv.org/abs/2410.22228)|null|
 |**2024-10-29**|**Contextual Representation Anchor Network to Alleviate Selection Bias in Few-Shot Drug Discovery**|Ruifeng Li et.al.|[2410.20711](http://arxiv.org/abs/2410.20711)|null|
-|**2024-10-24**|**Homomorphism Counts as Structural Encodings for Graph Learning**|Linus Bao et.al.|[2410.18676](http://arxiv.org/abs/2410.18676)|**[link](https://github.com/linusbao/MoSE)**|
+|**2025-02-02**|**Homomorphism Counts as Structural Encodings for Graph Learning**|Linus Bao et.al.|[2410.18676](http://arxiv.org/abs/2410.18676)|**[link](https://github.com/linusbao/MoSE)**|
 |**2024-10-22**|**Publishing Neural Networks in Drug Discovery Might Compromise Training Data Privacy**|Fabian P. Krüger et.al.|[2410.16975](http://arxiv.org/abs/2410.16975)|null|
 |**2024-10-19**|**Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**|Yinhan He et.al.|[2410.15165](http://arxiv.org/abs/2410.15165)|null|
 |**2024-10-16**|**FragNet: A Graph Neural Network for Molecular Property Prediction with Four Layers of Interpretability**|Gihan Panapitiya et.al.|[2410.12156](http://arxiv.org/abs/2410.12156)|**[link](https://github.com/pnnl/FragNet)**|
@@ -1309,7 +1309,7 @@ layout: default
 |**2025-01-31**|**CAAT-EHR: Cross-Attentional Autoregressive Transformer for Multimodal Electronic Health Record Embeddings**|Mohammad Al Olaimat et.al.|[2501.18891](http://arxiv.org/abs/2501.18891)|**[link](https://github.com/bozdaglab/caat-ehr)**|
 |**2025-01-31**|**FlexiCrackNet: A Flexible Pipeline for Enhanced Crack Segmentation with General Features Transfered from SAM**|Xinlong Wan et.al.|[2501.18855](http://arxiv.org/abs/2501.18855)|null|
 |**2025-01-31**|**Early Diagnosis and Severity Assessment of Weligama Coconut Leaf Wilt Disease and Coconut Caterpillar Infestation using Deep Learning-based Image Processing Techniques**|Samitha Vidhanaarachchi et.al.|[2501.18835](http://arxiv.org/abs/2501.18835)|null|
-|**2025-01-31**|**An Adversarial Approach to Register Extreme Resolution Tissue Cleared 3D Brain Images**|Abdullah Naziba et.al.|[2501.18815](http://arxiv.org/abs/2501.18815)|null|
+|**2025-01-31**|**An Adversarial Approach to Register Extreme Resolution Tissue Cleared 3D Brain Images**|Abdullah Naziba et.al.|[2501.18815](http://arxiv.org/abs/2501.18815)|**[link](https://github.com/BioMedIA/IRTK)**|
 |**2025-01-30**|**Compositional Generalization Requires More Than Disentangled Representations**|Qiyao Liang et.al.|[2501.18797](http://arxiv.org/abs/2501.18797)|null|
 |**2025-01-30**|**PSO-Net: Development of an automated psoriasis assessment system using attention-based interpretable deep neural networks**|Sharif A. Kamran et.al.|[2501.18782](http://arxiv.org/abs/2501.18782)|null|
 |**2025-01-30**|**Breaking the Fake News Barrier: Deep Learning Approaches in Bangla Language**|Pronoy Kumar Mondal et.al.|[2501.18766](http://arxiv.org/abs/2501.18766)|null|
@@ -1317,7 +1317,7 @@ layout: default
 |**2025-01-30**|**Machine Learning Strategies for Parkinson Tremor Classification Using Wearable Sensor Data**|Jesus Paucar-Escalante et.al.|[2501.18671](http://arxiv.org/abs/2501.18671)|null|
 |**2025-01-30**|**Rethinking the Upsampling Layer in Hyperspectral Image Super Resolution**|Haohan Shi et.al.|[2501.18664](http://arxiv.org/abs/2501.18664)|null|
 |**2025-01-29**|**Image, Text, and Speech Data Augmentation using Multimodal LLMs for Deep Learning: A Survey**|Ranjan Sapkota et.al.|[2501.18648](http://arxiv.org/abs/2501.18648)|null|
-|**2025-01-28**|**Machine learning of microstructure--property relationships in materials with robust features from foundational vision transformers**|Sheila E. Whitman et.al.|[2501.18637](http://arxiv.org/abs/2501.18637)|null|
+|**2025-01-28**|**Machine learning of microstructure--property relationships in materials with robust features from foundational vision transformers**|Sheila E. Whitman et.al.|[2501.18637](http://arxiv.org/abs/2501.18637)|**[link](https://github.com/materials-informatics-az/micropropvit)**|
 |**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/udc-sit)**|
 |**2025-01-30**|**Deep learning with reflection high-energy electron diffraction images to predict cation ratio in Sr $_x$Ti$_{1-x}$ O3 thin films**|Sumner B. Harris et.al.|[2501.18523](http://arxiv.org/abs/2501.18523)|null|
 |**2025-01-30**|**Comprehensive Enumeration of Three-Dimensional Photonic Crystals Enabled through Deep Learning Assisted Fourier Synthesis**|Congcong Cui et.al.|[2501.18495](http://arxiv.org/abs/2501.18495)|null|
@@ -1334,7 +1334,7 @@ layout: default
 |**2025-01-30**|**VQLTI: Long-Term Tropical Cyclone Intensity Forecasting with Physical Constraints**|Xinyu Wang et.al.|[2501.18122](http://arxiv.org/abs/2501.18122)|**[link](https://github.com/1457756434/VQLTI)**|
 |**2025-01-30**|**DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification**|Siyuan Jiang et.al.|[2501.18116](http://arxiv.org/abs/2501.18116)|**[link](https://github.com/drivergo-93589/deepfrc)**|
 |**2025-01-30**|**Influence of High-Performance Image-to-Image Translation Networks on Clinical Visual Assessment and Outcome Prediction: Utilizing Ultrasound to MRI Translation in Prostate Cancer**|Mohammad R. Salmanpour et.al.|[2501.18109](http://arxiv.org/abs/2501.18109)|null|
-|**2025-01-30**|**Learning Provablely Improves the Convergence of Gradient Descent**|Qingyu Song et.al.|[2501.18092](http://arxiv.org/abs/2501.18092)|null|
+|**2025-02-01**|**Learning Provably Improves the Convergence of Gradient Descent**|Qingyu Song et.al.|[2501.18092](http://arxiv.org/abs/2501.18092)|null|
 |**2025-01-30**|**ISAM-MTL: Cross-subject multi-task learning model with identifiable spikes and associative memory networks**|Junyan Li et.al.|[2501.18089](http://arxiv.org/abs/2501.18089)|null|
 |**2025-01-30**|**Input layer regularization and automated regularization hyperparameter tuning for myelin water estimation using deep learning**|Mirage Modi et.al.|[2501.18074](http://arxiv.org/abs/2501.18074)|**[link](https://github.com/ShashankSule/ILR-for-MWF)**|
 |**2025-01-29**|**Reinforcement-Learning Portfolio Allocation with Dynamic Embedding of Market Information**|Jinghai He et.al.|[2501.17992](http://arxiv.org/abs/2501.17992)|null|
