@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.06
+## Updated on 2025.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -321,7 +321,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-05**|**Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation**|Kim Yong Tan et.al.|[2502.01692](http://arxiv.org/abs/2502.01692)|**[link](https://github.com/kimyong95/guide-stable-diffusion)**|
+|**2025-02-06**|**Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation**|Kim Yong Tan et.al.|[2502.01692](http://arxiv.org/abs/2502.01692)|**[link](https://github.com/kimyong95/guide-stable-diffusion)**|
 |**2025-01-30**|**BARNN: A Bayesian Autoregressive and Recurrent Neural Network**|Dario Coscia et.al.|[2501.18665](http://arxiv.org/abs/2501.18665)|null|
 |**2025-01-21**|**Federated Discrete Denoising Diffusion Model for Molecular Generation with OpenFL**|Kevin Ta et.al.|[2501.12523](http://arxiv.org/abs/2501.12523)|**[link](https://github.com/securefederatedai/openfl)**|
 |**2025-01-10**|**GenMol: A Drug Discovery Generalist with Discrete Diffusion**|Seul Lee et.al.|[2501.06158](http://arxiv.org/abs/2501.06158)|null|
@@ -506,7 +506,7 @@ layout: default
 |**2025-01-01**|**Active and transfer learning with partially Bayesian neural networks for materials and chemicals**|Sarah I. Allec et.al.|[2501.00952](http://arxiv.org/abs/2501.00952)|**[link](https://github.com/ziatdinovmax/neurobayes)**|
 |**2025-01-01**|**Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments, Analysis, and Improvements**|Haoyang Li et.al.|[2501.00773](http://arxiv.org/abs/2501.00773)|null|
 |**2024-12-24**|**Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models**|Xuan Lin et.al.|[2412.18084](http://arxiv.org/abs/2412.18084)|**[link](https://github.com/chenlong164/peit)**|
-|**2024-12-21**|**MOL-Mamba: Enhancing Molecular Representation with Structural & Electronic Insights**|Jingjing Hu et.al.|[2412.16483](http://arxiv.org/abs/2412.16483)|**[link](https://github.com/xian-sh/mol-mamba)**|
+|**2025-02-06**|**MOL-Mamba: Enhancing Molecular Representation with Structural & Electronic Insights**|Jingjing Hu et.al.|[2412.16483](http://arxiv.org/abs/2412.16483)|**[link](https://github.com/xian-sh/mol-mamba)**|
 |**2024-12-12**|**RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction**|Zhihao Ding et.al.|[2412.09030](http://arxiv.org/abs/2412.09030)|**[link](https://github.com/TommyDzh/RingFormer)**|
 |**2024-12-08**|**M $^{3}$ -20M: A Large-Scale Multi-Modal Molecule Dataset for AI-driven Drug Design and Discovery**|Siyuan Guo et.al.|[2412.06847](http://arxiv.org/abs/2412.06847)|**[link](https://github.com/bz99bz/m-3)**|
 |**2024-12-09**|**Robust Quantum Reservoir Computing for Molecular Property Prediction**|Daniel Beaulieu et.al.|[2412.06758](http://arxiv.org/abs/2412.06758)|null|
@@ -1311,11 +1311,11 @@ layout: default
 |**2025-02-05**|**High-frequency near-eye ground truth for event-based eye tracking**|Andrea Simpsi et.al.|[2502.03057](http://arxiv.org/abs/2502.03057)|null|
 |**2025-02-05**|**xai_evals : A Framework for Evaluating Post-Hoc Local Explanation Methods**|Pratinav Seth et.al.|[2502.03014](http://arxiv.org/abs/2502.03014)|null|
 |**2025-02-05**|**Improving the Direct Determination of $|V_{ts}|$ using Deep Learning**|Jeewon Heo et.al.|[2502.02918](http://arxiv.org/abs/2502.02918)|null|
-|**2025-02-05**|**Privacy Token: Surprised to Find Out What You Accidentally Revealed**|Jiayang Meng et.al.|[2502.02913](http://arxiv.org/abs/2502.02913)|null|
+|**2025-02-06**|**Privacy Token: Surprised to Find Out What You Accidentally Revealed**|Jiayang Meng et.al.|[2502.02913](http://arxiv.org/abs/2502.02913)|null|
 |**2025-02-05**|**Expertized Caption Auto-Enhancement for Video-Text Retrieval**|Junxiang Chen et.al.|[2502.02885](http://arxiv.org/abs/2502.02885)|null|
 |**2025-02-05**|**Learning Generalizable Features for Tibial Plateau Fracture Segmentation Using Masked Autoencoder and Limited Annotations**|Peiyan Yue et.al.|[2502.02862](http://arxiv.org/abs/2502.02862)|null|
 |**2025-02-05**|**A Survey of Sample-Efficient Deep Learning for Change Detection in Remote Sensing: Tasks, Strategies, and Challenges**|Lei Ding et.al.|[2502.02835](http://arxiv.org/abs/2502.02835)|null|
-|**2025-02-05**|**OpenSTARLab: Open Approach for Spatio-Temporal Agent Data Analysis in Soccer**|Calvin Yeung et.al.|[2502.02785](http://arxiv.org/abs/2502.02785)|null|
+|**2025-02-06**|**OpenSTARLab: Open Approach for Spatio-Temporal Agent Data Analysis in Soccer**|Calvin Yeung et.al.|[2502.02785](http://arxiv.org/abs/2502.02785)|null|
 |**2025-02-04**|**A Comprehensive Survey on Feature Extraction Techniques Using I/Q Imbalance in RFFI**|Muhammad Aqib Khan et.al.|[2502.02782](http://arxiv.org/abs/2502.02782)|null|
 |**2025-02-04**|**Classroom Simulacra: Building Contextual Student Generative Agents in Online Education for Learning Behavioral Simulation**|Songlin Xu et.al.|[2502.02780](http://arxiv.org/abs/2502.02780)|null|
 |**2025-02-04**|**3D Foundation AI Model for Generalizable Disease Detection in Head Computed Tomography**|Weicheng Zhu et.al.|[2502.02779](http://arxiv.org/abs/2502.02779)|null|
@@ -1378,8 +1378,8 @@ layout: default
 |**2025-02-03**|**PerfSeer: An Efficient and Accurate Deep Learning Models Performance Predictor**|Xinlong Zhao et.al.|[2502.01206](http://arxiv.org/abs/2502.01206)|null|
 |**2025-02-03**|**Deep Active Speech Cancellation with Multi-Band Mamba Network**|Yehuda Mishaly et.al.|[2502.01185](http://arxiv.org/abs/2502.01185)|null|
 |**2025-02-03**|**General Feature Extraction In SAR Target Classification: A Contrastive Learning Approach Across Sensor Types**|M. Muzeau et.al.|[2502.01162](http://arxiv.org/abs/2502.01162)|null|
-|**2025-02-03**|**An Investigation of FP8 Across Accelerators for LLM Inference**|Jiwoo Kim et.al.|[2502.01070](http://arxiv.org/abs/2502.01070)|null|
-|**2025-02-03**|**FetDTIAlign: A Deep Learning Framework for Affine and Deformable Registration of Fetal Brain dMRI**|Bo Li et.al.|[2502.01057](http://arxiv.org/abs/2502.01057)|null|
+|**2025-02-06**|**An Investigation of FP8 Across Accelerators for LLM Inference**|Jiwoo Kim et.al.|[2502.01070](http://arxiv.org/abs/2502.01070)|null|
+|**2025-02-05**|**FetDTIAlign: A Deep Learning Framework for Affine and Deformable Registration of Fetal Brain dMRI**|Bo Li et.al.|[2502.01057](http://arxiv.org/abs/2502.01057)|null|
 |**2025-02-03**|**Comprehensive Modeling Approaches for Forecasting Bitcoin Transaction Fees: A Comparative Study**|Jiangqin Ma et.al.|[2502.01029](http://arxiv.org/abs/2502.01029)|null|
 |**2025-02-03**|**Encrypted Large Model Inference: The Equivariant Encryption Paradigm**|James Buban et.al.|[2502.01013](http://arxiv.org/abs/2502.01013)|null|
 |**2025-02-03**|**Multi-Resolution SAR and Optical Remote Sensing Image Registration Methods: A Review, Datasets, and Future Perspectives**|Wenfei Zhang et.al.|[2502.01002](http://arxiv.org/abs/2502.01002)|null|
