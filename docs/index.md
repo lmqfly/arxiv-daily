@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1325,7 +1325,7 @@ layout: default
 |**2025-02-11**|**Optimizing Datasets for Code Summarization: Is Code-Comment Coherence Enough?**|Antonio Vitale et.al.|[2502.07611](http://arxiv.org/abs/2502.07611)|null|
 |**2025-02-11**|**Assessment of non-intrusive sensing in wall-bounded turbulence through explainable deep learning**|A. Cremades et.al.|[2502.07610](http://arxiv.org/abs/2502.07610)|null|
 |**2025-02-11**|**YOLO Network For Defect Detection In Optical lenses**|Habib Yaseen et.al.|[2502.07592](http://arxiv.org/abs/2502.07592)|null|
-|**2025-02-11**|**Early Stopping Against Label Noise Without Validation Data**|Suqin Yuan et.al.|[2502.07551](http://arxiv.org/abs/2502.07551)|null|
+|**2025-02-11**|**Early Stopping Against Label Noise Without Validation Data**|Suqin Yuan et.al.|[2502.07551](http://arxiv.org/abs/2502.07551)|**[link](https://github.com/tmllab/2024_ICLR_LabelWave)**|
 |**2025-02-11**|**Training Deep Learning Models with Norm-Constrained LMOs**|Thomas Pethick et.al.|[2502.07529](http://arxiv.org/abs/2502.07529)|null|
 |**2025-02-11**|**Exploring Patterns Behind Sports**|Chang Liu et.al.|[2502.07491](http://arxiv.org/abs/2502.07491)|null|
 |**2025-02-11**|**Improving Adaptive Moment Optimization via Preconditioner Diagonalization**|Son Nguyen et.al.|[2502.07488](http://arxiv.org/abs/2502.07488)|null|
