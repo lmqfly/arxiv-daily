@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -205,7 +205,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-09**|**LLMs for Drug-Drug Interaction Prediction: A Comprehensive Comparison**|Gabriele De Vito et.al.|[2502.06890](http://arxiv.org/abs/2502.06890)|null|
-|**2025-02-10**|**HODDI: A Dataset of High-Order Drug-Drug Interactions for Computational Pharmacovigilance**|Zhaoying Wang et.al.|[2502.06274](http://arxiv.org/abs/2502.06274)|null|
+|**2025-02-10**|**HODDI: A Dataset of High-Order Drug-Drug Interactions for Computational Pharmacovigilance**|Zhaoying Wang et.al.|[2502.06274](http://arxiv.org/abs/2502.06274)|**[link](https://github.com/timl-group/hoddi)**|
 |**2025-01-15**|**DNMDR: Dynamic Networks and Multi-view Drug Representations for Safe Medication Recommendation**|Guanlin Liu et.al.|[2501.08572](http://arxiv.org/abs/2501.08572)|null|
 |**2024-12-08**|**KITE-DDI: A Knowledge graph Integrated Transformer Model for accurately predicting Drug-Drug Interaction Events from Drug SMILES and Biomedical Knowledge Graph**|Azwad Tamir et.al.|[2412.05770](http://arxiv.org/abs/2412.05770)|null|
 |**2024-11-03**|**Customized Subgraph Selection and Encoding for Drug-drug Interaction Prediction**|Haotong Du et.al.|[2411.01535](http://arxiv.org/abs/2411.01535)|**[link](https://github.com/LARS-research/CSSE-DDI)**|
@@ -690,12 +690,12 @@ layout: default
 |**2025-02-11**|**Iterative charge equilibration for fourth-generation high-dimensional neural network potentials**|Emir Kocer et.al.|[2502.07907](http://arxiv.org/abs/2502.07907)|null|
 |**2025-02-11**|**Adsorption Behavior of Greenhouse Gases on Carbon Nanobelts: A Semi-Empirical Tight-Binding Approach for Environmental Application**|C. Aguiar et.al.|[2502.07690](http://arxiv.org/abs/2502.07690)|null|
 |**2025-02-10**|**Theoretical Predictions of MB5N5: Atom-Stuffed Boronitride Clathrate Cages Derived from the High-Pressure Superhydride**|Nisha Geng et.al.|[2502.06700](http://arxiv.org/abs/2502.06700)|null|
-|**2025-02-10**|**The Ridge Integration Method and its Application to Molecular Sieving, Demonstrated for Gas Purification via Graphdiyne Membranes**|Christian W. Binder et.al.|[2502.06654](http://arxiv.org/abs/2502.06654)|null|
+|**2025-02-10**|**The Ridge Integration Method and its Application to Molecular Sieving, Demonstrated for Gas Purification via Graphdiyne Membranes**|Christian W. Binder et.al.|[2502.06654](http://arxiv.org/abs/2502.06654)|**[link](https://github.com/hauser-group/ridge_integrator)**|
 |**2025-02-10**|**New opportunities for high pressure hydrogen achieved by fullerane vibrating modes: an ab initio study**|Leonard Constantin Gebac et.al.|[2502.06441](http://arxiv.org/abs/2502.06441)|null|
 |**2025-02-10**|**Quadrupolar NMR Relaxation as a Local Probe of Collective Dynamics in Aqueous Alcaline and Alcaline-Earth Chlorides Solutions**|Matthieu Wolf et.al.|[2502.06409](http://arxiv.org/abs/2502.06409)|null|
 |**2025-02-10**|**Dynamical Spreading Under Power Law Potential**|Ido Fanto et.al.|[2502.06256](http://arxiv.org/abs/2502.06256)|null|
 |**2025-02-09**|**Allegro-FM: Towards Equivariant Foundation Model for Exascale Molecular Dynamics Simulations**|Ken-ichi Nomura et.al.|[2502.06073](http://arxiv.org/abs/2502.06073)|null|
-|**2025-02-08**|**Hyperparameter Optimization and Force Error Correction of Neuroevolution Potential for Predicting Thermal Conductivity of Wurtzite GaN**|Zhuo Chen et.al.|[2502.05580](http://arxiv.org/abs/2502.05580)|null|
+|**2025-02-13**|**Hyperparameter Optimization and Force Error Correction of Neuroevolution Potential for Predicting Thermal Conductivity of Wurtzite GaN**|Zhuo Chen et.al.|[2502.05580](http://arxiv.org/abs/2502.05580)|null|
 |**2025-02-08**|**Modular programming of interaction and geometric specificity enables assembly of complex DNA origami nanostructures**|Rupam Saha et.al.|[2502.05388](http://arxiv.org/abs/2502.05388)|null|
 |**2025-01-30**|**Harnessing Artificial Intelligence for Modeling Amorphous and Amorphous Porous Palladium: A Deep Neural Network Approach**|Isaías Rodríguez et.al.|[2502.05201](http://arxiv.org/abs/2502.05201)|null|
 |**2025-02-07**|**Tracking electron capture processes in classical molecular dynamics simulations for spectral line broadening in plasmas**|D. González-Herrero et.al.|[2502.04808](http://arxiv.org/abs/2502.04808)|null|
@@ -1345,13 +1345,13 @@ layout: default
 |**2025-02-11**|**Exploring Patterns Behind Sports**|Chang Liu et.al.|[2502.07491](http://arxiv.org/abs/2502.07491)|null|
 |**2025-02-11**|**Improving Adaptive Moment Optimization via Preconditioner Diagonalization**|Son Nguyen et.al.|[2502.07488](http://arxiv.org/abs/2502.07488)|null|
 |**2025-02-11**|**Crime Forecasting: A Spatio-temporal Analysis with Deep Learning Models**|Li Mao et.al.|[2502.07465](http://arxiv.org/abs/2502.07465)|null|
-|**2025-02-11**|**Hierarchical Document Parsing via Large Margin Feature Matching and Heuristics**|Duong Anh Kiet et.al.|[2502.07442](http://arxiv.org/abs/2502.07442)|null|
+|**2025-02-11**|**Hierarchical Document Parsing via Large Margin Feature Matching and Heuristics**|Duong Anh Kiet et.al.|[2502.07442](http://arxiv.org/abs/2502.07442)|**[link](https://github.com/ffyyytt/vruid-aaai-dakiet)**|
 |**2025-02-11**|**CapyMOA: Efficient Machine Learning for Data Streams in Python**|Heitor Murilo Gomes et.al.|[2502.07432](http://arxiv.org/abs/2502.07432)|null|
 |**2025-02-11**|**Towards a Foundation Model for Physics-Informed Neural Networks: Multi-PDE Learning with Active Sampling**|Keon Vin Park et.al.|[2502.07425](http://arxiv.org/abs/2502.07425)|null|
 |**2025-02-11**|**Interpretable Rules for Online Failure Prediction: A Case Study on the Metro do Porto dataset**|Matthias Jakobs et.al.|[2502.07394](http://arxiv.org/abs/2502.07394)|null|
 |**2025-02-11**|**FADE: Forecasting for Anomaly Detection on ECG**|Paula Ruiz-Barroso et.al.|[2502.07389](http://arxiv.org/abs/2502.07389)|null|
 |**2025-02-11**|**Supervised contrastive learning for cell stage classification of animal embryos**|Yasmine Hachani et.al.|[2502.07360](http://arxiv.org/abs/2502.07360)|null|
-|**2025-02-11**|**Dataset Ownership Verification in Contrastive Pre-trained Models**|Yuechen Xie et.al.|[2502.07276](http://arxiv.org/abs/2502.07276)|null|
+|**2025-02-11**|**Dataset Ownership Verification in Contrastive Pre-trained Models**|Yuechen Xie et.al.|[2502.07276](http://arxiv.org/abs/2502.07276)|**[link](https://github.com/xieyc99/dov4cl)**|
 |**2025-02-11**|**Adaptive Sampling and Joint Semantic-Channel Coding under Dynamic Channel Environment**|Zhiyuan Qi et.al.|[2502.07236](http://arxiv.org/abs/2502.07236)|null|
 |**2025-02-11**|**Enhancing Physics-Informed Neural Networks Through Feature Engineering**|Shaghayegh Fazliani et.al.|[2502.07209](http://arxiv.org/abs/2502.07209)|null|
 |**2025-02-11**|**Towards Understanding of Frequency Dependence on Sound Event Detection**|Hyeonuk Nam et.al.|[2502.07208](http://arxiv.org/abs/2502.07208)|null|
@@ -1359,7 +1359,7 @@ layout: default
 |**2025-02-11**|**Exploring Neural Network Pruning with Screening Methods**|Mingyuan Wang et.al.|[2502.07189](http://arxiv.org/abs/2502.07189)|null|
 |**2025-02-11**|**Tab2Visual: Overcoming Limited Data in Tabular Data Classification Using Deep Learning with Visual Representations**|Ahmed Mamdouh et.al.|[2502.07181](http://arxiv.org/abs/2502.07181)|null|
 |**2025-02-11**|**SemiHMER: Semi-supervised Handwritten Mathematical Expression Recognition using pseudo-labels**|Kehua Chen et.al.|[2502.07172](http://arxiv.org/abs/2502.07172)|null|
-|**2025-02-11**|**Explaining 3D Computed Tomography Classifiers with Counterfactuals**|Joseph Paul Cohen et.al.|[2502.07156](http://arxiv.org/abs/2502.07156)|null|
+|**2025-02-11**|**Explaining 3D Computed Tomography Classifiers with Counterfactuals**|Joseph Paul Cohen et.al.|[2502.07156](http://arxiv.org/abs/2502.07156)|**[link](https://github.com/ieee8023/ct-counterfactuals)**|
 |**2025-02-11**|**Mesh2SSM++: A Probabilistic Framework for Unsupervised Learning of Statistical Shape Model of Anatomies from Surface Meshes**|Krithika Iyer et.al.|[2502.07145](http://arxiv.org/abs/2502.07145)|null|
 |**2025-02-10**|**Structural Reformation of Large Language Model Neuron Encapsulation for Divergent Information Aggregation**|Denis Bakushev et.al.|[2502.07124](http://arxiv.org/abs/2502.07124)|null|
 |**2025-02-10**|**Choroidal image analysis for OCT image sequences with applications in systemic health**|Jamie Burke et.al.|[2502.07117](http://arxiv.org/abs/2502.07117)|null|
@@ -1381,10 +1381,10 @@ layout: default
 |**2025-02-10**|**Neutrino Interaction Vertex Reconstruction in DUNE with Pandora Deep Learning**|DUNE Collaboration et.al.|[2502.06637](http://arxiv.org/abs/2502.06637)|null|
 |**2025-02-10**|**Combining Large Language Models with Static Analyzers for Code Review Generation**|Imen Jaoua et.al.|[2502.06633](http://arxiv.org/abs/2502.06633)|null|
 |**2025-02-10**|**Few-Shot Classification and Anatomical Localization of Tissues in SPECT Imaging**|Mohammed Abdul Hafeez Khan et.al.|[2502.06632](http://arxiv.org/abs/2502.06632)|null|
-|**2025-02-10**|**Retrieving Filter Spectra in CNN for Explainable Sleep Stage Classification**|Stephan Goerttler et.al.|[2502.06478](http://arxiv.org/abs/2502.06478)|null|
+|**2025-02-10**|**Retrieving Filter Spectra in CNN for Explainable Sleep Stage Classification**|Stephan Goerttler et.al.|[2502.06478](http://arxiv.org/abs/2502.06478)|**[link](https://github.com/sgoerttler/msa-cnn)**|
 |**2025-02-10**|**FEMBA: Efficient and Scalable EEG Analysis with a Bidirectional Mamba Foundation Model**|Anna Tegon et.al.|[2502.06438](http://arxiv.org/abs/2502.06438)|null|
 |**2025-02-10**|**An Automated Machine Learning Framework for Surgical Suturing Action Detection under Class Imbalance**|Baobing Zhang et.al.|[2502.06407](http://arxiv.org/abs/2502.06407)|null|
-|**2025-02-11**|**Calibrating LLMs with Information-Theoretic Evidential Deep Learning**|Yawei Li et.al.|[2502.06351](http://arxiv.org/abs/2502.06351)|null|
+|**2025-02-11**|**Calibrating LLMs with Information-Theoretic Evidential Deep Learning**|Yawei Li et.al.|[2502.06351](http://arxiv.org/abs/2502.06351)|**[link](https://github.com/sandylaker/ib-edl)**|
 |**2025-02-10**|**Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks**|Emanuel Sommer et.al.|[2502.06335](http://arxiv.org/abs/2502.06335)|null|
 |**2025-02-10**|**Beyond Batch Learning: Global Awareness Enhanced Domain Adaptation**|Lingkun Luo et.al.|[2502.06272](http://arxiv.org/abs/2502.06272)|null|
 |**2025-02-10**|**Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection**|Dingning Liu et.al.|[2502.06255](http://arxiv.org/abs/2502.06255)|null|
@@ -1409,7 +1409,7 @@ layout: default
 |**2025-02-09**|**Image-Based Alzheimer's Disease Detection Using Pretrained Convolutional Neural Network Models**|Nasser A Alsadhan et.al.|[2502.05815](http://arxiv.org/abs/2502.05815)|null|
 |**2025-02-09**|**Predictive Crash Analytics for Traffic Safety using Deep Learning**|Karthik Sivakoti et.al.|[2502.05777](http://arxiv.org/abs/2502.05777)|null|
 |**2025-02-08**|**SSDD-GAN: Single-Step Denoising Diffusion GAN for Cochlear Implant Surgical Scene Completion**|Yike Zhang et.al.|[2502.05710](http://arxiv.org/abs/2502.05710)|null|
-|**2025-02-08**|**Graph Neural Networks for Efficient AC Power Flow Prediction in Power Grids**|Seyedamirhossein Talebi et.al.|[2502.05702](http://arxiv.org/abs/2502.05702)|null|
+|**2025-02-08**|**Graph Neural Networks for Efficient AC Power Flow Prediction in Power Grids**|Seyedamirhossein Talebi et.al.|[2502.05702](http://arxiv.org/abs/2502.05702)|**[link](https://github.com/amirtalebi83/gnn-optimalpowerflow)**|
 |**2025-02-08**|**Federated Learning with Reservoir State Analysis for Time Series Anomaly Detection**|Keigo Nogami et.al.|[2502.05679](http://arxiv.org/abs/2502.05679)|null|
 |**2025-02-08**|**The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions**|Ping Liu et.al.|[2502.05673](http://arxiv.org/abs/2502.05673)|null|
 |**2025-02-08**|**Online Controller Synthesis for Robot Collision Avoidance: A Case Study**|Yuheng Fan et.al.|[2502.05667](http://arxiv.org/abs/2502.05667)|null|
