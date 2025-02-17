@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.16
+## Updated on 2025.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1389,7 +1389,7 @@ layout: default
 |**2025-02-11**|**Towards a Foundation Model for Physics-Informed Neural Networks: Multi-PDE Learning with Active Sampling**|Keon Vin Park et.al.|[2502.07425](http://arxiv.org/abs/2502.07425)|null|
 |**2025-02-11**|**Interpretable Rules for Online Failure Prediction: A Case Study on the Metro do Porto dataset**|Matthias Jakobs et.al.|[2502.07394](http://arxiv.org/abs/2502.07394)|null|
 |**2025-02-11**|**FADE: Forecasting for Anomaly Detection on ECG**|Paula Ruiz-Barroso et.al.|[2502.07389](http://arxiv.org/abs/2502.07389)|**[link](https://github.com/PaulaRuizB/FADE-ECG)**|
-|**2025-02-11**|**Supervised contrastive learning for cell stage classification of animal embryos**|Yasmine Hachani et.al.|[2502.07360](http://arxiv.org/abs/2502.07360)|null|
+|**2025-02-14**|**Supervised contrastive learning for cell stage classification of animal embryos**|Yasmine Hachani et.al.|[2502.07360](http://arxiv.org/abs/2502.07360)|null|
 |**2025-02-11**|**Dataset Ownership Verification in Contrastive Pre-trained Models**|Yuechen Xie et.al.|[2502.07276](http://arxiv.org/abs/2502.07276)|**[link](https://github.com/xieyc99/dov4cl)**|
 |**2025-02-11**|**Adaptive Sampling and Joint Semantic-Channel Coding under Dynamic Channel Environment**|Zhiyuan Qi et.al.|[2502.07236](http://arxiv.org/abs/2502.07236)|null|
 |**2025-02-11**|**Enhancing Physics-Informed Neural Networks Through Feature Engineering**|Shaghayegh Fazliani et.al.|[2502.07209](http://arxiv.org/abs/2502.07209)|null|
