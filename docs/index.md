@@ -334,7 +334,7 @@ layout: default
 |**2025-01-10**|**GenMol: A Drug Discovery Generalist with Discrete Diffusion**|Seul Lee et.al.|[2501.06158](http://arxiv.org/abs/2501.06158)|null|
 |**2025-01-05**|**Unified Guidance for Geometry-Conditioned Molecular Generation**|Sirine Ayadi et.al.|[2501.02526](http://arxiv.org/abs/2501.02526)|null|
 |**2025-01-03**|**Active Learning Enables Extrapolation in Molecular Generative Models**|Evan R. Antoniuk et.al.|[2501.02059](http://arxiv.org/abs/2501.02059)|null|
-|**2025-01-08**|**MADGEN: Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|null|
+|**2025-01-08**|**MADGEN: Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|**[link](https://github.com/HassounLab/MADGEN)**|
 |**2024-12-02**|**Tokenizing 3D Molecule Structure with Quantized Spherical Coordinates**|Kaiyuan Gao et.al.|[2412.01564](http://arxiv.org/abs/2412.01564)|null|
 |**2024-11-25**|**Limeade: Let integer molecular encoding aid**|Shiqiang Zhang et.al.|[2411.16623](http://arxiv.org/abs/2411.16623)|**[link](https://github.com/cog-imperial/limeade)**|
 |**2024-11-23**|**MolMetaLM: a Physicochemical Knowledge-Guided Molecular Meta Language Model**|Yifan Wu et.al.|[2411.15500](http://arxiv.org/abs/2411.15500)|**[link](https://github.com/CSUBioGroup/MolMetaLM)**|
@@ -503,6 +503,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Locally-Deployed Chain-of-Thought (CoT) Reasoning Model in Chemical Engineering: Starting from 30 Experimental Data**|Tianhang Zhou et.al.|[2502.12383](http://arxiv.org/abs/2502.12383)|null|
 |**2025-02-17**|**Knowledge-aware contrastive heterogeneous molecular graph learning**|Mukun Chen et.al.|[2502.11711](http://arxiv.org/abs/2502.11711)|null|
 |**2025-02-16**|**CL-MFAP: A Contrastive Learning-Based Multimodal Foundation Model for Molecular Property Prediction and Antibiotic Screening**|Gen Zhou et.al.|[2502.11001](http://arxiv.org/abs/2502.11001)|null|
 |**2025-02-03**|**FragmentNet: Adaptive Graph Fragmentation for Graph-to-Sequence Molecular Representation Learning**|Ankur Samanta et.al.|[2502.01184](http://arxiv.org/abs/2502.01184)|null|
@@ -692,6 +693,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Dynamical pathways for the interaction of O2, H2O, CH4, and CO2 with a-alumina surfaces: Density functional tight-binding calculations**|F. J. Dominguez-Gutierrez et.al.|[2502.13100](http://arxiv.org/abs/2502.13100)|null|
+|**2025-02-17**|**Connecting Large Language Model Agent to High Performance Computing Resource**|Heng Ma et.al.|[2502.12280](http://arxiv.org/abs/2502.12280)|null|
 |**2025-02-17**|**Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction**|Xiang Fu et.al.|[2502.12147](http://arxiv.org/abs/2502.12147)|null|
 |**2025-02-17**|**AI-guided transition path sampling of lipid flip-flop and membrane nanoporation**|Matthias Post et.al.|[2502.11894](http://arxiv.org/abs/2502.11894)|null|
 |**2025-02-17**|**Exploring Novel 2D Analogues of Goldene: Electronic, Mechanical, and Optical Properties of Silverene and Copperene**|Emanuel J. A. dos Santos et.al.|[2502.11810](http://arxiv.org/abs/2502.11810)|null|
@@ -1330,6 +1333,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
+|**2025-02-18**|**MLPs at the EOC: Dynamics of Feature Learning**|Dávid Terjék et.al.|[2502.13110](http://arxiv.org/abs/2502.13110)|null|
+|**2025-02-18**|**A deep learning framework for efficient pathology image analysis**|Peter Neidlinger et.al.|[2502.13027](http://arxiv.org/abs/2502.13027)|null|
+|**2025-02-18**|**Fragility-aware Classification for Understanding Risk and Improving Generalization**|Chen Yang et.al.|[2502.13024](http://arxiv.org/abs/2502.13024)|null|
+|**2025-02-18**|**Free Argumentative Exchanges for Explaining Image Classifiers**|Avinash Kori et.al.|[2502.12995](http://arxiv.org/abs/2502.12995)|null|
+|**2025-02-18**|**Artificial Intelligence-derived Vascular Age from Photoplethysmography: A Novel Digital Biomarker for Cardiovascular Health**|Guangkun Nie et.al.|[2502.12990](http://arxiv.org/abs/2502.12990)|null|
+|**2025-02-18**|**Statistically Significant $k$ NNAD by Selective Inference**|Mizuki Niihori et.al.|[2502.12978](http://arxiv.org/abs/2502.12978)|null|
+|**2025-02-17**|**Time-series attribution maps with regularized contrastive learning**|Steffen Schneider et.al.|[2502.12977](http://arxiv.org/abs/2502.12977)|null|
+|**2025-02-18**|**Fake It Till You Make It: Using Synthetic Data and Domain Knowledge for Improved Text-Based Learning for LGE Detection**|Athira J Jacob et.al.|[2502.12948](http://arxiv.org/abs/2502.12948)|null|
+|**2025-02-18**|**Tuning Algorithmic and Architectural Hyperparameters in Graph-Based Semi-Supervised Learning with Provable Guarantees**|Ally Yalei Du et.al.|[2502.12937](http://arxiv.org/abs/2502.12937)|null|
+|**2025-02-18**|**Universal Embedding Function for Traffic Classification via QUIC Domain Recognition Pretraining: A Transfer Learning Success**|Jan Luxemburk et.al.|[2502.12930](http://arxiv.org/abs/2502.12930)|null|
+|**2025-02-18**|**Graph Neural Networks for Databases: A Survey**|Ziming Li et.al.|[2502.12908](http://arxiv.org/abs/2502.12908)|null|
+|**2025-02-18**|**Transferable Machine Learning Potential X-MACE for Excited States using Integrated DeepSets**|Rhyan Barrett et.al.|[2502.12870](http://arxiv.org/abs/2502.12870)|null|
+|**2025-02-18**|**An improved wind power prediction via a novel wind ramp identification algorithm**|Yifan Xu et.al.|[2502.12807](http://arxiv.org/abs/2502.12807)|null|
+|**2025-02-18**|**One-bit Compressed Sensing using Generative Models**|Swatantra Kafle et.al.|[2502.12762](http://arxiv.org/abs/2502.12762)|null|
+|**2025-02-18**|**Unveiling Mode Connectivity in Graph Neural Networks**|Bingheng Li et.al.|[2502.12608](http://arxiv.org/abs/2502.12608)|null|
+|**2025-02-18**|**A Novel Gain Modeling Technique for LLC Resonant Converters based on The Hybrid Deep-Learning/GMDH Neural Network**|Parham Mohammadi et.al.|[2502.12571](http://arxiv.org/abs/2502.12571)|null|
+|**2025-02-18**|**When Segmentation Meets Hyperspectral Image: New Paradigm for Hyperspectral Image Classification**|Weilian Zhou et.al.|[2502.12541](http://arxiv.org/abs/2502.12541)|null|
+|**2025-02-18**|**GPU Memory Usage Optimization for Backward Propagation in Deep Network Training**|Ding-Yong Hong et.al.|[2502.12499](http://arxiv.org/abs/2502.12499)|null|
+|**2025-02-18**|**UniGenCoder: Merging Seq2Seq and Seq2Tree Paradigms for Unified Code Generation**|Liangying Shao et.al.|[2502.12490](http://arxiv.org/abs/2502.12490)|null|
+|**2025-02-18**|**Explainable AI-Driven Neural Activity Analysis in Parkinsonian Rats under Electrical Stimulation**|Jibum Kim et.al.|[2502.12471](http://arxiv.org/abs/2502.12471)|null|
+|**2025-02-18**|**Gaseous Object Detection**|Kailai Zhou et.al.|[2502.12415](http://arxiv.org/abs/2502.12415)|null|
+|**2025-02-18**|**Sensing-based Robustness Challenges in Agricultural Robotic Harvesting**|C. Beldek et.al.|[2502.12403](http://arxiv.org/abs/2502.12403)|null|
+|**2025-02-17**|**ScriptoriumWS: A Code Generation Assistant for Weak Supervision**|Tzu-Heng Huang et.al.|[2502.12366](http://arxiv.org/abs/2502.12366)|null|
+|**2025-02-17**|**Inference for Log-Gaussian Cox Point Processes using Bayesian Deep Learning: Application to Human Oral Microbiome Image Data**|Shuwan Wang et.al.|[2502.12334](http://arxiv.org/abs/2502.12334)|null|
+|**2025-02-17**|**Symmetric Rank-One Quasi-Newton Methods for Deep Learning Using Cubic Regularization**|Aditya Ranganath et.al.|[2502.12298](http://arxiv.org/abs/2502.12298)|null|
+|**2025-02-17**|**Healthcare cost prediction for heterogeneous patient profiles using deep learning models with administrative claims data**|Mohammad Amin Morid et.al.|[2502.12277](http://arxiv.org/abs/2502.12277)|null|
+|**2025-02-17**|**SmokeNet: Efficient Smoke Segmentation Leveraging Multiscale Convolutions and Multiview Attention Mechanisms**|Xuesong Liu et.al.|[2502.12258](http://arxiv.org/abs/2502.12258)|null|
+|**2025-02-17**|**IMPACTX: Improving Model Performance by Appropriately predicting CorrecT eXplanations**|Andrea Apicella et.al.|[2502.12222](http://arxiv.org/abs/2502.12222)|null|
+|**2025-02-15**|**E2CB2former: Effecitve and Explainable Transformer for CB2 Receptor Ligand Activity Prediction**|Jiacheng Xie et.al.|[2502.12186](http://arxiv.org/abs/2502.12186)|null|
 |**2025-02-17**|**Transformer Dynamics: A neuroscientific approach to interpretability of large language models**|Jesseba Fernando et.al.|[2502.12131](http://arxiv.org/abs/2502.12131)|null|
 |**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|null|
 |**2025-02-17**|**Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy**|Roman Malashin et.al.|[2502.12125](http://arxiv.org/abs/2502.12125)|null|
@@ -1377,7 +1410,7 @@ layout: default
 |**2025-02-15**|**Human-Centric Community Detection in Hybrid Metaverse Networks with Integrated AI Entities**|Shih-Hsuan Chiu et.al.|[2502.10750](http://arxiv.org/abs/2502.10750)|null|
 |**2025-02-15**|**A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective**|Xiangfei Qiu et.al.|[2502.10721](http://arxiv.org/abs/2502.10721)|null|
 |**2025-02-15**|**FuncGenFoil: Airfoil Generation and Editing Model in Function Space**|Jinouwen Zhang et.al.|[2502.10712](http://arxiv.org/abs/2502.10712)|**[link](https://github.com/zjowowen/FuncGenFoil)**|
-|**2025-02-15**|**Reading Your Heart: Learning ECG Words and Sentences via Pre-training ECG Language Model**|Jiarui Jin et.al.|[2502.10707](http://arxiv.org/abs/2502.10707)|null|
+|**2025-02-15**|**Reading Your Heart: Learning ECG Words and Sentences via Pre-training ECG Language Model**|Jiarui Jin et.al.|[2502.10707](http://arxiv.org/abs/2502.10707)|**[link](https://github.com/pkudigitalhealth/heartlang)**|
 |**2025-02-15**|**Artificial intelligence-enabled detection and assessment of Parkinson's disease using multimodal data: A survey**|Aite Zhao et.al.|[2502.10703](http://arxiv.org/abs/2502.10703)|null|
 |**2025-02-15**|**Self-Explaining Hypergraph Neural Networks for Diagnosis Prediction**|Leisheng Yu et.al.|[2502.10689](http://arxiv.org/abs/2502.10689)|null|
 |**2025-02-15**|**Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation using A Novel Dataset**|Muhammad Ashad Kabir et.al.|[2502.10652](http://arxiv.org/abs/2502.10652)|null|
