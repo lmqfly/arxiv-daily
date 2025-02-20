@@ -1333,6 +1333,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Judging the Judges: A Collection of LLM-Generated Relevance Judgements**|Hossein A. Rahmani et.al.|[2502.13908](http://arxiv.org/abs/2502.13908)|null|
+|**2025-02-19**|**Evaluation of EAS directions based on TAIGA HiSCORE data using fully connected neural networks**|A. P. Kryukov et.al.|[2502.13851](http://arxiv.org/abs/2502.13851)|null|
+|**2025-02-18**|**Bayesian Physics Informed Neural Networks for Linear Inverse problems**|Ali Mohammad-Djafari et.al.|[2502.13827](http://arxiv.org/abs/2502.13827)|null|
+|**2025-02-19**|**Mixup Regularization: A Probabilistic Perspective**|Yousef El-Laham et.al.|[2502.13825](http://arxiv.org/abs/2502.13825)|null|
+|**2025-02-19**|**Helix-mRNA: A Hybrid Foundation Model For Full Sequence mRNA Therapeutics**|Matthew Wood et.al.|[2502.13785](http://arxiv.org/abs/2502.13785)|null|
+|**2025-02-19**|**Deep Learning for VWAP Execution in Crypto Markets: Beyond the Volume Curve**|Remi Genet et.al.|[2502.13722](http://arxiv.org/abs/2502.13722)|null|
+|**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
+|**2025-02-19**|**Toward Robust Non-Transferable Learning: A Survey and Benchmark**|Ziming Hong et.al.|[2502.13593](http://arxiv.org/abs/2502.13593)|null|
+|**2025-02-19**|**MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis**|Wei Dai et.al.|[2502.13524](http://arxiv.org/abs/2502.13524)|**[link](https://github.com/anthonyweidai/MobileViM_3D)**|
+|**2025-02-19**|**Poisoned Source Code Detection in Code Models**|Ehab Ghannoum et.al.|[2502.13459](http://arxiv.org/abs/2502.13459)|null|
+|**2025-02-19**|**JL1-CD: A New Benchmark for Remote Sensing Change Detection and a Robust Multi-Teacher Knowledge Distillation Framework**|Ziyuan Liu et.al.|[2502.13407](http://arxiv.org/abs/2502.13407)|null|
+|**2025-02-19**|**MaizeEar-SAM: Zero-Shot Maize Ear Phenotyping**|Hossein Zaremehrjerdi et.al.|[2502.13399](http://arxiv.org/abs/2502.13399)|**[link](https://bitbucket.org/baskargroup/maizeear-sam)**|
+|**2025-02-18**|**How Expressive are Knowledge Graph Foundation Models?**|Xingyue Huang et.al.|[2502.13339](http://arxiv.org/abs/2502.13339)|null|
+|**2025-02-18**|**Gradient-Based Optimization of Core-Shell Particles with Discrete Materials for Directional Scattering**|Dalin Soun et.al.|[2502.13338](http://arxiv.org/abs/2502.13338)|null|
+|**2025-02-18**|**A Survey of Anomaly Detection in Cyber-Physical Systems**|Danial Abshari et.al.|[2502.13256](http://arxiv.org/abs/2502.13256)|null|
+|**2025-02-18**|**Learning the Universe: Learning to Optimize Cosmic Initial Conditions with Non-Differentiable Structure Formation Models**|Ludvig Doeser et.al.|[2502.13243](http://arxiv.org/abs/2502.13243)|null|
+|**2025-02-18**|**CondensNet: Enabling stable long-term climate simulations via hybrid deep learning models with adaptive physical constraints**|Xin Wang et.al.|[2502.13185](http://arxiv.org/abs/2502.13185)|null|
+|**2025-02-18**|**Synthetic generation of 2D data records based on Autoencoders**|Darius Couchard et.al.|[2502.13183](http://arxiv.org/abs/2502.13183)|null|
 |**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
 |**2025-02-18**|**MLPs at the EOC: Dynamics of Feature Learning**|Dávid Terjék et.al.|[2502.13110](http://arxiv.org/abs/2502.13110)|null|
 |**2025-02-18**|**A deep learning framework for efficient pathology image analysis**|Peter Neidlinger et.al.|[2502.13027](http://arxiv.org/abs/2502.13027)|null|
