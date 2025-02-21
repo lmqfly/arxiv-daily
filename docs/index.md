@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.20
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -722,7 +722,7 @@ layout: default
 |**2025-02-04**|**Neural network potential molecular dynamics simulations of (La,Ce,Pr,Nd)0.95(Mg,Zn,Pb,Cd,Ca,Sr,Ba)0.05F2.95**|Yoyo Hinuma et.al.|[2502.02408](http://arxiv.org/abs/2502.02408)|null|
 |**2025-02-04**|**Composition Effects on Ni/Al Reactive Multilayers: A Comprehensive Study of Mechanical Properties, Reaction Dynamics and Phase Evolution**|Nensi Toncich et.al.|[2502.02333](http://arxiv.org/abs/2502.02333)|null|
 |**2025-02-04**|**Tadah! A Swiss Army Knife for Developing and Deployment of Machine Learning Interatomic Potentials**|M. Kirsz et.al.|[2502.02211](http://arxiv.org/abs/2502.02211)|null|
-|**2025-02-04**|**Undamped soliton-like domain wall motion in sliding ferroelectrics**|Yubai Shi et.al.|[2502.02137](http://arxiv.org/abs/2502.02137)|null|
+|**2025-02-20**|**Undamped Soliton-like Domain Wall Motion in Sliding Ferroelectrics**|Yubai Shi et.al.|[2502.02137](http://arxiv.org/abs/2502.02137)|null|
 |**2025-02-04**|**Direct derivation of anisotropic atomic displacement parameters from molecular dynamics simulations demonstrated in thermoelectric materials**|Yoyo Hinuma et.al.|[2502.02056](http://arxiv.org/abs/2502.02056)|null|
 |**2025-02-03**|**Designing Bimetallic Nanoparticle Catalysts via Tailored Surface Segregation**|Yaxin Tang et.al.|[2502.01166](http://arxiv.org/abs/2502.01166)|null|
 |**2025-02-02**|**Emamectin benzoate sensing using vivianenes (2D vivianites)**|Surbhi Slathia et.al.|[2502.00813](http://arxiv.org/abs/2502.00813)|null|
@@ -9928,7 +9928,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-27**|**Geometric Deep Learning for Automated Landmarking of Maxillary Arches on 3D Oral Scans from Newborns with Cleft Lip and Palate**|Artur Agaronyan et.al.|[2501.15737](http://arxiv.org/abs/2501.15737)|null|
 |**2025-01-26**|**BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation**|Ali Khodabandeh Yalabadi et.al.|[2501.15631](http://arxiv.org/abs/2501.15631)|**[link](https://github.com/khodabandeh-ali/bokdiff)**|
-|**2025-02-14**|**Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation**|Rongzhao He et.al.|[2501.14679](http://arxiv.org/abs/2501.14679)|null|
+|**2025-02-20**|**Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation**|Rongzhao He et.al.|[2501.14679](http://arxiv.org/abs/2501.14679)|null|
 |**2025-01-23**|**Learning Hemodynamic Scalar Fields on Coronary Artery Meshes: A Benchmark of Geometric Deep Learning Models**|Guido Nannini et.al.|[2501.09046](http://arxiv.org/abs/2501.09046)|null|
 |**2025-01-09**|**LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning**|Jianchao Lu et.al.|[2501.05589](http://arxiv.org/abs/2501.05589)|null|
 |**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390](http://arxiv.org/abs/2412.17390)|null|
