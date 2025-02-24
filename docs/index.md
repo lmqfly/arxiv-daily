@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Drug-Target Interaction/Affinity Prediction: Deep Learning Models and Advances Review**|Ali Vefghi et.al.|[2502.15346](http://arxiv.org/abs/2502.15346)|null|
 |**2025-02-12**|**Broken symmetries associated with a Kagome chiral charge order**|Zi-Jia Cheng et.al.|[2502.08537](http://arxiv.org/abs/2502.08537)|null|
 |**2025-02-09**|**LLMs for Drug-Drug Interaction Prediction: A Comprehensive Comparison**|Gabriele De Vito et.al.|[2502.06890](http://arxiv.org/abs/2502.06890)|null|
 |**2025-02-03**|**Docking-Aware Attention: Dynamic Protein Representations through Molecular Context Integration**|Amitay Sicherman et.al.|[2502.01461](http://arxiv.org/abs/2502.01461)|null|
@@ -694,6 +695,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Sol-gel transition in heteroassociative RNA-protein solutions: A quantitative comparison of coarse-grained simulations and the Semenov-Rubinstein theory**|Xinxiang Chen et.al.|[2502.15289](http://arxiv.org/abs/2502.15289)|null|
+|**2025-02-21**|**Self-assembly of Dipolar Crystals from Magnetic Colloids**|Anuj Kumar Singh et.al.|[2502.15265](http://arxiv.org/abs/2502.15265)|null|
+|**2025-02-21**|**Self-assembly of anisotropic particles on curved surfaces**|Gautam Bordia et.al.|[2502.15225](http://arxiv.org/abs/2502.15225)|null|
 |**2025-02-20**|**Lattice distortion tuning resistivity invar effect in high entropy alloys**|Hao Chen et.al.|[2502.14542](http://arxiv.org/abs/2502.14542)|null|
 |**2025-02-20**|**Investigating the Optical and Thermodynamic Properties of 2D MoGe2P4 : Potential Material for Photothermal Therapy**|Sudipta Saha et.al.|[2502.14239](http://arxiv.org/abs/2502.14239)|null|
 |**2025-02-18**|**Dynamical pathways for the interaction of O2, H2O, CH4, and CO2 with a-alumina surfaces: Density functional tight-binding calculations**|F. J. Dominguez-Gutierrez et.al.|[2502.13100](http://arxiv.org/abs/2502.13100)|null|
@@ -1336,6 +1340,43 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Extraction multi-étiquettes de relations en utilisant des couches de Transformer**|Ngoc Luyen Le et.al.|[2502.15619](http://arxiv.org/abs/2502.15619)|null|
+|**2025-02-21**|**PDeepPP:A Deep learning framework with Pretrained Protein language for peptide classification**|Jixiu Zhai et.al.|[2502.15610](http://arxiv.org/abs/2502.15610)|null|
+|**2025-02-21**|**Causal Modeling of fMRI Time-series for Interpretable Autism Spectrum Disorder Classification**|Peiyu Duan et.al.|[2502.15595](http://arxiv.org/abs/2502.15595)|null|
+|**2025-02-21**|**MoMa: A Modular Deep Learning Framework for Material Property Prediction**|Botian Wang et.al.|[2502.15483](http://arxiv.org/abs/2502.15483)|null|
+|**2025-02-21**|**Sheaf theory: from deep geometry to deep learning**|Anton Ayzenberg et.al.|[2502.15476](http://arxiv.org/abs/2502.15476)|null|
+|**2025-02-21**|**Decoding for Punctured Convolutional and Turbo Codes: A Deep Learning Solution for Protocols Compliance**|Yongli Yan et.al.|[2502.15475](http://arxiv.org/abs/2502.15475)|null|
+|**2025-02-21**|**Anatomy-Informed Deep Learning and Radiomics for Automated Neurofibroma Segmentation in Whole-Body MRI**|Georgii Kolokolnikov et.al.|[2502.15424](http://arxiv.org/abs/2502.15424)|null|
+|**2025-02-21**|**Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**|Narges Semiromizadeh et.al.|[2502.15398](http://arxiv.org/abs/2502.15398)|null|
+|**2025-02-21**|**A Universal Framework for Compressing Embeddings in CTR Prediction**|Kefan Wang et.al.|[2502.15355](http://arxiv.org/abs/2502.15355)|null|
+|**2025-02-21**|**Drug-Target Interaction/Affinity Prediction: Deep Learning Models and Advances Review**|Ali Vefghi et.al.|[2502.15346](http://arxiv.org/abs/2502.15346)|null|
+|**2025-02-21**|**FlexPie: Accelerate Distributed Inference on Edge Devices with Flexible Combinatorial Optimization[Technical Report]**|Runhua Zhang et.al.|[2502.15312](http://arxiv.org/abs/2502.15312)|null|
+|**2025-02-21**|**A Permutation-equivariant Deep Learning Model for Quantum State Characterization**|Diego Maragnano et.al.|[2502.15305](http://arxiv.org/abs/2502.15305)|null|
+|**2025-02-21**|**A Novel Riemannian Sparse Representation Learning Network for Polarimetric SAR Image Classification**|Junfei Shi et.al.|[2502.15302](http://arxiv.org/abs/2502.15302)|null|
+|**2025-02-21**|**Machine Learning in Stellar Astronomy: Progress up to 2024**|Guangping Li et.al.|[2502.15300](http://arxiv.org/abs/2502.15300)|null|
+|**2025-02-21**|**Ultrasound Phase Aberrated Point Spread Function Estimation with Convolutional Neural Network: Simulation Study**|Wei-Hsiang Shen et.al.|[2502.15298](http://arxiv.org/abs/2502.15298)|null|
+|**2025-02-21**|**Comparative Analysis of Black Hole Mass Estimation in Type-2 AGNs: Classical vs. Quantum Machine Learning and Deep Learning Approaches**|Sathwik Narkedimilli et.al.|[2502.15297](http://arxiv.org/abs/2502.15297)|null|
+|**2025-02-21**|**Soybean pod and seed counting in both outdoor fields and indoor laboratories using unions of deep neural networks**|Tianyou Jiang et.al.|[2502.15286](http://arxiv.org/abs/2502.15286)|null|
+|**2025-02-21**|**BundleFlow: Deep Menus for Combinatorial Auctions by Diffusion-Based Optimization**|Tonghan Wang et.al.|[2502.15283](http://arxiv.org/abs/2502.15283)|null|
+|**2025-02-21**|**A deep learning-based noise correction method for light-field fluorescence microscopy**|Bohan Qu et.al.|[2502.15259](http://arxiv.org/abs/2502.15259)|null|
+|**2025-02-21**|**Real-Time Moving Flock Detection in Pedestrian Trajectories Using Sequential Deep Learning Models**|Amartaivan Sanjjamts et.al.|[2502.15252](http://arxiv.org/abs/2502.15252)|null|
+|**2025-02-21**|**Steganographic Embeddings as an Effective Data Augmentation**|Nicholas DiSalvo et.al.|[2502.15245](http://arxiv.org/abs/2502.15245)|null|
+|**2025-02-21**|**Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients**|Artur Agaronyan et.al.|[2502.15198](http://arxiv.org/abs/2502.15198)|null|
+|**2025-02-21**|**Image Translation-Based Unsupervised Cross-Modality Domain Adaptation for Medical Image Segmentation**|Tao Yang et.al.|[2502.15193](http://arxiv.org/abs/2502.15193)|null|
+|**2025-02-21**|**LUMINA-Net: Low-light Upgrade through Multi-stage Illumination and Noise Adaptation Network for Image Enhancement**|Namrah Siddiqua et.al.|[2502.15186](http://arxiv.org/abs/2502.15186)|null|
+|**2025-02-21**|**DAM-Seg: Anatomically accurate cardiac segmentation using Dense Associative Networks**|Zahid Ullah et.al.|[2502.15128](http://arxiv.org/abs/2502.15128)|null|
+|**2025-02-20**|**Pseudoinverse Diffusion Models for Generative CT Image Reconstruction from Low Dose Data**|Matthew Tivnan et.al.|[2502.15064](http://arxiv.org/abs/2502.15064)|null|
+|**2025-02-20**|**Benchmarking Android Malware Detection: Rethinking the Role of Traditional and Deep Learning Models**|Guojun Liu et.al.|[2502.15041](http://arxiv.org/abs/2502.15041)|null|
+|**2025-02-20**|**GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data**|Rui Deng et.al.|[2502.15032](http://arxiv.org/abs/2502.15032)|null|
+|**2025-02-20**|**MACPruning: Dynamic Operation Pruning to Mitigate Side-Channel DNN Model Extraction**|Ruyi Ding et.al.|[2502.15020](http://arxiv.org/abs/2502.15020)|null|
+|**2025-02-20**|**Interpreting Adversarial Attacks and Defences using Architectures with Enhanced Interpretability**|Akshay G Rao et.al.|[2502.15017](http://arxiv.org/abs/2502.15017)|null|
+|**2025-02-20**|**Accelerating Neural Network Training: An Analysis of the AlgoPerf Competition**|Priya Kasimbeg et.al.|[2502.15015](http://arxiv.org/abs/2502.15015)|null|
+|**2025-02-20**|**Reinforcement Learning for Ultrasound Image Analysis A Comprehensive Review of Advances and Applications**|Maha Ezzelarab et.al.|[2502.14995](http://arxiv.org/abs/2502.14995)|null|
+|**2025-02-20**|**LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection**|Qingyuan Liu et.al.|[2502.14994](http://arxiv.org/abs/2502.14994)|null|
+|**2025-02-20**|**Denoising, segmentation and volumetric rendering of optical coherence tomography angiography (OCTA) image using deep learning techniques: a review**|Kejie Chen et.al.|[2502.14935](http://arxiv.org/abs/2502.14935)|null|
+|**2025-02-20**|**Distributed U-net model and Image Segmentation for Lung Cancer Detection**|Tianzuo Hu et.al.|[2502.14928](http://arxiv.org/abs/2502.14928)|null|
+|**2025-02-19**|**Display Field-Of-View Agnostic Robust CT Kernel Synthesis Using Model-Based Deep Learning**|Hemant Kumar Aggarwal et.al.|[2502.14920](http://arxiv.org/abs/2502.14920)|null|
+|**2025-02-18**|**UPCMR: A Universal Prompt-guided Model for Random Sampling Cardiac MRI Reconstruction**|Donghang Lyu et.al.|[2502.14899](http://arxiv.org/abs/2502.14899)|null|
 |**2025-02-20**|**Probabilistic Robustness in Deep Learning: A Concise yet Comprehensive Guide**|Xingyu Zhao et.al.|[2502.14833](http://arxiv.org/abs/2502.14833)|null|
 |**2025-02-20**|**Cross Validation for Correlated Data in Regression and Classification Models, with Applications to Deep Learning**|Oren Yuval et.al.|[2502.14808](http://arxiv.org/abs/2502.14808)|**[link](https://github.com/OrenYuv/CVc-for-General-Models)**|
 |**2025-02-20**|**MedVAE: Efficient Automated Interpretation of Medical Images with Large-Scale Generalizable Autoencoders**|Maya Varma et.al.|[2502.14753](http://arxiv.org/abs/2502.14753)|**[link](https://github.com/stanfordmimi/medvae)**|
