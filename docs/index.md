@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1414,7 +1414,7 @@ layout: default
 |**2025-02-17**|**IMPACTX: Improving Model Performance by Appropriately predicting CorrecT eXplanations**|Andrea Apicella et.al.|[2502.12222](http://arxiv.org/abs/2502.12222)|null|
 |**2025-02-15**|**E2CB2former: Effecitve and Explainable Transformer for CB2 Receptor Ligand Activity Prediction**|Jiacheng Xie et.al.|[2502.12186](http://arxiv.org/abs/2502.12186)|null|
 |**2025-02-17**|**Transformer Dynamics: A neuroscientific approach to interpretability of large language models**|Jesseba Fernando et.al.|[2502.12131](http://arxiv.org/abs/2502.12131)|null|
-|**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|**[link](https://github.com/ml-jku/lam-slide)**|
+|**2025-02-21**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|**[link](https://github.com/ml-jku/lam-slide)**|
 |**2025-02-17**|**Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy**|Roman Malashin et.al.|[2502.12125](http://arxiv.org/abs/2502.12125)|null|
 |**2025-02-17**|**Topology from Nothing**|Jacob R. Taylor et.al.|[2502.12121](http://arxiv.org/abs/2502.12121)|null|
 |**2025-02-17**|**Using economic value signals from primate prefrontal cortex in neuro-engineering applications**|Tevin C. Rouse et.al.|[2502.12092](http://arxiv.org/abs/2502.12092)|null|
