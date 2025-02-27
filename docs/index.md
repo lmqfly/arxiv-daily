@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1364,7 +1364,7 @@ layout: default
 |**2025-02-25**|**Monitoring snow avalanches from SAR data with deep learning**|Filippo Maria Bianchi et.al.|[2502.18157](http://arxiv.org/abs/2502.18157)|null|
 |**2025-02-25**|**SASSHA: Sharpness-aware Adaptive Second-order Optimization with Stable Hessian Approximation**|Dahun Shin et.al.|[2502.18153](http://arxiv.org/abs/2502.18153)|null|
 |**2025-02-25**|**Enhancing Reusability of Learned Skills for Robot Manipulation via Gaze and Bottleneck**|Ryo Takizawa et.al.|[2502.18121](http://arxiv.org/abs/2502.18121)|null|
-|**2025-02-25**|**A Fusion Model for Art Style and Author Recognition Based on Convolutional Neural Networks and Transformers**|Zhenyu Wang et.al.|[2502.18083](http://arxiv.org/abs/2502.18083)|null|
+|**2025-02-26**|**A Fusion Model for Art Author Identification Based on Convolutional Neural Networks and Transformers**|Zhenyu Wang et.al.|[2502.18083](http://arxiv.org/abs/2502.18083)|null|
 |**2025-02-25**|**HEROS-GAN: Honed-Energy Regularized and Optimal Supervised GAN for Enhancing Accuracy and Range of Low-Cost Accelerometers**|Yifeng Wang et.al.|[2502.18064](http://arxiv.org/abs/2502.18064)|null|
 |**2025-02-25**|**Patient Trajectory Prediction: Integrating Clinical Notes with Transformers**|Sifal Klioui et.al.|[2502.18009](http://arxiv.org/abs/2502.18009)|**[link](https://github.com/MostHumble/PatientTrajectoryForecasting)**|
 |**2025-02-25**|**GNN-XAR: A Graph Neural Network for Explainable Activity Recognition in Smart Homes**|Michele Fiori et.al.|[2502.17999](http://arxiv.org/abs/2502.17999)|null|
@@ -1384,7 +1384,7 @@ layout: default
 |**2025-02-25**|**Robust and Efficient Deep Hedging via Linearized Objective Neural Network**|Lei Zhao et.al.|[2502.17757](http://arxiv.org/abs/2502.17757)|null|
 |**2025-02-24**|**Can Score-Based Generative Modeling Effectively Handle Medical Image Classification?**|Sushmita Sarker et.al.|[2502.17727](http://arxiv.org/abs/2502.17727)|null|
 |**2025-02-24**|**IBURD: Image Blending for Underwater Robotic Detection**|Jungseok Hong et.al.|[2502.17706](http://arxiv.org/abs/2502.17706)|null|
-|**2025-02-24**|**CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement**|Lei Chenga et.al.|[2502.17648](http://arxiv.org/abs/2502.17648)|null|
+|**2025-02-26**|**CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement**|Lei Cheng et.al.|[2502.17648](http://arxiv.org/abs/2502.17648)|null|
 |**2025-02-24**|**The Power of Graph Signal Processing for Chip Placement Acceleration**|Yiting Liu et.al.|[2502.17632](http://arxiv.org/abs/2502.17632)|null|
 |**2025-02-24**|**Characterizing the Conformational States of G Protein Coupled Receptors Generated with AlphaFold**|Garima Chib et.al.|[2502.17628](http://arxiv.org/abs/2502.17628)|null|
 |**2025-02-24**|**Theory-guided Pseudo-spectral Full Waveform Inversion via Deep Neural Networks**|Christopher Zerafa et.al.|[2502.17624](http://arxiv.org/abs/2502.17624)|null|
@@ -10186,7 +10186,7 @@ layout: default
 |**2023-10-17**|**TacticAI: an AI assistant for football tactics**|Zhe Wang et.al.|[2310.10553](http://arxiv.org/abs/2310.10553)|null|
 |**2023-10-16**|**Riemannian Residual Neural Networks**|Isay Katsman et.al.|[2310.10013](http://arxiv.org/abs/2310.10013)|null|
 |**2024-11-19**|**GeSS: Benchmarking Geometric Deep Learning under Scientific Applications with Distribution Shifts**|Deyu Zou et.al.|[2310.08677](http://arxiv.org/abs/2310.08677)|**[link](https://github.com/graph-com/gess)**|
-|**2023-11-21**|**LGL-BCI: A Lightweight Geometric Learning Framework for Motor Imagery-Based Brain-Computer Interfaces**|Jianchao Lu et.al.|[2310.08051](http://arxiv.org/abs/2310.08051)|null|
+|**2025-02-26**|**LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning**|Jianchao Lu et.al.|[2310.08051](http://arxiv.org/abs/2310.08051)|null|
 |**2023-12-06**|**Growing ecosystem of deep learning methods for modeling protein $\unicode{x2013}$ protein interactions**|Julia R. Rogers et.al.|[2310.06725](http://arxiv.org/abs/2310.06725)|null|
 |**2023-11-13**|**Joint Group Invariant Functions on Data-Parameter Domain Induce Universal Neural Networks**|Sho Sonoda et.al.|[2310.03530](http://arxiv.org/abs/2310.03530)|null|
 |**2023-11-01**|**Differentiable Modeling and Optimization of Battery Electrolyte Mixtures Using Geometric Deep Learning**|Shang Zhu et.al.|[2310.03047](http://arxiv.org/abs/2310.03047)|null|
