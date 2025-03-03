@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -362,7 +362,7 @@ layout: default
 |**2024-10-17**|**Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model**|Yida Xiong et.al.|[2410.13597](http://arxiv.org/abs/2410.13597)|null|
 |**2025-02-17**|**MING: A Functional Approach to Learning Molecular Generative Models**|Van Khoa Nguyen et.al.|[2410.12522](http://arxiv.org/abs/2410.12522)|null|
 |**2024-10-15**|**It Takes Two to Tango: Directly Optimizing for Constrained Synthesizability in Generative Molecular Design**|Jeff Guo et.al.|[2410.11527](http://arxiv.org/abs/2410.11527)|**[link](https://github.com/schwallergroup/saturn)**|
-|**2024-10-14**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
+|**2025-02-28**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
 |**2024-10-11**|**nach0-pc: Multi-task Language Model with Molecular Point Cloud Encoder**|Maksim Kuznetsov et.al.|[2410.09240](http://arxiv.org/abs/2410.09240)|null|
 |**2024-10-09**|**Chemistry-Inspired Diffusion with Non-Differentiable Guidance**|Yuchen Shen et.al.|[2410.06502](http://arxiv.org/abs/2410.06502)|null|
 |**2024-10-08**|**SymDiff: Equivariant Diffusion via Stochastic Symmetrisation**|Leo Zhang et.al.|[2410.06262](http://arxiv.org/abs/2410.06262)|null|
@@ -371,7 +371,7 @@ layout: default
 |**2024-10-04**|**Generative Artificial Intelligence for Navigating Synthesizable Chemical Space**|Wenhao Gao et.al.|[2410.03494](http://arxiv.org/abs/2410.03494)|**[link](https://github.com/wenhao-gao/synformer)**|
 |**2025-02-17**|**Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity**|Hyosoon Jang et.al.|[2410.03138](http://arxiv.org/abs/2410.03138)|null|
 |**2024-10-03**|**G2T-LLM: Graph-to-Tree Text Encoding for Molecule Generation with Fine-Tuned Large Language Models**|Zhaoning Yu et.al.|[2410.02198](http://arxiv.org/abs/2410.02198)|null|
-|**2024-10-02**|**Discrete Diffusion Schrödinger Bridge Matching for Graph Transformation**|Jun Hyeong Kim et.al.|[2410.01500](http://arxiv.org/abs/2410.01500)|null|
+|**2025-02-28**|**Discrete Diffusion Schrödinger Bridge Matching for Graph Transformation**|Jun Hyeong Kim et.al.|[2410.01500](http://arxiv.org/abs/2410.01500)|null|
 |**2024-09-29**|**When Molecular GAN Meets Byte-Pair Encoding**|Huidong Tang et.al.|[2409.19740](http://arxiv.org/abs/2409.19740)|null|
 |**2024-09-24**|**Quantum Machine Learning in Drug Discovery: Applications in Academia and Pharmaceutical Industries**|Anthony M. Smaldone et.al.|[2409.15645](http://arxiv.org/abs/2409.15645)|null|
 |**2024-09-13**|**Quantum-inspired Reinforcement Learning for Synthesizable Drug Design**|Dannong Wang et.al.|[2409.09183](http://arxiv.org/abs/2409.09183)|null|
@@ -545,7 +545,7 @@ layout: default
 |**2024-10-16**|**Multimodal Fusion with Relational Learning for Molecular Property Prediction**|Zhengyang Zhou et.al.|[2410.12128](http://arxiv.org/abs/2410.12128)|null|
 |**2024-10-15**|**Large-Scale Knowledge Integration for Enhanced Molecular Property Prediction**|Yasir Ghunaim et.al.|[2410.11914](http://arxiv.org/abs/2410.11914)|**[link](https://github.com/yasir-ghunaim/kano-chebi)**|
 |**2024-12-18**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction**|Longlong Li et.al.|[2410.11323](http://arxiv.org/abs/2410.11323)|null|
-|**2024-10-14**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
+|**2025-02-28**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
 |**2024-10-13**|**TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining**|Ruiyi Zhang et.al.|[2410.10006](http://arxiv.org/abs/2410.10006)|null|
 |**2024-10-30**|**Predicting Molecular Ground-State Conformation via Conformation Optimization**|Fanmeng Wang et.al.|[2410.09795](http://arxiv.org/abs/2410.09795)|null|
 |**2024-10-11**|**Unveiling Molecular Secrets: An LLM-Augmented Linear Model for Explainable and Calibratable Molecular Property Prediction**|Zhuoran Li et.al.|[2410.08829](http://arxiv.org/abs/2410.08829)|**[link](https://github.com/molex2024/molex)**|
@@ -1419,7 +1419,7 @@ layout: default
 |**2025-02-25**|**Understanding Untrained Deep Models for Inverse Problems: Algorithms and Theory**|Ismail Alkhouri et.al.|[2502.18612](http://arxiv.org/abs/2502.18612)|null|
 |**2025-02-25**|**Tighten The Lasso: A Convex Hull Volume-based Anomaly Detection Method**|Uri Itai et.al.|[2502.18601](http://arxiv.org/abs/2502.18601)|null|
 |**2025-02-25**|**Application of Attention Mechanism with Bidirectional Long Short-Term Memory (BiLSTM) and CNN for Human Conflict Detection using Computer Vision**|Erick da Silva Farias et.al.|[2502.18555](http://arxiv.org/abs/2502.18555)|null|
-|**2025-02-25**|**Applications of Statistical Field Theory in Deep Learning**|Zohar Ringel et.al.|[2502.18553](http://arxiv.org/abs/2502.18553)|null|
+|**2025-02-28**|**Applications of Statistical Field Theory in Deep Learning**|Zohar Ringel et.al.|[2502.18553](http://arxiv.org/abs/2502.18553)|null|
 |**2025-02-25**|**Convolutional neural networks for mineral prospecting through alteration mapping with remote sensing data**|Ehsan Farahbakhsh et.al.|[2502.18533](http://arxiv.org/abs/2502.18533)|null|
 |**2025-02-25**|**MedKAN: An Advanced Kolmogorov-Arnold Network for Medical Image Classification**|Zhuoqin Yang et.al.|[2502.18416](http://arxiv.org/abs/2502.18416)|null|
 |**2025-02-25**|**MindMem: Multimodal for Predicting Advertisement Memorability Using LLMs and Deep Learning**|Sepehr Asgarian et.al.|[2502.18371](http://arxiv.org/abs/2502.18371)|null|
@@ -1446,7 +1446,7 @@ layout: default
 |**2025-02-25**|**From underwater to aerial: a novel multi-scale knowledge distillation approach for coral reef monitoring**|Matteo Contini et.al.|[2502.17883](http://arxiv.org/abs/2502.17883)|**[link](https://github.com/seatizendoi/zenodo-tools)**|
 |**2025-02-25**|**VVRec: Reconstruction Attacks on DL-based Volumetric Video Upstreaming via Latent Diffusion Model with Gamma Distribution**|Rui Lu et.al.|[2502.17880](http://arxiv.org/abs/2502.17880)|null|
 |**2025-02-25**|**Neural Graph Matching Improves Retrieval Augmented Generation in Molecular Machine Learning**|Runzhong Wang et.al.|[2502.17874](http://arxiv.org/abs/2502.17874)|null|
-|**2025-02-25**|**EEGM2: An Efficient Mamba-2-Based Self-Supervised Framework for Long-Sequence EEG Modeling**|Jiazhen Hong et.al.|[2502.17873](http://arxiv.org/abs/2502.17873)|null|
+|**2025-02-25**|**EEGM2: An Efficient Mamba-2-Based Self-Supervised Framework for Long-Sequence EEG Modeling**|Jiazhen Hong et.al.|[2502.17873](http://arxiv.org/abs/2502.17873)|**[link](https://github.com/Jiazhen-Hong/EEGM2)**|
 |**2025-02-25**|**Sketch-1-to-3: One Single Sketch to 3D Detailed Face Reconstruction**|Liting Wen et.al.|[2502.17852](http://arxiv.org/abs/2502.17852)|null|
 |**2025-02-25**|**Weakly Supervised Pixel-Level Annotation with Visual Interpretability**|Basma Nasir et.al.|[2502.17824](http://arxiv.org/abs/2502.17824)|null|
 |**2025-02-25**|**An Overview of Large Language Models for Statisticians**|Wenlong Ji et.al.|[2502.17814](http://arxiv.org/abs/2502.17814)|null|
