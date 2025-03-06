@@ -58,6 +58,7 @@
 |**2024-12-04**|**3D Interaction Geometric Pre-training for Molecular Relational Learning**|Namkyeong Lee et.al.|[2412.02957](http://arxiv.org/abs/2412.02957)|**[link](https://github.com/Namkyeong/3DMRL)**|
 |**2025-01-02**|**COMET:Combined Matrix for Elucidating Targets**|Haojie Wang et.al.|[2412.02471](http://arxiv.org/abs/2412.02471)|null|
 |**2024-11-27**|**A Size-Dependent Ideal Solution Model for Liquid-Solid Phase Equilibria Prediction in Aqueous Organic Solutions**|Spencer P. Alliston et.al.|[2411.17968](http://arxiv.org/abs/2411.17968)|null|
+|**2025-03-05**|**DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration**|Sizhe Liu et.al.|[2411.15692](http://arxiv.org/abs/2411.15692)|null|
 |**2025-01-20**|**Scaling Structure Aware Virtual Screening to Billions of Molecules with SPRINT**|Andrew T. McNutt et.al.|[2411.15418](http://arxiv.org/abs/2411.15418)|**[link](https://github.com/abhinadduri/panspecies-dti)**|
 |**2024-11-12**|**Feedback between microscopic activity and macroscopic dynamics drives excitability and oscillations in mechanochemical matter**|Tim Dullweber et.al.|[2411.15165](http://arxiv.org/abs/2411.15165)|null|
 |**2024-11-20**|**DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback**|Mahsa Sheikholeslami et.al.|[2411.14157](http://arxiv.org/abs/2411.14157)|**[link](https://huggingface.co/spaces/alimotahharynia/GPT-2-Drug-Generator)**|
@@ -351,6 +352,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization**|Jiajun Yu et.al.|[2503.03503](http://arxiv.org/abs/2503.03503)|null|
+|**2025-03-04**|**Straight-Line Diffusion Model for Efficient 3D Molecular Generation**|Yuyan Ni et.al.|[2503.02918](http://arxiv.org/abs/2503.02918)|null|
 |**2025-03-03**|**Dynamic Search for Inference-Time Alignment in Diffusion Models**|Xiner Li et.al.|[2503.02039](http://arxiv.org/abs/2503.02039)|null|
 |**2025-03-03**|**InversionGNN: A Dual Path Network for Multi-Property Molecular Optimization**|Yifan Niu et.al.|[2503.01488](http://arxiv.org/abs/2503.01488)|null|
 |**2025-03-02**|**Molecule Generation for Target Protein Binding with Hierarchical Consistency Diffusion Model**|Guanlue Li et.al.|[2503.00975](http://arxiv.org/abs/2503.00975)|null|
@@ -535,6 +538,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Transformers for molecular property prediction: Domain adaptation efficiently improves performance**|Afnan Sultan et.al.|[2503.03360](http://arxiv.org/abs/2503.03360)|null|
 |**2025-02-20**|**Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks**|Maya Bechler-Speicher et.al.|[2502.14546](http://arxiv.org/abs/2502.14546)|null|
 |**2025-02-17**|**Locally-Deployed Chain-of-Thought (CoT) Reasoning Model in Chemical Engineering: Starting from 30 Experimental Data**|Tianhang Zhou et.al.|[2502.12383](http://arxiv.org/abs/2502.12383)|null|
 |**2025-02-17**|**Knowledge-aware contrastive heterogeneous molecular graph learning**|Mukun Chen et.al.|[2502.11711](http://arxiv.org/abs/2502.11711)|null|
@@ -728,6 +732,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Evaluating Compression and Nanoindentation in FCC Nickel: A Methodology for Interatomic Potential Selection**|K. Cichocki et.al.|[2503.03723](http://arxiv.org/abs/2503.03723)|null|
+|**2025-03-05**|**On the possibility of chiral symmetry breaking in liquid hydrogen peroxide**|Roberto Menta et.al.|[2503.03385](http://arxiv.org/abs/2503.03385)|null|
+|**2025-03-05**|**Dynamics of stiff filaments in size-polydisperse hard sphere fluids**|Thokchom Premkumar Meitei et.al.|[2503.03264](http://arxiv.org/abs/2503.03264)|null|
+|**2025-03-05**|**Structural, vibrational, and transport properties of compound forming liquid Li-Bi alloys**|S. G. Khambholja et.al.|[2503.03175](http://arxiv.org/abs/2503.03175)|null|
 |**2025-03-04**|**Viscosity of polymer melts using non-affine theory based on vibrational modes**|Ankit Singh et.al.|[2503.02806](http://arxiv.org/abs/2503.02806)|null|
 |**2025-03-04**|**Four regimes of primary radiation damage in tungsten**|Jesper Byggmästar et.al.|[2503.02710](http://arxiv.org/abs/2503.02710)|null|
 |**2025-03-04**|**Smart Reaction Templating: A Graph-Based Method for Automated Molecular Dynamics Input Generation**|Julian Konrad et.al.|[2503.02678](http://arxiv.org/abs/2503.02678)|null|
@@ -1389,6 +1397,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Deep Causal Behavioral Policy Learning: Applications to Healthcare**|Jonas Knecht et.al.|[2503.03724](http://arxiv.org/abs/2503.03724)|null|
+|**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664](http://arxiv.org/abs/2503.03664)|null|
+|**2025-03-05**|**Transformer-Based Power Optimization for Max-Min Fairness in Cell-Free Massive MIMO**|Irched Chafaa et.al.|[2503.03561](http://arxiv.org/abs/2503.03561)|null|
+|**2025-03-05**|**Simulation-Based Performance Evaluation of 3D Object Detection Methods with Deep Learning for a LiDAR Point Cloud Dataset in a SOTIF-related Use Case**|Milin Patel et.al.|[2503.03548](http://arxiv.org/abs/2503.03548)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
+|**2025-03-05**|**Active Learning for Deep Learning-Based Hemodynamic Parameter Estimation**|Patryk Rygiel et.al.|[2503.03453](http://arxiv.org/abs/2503.03453)|null|
+|**2025-03-05**|**Automatic Drywall Analysis for Progress Tracking and Quality Control in Construction**|Mariusz Trzeciakiewicz et.al.|[2503.03422](http://arxiv.org/abs/2503.03422)|null|
+|**2025-03-05**|**Augmentation-Based Deep Learning for Identification of Circulating Tumor Cells**|Martina Russo et.al.|[2503.03410](http://arxiv.org/abs/2503.03410)|null|
+|**2025-03-05**|**Deep Learning-Based Diffusion MRI Tractography: Integrating Spatial and Anatomical Information**|Yiqiong Yang et.al.|[2503.03329](http://arxiv.org/abs/2503.03329)|null|
+|**2025-03-05**|**TrafficKAN-GCN: Graph Convolutional-based Kolmogorov-Arnold Network for Traffic Flow Optimization**|Jiayi Zhang et.al.|[2503.03276](http://arxiv.org/abs/2503.03276)|null|
+|**2025-03-05**|**PathRWKV: Enabling Whole Slide Prediction with Recurrent-Transformer**|Sicheng Chen et.al.|[2503.03199](http://arxiv.org/abs/2503.03199)|null|
+|**2025-03-05**|**Intermediate-Task Transfer Learning: Leveraging Sarcasm Detection for Stance Detection**|Gibson Nkhata et.al.|[2503.03172](http://arxiv.org/abs/2503.03172)|null|
+|**2025-03-05**|**UnPuzzle: A Unified Framework for Pathology Image Analysis**|Dankai Liao et.al.|[2503.03152](http://arxiv.org/abs/2503.03152)|null|
+|**2025-03-05**|**Exploring Neural Ordinary Differential Equations as Interpretable Healthcare classifiers**|Shi Li et.al.|[2503.03129](http://arxiv.org/abs/2503.03129)|null|
+|**2025-03-05**|**A Multimodal Framework for Topic Propagation Classification in Social Networks**|Yuchuan Jiang et.al.|[2503.03112](http://arxiv.org/abs/2503.03112)|null|
+|**2025-03-05**|**An Improved Pure Fully Connected Neural Network for Rice Grain Classification**|Wanke Xia et.al.|[2503.03111](http://arxiv.org/abs/2503.03111)|null|
+|**2025-03-05**|**HEPHA: A Mixed-Initiative Image Labeling Tool for Specialized Domains**|Shiyuan Zhou et.al.|[2503.03094](http://arxiv.org/abs/2503.03094)|**[link](https://github.com/Neural-Symbolic-Image-Labeling/NSILWeb)**|
+|**2025-03-05**|**Hopfield Networks Meet Big Data: A Brain-Inspired Deep Learning Framework for Semantic Data Linking**|Ashwin Viswanathan Kannan et.al.|[2503.03084](http://arxiv.org/abs/2503.03084)|null|
+|**2025-03-04**|**Learning from Noisy Labels with Contrastive Co-Transformer**|Yan Han et.al.|[2503.03042](http://arxiv.org/abs/2503.03042)|null|
+|**2025-03-04**|**Multi-Step Deep Koopman Network (MDK-Net) for Vehicle Control in Frenet Frame**|Mohammad Abtahi et.al.|[2503.03002](http://arxiv.org/abs/2503.03002)|null|
+|**2025-03-04**|**HARP 2.0: Expanding Hosted, Asynchronous, Remote Processing for Deep Learning in the DAW**|Christodoulos Benetatos et.al.|[2503.02977](http://arxiv.org/abs/2503.02977)|null|
+|**2025-03-04**|**Revolutionizing Traffic Management with AI-Powered Machine Vision: A Step Toward Smart Cities**|Seyed Hossein Hosseini DolatAbadi et.al.|[2503.02967](http://arxiv.org/abs/2503.02967)|null|
+|**2025-03-04**|**ExposNet: A Deep Learning Framework for EMF Exposure Prediction in Complex Urban Environments**|Yarui Zhang et.al.|[2503.02966](http://arxiv.org/abs/2503.02966)|null|
+|**2025-03-04**|**Monocular visual simultaneous localization and mapping: (r)evolution from geometry to deep learning-based pipelines**|Olaya Alvarez-Tunon et.al.|[2503.02955](http://arxiv.org/abs/2503.02955)|null|
+|**2025-03-04**|**Interpretable Few-Shot Retinal Disease Diagnosis with Concept-Guided Prompting of Vision-Language Models**|Deval Mehta et.al.|[2503.02917](http://arxiv.org/abs/2503.02917)|null|
+|**2025-03-03**|**Hyperspectral Image Restoration and Super-resolution with Physics-Aware Deep Learning for Biomedical Applications**|Yuchen Xiang et.al.|[2503.02908](http://arxiv.org/abs/2503.02908)|null|
 |**2025-03-04**|**Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**|Amin Honarmandi Shandiz et.al.|[2503.02849](http://arxiv.org/abs/2503.02849)|null|
 |**2025-03-04**|**Precision phenomenology of the PDF-BSM interplay**|Manuel Morales Alvarado et.al.|[2503.02827](http://arxiv.org/abs/2503.02827)|null|
 |**2025-03-04**|**A Minimalist Example of Edge-of-Stability and Progressive Sharpening**|Liming Liu et.al.|[2503.02809](http://arxiv.org/abs/2503.02809)|null|
@@ -10396,7 +10429,7 @@
 |**2024-06-15**|**Polytopal mesh agglomeration via geometrical deep learning for three-dimensional heterogeneous domains**|Paola F. Antonietti et.al.|[2406.10587](http://arxiv.org/abs/2406.10587)|null|
 |**2024-07-10**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
 |**2024-12-16**|**DenseSeg: Joint Learning for Semantic Segmentation and Landmark Detection Using Dense Image-to-Shape Representation**|Ron Keuth et.al.|[2405.19746](http://arxiv.org/abs/2405.19746)|**[link](https://github.com/MDL-UzL/DenseSeg)**|
-|**2024-08-09**|**Tensor Frames -- How To Make Any Message Passing Network Equivariant**|Peter Lippmann et.al.|[2405.15389](http://arxiv.org/abs/2405.15389)|null|
+|**2025-03-05**|**Beyond Canonicalization: How Tensorial Messages Improve Equivariant Message Passing**|Peter Lippmann et.al.|[2405.15389](http://arxiv.org/abs/2405.15389)|null|
 |**2024-09-26**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|**[link](https://github.com/tk-rusch/mpmc)**|
 |**2024-05-15**|**Kuramoto Oscillators and Swarms on Manifolds for Geometry Informed Machine Learning**|Vladimir Jacimovic et.al.|[2405.09453](http://arxiv.org/abs/2405.09453)|null|
 |**2024-05-07**|**Predicting Transonic Flowfields in Non-Homogeneous Unstructured Grids Using Autoencoder Graph Convolutional Networks**|Gabriele Immordino et.al.|[2405.04396](http://arxiv.org/abs/2405.04396)|null|
