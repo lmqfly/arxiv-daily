@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.05
+## Updated on 2025.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -532,7 +532,7 @@ layout: default
 |**2025-01-11**|**Dual-Modality Representation Learning for Molecular Property Prediction**|Anyin Zhao et.al.|[2501.06608](http://arxiv.org/abs/2501.06608)|null|
 |**2025-01-01**|**Active and transfer learning with partially Bayesian neural networks for materials and chemicals**|Sarah I. Allec et.al.|[2501.00952](http://arxiv.org/abs/2501.00952)|**[link](https://github.com/ziatdinovmax/neurobayes)**|
 |**2025-01-01**|**Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments, Analysis, and Improvements**|Haoyang Li et.al.|[2501.00773](http://arxiv.org/abs/2501.00773)|null|
-|**2024-12-24**|**Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models**|Xuan Lin et.al.|[2412.18084](http://arxiv.org/abs/2412.18084)|**[link](https://github.com/chenlong164/peit)**|
+|**2025-03-05**|**Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models**|Xuan Lin et.al.|[2412.18084](http://arxiv.org/abs/2412.18084)|**[link](https://github.com/chenlong164/peit)**|
 |**2025-02-06**|**MOL-Mamba: Enhancing Molecular Representation with Structural & Electronic Insights**|Jingjing Hu et.al.|[2412.16483](http://arxiv.org/abs/2412.16483)|**[link](https://github.com/xian-sh/mol-mamba)**|
 |**2024-12-12**|**RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction**|Zhihao Ding et.al.|[2412.09030](http://arxiv.org/abs/2412.09030)|**[link](https://github.com/TommyDzh/RingFormer)**|
 |**2024-12-08**|**M $^{3}$ -20M: A Large-Scale Multi-Modal Molecule Dataset for AI-driven Drug Design and Discovery**|Siyuan Guo et.al.|[2412.06847](http://arxiv.org/abs/2412.06847)|**[link](https://github.com/bz99bz/m-3)**|
@@ -1417,7 +1417,7 @@ layout: default
 |**2025-03-03**|**From superposition to sparse codes: interpretable representations in neural networks**|David Klindt et.al.|[2503.01824](http://arxiv.org/abs/2503.01824)|null|
 |**2025-03-03**|**Noise to the Rescue: Escaping Local Minima in Neurosymbolic Local Search**|Alessandro Daniele et.al.|[2503.01817](http://arxiv.org/abs/2503.01817)|null|
 |**2025-03-03**|**Camera Measurement of Blood Oxygen Saturation**|Jiankai Tang et.al.|[2503.01699](http://arxiv.org/abs/2503.01699)|null|
-|**2025-03-03**|**Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**|Elahe Delavari et.al.|[2503.01676](http://arxiv.org/abs/2503.01676)|null|
+|**2025-03-05**|**Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**|Elahe Delavari et.al.|[2503.01676](http://arxiv.org/abs/2503.01676)|null|
 |**2025-03-03**|**Non-convergence to the optimal risk for Adam and stochastic gradient descent optimization in the training of deep neural networks**|Thang Do et.al.|[2503.01660](http://arxiv.org/abs/2503.01660)|null|
 |**2025-03-03**|**Enhancing Object Detection Accuracy in Underwater Sonar Images through Deep Learning-based Denoising**|Ziyu Wang et.al.|[2503.01655](http://arxiv.org/abs/2503.01655)|null|
 |**2025-03-03**|**M-SCAN: A Multistage Framework for Lumbar Spinal Canal Stenosis Grading Using Multi-View Cross Attention**|Arnesh Batra et.al.|[2503.01634](http://arxiv.org/abs/2503.01634)|null|
@@ -1434,7 +1434,7 @@ layout: default
 |**2025-03-03**|**The Road Less Traveled: Investigating Robustness and Explainability in CNN Malware Detection**|Matteo Brosolo et.al.|[2503.01391](http://arxiv.org/abs/2503.01391)|null|
 |**2025-03-03**|**MR-WAVES: MR Water-diffusion And Vascular Effects Simulations**|Thomas Coudert et.al.|[2503.01318](http://arxiv.org/abs/2503.01318)|null|
 |**2025-03-03**|**From Claims to Evidence: A Unified Framework and Critical Analysis of CNN vs. Transformer vs. Mamba in Medical Image Segmentation**|Pooya Mohammadi Kazaj et.al.|[2503.01306](http://arxiv.org/abs/2503.01306)|null|
-|**2025-03-03**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297](http://arxiv.org/abs/2503.01297)|null|
+|**2025-03-05**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297](http://arxiv.org/abs/2503.01297)|null|
 |**2025-03-03**|**OIPR: Evaluation for Time-series Anomaly Detection Inspired by Operator Interest**|Yuhan Jing et.al.|[2503.01260](http://arxiv.org/abs/2503.01260)|null|
 |**2025-03-03**|**Prior-Fitted Networks Scale to Larger Datasets When Treated as Weak Learners**|Yuxin Wang et.al.|[2503.01256](http://arxiv.org/abs/2503.01256)|**[link](https://github.com/yxzwang/boostpfn)**|
 |**2025-03-04**|**NM-SpMM: Accelerating Matrix Multiplication Using N:M Sparsity with GPGPU**|Cong Ma et.al.|[2503.01253](http://arxiv.org/abs/2503.01253)|null|
