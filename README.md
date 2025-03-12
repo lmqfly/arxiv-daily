@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -221,7 +221,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## DDI
 
@@ -347,7 +347,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## MG
 
@@ -389,7 +389,7 @@
 |**2024-10-15**|**It Takes Two to Tango: Directly Optimizing for Constrained Synthesizability in Generative Molecular Design**|Jeff Guo et.al.|[2410.11527](http://arxiv.org/abs/2410.11527)|**[link](https://github.com/schwallergroup/saturn)**|
 |**2025-02-28**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
 |**2024-10-11**|**nach0-pc: Multi-task Language Model with Molecular Point Cloud Encoder**|Maksim Kuznetsov et.al.|[2410.09240](http://arxiv.org/abs/2410.09240)|null|
-|**2024-10-09**|**Chemistry-Inspired Diffusion with Non-Differentiable Guidance**|Yuchen Shen et.al.|[2410.06502](http://arxiv.org/abs/2410.06502)|null|
+|**2025-03-11**|**Chemistry-Inspired Diffusion with Non-Differentiable Guidance**|Yuchen Shen et.al.|[2410.06502](http://arxiv.org/abs/2410.06502)|null|
 |**2025-03-02**|**SymDiff: Equivariant Diffusion via Stochastic Symmetrisation**|Leo Zhang et.al.|[2410.06262](http://arxiv.org/abs/2410.06262)|null|
 |**2024-10-05**|**Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning**|Gang Liu et.al.|[2410.04223](http://arxiv.org/abs/2410.04223)|**[link](https://github.com/liugangcode/Llamole)**|
 |**2025-02-10**|**Geometric Representation Condition Improves Equivariant Molecule Generation**|Zian Li et.al.|[2410.03655](http://arxiv.org/abs/2410.03655)|null|
@@ -534,7 +534,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## MPP
 
@@ -729,12 +729,14 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## MD
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Three-phase equilibria of CO $_2$ hydrate from computer simulation in presence of NaCl**|A. Borrero et.al.|[2503.07502](http://arxiv.org/abs/2503.07502)|null|
+|**2025-03-10**|**Composition effect in the thermo-mechanical behavior of glasses, and its modelization**|Rene Alvarez-Donado et.al.|[2503.07494](http://arxiv.org/abs/2503.07494)|null|
 |**2025-03-10**|**Radiation damage and phase stability of Al $_x$CrCuFeNi$_y$ alloys using a machine-learned interatomic potential**|Aslak Fellman et.al.|[2503.07344](http://arxiv.org/abs/2503.07344)|null|
 |**2025-03-09**|**Surface Orientation-dependent Corrosion Behavior of NiCr Alloys in Molten FLiNaK Salt**|Hamdy Arkoub et.al.|[2503.06388](http://arxiv.org/abs/2503.06388)|null|
 |**2025-03-08**|**Temperature-driven structural phase transitions in SmNiO3: insights from deep potential molecular dynamics simulations**|Guoyong Shi et.al.|[2503.06039](http://arxiv.org/abs/2503.06039)|null|
@@ -1403,17 +1405,18 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Split-n-Chain: Privacy-Preserving Multi-Node Split Learning with Blockchain-Based Auditability**|Mukesh Sahani et.al.|[2503.07570](http://arxiv.org/abs/2503.07570)|null|
 |**2025-03-10**|**Learning to Localize Leakage of Cryptographic Sensitive Variables**|Jimmy Gammell et.al.|[2503.07464](http://arxiv.org/abs/2503.07464)|null|
 |**2025-03-10**|**Early signs of stuck pipe detection based on Crossformer**|Bo Cao et.al.|[2503.07440](http://arxiv.org/abs/2503.07440)|null|
 |**2025-03-10**|**Inorganic Catalyst Efficiency Prediction Based on EAPCR Model: A Deep Learning Solution for Multi-Source Heterogeneous Data**|Zhangdi Liu et.al.|[2503.07424](http://arxiv.org/abs/2503.07424)|null|
 |**2025-03-10**|**Analysis of 3D Urticaceae Pollen Classification Using Deep Learning Models**|Tijs Konijn et.al.|[2503.07419](http://arxiv.org/abs/2503.07419)|null|
-|**2025-03-10**|**Materials Map Integrating Experimental and Computational Data through Graph-Based Machine Learning for Enhanced Materials Discovery**|Yusuke Hashimoto et.al.|[2503.07378](http://arxiv.org/abs/2503.07378)|null|
+|**2025-03-11**|**Materials Map Integrating Experimental and Computational Data through Graph-Based Machine Learning for Enhanced Materials Discovery**|Yusuke Hashimoto et.al.|[2503.07378](http://arxiv.org/abs/2503.07378)|null|
 |**2025-03-10**|**Research and Design on Intelligent Recognition of Unordered Targets for Robots Based on Reinforcement Learning**|Yiting Mao et.al.|[2503.07340](http://arxiv.org/abs/2503.07340)|null|
 |**2025-03-10**|**DeepNuParc: A Novel Deep Clustering Framework for Fine-scale Parcellation of Brain Nuclei Using Diffusion MRI Tractography**|Haolin He et.al.|[2503.07263](http://arxiv.org/abs/2503.07263)|**[link](https://github.com/HarlandZZC/deep_nuclei_parcellation)**|
 |**2025-03-10**|**A Deep Learning Architecture for Land Cover Mapping Using Spatio-Temporal Sentinel-1 Features**|Luigi Russo et.al.|[2503.07230](http://arxiv.org/abs/2503.07230)|null|
@@ -1429,7 +1432,7 @@
 |**2025-03-10**|**Weak Supervision for Improved Precision in Search Systems**|Sriram Vasudevan et.al.|[2503.07025](http://arxiv.org/abs/2503.07025)|null|
 |**2025-03-10**|**Vib2Mol: from vibrational spectra to molecular structures-a versatile deep learning model**|Xinyu Lu et.al.|[2503.07014](http://arxiv.org/abs/2503.07014)|null|
 |**2025-03-10**|**Learning Decision Trees as Amortized Structure Inference**|Mohammed Mahfoud et.al.|[2503.06985](http://arxiv.org/abs/2503.06985)|**[link](https://github.com/GFNOrg/dt-gfn)**|
-|**2025-03-10**|**MIGA: Mutual Information-Guided Attack on Denoising Models for Semantic Manipulation**|Guanghao Li et.al.|[2503.06966](http://arxiv.org/abs/2503.06966)|null|
+|**2025-03-11**|**MIGA: Mutual Information-Guided Attack on Denoising Models for Semantic Manipulation**|Guanghao Li et.al.|[2503.06966](http://arxiv.org/abs/2503.06966)|null|
 |**2025-03-10**|**Deuterium-deuterium fusion charged particle detection using CR-39 and Deep Learning Model**|Yuxing Wang et.al.|[2503.06932](http://arxiv.org/abs/2503.06932)|null|
 |**2025-03-10**|**Assessing Uncertainty in Stock Returns: A Gaussian Mixture Distribution-Based Method**|Yanlong Wang et.al.|[2503.06929](http://arxiv.org/abs/2503.06929)|null|
 |**2025-03-10**|**Improving cognitive diagnostics in pathology: a deep learning approach for augmenting perceptional understanding of histopathology images**|Xiaoqian Hu et.al.|[2503.06894](http://arxiv.org/abs/2503.06894)|null|
@@ -1491,7 +1494,7 @@
 |**2025-03-06**|**Quantifying and Modeling Driving Styles in Trajectory Forecasting**|Laura Zheng et.al.|[2503.04994](http://arxiv.org/abs/2503.04994)|null|
 |**2025-03-06**|**Application of integrated gradients explainability to sociopsychological semantic markers**|Ali Aghababaei et.al.|[2503.04989](http://arxiv.org/abs/2503.04989)|null|
 |**2025-03-06**|**Efficient Algorithms for Verifying Kruskal Rank in Sparse Linear Regression and Related Applications**|Fengqin Zhou et.al.|[2503.04986](http://arxiv.org/abs/2503.04986)|null|
-|**2025-03-06**|**Prediction of Frozen Region Growth in Kidney Cryoablation Intervention Using a 3D Flow-Matching Model**|Siyeop Yoon et.al.|[2503.04966](http://arxiv.org/abs/2503.04966)|null|
+|**2025-03-11**|**Prediction of Frozen Region Growth in Kidney Cryoablation Intervention Using a 3D Flow-Matching Model**|Siyeop Yoon et.al.|[2503.04966](http://arxiv.org/abs/2503.04966)|null|
 |**2025-03-06**|**Energy-Latency Attacks: A New Adversarial Threat to Deep Learning**|Hanene F. Z. Brachemi Meftah et.al.|[2503.04963](http://arxiv.org/abs/2503.04963)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
 |**2025-03-06**|**End-to-End Human Pose Reconstruction from Wearable Sensors for 6G Extended Reality Systems**|Nguyen Quang Hieu et.al.|[2503.04860](http://arxiv.org/abs/2503.04860)|null|
@@ -10317,7 +10320,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Binding
 
@@ -10528,7 +10531,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -10687,7 +10690,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
