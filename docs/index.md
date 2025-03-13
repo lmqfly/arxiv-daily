@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -342,7 +342,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-11**|**Concept-Driven Deep Learning for Enhanced Protein-Specific Molecular Generation**|Taojie Kuang et.al.|[2503.08160](http://arxiv.org/abs/2503.08160)|null|
 |**2025-03-07**|**Mol-CADiff: Causality-Aware Autoregressive Diffusion for Molecule Generation**|Md Atik Ahamed et.al.|[2503.05499](http://arxiv.org/abs/2503.05499)|null|
-|**2025-03-05**|**Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization**|Jiajun Yu et.al.|[2503.03503](http://arxiv.org/abs/2503.03503)|null|
+|**2025-03-05**|**Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization**|Jiajun Yu et.al.|[2503.03503](http://arxiv.org/abs/2503.03503)|**[link](https://github.com/jiajunyu1999/LLM4Drug)**|
 |**2025-03-04**|**Straight-Line Diffusion Model for Efficient 3D Molecular Generation**|Yuyan Ni et.al.|[2503.02918](http://arxiv.org/abs/2503.02918)|null|
 |**2025-03-03**|**Dynamic Search for Inference-Time Alignment in Diffusion Models**|Xiner Li et.al.|[2503.02039](http://arxiv.org/abs/2503.02039)|null|
 |**2025-03-03**|**InversionGNN: A Dual Path Network for Multi-Property Molecular Optimization**|Yifan Niu et.al.|[2503.01488](http://arxiv.org/abs/2503.01488)|**[link](https://github.com/ivanniu/inversiongnn)**|
@@ -357,7 +357,7 @@ layout: default
 |**2025-01-10**|**GenMol: A Drug Discovery Generalist with Discrete Diffusion**|Seul Lee et.al.|[2501.06158](http://arxiv.org/abs/2501.06158)|null|
 |**2025-01-05**|**Unified Guidance for Geometry-Conditioned Molecular Generation**|Sirine Ayadi et.al.|[2501.02526](http://arxiv.org/abs/2501.02526)|null|
 |**2025-01-03**|**Active Learning Enables Extrapolation in Molecular Generative Models**|Evan R. Antoniuk et.al.|[2501.02059](http://arxiv.org/abs/2501.02059)|null|
-|**2025-01-08**|**MADGEN: Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|null|
+|**2025-01-08**|**MADGEN: Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|**[link](https://github.com/HassounLab/MADGEN)**|
 |**2024-12-02**|**Tokenizing 3D Molecule Structure with Quantized Spherical Coordinates**|Kaiyuan Gao et.al.|[2412.01564](http://arxiv.org/abs/2412.01564)|null|
 |**2024-11-25**|**Limeade: Let integer molecular encoding aid**|Shiqiang Zhang et.al.|[2411.16623](http://arxiv.org/abs/2411.16623)|**[link](https://github.com/cog-imperial/limeade)**|
 |**2024-11-23**|**MolMetaLM: a Physicochemical Knowledge-Guided Molecular Meta Language Model**|Yifan Wu et.al.|[2411.15500](http://arxiv.org/abs/2411.15500)|**[link](https://github.com/CSUBioGroup/MolMetaLM)**|
@@ -727,10 +727,10 @@ layout: default
 |**2025-03-10**|**Composition effect in the thermo-mechanical behavior of glasses, and its modelization**|Rene Alvarez-Donado et.al.|[2503.07494](http://arxiv.org/abs/2503.07494)|null|
 |**2025-03-10**|**Radiation damage and phase stability of Al $_x$CrCuFeNi$_y$ alloys using a machine-learned interatomic potential**|Aslak Fellman et.al.|[2503.07344](http://arxiv.org/abs/2503.07344)|null|
 |**2025-03-09**|**Surface Orientation-dependent Corrosion Behavior of NiCr Alloys in Molten FLiNaK Salt**|Hamdy Arkoub et.al.|[2503.06388](http://arxiv.org/abs/2503.06388)|null|
-|**2025-03-08**|**Temperature-driven structural phase transitions in SmNiO3: insights from deep potential molecular dynamics simulations**|Guoyong Shi et.al.|[2503.06039](http://arxiv.org/abs/2503.06039)|null|
+|**2025-03-08**|**Temperature-driven structural phase transitions in SmNiO $_3$ : insights from deep potential molecular dynamics simulations**|Guoyong Shi et.al.|[2503.06039](http://arxiv.org/abs/2503.06039)|null|
 |**2025-03-07**|**Crystal nucleation rates in one-component Yukawa systems**|B. Arnold et.al.|[2503.05902](http://arxiv.org/abs/2503.05902)|null|
 |**2025-02-19**|**Learning conformational ensembles of proteins based on backbone geometry**|Nicolas Wolf et.al.|[2503.05738](http://arxiv.org/abs/2503.05738)|null|
-|**2025-03-07**|**FOSS solution for Molecular Dynamics Simulation Automation and Collaboration with MDSGAT**|J. G. Nelson et.al.|[2503.05113](http://arxiv.org/abs/2503.05113)|null|
+|**2025-03-12**|**FOSS solution for Molecular Dynamics Simulation Automation and Collaboration with MDSGAT**|Jai Geddes Nelson et.al.|[2503.05113](http://arxiv.org/abs/2503.05113)|null|
 |**2025-03-06**|**Giant mobility of surface-trapped ionic charges following liquid tribocharging**|Zouhir Benrahla et.al.|[2503.04987](http://arxiv.org/abs/2503.04987)|null|
 |**2025-03-06**|**T-MSD: An improved method for ionic diffusion coefficient calculation from molecular dynamics**|Yuxiang Gao et.al.|[2503.04281](http://arxiv.org/abs/2503.04281)|null|
 |**2025-03-06**|**Integrating Protein Dynamics into Structure-Based Drug Design via Full-Atom Stochastic Flows**|Xiangxin Zhou et.al.|[2503.03989](http://arxiv.org/abs/2503.03989)|null|
