@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**SOLA-GCL: Subgraph-Oriented Learnable Augmentation Method for Graph Contrastive Learning**|Tianhao Peng et.al.|[2503.10100](http://arxiv.org/abs/2503.10100)|null|
 |**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251](http://arxiv.org/abs/2503.09251)|null|
 |**2025-03-11**|**MuCoS: Efficient Drug Target Discovery via Multi Context Aware Sampling in Knowledge Graphs**|Haji Gul et.al.|[2503.08075](http://arxiv.org/abs/2503.08075)|null|
 |**2025-03-06**|**A Generalist Cross-Domain Molecular Learning Framework for Structure-Based Drug Discovery**|Yiheng Zhu et.al.|[2503.04362](http://arxiv.org/abs/2503.04362)|null|
@@ -720,6 +721,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Active learning for parameter-free multiscale modeling of boundary lubrication**|Hannes Holey et.al.|[2503.09619](http://arxiv.org/abs/2503.09619)|null|
 |**2025-03-12**|**Melting of rods on a sphere via an intermediate hexatic phase**|Jaydeep Mandal et.al.|[2503.09362](http://arxiv.org/abs/2503.09362)|null|
 |**2025-03-12**|**Moiré-Driven Interfacial Thermal Transport in Twisted Transition Metal Dichalcogenides**|Wenwu Jiang et.al.|[2503.09141](http://arxiv.org/abs/2503.09141)|null|
 |**2025-03-11**|**The standard coil or globule phases cannot describe the denatured state of structured proteins and intrinsically disordered proteins**|F. Righini et.al.|[2503.08115](http://arxiv.org/abs/2503.08115)|null|
@@ -744,6 +746,7 @@ layout: default
 |**2025-03-04**|**Viscosity of polymer melts using non-affine theory based on vibrational modes**|Ankit Singh et.al.|[2503.02806](http://arxiv.org/abs/2503.02806)|null|
 |**2025-03-04**|**Four regimes of primary radiation damage in tungsten**|Jesper Byggmästar et.al.|[2503.02710](http://arxiv.org/abs/2503.02710)|null|
 |**2025-03-04**|**Smart Reaction Templating: A Graph-Based Method for Automated Molecular Dynamics Input Generation**|Julian Konrad et.al.|[2503.02678](http://arxiv.org/abs/2503.02678)|null|
+|**2025-03-13**|**Unsaturated Dinitrogen Difluoride under Pressure: toward high-Energy Density Polymerized NF Chains**|Guo Chen et.al.|[2503.02376](http://arxiv.org/abs/2503.02376)|null|
 |**2025-03-03**|**Temporal Correlations and Inelastic Dynamics in a Vibrated Binary Granular Mixture**|Rameez Farooq Shah et.al.|[2503.01414](http://arxiv.org/abs/2503.01414)|null|
 |**2025-02-28**|**Robust and tunable oxide nanoscrolls for solar-driven H $_2$ generation and storage**|Adway Gupta et.al.|[2503.00217](http://arxiv.org/abs/2503.00217)|null|
 |**2025-02-28**|**Structure and Dynamics of Deep Eutectic Systems from Cluster-Optimized Energy Functions**|Kai Töpfer et.al.|[2502.21233](http://arxiv.org/abs/2502.21233)|**[link](https://github.com/MMunibas/DES3)**|
@@ -1400,6 +1403,40 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification**|Rajiv Krishnakumar et.al.|[2503.10510](http://arxiv.org/abs/2503.10510)|null|
+|**2025-03-13**|**Explainable Bayesian deep learning through input-skip Latent Binary Bayesian Neural Networks**|Eirik Høyheim et.al.|[2503.10496](http://arxiv.org/abs/2503.10496)|**[link](https://github.com/eirihoyh/ISLaB-LBBNN)**|
+|**2025-03-13**|**Applying Tabular Deep Learning Models to Estimate Crash Injury Types of Young Motorcyclists**|Shriyank Somvanshi et.al.|[2503.10474](http://arxiv.org/abs/2503.10474)|null|
+|**2025-03-13**|**Deep Learning based discovery of Integrable Systems**|Shailesh Lal et.al.|[2503.10469](http://arxiv.org/abs/2503.10469)|null|
+|**2025-03-13**|**OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary**|Yifeng Yang et.al.|[2503.10468](http://arxiv.org/abs/2503.10468)|null|
+|**2025-03-13**|**BeamLLM: Vision-Empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2503.10432](http://arxiv.org/abs/2503.10432)|null|
+|**2025-03-13**|**Low Complexity Point Tracking of the Myocardium in 2D Echocardiography**|Artem Chernyshov et.al.|[2503.10431](http://arxiv.org/abs/2503.10431)|null|
+|**2025-03-13**|**Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts**|Niklas Houba et.al.|[2503.10398](http://arxiv.org/abs/2503.10398)|null|
+|**2025-03-13**|**A Multimodal Fusion Model Leveraging MLP Mixer and Handcrafted Features-based Deep Learning Networks for Facial Palsy Detection**|Heng Yim Nicole Oo et.al.|[2503.10371](http://arxiv.org/abs/2503.10371)|null|
+|**2025-03-13**|**BioSerenity-E1: a self-supervised EEG model for medical applications**|Ruggero G. Bettinardi et.al.|[2503.10362](http://arxiv.org/abs/2503.10362)|null|
+|**2025-03-13**|**A Hybrid Architecture with Efficient Fine Tuning for Abstractive Patent Document Summarization**|Nevidu Jayatilleke et.al.|[2503.10354](http://arxiv.org/abs/2503.10354)|null|
+|**2025-03-13**|**Targeted Data Poisoning for Black-Box Audio Datasets Ownership Verification**|Wassim Bouaziz et.al.|[2503.10269](http://arxiv.org/abs/2503.10269)|null|
+|**2025-03-13**|**Deep Learning for Time Series Forecasting: A Survey**|Xiangjie Kong et.al.|[2503.10198](http://arxiv.org/abs/2503.10198)|null|
+|**2025-03-13**|**Automatic quality control in multi-centric fetal brain MRI super-resolution reconstruction**|Thomas Sanchez et.al.|[2503.10156](http://arxiv.org/abs/2503.10156)|null|
+|**2025-03-13**|**Multiplicative Learning**|Han Kim et.al.|[2503.10144](http://arxiv.org/abs/2503.10144)|null|
+|**2025-03-13**|**Deep Learning-Based Direct Leaf Area Estimation using Two RGBD Datasets for Model Development**|Namal Jayasuriya et.al.|[2503.10129](http://arxiv.org/abs/2503.10129)|null|
+|**2025-03-13**|**Impact of buckypaper on the mechanical properties and failure modes of composites**|Kartik Tripathi et.al.|[2503.10073](http://arxiv.org/abs/2503.10073)|null|
+|**2025-03-13**|**Deep Learning Approaches for Anti-Money Laundering on Mobile Transactions: Review, Framework, and Directions**|Jiani Fan et.al.|[2503.10058](http://arxiv.org/abs/2503.10058)|null|
+|**2025-03-13**|**Post-disaster building indoor damage and survivor detection using autonomous path planning and deep learning with unmanned aerial vehicles**|Xiao Pan et.al.|[2503.10027](http://arxiv.org/abs/2503.10027)|null|
+|**2025-03-13**|**Adaptive Moment Estimation Optimization Algorithm Using Projection Gradient for Deep Learning**|Yongqi Li et.al.|[2503.10005](http://arxiv.org/abs/2503.10005)|null|
+|**2025-03-13**|**Label Unbalance in High-frequency Trading**|Zijian Zhao et.al.|[2503.09988](http://arxiv.org/abs/2503.09988)|**[link](https://github.com/RS2002/Label-Unbalance-in-High-Frequency-Trading)**|
+|**2025-03-13**|**Identifying Trustworthiness Challenges in Deep Learning Models for Continental-Scale Water Quality Prediction**|Xiaobo Xia et.al.|[2503.09947](http://arxiv.org/abs/2503.09947)|null|
+|**2025-03-12**|**Foundation X: Integrating Classification, Localization, and Segmentation through Lock-Release Pretraining Strategy for Chest X-ray Analysis**|Nahid Ul Islam et.al.|[2503.09860](http://arxiv.org/abs/2503.09860)|null|
+|**2025-03-12**|**Dielectrocapillarity for exquisite control of fluids**|Anna T. Bui et.al.|[2503.09855](http://arxiv.org/abs/2503.09855)|null|
+|**2025-03-12**|**TabNSA: Native Sparse Attention for Efficient Tabular Data Learning**|Ali Eslamian et.al.|[2503.09850](http://arxiv.org/abs/2503.09850)|null|
+|**2025-03-12**|**SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey**|Joohwan Seo et.al.|[2503.09829](http://arxiv.org/abs/2503.09829)|null|
+|**2025-03-12**|**Resolution Invariant Autoencoder**|Ashay Patel et.al.|[2503.09828](http://arxiv.org/abs/2503.09828)|null|
+|**2025-03-12**|**How good are deep learning methods for automated road safety analysis using video data? An experimental study**|Qingwu Liu et.al.|[2503.09807](http://arxiv.org/abs/2503.09807)|null|
+|**2025-03-12**|**Model-Agnostic Uncertainty Quantification for Fast NFC Tag Identification using RF Fingerprinting**|Dickson Akuoko Sarpong et.al.|[2503.09789](http://arxiv.org/abs/2503.09789)|null|
+|**2025-03-12**|**Designing Graph Convolutional Neural Networks for Discrete Choice with Network Effects**|Daniel F. Villarraga et.al.|[2503.09786](http://arxiv.org/abs/2503.09786)|null|
+|**2025-03-12**|**Enhancing Adversarial Example Detection Through Model Explanation**|Qian Ma et.al.|[2503.09735](http://arxiv.org/abs/2503.09735)|null|
+|**2025-03-12**|**Finding the Muses: Identifying Coresets through Loss Trajectories**|Manish Nagaraj et.al.|[2503.09721](http://arxiv.org/abs/2503.09721)|null|
+|**2025-03-12**|**Tools for Unbinned Unfolding**|Ryan Milton et.al.|[2503.09720](http://arxiv.org/abs/2503.09720)|null|
+|**2025-03-11**|**Rel-UNet: Reliable Tumor Segmentation via Uncertainty Quantification in nnU-Net**|Seyed Sina Ziaee et.al.|[2503.09633](http://arxiv.org/abs/2503.09633)|null|
 |**2025-03-12**|**Evaluating Multi-Instance DNN Inferencing on Multiple Accelerators of an Edge Device**|Mumuksh Tayal et.al.|[2503.09546](http://arxiv.org/abs/2503.09546)|null|
 |**2025-03-13**|**Large Language Models for Multi-Facility Location Mechanism Design**|Nguyen Thach et.al.|[2503.09533](http://arxiv.org/abs/2503.09533)|null|
 |**2025-03-12**|**Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**|Bakary Badjie et.al.|[2503.09504](http://arxiv.org/abs/2503.09504)|null|
