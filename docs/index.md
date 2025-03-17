@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Basic stability tests of machine learning potentials for molecular simulations in computational drug discovery**|Kavindri Ranasinghe et.al.|[2503.11537](http://arxiv.org/abs/2503.11537)|null|
 |**2025-03-13**|**SOLA-GCL: Subgraph-Oriented Learnable Augmentation Method for Graph Contrastive Learning**|Tianhao Peng et.al.|[2503.10100](http://arxiv.org/abs/2503.10100)|null|
 |**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251](http://arxiv.org/abs/2503.09251)|**[link](https://github.com/yigang-chen/scope-dti)**|
 |**2025-03-11**|**MuCoS: Efficient Drug Target Discovery via Multi Context Aware Sampling in Knowledge Graphs**|Haji Gul et.al.|[2503.08075](http://arxiv.org/abs/2503.08075)|null|
@@ -721,6 +722,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Edge Exposure as the Trigger for Structural Instability in LP-N and HLP-N**|Guo Chen et.al.|[2503.11608](http://arxiv.org/abs/2503.11608)|null|
+|**2025-03-14**|**Basic stability tests of machine learning potentials for molecular simulations in computational drug discovery**|Kavindri Ranasinghe et.al.|[2503.11537](http://arxiv.org/abs/2503.11537)|null|
+|**2025-03-14**|**Solubility and dissociation of ionic liquids in epoxides and cyclic carbonate by molecular dynamics simulation**|Sergio Dorado-Alfaro et.al.|[2503.11257](http://arxiv.org/abs/2503.11257)|null|
+|**2025-03-14**|**Tuning Electrode Wettability to Optimize Nanobubble Nucleation and Reaction Rates in Electrochemical Gas-Evolving Reactions**|Zhenlei Wanga et.al.|[2503.11110](http://arxiv.org/abs/2503.11110)|null|
+|**2025-03-13**|**Water is a superacid at extreme thermodynamic conditions**|Thomas Thévenet et.al.|[2503.10849](http://arxiv.org/abs/2503.10849)|null|
 |**2025-03-07**|**Active learning for parameter-free multiscale modeling of boundary lubrication**|Hannes Holey et.al.|[2503.09619](http://arxiv.org/abs/2503.09619)|null|
 |**2025-03-12**|**Melting of rods on a sphere via an intermediate hexatic phase**|Jaydeep Mandal et.al.|[2503.09362](http://arxiv.org/abs/2503.09362)|null|
 |**2025-03-12**|**Moiré-Driven Interfacial Thermal Transport in Twisted Transition Metal Dichalcogenides**|Wenwu Jiang et.al.|[2503.09141](http://arxiv.org/abs/2503.09141)|null|
@@ -1403,6 +1409,41 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Enhancing Deep Learning Based Structured Illumination Microscopy Reconstruction with Light Field Awareness**|Long-Kun Shan et.al.|[2503.11640](http://arxiv.org/abs/2503.11640)|null|
+|**2025-03-14**|**RNN-DAS: A New Deep Learning Approach for Detection and Real-Time Monitoring of Volcano-Tectonic Events Using Distributed Acoustic Sensing**|Javier Fernandez-Carabantes et.al.|[2503.11622](http://arxiv.org/abs/2503.11622)|null|
+|**2025-03-14**|**Probing the Limit of Heat Transfer in Inorganic Crystals with Deep Learning**|Jielan Li et.al.|[2503.11568](http://arxiv.org/abs/2503.11568)|null|
+|**2025-03-14**|**Designing Neural Synthesizers for Low Latency Interaction**|Franco Caspe et.al.|[2503.11562](http://arxiv.org/abs/2503.11562)|null|
+|**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532](http://arxiv.org/abs/2503.11532)|null|
+|**2025-03-14**|**Alzheimer's Disease Classification Using Retinal OCT: TransnetOCT and Swin Transformer Models**|Siva Manohar Reddy Kesu et.al.|[2503.11511](http://arxiv.org/abs/2503.11511)|null|
+|**2025-03-14**|**In Shift and In Variance: Assessing the Robustness of HAR Deep Learning Models against Variability**|Azhar Ali Khaked et.al.|[2503.11466](http://arxiv.org/abs/2503.11466)|null|
+|**2025-03-14**|**Demography-independent behavioural dynamics influenced the spread of COVID-19 in Denmark**|Léo Meynent et.al.|[2503.11455](http://arxiv.org/abs/2503.11455)|**[link](https://github.com/LMeynent/Covid19-Behaviour-Survey)**|
+|**2025-03-14**|**Deep Learning Agents Trained For Avoidance Behave Like Hawks And Doves**|Aryaman Reddi et.al.|[2503.11452](http://arxiv.org/abs/2503.11452)|null|
+|**2025-03-14**|**Quality In, Quality Out: Investigating Training Data's Role in AI Code Generation**|Cristina Improta et.al.|[2503.11402](http://arxiv.org/abs/2503.11402)|null|
+|**2025-03-14**|**Enhanced Diagnostic Fidelity in Pathology Whole Slide Image Compression via Deep Learning**|Maximilian Fischer et.al.|[2503.11350](http://arxiv.org/abs/2503.11350)|null|
+|**2025-03-14**|**Contextual Similarity Distillation: Ensemble Uncertainties with a Single Model**|Moritz A. Zanger et.al.|[2503.11339](http://arxiv.org/abs/2503.11339)|null|
+|**2025-03-14**|**Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning**|Lingyu Zhu et.al.|[2503.11321](http://arxiv.org/abs/2503.11321)|null|
+|**2025-03-14**|**Open-Set Plankton Recognition**|Joona Kareinen et.al.|[2503.11318](http://arxiv.org/abs/2503.11318)|null|
+|**2025-03-14**|**AI and Deep Learning for Automated Segmentation and Quantitative Measurement of Spinal Structures in MRI**|Praveen Shastry et.al.|[2503.11281](http://arxiv.org/abs/2503.11281)|null|
+|**2025-03-14**|**Noise Synthesis for Low-Light Image Denoising with Diffusion Models**|Liying Lu et.al.|[2503.11262](http://arxiv.org/abs/2503.11262)|null|
+|**2025-03-14**|**Cost-effective Deep Learning Infrastructure with NVIDIA GPU**|Aatiz Ghimire et.al.|[2503.11246](http://arxiv.org/abs/2503.11246)|null|
+|**2025-03-14**|**Learnable Group Transform: Enhancing Genotype-to-Phenotype Prediction for Rice Breeding with Small, Structured Datasets**|Yunxuan Dong et.al.|[2503.11180](http://arxiv.org/abs/2503.11180)|null|
+|**2025-03-14**|**Asynchronous Sharpness-Aware Minimization For Fast and Accurate Deep Learning**|Junhyuk Jo et.al.|[2503.11147](http://arxiv.org/abs/2503.11147)|null|
+|**2025-03-14**|**Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation**|Lexin Fang et.al.|[2503.11140](http://arxiv.org/abs/2503.11140)|null|
+|**2025-03-14**|**Context-Aware Rule Mining Using a Dynamic Transformer-Based Framework**|Jie Liu et.al.|[2503.11125](http://arxiv.org/abs/2503.11125)|null|
+|**2025-03-14**|**Deep Learning-based OTFS Channel Estimation and Symbol Detection with Plug and Play Framework**|Xiaoqi Zhang et.al.|[2503.11102](http://arxiv.org/abs/2503.11102)|null|
+|**2025-03-14**|**Semantic and Contextual Modeling for Malicious Comment Detection with BERT-BiLSTM**|Zhou Fang et.al.|[2503.11084](http://arxiv.org/abs/2503.11084)|null|
+|**2025-03-14**|**Active Learning from Scene Embeddings for End-to-End Autonomous Driving**|Wenhao Jiang et.al.|[2503.11062](http://arxiv.org/abs/2503.11062)|null|
+|**2025-03-14**|**Comparative Analysis of Advanced AI-based Object Detection Models for Pavement Marking Quality Assessment during Daytime**|Gian Antariksa et.al.|[2503.11008](http://arxiv.org/abs/2503.11008)|null|
+|**2025-03-14**|**Crash Severity Analysis of Child Bicyclists using Arm-Net and MambaNet**|Shriyank Somvanshi et.al.|[2503.11003](http://arxiv.org/abs/2503.11003)|null|
+|**2025-03-13**|**Predicting Stock Movement with BERTweet and Transformers**|Michael Charles Albada et.al.|[2503.10957](http://arxiv.org/abs/2503.10957)|null|
+|**2025-03-13**|**Automated Tomato Maturity Estimation Using an Optimized Residual Model with Pruning and Quantization Techniques**|Muhammad Waseem et.al.|[2503.10940](http://arxiv.org/abs/2503.10940)|null|
+|**2025-03-13**|**Design and Development of the MeCO Open-Source Autonomous Underwater Vehicle**|David Widhalm et.al.|[2503.10928](http://arxiv.org/abs/2503.10928)|null|
+|**2025-03-13**|**Predicting Clinical Outcomes with Waveform LSTMs**|Michael Albada et.al.|[2503.10925](http://arxiv.org/abs/2503.10925)|null|
+|**2025-03-13**|**Resource Heterogeneity-Aware and Utilization-Enhanced Scheduling for Deep Learning Clusters**|Abeda Sultana et.al.|[2503.10918](http://arxiv.org/abs/2503.10918)|null|
+|**2025-03-13**|**Visual Polarization Measurement Using Counterfactual Image Generation**|Mohammad Mosaffa et.al.|[2503.10738](http://arxiv.org/abs/2503.10738)|null|
+|**2025-03-13**|**Bridging Machine Learning and Cosmological Simulations: Using Neural Operators to emulate Chemical Evolution**|Pelle van de Bor et.al.|[2503.10736](http://arxiv.org/abs/2503.10736)|null|
+|**2025-03-13**|**Deep Learning-Based Automated Workflow for Accurate Segmentation and Measurement of Abdominal Organs in CT Scans**|Praveen Shastry et.al.|[2503.10717](http://arxiv.org/abs/2503.10717)|null|
+|**2025-03-13**|**HiCMamba: Enhancing Hi-C Resolution and Identifying 3D Genome Structures with State Space Modeling**|Minghao Yang et.al.|[2503.10713](http://arxiv.org/abs/2503.10713)|null|
 |**2025-03-13**|**Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification**|Rajiv Krishnakumar et.al.|[2503.10510](http://arxiv.org/abs/2503.10510)|null|
 |**2025-03-13**|**Explainable Bayesian deep learning through input-skip Latent Binary Bayesian Neural Networks**|Eirik Høyheim et.al.|[2503.10496](http://arxiv.org/abs/2503.10496)|**[link](https://github.com/eirihoyh/ISLaB-LBBNN)**|
 |**2025-03-13**|**Applying Tabular Deep Learning Models to Estimate Crash Injury Types of Young Motorcyclists**|Shriyank Somvanshi et.al.|[2503.10474](http://arxiv.org/abs/2503.10474)|null|
