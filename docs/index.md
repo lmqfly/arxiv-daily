@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-13**|**SOLA-GCL: Subgraph-Oriented Learnable Augmentation Method for Graph Contrastive Learning**|Tianhao Peng et.al.|[2503.10100](http://arxiv.org/abs/2503.10100)|null|
-|**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251](http://arxiv.org/abs/2503.09251)|null|
+|**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251](http://arxiv.org/abs/2503.09251)|**[link](https://github.com/yigang-chen/scope-dti)**|
 |**2025-03-11**|**MuCoS: Efficient Drug Target Discovery via Multi Context Aware Sampling in Knowledge Graphs**|Haji Gul et.al.|[2503.08075](http://arxiv.org/abs/2503.08075)|null|
 |**2025-03-06**|**A Generalist Cross-Domain Molecular Learning Framework for Structure-Based Drug Discovery**|Yiheng Zhu et.al.|[2503.04362](http://arxiv.org/abs/2503.04362)|null|
 |**2025-02-17**|**Towards Environment-Sensitive Molecular Inference via Mixed Integer Linear Programming**|Jianshen Zhu et.al.|[2503.01849](http://arxiv.org/abs/2503.01849)|null|
@@ -735,7 +735,7 @@ layout: default
 |**2025-03-08**|**Temperature-driven structural phase transitions in SmNiO $_3$ : insights from deep potential molecular dynamics simulations**|Guoyong Shi et.al.|[2503.06039](http://arxiv.org/abs/2503.06039)|null|
 |**2025-03-07**|**Crystal nucleation rates in one-component Yukawa systems**|B. Arnold et.al.|[2503.05902](http://arxiv.org/abs/2503.05902)|null|
 |**2025-02-19**|**Learning conformational ensembles of proteins based on backbone geometry**|Nicolas Wolf et.al.|[2503.05738](http://arxiv.org/abs/2503.05738)|null|
-|**2025-03-12**|**FOSS solution for Molecular Dynamics Simulation Automation and Collaboration with MDSGAT**|Jai Geddes Nelson et.al.|[2503.05113](http://arxiv.org/abs/2503.05113)|null|
+|**2025-03-14**|**FOSS solution for Molecular Dynamics Simulation Automation and Collaboration with MDSGAT**|Jai Geddes Nelson et.al.|[2503.05113](http://arxiv.org/abs/2503.05113)|null|
 |**2025-03-06**|**Giant mobility of surface-trapped ionic charges following liquid tribocharging**|Zouhir Benrahla et.al.|[2503.04987](http://arxiv.org/abs/2503.04987)|null|
 |**2025-03-06**|**T-MSD: An improved method for ionic diffusion coefficient calculation from molecular dynamics**|Yuxiang Gao et.al.|[2503.04281](http://arxiv.org/abs/2503.04281)|null|
 |**2025-03-06**|**Integrating Protein Dynamics into Structure-Based Drug Design via Full-Atom Stochastic Flows**|Xiangxin Zhou et.al.|[2503.03989](http://arxiv.org/abs/2503.03989)|null|
@@ -1409,7 +1409,7 @@ layout: default
 |**2025-03-13**|**Deep Learning based discovery of Integrable Systems**|Shailesh Lal et.al.|[2503.10469](http://arxiv.org/abs/2503.10469)|null|
 |**2025-03-13**|**OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary**|Yifeng Yang et.al.|[2503.10468](http://arxiv.org/abs/2503.10468)|null|
 |**2025-03-13**|**BeamLLM: Vision-Empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2503.10432](http://arxiv.org/abs/2503.10432)|null|
-|**2025-03-13**|**Low Complexity Point Tracking of the Myocardium in 2D Echocardiography**|Artem Chernyshov et.al.|[2503.10431](http://arxiv.org/abs/2503.10431)|null|
+|**2025-03-13**|**Low Complexity Point Tracking of the Myocardium in 2D Echocardiography**|Artem Chernyshov et.al.|[2503.10431](http://arxiv.org/abs/2503.10431)|**[link](https://github.com/artemcher/myotracker)**|
 |**2025-03-13**|**Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts**|Niklas Houba et.al.|[2503.10398](http://arxiv.org/abs/2503.10398)|null|
 |**2025-03-13**|**A Multimodal Fusion Model Leveraging MLP Mixer and Handcrafted Features-based Deep Learning Networks for Facial Palsy Detection**|Heng Yim Nicole Oo et.al.|[2503.10371](http://arxiv.org/abs/2503.10371)|null|
 |**2025-03-13**|**BioSerenity-E1: a self-supervised EEG model for medical applications**|Ruggero G. Bettinardi et.al.|[2503.10362](http://arxiv.org/abs/2503.10362)|null|
@@ -1447,15 +1447,15 @@ layout: default
 |**2025-03-12**|**Membership Inference Attacks fueled by Few-Short Learning to detect privacy leakage tackling data integrity**|Daniel Jiménez-López et.al.|[2503.09365](http://arxiv.org/abs/2503.09365)|null|
 |**2025-03-12**|**Deep Learning for Climate Action: Computer Vision Analysis of Visual Narratives on X**|Katharina Prasse et.al.|[2503.09361](http://arxiv.org/abs/2503.09361)|null|
 |**2025-03-12**|**Automatic Operator-level Parallelism Planning for Distributed Deep Learning -- A Mixed-Integer Programming Approach**|Ruifeng She et.al.|[2503.09357](http://arxiv.org/abs/2503.09357)|null|
-|**2025-03-12**|**Terrier: A Deep Learning Repeat Classifier**|Robert Turnbull et.al.|[2503.09312](http://arxiv.org/abs/2503.09312)|null|
+|**2025-03-12**|**Terrier: A Deep Learning Repeat Classifier**|Robert Turnbull et.al.|[2503.09312](http://arxiv.org/abs/2503.09312)|**[link](https://github.com/rbturnbull/terrier)**|
 |**2025-03-12**|**DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection**|Chiara Cappellino et.al.|[2503.09271](http://arxiv.org/abs/2503.09271)|null|
 |**2025-03-12**|**Single-Qudit Quantum Neural Networks for Multiclass Classification**|Leandro C. Souza et.al.|[2503.09269](http://arxiv.org/abs/2503.09269)|null|
-|**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251](http://arxiv.org/abs/2503.09251)|null|
+|**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251](http://arxiv.org/abs/2503.09251)|**[link](https://github.com/yigang-chen/scope-dti)**|
 |**2025-03-12**|**Time-EAPCR: A Deep Learning-Based Novel Approach for Anomaly Detection Applied to the Environmental Field**|Lei Liu et.al.|[2503.09200](http://arxiv.org/abs/2503.09200)|null|
 |**2025-03-12**|**Dynamic Feature Selection from Variable Feature Sets Using Features of Features**|Katsumi Takahashi et.al.|[2503.09181](http://arxiv.org/abs/2503.09181)|null|
 |**2025-03-12**|**On the Internal Representations of Graph Metanetworks**|Taesun Yeom et.al.|[2503.09120](http://arxiv.org/abs/2503.09120)|null|
 |**2025-03-12**|**Constraint-Guided Learning of Data-driven Health Indicator Models: An Application on the Pronostia Bearing Dataset**|Yonas Tefera et.al.|[2503.09113](http://arxiv.org/abs/2503.09113)|null|
-|**2025-03-12**|**Self-Consistent Equation-guided Neural Networks for Censored Time-to-Event Data**|Sehwan Kim et.al.|[2503.09097](http://arxiv.org/abs/2503.09097)|null|
+|**2025-03-12**|**Self-Consistent Equation-guided Neural Networks for Censored Time-to-Event Data**|Sehwan Kim et.al.|[2503.09097](http://arxiv.org/abs/2503.09097)|**[link](https://github.com/sehwankimstat/SCENE)**|
 |**2025-03-12**|**C^2 ATTACK: Towards Representation Backdoor on CLIP via Concept Confusion**|Lijie Hu et.al.|[2503.09095](http://arxiv.org/abs/2503.09095)|null|
 |**2025-03-12**|**Differentiable Folding for Nearest Neighbor Model Optimization**|Ryan K. Krueger et.al.|[2503.09085](http://arxiv.org/abs/2503.09085)|null|
 |**2025-03-12**|**The pseudo-analytical density solution to parameterized Fokker-Planck equations via deep learning**|Xiaolong Wang et.al.|[2503.09073](http://arxiv.org/abs/2503.09073)|null|
@@ -1469,7 +1469,7 @@ layout: default
 |**2025-03-11**|**KAN-Mixers: a new deep learning architecture for image classification**|Jorge Luiz dos Santos Canuto et.al.|[2503.08939](http://arxiv.org/abs/2503.08939)|null|
 |**2025-03-11**|**HessianForge: Scalable LiDAR reconstruction with Physics-Informed Neural Representation and Smoothness Energy Constraints**|Hrishikesh Viswanath et.al.|[2503.08929](http://arxiv.org/abs/2503.08929)|**[link](https://github.com/hrishikeshvish/hessianforge)**|
 |**2025-03-11**|**Robust Unsupervised Fault Diagnosis For High-Dimensional Nonlinear Noisy Data**|Dandan Zhao et.al.|[2503.08916](http://arxiv.org/abs/2503.08916)|null|
-|**2025-03-11**|**Deciphering the Scattering of Mechanically Driven Polymers using Deep Learning**|Lijie Ding et.al.|[2503.08913](http://arxiv.org/abs/2503.08913)|null|
+|**2025-03-11**|**Deciphering the Scattering of Mechanically Driven Polymers using Deep Learning**|Lijie Ding et.al.|[2503.08913](http://arxiv.org/abs/2503.08913)|**[link](https://github.com/ljding94/Semiflexible_Polymer)**|
 |**2025-03-11**|**Comprehensive Benchmarking of Machine Learning Methods for Risk Prediction Modelling from Large-Scale Survival Data: A UK Biobank Study**|Rafael R. Oexner et.al.|[2503.08870](http://arxiv.org/abs/2503.08870)|null|
 |**2025-03-11**|**QUIET-SR: Quantum Image Enhancement Transformer for Single Image Super-Resolution**|Siddhant Dutta et.al.|[2503.08759](http://arxiv.org/abs/2503.08759)|null|
 |**2025-03-11**|**Neural Network for Blind Unmixing: a novel MatrixConv Unmixing (MCU) Approach**|Chao Zhou et.al.|[2503.08745](http://arxiv.org/abs/2503.08745)|null|
