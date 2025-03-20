@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -530,7 +530,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-18**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
+|**2025-03-19**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
 |**2025-03-06**|**A Generalist Cross-Domain Molecular Learning Framework for Structure-Based Drug Discovery**|Yiheng Zhu et.al.|[2503.04362](http://arxiv.org/abs/2503.04362)|null|
 |**2025-03-07**|**Transformers for molecular property prediction: Domain adaptation efficiently improves performance**|Afnan Sultan et.al.|[2503.03360](http://arxiv.org/abs/2503.03360)|**[link](https://github.com/uds-lsv/domain-adaptation-molecular-transformers)**|
 |**2025-02-20**|**Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks**|Maya Bechler-Speicher et.al.|[2502.14546](http://arxiv.org/abs/2502.14546)|null|
@@ -724,8 +724,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-18**|**An empirical formulation of accelerated molecular dynamics for simulating and predicting microstructure evolution in materials**|Liang Wan et.al.|[2503.14294](http://arxiv.org/abs/2503.14294)|null|
-|**2025-03-18**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
+|**2025-03-19**|**An empirical formulation of accelerated molecular dynamics for simulating and predicting microstructure evolution in materials**|Liang Wan et.al.|[2503.14294](http://arxiv.org/abs/2503.14294)|null|
+|**2025-03-19**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
 |**2025-03-18**|**Dynamical Classification of Supercooled Liquids: Critical Cooling Rates and Entropic Signatures**|B Zhang et.al.|[2503.13960](http://arxiv.org/abs/2503.13960)|null|
 |**2025-03-18**|**Autocatalysis due to combinatorial enhancement**|Nanako Hirano et.al.|[2503.13865](http://arxiv.org/abs/2503.13865)|null|
 |**2025-03-17**|**Nanodroplet Dynamics: Coalescence and Impact**|Ertiza Hossain Shopnil et.al.|[2503.13659](http://arxiv.org/abs/2503.13659)|null|
@@ -1431,7 +1431,7 @@ layout: default
 |**2025-03-18**|**Application of Geometric Deep Learning for Tracking of Hyperons in a Straw Tube Detector**|Adeel Akram et.al.|[2503.14305](http://arxiv.org/abs/2503.14305)|null|
 |**2025-03-18**|**RoMedFormer: A Rotary-Embedding Transformer Foundation Model for 3D Genito-Pelvic Structure Segmentation in MRI and CT**|Yuheng Li et.al.|[2503.14304](http://arxiv.org/abs/2503.14304)|null|
 |**2025-03-18**|**FeNeC: Enhancing Continual Learning via Feature Clustering with Neighbor- or Logit-Based Classification**|Kamil Książek et.al.|[2503.14301](http://arxiv.org/abs/2503.14301)|null|
-|**2025-03-18**|**Manual Labelling Artificially Inflates Deep Learning-Based Segmentation Performance on Closed Canopy: Validation Using TLS**|Matthew J. Allen et.al.|[2503.14273](http://arxiv.org/abs/2503.14273)|null|
+|**2025-03-19**|**Manual Labelling Artificially Inflates Deep Learning-Based Segmentation Performance on RGB Images of Closed Canopy: Validation Using TLS**|Matthew J. Allen et.al.|[2503.14273](http://arxiv.org/abs/2503.14273)|null|
 |**2025-03-18**|**AI-Driven Diabetic Retinopathy Diagnosis Enhancement through Image Processing and Salp Swarm Algorithm-Optimized Ensemble Network**|Saif Ur Rehman Khan et.al.|[2503.14209](http://arxiv.org/abs/2503.14209)|null|
 |**2025-03-18**|**Layer-wise Adaptive Gradient Norm Penalizing Method for Efficient and Accurate Deep Learning**|Sunwoo Lee et.al.|[2503.14205](http://arxiv.org/abs/2503.14205)|null|
 |**2025-03-18**|**Why Personalizing Deep Learning-Based Code Completion Tools Matters**|Alessandro Giagnorio et.al.|[2503.14201](http://arxiv.org/abs/2503.14201)|null|
@@ -1442,7 +1442,7 @@ layout: default
 |**2025-03-18**|**Frac-Connections: Fractional Extension of Hyper-Connections**|Defa Zhu et.al.|[2503.14125](http://arxiv.org/abs/2503.14125)|null|
 |**2025-03-18**|**Towards Location-Specific Precipitation Projections Using Deep Neural Networks**|Bipin Kumar et.al.|[2503.14095](http://arxiv.org/abs/2503.14095)|null|
 |**2025-03-18**|**Streamlining SIMD ISA Extensions with Takum Arithmetic: A Case Study on Intel AVX10.2**|Laslo Hunhold et.al.|[2503.14067](http://arxiv.org/abs/2503.14067)|null|
-|**2025-03-18**|**Multimodal Feature-Driven Deep Learning for the Prediction of Duck Body Dimensions and Weight**|Yi Xiao et.al.|[2503.14001](http://arxiv.org/abs/2503.14001)|null|
+|**2025-03-19**|**Multimodal Feature-Driven Deep Learning for the Prediction of Duck Body Dimensions and Weight**|Yi Xiao et.al.|[2503.14001](http://arxiv.org/abs/2503.14001)|null|
 |**2025-03-18**|**BI-RADS prediction of mammographic masses using uncertainty information extracted from a Bayesian Deep Learning model**|Mohaddeseh Chegini et.al.|[2503.13999](http://arxiv.org/abs/2503.13999)|null|
 |**2025-03-18**|**Multi-Modal Self-Supervised Semantic Communication**|Hang Zhao et.al.|[2503.13940](http://arxiv.org/abs/2503.13940)|null|
 |**2025-03-18**|**Tensor-decomposition-based A Priori Surrogate (TAPS) modeling for ultra large-scale simulations**|Jiachen Guo et.al.|[2503.13933](http://arxiv.org/abs/2503.13933)|null|
@@ -1467,7 +1467,7 @@ layout: default
 |**2025-03-17**|**Deep Belief Markov Models for POMDP Inference**|Giacomo Arcieri et.al.|[2503.13438](http://arxiv.org/abs/2503.13438)|null|
 |**2025-03-17**|**Movement Sequencing: A Novel Approach to Quantifying the Building Blocks of Human Gait**|Alexandra Hammerberg et.al.|[2503.13425](http://arxiv.org/abs/2503.13425)|null|
 |**2025-03-17**|**Securing Virtual Reality Experiences: Unveiling and Tackling Cybersickness Attacks with Explainable AI**|Ripan Kumar Kundu et.al.|[2503.13419](http://arxiv.org/abs/2503.13419)|null|
-|**2025-03-18**|**DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective**|Dengyun Peng et.al.|[2503.13413](http://arxiv.org/abs/2503.13413)|null|
+|**2025-03-19**|**DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective**|Dengyun Peng et.al.|[2503.13413](http://arxiv.org/abs/2503.13413)|null|
 |**2025-03-17**|**U2AD: Uncertainty-based Unsupervised Anomaly Detection Framework for Detecting T2 Hyperintensity in MRI Spinal Cord**|Qi Zhang et.al.|[2503.13400](http://arxiv.org/abs/2503.13400)|null|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
 |**2025-03-17**|**Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework**|Farnoush Bayatmakou et.al.|[2503.13309](http://arxiv.org/abs/2503.13309)|null|
