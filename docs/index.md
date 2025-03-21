@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Blend the Separated: Mixture of Synergistic Experts for Data-Scarcity Drug-Target Interaction Prediction**|Xinlong Zhai et.al.|[2503.15796](http://arxiv.org/abs/2503.15796)|null|
 |**2025-03-14**|**Basic stability tests of machine learning potentials for molecular simulations in computational drug discovery**|Kavindri Ranasinghe et.al.|[2503.11537](http://arxiv.org/abs/2503.11537)|null|
 |**2025-03-13**|**SOLA-GCL: Subgraph-Oriented Learnable Augmentation Method for Graph Contrastive Learning**|Tianhao Peng et.al.|[2503.10100](http://arxiv.org/abs/2503.10100)|null|
 |**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251](http://arxiv.org/abs/2503.09251)|**[link](https://github.com/yigang-chen/scope-dti)**|
@@ -1426,6 +1427,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences**|Krithik Ramesh et.al.|[2503.16351](http://arxiv.org/abs/2503.16351)|null|
+|**2025-03-20**|**On the Cone Effect in the Learning Dynamics**|Zhanpeng Zhou et.al.|[2503.16316](http://arxiv.org/abs/2503.16316)|null|
+|**2025-03-20**|**Active Learning For Repairable Hardware Systems With Partial Coverage**|Michael Potter et.al.|[2503.16315](http://arxiv.org/abs/2503.16315)|null|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
+|**2025-03-20**|**Variance-Aware Noisy Training: Hardening DNNs against Unstable Analog Computations**|Xiao Wang et.al.|[2503.16183](http://arxiv.org/abs/2503.16183)|null|
+|**2025-03-20**|**Coupling deep and handcrafted features to assess smile genuineness**|Benedykt Pawlus et.al.|[2503.16128](http://arxiv.org/abs/2503.16128)|null|
+|**2025-03-20**|**3-D Image-to-Image Fusion in Lightsheet Microscopy by Two-Step Adversarial Network: Contribution to the FuseMyCells Challenge**|Marek Wodzinski et.al.|[2503.16075](http://arxiv.org/abs/2503.16075)|null|
+|**2025-03-20**|**Search for the radiative leptonic decay $D^+\toγe^+ν_e$ with Deep Learning**|BESIII Collaboration et.al.|[2503.16070](http://arxiv.org/abs/2503.16070)|null|
+|**2025-03-20**|**Efficient Service Differentiation and Energy Management in Hybrid WiFi/LiFi Networks**|Asim Ihsan et.al.|[2503.16061](http://arxiv.org/abs/2503.16061)|null|
+|**2025-03-20**|**DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration**|Suraj Singh et.al.|[2503.15984](http://arxiv.org/abs/2503.15984)|null|
+|**2025-03-20**|**Modeling Face Emotion Perception from Naturalistic Face Viewing: Insights from Fixational Events and Gaze Strategies**|Meisam J. Seikavandi et.al.|[2503.15926](http://arxiv.org/abs/2503.15926)|null|
+|**2025-03-20**|**On the Limits of Applying Graph Transformers for Brain Connectome Classification**|Jose Lara-Rangel et.al.|[2503.15902](http://arxiv.org/abs/2503.15902)|null|
+|**2025-03-20**|**A multi-model approach using XAI and anomaly detection to predict asteroid hazards**|Amit Kumar Mondal et.al.|[2503.15901](http://arxiv.org/abs/2503.15901)|null|
+|**2025-03-20**|**UMIT: Unifying Medical Imaging Tasks via Vision-Language Models**|Haiyang Yu et.al.|[2503.15892](http://arxiv.org/abs/2503.15892)|null|
+|**2025-03-20**|**DeepPsy-Agent: A Stage-Aware and Deep-Thinking Emotional Support Agent System**|Kai Chen et.al.|[2503.15876](http://arxiv.org/abs/2503.15876)|null|
+|**2025-03-20**|**Network Embedding Exploration Tool (NEExT)**|Ashkan Dehghan et.al.|[2503.15853](http://arxiv.org/abs/2503.15853)|null|
+|**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737](http://arxiv.org/abs/2503.15737)|null|
+|**2025-03-19**|**Sustainable Deep Learning-Based Breast Lesion Segmentation: Impact of Breast Region Segmentation on Performance**|Sam Narimani et.al.|[2503.15708](http://arxiv.org/abs/2503.15708)|null|
+|**2025-03-19**|**Narrative Trails: A Method for Coherent Storyline Extraction via Maximum Capacity Path Optimization**|Fausto German et.al.|[2503.15681](http://arxiv.org/abs/2503.15681)|null|
+|**2025-03-19**|**Deep quantum Monte Carlo approach for polaritonic chemistry**|Yifan Tang et.al.|[2503.15644](http://arxiv.org/abs/2503.15644)|null|
+|**2025-03-19**|**A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana**|Alba Márquez-Rodríguez et.al.|[2503.15576](http://arxiv.org/abs/2503.15576)|null|
+|**2025-03-18**|**Whole-Body Image-to-Image Translation for a Virtual Scanner in a Healthcare Digital Twin**|Valerio Guarrasi et.al.|[2503.15555](http://arxiv.org/abs/2503.15555)|null|
 |**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474](http://arxiv.org/abs/2503.15474)|null|
 |**2025-03-20**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/abs/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
 |**2025-03-19**|**LIFT: Latent Implicit Functions for Task- and Data-Agnostic Encoding**|Amirhossein Kazerouni et.al.|[2503.15420](http://arxiv.org/abs/2503.15420)|null|
