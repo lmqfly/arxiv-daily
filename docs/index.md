@@ -1496,7 +1496,7 @@ layout: default
 |**2025-03-18**|**QSTToolkit: A Python Library for Deep Learning Powered Quantum State Tomography**|George FitzGerald et.al.|[2503.14422](http://arxiv.org/abs/2503.14422)|null|
 |**2025-03-18**|**Evaluating Machine Learning Approaches for ASCII Art Generation**|Sai Coumar et.al.|[2503.14375](http://arxiv.org/abs/2503.14375)|**[link](https://github.com/saiccoumar/deep_ascii_converter)**|
 |**2025-03-18**|**C(NN)FD -- Deep Learning Modelling of Multi-Stage Axial Compressors Aerodynamics**|Giuseppe Bruni et.al.|[2503.14369](http://arxiv.org/abs/2503.14369)|null|
-|**2025-03-18**|**Benchmarking community drug response prediction models: datasets, models, tools, and metrics for cross-dataset generalization analysis**|Alexander Partin et.al.|[2503.14356](http://arxiv.org/abs/2503.14356)|null|
+|**2025-03-18**|**Benchmarking community drug response prediction models: datasets, models, tools, and metrics for cross-dataset generalization analysis**|Alexander Partin et.al.|[2503.14356](http://arxiv.org/abs/2503.14356)|**[link](https://github.com/adpartin/cross-dataset-drp-paper)**|
 |**2025-03-18**|**End-to-End Optimal Detector Design with Mutual Information Surrogates**|Kinga Anna Wozniak et.al.|[2503.14342](http://arxiv.org/abs/2503.14342)|null|
 |**2025-03-18**|**Multi-Parameter Analysis of Li-ion Battery Degradation: Integrating Optical Fiber Sensing with Differential State of Health Metrics**|Idris Temitope Bello et.al.|[2503.14327](http://arxiv.org/abs/2503.14327)|null|
 |**2025-03-18**|**Application of Geometric Deep Learning for Tracking of Hyperons in a Straw Tube Detector**|Adeel Akram et.al.|[2503.14305](http://arxiv.org/abs/2503.14305)|null|
@@ -1508,7 +1508,7 @@ layout: default
 |**2025-03-18**|**Why Personalizing Deep Learning-Based Code Completion Tools Matters**|Alessandro Giagnorio et.al.|[2503.14201](http://arxiv.org/abs/2503.14201)|null|
 |**2025-03-18**|**Driving behavior recognition via self-discovery learning**|Yilin Wang et.al.|[2503.14194](http://arxiv.org/abs/2503.14194)|null|
 |**2025-03-18**|**Strategic White Paper on AI Infrastructure for Particle, Nuclear, and Astroparticle Physics: Insights from JENA and EuCAIF**|Sascha Caron et.al.|[2503.14192](http://arxiv.org/abs/2503.14192)|null|
-|**2025-03-18**|**Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data**|Yihang Zhou et.al.|[2503.14150](http://arxiv.org/abs/2503.14150)|null|
+|**2025-03-18**|**Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data**|Yihang Zhou et.al.|[2503.14150](http://arxiv.org/abs/2503.14150)|**[link](https://github.com/yng314/xai_for_wildfire)**|
 |**2025-03-18**|**Exploring Disparity-Accuracy Trade-offs in Face Recognition Systems: The Role of Datasets, Architectures, and Loss Functions**|Siddharth D Jaiswal et.al.|[2503.14138](http://arxiv.org/abs/2503.14138)|null|
 |**2025-03-18**|**Frac-Connections: Fractional Extension of Hyper-Connections**|Defa Zhu et.al.|[2503.14125](http://arxiv.org/abs/2503.14125)|null|
 |**2025-03-18**|**Towards Location-Specific Precipitation Projections Using Deep Neural Networks**|Bipin Kumar et.al.|[2503.14095](http://arxiv.org/abs/2503.14095)|null|
@@ -1522,7 +1522,7 @@ layout: default
 |**2025-03-18**|**Scale-Aware Contrastive Reverse Distillation for Unsupervised Medical Anomaly Detection**|Chunlei Li et.al.|[2503.13828](http://arxiv.org/abs/2503.13828)|**[link](https://github.com/medaitech/scrd4ad)**|
 |**2025-03-18**|**Text-Guided Image Invariant Feature Learning for Robust Image Watermarking**|Muhammad Ahtesham et.al.|[2503.13805](http://arxiv.org/abs/2503.13805)|null|
 |**2025-03-18**|**AI-Powered Prediction of Nanoparticle Pharmacokinetics: A Multi-View Learning Approach**|Amirhossein Khakpour et.al.|[2503.13798](http://arxiv.org/abs/2503.13798)|null|
-|**2025-03-18**|**BurTorch: Revisiting Training from First Principles by Coupling Autodiff, Math Optimization, and Systems**|Konstantin Burlachenko et.al.|[2503.13795](http://arxiv.org/abs/2503.13795)|null|
+|**2025-03-18**|**BurTorch: Revisiting Training from First Principles by Coupling Autodiff, Math Optimization, and Systems**|Konstantin Burlachenko et.al.|[2503.13795](http://arxiv.org/abs/2503.13795)|**[link](https://github.com/karpathy/micrograd)**|
 |**2025-03-18**|**SwarmUpdate: Hierarchical Software Updates and Deep Learning Model Patching for Heterogeneous UAV Swarms**|Lin Geng et.al.|[2503.13784](http://arxiv.org/abs/2503.13784)|null|
 |**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745](http://arxiv.org/abs/2503.13745)|**[link](https://github.com/alimd94/fedvsr)**|
 |**2025-03-17**|**Multi-modal Time Series Analysis: A Tutorial and Survey**|Yushan Jiang et.al.|[2503.13709](http://arxiv.org/abs/2503.13709)|**[link](https://github.com/uconn-dsis/multi-modal-time-series-analysis)**|
