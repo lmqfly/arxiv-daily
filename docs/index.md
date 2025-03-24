@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -221,7 +221,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-21**|**MMRAG: Multi-Mode Retrieval-Augmented Generation with Large Language Models for Biomedical In-Context Learning**|Zaifu Zhan et.al.|[2502.15954](http://arxiv.org/abs/2502.15954)|null|
-|**2025-02-17**|**Knowledge-aware contrastive heterogeneous molecular graph learning**|Mukun Chen et.al.|[2502.11711](http://arxiv.org/abs/2502.11711)|null|
+|**2025-03-21**|**Knowledge-aware contrastive heterogeneous molecular graph learning**|Mukun Chen et.al.|[2502.11711](http://arxiv.org/abs/2502.11711)|null|
 |**2025-02-13**|**The Joint Entity-Relation Extraction Model Based on Span and Interactive Fusion Representation for Chinese Medical Texts with Complex Semantics**|Danni Feng et.al.|[2502.09247](http://arxiv.org/abs/2502.09247)|null|
 |**2025-02-09**|**LLMs for Drug-Drug Interaction Prediction: A Comprehensive Comparison**|Gabriele De Vito et.al.|[2502.06890](http://arxiv.org/abs/2502.06890)|null|
 |**2025-02-10**|**HODDI: A Dataset of High-Order Drug-Drug Interactions for Computational Pharmacovigilance**|Zhaoying Wang et.al.|[2502.06274](http://arxiv.org/abs/2502.06274)|**[link](https://github.com/timl-group/hoddi)**|
@@ -537,7 +537,7 @@ layout: default
 |**2025-03-07**|**Transformers for molecular property prediction: Domain adaptation efficiently improves performance**|Afnan Sultan et.al.|[2503.03360](http://arxiv.org/abs/2503.03360)|**[link](https://github.com/uds-lsv/domain-adaptation-molecular-transformers)**|
 |**2025-02-20**|**Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks**|Maya Bechler-Speicher et.al.|[2502.14546](http://arxiv.org/abs/2502.14546)|null|
 |**2025-02-17**|**Locally-Deployed Chain-of-Thought (CoT) Reasoning Model in Chemical Engineering: Starting from 30 Experimental Data**|Tianhang Zhou et.al.|[2502.12383](http://arxiv.org/abs/2502.12383)|null|
-|**2025-02-17**|**Knowledge-aware contrastive heterogeneous molecular graph learning**|Mukun Chen et.al.|[2502.11711](http://arxiv.org/abs/2502.11711)|null|
+|**2025-03-21**|**Knowledge-aware contrastive heterogeneous molecular graph learning**|Mukun Chen et.al.|[2502.11711](http://arxiv.org/abs/2502.11711)|null|
 |**2025-02-16**|**CL-MFAP: A Contrastive Learning-Based Multimodal Foundation Model for Molecular Property Prediction and Antibiotic Screening**|Gen Zhou et.al.|[2502.11001](http://arxiv.org/abs/2502.11001)|**[link](https://github.com/clmfap/clmfap)**|
 |**2025-02-03**|**FragmentNet: Adaptive Graph Fragmentation for Graph-to-Sequence Molecular Representation Learning**|Ankur Samanta et.al.|[2502.01184](http://arxiv.org/abs/2502.01184)|null|
 |**2025-01-30**|**MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability**|Yan Sun et.al.|[2501.18439](http://arxiv.org/abs/2501.18439)|null|
@@ -749,7 +749,7 @@ layout: default
 |**2025-03-12**|**Melting of rods on a sphere via an intermediate hexatic phase**|Jaydeep Mandal et.al.|[2503.09362](http://arxiv.org/abs/2503.09362)|null|
 |**2025-03-12**|**Moiré-Driven Interfacial Thermal Transport in Twisted Transition Metal Dichalcogenides**|Wenwu Jiang et.al.|[2503.09141](http://arxiv.org/abs/2503.09141)|null|
 |**2025-03-11**|**The standard coil or globule phases cannot describe the denatured state of structured proteins and intrinsically disordered proteins**|F. Righini et.al.|[2503.08115](http://arxiv.org/abs/2503.08115)|null|
-|**2025-03-10**|**Sergeants and Soldiers in Chiral Nematic Liquid Crystal**|Yoshiaki Uchida et.al.|[2503.07873](http://arxiv.org/abs/2503.07873)|null|
+|**2025-03-21**|**Sergeants and Soldiers in Chiral Nematic Liquid Crystal**|Yoshiaki Uchida et.al.|[2503.07873](http://arxiv.org/abs/2503.07873)|null|
 |**2025-03-10**|**Does Hessian Data Improve the Performance of Machine Learning Potentials?**|Austin Rodriguez et.al.|[2503.07839](http://arxiv.org/abs/2503.07839)|null|
 |**2025-03-10**|**Computational study of indium oxide photoelectrodes**|Matthew Bousquet et.al.|[2503.07795](http://arxiv.org/abs/2503.07795)|null|
 |**2025-03-10**|**Three-phase equilibria of CO $_2$ hydrate from computer simulation in presence of NaCl**|A. Borrero et.al.|[2503.07502](http://arxiv.org/abs/2503.07502)|null|
@@ -1471,7 +1471,7 @@ layout: default
 |**2025-03-19**|**Texture-Aware StarGAN for CT data harmonisation**|Francesco Di Feola et.al.|[2503.15058](http://arxiv.org/abs/2503.15058)|null|
 |**2025-03-19**|**A Novel Channel Boosted Residual CNN-Transformer with Regional-Boundary Learning for Breast Cancer Detection**|Aamir Mehmood et.al.|[2503.15008](http://arxiv.org/abs/2503.15008)|null|
 |**2025-03-19**|**Semi-KAN: KAN Provides an Effective Representation for Semi-Supervised Learning in Medical Image Segmentation**|Zanting Ye et.al.|[2503.14983](http://arxiv.org/abs/2503.14983)|null|
-|**2025-03-19**|**Application of linear regression method to the deep reinforcement learning in continuous action cases**|Hisato Komatsu et.al.|[2503.14976](http://arxiv.org/abs/2503.14976)|null|
+|**2025-03-21**|**Application of linear regression method to the deep reinforcement learning in continuous action cases**|Hisato Komatsu et.al.|[2503.14976](http://arxiv.org/abs/2503.14976)|null|
 |**2025-03-19**|**A Language Vision Model Approach for Automated Tumor Contouring in Radiation Oncology**|Yi Luo et.al.|[2503.14933](http://arxiv.org/abs/2503.14933)|null|
 |**2025-03-19**|**Deep Polycuboid Fitting for Compact 3D Representation of Indoor Scenes**|Gahye Lee et.al.|[2503.14912](http://arxiv.org/abs/2503.14912)|null|
 |**2025-03-19**|**POSTA: A Go-to Framework for Customized Artistic Poster Generation**|Haoyu Chen et.al.|[2503.14908](http://arxiv.org/abs/2503.14908)|null|
