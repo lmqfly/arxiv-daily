@@ -345,6 +345,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design**|Xiangzhe Kong et.al.|[2503.19300](http://arxiv.org/abs/2503.19300)|null|
 |**2025-03-18**|**Generative design of functional organic molecules for terahertz radiation detection**|Zsuzsanna Koczor-Benda et.al.|[2503.14748](http://arxiv.org/abs/2503.14748)|null|
 |**2025-03-17**|**A Reinforcement Learning-Driven Transformer GAN for Molecular Generation**|Chen Li et.al.|[2503.12796](http://arxiv.org/abs/2503.12796)|null|
 |**2025-03-11**|**Concept-Driven Deep Learning for Enhanced Protein-Specific Molecular Generation**|Taojie Kuang et.al.|[2503.08160](http://arxiv.org/abs/2503.08160)|null|
@@ -727,6 +728,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Theory for Lattice Relaxation in Marginal Twist Moirés**|Christophe De Beule et.al.|[2503.19162](http://arxiv.org/abs/2503.19162)|null|
 |**2025-03-24**|**On the temperature, pressure and composition effects in the properties of water-methanol mixtures. I. Density, excess mixing volume and enthalpy, and self-diffusion coefficients from molecular dynamics simulations**|M. Cruz Sanchez et.al.|[2503.18901](http://arxiv.org/abs/2503.18901)|null|
 |**2025-03-24**|**Molecular Insights into the Crystallization of 4'-Hydroxyacetophenone from Water: Solute Aggregation, Liquid-Liquid Phase Separation and Polymorph Selection**|Carlos E S Bernardes et.al.|[2503.18456](http://arxiv.org/abs/2503.18456)|null|
 |**2025-03-24**|**Ionic Liquid Molecular Dynamics Simulation with Machine Learning Force Fields: DPMD and MACE**|Anseong Park et.al.|[2503.18249](http://arxiv.org/abs/2503.18249)|null|
@@ -1435,6 +1437,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Geometric Meta-Learning via Coupled Ricci Flow: Unifying Knowledge Representation and Quantum Entanglement**|Ming Lei et.al.|[2503.19867](http://arxiv.org/abs/2503.19867)|null|
+|**2025-03-25**|**An Overview of Low-Rank Structures in the Training and Adaptation of Large Models**|Laura Balzano et.al.|[2503.19859](http://arxiv.org/abs/2503.19859)|null|
+|**2025-03-25**|**Ab-initio simulation of excited-state potential energy surfaces with transferable deep quantum Monte Carlo**|Zeno Schätzle et.al.|[2503.19847](http://arxiv.org/abs/2503.19847)|null|
+|**2025-03-25**|**Domain-incremental White Blood Cell Classification with Privacy-aware Continual Learning**|Pratibha Kumari et.al.|[2503.19819](http://arxiv.org/abs/2503.19819)|null|
+|**2025-03-25**|**SeLIP: Similarity Enhanced Contrastive Language Image Pretraining for Multi-modal Head MRI**|Zhiyang Liu et.al.|[2503.19801](http://arxiv.org/abs/2503.19801)|null|
+|**2025-03-25**|**Interpretable Deep Regression Models with Interval-Censored Failure Time Data**|Changhui Yuan et.al.|[2503.19763](http://arxiv.org/abs/2503.19763)|null|
+|**2025-03-25**|**Spectral classification of young stars using conditional invertible neural networks II. Application to Trumpler 14 in Carina**|Da Eun Kang et.al.|[2503.19697](http://arxiv.org/abs/2503.19697)|null|
+|**2025-03-25**|**Deep Learning for Speech Emotion Recognition: A CNN Approach Utilizing Mel Spectrograms**|Niketa Penumajji et.al.|[2503.19677](http://arxiv.org/abs/2503.19677)|null|
+|**2025-03-25**|**Recover from Horcrux: A Spectrogram Augmentation Method for Cardiac Feature Monitoring from Radar Signal Components**|Yuanyuan Zhang et.al.|[2503.19649](http://arxiv.org/abs/2503.19649)|null|
+|**2025-03-25**|**A Low-Power Sparse Deep Learning Accelerator with Optimized Data Reuse**|Kai-Chieh Hsu et.al.|[2503.19639](http://arxiv.org/abs/2503.19639)|null|
+|**2025-03-25**|**Burst Image Super-Resolution with Mamba**|Ozan Unal et.al.|[2503.19634](http://arxiv.org/abs/2503.19634)|null|
+|**2025-03-25**|**Lean Formalization of Generalization Error Bound by Rademacher Complexity**|Sho Sonoda et.al.|[2503.19605](http://arxiv.org/abs/2503.19605)|null|
+|**2025-03-25**|**SACB-Net: Spatial-awareness Convolutions for Medical Image Registration**|Xinxing Cheng et.al.|[2503.19592](http://arxiv.org/abs/2503.19592)|null|
+|**2025-03-25**|**Video Anomaly Detection with Contours - A Study**|Mia Siemon et.al.|[2503.19588](http://arxiv.org/abs/2503.19588)|null|
+|**2025-03-25**|**Towards Long-Range ENSO Prediction with an Explainable Deep Learning Model**|Qi Chen et.al.|[2503.19502](http://arxiv.org/abs/2503.19502)|null|
+|**2025-03-25**|**Noisier2Inverse: Self-Supervised Learning for Image Reconstruction with Correlated Noise**|Nadja Gruber et.al.|[2503.19468](http://arxiv.org/abs/2503.19468)|null|
+|**2025-03-25**|**M $^2$ CD: A Unified MultiModal Framework for Optical-SAR Change Detection with Mixture of Experts and Self-Distillation**|Ziyuan Liu et.al.|[2503.19406](http://arxiv.org/abs/2503.19406)|null|
+|**2025-03-25**|**Show and Segment: Universal Medical Image Segmentation via In-Context Learning**|Yunhe Gao et.al.|[2503.19359](http://arxiv.org/abs/2503.19359)|null|
+|**2025-03-25**|**Deep learning approaches for nuclear binding energy prediction: a comparative study of RNN, GRU and LSTM Models**|Amir Jalili et.al.|[2503.19348](http://arxiv.org/abs/2503.19348)|null|
+|**2025-03-25**|**A Social Dynamical System for Twitter Analysis**|Zhiping Xiao et.al.|[2503.19316](http://arxiv.org/abs/2503.19316)|null|
+|**2025-03-25**|**No Black Box Anymore: Demystifying Clinical Predictive Modeling with Temporal-Feature Cross Attention Mechanism**|Yubo Li et.al.|[2503.19285](http://arxiv.org/abs/2503.19285)|null|
+|**2025-03-25**|**Face Spoofing Detection using Deep Learning**|Najeebullah et.al.|[2503.19223](http://arxiv.org/abs/2503.19223)|**[link](https://github.com/zamaex96/Spoof-Detect-Using-ViT)**|
+|**2025-03-24**|**Benchmarking Object Detectors under Real-World Distribution Shifts in Satellite Imagery**|Sara Al-Emadi et.al.|[2503.19202](http://arxiv.org/abs/2503.19202)|null|
+|**2025-03-24**|**Deep learning in the abyss: a stratified Physics Informed Neural Network for data assimilation**|Vadim Limousin et.al.|[2503.19160](http://arxiv.org/abs/2503.19160)|null|
+|**2025-03-24**|**Anomaly Detection Using Computer Vision: A Comparative Analysis of Class Distinction and Performance Metrics**|Md. Barkat Ullah Tusher et.al.|[2503.19100](http://arxiv.org/abs/2503.19100)|null|
+|**2025-03-24**|**Temporally-Consistent Bilinearly Recurrent Autoencoders for Control Systems**|Ananda Chakrabarti et.al.|[2503.19085](http://arxiv.org/abs/2503.19085)|null|
+|**2025-03-24**|**Forecasting Labor Demand: Predicting JOLT Job Openings using Deep Learning Model**|Kyungsu Kim et.al.|[2503.19048](http://arxiv.org/abs/2503.19048)|null|
+|**2025-03-22**|**Machine Learning - Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A minireview**|Dilshod Nematov et.al.|[2503.18975](http://arxiv.org/abs/2503.18975)|null|
+|**2025-03-22**|**Automated diagnosis of lung diseases using vision transformer: a comparative study on chest x-ray classification**|Muhammad Ahmad et.al.|[2503.18973](http://arxiv.org/abs/2503.18973)|null|
+|**2025-03-22**|**A Survey on Structured State Space Sequence (S4) Models**|Shriyank Somvanshi et.al.|[2503.18970](http://arxiv.org/abs/2503.18970)|null|
 |**2025-03-24**|**Dual-domain Multi-path Self-supervised Diffusion Model for Accelerated MRI Reconstruction**|Yuxuan Zhang et.al.|[2503.18836](http://arxiv.org/abs/2503.18836)|null|
 |**2025-03-24**|**Wireless Hearables With Programmable Speech AI Accelerators**|Malek Itani et.al.|[2503.18698](http://arxiv.org/abs/2503.18698)|null|
 |**2025-03-24**|**Feature Qualification by Deep Nets: A Constructive Approach**|Feilong Cao et.al.|[2503.18676](http://arxiv.org/abs/2503.18676)|null|
@@ -10985,6 +11017,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Geometric Meta-Learning via Coupled Ricci Flow: Unifying Knowledge Representation and Quantum Entanglement**|Ming Lei et.al.|[2503.19867](http://arxiv.org/abs/2503.19867)|null|
 |**2025-03-18**|**Application of Geometric Deep Learning for Tracking of Hyperons in a Straw Tube Detector**|Adeel Akram et.al.|[2503.14305](http://arxiv.org/abs/2503.14305)|null|
 |**2025-03-17**|**COSMOS: Continuous Simplicial Neural Networks**|Aref Einizade et.al.|[2503.12919](http://arxiv.org/abs/2503.12919)|null|
 |**2025-03-16**|**Algebraic Adversarial Attacks on Explainability Models**|Lachlan Simpson et.al.|[2503.12683](http://arxiv.org/abs/2503.12683)|null|
