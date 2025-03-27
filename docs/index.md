@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**RxRx3-core: Benchmarking drug-target interactions in High-Content Microscopy**|Oren Kraus et.al.|[2503.20158](http://arxiv.org/abs/2503.20158)|null|
 |**2025-03-20**|**Chem42: a Family of chemical Language Models for Target-aware Ligand Generation**|Aahan Singh et.al.|[2503.16563](http://arxiv.org/abs/2503.16563)|null|
 |**2025-03-20**|**Blend the Separated: Mixture of Synergistic Experts for Data-Scarcity Drug-Target Interaction Prediction**|Xinlong Zhai et.al.|[2503.15796](http://arxiv.org/abs/2503.15796)|**[link](https://github.com/bupt-gamma/mosedti)**|
 |**2025-03-14**|**Basic stability tests of machine learning potentials for molecular simulations in computational drug discovery**|Kavindri Ranasinghe et.al.|[2503.11537](http://arxiv.org/abs/2503.11537)|null|
@@ -728,6 +729,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Programming frictionless interfaces for moiré layers**|Zichong Zhang et.al.|[2503.20512](http://arxiv.org/abs/2503.20512)|null|
+|**2025-03-26**|**Effective and asymptotic scaling in a one-dimensional billiard problem**|Taras Holovatch et.al.|[2503.20476](http://arxiv.org/abs/2503.20476)|null|
+|**2025-03-26**|**Coupled electromigration-nanoindentation study on dislocation nucleation in SrTiO3**|Chukwudalu Okafor et.al.|[2503.20408](http://arxiv.org/abs/2503.20408)|null|
+|**2025-03-26**|**Structural and transport properties of LiTFSI/G3 electrolyte with machine-learned molecular dynamics**|Chenyang Cao et.al.|[2503.20243](http://arxiv.org/abs/2503.20243)|null|
 |**2025-03-24**|**Theory for Lattice Relaxation in Marginal Twist Moirés**|Christophe De Beule et.al.|[2503.19162](http://arxiv.org/abs/2503.19162)|null|
 |**2025-03-24**|**On the temperature, pressure and composition effects in the properties of water-methanol mixtures. I. Density, excess mixing volume and enthalpy, and self-diffusion coefficients from molecular dynamics simulations**|M. Cruz Sanchez et.al.|[2503.18901](http://arxiv.org/abs/2503.18901)|null|
 |**2025-03-24**|**Molecular Insights into the Crystallization of 4'-Hydroxyacetophenone from Water: Solute Aggregation, Liquid-Liquid Phase Separation and Polymorph Selection**|Carlos E S Bernardes et.al.|[2503.18456](http://arxiv.org/abs/2503.18456)|null|
@@ -1437,6 +1442,37 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Emotion Detection and Music Recommendation System**|Swetha Kambham et.al.|[2503.20739](http://arxiv.org/abs/2503.20739)|null|
+|**2025-03-26**|**SChanger: Change Detection from a Semantic Change and Spatial Consistency Perspective**|Ziyu Zhou et.al.|[2503.20734](http://arxiv.org/abs/2503.20734)|null|
+|**2025-03-26**|**A weakly-supervised deep learning model for fast localisation and delineation of the skeleton, internal organs, and spinal canal on Whole-Body Diffusion-Weighted MRI (WB-DWI)**|A. Candito et.al.|[2503.20722](http://arxiv.org/abs/2503.20722)|null|
+|**2025-03-26**|**Demand Estimation with Text and Image Data**|Giovanni Compiani et.al.|[2503.20711](http://arxiv.org/abs/2503.20711)|null|
+|**2025-03-26**|**Benchmarking Machine Learning Methods for Distributed Acoustic Sensing**|Shuaikai Shi et.al.|[2503.20681](http://arxiv.org/abs/2503.20681)|null|
+|**2025-03-26**|**AutoRad-Lung: A Radiomic-Guided Prompting Autoregressive Vision-Language Model for Lung Nodule Malignancy Prediction**|Sadaf Khademi et.al.|[2503.20662](http://arxiv.org/abs/2503.20662)|null|
+|**2025-03-26**|**UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift**|Antoine Schieb et.al.|[2503.20653](http://arxiv.org/abs/2503.20653)|null|
+|**2025-03-26**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652](http://arxiv.org/abs/2503.20652)|null|
+|**2025-03-26**|**NotebookOS: A Notebook Operating System for Interactive Training with On-Demand GPUs**|Benjamin Carver et.al.|[2503.20591](http://arxiv.org/abs/2503.20591)|null|
+|**2025-03-26**|**A Deep Learning Pipeline for Large Earthquake Analysis using High-Rate Global Navigation Satellite System Data**|Claudia Quinteros-Cartaya et.al.|[2503.20584](http://arxiv.org/abs/2503.20584)|null|
+|**2025-03-26**|**Exploring Robustness of Cortical Morphometry in the presence of white matter lesions, using Diffusion Models for Lesion Filling**|Vinzenz Uhr et.al.|[2503.20571](http://arxiv.org/abs/2503.20571)|null|
+|**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
+|**2025-03-26**|**Design and Evaluation of Neural Network-Based Receiver Architectures for Reliable Communication**|Hüseyin Çevik et.al.|[2503.20500](http://arxiv.org/abs/2503.20500)|null|
+|**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485](http://arxiv.org/abs/2503.20485)|null|
+|**2025-03-26**|**Attention Xception UNet (AXUNet): A Novel Combination of CNN and Self-Attention for Brain Tumor Segmentation**|Farzan Moodi et.al.|[2503.20446](http://arxiv.org/abs/2503.20446)|null|
+|**2025-03-26**|**Evaluating Facial Expression Recognition Datasets for Deep Learning: A Benchmark Study with Novel Similarity Metrics**|F. Xavier Gaya-Morey et.al.|[2503.20428](http://arxiv.org/abs/2503.20428)|null|
+|**2025-03-26**|**AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings**|Bargava Subramanian et.al.|[2503.20316](http://arxiv.org/abs/2503.20316)|null|
+|**2025-03-26**|**TileLink: Generating Efficient Compute-Communication Overlapping Kernels using Tile-Centric Primitives**|Size Zheng et.al.|[2503.20313](http://arxiv.org/abs/2503.20313)|null|
+|**2025-03-26**|**CryoSAMU: Enhancing 3D Cryo-EM Density Maps of Protein Structures at Intermediate Resolution with Structure-Aware Multimodal U-Nets**|Chenwei Zhang et.al.|[2503.20291](http://arxiv.org/abs/2503.20291)|null|
+|**2025-03-26**|**Mamba-3D as Masked Autoencoders for Accurate and Data-Efficient Analysis of Medical Ultrasound Videos**|Jiaheng Zhou et.al.|[2503.20258](http://arxiv.org/abs/2503.20258)|null|
+|**2025-03-26**|**ESSR: An 8K@30FPS Super-Resolution Accelerator With Edge Selective Network**|Chih-Chia Hsu et.al.|[2503.20245](http://arxiv.org/abs/2503.20245)|null|
+|**2025-03-26**|**BeLightRec: A lightweight recommender system enhanced with BERT**|Manh Mai Van et.al.|[2503.20206](http://arxiv.org/abs/2503.20206)|null|
+|**2025-03-26**|**Maya: Optimizing Deep Learning Training Workloads using Emulated Virtual Accelerators**|Srihas Yarlagadda et.al.|[2503.20191](http://arxiv.org/abs/2503.20191)|null|
+|**2025-03-26**|**Emotion Detection in Twitter Messages Using Combination of Long Short-Term Memory and Convolutional Deep Neural Networks**|Bahareh Golchin et.al.|[2503.20163](http://arxiv.org/abs/2503.20163)|null|
+|**2025-03-26**|**Signed Rank Chart For Tied Observations: An Application of Deep Learning Models**|Seyedeh Azadeh Fallah Mortezanejad et.al.|[2503.20131](http://arxiv.org/abs/2503.20131)|null|
+|**2025-03-25**|**Federated Learning: A new frontier in the exploration of multi-institutional medical imaging data**|Dominika Ciupek et.al.|[2503.20107](http://arxiv.org/abs/2503.20107)|null|
+|**2025-03-25**|**Deep Learning Approaches for Blood Disease Diagnosis Across Hematopoietic Lineages**|Gabriel Bo et.al.|[2503.20049](http://arxiv.org/abs/2503.20049)|**[link](https://github.com/JustinGu32/gene-ml)**|
+|**2025-03-25**|**Experience Replay Addresses Loss of Plasticity in Continual Learning**|Jiuqi Wang et.al.|[2503.20018](http://arxiv.org/abs/2503.20018)|null|
+|**2025-03-25**|**Deep-Learning-Based Classification of Digitally Modulated Signals**|John A. Snoap et.al.|[2503.19952](http://arxiv.org/abs/2503.19952)|null|
+|**2025-03-25**|**A Spatiotemporal Radar-Based Precipitation Model for Water Level Prediction and Flood Forecasting**|Sakshi Dhankhar et.al.|[2503.19943](http://arxiv.org/abs/2503.19943)|null|
+|**2025-03-25**|**FuXi-RTM: A Physics-Guided Prediction Framework with Radiative Transfer Modeling**|Qiusheng Huang et.al.|[2503.19940](http://arxiv.org/abs/2503.19940)|null|
 |**2025-03-25**|**Geometric Meta-Learning via Coupled Ricci Flow: Unifying Knowledge Representation and Quantum Entanglement**|Ming Lei et.al.|[2503.19867](http://arxiv.org/abs/2503.19867)|null|
 |**2025-03-25**|**An Overview of Low-Rank Structures in the Training and Adaptation of Large Models**|Laura Balzano et.al.|[2503.19859](http://arxiv.org/abs/2503.19859)|null|
 |**2025-03-25**|**Ab-initio simulation of excited-state potential energy surfaces with transferable deep quantum Monte Carlo**|Zeno Schätzle et.al.|[2503.19847](http://arxiv.org/abs/2503.19847)|null|
@@ -10804,6 +10840,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Reliable algorithm selection for machine learning-guided design**|Clara Fannjiang et.al.|[2503.20767](http://arxiv.org/abs/2503.20767)|null|
+|**2025-03-26**|**The First Hardware Demonstration of a Universal Programmable RRAM-based Probabilistic Computer for Molecular Docking**|Yihan He et.al.|[2503.20254](http://arxiv.org/abs/2503.20254)|null|
 |**2025-03-24**|**RiboFlow: Conditional De Novo RNA Sequence-Structure Co-Design via Synergistic Flow Matching**|Runze Ma et.al.|[2503.17007](http://arxiv.org/abs/2503.17007)|null|
 |**2025-03-21**|**Preferential Multi-Objective Bayesian Optimization for Drug Discovery**|Tai Dang et.al.|[2503.16841](http://arxiv.org/abs/2503.16841)|null|
 |**2025-03-20**|**Chem42: a Family of chemical Language Models for Target-aware Ligand Generation**|Aahan Singh et.al.|[2503.16563](http://arxiv.org/abs/2503.16563)|null|
