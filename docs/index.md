@@ -536,7 +536,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105](http://arxiv.org/abs/2503.21105)|null|
+|**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105](http://arxiv.org/abs/2503.21105)|**[link](https://github.com/snudatalab/AugWard)**|
 |**2025-03-19**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
 |**2025-03-06**|**A Generalist Cross-Domain Molecular Learning Framework for Structure-Based Drug Discovery**|Yiheng Zhu et.al.|[2503.04362](http://arxiv.org/abs/2503.04362)|null|
 |**2025-03-07**|**Transformers for molecular property prediction: Domain adaptation efficiently improves performance**|Afnan Sultan et.al.|[2503.03360](http://arxiv.org/abs/2503.03360)|**[link](https://github.com/uds-lsv/domain-adaptation-molecular-transformers)**|
@@ -1524,7 +1524,7 @@ layout: default
 |**2025-03-25**|**Burst Image Super-Resolution with Mamba**|Ozan Unal et.al.|[2503.19634](http://arxiv.org/abs/2503.19634)|null|
 |**2025-03-25**|**Lean Formalization of Generalization Error Bound by Rademacher Complexity**|Sho Sonoda et.al.|[2503.19605](http://arxiv.org/abs/2503.19605)|null|
 |**2025-03-25**|**SACB-Net: Spatial-awareness Convolutions for Medical Image Registration**|Xinxing Cheng et.al.|[2503.19592](http://arxiv.org/abs/2503.19592)|**[link](https://github.com/x-xc/sacb_net)**|
-|**2025-03-25**|**Video Anomaly Detection with Contours - A Study**|Mia Siemon et.al.|[2503.19588](http://arxiv.org/abs/2503.19588)|null|
+|**2025-03-25**|**Video Anomaly Detection with Contours -- A Study**|Mia Siemon et.al.|[2503.19588](http://arxiv.org/abs/2503.19588)|null|
 |**2025-03-25**|**Towards Long-Range ENSO Prediction with an Explainable Deep Learning Model**|Qi Chen et.al.|[2503.19502](http://arxiv.org/abs/2503.19502)|null|
 |**2025-03-25**|**Noisier2Inverse: Self-Supervised Learning for Image Reconstruction with Correlated Noise**|Nadja Gruber et.al.|[2503.19468](http://arxiv.org/abs/2503.19468)|null|
 |**2025-03-25**|**M $^2$ CD: A Unified MultiModal Framework for Optical-SAR Change Detection with Mixture of Experts and Self-Distillation**|Ziyuan Liu et.al.|[2503.19406](http://arxiv.org/abs/2503.19406)|null|
