@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1458,7 +1458,7 @@ layout: default
 |**2025-03-27**|**From Deep Learning to LLMs: A survey of AI in Quantitative Investment**|Bokai Cao et.al.|[2503.21422](http://arxiv.org/abs/2503.21422)|null|
 |**2025-03-27**|**Brain Age Group Classification Based on Resting State Functional Connectivity Metrics**|Prerna Singh et.al.|[2503.21414](http://arxiv.org/abs/2503.21414)|null|
 |**2025-03-27**|**ProHOC: Probabilistic Hierarchical Out-of-Distribution Classification via Multi-Depth Networks**|Erik Wallin et.al.|[2503.21397](http://arxiv.org/abs/2503.21397)|**[link](https://github.com/walline/prohoc)**|
-|**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|null|
+|**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|null|
 |**2025-03-27**|**A Data-Driven Method for INS/DVL Alignment**|Guy Damari et.al.|[2503.21350](http://arxiv.org/abs/2503.21350)|null|
 |**2025-03-27**|**Explainable Boosting Machine for Predicting Claim Severity and Frequency in Car Insurance**|Markéta Krùpovà et.al.|[2503.21321](http://arxiv.org/abs/2503.21321)|null|
 |**2025-03-27**|**DeBackdoor: A Deductive Framework for Detecting Backdoor Attacks on Deep Models with Limited Data**|Dorde Popovic et.al.|[2503.21305](http://arxiv.org/abs/2503.21305)|null|
@@ -1496,7 +1496,7 @@ layout: default
 |**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485](http://arxiv.org/abs/2503.20485)|**[link](https://github.com/vidya-rejul/uie-snn)**|
 |**2025-03-26**|**Attention Xception UNet (AXUNet): A Novel Combination of CNN and Self-Attention for Brain Tumor Segmentation**|Farzan Moodi et.al.|[2503.20446](http://arxiv.org/abs/2503.20446)|null|
 |**2025-03-26**|**Evaluating Facial Expression Recognition Datasets for Deep Learning: A Benchmark Study with Novel Similarity Metrics**|F. Xavier Gaya-Morey et.al.|[2503.20428](http://arxiv.org/abs/2503.20428)|null|
-|**2025-03-26**|**AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings**|Bargava Subramanian et.al.|[2503.20316](http://arxiv.org/abs/2503.20316)|null|
+|**2025-03-28**|**AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings**|Bargava Subramanian et.al.|[2503.20316](http://arxiv.org/abs/2503.20316)|null|
 |**2025-03-27**|**TileLink: Generating Efficient Compute-Communication Overlapping Kernels using Tile-Centric Primitives**|Size Zheng et.al.|[2503.20313](http://arxiv.org/abs/2503.20313)|null|
 |**2025-03-26**|**CryoSAMU: Enhancing 3D Cryo-EM Density Maps of Protein Structures at Intermediate Resolution with Structure-Aware Multimodal U-Nets**|Chenwei Zhang et.al.|[2503.20291](http://arxiv.org/abs/2503.20291)|**[link](https://github.com/chenwei-zhang/cryosamu)**|
 |**2025-03-26**|**Mamba-3D as Masked Autoencoders for Accurate and Data-Efficient Analysis of Medical Ultrasound Videos**|Jiaheng Zhou et.al.|[2503.20258](http://arxiv.org/abs/2503.20258)|null|
@@ -1530,7 +1530,7 @@ layout: default
 |**2025-03-25**|**M $^2$ CD: A Unified MultiModal Framework for Optical-SAR Change Detection with Mixture of Experts and Self-Distillation**|Ziyuan Liu et.al.|[2503.19406](http://arxiv.org/abs/2503.19406)|null|
 |**2025-03-25**|**Show and Segment: Universal Medical Image Segmentation via In-Context Learning**|Yunhe Gao et.al.|[2503.19359](http://arxiv.org/abs/2503.19359)|null|
 |**2025-03-25**|**Deep learning approaches for nuclear binding energy prediction: a comparative study of RNN, GRU and LSTM Models**|Amir Jalili et.al.|[2503.19348](http://arxiv.org/abs/2503.19348)|null|
-|**2025-03-26**|**A Social Dynamical System for Twitter Analysis**|Zhiping Xiao et.al.|[2503.19316](http://arxiv.org/abs/2503.19316)|null|
+|**2025-03-28**|**A Social Dynamical System for Twitter Analysis**|Zhiping Xiao et.al.|[2503.19316](http://arxiv.org/abs/2503.19316)|null|
 |**2025-03-26**|**No Black Box Anymore: Demystifying Clinical Predictive Modeling with Temporal-Feature Cross Attention Mechanism**|Yubo Li et.al.|[2503.19285](http://arxiv.org/abs/2503.19285)|null|
 |**2025-03-25**|**Face Spoofing Detection using Deep Learning**|Najeebullah et.al.|[2503.19223](http://arxiv.org/abs/2503.19223)|**[link](https://github.com/zamaex96/Spoof-Detect-Using-ViT)**|
 |**2025-03-24**|**Benchmarking Object Detectors under Real-World Distribution Shifts in Satellite Imagery**|Sara Al-Emadi et.al.|[2503.19202](http://arxiv.org/abs/2503.19202)|null|
