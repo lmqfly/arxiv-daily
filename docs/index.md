@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Pharmolix-FM: An All-Atom Multi-Modal Foundation Model for Molecular Modeling and Generation**|Yizhen Luo et.al.|[2503.21788](http://arxiv.org/abs/2503.21788)|null|
 |**2025-03-26**|**Two for the Price of One: Integrating Large Language Models to Learn Biophysical Interactions**|Joseph D. Clark et.al.|[2503.21017](http://arxiv.org/abs/2503.21017)|null|
 |**2025-03-26**|**RxRx3-core: Benchmarking drug-target interactions in High-Content Microscopy**|Oren Kraus et.al.|[2503.20158](http://arxiv.org/abs/2503.20158)|null|
 |**2025-03-20**|**Chem42: a Family of chemical Language Models for Target-aware Ligand Generation**|Aahan Singh et.al.|[2503.16563](http://arxiv.org/abs/2503.16563)|null|
@@ -731,6 +732,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Two-dimensional electronic spectroscopy in the condensed phase using equivariant transformer accelerated molecular dynamics simulations**|Joseph Kelly et.al.|[2503.22583](http://arxiv.org/abs/2503.22583)|null|
+|**2025-03-28**|**A Morphotropic Phase Boundary in MA $_{1-x}$FA$_x$PbI$_3$ : Linking Structure, Dynamics, and Electronic Properties**|Tobias Hainer et.al.|[2503.22372](http://arxiv.org/abs/2503.22372)|null|
 |**2025-03-27**|**Intrinsic Limitation of Conductivity in Depolymerized Sodium-ion Glassy Networks**|Léo Legrand et.al.|[2503.21624](http://arxiv.org/abs/2503.21624)|null|
 |**2025-03-27**|**Dielectric permittivity of water confined in stacks of charged lipid layers: extracting profiles from molecular dynamics simulations using a modified Poisson-Boltzmann equation**|Ludovic Gardré et.al.|[2503.21593](http://arxiv.org/abs/2503.21593)|null|
 |**2025-03-27**|**Computer simulations of the bacterial ribosome using a general purpose coarse-grained model MARTINI**|Josef Cikhart et.al.|[2503.21357](http://arxiv.org/abs/2503.21357)|null|
@@ -1447,6 +1450,39 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Deep learning-enabled prediction of surgical errors during cataract surgery: from simulation to real-world application**|Maxime Faure et.al.|[2503.22647](http://arxiv.org/abs/2503.22647)|null|
+|**2025-03-28**|**Hiding Latencies in Network-Based Image Loading for Deep Learning**|Francesco Versaci et.al.|[2503.22643](http://arxiv.org/abs/2503.22643)|null|
+|**2025-03-28**|**Evaluation of a Novel Quantitative Multiparametric MR Sequence for Radiation Therapy Treatment Response Assessment**|Yuhao Yan et.al.|[2503.22640](http://arxiv.org/abs/2503.22640)|null|
+|**2025-03-28**|**KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**|Thomas Boucher et.al.|[2503.22592](http://arxiv.org/abs/2503.22592)|null|
+|**2025-03-28**|**Assessing Foundation Models for Sea Ice Type Segmentation in Sentinel-1 SAR Imagery**|Samira Alkaee Taleghan et.al.|[2503.22516](http://arxiv.org/abs/2503.22516)|null|
+|**2025-03-28**|**SPDNet: Seasonal-Periodic Decomposition Network for Advanced Residential Demand Forecasting**|Reza Nematirad et.al.|[2503.22485](http://arxiv.org/abs/2503.22485)|null|
+|**2025-03-28**|**DeepOFormer: Deep Operator Learning with Domain-informed Features for Fatigue Life Prediction**|Chenyang Li et.al.|[2503.22475](http://arxiv.org/abs/2503.22475)|null|
+|**2025-03-28**|**Volumetric Material Decomposition Using Spectral Diffusion Posterior Sampling with a Compressed Polychromatic Forward Model**|Xiao Jiang et.al.|[2503.22392](http://arxiv.org/abs/2503.22392)|null|
+|**2025-03-28**|**ForcePose: A Deep Learning Approach for Force Calculation Based on Action Recognition Using MediaPipe Pose Estimation Combined with Object Detection**|Nandakishor M et.al.|[2503.22363](http://arxiv.org/abs/2503.22363)|null|
+|**2025-03-28**|**EchoFlow: A Foundation Model for Cardiac Ultrasound Image and Video Generation**|Hadrien Reynaud et.al.|[2503.22357](http://arxiv.org/abs/2503.22357)|null|
+|**2025-03-28**|**Error-Corrected Eternal Lifetime Storage**|Jie Ma et.al.|[2503.22355](http://arxiv.org/abs/2503.22355)|null|
+|**2025-03-28**|**Divide to Conquer: A Field Decomposition Approach for Multi-Organ Whole-Body CT Image Registration**|Xuan Loc Pham et.al.|[2503.22281](http://arxiv.org/abs/2503.22281)|null|
+|**2025-03-28**|**Efficient Epistemic Uncertainty Estimation in Cerebrovascular Segmentation**|Omini Rathore et.al.|[2503.22271](http://arxiv.org/abs/2503.22271)|null|
+|**2025-03-28**|**DREMnet: An Interpretable Denoising Framework for Semi-Airborne Transient Electromagnetic Signal**|Shuang Wang et.al.|[2503.22223](http://arxiv.org/abs/2503.22223)|null|
+|**2025-03-28**|**Interpretable Deep Learning Paradigm for Airborne Transient Electromagnetic Inversion**|Shuang Wang et.al.|[2503.22214](http://arxiv.org/abs/2503.22214)|null|
+|**2025-03-28**|**Fuzzy Cluster-Aware Contrastive Clustering for Time Series**|Congyu Wang et.al.|[2503.22211](http://arxiv.org/abs/2503.22211)|**[link](https://github.com/du-team/fcacc)**|
+|**2025-03-28**|**Intrinsic Image Decomposition for Robust Self-supervised Monocular Depth Estimation on Reflective Surfaces**|Wonhyeok Choi et.al.|[2503.22209](http://arxiv.org/abs/2503.22209)|null|
+|**2025-03-28**|**An Advanced Ensemble Deep Learning Framework for Stock Price Prediction Using VAE, Transformer, and LSTM Model**|Anindya Sarkar et.al.|[2503.22192](http://arxiv.org/abs/2503.22192)|null|
+|**2025-03-28**|**Traffic Modeling for Network Security and Privacy: Challenges Ahead**|Dinil Mon Divakaran et.al.|[2503.22161](http://arxiv.org/abs/2503.22161)|null|
+|**2025-03-28**|**Semantic segmentation for building houses from wooden cubes**|Ivan Beleacov et.al.|[2503.22125](http://arxiv.org/abs/2503.22125)|null|
+|**2025-03-28**|**CIMR-V: An End-to-End SRAM-based CIM Accelerator with RISC-V for AI Edge Device**|Yan-Cheng Guo and et.al.|[2503.22072](http://arxiv.org/abs/2503.22072)|null|
+|**2025-03-28**|**Contrasting Low and High-Resolution Features for HER2 Scoring using Deep Learning**|Ekansh Chauhan et.al.|[2503.22069](http://arxiv.org/abs/2503.22069)|null|
+|**2025-03-28**|**Low Rank and Sparse Fourier Structure in Recurrent Networks Trained on Modular Addition**|Akshay Rangamani et.al.|[2503.22059](http://arxiv.org/abs/2503.22059)|null|
+|**2025-03-28**|**Improving the generalization of deep learning models in the segmentation of mammography images**|Jan Hurtado et.al.|[2503.22052](http://arxiv.org/abs/2503.22052)|null|
+|**2025-03-28**|**A Deep Learning Framework for Boundary-Aware Semantic Segmentation**|Tai An et.al.|[2503.22050](http://arxiv.org/abs/2503.22050)|null|
+|**2025-03-27**|**FACETS: Efficient Once-for-all Object Detection via Constrained Iterative Search**|Tony Tran et.al.|[2503.21999](http://arxiv.org/abs/2503.21999)|null|
+|**2025-03-27**|**Benchmarking Deep Learning-Based Methods for Irradiance Nowcasting with Sky Images**|Lorenzo F. C. Varaschin et.al.|[2503.21966](http://arxiv.org/abs/2503.21966)|null|
+|**2025-03-27**|**Lobster: A GPU-Accelerated Framework for Neurosymbolic Programming**|Paul Biberstein et.al.|[2503.21937](http://arxiv.org/abs/2503.21937)|null|
+|**2025-03-27**|**Hybrid Emotion Recognition: Enhancing Customer Interactions Through Acoustic and Textual Analysis**|Sahan Hewage Wewelwala et.al.|[2503.21927](http://arxiv.org/abs/2503.21927)|null|
+|**2025-03-27**|**Comparative Analysis of Image, Video, and Audio Classifiers for Automated News Video Segmentation**|Jonathan Attard et.al.|[2503.21848](http://arxiv.org/abs/2503.21848)|null|
+|**2025-03-27**|**CMD-HAR: Cross-Modal Disentanglement for Wearable Human Activity Recognition**|Hanyu Liu et.al.|[2503.21843](http://arxiv.org/abs/2503.21843)|null|
+|**2025-03-26**|**Hybrid Multi-Stage Learning Framework for Edge Detection: A Survey**|Mark Phil Pacot et.al.|[2503.21827](http://arxiv.org/abs/2503.21827)|null|
+|**2025-03-26**|**Deep Learning-Based Quantitative Assessment of Renal Chronicity Indices in Lupus Nephritis**|Tianqi Tu et.al.|[2503.21818](http://arxiv.org/abs/2503.21818)|null|
 |**2025-03-27**|**A Unified Framework for Diffusion Bridge Problems: Flow Matching and Schrödinger Matching into One**|Minyoung Kim et.al.|[2503.21756](http://arxiv.org/abs/2503.21756)|null|
 |**2025-03-27**|**Enhancing Underwater Navigation through Cross-Correlation-Aware Deep INS/DVL Fusion**|Nadav Cohen et.al.|[2503.21727](http://arxiv.org/abs/2503.21727)|null|
 |**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681](http://arxiv.org/abs/2503.21681)|**[link](https://github.com/cgoliver/rnaglib)**|
@@ -10878,6 +10914,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**PharmAgents: Building a Virtual Pharma with Large Language Model Agents**|Bowen Gao et.al.|[2503.22164](http://arxiv.org/abs/2503.22164)|null|
 |**2025-03-26**|**Two for the Price of One: Integrating Large Language Models to Learn Biophysical Interactions**|Joseph D. Clark et.al.|[2503.21017](http://arxiv.org/abs/2503.21017)|null|
 |**2025-03-26**|**Reliable algorithm selection for machine learning-guided design**|Clara Fannjiang et.al.|[2503.20767](http://arxiv.org/abs/2503.20767)|null|
 |**2025-03-26**|**The First Hardware Demonstration of a Universal Programmable RRAM-based Probabilistic Computer for Molecular Docking**|Yihan He et.al.|[2503.20254](http://arxiv.org/abs/2503.20254)|null|
