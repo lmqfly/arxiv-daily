@@ -369,7 +369,7 @@
 |**2025-03-11**|**Concept-Driven Deep Learning for Enhanced Protein-Specific Molecular Generation**|Taojie Kuang et.al.|[2503.08160](http://arxiv.org/abs/2503.08160)|null|
 |**2025-03-07**|**Mol-CADiff: Causality-Aware Autoregressive Diffusion for Molecule Generation**|Md Atik Ahamed et.al.|[2503.05499](http://arxiv.org/abs/2503.05499)|null|
 |**2025-03-05**|**Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization**|Jiajun Yu et.al.|[2503.03503](http://arxiv.org/abs/2503.03503)|**[link](https://github.com/jiajunyu1999/LLM4Drug)**|
-|**2025-03-04**|**Straight-Line Diffusion Model for Efficient 3D Molecular Generation**|Yuyan Ni et.al.|[2503.02918](http://arxiv.org/abs/2503.02918)|null|
+|**2025-03-04**|**Straight-Line Diffusion Model for Efficient 3D Molecular Generation**|Yuyan Ni et.al.|[2503.02918](http://arxiv.org/abs/2503.02918)|**[link](https://github.com/fengshikun/SLDM)**|
 |**2025-03-03**|**Dynamic Search for Inference-Time Alignment in Diffusion Models**|Xiner Li et.al.|[2503.02039](http://arxiv.org/abs/2503.02039)|null|
 |**2025-03-03**|**InversionGNN: A Dual Path Network for Multi-Property Molecular Optimization**|Yifan Niu et.al.|[2503.01488](http://arxiv.org/abs/2503.01488)|**[link](https://github.com/ivanniu/inversiongnn)**|
 |**2025-03-02**|**Molecule Generation for Target Protein Binding with Hierarchical Consistency Diffusion Model**|Guanlue Li et.al.|[2503.00975](http://arxiv.org/abs/2503.00975)|**[link](https://github.com/guanlueli/AMDiff)**|
@@ -11246,7 +11246,7 @@
 |**2024-11-07**|**Equivariant Graph Attention Networks with Structural Motifs for Predicting Cell Line-Specific Synergistic Drug Combinations**|Zachary Schwehr et.al.|[2411.04747](http://arxiv.org/abs/2411.04747)|**[link](https://github.com/wetothemoon/egat_drugsynergy)**|
 |**2024-11-06**|**Multi-branch Spatio-Temporal Graph Neural Network For Efficient Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2411.04055](http://arxiv.org/abs/2411.04055)|null|
 |**2024-10-24**|**Optimal Equivariant Architectures from the Symmetries of Matrix-Element Likelihoods**|Daniel Maître et.al.|[2410.18553](http://arxiv.org/abs/2410.18553)|null|
-|**2024-10-17**|**Learning Graph Quantized Tokenizers for Transformers**|Limei Wang et.al.|[2410.13798](http://arxiv.org/abs/2410.13798)|**[link](https://github.com/limei0307/graph-tokenizer)**|
+|**2024-10-17**|**Learning Graph Quantized Tokenizers for Transformers**|Limei Wang et.al.|[2410.13798](http://arxiv.org/abs/2410.13798)|**[link](https://github.com/limei0307/GQT)**|
 |**2024-12-18**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction**|Longlong Li et.al.|[2410.11323](http://arxiv.org/abs/2410.11323)|null|
 |**2024-10-16**|**DeltaDock: A Unified Framework for Accurate, Efficient, and Physically Reliable Molecular Docking**|Jiaxian Yan et.al.|[2410.11224](http://arxiv.org/abs/2410.11224)|**[link](https://github.com/jiaxianyan/DeltaDock)**|
 |**2024-10-14**|**Dissecting embedding method: learning higher-order structures from data**|Liubov Tupikina et.al.|[2410.10917](http://arxiv.org/abs/2410.10917)|null|
