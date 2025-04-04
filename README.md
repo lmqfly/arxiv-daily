@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -231,7 +231,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## DDI
 
@@ -358,7 +358,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## MG
 
@@ -550,7 +550,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## MPP
 
@@ -747,7 +747,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## MD
 
@@ -761,7 +761,7 @@
 |**2025-03-28**|**Two-dimensional electronic spectroscopy in the condensed phase using equivariant transformer accelerated molecular dynamics simulations**|Joseph Kelly et.al.|[2503.22583](http://arxiv.org/abs/2503.22583)|null|
 |**2025-03-28**|**A Morphotropic Phase Boundary in MA $_{1-x}$FA$_x$PbI$_3$ : Linking Structure, Dynamics, and Electronic Properties**|Tobias Hainer et.al.|[2503.22372](http://arxiv.org/abs/2503.22372)|null|
 |**2025-03-27**|**Intrinsic Limitation of Conductivity in Depolymerized Sodium-ion Glassy Networks**|Léo Legrand et.al.|[2503.21624](http://arxiv.org/abs/2503.21624)|null|
-|**2025-03-27**|**Dielectric permittivity of water confined in stacks of charged lipid layers: extracting profiles from molecular dynamics simulations using a modified Poisson-Boltzmann equation**|Ludovic Gardré et.al.|[2503.21593](http://arxiv.org/abs/2503.21593)|null|
+|**2025-04-02**|**Dielectric permittivity of water confined in stacks of charged lipid layers: extracting profiles from molecular dynamics simulations using a modified Poisson-Boltzmann equation**|Ludovic Gardré et.al.|[2503.21593](http://arxiv.org/abs/2503.21593)|null|
 |**2025-03-27**|**Computer simulations of the bacterial ribosome using a general purpose coarse-grained model MARTINI**|Josef Cikhart et.al.|[2503.21357](http://arxiv.org/abs/2503.21357)|null|
 |**2025-03-26**|**Programming frictionless interfaces for moiré layers**|Zichong Zhang et.al.|[2503.20512](http://arxiv.org/abs/2503.20512)|null|
 |**2025-03-26**|**Effective and asymptotic scaling in a one-dimensional billiard problem**|Taras Holovatch et.al.|[2503.20476](http://arxiv.org/abs/2503.20476)|null|
@@ -1472,7 +1472,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Transformer
 
@@ -1513,7 +1513,7 @@
 |**2025-04-01**|**Deep Learning Model Predictive Control for Deep Brain Stimulation in Parkinson's Disease**|Sebastian Steffen et.al.|[2504.00618](http://arxiv.org/abs/2504.00618)|null|
 |**2025-04-01**|**Near Field Localization via AI-Aided Subspace Methods**|Arad Gast et.al.|[2504.00599](http://arxiv.org/abs/2504.00599)|null|
 |**2025-04-01**|**Deep Learning-Based Extended Target Tracking in ISAC Systems**|Yiqiu Wang et.al.|[2504.00576](http://arxiv.org/abs/2504.00576)|null|
-|**2025-04-01**|**Geometric Median Matching for Robust k-Subset Selection from Noisy Data**|Anish Acharya et.al.|[2504.00564](http://arxiv.org/abs/2504.00564)|null|
+|**2025-04-03**|**Geometric Median Matching for Robust k-Subset Selection from Noisy Data**|Anish Acharya et.al.|[2504.00564](http://arxiv.org/abs/2504.00564)|null|
 |**2025-04-01**|**SCRec: A Scalable Computational Storage System with Statistical Sharding and Tensor-train Decomposition for Recommendation Models**|Jinho Yang et.al.|[2504.00520](http://arxiv.org/abs/2504.00520)|null|
 |**2025-04-01**|**Training Frozen Feature Pyramid DINOv2 for Eyelid Measurements with Infinite Encoding and Orthogonal Regularization**|Chun-Hung Chen et.al.|[2504.00515](http://arxiv.org/abs/2504.00515)|**[link](https://github.com/jimchen1551/EyelidMeasure)**|
 |**2025-04-01**|**SCFANet: Style Distribution Constraint Feature Alignment Network For Pathological Staining Translation**|Zetong Chen et.al.|[2504.00490](http://arxiv.org/abs/2504.00490)|null|
@@ -1550,8 +1550,8 @@
 |**2025-03-31**|**Foundation Models For Seismic Data Processing: An Extensive Review**|Fabian Fuchs et.al.|[2503.24166](http://arxiv.org/abs/2503.24166)|**[link](https://codeberg.org/fuchsfa/foundation-models-seismic-processing)**|
 |**2025-03-31**|**AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models**|Uxue Delaquintana-Aramendi et.al.|[2503.24138](http://arxiv.org/abs/2503.24138)|**[link](https://github.com/udelaqui/foundation_models_for_polyp_detection_segmentation)**|
 |**2025-03-31**|**PixelCAM: Pixel Class Activation Mapping for Histology Image Classification and ROI Localization**|Alexis Guichemerre et.al.|[2503.24135](http://arxiv.org/abs/2503.24135)|**[link](https://github.com/alexisguichemerrecode/pixelcam)**|
-|**2025-03-31**|**IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration**|Valentin Boussot et.al.|[2503.24121](http://arxiv.org/abs/2503.24121)|**[link](https://github.com/vboussot/impactloss)**|
-|**2025-03-31**|**PolypSegTrack: Unified Foundation Model for Colonoscopy Video Analysis**|Anwesa Choudhuri et.al.|[2503.24108](http://arxiv.org/abs/2503.24108)|null|
+|**2025-04-03**|**IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration**|Valentin Boussot et.al.|[2503.24121](http://arxiv.org/abs/2503.24121)|**[link](https://github.com/vboussot/impactloss)**|
+|**2025-04-02**|**PolypSegTrack: Unified Foundation Model for Colonoscopy Video Analysis**|Anwesa Choudhuri et.al.|[2503.24108](http://arxiv.org/abs/2503.24108)|null|
 |**2025-03-31**|**Accelerated Airfoil Design Using Neural Network Approaches**|Anantram Patel et.al.|[2503.24052](http://arxiv.org/abs/2503.24052)|null|
 |**2025-04-01**|**A Deep Learning Framework for the Electronic Structure of Water: Towards a Universal Model**|Xinyuan Liang et.al.|[2503.24050](http://arxiv.org/abs/2503.24050)|null|
 |**2025-03-31**|**Bayesian Predictive Coding**|Alexander Tschantz et.al.|[2503.24016](http://arxiv.org/abs/2503.24016)|null|
@@ -11063,7 +11063,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Binding
 
@@ -11088,7 +11088,7 @@
 |**2025-02-09**|**Generating 3D Binding Molecules Using Shape-Conditioned Diffusion Models with Guidance**|Ziqi Chen et.al.|[2502.06027](http://arxiv.org/abs/2502.06027)|null|
 |**2025-01-09**|**Prediction of Binding Affinity for ErbB Inhibitors Using Deep Neural Network Model with Morgan Fingerprints as Features**|La Ode Aman et.al.|[2501.05607](http://arxiv.org/abs/2501.05607)|null|
 |**2025-01-05**|**From thermodynamics to protein design: Diffusion models for biomolecule generation towards autonomous protein engineering**|Wen-ran Li et.al.|[2501.02680](http://arxiv.org/abs/2501.02680)|null|
-|**2025-01-03**|**QuantumBind-RBFE: Accurate Relative Binding Free Energy Calculations Using Neural Network Potentials**|Francesc Sabanés Zariquiey et.al.|[2501.01811](http://arxiv.org/abs/2501.01811)|**[link](https://github.com/acellera/quantumbind_rbfe)**|
+|**2025-04-02**|**QuantumBind-RBFE: Accurate Relative Binding Free Energy Calculations Using Neural Network Potentials**|Francesc Sabanés Zariquiey et.al.|[2501.01811](http://arxiv.org/abs/2501.01811)|**[link](https://github.com/acellera/quantumbind_rbfe)**|
 |**2024-12-30**|**AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies**|Yibo Wen et.al.|[2412.20984](http://arxiv.org/abs/2412.20984)|null|
 |**2024-12-28**|**AI Model for Predicting Binding Affinity of Antidiabetic Compounds Targeting PPAR**|La Ode Aman et.al.|[2412.20011](http://arxiv.org/abs/2412.20011)|null|
 |**2024-12-28**|**Relative Binding Free Energy Estimation of Congeneric Ligands and Macromolecular Mutants with the Alchemical Transfer with Coordinate Swapping Method**|Emilio Gallicchio et.al.|[2412.19971](http://arxiv.org/abs/2412.19971)|null|
@@ -11282,7 +11282,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -11447,7 +11447,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
