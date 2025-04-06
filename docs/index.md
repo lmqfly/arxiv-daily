@@ -1511,14 +1511,14 @@ layout: default
 |**2025-04-01**|**Cooper: A Library for Constrained Optimization in Deep Learning**|Jose Gallego-Posada et.al.|[2504.01212](http://arxiv.org/abs/2504.01212)|**[link](https://github.com/cooper-org/cooper)**|
 |**2025-04-01**|**Towards Sign Distance Function based Metamaterial Design: Neural Operator Transformer for Forward Prediction and Diffusion Models for Inverse Design**|Qibang Liu et.al.|[2504.01195](http://arxiv.org/abs/2504.01195)|null|
 |**2025-04-01**|**Efficient n-body simulations using physics informed graph neural networks**|Víctor Ramos-Osuna et.al.|[2504.01169](http://arxiv.org/abs/2504.01169)|null|
-|**2025-04-01**|**ffstruc2vec: Flat, Flexible and Scalable Learning of Node Representations from Structural Identities**|Mario Heidrich et.al.|[2504.01122](http://arxiv.org/abs/2504.01122)|null|
+|**2025-04-01**|**ffstruc2vec: Flat, Flexible and Scalable Learning of Node Representations from Structural Identities**|Mario Heidrich et.al.|[2504.01122](http://arxiv.org/abs/2504.01122)|**[link](https://github.com/node-embedding/ffstruc2vec)**|
 |**2025-04-01**|**Initial Conditions from Galaxies: Machine-Learning Subgrid Correction to Standard Reconstruction**|Liam Parker et.al.|[2504.01092](http://arxiv.org/abs/2504.01092)|null|
 |**2025-04-01**|**A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities**|Enzhe Sun et.al.|[2504.00901](http://arxiv.org/abs/2504.00901)|null|
 |**2025-04-01**|**A Novel Deep Learning Method for Detecting Nucleon-Nucleon Correlations**|Yu-Jing Huang et.al.|[2504.00790](http://arxiv.org/abs/2504.00790)|null|
 |**2025-04-01**|**Scaling Up Resonate-and-Fire Networks for Fast Deep Learning**|Thomas E. Huber et.al.|[2504.00719](http://arxiv.org/abs/2504.00719)|null|
 |**2025-04-01**|**Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry**|Rui Wang et.al.|[2504.00660](http://arxiv.org/abs/2504.00660)|null|
 |**2025-04-01**|**Deep Learning Model Predictive Control for Deep Brain Stimulation in Parkinson's Disease**|Sebastian Steffen et.al.|[2504.00618](http://arxiv.org/abs/2504.00618)|null|
-|**2025-04-01**|**Near Field Localization via AI-Aided Subspace Methods**|Arad Gast et.al.|[2504.00599](http://arxiv.org/abs/2504.00599)|null|
+|**2025-04-01**|**Near Field Localization via AI-Aided Subspace Methods**|Arad Gast et.al.|[2504.00599](http://arxiv.org/abs/2504.00599)|**[link](https://github.com/ShlezingerLab/AI-Subspace-Methods)**|
 |**2025-04-01**|**Deep Learning-Based Extended Target Tracking in ISAC Systems**|Yiqiu Wang et.al.|[2504.00576](http://arxiv.org/abs/2504.00576)|null|
 |**2025-04-03**|**Geometric Median Matching for Robust k-Subset Selection from Noisy Data**|Anish Acharya et.al.|[2504.00564](http://arxiv.org/abs/2504.00564)|null|
 |**2025-04-01**|**SCRec: A Scalable Computational Storage System with Statistical Sharding and Tensor-train Decomposition for Recommendation Models**|Jinho Yang et.al.|[2504.00520](http://arxiv.org/abs/2504.00520)|null|
@@ -1527,12 +1527,12 @@ layout: default
 |**2025-04-01**|**Suite-IN++: A FlexiWear BodyNet Integrating Global and Local Motion Features from Apple Suite for Robust Inertial Navigation**|Lan Sun et.al.|[2504.00438](http://arxiv.org/abs/2504.00438)|null|
 |**2025-04-01**|**Unleashing the Power of Pre-trained Encoders for Universal Adversarial Attack Detection**|Yinghe Zhang et.al.|[2504.00429](http://arxiv.org/abs/2504.00429)|null|
 |**2025-04-01**|**Forward Learning with Differential Privacy**|Mingqian Feng et.al.|[2504.00411](http://arxiv.org/abs/2504.00411)|null|
-|**2025-04-01**|**AMP4EC: Adaptive Model Partitioning Framework for Efficient Deep Learning Inference in Edge Computing Environments**|Guilin Zhang et.al.|[2504.00407](http://arxiv.org/abs/2504.00407)|null|
+|**2025-04-01**|**AMP4EC: Adaptive Model Partitioning Framework for Efficient Deep Learning Inference in Edge Computing Environments**|Guilin Zhang et.al.|[2504.00407](http://arxiv.org/abs/2504.00407)|**[link](https://github.com/cloudNativeAiops/adaptive-edge-computing-framework)**|
 |**2025-04-01**|**Minimum Description Length of a Spectrum Variational Autoencoder: A Theory**|Canlin Zhang et.al.|[2504.00395](http://arxiv.org/abs/2504.00395)|null|
 |**2025-04-01**|**AP-CAP: Advancing High-Quality Data Synthesis for Animal Pose Estimation via a Controllable Image Generation Pipeline**|Lei Wang et.al.|[2504.00394](http://arxiv.org/abs/2504.00394)|null|
 |**2025-04-01**|**Deep learning for state estimation of commercial sodium-ion batteries using partial charging profiles: validation with a multi-temperature ageing dataset**|Jiapeng Liu et.al.|[2504.00393](http://arxiv.org/abs/2504.00393)|null|
 |**2025-04-01**|**Geo2ComMap: Deep Learning-Based MIMO Throughput Prediction Using Geographic Data**|Fan-Hao Lin et.al.|[2504.00351](http://arxiv.org/abs/2504.00351)|**[link](https://github.com/geo2commap/geo2commap)**|
-|**2025-04-02**|**SeizureTransformer: Scaling U-Net with Transformer for Simultaneous Time-Step Level Seizure Detection from Long EEG Recordings**|Kerui Wu et.al.|[2504.00336](http://arxiv.org/abs/2504.00336)|null|
+|**2025-04-02**|**SeizureTransformer: Scaling U-Net with Transformer for Simultaneous Time-Step Level Seizure Detection from Long EEG Recordings**|Kerui Wu et.al.|[2504.00336](http://arxiv.org/abs/2504.00336)|**[link](https://github.com/keruiwu/SeizureTransformer)**|
 |**2025-04-01**|**Domain Adaptation Under MNAR Missingness**|Tyrel Stokes et.al.|[2504.00322](http://arxiv.org/abs/2504.00322)|null|
 |**2025-04-01**|**LOCO-EPI: Leave-one-chromosome-out (LOCO) as a benchmarking paradigm for deep learning based prediction of enhancer-promoter interactions**|Muhammad Tahir et.al.|[2504.00306](http://arxiv.org/abs/2504.00306)|**[link](https://github.com/malikmtahir/epi)**|
 |**2025-04-01**|**Deconver: A Deconvolutional Network for Medical Image Segmentation**|Pooya Ashtari et.al.|[2504.00302](http://arxiv.org/abs/2504.00302)|**[link](https://github.com/pashtari/deconver)**|
@@ -1541,7 +1541,7 @@ layout: default
 |**2025-03-31**|**Fixed-Attention Mechanism for Deep-Learning-Assisted Design of High-Degree-of-Freedom 3D Metamaterials**|Huanshu Zhang et.al.|[2504.00203](http://arxiv.org/abs/2504.00203)|null|
 |**2025-03-31**|**SmartScan: An AI-based Interactive Framework for Automated Region Extraction from Satellite Images**|Savinay Nagendra et.al.|[2504.00200](http://arxiv.org/abs/2504.00200)|null|
 |**2025-03-31**|**Detecting Glioma, Meningioma, and Pituitary Tumors, and Normal Brain Tissues based on Yolov11 and Yolov8 Deep Learning Models**|Ahmed M. Taha et.al.|[2504.00189](http://arxiv.org/abs/2504.00189)|null|
-|**2025-03-31**|**Improving Predictions of Convective Storm Wind Gusts through Statistical Post-Processing of Neural Weather Models**|Antoine Leclerc et.al.|[2504.00128](http://arxiv.org/abs/2504.00128)|null|
+|**2025-03-31**|**Improving Predictions of Convective Storm Wind Gusts through Statistical Post-Processing of Neural Weather Models**|Antoine Leclerc et.al.|[2504.00128](http://arxiv.org/abs/2504.00128)|**[link](https://github.com/antlrc/convectivethunderstormwindgust_ml)**|
 |**2025-03-31**|**LLMs for Explainable AI: A Comprehensive Survey**|Ahsan Bilal et.al.|[2504.00125](http://arxiv.org/abs/2504.00125)|null|
 |**2025-03-31**|**EMForecaster: A Deep Learning Framework for Time Series Forecasting in Wireless Networks with Distribution-Free Uncertainty Quantification**|Xavier Mootoo et.al.|[2504.00120](http://arxiv.org/abs/2504.00120)|null|
 |**2025-03-31**|**CF-CAM: Gradient Perturbation Mitigation and Feature Stabilization for Reliable Interpretability**|Hongjie He et.al.|[2504.00060](http://arxiv.org/abs/2504.00060)|null|
