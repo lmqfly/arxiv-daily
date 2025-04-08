@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -769,7 +769,7 @@ layout: default
 |**2025-03-19**|**Ideal Weyl fermions and double Kagome bands in a series of distorted armchair-type all- $\emph{sp}^{2}$ carbon networks**|Yun-Yun Bai et.al.|[2503.14993](http://arxiv.org/abs/2503.14993)|null|
 |**2025-03-19**|**An empirical formulation of accelerated molecular dynamics for simulating and predicting microstructure evolution in materials**|Liang Wan et.al.|[2503.14294](http://arxiv.org/abs/2503.14294)|null|
 |**2025-03-19**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
-|**2025-03-18**|**Dynamical Classification of Supercooled Liquids: Critical Cooling Rates and Entropic Signatures**|B Zhang et.al.|[2503.13960](http://arxiv.org/abs/2503.13960)|null|
+|**2025-04-06**|**Dynamical Classification of Supercooled Liquids: Critical Cooling Rates and Entropic Signatures**|B Zhang et.al.|[2503.13960](http://arxiv.org/abs/2503.13960)|null|
 |**2025-03-18**|**Autocatalysis due to combinatorial enhancement**|Nanako Hirano et.al.|[2503.13865](http://arxiv.org/abs/2503.13865)|null|
 |**2025-03-17**|**Nanodroplet Dynamics: Coalescence and Impact**|Ertiza Hossain Shopnil et.al.|[2503.13659](http://arxiv.org/abs/2503.13659)|null|
 |**2025-03-17**|**Atomic dynamics and local structural disorder during ultrafast melting of polycrystalline Pd**|Adam Olczak et.al.|[2503.13618](http://arxiv.org/abs/2503.13618)|null|
@@ -1503,7 +1503,7 @@ layout: default
 |**2025-04-03**|**Industrial Internet Robot Collaboration System and Edge Computing Optimization**|Qian Zuo et.al.|[2504.02492](http://arxiv.org/abs/2504.02492)|null|
 |**2025-04-03**|**Graph Attention-Driven Bayesian Deep Unrolling for Dual-Peak Single-Photon Lidar Imaging**|Kyungmin Choi et.al.|[2504.02480](http://arxiv.org/abs/2504.02480)|null|
 |**2025-04-03**|**Semantic segmentation of forest stands using deep learning**|Håkon Næss Sandum et.al.|[2504.02471](http://arxiv.org/abs/2504.02471)|null|
-|**2025-04-03**|**Improving turbulence control through explainable deep learning**|Miguel Beneitez et.al.|[2504.02354](http://arxiv.org/abs/2504.02354)|null|
+|**2025-04-07**|**Improving turbulence control through explainable deep learning**|Miguel Beneitez et.al.|[2504.02354](http://arxiv.org/abs/2504.02354)|null|
 |**2025-04-03**|**Towards Assessing Deep Learning Test Input Generators**|Seif Mzoughi et.al.|[2504.02329](http://arxiv.org/abs/2504.02329)|null|
 |**2025-04-03**|**Temporal Gaussian Copula For Clinical Multivariate Time Series Data Imputation**|Ye Su et.al.|[2504.02317](http://arxiv.org/abs/2504.02317)|null|
 |**2025-04-04**|**Stock Price Prediction Using Triple Barrier Labeling and Raw OHLCV Data: Evidence from Korean Markets**|Sungwoo Kang et.al.|[2504.02249](http://arxiv.org/abs/2504.02249)|null|
@@ -1514,7 +1514,7 @@ layout: default
 |**2025-03-31**|**A Concise Survey on Lane Topology Reasoning for HD Mapping**|Yi Yao et.al.|[2504.01989](http://arxiv.org/abs/2504.01989)|null|
 |**2025-04-02**|**Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging**|Mohini Anand et.al.|[2504.01953](http://arxiv.org/abs/2504.01953)|null|
 |**2025-04-02**|**Architect Your Landscape Approach (AYLA) for Optimizations in Deep Learning**|Ben Keslaki et.al.|[2504.01875](http://arxiv.org/abs/2504.01875)|null|
-|**2025-04-02**|**Memory-efficient Low-latency Remote Photoplethysmography through Temporal-Spatial State Space Duality**|Kegang Wang et.al.|[2504.01774](http://arxiv.org/abs/2504.01774)|**[link](https://github.com/health-hci-group/me-rppg-demo)**|
+|**2025-04-07**|**Memory-efficient Low-latency Remote Photoplethysmography through Temporal-Spatial State Space Duality**|Kegang Wang et.al.|[2504.01774](http://arxiv.org/abs/2504.01774)|**[link](https://github.com/health-hci-group/me-rppg-demo)**|
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|Namhun Kim et.al.|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Sparse Gaussian Neural Processes**|Tommy Rochussen et.al.|[2504.01650](http://arxiv.org/abs/2504.01650)|null|
 |**2025-04-02**|**The Mini-SiTian Array: real-bogus classification using deep learning**|Jing-Hang Shi et.al.|[2504.01608](http://arxiv.org/abs/2504.01608)|null|
