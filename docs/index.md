@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**GraphPINE: Graph Importance Propagation for Interpretable Drug Response Prediction**|Yoshitaka Inoue et.al.|[2504.05454](http://arxiv.org/abs/2504.05454)|null|
 |**2025-04-02**|**HCAF-DTA: drug-target binding affinity prediction with cross-attention fused hypergraph neural networks**|Jiannuo Li et.al.|[2504.02014](http://arxiv.org/abs/2504.02014)|null|
 |**2025-04-01**|**Accelerating drug discovery with Artificial: a whole-lab orchestration and scheduling system for self-driving labs**|Yao Fehlis et.al.|[2504.00986](http://arxiv.org/abs/2504.00986)|null|
 |**2025-03-31**|**Pharmolix-FM: All-Atom Foundation Models for Molecular Modeling and Generation**|Yizhen Luo et.al.|[2503.21788](http://arxiv.org/abs/2503.21788)|**[link](https://github.com/pharmolix/openbiomed)**|
@@ -542,6 +543,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Adaptive Substructure-Aware Expert Model for Molecular Property Prediction**|Tianyi Jiang et.al.|[2504.05844](http://arxiv.org/abs/2504.05844)|null|
 |**2025-04-03**|**Improving Counterfactual Truthfulness for Molecular Property Prediction through Uncertainty Quantification**|Jonas Teufel et.al.|[2504.02606](http://arxiv.org/abs/2504.02606)|null|
 |**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105](http://arxiv.org/abs/2503.21105)|**[link](https://github.com/snudatalab/AugWard)**|
 |**2025-03-19**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
@@ -738,6 +740,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Have you tried turning it off and on again? Stochastic resetting for enhanced sampling**|Ofir Blumer et.al.|[2504.05982](http://arxiv.org/abs/2504.05982)|null|
+|**2025-04-07**|**Comprehensive Insights into the Cholesterol-Mediated Modulation of Membrane Function through Molecular Dynamics Simulations**|Ehsaneh Khodadadi et.al.|[2504.05564](http://arxiv.org/abs/2504.05564)|null|
+|**2025-04-07**|**Towards "on-demand" van der Waals epitaxy with hpc-driven online ensemble sampling**|Soumendu Bagchi et.al.|[2504.05539](http://arxiv.org/abs/2504.05539)|null|
 |**2025-04-07**|**Uncovering the roughness effect on inelastic phonon scattering and thermal conductance at interface via spectral energy exchange**|Jinyuan Xu et.al.|[2504.04696](http://arxiv.org/abs/2504.04696)|null|
 |**2025-04-04**|**Splash in an inhomogeneous gas in one dimension: Exact analysis and molecular dynamics simulations**|Amit Kumar et.al.|[2504.03549](http://arxiv.org/abs/2504.03549)|null|
 |**2025-04-03**|**Modelling Interfacial Dynamics Using Hydrodynamic Density Functional Theory: Dynamic Contact Angles and the Role of Local Viscosity**|Benjamin Bursik et.al.|[2504.03032](http://arxiv.org/abs/2504.03032)|null|
@@ -1467,6 +1472,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185](http://arxiv.org/abs/2504.06185)|null|
+|**2025-04-08**|**Multi-Modality Sensing in mmWave Beamforming for Connected Vehicles Using Deep Learning**|Muhammad Baqer Mollah et.al.|[2504.06173](http://arxiv.org/abs/2504.06173)|**[link](https://github.com/mbaqer/V2X-mmWave-Beamforming)**|
+|**2025-04-08**|**PINP: Physics-Informed Neural Predictor with latent estimation of fluid flows**|Huaguan Chen et.al.|[2504.06070](http://arxiv.org/abs/2504.06070)|null|
+|**2025-04-08**|**AI analysis of medical images at scale as a health disparities probe: a feasibility demonstration using chest radiographs**|Heather M. Whitney et.al.|[2504.05990](http://arxiv.org/abs/2504.05990)|null|
+|**2025-04-08**|**Comparative Analysis of Classical and Quantum-Inspired Solvers: A Preliminary Study on the Weighted Max-Cut Problem**|Aitor Morais et.al.|[2504.05989](http://arxiv.org/abs/2504.05989)|null|
+|**2025-04-08**|**Learning-enhanced electronic skin for tactile sensing on deformable surface based on electrical impedance tomography**|Huazhi Dong et.al.|[2504.05987](http://arxiv.org/abs/2504.05987)|null|
+|**2025-04-08**|**Autoencoder-Based Detection of Anomalous Stokes V Spectra in the Flare-Producing Active Region 13663 Using Hinode/SP Observations**|Jargalmaa Batmunkh et.al.|[2504.05962](http://arxiv.org/abs/2504.05962)|null|
+|**2025-04-08**|**Drought forecasting using a hybrid neural architecture for integrating time series and static data**|Julian Agudelo et.al.|[2504.05957](http://arxiv.org/abs/2504.05957)|null|
+|**2025-04-08**|**Residual U-Net for accurate and efficient prediction of hemodynamics in two-dimensional asymmetric stenosis**|Xintong Zou et.al.|[2504.05778](http://arxiv.org/abs/2504.05778)|null|
+|**2025-04-08**|**Accelerated Natural Gradient Method for Parametric Manifold Optimization**|Chenyi Li et.al.|[2504.05753](http://arxiv.org/abs/2504.05753)|null|
+|**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751](http://arxiv.org/abs/2504.05751)|null|
+|**2025-04-08**|**StayLTC: A Cost-Effective Multimodal Framework for Hospital Length of Stay Forecasting**|Sudeshna Jana et.al.|[2504.05691](http://arxiv.org/abs/2504.05691)|null|
+|**2025-04-08**|**Dual Boost-Driven Graph-Level Clustering Network**|John Smith et.al.|[2504.05670](http://arxiv.org/abs/2504.05670)|null|
+|**2025-04-08**|**PTRL: Prior Transfer Deep Reinforcement Learning for Legged Robots Locomotion**|Haodong Huang et.al.|[2504.05629](http://arxiv.org/abs/2504.05629)|null|
+|**2025-04-08**|**Spectral Similarity Masks Structural Diversity at Hydrophobic Water Interfaces**|Yong Wang et.al.|[2504.05593](http://arxiv.org/abs/2504.05593)|null|
+|**2025-04-07**|**Towards Efficient Real-Time Video Motion Transfer via Generative Time Series Modeling**|Tasmiah Haque et.al.|[2504.05537](http://arxiv.org/abs/2504.05537)|null|
+|**2025-04-07**|**FORCE: Feature-Oriented Representation with Clustering and Explanation**|Rishav Mukherjee et.al.|[2504.05530](http://arxiv.org/abs/2504.05530)|null|
+|**2025-04-07**|**A Solid-State Nanopore Signal Generator for Training Machine Learning Models**|Jaise Johnson et.al.|[2504.05466](http://arxiv.org/abs/2504.05466)|null|
+|**2025-04-07**|**Large-Scale Classification of Shortwave Communication Signals with Machine Learning**|Stefan Scholl et.al.|[2504.05455](http://arxiv.org/abs/2504.05455)|null|
+|**2025-04-07**|**Biomechanical Constraints Assimilation in Deep-Learning Image Registration: Application to sliding and locally rigid deformations**|Ziad Kheil et.al.|[2504.05444](http://arxiv.org/abs/2504.05444)|null|
+|**2025-04-07**|**Safe Automated Refactoring for Efficient Migration of Imperative Deep Learning Programs to Graph Execution**|Raffi Khatchadourian et.al.|[2504.05424](http://arxiv.org/abs/2504.05424)|null|
+|**2025-04-07**|**A Novel Approach to Linking Histology Images with DNA Methylation**|Manahil Raza et.al.|[2504.05403](http://arxiv.org/abs/2504.05403)|null|
+|**2025-04-07**|**Deep Learning for Double Auction**|Jiayin Liu et.al.|[2504.05355](http://arxiv.org/abs/2504.05355)|null|
+|**2025-04-05**|**Improving Early Prediction of Type 2 Diabetes Mellitus with ECG-DiaNet: A Multimodal Neural Network Leveraging Electrocardiogram and Clinical Risk Factors**|Farida Mohsen et.al.|[2504.05338](http://arxiv.org/abs/2504.05338)|null|
+|**2025-04-05**|**Quantum Adaptive Self-Attention for Quantum Transformer Models**|Chi-Sheng Chen et.al.|[2504.05336](http://arxiv.org/abs/2504.05336)|null|
 |**2025-04-07**|**Contour Integration Underlies Human-Like Vision**|Ben Lonnqvist et.al.|[2504.05253](http://arxiv.org/abs/2504.05253)|null|
 |**2025-04-08**|**PEAKS: Selecting Key Training Examples Incrementally via Prediction Error Anchored by Kernel Similarity**|Mustafa Burak Gurbuz et.al.|[2504.05250](http://arxiv.org/abs/2504.05250)|null|
 |**2025-04-07**|**Security Risks in Vision-Based Beam Prediction: From Spatial Proxy Attacks to Feature Refinement**|Avi Deb Raha et.al.|[2504.05222](http://arxiv.org/abs/2504.05222)|null|
