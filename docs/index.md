@@ -740,6 +740,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Inverse Design of Block Polymer Materials with Desired Nanoscale Structure and Macroscale Properties**|Vinson Liao et.al.|[2504.07834](http://arxiv.org/abs/2504.07834)|null|
+|**2025-04-10**|**Mechanical Amorphization of Glass-Forming Systems Induced by Oscillatory Deformation: The Energy Absorption and Efficiency Control**|Baoshuang Shang et.al.|[2504.07798](http://arxiv.org/abs/2504.07798)|null|
+|**2025-04-10**|**Infrared Spectroscopy of Pentagon-Containing PAHs: Indenyl and Fluorenyl Anions and Indenyl Cation**|Gabi Wenzel et.al.|[2504.07512](http://arxiv.org/abs/2504.07512)|null|
+|**2025-04-10**|**Homogeneous nucleation rate of carbon dioxide hydrate formation under experimental condition from Seeding simulations**|I. M. Zerón et.al.|[2504.07492](http://arxiv.org/abs/2504.07492)|null|
+|**2025-04-09**|**Flow-driven Stretch Fluctuations Cause Anomalous Rate-Thinning In Elongating Associative Polymers**|Songyue Liu et.al.|[2504.07281](http://arxiv.org/abs/2504.07281)|null|
 |**2025-04-08**|**On the interfacial properties of hydroquinone: realistic and coarse-grained molecular models from computer simulation**|M. J. Torrejón et.al.|[2504.06361](http://arxiv.org/abs/2504.06361)|null|
 |**2025-04-08**|**A comprehensive framework to simulate real-time chemical dynamics on a fault-tolerant quantum computer**|Felipe H. da Jornada et.al.|[2504.06348](http://arxiv.org/abs/2504.06348)|null|
 |**2025-04-08**|**Have you tried turning it off and on again? Stochastic resetting for enhanced sampling**|Ofir Blumer et.al.|[2504.05982](http://arxiv.org/abs/2504.05982)|null|
@@ -1474,6 +1479,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
+|**2025-04-10**|**Deep Learning-based Intrusion Detection Systems: A Survey**|Zhiwei Xu et.al.|[2504.07839](http://arxiv.org/abs/2504.07839)|null|
+|**2025-04-10**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|null|
+|**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
+|**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793](http://arxiv.org/abs/2504.07793)|null|
+|**2025-04-10**|**PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development**|Zhenhuan Zhou et.al.|[2504.07760](http://arxiv.org/abs/2504.07760)|null|
+|**2025-04-10**|**A Novel Deep Learning Approach for Emulating Computationally Expensive Postfire Debris Flows**|Palak Patel et.al.|[2504.07736](http://arxiv.org/abs/2504.07736)|null|
+|**2025-04-10**|**Transformer-Based Robust Underwater Inertial Navigation in Prolonged Doppler Velocity Log Outages**|Zeev Yampolsky et.al.|[2504.07697](http://arxiv.org/abs/2504.07697)|null|
+|**2025-04-10**|**Clicks, comments, consequences: Are content creators' socio-structural and platform characteristics shaping the exposure to negative sentiment, offensive language, and hate speech on YouTube?**|Sarah Weißmann et.al.|[2504.07676](http://arxiv.org/abs/2504.07676)|null|
+|**2025-04-10**|**Prediction of Usage Probabilities of Shopping-Mall Corridors Using Heterogeneous Graph Neural Networks**|Malik M Barakathullah et.al.|[2504.07645](http://arxiv.org/abs/2504.07645)|null|
+|**2025-04-10**|**Deep Learning Meets Teleconnections: Improving S2S Predictions for European Winter Weather**|Philine L. Bommer et.al.|[2504.07625](http://arxiv.org/abs/2504.07625)|null|
+|**2025-04-10**|**Heart Failure Prediction using Modal Decomposition and Masked Autoencoders for Scarce Echocardiography Databases**|Andrés Bell-Navas et.al.|[2504.07606](http://arxiv.org/abs/2504.07606)|null|
+|**2025-04-10**|**Deep Learning Based Service Composition in Integrated Aerial-Terrestrial Networks**|Mohammad Farhoudi et.al.|[2504.07528](http://arxiv.org/abs/2504.07528)|null|
+|**2025-04-10**|**Intelligent DoS and DDoS Detection: A Hybrid GRU-NTM Approach to Network Security**|Caroline Panggabean et.al.|[2504.07478](http://arxiv.org/abs/2504.07478)|null|
+|**2025-04-10**|**Novel Pooling-based VGG-Lite for Pneumonia and Covid-19 Detection from Imbalanced Chest X-Ray Datasets**|Santanu Roy et.al.|[2504.07468](http://arxiv.org/abs/2504.07468)|null|
+|**2025-04-10**|**Synthetic CT Generation from Time-of-Flight Non-Attenutaion-Corrected PET for Whole-Body PET Attenuation Correction**|Weijie Chen et.al.|[2504.07450](http://arxiv.org/abs/2504.07450)|null|
+|**2025-04-10**|**LLM-Enabled Data Transmission in End-to-End Semantic Communication**|Shavbo Salehi et.al.|[2504.07431](http://arxiv.org/abs/2504.07431)|null|
+|**2025-04-10**|**Deep Learning-Based Wideband Spectrum Sensing with Dual-Representation Inputs and Subband Shuffling Augmentation**|Shilian Zheng et.al.|[2504.07427](http://arxiv.org/abs/2504.07427)|null|
+|**2025-04-10**|**WK-Pnet: FM-Based Positioning via Wavelet Packet Decomposition and Knowledge Distillation**|Shilian Zheng et.al.|[2504.07399](http://arxiv.org/abs/2504.07399)|null|
+|**2025-04-09**|**Leveraging deep learning for plant disease identification: a bibliometric analysis in SCOPUS from 2018 to 2024**|Enow Takang Achuo Albert et.al.|[2504.07342](http://arxiv.org/abs/2504.07342)|null|
+|**2025-04-09**|**Identifying regions of interest in whole slide images of renal cell carcinoma**|Mohammed Lamine Benomar et.al.|[2504.07313](http://arxiv.org/abs/2504.07313)|null|
+|**2025-04-09**|**Data Fusion of Deep Learned Molecular Embeddings for Property Prediction**|Robert J Appleton et.al.|[2504.07297](http://arxiv.org/abs/2504.07297)|null|
+|**2025-04-09**|**Adapting to Online Distribution Shifts in Deep Learning: A Black-Box Approach**|Dheeraj Baby et.al.|[2504.07261](http://arxiv.org/abs/2504.07261)|null|
+|**2025-04-09**|**Few-Shot Adaptation of Grounding DINO for Agricultural Domain**|Rajhans Singh et.al.|[2504.07252](http://arxiv.org/abs/2504.07252)|null|
+|**2025-04-09**|**Dual Deep Learning Approach for Non-invasive Renal Tumour Subtyping with VERDICT-MRI**|Snigdha Sen et.al.|[2504.07246](http://arxiv.org/abs/2504.07246)|null|
+|**2025-04-09**|**A new training approach for text classification in Mental Health: LatentGLoss**|Korhan Sevinç et.al.|[2504.07245](http://arxiv.org/abs/2504.07245)|null|
+|**2025-04-09**|**Leveraging Machine Learning Techniques in Intrusion Detection Systems for Internet of Things**|Saeid Jamshidi et.al.|[2504.07220](http://arxiv.org/abs/2504.07220)|null|
+|**2025-04-09**|**PLM-eXplain: Divide and Conquer the Protein Embedding Space**|Jan van Eck et.al.|[2504.07156](http://arxiv.org/abs/2504.07156)|null|
+|**2025-04-09**|**Compound Fault Diagnosis for Train Transmission Systems Using Deep Learning with Fourier-enhanced Representation**|Jonathan Adam Rico et.al.|[2504.07155](http://arxiv.org/abs/2504.07155)|null|
+|**2025-04-09**|**Deep Sturm--Liouville: From Sample-Based to 1D Regularization with Learnable Orthogonal Basis Functions**|David Vigouroux et.al.|[2504.07151](http://arxiv.org/abs/2504.07151)|null|
 |**2025-04-09**|**Detecting AI-generated Artwork**|Meien Li et.al.|[2504.07078](http://arxiv.org/abs/2504.07078)|null|
 |**2025-04-09**|**Physics informed neural network for forward and inverse modeling of low grade brain tumors**|K. Murari et.al.|[2504.07058](http://arxiv.org/abs/2504.07058)|null|
 |**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028](http://arxiv.org/abs/2504.07028)|null|
