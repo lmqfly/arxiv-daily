@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1487,12 +1487,12 @@ layout: default
 |**2025-04-09**|**Hybrid CNN with Chebyshev Polynomial Expansion for Medical Image Analysis**|Abhinav Roy et.al.|[2504.06811](http://arxiv.org/abs/2504.06811)|null|
 |**2025-04-09**|**Mass Balance Approximation of Unfolding Improves Potential-Like Methods for Protein Stability Predictions**|Ivan Rossi et.al.|[2504.06806](http://arxiv.org/abs/2504.06806)|null|
 |**2025-04-09**|**DIMA: DIffusing Motion Artifacts for unsupervised correction in brain MRI images**|Paolo Angella et.al.|[2504.06767](http://arxiv.org/abs/2504.06767)|null|
-|**2025-04-09**|**nnLandmark: A Self-Configuring Method for 3D Medical Landmark Detection**|Alexandra Ertl et.al.|[2504.06742](http://arxiv.org/abs/2504.06742)|null|
+|**2025-04-10**|**nnLandmark: A Self-Configuring Method for 3D Medical Landmark Detection**|Alexandra Ertl et.al.|[2504.06742](http://arxiv.org/abs/2504.06742)|null|
 |**2025-04-09**|**Clustering and novel class recognition: evaluating bioacoustic deep learning feature extractors**|Vincent S. Kather et.al.|[2504.06710](http://arxiv.org/abs/2504.06710)|null|
 |**2025-04-09**|**Deep Learning for Cardiovascular Risk Assessment: Proxy Features from Carotid Sonography as Predictors of Arterial Damage**|Christoph Balada et.al.|[2504.06680](http://arxiv.org/abs/2504.06680)|null|
 |**2025-04-09**|**Robust and Noise-resilient Long-Term Prediction of Spatiotemporal Data Using Variational Mode Graph Neural Networks with 3D Attention**|Osama Ahmad et.al.|[2504.06660](http://arxiv.org/abs/2504.06660)|null|
 |**2025-04-09**|**Identifying the Nano Interface Through Phase**|Madhuri Mukhopadhyay et.al.|[2504.06655](http://arxiv.org/abs/2504.06655)|null|
-|**2025-04-09**|**AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection**|Tiange Huang et.al.|[2504.06643](http://arxiv.org/abs/2504.06643)|null|
+|**2025-04-10**|**AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection**|Tiange Huang et.al.|[2504.06643](http://arxiv.org/abs/2504.06643)|null|
 |**2025-04-09**|**The Method for Storing Patterns in Neural Networks-Memorization and Recall of QR code Patterns-**|Hiroshi Inazawa et.al.|[2504.06631](http://arxiv.org/abs/2504.06631)|null|
 |**2025-04-09**|**Entropy Production in Non-Gaussian Active Matter: A Unified Fluctuation Theorem and Deep Learning Framework**|Yuanfei Huang et.al.|[2504.06628](http://arxiv.org/abs/2504.06628)|null|
 |**2025-04-09**|**TabKAN: Advancing Tabular Data Analysis using Kolmograv-Arnold Network**|Ali Eslamian et.al.|[2504.06559](http://arxiv.org/abs/2504.06559)|null|
@@ -1560,7 +1560,7 @@ layout: default
 |**2025-04-06**|**Evaluation framework for Image Segmentation Algorithms**|Tatiana Merkulova et.al.|[2504.04435](http://arxiv.org/abs/2504.04435)|null|
 |**2025-04-06**|**Pre-trained Language Models and Few-shot Learning for Medical Entity Extraction**|Xiaokai Wang et.al.|[2504.04385](http://arxiv.org/abs/2504.04385)|null|
 |**2025-04-06**|**DSSR-Net for Super-Resolution Radar Range Profiles**|Ziwen Wang et.al.|[2504.04358](http://arxiv.org/abs/2504.04358)|null|
-|**2025-04-06**|**Extending Cox Proportional Hazards Model with Symbolic Non-Linear Log-Risk Functions for Survival Analysis**|Jiaxiang Cheng et.al.|[2504.04353](http://arxiv.org/abs/2504.04353)|null|
+|**2025-04-06**|**Extending Cox Proportional Hazards Model with Symbolic Non-Linear Log-Risk Functions for Survival Analysis**|Jiaxiang Cheng et.al.|[2504.04353](http://arxiv.org/abs/2504.04353)|**[link](https://github.com/jiaxiang-cheng/KAN-for-Survival-Analysis)**|
 |**2025-04-06**|**MedM-VL: What Makes a Good Medical LVLM?**|Yiming Shi et.al.|[2504.04323](http://arxiv.org/abs/2504.04323)|null|
 |**2025-04-05**|**A Comparative Study of Explainable AI Methods: Model-Agnostic vs. Model-Specific Approaches**|Keerthi Devireddy et.al.|[2504.04276](http://arxiv.org/abs/2504.04276)|null|
 |**2025-04-05**|**Loss Functions in Deep Learning: A Comprehensive Review**|Omar Elharrouss et.al.|[2504.04242](http://arxiv.org/abs/2504.04242)|null|
