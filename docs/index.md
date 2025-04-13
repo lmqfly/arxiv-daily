@@ -1483,7 +1483,7 @@ layout: default
 |**2025-04-10**|**Deep Learning-based Intrusion Detection Systems: A Survey**|Zhiwei Xu et.al.|[2504.07839](http://arxiv.org/abs/2504.07839)|null|
 |**2025-04-10**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|null|
 |**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
-|**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793](http://arxiv.org/abs/2504.07793)|null|
+|**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793](http://arxiv.org/abs/2504.07793)|**[link](https://github.com/limchaos/likelihood-ood)**|
 |**2025-04-10**|**PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development**|Zhenhuan Zhou et.al.|[2504.07760](http://arxiv.org/abs/2504.07760)|null|
 |**2025-04-10**|**A Novel Deep Learning Approach for Emulating Computationally Expensive Postfire Debris Flows**|Palak Patel et.al.|[2504.07736](http://arxiv.org/abs/2504.07736)|null|
 |**2025-04-10**|**Transformer-Based Robust Underwater Inertial Navigation in Prolonged Doppler Velocity Log Outages**|Zeev Yampolsky et.al.|[2504.07697](http://arxiv.org/abs/2504.07697)|null|
@@ -1535,7 +1535,7 @@ layout: default
 |**2025-04-08**|**Exploiting Meta-Learning-based Poisoning Attacks for Graph Link Prediction**|Mingchen Li et.al.|[2504.06492](http://arxiv.org/abs/2504.06492)|null|
 |**2025-04-08**|**Deep Fair Learning: A Unified Framework for Fine-tuning Representations with Sufficient Networks**|Enze Shi et.al.|[2504.06470](http://arxiv.org/abs/2504.06470)|null|
 |**2025-04-08**|**Physics-informed KAN PointNet: Deep learning for simultaneous solutions to inverse problems in incompressible flow on numerous irregular geometries**|Ali Kashefi et.al.|[2504.06327](http://arxiv.org/abs/2504.06327)|null|
-|**2025-04-08**|**DeepGDel: Deep Learning-based Gene Deletion Prediction Framework for Growth-Coupled Production in Genome-Scale Metabolic Models**|Ziwei Yang et.al.|[2504.06316](http://arxiv.org/abs/2504.06316)|null|
+|**2025-04-08**|**DeepGDel: Deep Learning-based Gene Deletion Prediction Framework for Growth-Coupled Production in Genome-Scale Metabolic Models**|Ziwei Yang et.al.|[2504.06316](http://arxiv.org/abs/2504.06316)|**[link](https://github.com/metnetcomp/deepgdel)**|
 |**2025-04-08**|**AI-Driven Reconstruction of Large-Scale Structure from Combined Photometric and Spectroscopic Surveys**|Wenying Du et.al.|[2504.06309](http://arxiv.org/abs/2504.06309)|null|
 |**2025-04-07**|**Going beyond explainability in multi-modal stroke outcome prediction models**|Jonas Brändli et.al.|[2504.06299](http://arxiv.org/abs/2504.06299)|null|
 |**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185](http://arxiv.org/abs/2504.06185)|null|
@@ -1577,7 +1577,7 @@ layout: default
 |**2025-04-07**|**Content-Aware Transformer for All-in-one Image Restoration**|Gang Wu et.al.|[2504.04869](http://arxiv.org/abs/2504.04869)|null|
 |**2025-04-07**|**Inland Waterway Object Detection in Multi-environment: Dataset and Approach**|Shanshan Wang et.al.|[2504.04835](http://arxiv.org/abs/2504.04835)|null|
 |**2025-04-07**|**Bottom-Up Scattering Information Perception Network for SAR target recognition**|Chenxi Zhao et.al.|[2504.04780](http://arxiv.org/abs/2504.04780)|null|
-|**2025-04-07**|**Feature Importance-Aware Deep Joint Source-Channel Coding for Computationally Efficient and Adjustable Image Transmission**|Hansung Choi et.al.|[2504.04758](http://arxiv.org/abs/2504.04758)|null|
+|**2025-04-07**|**Feature Importance-Aware Deep Joint Source-Channel Coding for Computationally Efficient and Adjustable Image Transmission**|Hansung Choi et.al.|[2504.04758](http://arxiv.org/abs/2504.04758)|**[link](https://github.com/hansung-choi/fajscc)**|
 |**2025-04-07**|**Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models**|Yoojin Jung et.al.|[2504.04747](http://arxiv.org/abs/2504.04747)|null|
 |**2025-04-07**|**scAgent: Universal Single-Cell Annotation via a LLM Agent**|Yuren Mao et.al.|[2504.04698](http://arxiv.org/abs/2504.04698)|null|
 |**2025-04-07**|**Interval-Valued Time Series Classification Using $D_K$ -Distance**|Wan Tian et.al.|[2504.04667](http://arxiv.org/abs/2504.04667)|null|
