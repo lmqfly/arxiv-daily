@@ -741,6 +741,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Similarity Constrained CC2 for Efficient Coupled Cluster Nonadiabatic Dynamics**|Leo Stoll et.al.|[2504.11157](http://arxiv.org/abs/2504.11157)|null|
 |**2025-04-11**|**PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models**|Fanmeng Wang et.al.|[2504.08859](http://arxiv.org/abs/2504.08859)|null|
 |**2025-04-10**|**Enhanced Classical Nucleation Theory for Cavitation Inception in the Presence of Gaseous Nuclei**|Mazyar Dawoodian et.al.|[2504.08828](http://arxiv.org/abs/2504.08828)|null|
 |**2025-04-11**|**An Efficient Integrator Scheme for Sampling the (Quantum) Isobaric-Isothermal Ensemble in (Path Integral) Molecular Dynamics Simulations**|Weihao Liang et.al.|[2504.08342](http://arxiv.org/abs/2504.08342)|null|
@@ -1483,6 +1484,39 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Mamba-Based Ensemble learning for White Blood Cell Classification**|Lewis Clifton et.al.|[2504.11438](http://arxiv.org/abs/2504.11438)|null|
+|**2025-04-15**|**Predicting Wave Dynamics using Deep Learning with Multistep Integration Inspired Attention and Physics-Based Loss Decomposition**|Indu Kant Deo et.al.|[2504.11433](http://arxiv.org/abs/2504.11433)|null|
+|**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416](http://arxiv.org/abs/2504.11416)|null|
+|**2025-04-15**|**Robustness and sex differences in skin cancer detection: logistic regression vs CNNs**|Nikolette Pedersen et.al.|[2504.11415](http://arxiv.org/abs/2504.11415)|null|
+|**2025-04-15**|**Multi-level Cellular Automata for FLIM networks**|Felipe Crispim Salvagnini et.al.|[2504.11406](http://arxiv.org/abs/2504.11406)|null|
+|**2025-04-15**|**Uncertainty Estimation for Trust Attribution to Speed-of-Sound Reconstruction with Variational Networks**|Sonia Laguna et.al.|[2504.11307](http://arxiv.org/abs/2504.11307)|null|
+|**2025-04-15**|**CFIS-YOLO: A Lightweight Multi-Scale Fusion Network for Edge-Deployable Wood Defect Detection**|Jincheng Kang et.al.|[2504.11305](http://arxiv.org/abs/2504.11305)|null|
+|**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286](http://arxiv.org/abs/2504.11286)|null|
+|**2025-04-15**|**DeepSelective: Feature Gating and Representation Matching for Interpretable Clinical Prediction**|Ruochi Zhang et.al.|[2504.11264](http://arxiv.org/abs/2504.11264)|null|
+|**2025-04-15**|**Guided Wave-Based Structural Awareness Under Varying Operating States via Manifold Representations**|Yiming Fan et.al.|[2504.11235](http://arxiv.org/abs/2504.11235)|null|
+|**2025-04-15**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170](http://arxiv.org/abs/2504.11170)|null|
+|**2025-04-15**|**YOLO-RS: Remote Sensing Enhanced Crop Detection Methods**|Linlin Xiao et.al.|[2504.11165](http://arxiv.org/abs/2504.11165)|null|
+|**2025-04-15**|**Scalable Transceiver Design for Multi-User Communication in FDD Massive MIMO Systems via Deep Learning**|Lin Zhu et.al.|[2504.11162](http://arxiv.org/abs/2504.11162)|null|
+|**2025-04-15**|**An Unsupervised Network Architecture Search Method for Solving Partial Differential Equations**|Qing Li et.al.|[2504.11140](http://arxiv.org/abs/2504.11140)|null|
+|**2025-04-15**|**Flyweight FLIM Networks for Salient Object Detection in Biomedical Images**|Leonardo M. Joao et.al.|[2504.11112](http://arxiv.org/abs/2504.11112)|null|
+|**2025-04-15**|**QAMA: Quantum annealing multi-head attention operator with classical deep learning framework**|Peng Du et.al.|[2504.11083](http://arxiv.org/abs/2504.11083)|null|
+|**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
+|**2025-04-15**|**Neural Control Barrier Functions from Physics Informed Neural Networks**|Shreenabh Agrawal et.al.|[2504.11045](http://arxiv.org/abs/2504.11045)|null|
+|**2025-04-15**|**Deep Learning in Concealed Dense Prediction**|Pancheng Zhao et.al.|[2504.10979](http://arxiv.org/abs/2504.10979)|null|
+|**2025-04-15**|**Self-Supervised Enhancement of Forward-Looking Sonar Images: Bridging Cross-Modal Degradation Gaps through Feature Space Transformation and Multi-Frame Fusion**|Zhisheng Zhang et.al.|[2504.10974](http://arxiv.org/abs/2504.10974)|null|
+|**2025-04-15**|**Embedding Radiomics into Vision Transformers for Multimodal Medical Image Classification**|Zhenyu Yang et.al.|[2504.10916](http://arxiv.org/abs/2504.10916)|null|
+|**2025-04-15**|**Uplink Assisted Joint Channel Estimation and CSI Feedback: An Approach Based on Deep Joint Source-Channel Coding**|Yiran Guo et.al.|[2504.10836](http://arxiv.org/abs/2504.10836)|null|
+|**2025-04-15**|**LightFormer: A lightweight and efficient decoder for remote sensing image segmentation**|Sihang Chen et.al.|[2504.10834](http://arxiv.org/abs/2504.10834)|null|
+|**2025-04-15**|**Progressive Rock Music Classification**|Arpan Nagar et.al.|[2504.10821](http://arxiv.org/abs/2504.10821)|null|
+|**2025-04-15**|**AdapCsiNet: Environment-Adaptive CSI Feedback via Scene Graph-Aided Deep Learning**|Jiayi Liu et.al.|[2504.10798](http://arxiv.org/abs/2504.10798)|null|
+|**2025-04-15**|**Rainy: Unlocking Satellite Calibration for Deep Learning in Precipitation**|Zhenyu Yu et.al.|[2504.10776](http://arxiv.org/abs/2504.10776)|null|
+|**2025-04-15**|**Three-dimensional neural network driving self-interference digital holography enables high-fidelity, non-scanning volumetric fluorescence microscopy**|Tianlong Man et.al.|[2504.10769](http://arxiv.org/abs/2504.10769)|null|
+|**2025-04-14**|**Real-time Seafloor Segmentation and Mapping**|Michele Grimaldi et.al.|[2504.10750](http://arxiv.org/abs/2504.10750)|null|
+|**2025-04-14**|**Frozen Layers: Memory-efficient Many-fidelity Hyperparameter Optimization**|Timur Carstensen et.al.|[2504.10735](http://arxiv.org/abs/2504.10735)|null|
+|**2025-04-14**|**Perturbed State Space Feature Encoders for Optical Flow with Event Cameras**|Gokul Raju Govinda Raju et.al.|[2504.10669](http://arxiv.org/abs/2504.10669)|null|
+|**2025-04-14**|**Un marco conceptual para la generación de requerimientos de software de calidad**|Mauro José Pacchiotti et.al.|[2504.10654](http://arxiv.org/abs/2504.10654)|null|
+|**2025-04-14**|**Data Augmentation Through Random Style Replacement**|Qikai Yang et.al.|[2504.10563](http://arxiv.org/abs/2504.10563)|null|
+|**2025-04-11**|**Remote Sensing Based Crop Health Classification Using NDVI and Fully Connected Neural Networks**|J. Judith et.al.|[2504.10522](http://arxiv.org/abs/2504.10522)|null|
 |**2025-04-14**|**REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**|Xingjian Leng et.al.|[2504.10483](http://arxiv.org/abs/2504.10483)|null|
 |**2025-04-14**|**Integrating Vision and Location with Transformers: A Multimodal Deep Learning Framework for Medical Wound Analysis**|Ramin Mousa et.al.|[2504.10452](http://arxiv.org/abs/2504.10452)|null|
 |**2025-04-14**|**Better Coherence, Better Height: Fusing Physical Models and Deep Learning for Forest Height Estimation from Interferometric SAR Data**|Ragini Bal Mahesh et.al.|[2504.10395](http://arxiv.org/abs/2504.10395)|null|
