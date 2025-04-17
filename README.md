@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -235,7 +235,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## DDI
 
@@ -362,7 +362,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## MG
 
@@ -402,7 +402,7 @@
 |**2024-10-31**|**Diffusion Twigs with Loop Guidance for Conditional Graph Generation**|Giangiacomo Mercatali et.al.|[2410.24012](http://arxiv.org/abs/2410.24012)|**[link](https://github.com/aalto-quml/diffusion_twigs)**|
 |**2025-01-23**|**A Foundation Model for Chemical Design and Property Prediction**|Feiyang Cai et.al.|[2410.21422](http://arxiv.org/abs/2410.21422)|**[link](https://github.com/TheLuoFengLab/ChemFM)**|
 |**2024-10-26**|**SAFE setup for generative molecular design**|Yassir El Mesbahi et.al.|[2410.20232](http://arxiv.org/abs/2410.20232)|null|
-|**2024-10-26**|**Chemical Language Model Linker: blending text and molecules with modular adapters**|Yifan Deng et.al.|[2410.20182](http://arxiv.org/abs/2410.20182)|**[link](https://github.com/gitter-lab/chemlml)**|
+|**2025-04-16**|**Chemical Language Model Linker: blending text and molecules with modular adapters**|Yifan Deng et.al.|[2410.20182](http://arxiv.org/abs/2410.20182)|**[link](https://github.com/gitter-lab/chemlml)**|
 |**2024-10-21**|**Generative Design of Functional Metal Complexes Utilizing the Internal Knowledge of Large Language Models**|Jieyu Lu et.al.|[2410.18136](http://arxiv.org/abs/2410.18136)|null|
 |**2024-10-17**|**Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model**|Yida Xiong et.al.|[2410.13597](http://arxiv.org/abs/2410.13597)|null|
 |**2025-02-17**|**MING: A Functional Approach to Learning Molecular Generative Models**|Van Khoa Nguyen et.al.|[2410.12522](http://arxiv.org/abs/2410.12522)|null|
@@ -554,7 +554,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## MPP
 
@@ -753,7 +753,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## MD
 
@@ -764,7 +764,7 @@
 |**2025-04-10**|**Enhanced Classical Nucleation Theory for Cavitation Inception in the Presence of Gaseous Nuclei**|Mazyar Dawoodian et.al.|[2504.08828](http://arxiv.org/abs/2504.08828)|null|
 |**2025-04-11**|**An Efficient Integrator Scheme for Sampling the (Quantum) Isobaric-Isothermal Ensemble in (Path Integral) Molecular Dynamics Simulations**|Weihao Liang et.al.|[2504.08342](http://arxiv.org/abs/2504.08342)|null|
 |**2025-04-10**|**Inverse Design of Block Polymer Materials with Desired Nanoscale Structure and Macroscale Properties**|Vinson Liao et.al.|[2504.07834](http://arxiv.org/abs/2504.07834)|null|
-|**2025-04-10**|**Mechanical Amorphization of Glass-Forming Systems Induced by Oscillatory Deformation: The Energy Absorption and Efficiency Control**|Baoshuang Shang et.al.|[2504.07798](http://arxiv.org/abs/2504.07798)|null|
+|**2025-04-16**|**Mechanical Amorphization of Glass-Forming Systems Induced by Oscillatory Deformation: The Energy Absorption and Efficiency Control**|Baoshuang Shang et.al.|[2504.07798](http://arxiv.org/abs/2504.07798)|null|
 |**2025-04-10**|**Infrared Spectroscopy of Pentagon-Containing PAHs: Indenyl and Fluorenyl Anions and Indenyl Cation**|Gabi Wenzel et.al.|[2504.07512](http://arxiv.org/abs/2504.07512)|null|
 |**2025-04-10**|**Homogeneous nucleation rate of carbon dioxide hydrate formation under experimental condition from Seeding simulations**|I. M. Zerón et.al.|[2504.07492](http://arxiv.org/abs/2504.07492)|null|
 |**2025-04-09**|**Flow-driven Stretch Fluctuations Cause Anomalous Rate-Thinning In Elongating Associative Polymers**|Songyue Liu et.al.|[2504.07281](http://arxiv.org/abs/2504.07281)|null|
@@ -1498,7 +1498,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## Transformer
 
@@ -1514,7 +1514,7 @@
 |**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286](http://arxiv.org/abs/2504.11286)|null|
 |**2025-04-15**|**DeepSelective: Feature Gating and Representation Matching for Interpretable Clinical Prediction**|Ruochi Zhang et.al.|[2504.11264](http://arxiv.org/abs/2504.11264)|null|
 |**2025-04-15**|**Guided Wave-Based Structural Awareness Under Varying Operating States via Manifold Representations**|Yiming Fan et.al.|[2504.11235](http://arxiv.org/abs/2504.11235)|null|
-|**2025-04-15**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170](http://arxiv.org/abs/2504.11170)|null|
+|**2025-04-16**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170](http://arxiv.org/abs/2504.11170)|null|
 |**2025-04-15**|**YOLO-RS: Remote Sensing Enhanced Crop Detection Methods**|Linlin Xiao et.al.|[2504.11165](http://arxiv.org/abs/2504.11165)|null|
 |**2025-04-15**|**Scalable Transceiver Design for Multi-User Communication in FDD Massive MIMO Systems via Deep Learning**|Lin Zhu et.al.|[2504.11162](http://arxiv.org/abs/2504.11162)|null|
 |**2025-04-15**|**An Unsupervised Network Architecture Search Method for Solving Partial Differential Equations**|Qing Li et.al.|[2504.11140](http://arxiv.org/abs/2504.11140)|null|
@@ -1523,7 +1523,7 @@
 |**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
 |**2025-04-15**|**Neural Control Barrier Functions from Physics Informed Neural Networks**|Shreenabh Agrawal et.al.|[2504.11045](http://arxiv.org/abs/2504.11045)|null|
 |**2025-04-15**|**Deep Learning in Concealed Dense Prediction**|Pancheng Zhao et.al.|[2504.10979](http://arxiv.org/abs/2504.10979)|null|
-|**2025-04-15**|**Self-Supervised Enhancement of Forward-Looking Sonar Images: Bridging Cross-Modal Degradation Gaps through Feature Space Transformation and Multi-Frame Fusion**|Zhisheng Zhang et.al.|[2504.10974](http://arxiv.org/abs/2504.10974)|null|
+|**2025-04-16**|**Self-Supervised Enhancement of Forward-Looking Sonar Images: Bridging Cross-Modal Degradation Gaps through Feature Space Transformation and Multi-Frame Fusion**|Zhisheng Zhang et.al.|[2504.10974](http://arxiv.org/abs/2504.10974)|null|
 |**2025-04-15**|**Embedding Radiomics into Vision Transformers for Multimodal Medical Image Classification**|Zhenyu Yang et.al.|[2504.10916](http://arxiv.org/abs/2504.10916)|null|
 |**2025-04-15**|**Uplink Assisted Joint Channel Estimation and CSI Feedback: An Approach Based on Deep Joint Source-Channel Coding**|Yiran Guo et.al.|[2504.10836](http://arxiv.org/abs/2504.10836)|null|
 |**2025-04-15**|**LightFormer: A lightweight and efficient decoder for remote sensing image segmentation**|Sihang Chen et.al.|[2504.10834](http://arxiv.org/abs/2504.10834)|null|
@@ -1549,7 +1549,7 @@
 |**2025-04-14**|**CAT: A Conditional Adaptation Tailor for Efficient and Effective Instance-Specific Pansharpening on Real-World Data**|Tianyu Xin et.al.|[2504.10242](http://arxiv.org/abs/2504.10242)|null|
 |**2025-04-14**|**Challenges in interpretability of additive models**|Xinyu Zhang et.al.|[2504.10169](http://arxiv.org/abs/2504.10169)|null|
 |**2025-04-14**|**Continual learning for rotating machinery fault diagnosis with cross-domain environmental and operational variations**|Diogo Risca et.al.|[2504.10151](http://arxiv.org/abs/2504.10151)|null|
-|**2025-04-14**|**BoTTA: Benchmarking on-device Test Time Adaptation**|Michal Danilowski et.al.|[2504.10149](http://arxiv.org/abs/2504.10149)|null|
+|**2025-04-16**|**BoTTA: Benchmarking on-device Test Time Adaptation**|Michal Danilowski et.al.|[2504.10149](http://arxiv.org/abs/2504.10149)|null|
 |**2025-04-14**|**Learning to Beamform for Cooperative Localization and Communication: A Link Heterogeneous GNN-Based Approach**|Lixiang Lian et.al.|[2504.10060](http://arxiv.org/abs/2504.10060)|null|
 |**2025-04-14**|**Luminis Stellarum et Machina: Applications of Machine Learning in Light Curve Analysis**|Almat Akhmetali et.al.|[2504.10038](http://arxiv.org/abs/2504.10038)|null|
 |**2025-04-14**|**Balancing Two Classifiers via A Simplex ETF Structure for Model Calibration**|Jiani Ni et.al.|[2504.10007](http://arxiv.org/abs/2504.10007)|null|
@@ -1584,7 +1584,7 @@
 |**2025-04-10**|**Adaptive Shrinkage Estimation For Personalized Deep Kernel Regression In Modeling Brain Trajectories**|Vasiliki Tassopoulou et.al.|[2504.08840](http://arxiv.org/abs/2504.08840)|null|
 |**2025-04-10**|**PatchTrAD: A Patch-Based Transformer focusing on Patch-Wise Reconstruction Error for Time Series Anomaly Detection**|Samy-Melwan Vilhes et.al.|[2504.08827](http://arxiv.org/abs/2504.08827)|null|
 |**2025-04-11**|**Quantum Large Language Model Fine-Tuning**|Sang Hyub Kim et.al.|[2504.08732](http://arxiv.org/abs/2504.08732)|null|
-|**2025-04-11**|**ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**|Sahil Sethi et.al.|[2504.08713](http://arxiv.org/abs/2504.08713)|null|
+|**2025-04-15**|**ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**|Sahil Sethi et.al.|[2504.08713](http://arxiv.org/abs/2504.08713)|**[link](https://github.com/bbj-lab/protoecgnet)**|
 |**2025-04-11**|**Channel Estimation by Infinite Width Convolutional Networks**|Mohammed Mallik et.al.|[2504.08660](http://arxiv.org/abs/2504.08660)|null|
 |**2025-04-11**|**Deep Learning Methods for Detecting Thermal Runaway Events in Battery Production Lines**|Athanasios Athanasopoulos et.al.|[2504.08632](http://arxiv.org/abs/2504.08632)|**[link](https://github.com/athanath/detect-thermal-runaway)**|
 |**2025-04-11**|**Efficient Mixture of Geographical Species for On Device Wildlife Monitoring**|Emmanuel Azuh Mensah et.al.|[2504.08620](http://arxiv.org/abs/2504.08620)|null|
@@ -11381,7 +11381,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## Binding
 
@@ -11605,7 +11605,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -11773,7 +11773,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
