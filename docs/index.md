@@ -741,6 +741,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Epitaxial formation of ultrathin HfO2 on graphene by sequential oxidation**|Zhenjing Liu et.al.|[2504.11693](http://arxiv.org/abs/2504.11693)|null|
+|**2025-04-15**|**Reconstructions and Dynamics of $β$ -Lithium Thiophosphate Surfaces**|Hanna Türk et.al.|[2504.11553](http://arxiv.org/abs/2504.11553)|null|
 |**2025-04-15**|**Similarity Constrained CC2 for Efficient Coupled Cluster Nonadiabatic Dynamics**|Leo Stoll et.al.|[2504.11157](http://arxiv.org/abs/2504.11157)|null|
 |**2025-04-11**|**PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models**|Fanmeng Wang et.al.|[2504.08859](http://arxiv.org/abs/2504.08859)|null|
 |**2025-04-10**|**Enhanced Classical Nucleation Theory for Cavitation Inception in the Presence of Gaseous Nuclei**|Mazyar Dawoodian et.al.|[2504.08828](http://arxiv.org/abs/2504.08828)|null|
@@ -1484,6 +1486,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Beyond Reconstruction: A Physics Based Neural Deferred Shader for Photo-realistic Rendering**|Zhuo He et.al.|[2504.12273](http://arxiv.org/abs/2504.12273)|null|
+|**2025-04-16**|**Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration**|Xiaojian Chen et.al.|[2504.12265](http://arxiv.org/abs/2504.12265)|null|
+|**2025-04-16**|**Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography**|Zhijin He et.al.|[2504.12249](http://arxiv.org/abs/2504.12249)|null|
+|**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
+|**2025-04-16**|**Beyond Patches: Mining Interpretable Part-Prototypes for Explainable AI**|Mahdi Alehdaghi et.al.|[2504.12197](http://arxiv.org/abs/2504.12197)|null|
+|**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|null|
+|**2025-04-16**|**Generative Deep Learning Framework for Inverse Design of Fuels**|Kiran K. Yalamanchi et.al.|[2504.12075](http://arxiv.org/abs/2504.12075)|null|
+|**2025-04-16**|**Exploring Video-Based Driver Activity Recognition under Noisy Labels**|Linjuan Fan et.al.|[2504.11966](http://arxiv.org/abs/2504.11966)|null|
+|**2025-04-16**|**Novel-view X-ray Projection Synthesis through Geometry-Integrated Deep Learning**|Daiqi Liu et.al.|[2504.11953](http://arxiv.org/abs/2504.11953)|null|
+|**2025-04-16**|**Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation**|Jie Wang et.al.|[2504.11949](http://arxiv.org/abs/2504.11949)|null|
+|**2025-04-16**|**Mind2Matter: Creating 3D Models from EEG Signals**|Xia Deng et.al.|[2504.11936](http://arxiv.org/abs/2504.11936)|null|
+|**2025-04-16**|**SemDiff: Generating Natural Unrestricted Adversarial Examples via Semantic Attributes Optimization in Diffusion Models**|Zeyu Dai et.al.|[2504.11923](http://arxiv.org/abs/2504.11923)|null|
+|**2025-04-16**|**Deep learning to improve the discovery of near-Earth asteroids in the Zwicky Transient Facility**|Belén Yu Irureta-Goyena et.al.|[2504.11918](http://arxiv.org/abs/2504.11918)|null|
+|**2025-04-16**|**Benchmarking Mutual Information-based Loss Functions in Federated Learning**|Sarang S et.al.|[2504.11877](http://arxiv.org/abs/2504.11877)|null|
+|**2025-04-16**|**A Category-Fragment Segmentation Framework for Pelvic Fracture Segmentation in X-ray Images**|Daiqi Liu et.al.|[2504.11872](http://arxiv.org/abs/2504.11872)|null|
+|**2025-04-16**|**Synthetic Data for Blood Vessel Network Extraction**|Joël Mathys et.al.|[2504.11858](http://arxiv.org/abs/2504.11858)|null|
+|**2025-04-16**|**Cross-Frequency Collaborative Training Network and Dataset for Semi-supervised First Molar Root Canal Segmentation**|Zhenhuan Zhou et.al.|[2504.11856](http://arxiv.org/abs/2504.11856)|null|
+|**2025-04-16**|**Manifold meta-learning for reduced-complexity neural system identification**|Marco Forgione et.al.|[2504.11811](http://arxiv.org/abs/2504.11811)|null|
+|**2025-04-15**|**Transformer-Driven Neural Beamforming with Imperfect CSI in Urban Macro Wireless Channels**|Cemil Vahapoglu et.al.|[2504.11667](http://arxiv.org/abs/2504.11667)|null|
+|**2025-04-15**|**DamageCAT: A Deep Learning Transformer Framework for Typology-Based Post-Disaster Building Damage Categorization**|Yiming Xiao et.al.|[2504.11637](http://arxiv.org/abs/2504.11637)|null|
+|**2025-04-15**|**Possibility for Proactive Anomaly Detection**|Jinsung Jeon et.al.|[2504.11623](http://arxiv.org/abs/2504.11623)|null|
+|**2025-04-15**|**Towards Interpretable Deep Generative Models via Causal Representation Learning**|Gemma E. Moran et.al.|[2504.11609](http://arxiv.org/abs/2504.11609)|null|
+|**2025-04-15**|**Deep Learning Approaches for Medical Imaging Under Varying Degrees of Label Availability: A Comprehensive Survey**|Siteng Ma et.al.|[2504.11588](http://arxiv.org/abs/2504.11588)|null|
+|**2025-04-15**|**Towards a Universal Vibration Analysis Dataset: A Framework for Transfer Learning in Predictive Maintenance and Structural Health Monitoring**|Mert Sehri et.al.|[2504.11581](http://arxiv.org/abs/2504.11581)|null|
+|**2025-04-15**|**Enhancing Deterministic Freezing Level Predictions in the Northern Sierra Nevada Through Deep Neural Networks**|Vesta Afzali Gorooh et.al.|[2504.11560](http://arxiv.org/abs/2504.11560)|null|
+|**2025-04-15**|**ConvShareViT: Enhancing Vision Transformers with Convolutional Attention Mechanisms for Free-Space Optical Accelerators**|Riad Ibadulla et.al.|[2504.11517](http://arxiv.org/abs/2504.11517)|null|
+|**2025-04-14**|**Attention GhostUNet++: Enhanced Segmentation of Adipose Tissue and Liver in CT Images**|Mansoor Hayat et.al.|[2504.11491](http://arxiv.org/abs/2504.11491)|null|
 |**2025-04-15**|**Mamba-Based Ensemble learning for White Blood Cell Classification**|Lewis Clifton et.al.|[2504.11438](http://arxiv.org/abs/2504.11438)|null|
 |**2025-04-15**|**Predicting Wave Dynamics using Deep Learning with Multistep Integration Inspired Attention and Physics-Based Loss Decomposition**|Indu Kant Deo et.al.|[2504.11433](http://arxiv.org/abs/2504.11433)|null|
 |**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416](http://arxiv.org/abs/2504.11416)|null|
@@ -1541,7 +1570,7 @@ layout: default
 |**2025-04-13**|**Automatic Detection of Intro and Credits in Video using CLIP and Multihead Attention**|Vasilii Korolkov et.al.|[2504.09738](http://arxiv.org/abs/2504.09738)|null|
 |**2025-04-13**|**ToolTipNet: A Segmentation-Driven Deep Learning Baseline for Surgical Instrument Tip Detection**|Zijian Wu et.al.|[2504.09700](http://arxiv.org/abs/2504.09700)|null|
 |**2025-04-13**|**Evaluating Machine Learning-Driven Intrusion Detection Systems in IoT: Performance and Energy Consumption**|Saeid Jamshidi et.al.|[2504.09634](http://arxiv.org/abs/2504.09634)|null|
-|**2025-04-13**|**Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images**|Jiuchen Chen et.al.|[2504.09621](http://arxiv.org/abs/2504.09621)|null|
+|**2025-04-13**|**Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images**|Jiuchen Chen et.al.|[2504.09621](http://arxiv.org/abs/2504.09621)|**[link](https://github.com/CastleChen339/DehazeXL)**|
 |**2025-04-13**|**Reduction of Supervision for Biomedical Knowledge Discovery**|Christos Theodoropoulos et.al.|[2504.09582](http://arxiv.org/abs/2504.09582)|null|
 |**2025-04-13**|**Causal integration of chemical structures improves representations of microscopy images for morphological profiling**|Yemin Yu et.al.|[2504.09544](http://arxiv.org/abs/2504.09544)|null|
 |**2025-04-13**|**Capturing Longitudinal Changes in Brain Morphology Using Temporally Parameterized Neural Displacement Fields**|Aisha L. Shuaibu et.al.|[2504.09514](http://arxiv.org/abs/2504.09514)|null|
