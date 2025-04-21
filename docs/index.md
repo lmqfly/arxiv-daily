@@ -445,6 +445,7 @@ layout: default
 |**2024-03-05**|**DeepBioisostere: Discovering Bioisosteres with Deep Learning for a Fine Control of Multiple Molecular Properties**|Hyeongwoo Kim et.al.|[2403.02706](http://arxiv.org/abs/2403.02706)|null|
 |**2024-01-15**|**Binding-Adaptive Diffusion Models for Structure-Based Drug Design**|Zhilin Huang et.al.|[2402.18583](http://arxiv.org/abs/2402.18583)|**[link](https://github.com/yangling0818/binddm)**|
 |**2024-01-18**|**Attention Based Molecule Generation via Hierarchical Variational Autoencoder**|Divahar Sivanesan et.al.|[2402.16854](http://arxiv.org/abs/2402.16854)|null|
+|**2025-04-18**|**E(3)-equivariant models cannot learn chirality: Field-based molecular generation**|Alexandru Dumitrescu et.al.|[2402.15864](http://arxiv.org/abs/2402.15864)|null|
 |**2024-03-15**|**Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling**|Yuwei Yang et.al.|[2402.14315](http://arxiv.org/abs/2402.14315)|null|
 |**2024-02-21**|**An Evaluation of Large Language Models in Bioinformatics Research**|Hengchuang Yin et.al.|[2402.13714](http://arxiv.org/abs/2402.13714)|null|
 |**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708](http://arxiv.org/abs/2402.08708)|**[link](https://github.com/zincware/zndraw)**|
@@ -741,6 +742,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**A new thermodynamic function for binary mixtures: the co-molar volume**|Kristian Polanco Olsen et.al.|[2504.13602](http://arxiv.org/abs/2504.13602)|null|
 |**2025-04-18**|**Maximum Information Extraction From Noisy Data Via Shannon Entropy Minimization**|Matteo Becchi et.al.|[2504.12990](http://arxiv.org/abs/2504.12990)|null|
 |**2025-04-18**|**Observing Nucleation and Crystallization of Rocksalt LiF from Molten State through Molecular Dynamics Simulations with Refined Machine-Learned Force Field**|Boyuan Xu et.al.|[2504.12668](http://arxiv.org/abs/2504.12668)|null|
 |**2025-04-17**|**Accelerated Collapse Kinetics of Charged Polymers in Good Solvent: Role of Counterion Condensation**|Susmita Ghosh et.al.|[2504.12642](http://arxiv.org/abs/2504.12642)|null|
@@ -1489,6 +1491,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**DAM-Net: Domain Adaptation Network with Micro-Labeled Fine-Tuning for Change Detection**|Hongjia Chen et.al.|[2504.13748](http://arxiv.org/abs/2504.13748)|null|
+|**2025-04-18**|**Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration**|Gianluca Carloni et.al.|[2504.13717](http://arxiv.org/abs/2504.13717)|null|
+|**2025-04-18**|**Consensus-aware Contrastive Learning for Group Recommendation**|Soyoung Kim et.al.|[2504.13703](http://arxiv.org/abs/2504.13703)|null|
+|**2025-04-18**|**Enhancing Pothole Detection and Characterization: Integrated Segmentation and Depth Estimation in Road Anomaly Systems**|Uthman Baroudi et.al.|[2504.13648](http://arxiv.org/abs/2504.13648)|null|
+|**2025-04-18**|**FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention**|Jun Zeng et.al.|[2504.13597](http://arxiv.org/abs/2504.13597)|null|
+|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580](http://arxiv.org/abs/2504.13580)|null|
+|**2025-04-18**|**PoEmotion: Can AI Utilize Chinese Calligraphy to Express Emotion from Poems?**|Tiancheng Liu et.al.|[2504.13567](http://arxiv.org/abs/2504.13567)|null|
+|**2025-04-18**|**Deep Learning Models Meet Financial Data Modalities**|Kasymkhan Khubiev et.al.|[2504.13521](http://arxiv.org/abs/2504.13521)|null|
+|**2025-04-18**|**MicroFlow: Domain-Specific Optical Flow for Ground Deformation Estimation in Seismic Events**|Juliette Bertrand et.al.|[2504.13452](http://arxiv.org/abs/2504.13452)|null|
+|**2025-04-18**|**DADU: Dual Attention-based Deep Supervised UNet for Automated Semantic Segmentation of Cardiac Images**|Racheal Mukisa et.al.|[2504.13415](http://arxiv.org/abs/2504.13415)|null|
+|**2025-04-18**|**OpCode-Based Malware Classification Using Machine Learning and Deep Learning Techniques**|Varij Saini et.al.|[2504.13408](http://arxiv.org/abs/2504.13408)|null|
+|**2025-04-18**|**CytoFM: The first cytology foundation model**|Vedrana Ivezić et.al.|[2504.13402](http://arxiv.org/abs/2504.13402)|null|
+|**2025-04-18**|**A Deep Learning-Based Supervised Transfer Learning Framework for DOA Estimation with Array Imperfections**|Bo Zhou et.al.|[2504.13394](http://arxiv.org/abs/2504.13394)|null|
+|**2025-04-18**|**Cardiac MRI Semantic Segmentation for Ventricles and Myocardium using Deep Learning**|Racheal Mukisa et.al.|[2504.13391](http://arxiv.org/abs/2504.13391)|null|
+|**2025-04-17**|**AI-Empowered Integrated Sensing and Communications**|Mojtaba Vaezi et.al.|[2504.13363](http://arxiv.org/abs/2504.13363)|null|
+|**2025-04-17**|**SAR Object Detection with Self-Supervised Pretraining and Curriculum-Aware Sampling**|Yasin Almalioglu et.al.|[2504.13310](http://arxiv.org/abs/2504.13310)|null|
+|**2025-04-17**|**Leveraging Functional Encryption and Deep Learning for Privacy-Preserving Traffic Forecasting**|Isaac Adom et.al.|[2504.13267](http://arxiv.org/abs/2504.13267)|null|
+|**2025-04-17**|**Modelling Mean-Field Games with Neural Ordinary Differential Equations**|Anna C. M. Thöni et.al.|[2504.13228](http://arxiv.org/abs/2504.13228)|null|
+|**2025-04-16**|**Intelligent road crack detection and analysis based on improved YOLOv8**|Haomin Zuo et.al.|[2504.13208](http://arxiv.org/abs/2504.13208)|null|
 |**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/abs/2504.13173)|null|
 |**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150](http://arxiv.org/abs/2504.13150)|null|
 |**2025-04-17**|**PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition**|Jongseo Lee et.al.|[2504.13140](http://arxiv.org/abs/2504.13140)|null|
