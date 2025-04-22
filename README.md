@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -235,7 +235,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 ## DDI
 
@@ -362,7 +362,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 ## MG
 
@@ -555,7 +555,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 ## MPP
 
@@ -754,7 +754,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 ## MD
 
@@ -1505,7 +1505,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 ## Transformer
 
@@ -1515,10 +1515,10 @@
 |**2025-04-18**|**Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration**|Gianluca Carloni et.al.|[2504.13717](http://arxiv.org/abs/2504.13717)|null|
 |**2025-04-18**|**Consensus-aware Contrastive Learning for Group Recommendation**|Soyoung Kim et.al.|[2504.13703](http://arxiv.org/abs/2504.13703)|null|
 |**2025-04-18**|**Enhancing Pothole Detection and Characterization: Integrated Segmentation and Depth Estimation in Road Anomaly Systems**|Uthman Baroudi et.al.|[2504.13648](http://arxiv.org/abs/2504.13648)|null|
-|**2025-04-18**|**FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention**|Jun Zeng et.al.|[2504.13597](http://arxiv.org/abs/2504.13597)|null|
-|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580](http://arxiv.org/abs/2504.13580)|null|
+|**2025-04-18**|**FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention**|Jun Zeng et.al.|[2504.13597](http://arxiv.org/abs/2504.13597)|**[link](https://github.com/junzengz/focusnet)**|
+|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580](http://arxiv.org/abs/2504.13580)|**[link](https://github.com/stefan-ainetter/SCANnotatepp)**|
 |**2025-04-18**|**PoEmotion: Can AI Utilize Chinese Calligraphy to Express Emotion from Poems?**|Tiancheng Liu et.al.|[2504.13567](http://arxiv.org/abs/2504.13567)|null|
-|**2025-04-18**|**Deep Learning Models Meet Financial Data Modalities**|Kasymkhan Khubiev et.al.|[2504.13521](http://arxiv.org/abs/2504.13521)|null|
+|**2025-04-21**|**Deep Learning Models Meet Financial Data Modalities**|Kasymkhan Khubiev et.al.|[2504.13521](http://arxiv.org/abs/2504.13521)|null|
 |**2025-04-18**|**MicroFlow: Domain-Specific Optical Flow for Ground Deformation Estimation in Seismic Events**|Juliette Bertrand et.al.|[2504.13452](http://arxiv.org/abs/2504.13452)|null|
 |**2025-04-18**|**DADU: Dual Attention-based Deep Supervised UNet for Automated Semantic Segmentation of Cardiac Images**|Racheal Mukisa et.al.|[2504.13415](http://arxiv.org/abs/2504.13415)|null|
 |**2025-04-18**|**OpCode-Based Malware Classification Using Machine Learning and Deep Learning Techniques**|Varij Saini et.al.|[2504.13408](http://arxiv.org/abs/2504.13408)|null|
@@ -1556,7 +1556,7 @@
 |**2025-04-17**|**Benchmarking LLM-based Relevance Judgment Methods**|Negar Arabzadeh et.al.|[2504.12558](http://arxiv.org/abs/2504.12558)|**[link](https://github.com/narabzad/llm-relevance-judgement-comparison)**|
 |**2025-04-17**|**Contour Field based Elliptical Shape Prior for the Segment Anything Model**|Xinyu Zhao et.al.|[2504.12556](http://arxiv.org/abs/2504.12556)|null|
 |**2025-04-16**|**Evaluating the Diversity and Quality of LLM Generated Content**|Alexander Shypula et.al.|[2504.12522](http://arxiv.org/abs/2504.12522)|null|
-|**2025-04-16**|**Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space**|Kaustav Chanda et.al.|[2504.12515](http://arxiv.org/abs/2504.12515)|null|
+|**2025-04-21**|**Event Quality Score (EQS): Assessing the Realism of Simulated Event Camera Streams via Distances in Latent Space**|Kaustav Chanda et.al.|[2504.12515](http://arxiv.org/abs/2504.12515)|null|
 |**2025-04-16**|**Multimodal LLM Augmented Reasoning for Interpretable Visual Perception Analysis**|Shravan Chaudhari et.al.|[2504.12511](http://arxiv.org/abs/2504.12511)|null|
 |**2025-04-16**|**Boosting Reservoir Computing with Brain-inspired Adaptive Dynamics**|Keshav Srinivasan et.al.|[2504.12480](http://arxiv.org/abs/2504.12480)|null|
 |**2025-04-16**|**Geometric Generality of Transformer-Based Gröbner Basis Computation**|Yuta Kambe et.al.|[2504.12465](http://arxiv.org/abs/2504.12465)|null|
@@ -1569,7 +1569,7 @@
 |**2025-04-16**|**Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography**|Zhijin He et.al.|[2504.12249](http://arxiv.org/abs/2504.12249)|null|
 |**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
 |**2025-04-16**|**Beyond Patches: Mining Interpretable Part-Prototypes for Explainable AI**|Mahdi Alehdaghi et.al.|[2504.12197](http://arxiv.org/abs/2504.12197)|null|
-|**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|null|
+|**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|**[link](https://github.com/liuyike422/codinghomo)**|
 |**2025-04-16**|**Generative Deep Learning Framework for Inverse Design of Fuels**|Kiran K. Yalamanchi et.al.|[2504.12075](http://arxiv.org/abs/2504.12075)|null|
 |**2025-04-16**|**Exploring Video-Based Driver Activity Recognition under Noisy Labels**|Linjuan Fan et.al.|[2504.11966](http://arxiv.org/abs/2504.11966)|**[link](https://github.com/ilonafan/dar-noisy-labels)**|
 |**2025-04-16**|**Novel-view X-ray Projection Synthesis through Geometry-Integrated Deep Learning**|Daiqi Liu et.al.|[2504.11953](http://arxiv.org/abs/2504.11953)|**[link](https://github.com/dae-plz/re-gips)**|
@@ -11468,7 +11468,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 ## Binding
 
@@ -11692,7 +11692,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -11860,7 +11860,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
