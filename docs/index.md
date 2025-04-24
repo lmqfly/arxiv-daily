@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -355,6 +355,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Clifford Group Equivariant Diffusion Models for 3D Molecular Generation**|Cong Liu et.al.|[2504.15773](http://arxiv.org/abs/2504.15773)|null|
+|**2025-04-22**|**MetaMolGen: A Neural Graph Motif Generation Model for De Novo Molecular Design**|Zimo Yan et.al.|[2504.15587](http://arxiv.org/abs/2504.15587)|null|
 |**2025-04-02**|**De Novo Molecular Design Enabled by Direct Preference Optimization and Curriculum Learning**|Junyu Hou et.al.|[2504.01389](http://arxiv.org/abs/2504.01389)|null|
 |**2025-03-25**|**UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design**|Xiangzhe Kong et.al.|[2503.19300](http://arxiv.org/abs/2503.19300)|null|
 |**2025-03-18**|**Generative design of functional organic molecules for terahertz radiation detection**|Zsuzsanna Koczor-Benda et.al.|[2503.14748](http://arxiv.org/abs/2503.14748)|null|
@@ -743,10 +745,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Improving robustness and training efficiency of machine-learned potentials by incorporating short-range empirical potentials**|Zihan Yan et.al.|[2504.15925](http://arxiv.org/abs/2504.15925)|null|
 |**2025-04-21**|**The Effect of Hydration and Dynamics on the Mass Density of Single Proteins**|Cameron C. W. McAllister et.al.|[2504.14983](http://arxiv.org/abs/2504.14983)|null|
 |**2025-04-19**|**Improved Treatment of 1-4 interactions in Force Fields for Molecular Dynamics Simulations**|Selim Sami et.al.|[2504.14398](http://arxiv.org/abs/2504.14398)|null|
 |**2025-04-18**|**A new thermodynamic function for binary mixtures: the co-molar volume**|Kristian Polanco Olsen et.al.|[2504.13602](http://arxiv.org/abs/2504.13602)|null|
-|**2025-04-22**|**Maximum Information Extraction From Noisy Data Via Shannon Entropy Minimization**|Matteo Becchi et.al.|[2504.12990](http://arxiv.org/abs/2504.12990)|null|
+|**2025-04-23**|**Maximum Information Extraction From Noisy Data Via Shannon Entropy Minimization**|Matteo Becchi et.al.|[2504.12990](http://arxiv.org/abs/2504.12990)|null|
 |**2025-04-18**|**Observing Nucleation and Crystallization of Rocksalt LiF from Molten State through Molecular Dynamics Simulations with Refined Machine-Learned Force Field**|Boyuan Xu et.al.|[2504.12668](http://arxiv.org/abs/2504.12668)|null|
 |**2025-04-17**|**Accelerated Collapse Kinetics of Charged Polymers in Good Solvent: Role of Counterion Condensation**|Susmita Ghosh et.al.|[2504.12642](http://arxiv.org/abs/2504.12642)|null|
 |**2025-04-16**|**Epitaxial formation of ultrathin HfO2 on graphene by sequential oxidation**|Zhenjing Liu et.al.|[2504.11693](http://arxiv.org/abs/2504.11693)|null|
@@ -1494,6 +1497,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Universal differential equations for optimal control problems and its application on cancer therapy**|Wenjing Zhang et.al.|[2504.16035](http://arxiv.org/abs/2504.16035)|null|
+|**2025-04-22**|**Efficient Adaptation of Deep Neural Networks for Semantic Segmentation in Space Applications**|Leonardo Olivi et.al.|[2504.15991](http://arxiv.org/abs/2504.15991)|null|
+|**2025-04-22**|**Making Neural Networks More Suitable for Approximate Clifford+T Circuit Synthesis**|Mathias Weiden et.al.|[2504.15990](http://arxiv.org/abs/2504.15990)|null|
+|**2025-04-22**|**Few-shot Hate Speech Detection Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.15987](http://arxiv.org/abs/2504.15987)|null|
+|**2025-04-22**|**Deep learning of point processes for modeling high-frequency data**|Yoshihiro Gyotoku et.al.|[2504.15944](http://arxiv.org/abs/2504.15944)|null|
+|**2025-04-22**|**Benchmarking the Reproducibility of Brain MRI Segmentation Across Scanners and Time**|Ekaterina Kondrateva et.al.|[2504.15931](http://arxiv.org/abs/2504.15931)|null|
+|**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[2504.15899](http://arxiv.org/abs/2504.15899)|null|
+|**2025-04-22**|**Integrating Non-Linear Radon Transformation for Diabetic Retinopathy Grading**|Farida Mohsen et.al.|[2504.15883](http://arxiv.org/abs/2504.15883)|null|
+|**2025-04-22**|**Identifying eclipsing binary stars with TESS data based on a new hybrid deep learning model**|Ying Shan et.al.|[2504.15875](http://arxiv.org/abs/2504.15875)|null|
+|**2025-04-23**|**MedNNS: Supernet-based Medical Task-Adaptive Neural Network Search**|Lotfi Abdelkrim Mecharbat et.al.|[2504.15865](http://arxiv.org/abs/2504.15865)|null|
+|**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863](http://arxiv.org/abs/2504.15863)|null|
+|**2025-04-22**|**FailLite: Failure-Resilient Model Serving for Resource-Constrained Edge Environments**|Li Wu et.al.|[2504.15856](http://arxiv.org/abs/2504.15856)|null|
+|**2025-04-22**|**Development and evaluation of a deep learning algorithm for German word recognition from lip movements**|Dinh Nam Pham et.al.|[2504.15792](http://arxiv.org/abs/2504.15792)|null|
+|**2025-04-22**|**Shannon invariants: A scalable approach to information decomposition**|Aaron J. Gutknecht et.al.|[2504.15779](http://arxiv.org/abs/2504.15779)|null|
+|**2025-04-22**|**Multi-Scale Tensorial Summation and Dimensional Reduction Guided Neural Network for Edge Detection**|Lei Xu et.al.|[2504.15770](http://arxiv.org/abs/2504.15770)|null|
+|**2025-04-22**|**iMedic: Towards Smartphone-based Self-Auscultation Tool for AI-Powered Pediatric Respiratory Assessment**|Seung Gyu Jeong et.al.|[2504.15743](http://arxiv.org/abs/2504.15743)|null|
+|**2025-04-22**|**FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning**|Ju Yeon Kang et.al.|[2504.15663](http://arxiv.org/abs/2504.15663)|null|
+|**2025-04-22**|**A Study On Mixup-inspired Augmentation Methods For Software Vulnerability Detection**|Seyed Shayan Daneshvar et.al.|[2504.15632](http://arxiv.org/abs/2504.15632)|null|
+|**2025-04-22**|**Analytical Softmax Temperature Setting from Feature Dimensions for Model- and Domain-Robust Classification**|Tatsuhito Hasegawa et.al.|[2504.15594](http://arxiv.org/abs/2504.15594)|null|
+|**2025-04-22**|**VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining**|Zizhi Chen et.al.|[2504.15545](http://arxiv.org/abs/2504.15545)|null|
+|**2025-04-22**|**Interpretable Deep Learning for Polar Mechanistic Reaction Prediction**|Ryan J. Miller et.al.|[2504.15539](http://arxiv.org/abs/2504.15539)|null|
+|**2025-04-22**|**Scalable APT Malware Classification via Parallel Feature Extraction and GPU-Accelerated Learning**|Noah Subedar et.al.|[2504.15497](http://arxiv.org/abs/2504.15497)|null|
+|**2025-04-21**|**Application of Deep Generative Models for Anomaly Detection in Complex Financial Transactions**|Tengda Tang et.al.|[2504.15491](http://arxiv.org/abs/2504.15491)|null|
+|**2025-04-21**|**Real-Time Sentiment Insights from X Using VADER, DistilBERT, and Web-Scraped Data**|Yanampally Abhiram Reddy et.al.|[2504.15448](http://arxiv.org/abs/2504.15448)|null|
+|**2025-04-21**|**Deep learning with missing data**|Tianyi Ma et.al.|[2504.15388](http://arxiv.org/abs/2504.15388)|null|
+|**2025-04-21**|**FLARE: Feature-based Lightweight Aggregation for Robust Evaluation of IoT Intrusion Detection**|Bradley Boswell et.al.|[2504.15375](http://arxiv.org/abs/2504.15375)|null|
+|**2025-04-21**|**Event2Vec: Processing neuromorphic events directly by representations in vector space**|Wei Fang et.al.|[2504.15371](http://arxiv.org/abs/2504.15371)|null|
+|**2025-04-20**|**M-TabNet: A Multi-Encoder Transformer Model for Predicting Neonatal Birth Weight from Multimodal Data**|Muhammad Mursil et.al.|[2504.15312](http://arxiv.org/abs/2504.15312)|null|
 |**2025-04-21**|**A Deep Learning Framework for Sequence Mining with Bidirectional LSTM and Multi-Scale Attention**|Tao Yang et.al.|[2504.15223](http://arxiv.org/abs/2504.15223)|null|
 |**2025-04-21**|**Automated Measurement of Eczema Severity with Self-Supervised Learning**|Neelesh Kumar et.al.|[2504.15193](http://arxiv.org/abs/2504.15193)|null|
 |**2025-04-21**|**Survey of Loss Augmented Knowledge Tracing**|Altun Shukurlu et.al.|[2504.15163](http://arxiv.org/abs/2504.15163)|null|
@@ -1553,7 +1584,7 @@ layout: default
 |**2025-04-17**|**AI-Empowered Integrated Sensing and Communications**|Mojtaba Vaezi et.al.|[2504.13363](http://arxiv.org/abs/2504.13363)|null|
 |**2025-04-17**|**SAR Object Detection with Self-Supervised Pretraining and Curriculum-Aware Sampling**|Yasin Almalioglu et.al.|[2504.13310](http://arxiv.org/abs/2504.13310)|null|
 |**2025-04-17**|**Leveraging Functional Encryption and Deep Learning for Privacy-Preserving Traffic Forecasting**|Isaac Adom et.al.|[2504.13267](http://arxiv.org/abs/2504.13267)|null|
-|**2025-04-17**|**Modelling Mean-Field Games with Neural Ordinary Differential Equations**|Anna C. M. Thöni et.al.|[2504.13228](http://arxiv.org/abs/2504.13228)|null|
+|**2025-04-23**|**Modelling Mean-Field Games with Neural Ordinary Differential Equations**|Anna C. M. Thöni et.al.|[2504.13228](http://arxiv.org/abs/2504.13228)|null|
 |**2025-04-16**|**Intelligent road crack detection and analysis based on improved YOLOv8**|Haomin Zuo et.al.|[2504.13208](http://arxiv.org/abs/2504.13208)|null|
 |**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/abs/2504.13173)|null|
 |**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150](http://arxiv.org/abs/2504.13150)|null|
