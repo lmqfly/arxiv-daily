@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Heterogeneous networks in drug-target interaction prediction**|Mohammad Molaee et.al.|[2504.16152](http://arxiv.org/abs/2504.16152)|null|
 |**2025-04-12**|**Tunable Molecular Interactions Near an Atomic Feshbach Resonance: Stability and Collapse of a Molecular Bose-Einstein Condensate**|Zhiqiang Wang et.al.|[2504.09183](http://arxiv.org/abs/2504.09183)|null|
 |**2025-04-07**|**GraphPINE: Graph Importance Propagation for Interpretable Drug Response Prediction**|Yoshitaka Inoue et.al.|[2504.05454](http://arxiv.org/abs/2504.05454)|null|
 |**2025-04-02**|**HCAF-DTA: drug-target binding affinity prediction with cross-attention fused hypergraph neural networks**|Jiannuo Li et.al.|[2504.02014](http://arxiv.org/abs/2504.02014)|null|
@@ -745,6 +746,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Nanomechanics and Pore Structure of Sodium and Potassium Geopolymer Gels: Experiments, Molecular Dynamics and Coarse-Grained Simulations**|Enrico Masoero et.al.|[2504.16582](http://arxiv.org/abs/2504.16582)|null|
 |**2025-04-22**|**Improving robustness and training efficiency of machine-learned potentials by incorporating short-range empirical potentials**|Zihan Yan et.al.|[2504.15925](http://arxiv.org/abs/2504.15925)|null|
 |**2025-04-21**|**The Effect of Hydration and Dynamics on the Mass Density of Single Proteins**|Cameron C. W. McAllister et.al.|[2504.14983](http://arxiv.org/abs/2504.14983)|null|
 |**2025-04-19**|**Improved Treatment of 1-4 interactions in Force Fields for Molecular Dynamics Simulations**|Selim Sami et.al.|[2504.14398](http://arxiv.org/abs/2504.14398)|null|
@@ -1497,6 +1499,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Application of an attention-based CNN-BiLSTM framework for in vivo two-photon calcium imaging of neuronal ensembles: decoding complex bilateral forelimb movements from unilateral M1**|Ghazal Mirzaee et.al.|[2504.16917](http://arxiv.org/abs/2504.16917)|null|
+|**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
+|**2025-04-23**|**Hyperspectral Vision Transformers for Greenhouse Gas Estimations from Space**|Ruben Gonzalez Avilés et.al.|[2504.16851](http://arxiv.org/abs/2504.16851)|null|
+|**2025-04-23**|**Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism**|Lakshita Agarwal et.al.|[2504.16761](http://arxiv.org/abs/2504.16761)|null|
+|**2025-04-23**|**Feature Mixing Approach for Detecting Intraoperative Adverse Events in Laparoscopic Roux-en-Y Gastric Bypass Surgery**|Rupak Bose et.al.|[2504.16749](http://arxiv.org/abs/2504.16749)|null|
+|**2025-04-23**|**MTSGL: Multi-Task Structure Guided Learning for Robust and Interpretable SAR Aircraft Recognition**|Qishan He et.al.|[2504.16467](http://arxiv.org/abs/2504.16467)|null|
+|**2025-04-23**|**From Past to Present: A Survey of Malicious URL Detection Techniques, Datasets and Code Repositories**|Ye Tian et.al.|[2504.16449](http://arxiv.org/abs/2504.16449)|null|
+|**2025-04-23**|**MAGIC: Near-Optimal Data Attribution for Deep Learning**|Andrew Ilyas et.al.|[2504.16430](http://arxiv.org/abs/2504.16430)|null|
+|**2025-04-23**|**Assessing the Feasibility of Internet-Sourced Video for Automatic Cattle Lameness Detection**|Md Fahimuzzman Sohan et.al.|[2504.16404](http://arxiv.org/abs/2504.16404)|null|
+|**2025-04-23**|**Lightweight and Self-Evolving Channel Twinning: An Ensemble DMD-Assisted Approach**|Yashuai Cao et.al.|[2504.16376](http://arxiv.org/abs/2504.16376)|null|
+|**2025-04-23**|**DP2FL: Dual Prompt Personalized Federated Learning in Foundation Models**|Ying Chang et.al.|[2504.16357](http://arxiv.org/abs/2504.16357)|null|
+|**2025-04-23**|**Self-Nomination: Deep Learning for Decentralized CSI Feedback Reduction in MU-MIMO Systems**|Juseong Park et.al.|[2504.16351](http://arxiv.org/abs/2504.16351)|null|
+|**2025-04-22**|**Deep, data-driven modeling of room acoustics: literature review and research perspectives**|Toon van Waterschoot et.al.|[2504.16289](http://arxiv.org/abs/2504.16289)|null|
+|**2025-04-22**|**Gradient-Optimized Fuzzy Classifier: A Benchmark Study Against State-of-the-Art Models**|Magnus Sieverding et.al.|[2504.16263](http://arxiv.org/abs/2504.16263)|null|
+|**2025-04-22**|**Accurate and generalizable protein-ligand binding affinity prediction with geometric deep learning**|Krinos Li et.al.|[2504.16261](http://arxiv.org/abs/2504.16261)|null|
+|**2025-04-22**|**DeepCS-TRD, a Deep Learning-based Cross-Section Tree Ring Detector**|Henry Marichal et.al.|[2504.16242](http://arxiv.org/abs/2504.16242)|null|
+|**2025-04-22**|**Comprehensive Evaluation of Quantitative Measurements from Automated Deep Segmentations of PSMA PET/CT Images**|Obed Korshie Dzikunu et.al.|[2504.16237](http://arxiv.org/abs/2504.16237)|null|
+|**2025-04-22**|**Hexcute: A Tile-based Programming Language with Automatic Layout and Task-Mapping Synthesis**|Xiao Zhang et.al.|[2504.16214](http://arxiv.org/abs/2504.16214)|null|
+|**2025-04-22**|**A detection-task-specific deep-learning method to improve the quality of sparse-view myocardial perfusion SPECT images**|Zezhang Yang et.al.|[2504.16171](http://arxiv.org/abs/2504.16171)|null|
+|**2025-04-22**|**A Non-Invasive Load Monitoring Method for Edge Computing Based on MobileNetV3 and Dynamic Time Regulation**|Hangxu Liu et.al.|[2504.16142](http://arxiv.org/abs/2504.16142)|null|
+|**2025-04-22**|**Deep Learning Meets Process-Based Models: A Hybrid Approach to Agricultural Challenges**|Yue Shi et.al.|[2504.16141](http://arxiv.org/abs/2504.16141)|null|
+|**2025-04-21**|**A Self-supervised Learning Method for Raman Spectroscopy based on Masked Autoencoders**|Pengju Ren et.al.|[2504.16130](http://arxiv.org/abs/2504.16130)|null|
+|**2025-04-21**|**Hybrid Knowledge Transfer through Attention and Logit Distillation for On-Device Vision Systems in Agricultural IoT**|Stanley Mugisha et.al.|[2504.16128](http://arxiv.org/abs/2504.16128)|null|
+|**2025-04-18**|**Towards Explainable and Lightweight AI for Real-Time Cyber Threat Hunting in Edge Networks**|Milad Rahmati et.al.|[2504.16118](http://arxiv.org/abs/2504.16118)|null|
 |**2025-04-22**|**Universal differential equations for optimal control problems and its application on cancer therapy**|Wenjing Zhang et.al.|[2504.16035](http://arxiv.org/abs/2504.16035)|null|
 |**2025-04-22**|**Efficient Adaptation of Deep Neural Networks for Semantic Segmentation in Space Applications**|Leonardo Olivi et.al.|[2504.15991](http://arxiv.org/abs/2504.15991)|null|
 |**2025-04-22**|**Making Neural Networks More Suitable for Approximate Clifford+T Circuit Synthesis**|Mathias Weiden et.al.|[2504.15990](http://arxiv.org/abs/2504.15990)|null|
@@ -11528,6 +11554,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Accurate and generalizable protein-ligand binding affinity prediction with geometric deep learning**|Krinos Li et.al.|[2504.16261](http://arxiv.org/abs/2504.16261)|null|
 |**2025-04-13**|**Rethinking the generalization of drug target affinity prediction algorithms via similarity aware evaluation**|Chenbin Zhang et.al.|[2504.09481](http://arxiv.org/abs/2504.09481)|**[link](https://github.com/amshoreline/sae)**|
 |**2025-04-10**|**Compositional Flows for 3D Molecule and Synthesis Pathway Co-design**|Tony Shen et.al.|[2504.08051](http://arxiv.org/abs/2504.08051)|null|
 |**2025-04-07**|**Bidirectional Hierarchical Protein Multi-Modal Representation Learning**|Xuefeng Liu et.al.|[2504.04770](http://arxiv.org/abs/2504.04770)|null|
@@ -11750,6 +11777,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Accurate and generalizable protein-ligand binding affinity prediction with geometric deep learning**|Krinos Li et.al.|[2504.16261](http://arxiv.org/abs/2504.16261)|null|
 |**2025-04-07**|**EquiCPI: SE(3)-Equivariant Geometric Deep Learning for Structure-Aware Prediction of Compound-Protein Interactions**|Ngoc-Quang Nguyen et.al.|[2504.04654](http://arxiv.org/abs/2504.04654)|**[link](https://github.com/dmis-lab/EquiCPI)**|
 |**2025-04-04**|**Roto-Translation Invariant Metrics on Position-Orientation Space**|Gijs Bellaard et.al.|[2504.03309](http://arxiv.org/abs/2504.03309)|null|
 |**2025-04-03**|**Graph Attention-Driven Bayesian Deep Unrolling for Dual-Peak Single-Photon Lidar Imaging**|Kyungmin Choi et.al.|[2504.02480](http://arxiv.org/abs/2504.02480)|null|
