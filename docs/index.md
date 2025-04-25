@@ -746,6 +746,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Spall strength of symmetric tilt grain boundaries in 6H silicon carbide**|Chunyu Li et.al.|[2504.17754](http://arxiv.org/abs/2504.17754)|null|
+|**2025-04-24**|**Deciphering the unique dynamic activation pathway in a G protein-coupled receptor enables unveiling biased signaling and identifying cryptic allosteric sites in conformational intermediates**|Jigang Fan et.al.|[2504.17624](http://arxiv.org/abs/2504.17624)|null|
+|**2025-04-24**|**Dynamical gauge invariance of statistical mechanics**|Johanna Müller et.al.|[2504.17599](http://arxiv.org/abs/2504.17599)|null|
+|**2025-04-24**|**The need for statistical physics in Africa: perspective and an illustration in drug delivery problems**|Mtabazi G. Sahini et.al.|[2504.17452](http://arxiv.org/abs/2504.17452)|null|
+|**2025-04-24**|**Optimizing thermoelectric performance of graphene antidot lattices via quantum transport and machine-learning molecular dynamics simulations**|Yang Xiao et.al.|[2504.17450](http://arxiv.org/abs/2504.17450)|null|
 |**2025-04-23**|**Nanomechanics and Pore Structure of Sodium and Potassium Geopolymer Gels: Experiments, Molecular Dynamics and Coarse-Grained Simulations**|Enrico Masoero et.al.|[2504.16582](http://arxiv.org/abs/2504.16582)|null|
 |**2025-04-22**|**Improving robustness and training efficiency of machine-learned potentials by incorporating short-range empirical potentials**|Zihan Yan et.al.|[2504.15925](http://arxiv.org/abs/2504.15925)|null|
 |**2025-04-21**|**The Effect of Hydration and Dynamics on the Mass Density of Single Proteins**|Cameron C. W. McAllister et.al.|[2504.14983](http://arxiv.org/abs/2504.14983)|null|
@@ -1499,6 +1504,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Disaggregated Deep Learning via In-Physics Computing at Radio Frequency**|Zhihui Gao et.al.|[2504.17752](http://arxiv.org/abs/2504.17752)|null|
+|**2025-04-24**|**Interpretable Early Detection of Parkinson's Disease through Speech Analysis**|Lorenzo Simone et.al.|[2504.17739](http://arxiv.org/abs/2504.17739)|null|
+|**2025-04-24**|**Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**|Óscar Escudero-Arnanz et.al.|[2504.17717](http://arxiv.org/abs/2504.17717)|null|
+|**2025-04-24**|**Fault Diagnosis in New Wind Turbines using Knowledge from Existing Turbines by Generative Domain Adaptation**|Stefan Jonas et.al.|[2504.17709](http://arxiv.org/abs/2504.17709)|null|
+|**2025-04-24**|**On Multivariate Financial Time Series Classification**|Grégory Bournassenko et.al.|[2504.17664](http://arxiv.org/abs/2504.17664)|null|
+|**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628](http://arxiv.org/abs/2504.17628)|null|
+|**2025-04-24**|**STCL:Curriculum learning Strategies for deep learning image steganography models**|Fengchun Liu et.al.|[2504.17609](http://arxiv.org/abs/2504.17609)|null|
+|**2025-04-24**|**RAGAT-Mind: A Multi-Granular Modeling Approach for Rumor Detection Based on MindSpore**|Zhenkai Qin et.al.|[2504.17574](http://arxiv.org/abs/2504.17574)|null|
+|**2025-04-24**|**Beyond Cox Models: Assessing the Performance of Machine-Learning Methods in Non-Proportional Hazards and Non-Linear Survival Analysis**|Ivan Rossi et.al.|[2504.17568](http://arxiv.org/abs/2504.17568)|null|
+|**2025-04-24**|**An Explainable Nature-Inspired Framework for Monkeypox Diagnosis: Xception Features Combined with NGBoost and African Vultures Optimization Algorithm**|Ahmadreza Shateri et.al.|[2504.17540](http://arxiv.org/abs/2504.17540)|null|
+|**2025-04-24**|**ESDiff: Encoding Strategy-inspired Diffusion Model with Few-shot Learning for Color Image Inpainting**|Junyan Zhang et.al.|[2504.17524](http://arxiv.org/abs/2504.17524)|null|
+|**2025-04-24**|**Combining GCN Structural Learning with LLM Chemical Knowledge for or Enhanced Virtual Screening**|Radia Berreziga et.al.|[2504.17497](http://arxiv.org/abs/2504.17497)|null|
+|**2025-04-24**|**StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies**|Xu Wang et.al.|[2504.17401](http://arxiv.org/abs/2504.17401)|null|
+|**2025-04-24**|**Inverse-Designed Metasurfaces for Wavefront Restoration in Under-Display Camera Systems**|Jaegang Jo et.al.|[2504.17368](http://arxiv.org/abs/2504.17368)|null|
+|**2025-04-24**|**You Are What You Bought: Generating Customer Personas for E-commerce Applications**|Yimin Shi et.al.|[2504.17304](http://arxiv.org/abs/2504.17304)|null|
+|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
+|**2025-04-24**|**Evaluating and Mitigating Bias in AI-Based Medical Text Generation**|Xiuying Chen et.al.|[2504.17279](http://arxiv.org/abs/2504.17279)|null|
+|**2025-04-24**|**3D Deep-learning-based Segmentation of Human Skin Sweat Glands and Their 3D Morphological Response to Temperature Variations**|Shaoyu Pei et.al.|[2504.17255](http://arxiv.org/abs/2504.17255)|null|
+|**2025-04-24**|**Targeted AMP generation through controlled diffusion with efficient embeddings**|Diogo Soares et.al.|[2504.17247](http://arxiv.org/abs/2504.17247)|null|
+|**2025-04-24**|**Scene Perceived Image Perceptual Score (SPIPS): combining global and local perception for image quality assessment**|Zhiqiang Lao et.al.|[2504.17234](http://arxiv.org/abs/2504.17234)|null|
+|**2025-04-24**|**DualAttWaveNet: Multiscale Attention Networks for Satellite Interference Detection**|Chunyu Yang et.al.|[2504.17187](http://arxiv.org/abs/2504.17187)|null|
+|**2025-04-23**|**A Novel Hybrid Approach Using an Attention-Based Transformer + GRU Model for Predicting Cryptocurrency Prices**|Esam Mahdi et.al.|[2504.17079](http://arxiv.org/abs/2504.17079)|null|
+|**2025-04-23**|**Physics-guided and fabrication-aware inverse design of photonic devices using diffusion models**|Dongjin Seo et.al.|[2504.17077](http://arxiv.org/abs/2504.17077)|null|
+|**2025-04-23**|**Sparse Phased Array Optimization Using Deep Learning**|David Lu et.al.|[2504.17073](http://arxiv.org/abs/2504.17073)|null|
+|**2025-04-23**|**Antenna Near-Field Reconstruction from Far-Field Data Using Convolutional Neural Networks**|Sahar Bagherkhani et.al.|[2504.17065](http://arxiv.org/abs/2504.17065)|null|
+|**2025-04-23**|**Automating tumor-infiltrating lymphocyte assessment in breast cancer histopathology images using QuPath: a transparent and accessible machine learning pipeline**|Masoud Tafavvoghi et.al.|[2504.16979](http://arxiv.org/abs/2504.16979)|null|
+|**2025-04-22**|**Last-layer committee machines for uncertainty estimations of benthic imagery**|H. Martin Gillis et.al.|[2504.16952](http://arxiv.org/abs/2504.16952)|null|
 |**2025-04-23**|**Application of an attention-based CNN-BiLSTM framework for in vivo two-photon calcium imaging of neuronal ensembles: decoding complex bilateral forelimb movements from unilateral M1**|Ghazal Mirzaee et.al.|[2504.16917](http://arxiv.org/abs/2504.16917)|null|
 |**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
 |**2025-04-23**|**Hyperspectral Vision Transformers for Greenhouse Gas Estimations from Space**|Ruben Gonzalez Avilés et.al.|[2504.16851](http://arxiv.org/abs/2504.16851)|null|
