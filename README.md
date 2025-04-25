@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -236,7 +236,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## DDI
 
@@ -364,13 +364,13 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## MG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-22**|**Clifford Group Equivariant Diffusion Models for 3D Molecular Generation**|Cong Liu et.al.|[2504.15773](http://arxiv.org/abs/2504.15773)|null|
+|**2025-04-24**|**Clifford Group Equivariant Diffusion Models for 3D Molecular Generation**|Cong Liu et.al.|[2504.15773](http://arxiv.org/abs/2504.15773)|null|
 |**2025-04-22**|**MetaMolGen: A Neural Graph Motif Generation Model for De Novo Molecular Design**|Zimo Yan et.al.|[2504.15587](http://arxiv.org/abs/2504.15587)|null|
 |**2025-04-02**|**De Novo Molecular Design Enabled by Direct Preference Optimization and Curriculum Learning**|Junyu Hou et.al.|[2504.01389](http://arxiv.org/abs/2504.01389)|null|
 |**2025-03-25**|**UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design**|Xiangzhe Kong et.al.|[2503.19300](http://arxiv.org/abs/2503.19300)|null|
@@ -559,7 +559,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## MPP
 
@@ -758,7 +758,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## MD
 
@@ -1513,7 +1513,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Transformer
 
@@ -1560,7 +1560,7 @@
 |**2025-04-22**|**Multi-Scale Tensorial Summation and Dimensional Reduction Guided Neural Network for Edge Detection**|Lei Xu et.al.|[2504.15770](http://arxiv.org/abs/2504.15770)|null|
 |**2025-04-22**|**iMedic: Towards Smartphone-based Self-Auscultation Tool for AI-Powered Pediatric Respiratory Assessment**|Seung Gyu Jeong et.al.|[2504.15743](http://arxiv.org/abs/2504.15743)|null|
 |**2025-04-22**|**FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning**|Ju Yeon Kang et.al.|[2504.15663](http://arxiv.org/abs/2504.15663)|null|
-|**2025-04-22**|**A Study On Mixup-inspired Augmentation Methods For Software Vulnerability Detection**|Seyed Shayan Daneshvar et.al.|[2504.15632](http://arxiv.org/abs/2504.15632)|null|
+|**2025-04-23**|**A Study on Mixup-Inspired Augmentation Methods for Software Vulnerability Detection**|Seyed Shayan Daneshvar et.al.|[2504.15632](http://arxiv.org/abs/2504.15632)|null|
 |**2025-04-22**|**Analytical Softmax Temperature Setting from Feature Dimensions for Model- and Domain-Robust Classification**|Tatsuhito Hasegawa et.al.|[2504.15594](http://arxiv.org/abs/2504.15594)|null|
 |**2025-04-22**|**VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining**|Zizhi Chen et.al.|[2504.15545](http://arxiv.org/abs/2504.15545)|null|
 |**2025-04-22**|**Interpretable Deep Learning for Polar Mechanistic Reaction Prediction**|Ryan J. Miller et.al.|[2504.15539](http://arxiv.org/abs/2504.15539)|null|
@@ -1578,8 +1578,8 @@
 |**2025-04-21**|**Kolmogorov-Arnold Networks: Approximation and Learning Guarantees for Functions and their Derivatives**|Anastasis Kratsios et.al.|[2504.15110](http://arxiv.org/abs/2504.15110)|null|
 |**2025-04-21**|**A triple-branch network for latent fingerprint enhancement guided by orientation fields and minutiae**|Yurun Wang et.al.|[2504.15105](http://arxiv.org/abs/2504.15105)|null|
 |**2025-04-21**|**Empowering AI to Generate Better AI Code: Guided Generation of Deep Learning Projects with LLMs**|Chen Xie et.al.|[2504.15080](http://arxiv.org/abs/2504.15080)|null|
-|**2025-04-21**|**Shifts in Doctors' Eye Movements Between Real and AI-Generated Medical Images**|David C Wong et.al.|[2504.15007](http://arxiv.org/abs/2504.15007)|null|
-|**2025-04-21**|**A novel hybrid neural network of fluid-structure interaction prediction for two cylinders in tandem arrangement**|Yanfang Lyua et.al.|[2504.14971](http://arxiv.org/abs/2504.14971)|null|
+|**2025-04-24**|**Shifts in Doctors' Eye Movements Between Real and AI-Generated Medical Images**|David C Wong et.al.|[2504.15007](http://arxiv.org/abs/2504.15007)|null|
+|**2025-04-24**|**A novel hybrid neural network of fluid-structure interaction prediction for two cylinders in tandem arrangement**|Yanfang Lyu et.al.|[2504.14971](http://arxiv.org/abs/2504.14971)|null|
 |**2025-04-21**|**PIV-FlowDiffuser:Transfer-learning-based denoising diffusion models for PIV**|Qianyu Zhu et.al.|[2504.14952](http://arxiv.org/abs/2504.14952)|**[link](https://github.com/zhu-qianyu/piv-flowdiffuser)**|
 |**2025-04-21**|**A Purely Data-Driven Adaptive Impedance Matching Method Robust to Parasitic Effects**|Wendong Cheng et.al.|[2504.14951](http://arxiv.org/abs/2504.14951)|null|
 |**2025-04-21**|**Dynamic Graph-Like Learning with Contrastive Clustering on Temporally-Factored Ship Motion Data for Imbalanced Sea State Estimation in Autonomous Vessel**|Kexin Wang et.al.|[2504.14907](http://arxiv.org/abs/2504.14907)|null|
@@ -11570,7 +11570,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Binding
 
@@ -11795,7 +11795,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -11964,7 +11964,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

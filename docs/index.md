@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -356,7 +356,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-22**|**Clifford Group Equivariant Diffusion Models for 3D Molecular Generation**|Cong Liu et.al.|[2504.15773](http://arxiv.org/abs/2504.15773)|null|
+|**2025-04-24**|**Clifford Group Equivariant Diffusion Models for 3D Molecular Generation**|Cong Liu et.al.|[2504.15773](http://arxiv.org/abs/2504.15773)|null|
 |**2025-04-22**|**MetaMolGen: A Neural Graph Motif Generation Model for De Novo Molecular Design**|Zimo Yan et.al.|[2504.15587](http://arxiv.org/abs/2504.15587)|null|
 |**2025-04-02**|**De Novo Molecular Design Enabled by Direct Preference Optimization and Curriculum Learning**|Junyu Hou et.al.|[2504.01389](http://arxiv.org/abs/2504.01389)|null|
 |**2025-03-25**|**UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design**|Xiangzhe Kong et.al.|[2503.19300](http://arxiv.org/abs/2503.19300)|null|
@@ -1540,7 +1540,7 @@ layout: default
 |**2025-04-22**|**Multi-Scale Tensorial Summation and Dimensional Reduction Guided Neural Network for Edge Detection**|Lei Xu et.al.|[2504.15770](http://arxiv.org/abs/2504.15770)|null|
 |**2025-04-22**|**iMedic: Towards Smartphone-based Self-Auscultation Tool for AI-Powered Pediatric Respiratory Assessment**|Seung Gyu Jeong et.al.|[2504.15743](http://arxiv.org/abs/2504.15743)|null|
 |**2025-04-22**|**FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning**|Ju Yeon Kang et.al.|[2504.15663](http://arxiv.org/abs/2504.15663)|null|
-|**2025-04-22**|**A Study On Mixup-inspired Augmentation Methods For Software Vulnerability Detection**|Seyed Shayan Daneshvar et.al.|[2504.15632](http://arxiv.org/abs/2504.15632)|null|
+|**2025-04-23**|**A Study on Mixup-Inspired Augmentation Methods for Software Vulnerability Detection**|Seyed Shayan Daneshvar et.al.|[2504.15632](http://arxiv.org/abs/2504.15632)|null|
 |**2025-04-22**|**Analytical Softmax Temperature Setting from Feature Dimensions for Model- and Domain-Robust Classification**|Tatsuhito Hasegawa et.al.|[2504.15594](http://arxiv.org/abs/2504.15594)|null|
 |**2025-04-22**|**VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining**|Zizhi Chen et.al.|[2504.15545](http://arxiv.org/abs/2504.15545)|null|
 |**2025-04-22**|**Interpretable Deep Learning for Polar Mechanistic Reaction Prediction**|Ryan J. Miller et.al.|[2504.15539](http://arxiv.org/abs/2504.15539)|null|
@@ -1558,8 +1558,8 @@ layout: default
 |**2025-04-21**|**Kolmogorov-Arnold Networks: Approximation and Learning Guarantees for Functions and their Derivatives**|Anastasis Kratsios et.al.|[2504.15110](http://arxiv.org/abs/2504.15110)|null|
 |**2025-04-21**|**A triple-branch network for latent fingerprint enhancement guided by orientation fields and minutiae**|Yurun Wang et.al.|[2504.15105](http://arxiv.org/abs/2504.15105)|null|
 |**2025-04-21**|**Empowering AI to Generate Better AI Code: Guided Generation of Deep Learning Projects with LLMs**|Chen Xie et.al.|[2504.15080](http://arxiv.org/abs/2504.15080)|null|
-|**2025-04-21**|**Shifts in Doctors' Eye Movements Between Real and AI-Generated Medical Images**|David C Wong et.al.|[2504.15007](http://arxiv.org/abs/2504.15007)|null|
-|**2025-04-21**|**A novel hybrid neural network of fluid-structure interaction prediction for two cylinders in tandem arrangement**|Yanfang Lyua et.al.|[2504.14971](http://arxiv.org/abs/2504.14971)|null|
+|**2025-04-24**|**Shifts in Doctors' Eye Movements Between Real and AI-Generated Medical Images**|David C Wong et.al.|[2504.15007](http://arxiv.org/abs/2504.15007)|null|
+|**2025-04-24**|**A novel hybrid neural network of fluid-structure interaction prediction for two cylinders in tandem arrangement**|Yanfang Lyu et.al.|[2504.14971](http://arxiv.org/abs/2504.14971)|null|
 |**2025-04-21**|**PIV-FlowDiffuser:Transfer-learning-based denoising diffusion models for PIV**|Qianyu Zhu et.al.|[2504.14952](http://arxiv.org/abs/2504.14952)|**[link](https://github.com/zhu-qianyu/piv-flowdiffuser)**|
 |**2025-04-21**|**A Purely Data-Driven Adaptive Impedance Matching Method Robust to Parasitic Effects**|Wendong Cheng et.al.|[2504.14951](http://arxiv.org/abs/2504.14951)|null|
 |**2025-04-21**|**Dynamic Graph-Like Learning with Contrastive Clustering on Temporally-Factored Ship Motion Data for Imbalanced Sea State Estimation in Autonomous Vessel**|Kexin Wang et.al.|[2504.14907](http://arxiv.org/abs/2504.14907)|null|
