@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -382,7 +382,7 @@ layout: default
 |**2025-01-10**|**GenMol: A Drug Discovery Generalist with Discrete Diffusion**|Seul Lee et.al.|[2501.06158](http://arxiv.org/abs/2501.06158)|null|
 |**2025-01-05**|**Unified Guidance for Geometry-Conditioned Molecular Generation**|Sirine Ayadi et.al.|[2501.02526](http://arxiv.org/abs/2501.02526)|null|
 |**2025-01-03**|**Active Learning Enables Extrapolation in Molecular Generative Models**|Evan R. Antoniuk et.al.|[2501.02059](http://arxiv.org/abs/2501.02059)|null|
-|**2025-04-16**|**MADGEN: Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|**[link](https://github.com/HassounLab/MADGEN)**|
+|**2025-04-29**|**MADGEN: Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|**[link](https://github.com/HassounLab/MADGEN)**|
 |**2024-12-02**|**Tokenizing 3D Molecule Structure with Quantized Spherical Coordinates**|Kaiyuan Gao et.al.|[2412.01564](http://arxiv.org/abs/2412.01564)|null|
 |**2024-11-25**|**Limeade: Let integer molecular encoding aid**|Shiqiang Zhang et.al.|[2411.16623](http://arxiv.org/abs/2411.16623)|**[link](https://github.com/cog-imperial/limeade)**|
 |**2024-11-23**|**MolMetaLM: a Physicochemical Knowledge-Guided Molecular Meta Language Model**|Yifan Wu et.al.|[2411.15500](http://arxiv.org/abs/2411.15500)|**[link](https://github.com/CSUBioGroup/MolMetaLM)**|
@@ -1540,7 +1540,7 @@ layout: default
 |**2025-04-27**|**Myocardial Region-guided Feature Aggregation Net for Automatic Coronary artery Segmentation and Stenosis Assessment using Coronary Computed Tomography Angiography**|Ni Yao et.al.|[2504.19300](http://arxiv.org/abs/2504.19300)|null|
 |**2025-04-27**|**TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks**|Mohammad M Maheri et.al.|[2504.19274](http://arxiv.org/abs/2504.19274)|null|
 |**2025-04-27**|**Deep learning velocity filtering for seismic data**|Xiaobin Li et.al.|[2504.19216](http://arxiv.org/abs/2504.19216)|null|
-|**2025-04-27**|**Improving Generalization in MRI-Based Deep Learning Models for Total Knee Replacement Prediction**|Ehsan Karami et.al.|[2504.19203](http://arxiv.org/abs/2504.19203)|null|
+|**2025-04-29**|**Improving Generalization in MRI-Based Deep Learning Models for Total Knee Replacement Prediction**|Ehsan Karami et.al.|[2504.19203](http://arxiv.org/abs/2504.19203)|null|
 |**2025-04-27**|**Leveraging Modified Ex Situ Tomography Data for Segmentation of In Situ Synchrotron X-Ray Computed Tomography**|Tristan Manchester et.al.|[2504.19200](http://arxiv.org/abs/2504.19200)|null|
 |**2025-04-27**|**Relative Contrastive Learning for Sequential Recommendation with Similarity-based Positive Pair Selection**|Zhikai Wang et.al.|[2504.19178](http://arxiv.org/abs/2504.19178)|null|
 |**2025-04-27**|**A tissue-informed deep learning-based method for positron range correction in preclinical 68Ga PET imaging**|Nerea Encina-Baranda et.al.|[2504.19175](http://arxiv.org/abs/2504.19175)|null|
