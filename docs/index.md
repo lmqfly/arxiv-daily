@@ -358,6 +358,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**A 3D pocket-aware and affinity-guided diffusion model for lead optimization**|Anjie Qiao et.al.|[2504.21065](http://arxiv.org/abs/2504.21065)|null|
 |**2025-04-29**|**JTreeformer: Graph-Transformer via Latent-Diffusion Model for Molecular Generation**|Ji Shi et.al.|[2504.20770](http://arxiv.org/abs/2504.20770)|null|
 |**2025-04-28**|**Heterophily-informed Message Passing**|Haishan Wang et.al.|[2504.19785](http://arxiv.org/abs/2504.19785)|null|
 |**2025-04-26**|**Improved Molecular Generation through Attribute-Driven Integrative Embeddings and GAN Selectivity**|Nandan Joshi et.al.|[2504.19040](http://arxiv.org/abs/2504.19040)|null|
@@ -754,6 +755,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**No Evidence of Anomalous Diffusion in Yukawa Crystals**|Matthew E. Caplan et.al.|[2504.21608](http://arxiv.org/abs/2504.21608)|null|
 |**2025-04-28**|**TDP-43 multidomains and RNA modulate interactions and viscoelasticity in biomolecular condensates**|Yui Matsushita et.al.|[2504.19790](http://arxiv.org/abs/2504.19790)|null|
 |**2025-04-28**|**Search for structural differences in spike glycoprotein variants of SARS-CoV-2: Infrared Spectroscopy, Circular Dichroism and Computational Analysis**|Tiziana Mancini et.al.|[2504.19766](http://arxiv.org/abs/2504.19766)|null|
 |**2025-04-28**|**Molecular Dynamics Investigation of Static and Dynamic Interfacial Properties in Ice-Polymer Premelting Layers**|Takumi Sato et.al.|[2504.19628](http://arxiv.org/abs/2504.19628)|null|
@@ -1520,6 +1522,40 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Parameter Inference of Black Hole Images using Deep Learning in Visibility Space**|Franc O et.al.|[2504.21840](http://arxiv.org/abs/2504.21840)|null|
+|**2025-04-30**|**An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding**|Xiuwei Shang et.al.|[2504.21803](http://arxiv.org/abs/2504.21803)|null|
+|**2025-04-30**|**Anomaly-Driven Approach for Enhanced Prostate Cancer Segmentation**|Alessia Hu et.al.|[2504.21789](http://arxiv.org/abs/2504.21789)|null|
+|**2025-04-30**|**MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks**|Paola F. Antonietti et.al.|[2504.21780](http://arxiv.org/abs/2504.21780)|null|
+|**2025-04-30**|**Solving Copyright Infringement on Short Video Platforms: Novel Datasets and an Audio Restoration Deep Learning Pipeline**|Minwoo Oh et.al.|[2504.21772](http://arxiv.org/abs/2504.21772)|null|
+|**2025-04-30**|**Anatomical Similarity as a New Metric to Evaluate Brain Generative Models**|Bahram Jafrasteh et.al.|[2504.21771](http://arxiv.org/abs/2504.21771)|null|
+|**2025-04-30**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
+|**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[2504.21699](http://arxiv.org/abs/2504.21699)|null|
+|**2025-04-30**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
+|**2025-04-30**|**Latent Feature-Guided Conditional Diffusion for High-Fidelity Generative Image Semantic Communication**|Zehao Chen et.al.|[2504.21577](http://arxiv.org/abs/2504.21577)|null|
+|**2025-04-29**|**A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models**|Md Zahidul Haque et.al.|[2504.21569](http://arxiv.org/abs/2504.21569)|null|
+|**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
+|**2025-04-30**|**CryptoUNets: Applying Convolutional Networks to Encrypted Data for Biomedical Image Segmentation**|John Chiang et.al.|[2504.21543](http://arxiv.org/abs/2504.21543)|null|
+|**2025-04-28**|**A comparison of generative deep learning methods for multivariate angular simulation**|Jakob Benjamin Wessel et.al.|[2504.21505](http://arxiv.org/abs/2504.21505)|null|
+|**2025-04-30**|**Deep Learning Optimization Using Self-Adaptive Weighted Auxiliary Variables**|Yaru Liu et.al.|[2504.21501](http://arxiv.org/abs/2504.21501)|null|
+|**2025-04-30**|**Semantic-aided Parallel Image Transmission Compatible with Practical System**|Mingkai Xu et.al.|[2504.21466](http://arxiv.org/abs/2504.21466)|null|
+|**2025-04-30**|**VR-FuseNet: A Fusion of Heterogeneous Fundus Data and Explainable Deep Network for Diabetic Retinopathy Classification**|Shamim Rahim Refat et.al.|[2504.21464](http://arxiv.org/abs/2504.21464)|null|
+|**2025-04-30**|**xEEGNet: Towards Explainable AI in EEG Dementia Classification**|Andrea Zanola et.al.|[2504.21457](http://arxiv.org/abs/2504.21457)|null|
+|**2025-04-30**|**Comparison of Different Deep Neural Network Models in the Cultural Heritage Domain**|Teodor Boyadzhiev et.al.|[2504.21387](http://arxiv.org/abs/2504.21387)|null|
+|**2025-04-30**|**A comparative study of deep learning and ensemble learning to extend the horizon of traffic forecasting**|Xiao Zheng et.al.|[2504.21358](http://arxiv.org/abs/2504.21358)|null|
+|**2025-04-30**|**Generative QoE Modeling: A Lightweight Approach for Telecom Networks**|Vinti Nayar et.al.|[2504.21353](http://arxiv.org/abs/2504.21353)|null|
+|**2025-04-30**|**Towards Space Group Determination from EBSD Patterns: The Role of Deep Learning and High-throughput Dynamical Simulations**|Alfred Yan et.al.|[2504.21331](http://arxiv.org/abs/2504.21331)|null|
+|**2025-04-30**|**An Evaluation of a Visual Question Answering Strategy for Zero-shot Facial Expression Recognition in Still Images**|Modesto Castrillón-Santana et.al.|[2504.21309](http://arxiv.org/abs/2504.21309)|null|
+|**2025-04-30**|**Birdie: Natural Language-Driven Table Discovery Using Differentiable Search Index**|Yuxiang Guo et.al.|[2504.21282](http://arxiv.org/abs/2504.21282)|null|
+|**2025-04-30**|**Database and deep-learning scalability of anharmonic phonon properties by automated brute-force first-principles calculations**|Masato Ohnishi et.al.|[2504.21245](http://arxiv.org/abs/2504.21245)|null|
+|**2025-04-29**|**T2ID-CAS: Diffusion Model and Class Aware Sampling to Mitigate Class Imbalance in Neck Ultrasound Anatomical Landmark Detection**|Manikanta Varaganti et.al.|[2504.21231](http://arxiv.org/abs/2504.21231)|null|
+|**2025-04-29**|**Gradient Attention Map Based Verification of Deep Convolutional Neural Networks with Application to X-ray Image Datasets**|Omid Halimi Milani et.al.|[2504.21227](http://arxiv.org/abs/2504.21227)|null|
+|**2025-04-29**|**Artificial Intelligence for Personalized Prediction of Alzheimer's Disease Progression: A Survey of Methods, Data Challenges, and Future Directions**|Gulsah Hancerliogullari Koksalmis et.al.|[2504.21189](http://arxiv.org/abs/2504.21189)|null|
+|**2025-04-29**|**Light Weight CNN for classification of Brain Tumors from MRI Images**|Natnael Alemayehu et.al.|[2504.21188](http://arxiv.org/abs/2504.21188)|null|
+|**2025-04-29**|**Efficient LLMs with AMP: Attention Heads and MLP Pruning**|Leandro Giusti Mugnaini et.al.|[2504.21174](http://arxiv.org/abs/2504.21174)|null|
+|**2025-04-29**|**DeepVoid: A Deep Learning Void Detector**|Sam Kumagai et.al.|[2504.21134](http://arxiv.org/abs/2504.21134)|null|
+|**2025-04-29**|**A 3D pocket-aware and affinity-guided diffusion model for lead optimization**|Anjie Qiao et.al.|[2504.21065](http://arxiv.org/abs/2504.21065)|null|
+|**2025-04-29**|**Modeling and Performance Analysis for Semantic Communications Based on Empirical Results**|Shuai Ma et.al.|[2504.21055](http://arxiv.org/abs/2504.21055)|null|
+|**2025-04-29**|**Phishing URL Detection using Bi-LSTM**|Sneha Baskota et.al.|[2504.21049](http://arxiv.org/abs/2504.21049)|null|
 |**2025-04-29**|**Deep Learning Characterizes Depression and Suicidal Ideation from Eye Movements**|Kleanthis Avramidis et.al.|[2504.20944](http://arxiv.org/abs/2504.20944)|null|
 |**2025-04-29**|**Scenario-based Compositional Verification of Autonomous Systems with Neural Perception**|Christopher Watson et.al.|[2504.20942](http://arxiv.org/abs/2504.20942)|null|
 |**2025-04-29**|**Flexible Semantic-Aware Resource Allocation: Serving More Users Through Similarity Range Constraints**|Nasrin Gholami et.al.|[2504.20939](http://arxiv.org/abs/2504.20939)|null|
@@ -11711,6 +11747,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**A 3D pocket-aware and affinity-guided diffusion model for lead optimization**|Anjie Qiao et.al.|[2504.21065](http://arxiv.org/abs/2504.21065)|null|
 |**2025-04-25**|**CAML: Commutative algebra machine learning -- a case study on protein-ligand binding affinity prediction**|Hongsong Feng et.al.|[2504.18646](http://arxiv.org/abs/2504.18646)|null|
 |**2025-04-18**|**Molecular Determinants of Orthosteric-allosteric Dual Inhibition of PfHT1 by Computational Assessment**|Decheng Kong et.al.|[2504.18559](http://arxiv.org/abs/2504.18559)|null|
 |**2025-04-24**|**LLM Agent Swarm for Hypothesis-Driven Drug Discovery**|Kevin Song et.al.|[2504.17967](http://arxiv.org/abs/2504.17967)|null|
