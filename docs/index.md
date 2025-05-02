@@ -358,6 +358,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**An evaluation of unconditional 3D molecular generation methods**|Martin Buttenschoen et.al.|[2505.00518](http://arxiv.org/abs/2505.00518)|null|
+|**2025-04-30**|**GEOM-Drugs Revisited: Toward More Chemically Accurate Benchmarks for 3D Molecule Generation**|Filipp Nikitin et.al.|[2505.00169](http://arxiv.org/abs/2505.00169)|null|
 |**2025-04-29**|**A 3D pocket-aware and affinity-guided diffusion model for lead optimization**|Anjie Qiao et.al.|[2504.21065](http://arxiv.org/abs/2504.21065)|null|
 |**2025-04-29**|**JTreeformer: Graph-Transformer via Latent-Diffusion Model for Molecular Generation**|Ji Shi et.al.|[2504.20770](http://arxiv.org/abs/2504.20770)|null|
 |**2025-04-28**|**Heterophily-informed Message Passing**|Haishan Wang et.al.|[2504.19785](http://arxiv.org/abs/2504.19785)|null|
@@ -755,6 +757,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Size-Dependent Tensile Behavior and Dislocation Dynamics in Cu and Ag Nanowires: A Molecular Dynamics Study**|Xiaorui Hu et.al.|[2505.00401](http://arxiv.org/abs/2505.00401)|null|
+|**2025-05-01**|**Site-Percolation-Driven Ionic Conductivity in Random Substitutional Crystal**|Rikuya Ishikawa et.al.|[2505.00362](http://arxiv.org/abs/2505.00362)|null|
+|**2025-05-01**|**PYSED: A tool for extracting kinetic-energy-weighted phonon dispersion and lifetime from molecular dynamics simulations**|Ting Liang et.al.|[2505.00353](http://arxiv.org/abs/2505.00353)|null|
 |**2025-04-30**|**No Evidence of Anomalous Diffusion in Yukawa Crystals**|Matthew E. Caplan et.al.|[2504.21608](http://arxiv.org/abs/2504.21608)|null|
 |**2025-04-28**|**TDP-43 multidomains and RNA modulate interactions and viscoelasticity in biomolecular condensates**|Yui Matsushita et.al.|[2504.19790](http://arxiv.org/abs/2504.19790)|null|
 |**2025-04-28**|**Search for structural differences in spike glycoprotein variants of SARS-CoV-2: Infrared Spectroscopy, Circular Dichroism and Computational Analysis**|Tiziana Mancini et.al.|[2504.19766](http://arxiv.org/abs/2504.19766)|null|
@@ -1522,6 +1527,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Spreading Depolarization Detection in Electrocorticogram Spectrogram Imaging by Deep Learning: Is It Just About Delta Band?**|Jeanne Boyer-Chammard et.al.|[2505.00666](http://arxiv.org/abs/2505.00666)|null|
+|**2025-05-01**|**AI-based CSI Feedback with Digital Twins: Real-World Validation and Insights**|Tzu-Hao Huang et.al.|[2505.00660](http://arxiv.org/abs/2505.00660)|null|
+|**2025-05-01**|**Deep Learning Assisted Outer Volume Removal for Highly-Accelerated Real-Time Dynamic MRI**|Merve Gülle et.al.|[2505.00643](http://arxiv.org/abs/2505.00643)|null|
+|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
+|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625](http://arxiv.org/abs/2505.00625)|**[link](https://github.com/MustBeOne/SA-GAT-SR)**|
+|**2025-04-30**|**AnimalMotionCLIP: Embedding motion in CLIP for Animal Behavior Analysis**|Enmin Zhong et.al.|[2505.00569](http://arxiv.org/abs/2505.00569)|null|
+|**2025-05-01**|**X-ray illicit object detection using hybrid CNN-transformer neural network architectures**|Jorgen Cani et.al.|[2505.00564](http://arxiv.org/abs/2505.00564)|null|
+|**2025-05-01**|**KnowEEG: Explainable Knowledge Driven EEG Classification**|Amarpal Sahota et.al.|[2505.00541](http://arxiv.org/abs/2505.00541)|null|
+|**2025-05-01**|**A Robust Deep Networks based Multi-Object MultiCamera Tracking System for City Scale Traffic**|Muhammad Imran Zaman et.al.|[2505.00534](http://arxiv.org/abs/2505.00534)|null|
+|**2025-05-01**|**A Methodological and Structural Review of Parkinsons Disease Detection Across Diverse Data Modalities**|Abu Saleh Musa Miah et.al.|[2505.00525](http://arxiv.org/abs/2505.00525)|null|
+|**2025-05-01**|**Inconsistency-based Active Learning for LiDAR Object Detection**|Esteban Rivera et.al.|[2505.00511](http://arxiv.org/abs/2505.00511)|null|
+|**2025-05-01**|**Enhancing Tropical Cyclone Path Forecasting with an Improved Transformer Network**|Nguyen Van Thanh et.al.|[2505.00495](http://arxiv.org/abs/2505.00495)|null|
+|**2025-05-01**|**iMacSR: Intermediate Multi-Access Supervision and Regularization in Training Autonomous Driving Models**|Wei-Bin Kou et.al.|[2505.00404](http://arxiv.org/abs/2505.00404)|null|
+|**2025-05-01**|**GAN-based Generator of Adversarial Attack on Intelligent End-to-End Autoencoder-based Communication System**|Jianyuan Chen et.al.|[2505.00395](http://arxiv.org/abs/2505.00395)|null|
+|**2025-05-01**|**Do global forecasting models require frequent retraining?**|Marco Zanotti et.al.|[2505.00356](http://arxiv.org/abs/2505.00356)|null|
+|**2025-05-01**|**Multi-segment Soft Robot Control via Deep Koopman-based Model Predictive Control**|Lei Lv et.al.|[2505.00354](http://arxiv.org/abs/2505.00354)|null|
+|**2025-05-01**|**Validation of a 24-hour-ahead Prediction model for a Residential Electrical Load under diverse climate**|Ehtisham Asghar et.al.|[2505.00348](http://arxiv.org/abs/2505.00348)|null|
+|**2025-05-01**|**Vehicular Communication Security: Multi-Channel and Multi-Factor Authentication**|Marco De Vincenzi et.al.|[2505.00340](http://arxiv.org/abs/2505.00340)|null|
+|**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334](http://arxiv.org/abs/2505.00334)|null|
+|**2025-05-01**|**Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture**|Tien Comlekoglu et.al.|[2505.00316](http://arxiv.org/abs/2505.00316)|null|
+|**2025-05-01**|**AWARE-NET: Adaptive Weighted Averaging for Robust Ensemble Network in Deepfake Detection**|Muhammad Salman et.al.|[2505.00312](http://arxiv.org/abs/2505.00312)|**[link](https://github.com/recluzegeek/deepfake-ensemble-detection)**|
+|**2025-05-01**|**AI-Assisted Decision-Making for Clinical Assessment of Auto-Segmented Contour Quality**|Biling Wang et.al.|[2505.00308](http://arxiv.org/abs/2505.00308)|null|
+|**2025-05-01**|**Multi-Hierarchical Fine-Grained Feature Mapping Driven by Feature Contribution for Molecular Odor Prediction**|Hong Xin Xie et.al.|[2505.00290](http://arxiv.org/abs/2505.00290)|null|
+|**2025-05-01**|**Field-scale soil moisture estimated from Sentinel-1 SAR data using a knowledge-guided deep learning approach**|Yi Yu et.al.|[2505.00265](http://arxiv.org/abs/2505.00265)|null|
+|**2025-04-30**|**Towards Robust and Generalizable Gerchberg Saxton based Physics Inspired Neural Networks for Computer Generated Holography: A Sensitivity Analysis Framework**|Ankit Amrutkar et.al.|[2505.00220](http://arxiv.org/abs/2505.00220)|null|
+|**2025-04-30**|**Chronic Diseases Prediction using Machine Learning and Deep Learning Methods**|Houda Belhad et.al.|[2505.00189](http://arxiv.org/abs/2505.00189)|null|
+|**2025-04-30**|**Attention-enabled Explainable AI for Bladder Cancer Recurrence Prediction**|Saram Abbas et.al.|[2505.00171](http://arxiv.org/abs/2505.00171)|null|
+|**2025-04-30**|**When Deep Learning Meets Information Retrieval-based Bug Localization: A Survey**|Feifei Niu et.al.|[2505.00144](http://arxiv.org/abs/2505.00144)|null|
+|**2025-04-29**|**Enhancing Echocardiogram Video Quality via Latent Space Editing**|David Choi et.al.|[2505.00043](http://arxiv.org/abs/2505.00043)|null|
 |**2025-04-30**|**Parameter Inference of Black Hole Images using Deep Learning in Visibility Space**|Franc O et.al.|[2504.21840](http://arxiv.org/abs/2504.21840)|null|
 |**2025-04-30**|**An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding**|Xiuwei Shang et.al.|[2504.21803](http://arxiv.org/abs/2504.21803)|null|
 |**2025-04-30**|**Anomaly-Driven Approach for Enhanced Prostate Cancer Segmentation**|Alessia Hu et.al.|[2504.21789](http://arxiv.org/abs/2504.21789)|null|
