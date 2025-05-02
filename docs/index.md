@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -842,7 +842,7 @@ layout: default
 |**2025-03-13**|**Water is a superacid at extreme thermodynamic conditions**|Thomas Thévenet et.al.|[2503.10849](http://arxiv.org/abs/2503.10849)|null|
 |**2025-03-07**|**Active learning for parameter-free multiscale modeling of boundary lubrication**|Hannes Holey et.al.|[2503.09619](http://arxiv.org/abs/2503.09619)|**[link](https://github.com/hannes-holey/hans)**|
 |**2025-03-12**|**Melting of rods on a sphere via an intermediate hexatic phase**|Jaydeep Mandal et.al.|[2503.09362](http://arxiv.org/abs/2503.09362)|null|
-|**2025-03-12**|**Moiré-Driven Interfacial Thermal Transport in Twisted Transition Metal Dichalcogenides**|Wenwu Jiang et.al.|[2503.09141](http://arxiv.org/abs/2503.09141)|null|
+|**2025-05-01**|**Moiré-Driven Interfacial Thermal Transport in Twisted Transition Metal Dichalcogenides**|Wenwu Jiang et.al.|[2503.09141](http://arxiv.org/abs/2503.09141)|null|
 |**2025-03-11**|**The standard coil or globule phases cannot describe the denatured state of structured proteins and intrinsically disordered proteins**|F. Righini et.al.|[2503.08115](http://arxiv.org/abs/2503.08115)|null|
 |**2025-03-21**|**Sergeants and Soldiers in Chiral Nematic Liquid Crystal**|Yoshiaki Uchida et.al.|[2503.07873](http://arxiv.org/abs/2503.07873)|null|
 |**2025-03-10**|**Does Hessian Data Improve the Performance of Machine Learning Potentials?**|Austin Rodriguez et.al.|[2503.07839](http://arxiv.org/abs/2503.07839)|null|
@@ -1568,7 +1568,7 @@ layout: default
 |**2025-04-29**|**Disjoint Delay-Doppler Estimation in OTFS ISAC with Deep Learning-aided Path Detection**|Mauro Marchese et.al.|[2504.20659](http://arxiv.org/abs/2504.20659)|null|
 |**2025-04-29**|**Data Driven Deep Learning for Correcting Global Climate Model Projections of SST and DSL in the Bay of Bengal**|Abhishek Pasula et.al.|[2504.20620](http://arxiv.org/abs/2504.20620)|null|
 |**2025-04-29**|**Digital Shielding for Cross-Domain Wi-Fi Signal Adaptation using Relativistic Average Generative Adversarial Network**|Danilo Avola et.al.|[2504.20568](http://arxiv.org/abs/2504.20568)|null|
-|**2025-04-29**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
+|**2025-05-01**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
 |**2025-04-29**|**Autoencoder Models for Point Cloud Environmental Synthesis from WiFi Channel State Information: A Preliminary Study**|Daniele Pannone et.al.|[2504.20541](http://arxiv.org/abs/2504.20541)|null|
 |**2025-04-29**|**Triadic Closure-Heterogeneity-Harmony GCN for Link Prediction**|Ke-ke Shang et.al.|[2504.20492](http://arxiv.org/abs/2504.20492)|null|
 |**2025-04-29**|**Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations**|Haoyang Li et.al.|[2504.20490](http://arxiv.org/abs/2504.20490)|null|
