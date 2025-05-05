@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1528,10 +1528,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-01**|**Spreading Depolarization Detection in Electrocorticogram Spectrogram Imaging by Deep Learning: Is It Just About Delta Band?**|Jeanne Boyer-Chammard et.al.|[2505.00666](http://arxiv.org/abs/2505.00666)|null|
-|**2025-05-01**|**AI-based CSI Feedback with Digital Twins: Real-World Validation and Insights**|Tzu-Hao Huang et.al.|[2505.00660](http://arxiv.org/abs/2505.00660)|null|
+|**2025-05-02**|**AI-based CSI Feedback with Digital Twins: Real-World Validation and Insights**|Tzu-Hao Huang et.al.|[2505.00660](http://arxiv.org/abs/2505.00660)|null|
 |**2025-05-01**|**Deep Learning Assisted Outer Volume Removal for Highly-Accelerated Real-Time Dynamic MRI**|Merve Gülle et.al.|[2505.00643](http://arxiv.org/abs/2505.00643)|null|
 |**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
-|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625](http://arxiv.org/abs/2505.00625)|**[link](https://github.com/MustBeOne/SA-GAT-SR)**|
+|**2025-05-02**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625](http://arxiv.org/abs/2505.00625)|**[link](https://github.com/MustBeOne/SA-GAT-SR)**|
 |**2025-04-30**|**AnimalMotionCLIP: Embedding motion in CLIP for Animal Behavior Analysis**|Enmin Zhong et.al.|[2505.00569](http://arxiv.org/abs/2505.00569)|null|
 |**2025-05-01**|**X-ray illicit object detection using hybrid CNN-transformer neural network architectures**|Jorgen Cani et.al.|[2505.00564](http://arxiv.org/abs/2505.00564)|null|
 |**2025-05-01**|**KnowEEG: Explainable Knowledge Driven EEG Classification**|Amarpal Sahota et.al.|[2505.00541](http://arxiv.org/abs/2505.00541)|null|
@@ -1562,7 +1562,7 @@ layout: default
 |**2025-04-30**|**MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks**|Paola F. Antonietti et.al.|[2504.21780](http://arxiv.org/abs/2504.21780)|null|
 |**2025-04-30**|**Solving Copyright Infringement on Short Video Platforms: Novel Datasets and an Audio Restoration Deep Learning Pipeline**|Minwoo Oh et.al.|[2504.21772](http://arxiv.org/abs/2504.21772)|null|
 |**2025-04-30**|**Anatomical Similarity as a New Metric to Evaluate Brain Generative Models**|Bahram Jafrasteh et.al.|[2504.21771](http://arxiv.org/abs/2504.21771)|null|
-|**2025-04-30**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
+|**2025-05-02**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
 |**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[2504.21699](http://arxiv.org/abs/2504.21699)|null|
 |**2025-04-30**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
 |**2025-04-30**|**Latent Feature-Guided Conditional Diffusion for High-Fidelity Generative Image Semantic Communication**|Zehao Chen et.al.|[2504.21577](http://arxiv.org/abs/2504.21577)|null|
@@ -1577,7 +1577,7 @@ layout: default
 |**2025-04-30**|**Comparison of Different Deep Neural Network Models in the Cultural Heritage Domain**|Teodor Boyadzhiev et.al.|[2504.21387](http://arxiv.org/abs/2504.21387)|null|
 |**2025-04-30**|**A comparative study of deep learning and ensemble learning to extend the horizon of traffic forecasting**|Xiao Zheng et.al.|[2504.21358](http://arxiv.org/abs/2504.21358)|null|
 |**2025-04-30**|**Generative QoE Modeling: A Lightweight Approach for Telecom Networks**|Vinti Nayar et.al.|[2504.21353](http://arxiv.org/abs/2504.21353)|null|
-|**2025-04-30**|**Towards Space Group Determination from EBSD Patterns: The Role of Deep Learning and High-throughput Dynamical Simulations**|Alfred Yan et.al.|[2504.21331](http://arxiv.org/abs/2504.21331)|null|
+|**2025-05-02**|**Towards Space Group Determination from EBSD Patterns: The Role of Deep Learning and High-throughput Dynamical Simulations**|Alfred Yan et.al.|[2504.21331](http://arxiv.org/abs/2504.21331)|null|
 |**2025-04-30**|**An Evaluation of a Visual Question Answering Strategy for Zero-shot Facial Expression Recognition in Still Images**|Modesto Castrillón-Santana et.al.|[2504.21309](http://arxiv.org/abs/2504.21309)|null|
 |**2025-04-30**|**Birdie: Natural Language-Driven Table Discovery Using Differentiable Search Index**|Yuxiang Guo et.al.|[2504.21282](http://arxiv.org/abs/2504.21282)|null|
 |**2025-04-30**|**Database and deep-learning scalability of anharmonic phonon properties by automated brute-force first-principles calculations**|Masato Ohnishi et.al.|[2504.21245](http://arxiv.org/abs/2504.21245)|null|
