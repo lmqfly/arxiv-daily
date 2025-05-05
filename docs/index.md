@@ -757,10 +757,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Elucidating the role of ribosomal A1493 in stabilization and rigid support for the codon-anticodon helix from molecular dynamics simulations**|Shuhao Zhang et.al.|[2505.01327](http://arxiv.org/abs/2505.01327)|null|
+|**2025-05-02**|**Characterizing the embedded states of a fluorescent probe within a lipid bilayer using molecular dynamics simulations**|Ryo Okabe et.al.|[2505.00403](http://arxiv.org/abs/2505.00403)|null|
 |**2025-05-01**|**Size-Dependent Tensile Behavior and Dislocation Dynamics in Cu and Ag Nanowires: A Molecular Dynamics Study**|Xiaorui Hu et.al.|[2505.00401](http://arxiv.org/abs/2505.00401)|null|
 |**2025-05-01**|**Site-Percolation-Driven Ionic Conductivity in Random Substitutional Crystal**|Rikuya Ishikawa et.al.|[2505.00362](http://arxiv.org/abs/2505.00362)|null|
 |**2025-05-01**|**PYSED: A tool for extracting kinetic-energy-weighted phonon dispersion and lifetime from molecular dynamics simulations**|Ting Liang et.al.|[2505.00353](http://arxiv.org/abs/2505.00353)|null|
 |**2025-04-30**|**No Evidence of Anomalous Diffusion in Yukawa Crystals**|Matthew E. Caplan et.al.|[2504.21608](http://arxiv.org/abs/2504.21608)|null|
+|**2025-05-02**|**A rigorous data-driven approach to the nucleation of defects in metals exploiting the link between kinetic properties and (dis)order parameters**|Mattia Perrone et.al.|[2504.20211](http://arxiv.org/abs/2504.20211)|null|
 |**2025-04-28**|**TDP-43 multidomains and RNA modulate interactions and viscoelasticity in biomolecular condensates**|Yui Matsushita et.al.|[2504.19790](http://arxiv.org/abs/2504.19790)|null|
 |**2025-04-28**|**Search for structural differences in spike glycoprotein variants of SARS-CoV-2: Infrared Spectroscopy, Circular Dichroism and Computational Analysis**|Tiziana Mancini et.al.|[2504.19766](http://arxiv.org/abs/2504.19766)|null|
 |**2025-04-28**|**Molecular Dynamics Investigation of Static and Dynamic Interfacial Properties in Ice-Polymer Premelting Layers**|Takumi Sato et.al.|[2504.19628](http://arxiv.org/abs/2504.19628)|null|
@@ -1527,6 +1530,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades**|Rahuul Rangaraj et.al.|[2505.01415](http://arxiv.org/abs/2505.01415)|null|
+|**2025-05-02**|**Multimodal Doctor-in-the-Loop: A Clinically-Guided Explainable Framework for Predicting Pathological Response in Non-Small Cell Lung Cancer**|Alice Natalina Caragliano et.al.|[2505.01390](http://arxiv.org/abs/2505.01390)|null|
+|**2025-05-02**|**Deep Learning-Enabled System Diagnosis in Microgrids: A Feature-Feedback GAN Approach**|Swetha Rani Kasimalla et.al.|[2505.01366](http://arxiv.org/abs/2505.01366)|null|
+|**2025-05-02**|**2DXformer: Dual Transformers for Wind Power Forecasting with Dual Exogenous Variables**|Yajuan Zhang et.al.|[2505.01286](http://arxiv.org/abs/2505.01286)|null|
+|**2025-05-02**|**Enhancing Obsolescence Forecasting with Deep Generative Data Augmentation: A Semi-Supervised Framework for Low-Data Industrial Applications**|Elie Saad et.al.|[2505.01261](http://arxiv.org/abs/2505.01261)|null|
+|**2025-05-02**|**Can Foundation Models Really Segment Tumors? A Benchmarking Odyssey in Lung CT Imaging**|Elena Mulero Ayllón et.al.|[2505.01239](http://arxiv.org/abs/2505.01239)|null|
+|**2025-05-02**|**Robust Deep Learning-Based Physical Layer Communications: Strategies and Approaches**|Fenghao Zhu et.al.|[2505.01234](http://arxiv.org/abs/2505.01234)|null|
+|**2025-05-02**|**Core-Set Selection for Data-efficient Land Cover Segmentation**|Keiller Nogueira et.al.|[2505.01225](http://arxiv.org/abs/2505.01225)|null|
+|**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199](http://arxiv.org/abs/2505.01199)|null|
+|**2025-05-02**|**CoCoAFusE: Beyond Mixtures of Experts via Model Fusion**|Aurelio Raffa Ugolini et.al.|[2505.01105](http://arxiv.org/abs/2505.01105)|null|
+|**2025-05-02**|**Integration Matters for Learning PDEs with Backwards SDEs**|Sungje Park et.al.|[2505.01078](http://arxiv.org/abs/2505.01078)|null|
+|**2025-05-02**|**Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning**|Roberto Bigazzi et.al.|[2505.00935](http://arxiv.org/abs/2505.00935)|null|
+|**2025-05-02**|**A Self-Supervised Transformer for Unusable Shared Bike Detection**|Yin Huang et.al.|[2505.00932](http://arxiv.org/abs/2505.00932)|null|
+|**2025-05-01**|**Learning Neural Control Barrier Functions from Offline Data with Conservatism**|Ihab Tabbara et.al.|[2505.00908](http://arxiv.org/abs/2505.00908)|null|
+|**2025-05-01**|**Neural Networks Enabled Discovery On the Higher-Order Nonlinear Partial Differential Equation of Traffic Dynamics**|Zihang Wei et.al.|[2505.00904](http://arxiv.org/abs/2505.00904)|null|
+|**2025-05-01**|**Physics-Informed Neural Network-Driven Sparse Field Discretization Method for Near-Field Acoustic Holography**|Xinmeng Luan et.al.|[2505.00897](http://arxiv.org/abs/2505.00897)|null|
+|**2025-05-01**|**Car Sensors Health Monitoring by Verification Based on Autoencoder and Random Forest Regression**|Sahar Torkhesari et.al.|[2505.00876](http://arxiv.org/abs/2505.00876)|null|
+|**2025-05-01**|**SMSAT: A Multimodal Acoustic Dataset and Deep Contrastive Learning Framework for Affective and Physiological Modeling of Spiritual Meditation**|Ahmad Suleman et.al.|[2505.00839](http://arxiv.org/abs/2505.00839)|null|
+|**2025-05-01**|**IberFire -- a detailed creation of a spatio-temporal dataset for wildfire risk assessment in Spain**|Julen Ercibengoa et.al.|[2505.00837](http://arxiv.org/abs/2505.00837)|null|
+|**2025-05-01**|**The Comparability of Model Fusion to Measured Data in Confuser Rejection**|Conor Flynn et.al.|[2505.00836](http://arxiv.org/abs/2505.00836)|null|
+|**2025-05-01**|**Aggregating empirical evidence from data strategy studies: a case on model quantization**|Santiago del Rey et.al.|[2505.00816](http://arxiv.org/abs/2505.00816)|null|
+|**2025-05-01**|**Advancing Wheat Crop Analysis: A Survey of Deep Learning Approaches Using Hyperspectral Imaging**|Fadi Abdeladhim Zidi et.al.|[2505.00805](http://arxiv.org/abs/2505.00805)|null|
+|**2025-05-01**|**Improving Routing in Sparse Mixture of Experts with Graph of Tokens**|Tam Nguyen et.al.|[2505.00792](http://arxiv.org/abs/2505.00792)|null|
+|**2025-05-01**|**AI-ready Snow Radar Echogram Dataset (SRED) for climate change monitoring**|Oluwanisola Ibikunle et.al.|[2505.00786](http://arxiv.org/abs/2505.00786)|null|
+|**2025-04-30**|**Detection and Classification of Diseases in Multi-Crop Leaves using LSTM and CNN Models**|Srinivas Kanakala et.al.|[2505.00741](http://arxiv.org/abs/2505.00741)|null|
+|**2025-04-29**|**Leveraging Depth and Attention Mechanisms for Improved RGB Image Inpainting**|Jin Hyun Park et.al.|[2505.00735](http://arxiv.org/abs/2505.00735)|null|
 |**2025-05-01**|**Spreading Depolarization Detection in Electrocorticogram Spectrogram Imaging by Deep Learning: Is It Just About Delta Band?**|Jeanne Boyer-Chammard et.al.|[2505.00666](http://arxiv.org/abs/2505.00666)|null|
 |**2025-05-02**|**AI-based CSI Feedback with Digital Twins: Real-World Validation and Insights**|Tzu-Hao Huang et.al.|[2505.00660](http://arxiv.org/abs/2505.00660)|null|
 |**2025-05-01**|**Deep Learning Assisted Outer Volume Removal for Highly-Accelerated Real-Time Dynamic MRI**|Merve Gülle et.al.|[2505.00643](http://arxiv.org/abs/2505.00643)|null|
@@ -11781,6 +11810,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot): A Framework for Multi-Objective Protein Optimization via Iterative Sequence Generation and Evaluation**|Hocheol Lim et.al.|[2505.01277](http://arxiv.org/abs/2505.01277)|null|
+|**2025-05-02**|**Non-universal Impact of Cholesterol on Ionic Liquid-Membrane Interactions**|J. Gupta et.al.|[2505.01230](http://arxiv.org/abs/2505.01230)|null|
 |**2025-04-29**|**A 3D pocket-aware and affinity-guided diffusion model for lead optimization**|Anjie Qiao et.al.|[2504.21065](http://arxiv.org/abs/2504.21065)|null|
 |**2025-04-25**|**CAML: Commutative algebra machine learning -- a case study on protein-ligand binding affinity prediction**|Hongsong Feng et.al.|[2504.18646](http://arxiv.org/abs/2504.18646)|null|
 |**2025-04-18**|**Molecular Determinants of Orthosteric-allosteric Dual Inhibition of PfHT1 by Computational Assessment**|Decheng Kong et.al.|[2504.18559](http://arxiv.org/abs/2504.18559)|null|
