@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**EquiHGNN: Scalable Rotationally Equivariant Hypergraph Neural Networks**|Tien Dang et.al.|[2505.05650](http://arxiv.org/abs/2505.05650)|**[link](https://github.com/hysonlab/equihgnn)**|
 |**2025-05-06**|**Quantum QSAR for drug discovery**|Alejandro Giraldo et.al.|[2505.04648](http://arxiv.org/abs/2505.04648)|null|
 |**2025-04-27**|**Heterogeneous network drug-target interaction prediction model based on graph wavelet transform and multi-level contrastive learning**|Wenfeng Dai et.al.|[2504.20103](http://arxiv.org/abs/2504.20103)|null|
 |**2025-04-25**|**Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics**|Maodong Li et.al.|[2504.18367](http://arxiv.org/abs/2504.18367)|null|
@@ -359,6 +360,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization**|Anjie Qiao et.al.|[2505.05874](http://arxiv.org/abs/2505.05874)|null|
 |**2025-05-07**|**Navigating Chemical Space: Multi-Level Bayesian Optimization with Hierarchical Coarse-Graining**|Luis J. Walter et.al.|[2505.04169](http://arxiv.org/abs/2505.04169)|null|
 |**2025-05-01**|**An evaluation of unconditional 3D molecular generation methods**|Martin Buttenschoen et.al.|[2505.00518](http://arxiv.org/abs/2505.00518)|null|
 |**2025-04-30**|**GEOM-Drugs Revisited: Toward More Chemically Accurate Benchmarks for 3D Molecule Generation**|Filipp Nikitin et.al.|[2505.00169](http://arxiv.org/abs/2505.00169)|null|
@@ -761,6 +763,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Fast and Fourier Features for Transfer Learning of Interatomic Potentials**|Pietro Novelli et.al.|[2505.05652](http://arxiv.org/abs/2505.05652)|null|
 |**2025-05-07**|**Athos-Graphene: Computational Discovery of an Art-Inspired 2D Carbon Anode for Lithium-Ion Batteries**|Kleuton A. L. Lima et.al.|[2505.04810](http://arxiv.org/abs/2505.04810)|null|
 |**2025-05-07**|**Large-scale exponential correlations of non-affine elastic response of strongly disordered materials**|D. A. Conyuh et.al.|[2505.04554](http://arxiv.org/abs/2505.04554)|null|
 |**2025-05-07**|**Adaptive Equilibration of Molecular Dynamics Simulations**|Luciano G. Silvestri et.al.|[2505.04362](http://arxiv.org/abs/2505.04362)|null|
@@ -1544,6 +1547,37 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Adapting a Segmentation Foundation Model for Medical Image Classification**|Pengfei Gu et.al.|[2505.06217](http://arxiv.org/abs/2505.06217)|null|
+|**2025-05-09**|**Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation**|Diego Adame et.al.|[2505.06210](http://arxiv.org/abs/2505.06210)|null|
+|**2025-05-09**|**Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data**|Wenjie Liu et.al.|[2505.06171](http://arxiv.org/abs/2505.06171)|null|
+|**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118](http://arxiv.org/abs/2505.06118)|null|
+|**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
+|**2025-05-09**|**S2MNet: Speckle-To-Mesh Net for Three-Dimensional Cardiac Morphology Reconstruction via Echocardiogram**|Xilin Gong et.al.|[2505.06105](http://arxiv.org/abs/2505.06105)|null|
+|**2025-05-09**|**Discretized Approximate Ancestral Sampling**|Alfredo De la Fuente et.al.|[2505.06098](http://arxiv.org/abs/2505.06098)|null|
+|**2025-05-09**|**Deep Diffusion Maps**|Sergio García-Heredia et.al.|[2505.06087](http://arxiv.org/abs/2505.06087)|**[link](https://github.com/sgh14/deep-diffusion-maps)**|
+|**2025-05-09**|**Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities**|Hiari Pizzini Cavagna et.al.|[2505.06085](http://arxiv.org/abs/2505.06085)|null|
+|**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068](http://arxiv.org/abs/2505.06068)|**[link](https://github.com/qiukunpeng/siamese-diffusion)**|
+|**2025-05-09**|**Towards Better Cephalometric Landmark Detection with Diffusion Data Generation**|Dongqian Guo et.al.|[2505.06055](http://arxiv.org/abs/2505.06055)|null|
+|**2025-05-09**|**Learning Music Audio Representations With Limited Data**|Christos Plachouras et.al.|[2505.06042](http://arxiv.org/abs/2505.06042)|**[link](https://github.com/chrispla/limited-music-representations)**|
+|**2025-05-09**|**Superquantile-Gibbs Relaxation for Minima-selection in Bi-Level Optimization**|Saeed Masiha et.al.|[2505.05991](http://arxiv.org/abs/2505.05991)|null|
+|**2025-05-09**|**Discovery of the Polar Ring Galaxies with deep learning**|D. V. Dobrycheva et.al.|[2505.05890](http://arxiv.org/abs/2505.05890)|null|
+|**2025-05-09**|**A Taxonomy of Attacks and Defenses in Split Learning**|Aqsa Shabbir et.al.|[2505.05872](http://arxiv.org/abs/2505.05872)|null|
+|**2025-05-09**|**Towards order of magnitude X-ray dose reduction in breast cancer imaging using phase contrast and deep denoising**|Ashkan Pakzad et.al.|[2505.05812](http://arxiv.org/abs/2505.05812)|**[link](https://github.com/quell-devs/quell)**|
+|**2025-05-09**|**Intrusion Detection System Using Deep Learning for Network Security**|Soham Chatterjee et.al.|[2505.05810](http://arxiv.org/abs/2505.05810)|null|
+|**2025-05-09**|**Image Segmentation via Variational Model Based Tailored UNet: A Deep Variational Framework**|Kaili Qi et.al.|[2505.05806](http://arxiv.org/abs/2505.05806)|null|
+|**2025-05-09**|**DeepSync: A Learning Framework for Pervasive Localization using Code Synchronization on Compressed Cellular Spectrum**|Aritrik Ghosh et.al.|[2505.05783](http://arxiv.org/abs/2505.05783)|null|
+|**2025-05-09**|**BMMDetect: A Multimodal Deep Learning Framework for Comprehensive Biomedical Misconduct Detection**|Yize Zhou et.al.|[2505.05763](http://arxiv.org/abs/2505.05763)|null|
+|**2025-05-09**|**A review of advancements in low-light image enhancement using deep learning**|Fangxue Liu et.al.|[2505.05759](http://arxiv.org/abs/2505.05759)|null|
+|**2025-05-09**|**Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data**|Amin Ghafourian et.al.|[2505.05752](http://arxiv.org/abs/2505.05752)|**[link](https://github.com/soltanilara/surveyautomation)**|
+|**2025-05-09**|**Efficient Full-Stack Private Federated Deep Learning with Post-Quantum Security**|Yiwei Zhang et.al.|[2505.05751](http://arxiv.org/abs/2505.05751)|null|
+|**2025-05-09**|**Automated Learning of Semantic Embedding Representations for Diffusion Models**|Limai Jiang et.al.|[2505.05732](http://arxiv.org/abs/2505.05732)|null|
+|**2025-05-09**|**Hybrid Learning: A Novel Combination of Self-Supervised and Supervised Learning for MRI Reconstruction without High-Quality Training Reference**|Haoyang Pei et.al.|[2505.05703](http://arxiv.org/abs/2505.05703)|null|
+|**2025-05-08**|**LiteLMGuard: Seamless and Lightweight On-Device Prompt Filtering for Safeguarding Small Language Models against Quantization-induced Risks and Vulnerabilities**|Kalyan Nakka et.al.|[2505.05619](http://arxiv.org/abs/2505.05619)|**[link](https://github.com/kalyan-nakka/litelmguard_mlc-llm)**|
+|**2025-05-08**|**The Evolution of Embedding Table Optimization and Multi-Epoch Training in Pinterest Ads Conversion**|Andrew Qiu et.al.|[2505.05605](http://arxiv.org/abs/2505.05605)|null|
+|**2025-05-08**|**PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models**|Alejandro Velez-Arce et.al.|[2505.05577](http://arxiv.org/abs/2505.05577)|**[link](https://github.com/apliko-xyz/pytdc)**|
+|**2025-05-08**|**Continuous Thought Machines**|Luke Darlow et.al.|[2505.05522](http://arxiv.org/abs/2505.05522)|**[link](https://github.com/SakanaAI/continuous-thought-machines)**|
+|**2025-05-08**|**GaMNet: A Hybrid Network with Gabor Fusion and NMamba for Efficient 3D Glioma Segmentation**|Chengwei Ye et.al.|[2505.05520](http://arxiv.org/abs/2505.05520)|null|
+|**2025-05-08**|**Real-Time Privacy Preservation for Robot Visual Perception**|Minkyu Choi et.al.|[2505.05519](http://arxiv.org/abs/2505.05519)|null|
 |**2025-05-08**|**OcularAge: A Comparative Study of Iris and Periocular Images for Pediatric Age Estimation**|Naveenkumar G Venkataswamy et.al.|[2505.05374](http://arxiv.org/abs/2505.05374)|null|
 |**2025-05-08**|**High-fidelity Grain Growth Modeling: Leveraging Deep Learning for Fast Computations**|Pungponhavoan Tep et.al.|[2505.05354](http://arxiv.org/abs/2505.05354)|null|
 |**2025-05-08**|**Signature Decomposition Method Applying to Pair Trading**|Zihao Guo et.al.|[2505.05332](http://arxiv.org/abs/2505.05332)|null|
@@ -11983,6 +12017,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization**|Anjie Qiao et.al.|[2505.05874](http://arxiv.org/abs/2505.05874)|null|
 |**2025-05-08**|**A Multi-Scale Quantum Framework for Evaluating Metal-Organic Frameworks in Carbon Capture**|Tom W. A. Montgomery et.al.|[2505.04527](http://arxiv.org/abs/2505.04527)|null|
 |**2025-05-05**|**CreoPep: A Universal Deep Learning Framework for Target-Specific Peptide Design and Optimization**|Cheng Ge et.al.|[2505.02887](http://arxiv.org/abs/2505.02887)|**[link](https://github.com/gc-js/creopep)**|
 |**2025-05-05**|**Enhancing Chemical Reaction and Retrosynthesis Prediction with Large Language Model and Dual-task Learning**|Xuan Lin et.al.|[2505.02639](http://arxiv.org/abs/2505.02639)|null|
@@ -12216,6 +12251,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models**|Alejandro Velez-Arce et.al.|[2505.05577](http://arxiv.org/abs/2505.05577)|**[link](https://github.com/apliko-xyz/pytdc)**|
 |**2025-04-27**|**HyboWaveNet: Hyperbolic Graph Neural Networks with Multi-Scale Wavelet Transform for Protein-Protein Interaction Prediction**|Qingzhi Yu et.al.|[2504.20102](http://arxiv.org/abs/2504.20102)|null|
 |**2025-04-22**|**Accurate and generalizable protein-ligand binding affinity prediction with geometric deep learning**|Krinos Li et.al.|[2504.16261](http://arxiv.org/abs/2504.16261)|null|
 |**2025-04-07**|**EquiCPI: SE(3)-Equivariant Geometric Deep Learning for Structure-Aware Prediction of Compound-Protein Interactions**|Ngoc-Quang Nguyen et.al.|[2504.04654](http://arxiv.org/abs/2504.04654)|**[link](https://github.com/dmis-lab/EquiCPI)**|
