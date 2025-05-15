@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Benchmarking Energy Calculations Using Formal Proofs**|Ejike D. Ugwuanyi et.al.|[2505.09095](http://arxiv.org/abs/2505.09095)|null|
 |**2025-05-13**|**Measurements of molecular size and shape on a chip**|Xin Zhu et.al.|[2505.08452](http://arxiv.org/abs/2505.08452)|null|
 |**2025-05-11**|**Observation of modulation-induced Feshbach resonance**|Tongkang Wang et.al.|[2505.06871](http://arxiv.org/abs/2505.06871)|null|
 |**2025-05-08**|**EquiHGNN: Scalable Rotationally Equivariant Hypergraph Neural Networks**|Tien Dang et.al.|[2505.05650](http://arxiv.org/abs/2505.05650)|**[link](https://github.com/hysonlab/equihgnn)**|
@@ -786,6 +787,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Glassy dynamics and a growing structural length scale in supercooled nanoparticles**|Weikai Qi et.al.|[2505.09480](http://arxiv.org/abs/2505.09480)|null|
+|**2025-05-13**|**High-throughput Screening of the Mechanical Properties of Peptide Assemblies**|Sarah K. Yorke et.al.|[2505.08850](http://arxiv.org/abs/2505.08850)|null|
 |**2025-05-13**|**Elastic properties of silicene: Spinodal instabilities**|Carlos P. Herrero et.al.|[2505.08381](http://arxiv.org/abs/2505.08381)|null|
 |**2025-05-12**|**Unveiling Phonon Contributions to Thermal Transport and the Failure of the Wiedemann-Franz Law in Ruthenium and Tungsten Thin Films**|Md. Rafiqul Islam et.al.|[2505.07613](http://arxiv.org/abs/2505.07613)|null|
 |**2025-05-10**|**Efficient Parallelization of Message Passing Neural Networks**|Junfan Xia et.al.|[2505.06711](http://arxiv.org/abs/2505.06711)|null|
@@ -1577,6 +1580,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586](http://arxiv.org/abs/2505.09586)|null|
+|**2025-05-14**|**Using Foundation Models as Pseudo-Label Generators for Pre-Clinical 4D Cardiac CT Segmentation**|Anne-Marie Rickmann et.al.|[2505.09564](http://arxiv.org/abs/2505.09564)|null|
+|**2025-05-14**|**Deep-SITAR: A SITAR-Based Deep Learning Framework for Growth Curve Modeling via Autoencoders**|María Alejandra Hernández et.al.|[2505.09506](http://arxiv.org/abs/2505.09506)|null|
+|**2025-05-14**|**FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models**|Hongyang Wang et.al.|[2505.09415](http://arxiv.org/abs/2505.09415)|null|
+|**2025-05-14**|**Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting**|Chen-Yu Liu et.al.|[2505.09395](http://arxiv.org/abs/2505.09395)|null|
+|**2025-05-14**|**Personalized Control for Lower Limb Prosthesis Using Kolmogorov-Arnold Networks**|SeyedMojtaba Mohasel et.al.|[2505.09366](http://arxiv.org/abs/2505.09366)|null|
+|**2025-05-14**|**Efficient Mixed Precision Quantization in Graph Neural Networks**|Samir Moustafa et.al.|[2505.09361](http://arxiv.org/abs/2505.09361)|**[link](https://github.com/samirmoustafa/mixq)**|
+|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|null|
+|**2025-05-14**|**DCSNet: A Lightweight Knowledge Distillation-Based Model with Explainable AI for Lung Cancer Diagnosis from Histopathological Images**|Sadman Sakib Alif et.al.|[2505.09334](http://arxiv.org/abs/2505.09334)|null|
+|**2025-05-14**|**Accelerating Machine Learning Systems via Category Theory: Applications to Spherical Attention for Gene Regulatory Networks**|Vincent Abbott et.al.|[2505.09326](http://arxiv.org/abs/2505.09326)|null|
+|**2025-05-14**|**Neural Video Compression using 2D Gaussian Splatting**|Lakshya Gupta et.al.|[2505.09324](http://arxiv.org/abs/2505.09324)|null|
+|**2025-05-14**|**Zero-Shot Multi-modal Large Language Model v.s. Supervised Deep Learning: A Comparative Study on CT-Based Intracranial Hemorrhage Subtyping**|Yinuo Wang et.al.|[2505.09252](http://arxiv.org/abs/2505.09252)|null|
+|**2025-05-14**|**Zero-shot Quantization: A Comprehensive Survey**|Minjun Kim et.al.|[2505.09188](http://arxiv.org/abs/2505.09188)|null|
+|**2025-05-14**|**Quotient Complex Transformer (QCformer) for Perovskite Data Analysis**|Xinyu You et.al.|[2505.09174](http://arxiv.org/abs/2505.09174)|null|
+|**2025-05-14**|**Sensing-Assisted Channel Prediction in Complex Wireless Environments: An LLM-Based Approach**|Junjie He et.al.|[2505.09141](http://arxiv.org/abs/2505.09141)|null|
+|**2025-05-14**|**WSCIF: A Weakly-Supervised Color Intelligence Framework for Tactical Anomaly Detection in Surveillance Keyframes**|Wei Meng et.al.|[2505.09129](http://arxiv.org/abs/2505.09129)|null|
+|**2025-05-14**|**AdaFortiTran: An Adaptive Transformer Model for Robust OFDM Channel Estimation**|Berkay Guler et.al.|[2505.09076](http://arxiv.org/abs/2505.09076)|**[link](https://github.com/berkiguler/adafortitran)**|
+|**2025-05-13**|**Multimodal Fusion of Glucose Monitoring and Food Imagery for Caloric Content Prediction**|Adarsh Kumar et.al.|[2505.09018](http://arxiv.org/abs/2505.09018)|null|
+|**2025-05-13**|**Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**|Wei-Long Tian et.al.|[2505.08999](http://arxiv.org/abs/2505.08999)|**[link](https://github.com/pgao-lab/amga)**|
+|**2025-05-13**|**Enhancing Aerial Combat Tactics through Hierarchical Multi-Agent Reinforcement Learning**|Ardian Selmonaj et.al.|[2505.08995](http://arxiv.org/abs/2505.08995)|null|
+|**2025-05-13**|**Differentiable Channel Selection in Self-Attention For Person Re-Identification**|Yancheng Wang et.al.|[2505.08961](http://arxiv.org/abs/2505.08961)|**[link](https://github.com/statistical-deep-learning/dcs-attention)**|
+|**2025-05-13**|**DeepCPD: Deep Learning Based In-Car Child Presence Detection Using WiFi**|Sakila S. Jayaweera et.al.|[2505.08931](http://arxiv.org/abs/2505.08931)|null|
+|**2025-05-13**|**Template-Guided Reconstruction of Pulmonary Segments with Neural Implicit Functions**|Kangxian Xie et.al.|[2505.08919](http://arxiv.org/abs/2505.08919)|**[link](https://github.com/m3dv/impulse)**|
+|**2025-05-13**|**Intelligent Road Anomaly Detection with Real-time Notification System for Enhanced Road Safety**|Ali Almakhluk et.al.|[2505.08882](http://arxiv.org/abs/2505.08882)|null|
+|**2025-05-13**|**Efficiently Manipulating Clutter via Learning and Search-Based Reasoning**|Baichuan Huang et.al.|[2505.08853](http://arxiv.org/abs/2505.08853)|null|
+|**2025-05-13**|**Validation of Conformal Prediction in Cervical Atypia Classification**|Misgina Tsighe Hagos et.al.|[2505.08845](http://arxiv.org/abs/2505.08845)|null|
+|**2025-05-13**|**Crowd Scene Analysis using Deep Learning Techniques**|Muhammad Junaid Asif et.al.|[2505.08834](http://arxiv.org/abs/2505.08834)|null|
+|**2025-05-12**|**Towards Understanding Deep Learning Model in Image Recognition via Coverage Test**|Wenkai Li et.al.|[2505.08814](http://arxiv.org/abs/2505.08814)|null|
 |**2025-05-13**|**PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework**|Abhineet Agarwal et.al.|[2505.08784](http://arxiv.org/abs/2505.08784)|null|
 |**2025-05-14**|**Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse Problems in Parametric Differential Equations**|Abdolmehdi Behroozi et.al.|[2505.08740](http://arxiv.org/abs/2505.08740)|**[link](https://github.com/ambehroozi/sc_neural_operators)**|
 |**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
@@ -12377,6 +12408,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Quotient Complex Transformer (QCformer) for Perovskite Data Analysis**|Xinyu You et.al.|[2505.09174](http://arxiv.org/abs/2505.09174)|null|
 |**2025-05-08**|**PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models**|Alejandro Velez-Arce et.al.|[2505.05577](http://arxiv.org/abs/2505.05577)|**[link](https://github.com/apliko-xyz/pytdc)**|
 |**2025-04-27**|**HyboWaveNet: Hyperbolic Graph Neural Networks with Multi-Scale Wavelet Transform for Protein-Protein Interaction Prediction**|Qingzhi Yu et.al.|[2504.20102](http://arxiv.org/abs/2504.20102)|**[link](https://github.com/chromaprim/HybowaveNet)**|
 |**2025-04-22**|**Accurate and generalizable protein-ligand binding affinity prediction with geometric deep learning**|Krinos Li et.al.|[2504.16261](http://arxiv.org/abs/2504.16261)|null|
