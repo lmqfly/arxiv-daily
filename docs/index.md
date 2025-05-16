@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -363,7 +363,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-13**|**Generative Molecular Design with Steerable and Granular Synthesizability Control**|Jeff Guo et.al.|[2505.08774](http://arxiv.org/abs/2505.08774)|null|
+|**2025-05-13**|**Generative Molecular Design with Steerable and Granular Synthesizability Control**|Jeff Guo et.al.|[2505.08774](http://arxiv.org/abs/2505.08774)|**[link](https://github.com/schwallergroup/saturn)**|
 |**2025-05-09**|**A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization**|Anjie Qiao et.al.|[2505.05874](http://arxiv.org/abs/2505.05874)|null|
 |**2025-05-07**|**Navigating Chemical Space: Multi-Level Bayesian Optimization with Hierarchical Coarse-Graining**|Luis J. Walter et.al.|[2505.04169](http://arxiv.org/abs/2505.04169)|null|
 |**2025-05-01**|**An evaluation of unconditional 3D molecular generation methods**|Martin Buttenschoen et.al.|[2505.00518](http://arxiv.org/abs/2505.00518)|null|
@@ -773,7 +773,7 @@ layout: default
 |**2025-05-13**|**High-throughput Screening of the Mechanical Properties of Peptide Assemblies**|Sarah K. Yorke et.al.|[2505.08850](http://arxiv.org/abs/2505.08850)|null|
 |**2025-05-13**|**Elastic properties of silicene: Spinodal instabilities**|Carlos P. Herrero et.al.|[2505.08381](http://arxiv.org/abs/2505.08381)|null|
 |**2025-05-12**|**Unveiling Phonon Contributions to Thermal Transport and the Failure of the Wiedemann-Franz Law in Ruthenium and Tungsten Thin Films**|Md. Rafiqul Islam et.al.|[2505.07613](http://arxiv.org/abs/2505.07613)|null|
-|**2025-05-10**|**Efficient Parallelization of Message Passing Neural Networks**|Junfan Xia et.al.|[2505.06711](http://arxiv.org/abs/2505.06711)|null|
+|**2025-05-15**|**Efficient Parallelization of Message Passing Neural Networks**|Junfan Xia et.al.|[2505.06711](http://arxiv.org/abs/2505.06711)|null|
 |**2025-05-09**|**Lipidation-induced bacterial cell membrane translocation of star-peptides**|Amal Jayawardena et.al.|[2505.06447](http://arxiv.org/abs/2505.06447)|null|
 |**2025-05-08**|**Fast and Fourier Features for Transfer Learning of Interatomic Potentials**|Pietro Novelli et.al.|[2505.05652](http://arxiv.org/abs/2505.05652)|null|
 |**2025-05-07**|**Athos-Graphene: Computational Discovery of an Art-Inspired 2D Carbon Anode for Lithium-Ion Batteries**|Kleuton A. L. Lima et.al.|[2505.04810](http://arxiv.org/abs/2505.04810)|null|
@@ -1571,7 +1571,7 @@ layout: default
 |**2025-05-14**|**DCSNet: A Lightweight Knowledge Distillation-Based Model with Explainable AI for Lung Cancer Diagnosis from Histopathological Images**|Sadman Sakib Alif et.al.|[2505.09334](http://arxiv.org/abs/2505.09334)|null|
 |**2025-05-14**|**Accelerating Machine Learning Systems via Category Theory: Applications to Spherical Attention for Gene Regulatory Networks**|Vincent Abbott et.al.|[2505.09326](http://arxiv.org/abs/2505.09326)|null|
 |**2025-05-14**|**Neural Video Compression using 2D Gaussian Splatting**|Lakshya Gupta et.al.|[2505.09324](http://arxiv.org/abs/2505.09324)|null|
-|**2025-05-14**|**Zero-Shot Multi-modal Large Language Model v.s. Supervised Deep Learning: A Comparative Study on CT-Based Intracranial Hemorrhage Subtyping**|Yinuo Wang et.al.|[2505.09252](http://arxiv.org/abs/2505.09252)|null|
+|**2025-05-14**|**Zero-Shot Multi-modal Large Language Model v.s. Supervised Deep Learning: A Comparative Study on CT-Based Intracranial Hemorrhage Subtyping**|Yinuo Wang et.al.|[2505.09252](http://arxiv.org/abs/2505.09252)|**[link](https://github.com/mileswyn/ich_mllms_validation)**|
 |**2025-05-14**|**Zero-shot Quantization: A Comprehensive Survey**|Minjun Kim et.al.|[2505.09188](http://arxiv.org/abs/2505.09188)|null|
 |**2025-05-14**|**Quotient Complex Transformer (QCformer) for Perovskite Data Analysis**|Xinyu You et.al.|[2505.09174](http://arxiv.org/abs/2505.09174)|null|
 |**2025-05-14**|**Sensing-Assisted Channel Prediction in Complex Wireless Environments: An LLM-Based Approach**|Junjie He et.al.|[2505.09141](http://arxiv.org/abs/2505.09141)|null|
@@ -1602,7 +1602,7 @@ layout: default
 |**2025-05-13**|**MUBox: A Critical Evaluation Framework of Deep Machine Unlearning**|Xiang Li et.al.|[2505.08576](http://arxiv.org/abs/2505.08576)|null|
 |**2025-05-14**|**Thermal Detection of People with Mobility Restrictions for Barrier Reduction at Traffic Lights Controlled Intersections**|Xiao Ni et.al.|[2505.08568](http://arxiv.org/abs/2505.08568)|**[link](https://github.com/leon2014dresden/yolo-thermal)**|
 |**2025-05-14**|**The RaspGrade Dataset: Towards Automatic Raspberry Ripeness Grading with Deep Learning**|Mohamed Lamine Mekhalfi et.al.|[2505.08537](http://arxiv.org/abs/2505.08537)|null|
-|**2025-05-13**|**A Deep Learning-Driven Framework for Inhalation Injury Grading Using Bronchoscopy Images**|Yifan Li et.al.|[2505.08517](http://arxiv.org/abs/2505.08517)|null|
+|**2025-05-15**|**A Deep Learning-Driven Inhalation Injury Grading Assistant Using Bronchoscopy Images**|Yifan Li et.al.|[2505.08517](http://arxiv.org/abs/2505.08517)|null|
 |**2025-05-13**|**A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering**|Chuanzhi Xu et.al.|[2505.08438](http://arxiv.org/abs/2505.08438)|null|
 |**2025-05-13**|**DHECA-SuperGaze: Dual Head-Eye Cross-Attention and Super-Resolution for Unconstrained Gaze Estimation**|Franko Šikić et.al.|[2505.08426](http://arxiv.org/abs/2505.08426)|null|
 |**2025-05-13**|**An integrated language-vision foundation model for conversational diagnostics and triaging in primary eye care**|Zhi Da Soh et.al.|[2505.08414](http://arxiv.org/abs/2505.08414)|null|
@@ -1641,7 +1641,7 @@ layout: default
 |**2025-05-12**|**SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction**|Zhixuan Zhang et.al.|[2505.07336](http://arxiv.org/abs/2505.07336)|null|
 |**2025-05-12**|**L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers**|Sofia Casarin et.al.|[2505.07300](http://arxiv.org/abs/2505.07300)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
-|**2025-05-11**|**Towards Scalable IoT Deployment for Visual Anomaly Detection via Efficient Compression**|Arianna Stropeni et.al.|[2505.07119](http://arxiv.org/abs/2505.07119)|null|
+|**2025-05-15**|**Towards Scalable IoT Deployment for Visual Anomaly Detection via Efficient Compression**|Arianna Stropeni et.al.|[2505.07119](http://arxiv.org/abs/2505.07119)|null|
 |**2025-05-11**|**DeepSORT-Driven Visual Tracking Approach for Gesture Recognition in Interactive Systems**|Tong Zhang et.al.|[2505.07110](http://arxiv.org/abs/2505.07110)|null|
 |**2025-05-11**|**Knowledge Distillation for Enhancing Walmart E-commerce Search Relevance Using Large Language Models**|Hongwei Shang et.al.|[2505.07105](http://arxiv.org/abs/2505.07105)|null|
 |**2025-05-11**|**Scaling Laws and Representation Learning in Simple Hierarchical Languages: Transformers vs. Convolutional Architectures**|Francesco Cagnetta et.al.|[2505.07070](http://arxiv.org/abs/2505.07070)|null|
