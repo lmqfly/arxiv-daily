@@ -438,7 +438,7 @@ layout: default
 |**2024-07-20**|**Diff4VS: HIV-inhibiting Molecules Generation with Classifier Guidance Diffusion for Virtual Screening**|Jiaqing Lyu et.al.|[2407.15880](http://arxiv.org/abs/2407.15880)|**[link](https://github.com/jiaqinglv2000/diff4vs)**|
 |**2024-10-28**|**Decomposed Direct Preference Optimization for Structure-Based Drug Design**|Xiwei Cheng et.al.|[2407.13981](http://arxiv.org/abs/2407.13981)|null|
 |**2024-07-16**|**Directly Optimizing for Synthesizability in Generative Molecular Design using Retrosynthesis Models**|Jeff Guo et.al.|[2407.12186](http://arxiv.org/abs/2407.12186)|**[link](https://github.com/schwallergroup/saturn)**|
-|**2024-08-19**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930](http://arxiv.org/abs/2407.07930)|**[link](https://github.com/jkwang93/token-mol)**|
+|**2024-08-19**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930](http://arxiv.org/abs/2407.07930)|null|
 |**2024-07-05**|**Benchmarking structure-based three-dimensional molecular generative models using GenBench3D: ligand conformation quality matters**|Benoit Baillif et.al.|[2407.04424](http://arxiv.org/abs/2407.04424)|**[link](https://github.com/bbaillif/genbench3d)**|
 |**2024-06-27**|**LICO: Large Language Models for In-Context Molecular Optimization**|Tung Nguyen et.al.|[2406.18851](http://arxiv.org/abs/2406.18851)|null|
 |**2024-06-13**|**Human-level molecular optimization driven by mol-gene evolution**|Jiebin Fang et.al.|[2406.12910](http://arxiv.org/abs/2406.12910)|null|
@@ -635,7 +635,7 @@ layout: default
 |**2024-12-12**|**Scikit-fingerprints: easy and efficient computation of molecular fingerprints in Python**|Jakub Adamczyk et.al.|[2407.13291](http://arxiv.org/abs/2407.13291)|**[link](https://github.com/scikit-fingerprints/scikit-fingerprints)**|
 |**2024-07-14**|**Pre-training with Fractional Denoising to Enhance Molecular Property Prediction**|Yuyan Ni et.al.|[2407.11086](http://arxiv.org/abs/2407.11086)|null|
 |**2024-08-26**|**Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances**|Joseph Musielewicz et.al.|[2407.10844](http://arxiv.org/abs/2407.10844)|null|
-|**2024-08-19**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930](http://arxiv.org/abs/2407.07930)|**[link](https://github.com/jkwang93/token-mol)**|
+|**2024-08-19**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930](http://arxiv.org/abs/2407.07930)|null|
 |**2024-06-13**|**MoleculeCLA: Rethinking Molecular Benchmark via Computational Ligand-Target Binding Analysis**|Shikun Feng et.al.|[2406.17797](http://arxiv.org/abs/2406.17797)|**[link](https://github.com/Zhenger959/MoleculeCLA)**|
 |**2024-12-13**|**$\nabla^2$ DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials**|Kuzma Khrabrov et.al.|[2406.14347](http://arxiv.org/abs/2406.14347)|**[link](https://github.com/AIRI-Institute/nablaDFT)**|
 |**2024-06-19**|**Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning**|Danqing Wang et.al.|[2406.13869](http://arxiv.org/abs/2406.13869)|**[link](https://github.com/dqwang122/rlhex)**|
