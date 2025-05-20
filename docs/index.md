@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1568,7 +1568,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445](http://arxiv.org/abs/2505.11445)|**[link](https://zenodo.org/record/15255556)**|
+|**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445](http://arxiv.org/abs/2505.11445)|**[link](https://github.com/mafortin/GOUHFI)**|
 |**2025-05-16**|**A Generative Framework for Causal Estimation via Importance-Weighted Diffusion Distillation**|Xinran Song et.al.|[2505.11444](http://arxiv.org/abs/2505.11444)|null|
 |**2025-05-16**|**Is Grokking a Computational Glass Relaxation?**|Xiaotian Zhang et.al.|[2505.11411](http://arxiv.org/abs/2505.11411)|null|
 |**2025-05-16**|**From Fibers to Cells: Fourier-Based Registration Enables Virtual Cresyl Violet Staining From 3D Polarized Light Imaging**|Alexander Oberstrass et.al.|[2505.11394](http://arxiv.org/abs/2505.11394)|null|
@@ -1576,7 +1576,7 @@ layout: default
 |**2025-05-16**|**A Step towards Interpretable Multimodal AI Models with MultiFIX**|Mafalda Malafaia et.al.|[2505.11262](http://arxiv.org/abs/2505.11262)|null|
 |**2025-05-16**|**Learning traffic flows: Graph Neural Networks for Metamodelling Traffic Assignment**|Oskar Bohn Lassen et.al.|[2505.11230](http://arxiv.org/abs/2505.11230)|null|
 |**2025-05-16**|**Modeling Cell Dynamics and Interactions with Unbalanced Mean Field Schrödinger Bridge**|Zhenyi Zhang et.al.|[2505.11197](http://arxiv.org/abs/2505.11197)|null|
-|**2025-05-16**|**JaxSGMC: Modular stochastic gradient MCMC in JAX**|Stephan Thaler et.al.|[2505.11190](http://arxiv.org/abs/2505.11190)|null|
+|**2025-05-16**|**JaxSGMC: Modular stochastic gradient MCMC in JAX**|Stephan Thaler et.al.|[2505.11190](http://arxiv.org/abs/2505.11190)|**[link](https://github.com/tummfm/jax-sgmc)**|
 |**2025-05-16**|**CheX-DS: Improving Chest X-ray Image Classification with Ensemble Learning Based on DenseNet and Swin Transformer**|Xinran Li et.al.|[2505.11168](http://arxiv.org/abs/2505.11168)|null|
 |**2025-05-16**|**Fault Diagnosis across Heterogeneous Domains via Self-Adaptive Temporal-Spatial Attention and Sample Generation**|Guangqiang Li et.al.|[2505.11083](http://arxiv.org/abs/2505.11083)|null|
 |**2025-05-16**|**Assessing the Performance of Analog Training for Transfer Learning**|Omobayode Fagbohungbe et.al.|[2505.11067](http://arxiv.org/abs/2505.11067)|null|
@@ -1607,7 +1607,7 @@ layout: default
 |**2025-05-15**|**RainPro-8: An Efficient Deep Learning Model to Estimate Rainfall Probabilities Over 8 Hours**|Rafael Pablos Sarabia et.al.|[2505.10271](http://arxiv.org/abs/2505.10271)|null|
 |**2025-05-15**|**Inferring activity from the flow field around active colloidal particles using deep learning**|Aditya Mohapatra et.al.|[2505.10270](http://arxiv.org/abs/2505.10270)|null|
 |**2025-05-15**|**Inferring Driving Maps by Deep Learning-based Trail Map Extraction**|Michael Hubbertz et.al.|[2505.10258](http://arxiv.org/abs/2505.10258)|null|
-|**2025-05-15**|**Force-Driven Validation for Collaborative Robotics in Automated Avionics Testing**|Pietro Dardano et.al.|[2505.10224](http://arxiv.org/abs/2505.10224)|null|
+|**2025-05-15**|**Force-Driven Validation for Collaborative Robotics in Automated Avionics Testing**|Pietro Dardano et.al.|[2505.10224](http://arxiv.org/abs/2505.10224)|**[link](https://github.com/pietrodardano/ForceDriven_Arto)**|
 |**2025-05-15**|**A multi-head deep fusion model for recognition of cattle foraging events using sound and movement signals**|Mariano Ferrero et.al.|[2505.10198](http://arxiv.org/abs/2505.10198)|null|
 |**2025-05-15**|**Defect Detection in Photolithographic Patterns Using Deep Learning Models Trained on Synthetic Data**|Prashant P. Shinde et.al.|[2505.10192](http://arxiv.org/abs/2505.10192)|null|
 |**2025-05-15**|**LanTu: Dynamics-Enhanced Deep Learning for Eddy-Resolving Ocean Forecasting**|Qingyu Zheng et.al.|[2505.10191](http://arxiv.org/abs/2505.10191)|null|
