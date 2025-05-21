@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -778,7 +778,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-19**|**Lattice thermal conductivity of 16 elemental metals from molecular dynamics simulations with a unified neuroevolution potential**|Shuo Cao et.al.|[2505.13179](http://arxiv.org/abs/2505.13179)|null|
 |**2025-05-19**|**The Importance of Layer-Dependent Molecular Twisting for the Structural Anisotropy of Interfacial Water**|Alexander P. Fellows et.al.|[2505.12962](http://arxiv.org/abs/2505.12962)|null|
-|**2025-05-17**|**Unveiling the thermal transport properties of Biphenylene nanotubes: A molecular dynamics study**|Jhionathan de Lima et.al.|[2505.11981](http://arxiv.org/abs/2505.11981)|null|
+|**2025-05-20**|**Unveiling the thermal transport properties of Biphenylene nanotubes: A molecular dynamics study**|Jhionathan de Lima et.al.|[2505.11981](http://arxiv.org/abs/2505.11981)|null|
 |**2025-05-16**|**Nonlocal dielectric properties of water: the role of electronic delocalisation**|Darka Labavić et.al.|[2505.11101](http://arxiv.org/abs/2505.11101)|null|
 |**2025-05-15**|**Computer simulations show that liquid-liquid phase separation enhances self-assembly**|Layne B. Frechette et.al.|[2505.10400](http://arxiv.org/abs/2505.10400)|null|
 |**2025-05-14**|**Accelerating Fast Ewald Summation with Prolates for Molecular Dynamics Simulations**|Jiuyang Liang et.al.|[2505.09727](http://arxiv.org/abs/2505.09727)|null|
@@ -1593,7 +1593,7 @@ layout: default
 |**2025-05-19**|**Fast, Not Fancy: Rethinking G2P with Rich Data and Rule-Based Models**|Mahta Fetrat Qharabagh et.al.|[2505.12973](http://arxiv.org/abs/2505.12973)|null|
 |**2025-05-19**|**Multiscale Adaptive Conflict-Balancing Model For Multimedia Deepfake Detection**|Zihan Xiong et.al.|[2505.12966](http://arxiv.org/abs/2505.12966)|null|
 |**2025-05-19**|**HiERO: understanding the hierarchy of human behavior enhances reasoning on egocentric videos**|Simone Alberto Peirone et.al.|[2505.12911](http://arxiv.org/abs/2505.12911)|**[link](https://github.com/sapeirone/hiero)**|
-|**2025-05-19**|**Sinusoidal Initialization, Time for a New Start**|Alberto Fernández-Hernández et.al.|[2505.12909](http://arxiv.org/abs/2505.12909)|null|
+|**2025-05-20**|**Sinusoidal Initialization, Time for a New Start**|Alberto Fernández-Hernández et.al.|[2505.12909](http://arxiv.org/abs/2505.12909)|null|
 |**2025-05-19**|**AdS-GNN -- a Conformally Equivariant Graph Neural Network**|Maksim Zhdanov et.al.|[2505.12880](http://arxiv.org/abs/2505.12880)|null|
 |**2025-05-19**|**A Study on Distributed Strategies for Deep Learning Applications in GPU Clusters**|Md Sultanul Islam Ovi et.al.|[2505.12832](http://arxiv.org/abs/2505.12832)|null|
 |**2025-05-19**|**OZSpeech: One-step Zero-shot Speech Synthesis with Learned-Prior-Conditioned Flow Matching**|Hieu-Nghia Huynh-Nguyen et.al.|[2505.12800](http://arxiv.org/abs/2505.12800)|null|
@@ -1601,7 +1601,7 @@ layout: default
 |**2025-05-19**|**Deep Generative Modeling with Spatial and Network Images: An Explainable AI (XAI) Approach**|Yeseul Jeon et.al.|[2505.12743](http://arxiv.org/abs/2505.12743)|null|
 |**2025-05-19**|**Terrain-aware Deep Learning for Wind Energy Applications: From Kilometer-scale Forecasts to Fine Wind Fields**|Chensen Lin et.al.|[2505.12732](http://arxiv.org/abs/2505.12732)|null|
 |**2025-05-19**|**Bridging the Modality Gap: Enhancing Channel Prediction with Semantically Aligned LLMs and Knowledge Distillation**|Zhaoyang Li et.al.|[2505.12729](http://arxiv.org/abs/2505.12729)|null|
-|**2025-05-19**|**Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining**|Qichen Sun et.al.|[2505.12711](http://arxiv.org/abs/2505.12711)|null|
+|**2025-05-20**|**Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining**|Qichen Sun et.al.|[2505.12711](http://arxiv.org/abs/2505.12711)|null|
 |**2025-05-19**|**A Deep Learning Potential for Accurate Shock Response Simulations in Tin**|Yixin Chen et.al.|[2505.12698](http://arxiv.org/abs/2505.12698)|null|
 |**2025-05-19**|**Shielding Latent Face Representations From Privacy Attacks**|Arjun Ramesh Kaushik et.al.|[2505.12688](http://arxiv.org/abs/2505.12688)|null|
 |**2025-05-19**|**Spiking Neural Network: a low power solution for physical layer authentication**|Jung Hoon Lee et.al.|[2505.12647](http://arxiv.org/abs/2505.12647)|null|
@@ -1626,7 +1626,7 @@ layout: default
 |**2025-05-17**|**SepPrune: Structured Pruning for Efficient Deep Speech Separation**|Yuqi Li et.al.|[2505.12079](http://arxiv.org/abs/2505.12079)|**[link](https://github.com/itsnotacie/sepprune)**|
 |**2025-05-17**|**MT-CYP-Net: Multi-Task Network for Pixel-Level Crop Yield Prediction Under Very Few Samples**|Shenzhou Liu et.al.|[2505.12069](http://arxiv.org/abs/2505.12069)|null|
 |**2025-05-17**|**Beluga Whale Detection from Satellite Imagery with Point Labels**|Yijie Zheng et.al.|[2505.12066](http://arxiv.org/abs/2505.12066)|**[link](https://github.com/voyagerxvoyagerx/beluga-seeker)**|
-|**2025-05-17**|**Bayesian Deep Learning Approaches for Uncertainty-Aware Retinal OCT Image Segmentation for Multiple Sclerosis**|Samuel T. M. Ball et.al.|[2505.12061](http://arxiv.org/abs/2505.12061)|null|
+|**2025-05-20**|**Bayesian Deep Learning Approaches for Uncertainty-Aware Retinal OCT Image Segmentation for Multiple Sclerosis**|Samuel T. M. Ball et.al.|[2505.12061](http://arxiv.org/abs/2505.12061)|null|
 |**2025-05-17**|**FlashBias: Fast Computation of Attention with Bias**|Haixu Wu et.al.|[2505.12044](http://arxiv.org/abs/2505.12044)|null|
 |**2025-05-17**|**Conversational Recommendation System using NLP and Sentiment Analysis**|Piyush Talegaonkar et.al.|[2505.11933](http://arxiv.org/abs/2505.11933)|null|
 |**2025-05-17**|**Facial Recognition Leveraging Generative Adversarial Networks**|Zhongwen Li et.al.|[2505.11884](http://arxiv.org/abs/2505.11884)|null|
