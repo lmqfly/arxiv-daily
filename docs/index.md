@@ -1585,6 +1585,65 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Leveraging KANs for Expedient Training of Multichannel MLPs via Preconditioning and Geometric Refinement**|Jonas A. Actor et.al.|[2505.18131](http://arxiv.org/abs/2505.18131)|null|
+|**2025-05-23**|**TabSTAR: A Foundation Tabular Model With Semantically Target-Aware Representations**|Alan Arazi et.al.|[2505.18125](http://arxiv.org/abs/2505.18125)|null|
+|**2025-05-23**|**Early-Exit Graph Neural Networks**|Andrea Giuseppe Di Francesco et.al.|[2505.18088](http://arxiv.org/abs/2505.18088)|null|
+|**2025-05-23**|**Bayesian Deep Learning for Discrete Choice**|Daniel F. Villarraga et.al.|[2505.18077](http://arxiv.org/abs/2505.18077)|null|
+|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060](http://arxiv.org/abs/2505.18060)|**[link](https://github.com/Visual-AI/Semantic-Correspondence)**|
+|**2025-05-23**|**Building Floor Number Estimation from Crowdsourced Street-Level Images: Munich Dataset and Baseline Method**|Yao Sun et.al.|[2505.18021](http://arxiv.org/abs/2505.18021)|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
+|**2025-05-23**|**Clinical Validation of Deep Learning for Real-Time Tissue Oxygenation Estimation Using Spectral Imaging**|Jens De Winne et.al.|[2505.18010](http://arxiv.org/abs/2505.18010)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**Explainable Anatomy-Guided AI for Prostate MRI: Foundation Models and In Silico Clinical Trials for Virtual Biopsy-based Risk Assessment**|Danial Khan et.al.|[2505.17971](http://arxiv.org/abs/2505.17971)|null|
+|**2025-05-23**|**Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding**|Manuel Lecha et.al.|[2505.17939](http://arxiv.org/abs/2505.17939)|null|
+|**2025-05-23**|**Selection Mechanisms for Sequence Modeling using Linear State Space Models**|Umberto Casti et.al.|[2505.17932](http://arxiv.org/abs/2505.17932)|null|
+|**2025-05-23**|**AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**|Xingjian Li et.al.|[2505.17931](http://arxiv.org/abs/2505.17931)|null|
+|**2025-05-23**|**Evaluation of Few-Shot Learning Methods for Kidney Stone Type Recognition in Ureteroscopy**|Carlos Salazar-Ruiz et.al.|[2505.17921](http://arxiv.org/abs/2505.17921)|null|
+|**2025-05-23**|**NeuroTrails: Training with Dynamic Sparse Heads as the Key to Effective Ensembling**|Bram Grooten et.al.|[2505.17909](http://arxiv.org/abs/2505.17909)|null|
+|**2025-05-23**|**Function Forms of Simple ReLU Networks with Random Hidden Weights**|Ka Long Keith Ho et.al.|[2505.17907](http://arxiv.org/abs/2505.17907)|null|
+|**2025-05-23**|**Universal Domain Adaptation Benchmark for Time Series Data Representation**|Romain Mussard et.al.|[2505.17899](http://arxiv.org/abs/2505.17899)|null|
+|**2025-05-23**|**Toward Optimal ANC: Establishing Mutual Information Lower Bound**|François Derrida et.al.|[2505.17877](http://arxiv.org/abs/2505.17877)|null|
+|**2025-05-23**|**Stochastic Weight Sharing for Bayesian Neural Networks**|Moule Lin et.al.|[2505.17856](http://arxiv.org/abs/2505.17856)|null|
+|**2025-05-23**|**VLM Models and Automated Grading of Atopic Dermatitis**|Marc Lalonde et.al.|[2505.17835](http://arxiv.org/abs/2505.17835)|null|
+|**2025-05-23**|**Hybrid Mamba-Transformer Decoder for Error-Correcting Codes**|Shy-el Cohen et.al.|[2505.17834](http://arxiv.org/abs/2505.17834)|null|
+|**2025-05-23**|**Source Separation of Small Classical Ensembles: Challenges and Opportunities**|Gerardo Roa-Dabike et.al.|[2505.17823](http://arxiv.org/abs/2505.17823)|null|
+|**2025-05-23**|**An Attention Infused Deep Learning System with Grad-CAM Visualization for Early Screening of Glaucoma**|Ramanathan Swaminathan et.al.|[2505.17808](http://arxiv.org/abs/2505.17808)|null|
+|**2025-05-23**|**Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition**|Ping Li et.al.|[2505.17807](http://arxiv.org/abs/2505.17807)|null|
+|**2025-05-23**|**Generative Data Augmentation for Object Point Cloud Segmentation**|Dekai Zhu et.al.|[2505.17783](http://arxiv.org/abs/2505.17783)|null|
+|**2025-05-23**|**Hephaestus Minicubes: A Global, Multi-Modal Dataset for Volcanic Unrest Monitoring**|Nikolas Papadopoulos et.al.|[2505.17782](http://arxiv.org/abs/2505.17782)|null|
+|**2025-05-23**|**Sec5GLoc: Securing 5G Indoor Localization via Adversary-Resilient Deep Learning Architecture**|Ildi Alla et.al.|[2505.17776](http://arxiv.org/abs/2505.17776)|null|
+|**2025-05-23**|**Soft-CAM: Making black box models self-explainable for high-stakes decisions**|Kerol Djoumessi et.al.|[2505.17748](http://arxiv.org/abs/2505.17748)|null|
+|**2025-05-23**|**Modeling Ranking Properties with In-Context Learning**|Nilanjan Sinhababu et.al.|[2505.17736](http://arxiv.org/abs/2505.17736)|null|
+|**2025-05-23**|**PEAR: Equal Area Weather Forecasting on the Sphere**|Hampus Linander et.al.|[2505.17720](http://arxiv.org/abs/2505.17720)|null|
+|**2025-05-23**|**Dual Attention Residual U-Net for Accurate Brain Ultrasound Segmentation in IVH Detection**|Dan Yuan et.al.|[2505.17683](http://arxiv.org/abs/2505.17683)|null|
+|**2025-05-23**|**Tuning Language Models for Robust Prediction of Diverse User Behaviors**|Fanjin Meng et.al.|[2505.17682](http://arxiv.org/abs/2505.17682)|null|
+|**2025-05-23**|**Proto-FG3D: Prototype-based Interpretable Fine-Grained 3D Shape Classification**|Shuxian Ma et.al.|[2505.17666](http://arxiv.org/abs/2505.17666)|null|
+|**2025-05-23**|**What is the role of memorization in Continual Learning?**|Jędrzej Kozal et.al.|[2505.17664](http://arxiv.org/abs/2505.17664)|null|
+|**2025-05-23**|**Towards Prospective Medical Image Reconstruction via Knowledge-Informed Dynamic Optimal Transport**|Taoran Zheng et.al.|[2505.17644](http://arxiv.org/abs/2505.17644)|null|
+|**2025-05-23**|**A Network Science Approach to Granular Time Series Segmentation**|Ivana Kesić et.al.|[2505.17640](http://arxiv.org/abs/2505.17640)|null|
+|**2025-05-23**|**\texttt{Range-Arithmetic}: Verifiable Deep Learning Inference on an Untrusted Party**|Ali Rahimi et.al.|[2505.17623](http://arxiv.org/abs/2505.17623)|null|
+|**2025-05-23**|**A Unified Multi-Scale Attention-Based Network for Automatic 3D Segmentation of Lung Parenchyma & Nodules In Thoracic CT Images**|Muhammad Abdullah et.al.|[2505.17602](http://arxiv.org/abs/2505.17602)|null|
+|**2025-05-23**|**MinkUNeXt-SI: Improving point cloud-based place recognition including spherical coordinates and LiDAR intensity**|Judith Vilella-Cantos et.al.|[2505.17591](http://arxiv.org/abs/2505.17591)|null|
+|**2025-05-23**|**Wildfire spread forecasting with Deep Learning**|Nikolaos Anastasiou et.al.|[2505.17556](http://arxiv.org/abs/2505.17556)|null|
+|**2025-05-23**|**Universal Biological Sequence Reranking for Improved De Novo Peptide Sequencing**|Zijie Qiu et.al.|[2505.17552](http://arxiv.org/abs/2505.17552)|null|
+|**2025-05-23**|**TimeCF: A TimeMixer-Based Model with adaptive Convolution and Sharpness-Aware Minimization Frequency Domain Loss for long-term time seris forecasting**|Bin Wang et.al.|[2505.17532](http://arxiv.org/abs/2505.17532)|null|
+|**2025-05-23**|**GPS-Aided Deep Learning for Beam Prediction and Tracking in UAV mmWave Communication**|Vendi Ardianto Nugroho et.al.|[2505.17530](http://arxiv.org/abs/2505.17530)|null|
+|**2025-05-23**|**Hyperspectral in situ remote sensing of water surface nitrate in the Fitzroy River estuary, Queensland, Australia, using deep learning**|Yiqing Guo et.al.|[2505.17483](http://arxiv.org/abs/2505.17483)|null|
+|**2025-05-23**|**SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolution 3D isotropic fetal brain MRI reconstruction**|Jiangjie Wu et.al.|[2505.17472](http://arxiv.org/abs/2505.17472)|null|
+|**2025-05-23**|**Baitradar: A Multi-Model Clickbait Detection Algorithm Using Deep Learning**|Bhanuka Gamage et.al.|[2505.17448](http://arxiv.org/abs/2505.17448)|null|
+|**2025-05-23**|**Adaptive Implicit-Based Deep Learning Channel Estimation for 6G Communications**|Zhen Qiao et.al.|[2505.17421](http://arxiv.org/abs/2505.17421)|null|
+|**2025-05-23**|**LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework**|Yanli Jin et.al.|[2505.17416](http://arxiv.org/abs/2505.17416)|null|
+|**2025-05-23**|**Wildfire Detection Using Vision Transformer with the Wildfire Dataset**|Gowtham Raj Vuppari et.al.|[2505.17395](http://arxiv.org/abs/2505.17395)|null|
+|**2025-05-23**|**AI-Augmented LLMs Achieve Therapist-Level Responses in Motivational Interviewing**|Yinghui Huang et.al.|[2505.17380](http://arxiv.org/abs/2505.17380)|null|
+|**2025-05-23**|**Are GNNs Worth the Effort for IoT Botnet Detection? A Comparative Study of VAE-GNN vs. ViT-MLP and VAE-MLP Approaches**|Hassan Wasswa et.al.|[2505.17363](http://arxiv.org/abs/2505.17363)|null|
+|**2025-05-23**|**Graph Attention Neural Network for Botnet Detection: Evaluating Autoencoder, VAE and PCA-Based Dimension Reduction**|Hassan Wasswa et.al.|[2505.17357](http://arxiv.org/abs/2505.17357)|null|
+|**2025-05-22**|**UAV Control with Vision-based Hand Gesture Recognition over Edge-Computing**|Sousannah Abdalla et.al.|[2505.17303](http://arxiv.org/abs/2505.17303)|null|
+|**2025-05-22**|**Approach to Finding a Robust Deep Learning Model**|Alexey Boldyrev et.al.|[2505.17254](http://arxiv.org/abs/2505.17254)|null|
+|**2025-05-22**|**Semantic-Aware Interpretable Multimodal Music Auto-Tagging**|Andreas Patakis et.al.|[2505.17233](http://arxiv.org/abs/2505.17233)|null|
+|**2025-05-22**|**MEDMKG: Benchmarking Medical Knowledge Exploitation with Multimodal Knowledge Graph**|Xiaochen Wang et.al.|[2505.17214](http://arxiv.org/abs/2505.17214)|null|
+|**2025-05-22**|**Assessing the generalization performance of SAM for ureteroscopy scene understanding**|Martin Villagrana et.al.|[2505.17210](http://arxiv.org/abs/2505.17210)|null|
+|**2025-05-22**|**Content Moderation in TV Search: Balancing Policy Compliance, Relevance, and User Experience**|Adeep Hande et.al.|[2505.17207](http://arxiv.org/abs/2505.17207)|null|
+|**2025-05-22**|**MetaSTH-Sleep: Towards Effective Few-Shot Sleep Stage Classification with Spatial-Temporal Hypergraph Enhanced Meta-Learning**|Jingyu Li et.al.|[2505.17142](http://arxiv.org/abs/2505.17142)|null|
 |**2025-05-22**|**PICT -- A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics**|Aleksandra Franz et.al.|[2505.16992](http://arxiv.org/abs/2505.16992)|null|
 |**2025-05-22**|**An Effective Training Framework for Light-Weight Automatic Speech Recognition Models**|Abdul Hannan et.al.|[2505.16991](http://arxiv.org/abs/2505.16991)|null|
 |**2025-05-22**|**The Polar Express: Optimal Matrix Sign Methods and Their Application to the Muon Algorithm**|Noah Amsel et.al.|[2505.16932](http://arxiv.org/abs/2505.16932)|null|
