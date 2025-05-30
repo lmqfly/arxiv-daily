@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -366,7 +366,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-27**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469](http://arxiv.org/abs/2505.21469)|null|
+|**2025-05-29**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469](http://arxiv.org/abs/2505.21469)|null|
 |**2025-05-27**|**Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations**|Hao Li et.al.|[2505.21318](http://arxiv.org/abs/2505.21318)|null|
 |**2025-05-27**|**MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization**|Hyomin Kim et.al.|[2505.20820](http://arxiv.org/abs/2505.20820)|null|
 |**2025-05-23**|**Applications of Modular Co-Design for De Novo 3D Molecule Generation**|Danny Reidenbach et.al.|[2505.18392](http://arxiv.org/abs/2505.18392)|null|
@@ -1603,7 +1603,7 @@ layout: default
 |**2025-05-28**|**GLAMP: An Approximate Message Passing Framework for Transfer Learning with Applications to Lasso-based Estimators**|Longlin Wang et.al.|[2505.22594](http://arxiv.org/abs/2505.22594)|null|
 |**2025-05-28**|**PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**|Jaehyun Choi et.al.|[2505.22564](http://arxiv.org/abs/2505.22564)|null|
 |**2025-05-28**|**Deep Learning-Based BMD Estimation from Radiographs with Conformal Uncertainty Quantification**|Long Hui et.al.|[2505.22551](http://arxiv.org/abs/2505.22551)|null|
-|**2025-05-28**|**RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting**|Mohamad Hakam Shams Eddin et.al.|[2505.22535](http://arxiv.org/abs/2505.22535)|null|
+|**2025-05-29**|**RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting**|Mohamad Hakam Shams Eddin et.al.|[2505.22535](http://arxiv.org/abs/2505.22535)|null|
 |**2025-05-28**|**Single Domain Generalization for Alzheimer's Detection from 3D MRIs with Pseudo-Morphological Augmentations and Contrastive Learning**|Zobia Batool et.al.|[2505.22465](http://arxiv.org/abs/2505.22465)|null|
 |**2025-05-28**|**NFR: Neural Feature-Guided Non-Rigid Shape Registration**|Puhua Jiang et.al.|[2505.22445](http://arxiv.org/abs/2505.22445)|null|
 |**2025-05-28**|**Neural Face Skinning for Mesh-agnostic Facial Expression Cloning**|Sihun Cha et.al.|[2505.22416](http://arxiv.org/abs/2505.22416)|null|
@@ -1642,7 +1642,7 @@ layout: default
 |**2025-05-28**|**Towards Robust Automated Perceptual Voice Quality Assessment with Speech Foundation Models**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
 |**2025-05-28**|**Copresheaf Topological Neural Networks: A Generalized Deep Learning Framework**|Mustafa Hajij et.al.|[2505.21251](http://arxiv.org/abs/2505.21251)|null|
 |**2025-05-27**|**Topological Deep Learning for Speech Data**|Zhiwang Yu et.al.|[2505.21173](http://arxiv.org/abs/2505.21173)|null|
-|**2025-05-27**|**ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction**|Adeela Islam et.al.|[2505.21117](http://arxiv.org/abs/2505.21117)|null|
+|**2025-05-29**|**ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction**|Adeela Islam et.al.|[2505.21117](http://arxiv.org/abs/2505.21117)|null|
 |**2025-05-27**|**Instance Data Condensation for Image Super-Resolution**|Tianhao Peng et.al.|[2505.21099](http://arxiv.org/abs/2505.21099)|null|
 |**2025-05-27**|**A domain adaptation neural network for digital twin-supported fault diagnosis**|Zhenling Chen et.al.|[2505.21046](http://arxiv.org/abs/2505.21046)|**[link](https://github.com/JialingRichard/Digital-Twin-Fault-Diagnosis)**|
 |**2025-05-27**|**ClearSphere: Multi-Earphone Synergy for Enhanced Conversational Clarity**|Lixing He et.al.|[2505.21004](http://arxiv.org/abs/2505.21004)|null|
@@ -1652,7 +1652,7 @@ layout: default
 |**2025-05-27**|**NatADiff: Adversarial Boundary Guidance for Natural Adversarial Diffusion**|Max Collins et.al.|[2505.20934](http://arxiv.org/abs/2505.20934)|null|
 |**2025-05-27**|**DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition**|Marius Bock et.al.|[2505.20894](http://arxiv.org/abs/2505.20894)|null|
 |**2025-05-27**|**One-Time Soft Alignment Enables Resilient Learning without Weight Transport**|Jeonghwan Cheon et.al.|[2505.20892](http://arxiv.org/abs/2505.20892)|null|
-|**2025-05-28**|**Stereo Radargrammetry Using Deep Learning from Airborne SAR Images**|Tatsuya Sasayama et.al.|[2505.20876](http://arxiv.org/abs/2505.20876)|null|
+|**2025-05-29**|**Stereo Radargrammetry Using Deep Learning from Airborne SAR Images**|Tatsuya Sasayama et.al.|[2505.20876](http://arxiv.org/abs/2505.20876)|null|
 |**2025-05-27**|**Convergence of Clipped-SGD for Convex $(L_0,L_1)$ -Smooth Optimization with Heavy-Tailed Noise**|Savelii Chezhegov et.al.|[2505.20817](http://arxiv.org/abs/2505.20817)|null|
 |**2025-05-27**|**The Role of AI in Early Detection of Life-Threatening Diseases: A Retinal Imaging Perspective**|Tariq M Khan et.al.|[2505.20810](http://arxiv.org/abs/2505.20810)|null|
 |**2025-05-27**|**Detecting Informative Channels: ActionFormer**|Kunpeng Zhao et.al.|[2505.20739](http://arxiv.org/abs/2505.20739)|null|

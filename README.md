@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -245,7 +245,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## DDI
 
@@ -374,13 +374,13 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## MG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-27**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469](http://arxiv.org/abs/2505.21469)|null|
+|**2025-05-29**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469](http://arxiv.org/abs/2505.21469)|null|
 |**2025-05-27**|**Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations**|Hao Li et.al.|[2505.21318](http://arxiv.org/abs/2505.21318)|null|
 |**2025-05-27**|**MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization**|Hyomin Kim et.al.|[2505.20820](http://arxiv.org/abs/2505.20820)|null|
 |**2025-05-23**|**Applications of Modular Co-Design for De Novo 3D Molecule Generation**|Danny Reidenbach et.al.|[2505.18392](http://arxiv.org/abs/2505.18392)|null|
@@ -587,7 +587,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## MPP
 
@@ -798,7 +798,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## MD
 
@@ -1613,7 +1613,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Transformer
 
@@ -1623,7 +1623,7 @@
 |**2025-05-28**|**GLAMP: An Approximate Message Passing Framework for Transfer Learning with Applications to Lasso-based Estimators**|Longlin Wang et.al.|[2505.22594](http://arxiv.org/abs/2505.22594)|null|
 |**2025-05-28**|**PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**|Jaehyun Choi et.al.|[2505.22564](http://arxiv.org/abs/2505.22564)|null|
 |**2025-05-28**|**Deep Learning-Based BMD Estimation from Radiographs with Conformal Uncertainty Quantification**|Long Hui et.al.|[2505.22551](http://arxiv.org/abs/2505.22551)|null|
-|**2025-05-28**|**RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting**|Mohamad Hakam Shams Eddin et.al.|[2505.22535](http://arxiv.org/abs/2505.22535)|null|
+|**2025-05-29**|**RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting**|Mohamad Hakam Shams Eddin et.al.|[2505.22535](http://arxiv.org/abs/2505.22535)|null|
 |**2025-05-28**|**Single Domain Generalization for Alzheimer's Detection from 3D MRIs with Pseudo-Morphological Augmentations and Contrastive Learning**|Zobia Batool et.al.|[2505.22465](http://arxiv.org/abs/2505.22465)|null|
 |**2025-05-28**|**NFR: Neural Feature-Guided Non-Rigid Shape Registration**|Puhua Jiang et.al.|[2505.22445](http://arxiv.org/abs/2505.22445)|null|
 |**2025-05-28**|**Neural Face Skinning for Mesh-agnostic Facial Expression Cloning**|Sihun Cha et.al.|[2505.22416](http://arxiv.org/abs/2505.22416)|null|
@@ -1662,7 +1662,7 @@
 |**2025-05-28**|**Towards Robust Automated Perceptual Voice Quality Assessment with Speech Foundation Models**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
 |**2025-05-28**|**Copresheaf Topological Neural Networks: A Generalized Deep Learning Framework**|Mustafa Hajij et.al.|[2505.21251](http://arxiv.org/abs/2505.21251)|null|
 |**2025-05-27**|**Topological Deep Learning for Speech Data**|Zhiwang Yu et.al.|[2505.21173](http://arxiv.org/abs/2505.21173)|null|
-|**2025-05-27**|**ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction**|Adeela Islam et.al.|[2505.21117](http://arxiv.org/abs/2505.21117)|null|
+|**2025-05-29**|**ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction**|Adeela Islam et.al.|[2505.21117](http://arxiv.org/abs/2505.21117)|null|
 |**2025-05-27**|**Instance Data Condensation for Image Super-Resolution**|Tianhao Peng et.al.|[2505.21099](http://arxiv.org/abs/2505.21099)|null|
 |**2025-05-27**|**A domain adaptation neural network for digital twin-supported fault diagnosis**|Zhenling Chen et.al.|[2505.21046](http://arxiv.org/abs/2505.21046)|**[link](https://github.com/JialingRichard/Digital-Twin-Fault-Diagnosis)**|
 |**2025-05-27**|**ClearSphere: Multi-Earphone Synergy for Enhanced Conversational Clarity**|Lixing He et.al.|[2505.21004](http://arxiv.org/abs/2505.21004)|null|
@@ -1672,7 +1672,7 @@
 |**2025-05-27**|**NatADiff: Adversarial Boundary Guidance for Natural Adversarial Diffusion**|Max Collins et.al.|[2505.20934](http://arxiv.org/abs/2505.20934)|null|
 |**2025-05-27**|**DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition**|Marius Bock et.al.|[2505.20894](http://arxiv.org/abs/2505.20894)|null|
 |**2025-05-27**|**One-Time Soft Alignment Enables Resilient Learning without Weight Transport**|Jeonghwan Cheon et.al.|[2505.20892](http://arxiv.org/abs/2505.20892)|null|
-|**2025-05-28**|**Stereo Radargrammetry Using Deep Learning from Airborne SAR Images**|Tatsuya Sasayama et.al.|[2505.20876](http://arxiv.org/abs/2505.20876)|null|
+|**2025-05-29**|**Stereo Radargrammetry Using Deep Learning from Airborne SAR Images**|Tatsuya Sasayama et.al.|[2505.20876](http://arxiv.org/abs/2505.20876)|null|
 |**2025-05-27**|**Convergence of Clipped-SGD for Convex $(L_0,L_1)$ -Smooth Optimization with Heavy-Tailed Noise**|Savelii Chezhegov et.al.|[2505.20817](http://arxiv.org/abs/2505.20817)|null|
 |**2025-05-27**|**The Role of AI in Early Detection of Life-Threatening Diseases: A Retinal Imaging Perspective**|Tariq M Khan et.al.|[2505.20810](http://arxiv.org/abs/2505.20810)|null|
 |**2025-05-27**|**Detecting Informative Channels: ActionFormer**|Kunpeng Zhao et.al.|[2505.20739](http://arxiv.org/abs/2505.20739)|null|
@@ -12670,7 +12670,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Binding
 
@@ -12917,7 +12917,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -13092,7 +13092,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
