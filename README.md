@@ -251,6 +251,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Case-Based Reasoning Enhances the Predictive Power of LLMs in Drug-Drug Interaction**|Guangyi Liu et.al.|[2505.23034](http://arxiv.org/abs/2505.23034)|null|
 |**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|**[link](https://github.com/cxfann/flame)**|
 |**2025-04-02**|**An AI-powered Public Health Automated Kiosk System for Personalized Care: An Experimental Pilot Study**|Sonya Falahati et.al.|[2504.13880](http://arxiv.org/abs/2504.13880)|null|
 |**2025-03-30**|**Addressing Model Overcomplexity in Drug-Drug Interaction Prediction With Molecular Fingerprints**|Manel Gil-Sorribes et.al.|[2503.23550](http://arxiv.org/abs/2503.23550)|null|
@@ -380,6 +381,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Foundation Molecular Grammar: Multi-Modal Foundation Models Induce Interpretable Molecular Graph Languages**|Michael Sun et.al.|[2505.22948](http://arxiv.org/abs/2505.22948)|null|
 |**2025-05-29**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469](http://arxiv.org/abs/2505.21469)|null|
 |**2025-05-27**|**Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations**|Hao Li et.al.|[2505.21318](http://arxiv.org/abs/2505.21318)|null|
 |**2025-05-27**|**MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization**|Hyomin Kim et.al.|[2505.20820](http://arxiv.org/abs/2505.20820)|null|
@@ -657,7 +659,7 @@
 |**2024-08-19**|**Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**|Tianyu Zhang et.al.|[2408.10124](http://arxiv.org/abs/2408.10124)|**[link](https://github.com/zhangtia16/molgraph-lardo)**|
 |**2024-08-22**|**Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches**|Tanya Liyaqat et.al.|[2408.09461](http://arxiv.org/abs/2408.09461)|null|
 |**2024-08-11**|**SMILES-Mamba: Chemical Mamba Foundation Models for Drug ADMET Prediction**|Bohao Xu et.al.|[2408.05696](http://arxiv.org/abs/2408.05696)|null|
-|**2025-05-26**|**Advancing Molecular Machine Learning Representations with Stereoelectronics-Infused Molecular Graphs**|Daniil A. Boiko et.al.|[2408.04520](http://arxiv.org/abs/2408.04520)|**[link](https://github.com/gomesgroup/simg)**|
+|**2025-05-26**|**Advancing Molecular Machine Learning Representations with Stereoelectronics-Infused Molecular Graphs**|Daniil A. Boiko et.al.|[2408.04520](http://arxiv.org/abs/2408.04520)|null|
 |**2024-10-06**|**Graph Residual based Method for Molecular Property Prediction**|Kanad Sen et.al.|[2408.03342](http://arxiv.org/abs/2408.03342)|null|
 |**2024-07-09**|**MolTRES: Improving Chemical Language Representation Learning for Molecular Property Prediction**|Jun-Hyung Park et.al.|[2408.01426](http://arxiv.org/abs/2408.01426)|null|
 |**2024-11-09**|**GNN-SKAN: Harnessing the Power of SwallowKAN to Advance Molecular Representation Learning with GNNs**|Ruifeng Li et.al.|[2408.01018](http://arxiv.org/abs/2408.01018)|null|
@@ -804,6 +806,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Comparison of water models for structure prediction**|Bálint Soczó et.al.|[2505.23446](http://arxiv.org/abs/2505.23446)|null|
+|**2025-05-29**|**A parallel algorithm for the computation of the Jones polynomial**|Kasturi Barkataki et.al.|[2505.23101](http://arxiv.org/abs/2505.23101)|null|
 |**2025-05-27**|**Breaking the Curse of Dimensionality: Solving Configurational Integrals for Crystalline Solids by Tensor Networks**|Duc P. Truong et.al.|[2505.21826](http://arxiv.org/abs/2505.21826)|null|
 |**2025-05-27**|**Reactive molecular dynamics approach to PFAS plasma oxidation in water**|Axel Richard et.al.|[2505.21031](http://arxiv.org/abs/2505.21031)|null|
 |**2025-05-26**|**Mass-Zero constrained molecular dynamics for electrostatic interactions**|Federica Troni et.al.|[2505.20418](http://arxiv.org/abs/2505.20418)|null|
@@ -1619,6 +1623,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706](http://arxiv.org/abs/2505.23706)|null|
+|**2025-05-29**|**Computational Algebra with Attention: Transformer Oracles for Border Basis Algorithms**|Hiroshi Kera et.al.|[2505.23696](http://arxiv.org/abs/2505.23696)|null|
+|**2025-05-29**|**ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**|Moinak Bhattacharya et.al.|[2505.23675](http://arxiv.org/abs/2505.23675)|null|
+|**2025-05-29**|**ZeroSep: Separate Anything in Audio with Zero Training**|Chao Huang et.al.|[2505.23625](http://arxiv.org/abs/2505.23625)|null|
+|**2025-05-29**|**Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation**|Georgios Voulgaris et.al.|[2505.23597](http://arxiv.org/abs/2505.23597)|null|
+|**2025-05-29**|**DeepChest: Dynamic Gradient-Free Task Weighting for Effective Multi-Task Learning in Chest X-ray Classification**|Youssef Mohamed et.al.|[2505.23595](http://arxiv.org/abs/2505.23595)|null|
+|**2025-05-29**|**Weakly-supervised Localization of Manipulated Image Regions Using Multi-resolution Learned Features**|Ziyong Wang et.al.|[2505.23586](http://arxiv.org/abs/2505.23586)|null|
+|**2025-05-29**|**Translation in the Wild**|Yuri Balashov et.al.|[2505.23548](http://arxiv.org/abs/2505.23548)|null|
+|**2025-05-29**|**Incorporating Preconditioning into Accelerated Approaches: Theoretical Guarantees and Practical Improvement**|Stepan Trifonov et.al.|[2505.23510](http://arxiv.org/abs/2505.23510)|null|
+|**2025-05-29**|**Quasi-Periodic Optical Key-Enabled Hybrid Cryptography: Merging Diffractive Physics and Deep Learning for High-Dimensional Security**|Haiqi Gao et.al.|[2505.23479](http://arxiv.org/abs/2505.23479)|null|
+|**2025-05-29**|**Revisiting Reweighted Risk for Calibration: AURC, Focal Loss, and Inverse Focal Loss**|Han Zhou et.al.|[2505.23463](http://arxiv.org/abs/2505.23463)|null|
+|**2025-05-29**|**Self-supervised feature learning for cardiac Cine MR image reconstruction**|Siying Xu et.al.|[2505.23408](http://arxiv.org/abs/2505.23408)|null|
+|**2025-05-29**|**VModA: An Effective Framework for Adaptive NSFW Image Moderation**|Han Bao et.al.|[2505.23386](http://arxiv.org/abs/2505.23386)|null|
+|**2025-05-29**|**PAN-Crafter: Learning Modality-Consistent Alignment for PAN-Sharpening**|Jeonghyeok Do et.al.|[2505.23367](http://arxiv.org/abs/2505.23367)|null|
+|**2025-05-29**|**X2Graph for Cancer Subtyping Prediction on Biological Tabular Data**|Tu Bui et.al.|[2505.23334](http://arxiv.org/abs/2505.23334)|null|
+|**2025-05-29**|**Quality assessment of 3D human animation: Subjective and objective evaluation**|Rim Rekik et.al.|[2505.23301](http://arxiv.org/abs/2505.23301)|null|
+|**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[2505.23214](http://arxiv.org/abs/2505.23214)|null|
+|**2025-05-29**|**Deep Learning-Based CSI Feedback for Wi-Fi Systems With Temporal Correlation**|Junyong Shin et.al.|[2505.23198](http://arxiv.org/abs/2505.23198)|null|
+|**2025-05-29**|**Pseudo Multi-Source Domain Generalization: Bridging the Gap Between Single and Multi-Source Domain Generalization**|Shohei Enomoto et.al.|[2505.23173](http://arxiv.org/abs/2505.23173)|null|
+|**2025-05-29**|**EAD: An EEG Adapter for Automated Classification**|Pushapdeep Singh et.al.|[2505.23107](http://arxiv.org/abs/2505.23107)|null|
+|**2025-05-29**|**Loss-Guided Model Sharing and Local Learning Correction in Decentralized Federated Learning for Crop Disease Classification**|Denis Mamba Kabala et.al.|[2505.23063](http://arxiv.org/abs/2505.23063)|null|
+|**2025-05-29**|**Bayesian Neural Scaling Laws Extrapolation with Prior-Fitted Networks**|Dongwoo Lee et.al.|[2505.23032](http://arxiv.org/abs/2505.23032)|null|
+|**2025-05-29**|**Deep asymptotic expansion method for solving singularly perturbed time-dependent reaction-advection-diffusion equations**|Q. Zhu et.al.|[2505.23002](http://arxiv.org/abs/2505.23002)|null|
+|**2025-05-28**|**Forecasting Residential Heating and Electricity Demand with Scalable, High-Resolution, Open-Source Models**|Stephen J. Lee et.al.|[2505.22873](http://arxiv.org/abs/2505.22873)|null|
+|**2025-05-28**|**Model-Free Deep Hedging with Transaction Costs and Light Data Requirements**|Pierre Brugière et.al.|[2505.22836](http://arxiv.org/abs/2505.22836)|null|
+|**2025-05-28**|**Temporal Convolutional Autoencoder for Interference Mitigation in FMCW Radar Altimeters**|Charles E. Thornton et.al.|[2505.22783](http://arxiv.org/abs/2505.22783)|null|
+|**2025-05-28**|**Predicting Human Depression with Hybrid Data Acquisition utilizing Physical Activity Sensing and Social Media Feeds**|Mohammad Helal Uddin et.al.|[2505.22779](http://arxiv.org/abs/2505.22779)|null|
+|**2025-05-28**|**Nonparametric Estimation of Conditional Survival Function with Time-Varying Covariates Using DeepONet**|Bingqing Hu et.al.|[2505.22748](http://arxiv.org/abs/2505.22748)|null|
+|**2025-05-28**|**Frequency-Adaptive Discrete Cosine-ViT-ResNet Architecture for Sparse-Data Vision**|Ziyue Kang et.al.|[2505.22701](http://arxiv.org/abs/2505.22701)|null|
+|**2025-05-27**|**DeepMultiConnectome: Deep Multi-Task Prediction of Structural Connectomes Directly from Diffusion MRI Tractography**|Marcus J. Vroemen et.al.|[2505.22685](http://arxiv.org/abs/2505.22685)|null|
 |**2025-05-28**|**Chest Disease Detection In X-Ray Images Using Deep Learning Classification Method**|Alanna Hazlett et.al.|[2505.22609](http://arxiv.org/abs/2505.22609)|null|
 |**2025-05-28**|**GLAMP: An Approximate Message Passing Framework for Transfer Learning with Applications to Lasso-based Estimators**|Longlin Wang et.al.|[2505.22594](http://arxiv.org/abs/2505.22594)|null|
 |**2025-05-28**|**PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**|Jaehyun Choi et.al.|[2505.22564](http://arxiv.org/abs/2505.22564)|null|
@@ -12676,6 +12710,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Topological Machine Learning for Protein-Nucleic Acid Binding Affinity Changes Upon Mutation**|Xiang Liu et.al.|[2505.22786](http://arxiv.org/abs/2505.22786)|null|
 |**2025-05-28**|**HelixDesign-Binder: A Scalable Production-Grade Platform for Binder Design Built on HelixFold3**|Jie Gao et.al.|[2505.21873](http://arxiv.org/abs/2505.21873)|null|
 |**2025-05-27**|**TumorHoPe2: An updated database for Tumor Homing Peptides**|Diksha Kashyap et.al.|[2505.20913](http://arxiv.org/abs/2505.20913)|null|
 |**2025-05-14**|**Sequence-Only Prediction of Binding Affinity Changes: A Robust and Interpretable Model for Antibody Engineering**|Chen Liu et.al.|[2505.20301](http://arxiv.org/abs/2505.20301)|null|
