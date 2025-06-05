@@ -796,6 +796,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Molecular Dynamics Simulations on Nuclear Recoils in Silicon Crystals towards Single Electron-Hole Pair Ionization Yields**|Chang-Hao Fang et.al.|[2506.03810](http://arxiv.org/abs/2506.03810)|null|
 |**2025-06-03**|**Sodium-Decorated P-C3N: A Porous 2D Framework for High-Capacity and Reversible Hydrogen Storage**|Jose A. S. Laranjeira et.al.|[2506.02374](http://arxiv.org/abs/2506.02374)|null|
 |**2025-06-02**|**First-Principles and Machine Learning Investigation of the Structural and Optoelectronic Properties of Dodecaphenylyne: A Novel Carbon Allotrope**|Kleuton A. L. Lima et.al.|[2506.02218](http://arxiv.org/abs/2506.02218)|null|
 |**2025-06-02**|**Micelle Forming Linear-Dendritic Block Copolymers: A Theoretical Comparison between Random Hyperbranched and Precise Dendrimer Polymer Architectures**|Marios Giannakou et.al.|[2506.01765](http://arxiv.org/abs/2506.01765)|null|
@@ -1621,6 +1622,40 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Lions and Muons: Optimization via Stochastic Frank-Wolfe**|Maria-Eleni Sfyraki et.al.|[2506.04192](http://arxiv.org/abs/2506.04192)|null|
+|**2025-06-04**|**Synthetic multi-inversion time magnetic resonance images for visualization of subcortical structures**|Savannah P. Hays et.al.|[2506.04173](http://arxiv.org/abs/2506.04173)|null|
+|**2025-06-04**|**Deep-learned error mitigation via partially knitted circuits for the variational quantum eigensolver**|Simone Cantori et.al.|[2506.04146](http://arxiv.org/abs/2506.04146)|null|
+|**2025-06-04**|**Plant Bioelectric Early Warning Systems: A Five-Year Investigation into Human-Plant Electromagnetic Communication**|Peter A. Gloor et.al.|[2506.04132](http://arxiv.org/abs/2506.04132)|null|
+|**2025-06-04**|**Recent Advances in Medical Image Classification**|Loan Dao et.al.|[2506.04129](http://arxiv.org/abs/2506.04129)|null|
+|**2025-06-04**|**MS-YOLO: A Multi-Scale Model for Accurate and Efficient Blood Cell Detection**|Guohua Wu et.al.|[2506.03972](http://arxiv.org/abs/2506.03972)|null|
+|**2025-06-04**|**Average Calibration Losses for Reliable Uncertainty in Medical Image Segmentation**|Theodore Barfoot et.al.|[2506.03942](http://arxiv.org/abs/2506.03942)|null|
+|**2025-06-04**|**Personalized Improvement of Standard Readout Error Mitigation using Low-Depth Circuits and Machine Learning**|Melody Lee et.al.|[2506.03920](http://arxiv.org/abs/2506.03920)|null|
+|**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918](http://arxiv.org/abs/2506.03918)|null|
+|**2025-06-04**|**Identifying Alzheimer's Disease Prediction Strategies of Convolutional Neural Network Classifiers using R2* Maps and Spectral Clustering**|Christian Tinauer et.al.|[2506.03890](http://arxiv.org/abs/2506.03890)|null|
+|**2025-06-04**|**Improving Post-Processing for Quantitative Precipitation Forecasting Using Deep Learning: Learning Precipitation Physics from High-Resolution Observations**|ChangJae Lee et.al.|[2506.03842](http://arxiv.org/abs/2506.03842)|null|
+|**2025-06-04**|**Personalized MR-Informed Diffusion Models for 3D PET Image Reconstruction**|George Webber et.al.|[2506.03804](http://arxiv.org/abs/2506.03804)|null|
+|**2025-06-04**|**Infinitesimal Higher-Order Spectral Variations in Rectangular Real Random Matrices**|Róisín Luo et.al.|[2506.03764](http://arxiv.org/abs/2506.03764)|null|
+|**2025-06-04**|**Spatiotemporal Prediction of Electric Vehicle Charging Load Based on Large Language Models**|Hang Fan et.al.|[2506.03728](http://arxiv.org/abs/2506.03728)|null|
+|**2025-06-04**|**On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity**|Quentin Bertrand et.al.|[2506.03719](http://arxiv.org/abs/2506.03719)|null|
+|**2025-06-04**|**Advancements in Artificial Intelligence Applications for Cardiovascular Disease Research**|Yuanlin Mo et.al.|[2506.03698](http://arxiv.org/abs/2506.03698)|null|
+|**2025-06-04**|**Latent Guided Sampling for Combinatorial Optimization**|Sobihan Surendran et.al.|[2506.03672](http://arxiv.org/abs/2506.03672)|null|
+|**2025-06-04**|**Position: There Is No Free Bayesian Uncertainty Quantification**|Ivan Melev et.al.|[2506.03670](http://arxiv.org/abs/2506.03670)|null|
+|**2025-06-04**|**Intersectional Bias in Pre-Trained Image Recognition Models**|Valerie Krug et.al.|[2506.03664](http://arxiv.org/abs/2506.03664)|null|
+|**2025-06-04**|**Mono: Is Your "Clean" Vulnerability Dataset Really Solvable? Exposing and Trapping Undecidable Patches and Beyond**|Zeyu Gao et.al.|[2506.03651](http://arxiv.org/abs/2506.03651)|null|
+|**2025-06-04**|**FingerVeinSyn-5M: A Million-Scale Dataset and Benchmark for Finger Vein Recognition**|Yinfan Wang et.al.|[2506.03635](http://arxiv.org/abs/2506.03635)|null|
+|**2025-06-04**|**Analyzing Transformer Models and Knowledge Distillation Approaches for Image Captioning on Edge AI**|Wing Man Casca Kwok et.al.|[2506.03607](http://arxiv.org/abs/2506.03607)|null|
+|**2025-06-04**|**Path Generation and Evaluation in Video Games: A Nonparametric Statistical Approach**|Daniel Campa et.al.|[2506.03522](http://arxiv.org/abs/2506.03522)|null|
+|**2025-06-04**|**Models of Heavy-Tailed Mechanistic Universality**|Liam Hodgkinson et.al.|[2506.03470](http://arxiv.org/abs/2506.03470)|null|
+|**2025-06-03**|**Hybrid Ensemble of Segmentation-Assisted Classification and GBDT for Skin Cancer Detection with Engineered Metadata and Synthetic Lesions from ISIC 2024 Non-Dermoscopic 3D-TBP Images**|Muhammad Zubair Hasan et.al.|[2506.03420](http://arxiv.org/abs/2506.03420)|null|
+|**2025-06-03**|**Fault Localisation and Repair for DL Systems: An Empirical Study with LLMs**|Jinhan Kim et.al.|[2506.03396](http://arxiv.org/abs/2506.03396)|null|
+|**2025-06-03**|**Semiconductor SEM Image Defect Classification Using Supervised and Semi-Supervised Learning with Vision Transformers**|Chien-Fu et.al.|[2506.03345](http://arxiv.org/abs/2506.03345)|null|
+|**2025-06-03**|**The Future of Continual Learning in the Era of Foundation Models: Three Key Directions**|Jack Bell et.al.|[2506.03320](http://arxiv.org/abs/2506.03320)|null|
+|**2025-06-03**|**On the Necessity of Multi-Domain Explanation: An Uncertainty Principle Approach for Deep Time Series Models**|Shahbaz Rezaei et.al.|[2506.03267](http://arxiv.org/abs/2506.03267)|null|
+|**2025-06-03**|**New Rotation Periods from the Kepler Bonus Background Light Curves**|Zachary R. Claytor et.al.|[2506.03248](http://arxiv.org/abs/2506.03248)|null|
+|**2025-06-03**|**petBrain: A New Pipeline for Amyloid, Tau Tangles and Neurodegeneration Quantification Using PET and MRI**|Pierrick Coupé et.al.|[2506.03217](http://arxiv.org/abs/2506.03217)|null|
+|**2025-06-03**|**A Survey of Deep Learning Video Super-Resolution**|Arbind Agrahari Baniya et.al.|[2506.03216](http://arxiv.org/abs/2506.03216)|null|
+|**2025-06-03**|**ConMamba: Contrastive Vision Mamba for Plant Disease Detection**|Abdullah Al Mamun et.al.|[2506.03213](http://arxiv.org/abs/2506.03213)|null|
+|**2025-06-02**|**Fingerprinting Deep Learning Models via Network Traffic Patterns in Federated Learning**|Md Nahid Hasan Shuvo et.al.|[2506.03207](http://arxiv.org/abs/2506.03207)|null|
 |**2025-06-03**|**Torsion in Persistent Homology and Neural Networks**|Maria Walch et.al.|[2506.03049](http://arxiv.org/abs/2506.03049)|null|
 |**2025-06-03**|**Understanding Stability Mechanisms in Single-Atom Alloys with Theory-infused Deep Learning**|Yang Huang et.al.|[2506.03031](http://arxiv.org/abs/2506.03031)|null|
 |**2025-06-03**|**Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow**|Heming Bai et.al.|[2506.03016](http://arxiv.org/abs/2506.03016)|null|
