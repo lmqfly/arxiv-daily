@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.06
+## Updated on 2025.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1709,7 +1709,7 @@ layout: default
 |**2025-06-03**|**Generative AI for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning**|Haowen Xu et.al.|[2506.02485](http://arxiv.org/abs/2506.02485)|null|
 |**2025-06-03**|**A Review of Various Datasets for Machine Learning Algorithm-Based Intrusion Detection System: Advances and Challenges**|Sudhanshu Sekhar Tripathy et.al.|[2506.02438](http://arxiv.org/abs/2506.02438)|null|
 |**2025-06-03**|**Random at First, Fast at Last: NTK-Guided Fourier Pre-Processing for Tabular DL**|Renat Sergazinov et.al.|[2506.02406](http://arxiv.org/abs/2506.02406)|null|
-|**2025-06-03**|**Adversarial control of synchronization in complex oscillator networks**|Yasutoshi Nagahama et.al.|[2506.02403](http://arxiv.org/abs/2506.02403)|null|
+|**2025-06-03**|**Adversarial control of synchronization in complex oscillator networks**|Yasutoshi Nagahama et.al.|[2506.02403](http://arxiv.org/abs/2506.02403)|**[link](https://github.com/kztakemoto/advSync)**|
 |**2025-06-03**|**Trusted Fake Audio Detection Based on Dirichlet Distribution**|Chi Ding et.al.|[2506.02401](http://arxiv.org/abs/2506.02401)|null|
 |**2025-06-02**|**Identifying interactions across brain areas while accounting for individual-neuron dynamics with a Transformer-based variational autoencoder**|Qi Xin et.al.|[2506.02263](http://arxiv.org/abs/2506.02263)|null|
 |**2025-06-02**|**Motion aware video generative model**|Bowen Xue et.al.|[2506.02244](http://arxiv.org/abs/2506.02244)|null|
