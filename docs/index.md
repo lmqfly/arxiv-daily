@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1647,7 +1647,7 @@ layout: default
 |**2025-06-09**|**Dense Associative Memory in a Nonlinear Optical Hopfield Neural Network**|Khalid Musa et.al.|[2506.07849](http://arxiv.org/abs/2506.07849)|null|
 |**2025-06-09**|**Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**|Jie Bao et.al.|[2506.07804](http://arxiv.org/abs/2506.07804)|null|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
-|**2025-06-09**|**ArchiLense: A Framework for Quantitative Analysis of Architectural Styles Based on Vision Large Language Models**|Jing Zhong et.al.|[2506.07739](http://arxiv.org/abs/2506.07739)|null|
+|**2025-06-10**|**ArchiLense: A Framework for Quantitative Analysis of Architectural Styles Based on Vision Large Language Models**|Jing Zhong et.al.|[2506.07739](http://arxiv.org/abs/2506.07739)|null|
 |**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735](http://arxiv.org/abs/2506.07735)|null|
 |**2025-06-09**|**Foundation Model Empowered Synesthesia of Machines (SoM): AI-native Intelligent Multi-Modal Sensing-Communication Integration**|Xiang Cheng et.al.|[2506.07647](http://arxiv.org/abs/2506.07647)|null|
 |**2025-06-09**|**HieraEdgeNet: A Multi-Scale Edge-Enhanced Framework for Automated Pollen Recognition**|Yuchong Long et.al.|[2506.07637](http://arxiv.org/abs/2506.07637)|null|
@@ -1710,7 +1710,7 @@ layout: default
 |**2025-06-06**|**Enhancing Orthopox Image Classification Using Hybrid Machine Learning and Deep Learning Models**|Alejandro Puente-Castro et.al.|[2506.06007](http://arxiv.org/abs/2506.06007)|null|
 |**2025-06-06**|**LaDEEP: A Deep Learning-based Surrogate Model for Large Deformation of Elastic-Plastic Solids**|Shilong Tao et.al.|[2506.06001](http://arxiv.org/abs/2506.06001)|null|
 |**2025-06-06**|**RETENTION: Resource-Efficient Tree-Based Ensemble Model Acceleration with Content-Addressable Memory**|Yi-Chun Liao et.al.|[2506.05994](http://arxiv.org/abs/2506.05994)|null|
-|**2025-06-06**|**CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents**|Qingbin Zeng et.al.|[2506.05981](http://arxiv.org/abs/2506.05981)|null|
+|**2025-06-10**|**CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents**|Qingbin Zeng et.al.|[2506.05981](http://arxiv.org/abs/2506.05981)|null|
 |**2025-06-06**|**Reliable Evaluation of MRI Motion Correction: Dataset and Insights**|Kun Wang et.al.|[2506.05975](http://arxiv.org/abs/2506.05975)|null|
 |**2025-06-06**|**Domain Adaptation in Agricultural Image Analysis: A Comprehensive Review from Shallow Models to Deep Learning**|Xing Hu et.al.|[2506.05972](http://arxiv.org/abs/2506.05972)|null|
 |**2025-06-06**|**Elementary Math Word Problem Generation using Large Language Models**|Nimesh Ariyarathne et.al.|[2506.05950](http://arxiv.org/abs/2506.05950)|null|
@@ -1722,7 +1722,7 @@ layout: default
 |**2025-06-06**|**NILMFormer: Non-Intrusive Load Monitoring that Accounts for Non-Stationarity**|Adrien Petralia et.al.|[2506.05880](http://arxiv.org/abs/2506.05880)|null|
 |**2025-06-06**|**Pegasus: A Universal Framework for Scalable Deep Learning Inference on the Dataplane**|Yinchao Zhang et.al.|[2506.05779](http://arxiv.org/abs/2506.05779)|null|
 |**2025-06-06**|**AANet: Virtual Screening under Structural Uncertainty via Alignment and Aggregation**|Wenyu Zhu et.al.|[2506.05768](http://arxiv.org/abs/2506.05768)|null|
-|**2025-06-06**|**Exploring Microstructural Dynamics in Cryptocurrency Limit Order Books: Better Inputs Matter More Than Stacking Another Hidden Layer**|Haochuan et.al.|[2506.05764](http://arxiv.org/abs/2506.05764)|null|
+|**2025-06-09**|**Exploring Microstructural Dynamics in Cryptocurrency Limit Order Books: Better Inputs Matter More Than Stacking Another Hidden Layer**|Haochuan Wang et.al.|[2506.05764](http://arxiv.org/abs/2506.05764)|null|
 |**2025-06-06**|**When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning**|Ruining Sun et.al.|[2506.05743](http://arxiv.org/abs/2506.05743)|null|
 |**2025-06-06**|**Large Language Models are Good Relational Learners**|Fang Wu et.al.|[2506.05725](http://arxiv.org/abs/2506.05725)|null|
 |**2025-06-09**|**TissUnet: Improved Extracranial Tissue and Cranium Segmentation for Children through Adulthood**|Markiian Mandzak et.al.|[2506.05660](http://arxiv.org/abs/2506.05660)|**[link](https://github.com/AIM-KannLab/TissUNet)**|
@@ -1735,7 +1735,7 @@ layout: default
 |**2025-06-05**|**MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction**|Zishan Shu et.al.|[2506.05427](http://arxiv.org/abs/2506.05427)|null|
 |**2025-06-04**|**FERRET: Private Deep Learning Faster And Better Than DPSGD**|David Zagardo et.al.|[2506.05416](http://arxiv.org/abs/2506.05416)|null|
 |**2025-06-03**|**Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation**|Israa A. Albadarneh et.al.|[2506.05399](http://arxiv.org/abs/2506.05399)|null|
-|**2025-06-05**|**Learning Intrinsic Alignments from Local Galaxy Environments**|Matthew Craigie et.al.|[2506.05155](http://arxiv.org/abs/2506.05155)|null|
+|**2025-06-10**|**Learning Intrinsic Alignments from Local Galaxy Environments**|Matthew Craigie et.al.|[2506.05155](http://arxiv.org/abs/2506.05155)|null|
 |**2025-06-05**|**Membership Inference Attacks on Sequence Models**|Lorenzo Rossi et.al.|[2506.05126](http://arxiv.org/abs/2506.05126)|null|
 |**2025-06-05**|**A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions**|Anh Le et.al.|[2506.05061](http://arxiv.org/abs/2506.05061)|null|
 |**2025-06-05**|**FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series Analysis**|Wenyan Xu et.al.|[2506.05019](http://arxiv.org/abs/2506.05019)|null|

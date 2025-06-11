@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -250,7 +250,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## DDI
 
@@ -382,7 +382,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## MG
 
@@ -602,7 +602,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## MPP
 
@@ -816,7 +816,7 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## MD
 
@@ -1650,7 +1650,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Transformer
 
@@ -1667,7 +1667,7 @@
 |**2025-06-09**|**Dense Associative Memory in a Nonlinear Optical Hopfield Neural Network**|Khalid Musa et.al.|[2506.07849](http://arxiv.org/abs/2506.07849)|null|
 |**2025-06-09**|**Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**|Jie Bao et.al.|[2506.07804](http://arxiv.org/abs/2506.07804)|null|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
-|**2025-06-09**|**ArchiLense: A Framework for Quantitative Analysis of Architectural Styles Based on Vision Large Language Models**|Jing Zhong et.al.|[2506.07739](http://arxiv.org/abs/2506.07739)|null|
+|**2025-06-10**|**ArchiLense: A Framework for Quantitative Analysis of Architectural Styles Based on Vision Large Language Models**|Jing Zhong et.al.|[2506.07739](http://arxiv.org/abs/2506.07739)|null|
 |**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735](http://arxiv.org/abs/2506.07735)|null|
 |**2025-06-09**|**Foundation Model Empowered Synesthesia of Machines (SoM): AI-native Intelligent Multi-Modal Sensing-Communication Integration**|Xiang Cheng et.al.|[2506.07647](http://arxiv.org/abs/2506.07647)|null|
 |**2025-06-09**|**HieraEdgeNet: A Multi-Scale Edge-Enhanced Framework for Automated Pollen Recognition**|Yuchong Long et.al.|[2506.07637](http://arxiv.org/abs/2506.07637)|null|
@@ -1730,7 +1730,7 @@
 |**2025-06-06**|**Enhancing Orthopox Image Classification Using Hybrid Machine Learning and Deep Learning Models**|Alejandro Puente-Castro et.al.|[2506.06007](http://arxiv.org/abs/2506.06007)|null|
 |**2025-06-06**|**LaDEEP: A Deep Learning-based Surrogate Model for Large Deformation of Elastic-Plastic Solids**|Shilong Tao et.al.|[2506.06001](http://arxiv.org/abs/2506.06001)|null|
 |**2025-06-06**|**RETENTION: Resource-Efficient Tree-Based Ensemble Model Acceleration with Content-Addressable Memory**|Yi-Chun Liao et.al.|[2506.05994](http://arxiv.org/abs/2506.05994)|null|
-|**2025-06-06**|**CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents**|Qingbin Zeng et.al.|[2506.05981](http://arxiv.org/abs/2506.05981)|null|
+|**2025-06-10**|**CrimeMind: Simulating Urban Crime with Multi-Modal LLM Agents**|Qingbin Zeng et.al.|[2506.05981](http://arxiv.org/abs/2506.05981)|null|
 |**2025-06-06**|**Reliable Evaluation of MRI Motion Correction: Dataset and Insights**|Kun Wang et.al.|[2506.05975](http://arxiv.org/abs/2506.05975)|null|
 |**2025-06-06**|**Domain Adaptation in Agricultural Image Analysis: A Comprehensive Review from Shallow Models to Deep Learning**|Xing Hu et.al.|[2506.05972](http://arxiv.org/abs/2506.05972)|null|
 |**2025-06-06**|**Elementary Math Word Problem Generation using Large Language Models**|Nimesh Ariyarathne et.al.|[2506.05950](http://arxiv.org/abs/2506.05950)|null|
@@ -1742,7 +1742,7 @@
 |**2025-06-06**|**NILMFormer: Non-Intrusive Load Monitoring that Accounts for Non-Stationarity**|Adrien Petralia et.al.|[2506.05880](http://arxiv.org/abs/2506.05880)|null|
 |**2025-06-06**|**Pegasus: A Universal Framework for Scalable Deep Learning Inference on the Dataplane**|Yinchao Zhang et.al.|[2506.05779](http://arxiv.org/abs/2506.05779)|null|
 |**2025-06-06**|**AANet: Virtual Screening under Structural Uncertainty via Alignment and Aggregation**|Wenyu Zhu et.al.|[2506.05768](http://arxiv.org/abs/2506.05768)|null|
-|**2025-06-06**|**Exploring Microstructural Dynamics in Cryptocurrency Limit Order Books: Better Inputs Matter More Than Stacking Another Hidden Layer**|Haochuan et.al.|[2506.05764](http://arxiv.org/abs/2506.05764)|null|
+|**2025-06-09**|**Exploring Microstructural Dynamics in Cryptocurrency Limit Order Books: Better Inputs Matter More Than Stacking Another Hidden Layer**|Haochuan Wang et.al.|[2506.05764](http://arxiv.org/abs/2506.05764)|null|
 |**2025-06-06**|**When Better Features Mean Greater Risks: The Performance-Privacy Trade-Off in Contrastive Learning**|Ruining Sun et.al.|[2506.05743](http://arxiv.org/abs/2506.05743)|null|
 |**2025-06-06**|**Large Language Models are Good Relational Learners**|Fang Wu et.al.|[2506.05725](http://arxiv.org/abs/2506.05725)|null|
 |**2025-06-09**|**TissUnet: Improved Extracranial Tissue and Cranium Segmentation for Children through Adulthood**|Markiian Mandzak et.al.|[2506.05660](http://arxiv.org/abs/2506.05660)|**[link](https://github.com/AIM-KannLab/TissUNet)**|
@@ -1755,7 +1755,7 @@
 |**2025-06-05**|**MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction**|Zishan Shu et.al.|[2506.05427](http://arxiv.org/abs/2506.05427)|null|
 |**2025-06-04**|**FERRET: Private Deep Learning Faster And Better Than DPSGD**|David Zagardo et.al.|[2506.05416](http://arxiv.org/abs/2506.05416)|null|
 |**2025-06-03**|**Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation**|Israa A. Albadarneh et.al.|[2506.05399](http://arxiv.org/abs/2506.05399)|null|
-|**2025-06-05**|**Learning Intrinsic Alignments from Local Galaxy Environments**|Matthew Craigie et.al.|[2506.05155](http://arxiv.org/abs/2506.05155)|null|
+|**2025-06-10**|**Learning Intrinsic Alignments from Local Galaxy Environments**|Matthew Craigie et.al.|[2506.05155](http://arxiv.org/abs/2506.05155)|null|
 |**2025-06-05**|**Membership Inference Attacks on Sequence Models**|Lorenzo Rossi et.al.|[2506.05126](http://arxiv.org/abs/2506.05126)|null|
 |**2025-06-05**|**A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions**|Anh Le et.al.|[2506.05061](http://arxiv.org/abs/2506.05061)|null|
 |**2025-06-05**|**FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series Analysis**|Wenyan Xu et.al.|[2506.05019](http://arxiv.org/abs/2506.05019)|null|
@@ -13038,7 +13038,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Binding
 
@@ -13289,7 +13289,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -13465,7 +13465,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
