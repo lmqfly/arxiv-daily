@@ -805,6 +805,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Deep Potential-Driven Molecular Dynamics of CO Ice Analogues: Investigating Desorption Following Vibrational Excitation**|Maxime Infuso et.al.|[2506.10882](http://arxiv.org/abs/2506.10882)|null|
+|**2025-05-28**|**Identifying critical residues of a protein using meaningfully-thresholded Random Geometric Graphs**|Chuqiao Zhang et.al.|[2506.10015](http://arxiv.org/abs/2506.10015)|null|
 |**2025-06-11**|**Mechanism of Conductivity Enhancement of Polymers Employing Microbubble Lithography**|Anand Dev Ranjan et.al.|[2506.09957](http://arxiv.org/abs/2506.09957)|null|
 |**2025-06-11**|**Surface phase behavior, not hydrogen bonding, governs hydrophobic attraction between extended solutes**|Nigel B. Wilding et.al.|[2506.09858](http://arxiv.org/abs/2506.09858)|null|
 |**2025-06-11**|**Surface Induced Frustration of Inherent Dipolar Order in Nanoconfined Water**|Sayantan Mondal et.al.|[2506.09809](http://arxiv.org/abs/2506.09809)|null|
@@ -1649,6 +1651,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Rethinking Losses for Diffusion Bridge Samplers**|Sebastian Sanokowski et.al.|[2506.10982](http://arxiv.org/abs/2506.10982)|null|
+|**2025-06-12**|**Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning**|Julius Berner et.al.|[2506.10973](http://arxiv.org/abs/2506.10973)|null|
+|**2025-06-12**|**FerroAI: A Deep Learning Model for Predicting Phase Diagrams of Ferroelectric Materials**|Chenbo Zhang et.al.|[2506.10970](http://arxiv.org/abs/2506.10970)|null|
+|**2025-06-12**|**Accelerating Newton-Schulz Iteration for Orthogonalization via Chebyshev-type Polynomials**|Ekaterina Grishina et.al.|[2506.10935](http://arxiv.org/abs/2506.10935)|null|
+|**2025-06-12**|**Semi-Automated Quality Assurance in Digital Pathology: Tile Classification Approach**|Meredith VandeHaar et.al.|[2506.10916](http://arxiv.org/abs/2506.10916)|null|
+|**2025-06-12**|**Deep Potential-Driven Molecular Dynamics of CO Ice Analogues: Investigating Desorption Following Vibrational Excitation**|Maxime Infuso et.al.|[2506.10882](http://arxiv.org/abs/2506.10882)|null|
+|**2025-06-12**|**OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics**|Rui Zhang et.al.|[2506.10862](http://arxiv.org/abs/2506.10862)|null|
+|**2025-06-12**|**Energy-Efficient Deep Learning for Traffic Classification on Microcontrollers**|Adel Chehade et.al.|[2506.10851](http://arxiv.org/abs/2506.10851)|null|
+|**2025-06-12**|**Efficiency Robustness of Dynamic Deep Learning Systems**|Ravishka Rathnasuriya et.al.|[2506.10831](http://arxiv.org/abs/2506.10831)|null|
+|**2025-06-12**|**Modality-AGnostic Image Cascade (MAGIC) for Multi-Modality Cardiac Substructure Segmentation**|Nicholas Summerfield et.al.|[2506.10797](http://arxiv.org/abs/2506.10797)|null|
+|**2025-06-12**|**Deep Learning-based Multi Project InP Wafer Simulation for Unsupervised Surface Defect Detection**|Emílio Dolgener Cantú et.al.|[2506.10713](http://arxiv.org/abs/2506.10713)|null|
+|**2025-06-12**|**Unsourced Adversarial CAPTCHA: A Bi-Phase Adversarial CAPTCHA Framework**|Xia Du et.al.|[2506.10685](http://arxiv.org/abs/2506.10685)|null|
+|**2025-06-12**|**Enhancing Deepfake Detection using SE Block Attention with CNN**|Subhram Dasgupta et.al.|[2506.10683](http://arxiv.org/abs/2506.10683)|null|
+|**2025-06-12**|**Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs**|Yucong Luo et.al.|[2506.10630](http://arxiv.org/abs/2506.10630)|null|
+|**2025-06-12**|**Deep Learning-Based Digitization of Overlapping ECG Images with Open-Source Python Code**|Reza Karbasi et.al.|[2506.10617](http://arxiv.org/abs/2506.10617)|null|
+|**2025-06-12**|**Downlink CSIT under Compressed Feedback: Joint vs. Separate Source-Channel Coding**|Yi Song et.al.|[2506.10554](http://arxiv.org/abs/2506.10554)|null|
+|**2025-06-12**|**It's Not the Target, It's the Background: Rethinking Infrared Small Target Detection via Deep Patch-Free Low-Rank Representations**|Guoyi Zhang et.al.|[2506.10425](http://arxiv.org/abs/2506.10425)|null|
+|**2025-06-12**|**HPCTransCompile: An AI Compiler Generated Dataset for High-Performance CUDA Transpilation and LLM Preliminary Exploration**|Jiaqi Lv et.al.|[2506.10401](http://arxiv.org/abs/2506.10401)|null|
+|**2025-06-12**|**NeuroPAL: Punctuated Anytime Learning with Neuroevolution for Macromanagement in Starcraft: Brood War**|Jim O'Connor et.al.|[2506.10384](http://arxiv.org/abs/2506.10384)|null|
+|**2025-06-12**|**MLLM-Based UI2Code Automation Guided by UI Layout Information**|Fan Wu et.al.|[2506.10376](http://arxiv.org/abs/2506.10376)|null|
+|**2025-06-12**|**Revisiting Transformers with Insights from Image Filtering**|Laziz U. Abdullaev et.al.|[2506.10371](http://arxiv.org/abs/2506.10371)|null|
+|**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang et.al.|[2506.10366](http://arxiv.org/abs/2506.10366)|null|
+|**2025-06-12**|**SWDL: Stratum-Wise Difference Learning with Deep Laplacian Pyramid for Semi-Supervised 3D Intracranial Hemorrhage Segmentation**|Cheng Wang et.al.|[2506.10325](http://arxiv.org/abs/2506.10325)|null|
+|**2025-06-12**|**Uncertainty-Aware Deep Learning for Automated Skin Cancer Classification: A Comprehensive Evaluation**|Hamzeh Asgharnezhad et.al.|[2506.10302](http://arxiv.org/abs/2506.10302)|null|
+|**2025-06-12**|**Flick: Few Labels Text Classification using K-Aware Intermediate Learning in Multi-Task Low-Resource Languages**|Ali Almutairi et.al.|[2506.10292](http://arxiv.org/abs/2506.10292)|null|
+|**2025-06-11**|**Intelligent Travel Activity Monitoring: Generalized Distributed Acoustic Sensing Approaches**|Ruikang Zhong et.al.|[2506.10237](http://arxiv.org/abs/2506.10237)|null|
+|**2025-06-11**|**California Crop Yield Benchmark: Combining Satellite Image, Climate, Evapotranspiration, and Soil Data Layers for County-Level Yield Forecasting of Over 70 Crops**|Hamid Kamangir et.al.|[2506.10228](http://arxiv.org/abs/2506.10228)|null|
+|**2025-06-11**|**The 2025 PNPL Competition: Speech Detection and Phoneme Classification in the LibriBrain Dataset**|Gilad Landau et.al.|[2506.10165](http://arxiv.org/abs/2506.10165)|null|
+|**2025-06-11**|**Balanced Hyperbolic Embeddings Are Natural Out-of-Distribution Detectors**|Tejaswi Kasarla et.al.|[2506.10146](http://arxiv.org/abs/2506.10146)|null|
+|**2025-06-11**|**Deep Semantic Segmentation for Multi-Source Localization Using Angle of Arrival Measurements**|Mustafa Atahan Nuhoglu et.al.|[2506.10107](http://arxiv.org/abs/2506.10107)|null|
+|**2025-06-11**|**Improving the performance of optical inverse design of multilayer thin films using CNN-LSTM tandem neural networks**|Uijun Jung et.al.|[2506.10044](http://arxiv.org/abs/2506.10044)|null|
+|**2025-06-10**|**scSSL-Bench: Benchmarking Self-Supervised Learning for Single-Cell Data**|Olga Ovcharenko et.al.|[2506.10031](http://arxiv.org/abs/2506.10031)|null|
 |**2025-06-11**|**Advancing Exchange Rate Forecasting: Leveraging Machine Learning and AI for Enhanced Accuracy in Global Financial Markets**|Md. Yeasin Rahat et.al.|[2506.09851](http://arxiv.org/abs/2506.09851)|null|
 |**2025-06-11**|**IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments**|Florian Bordes et.al.|[2506.09849](http://arxiv.org/abs/2506.09849)|null|
 |**2025-06-11**|**A Deep Generative Model for the Simulation of Discrete Karst Networks**|Dany Lauzon et.al.|[2506.09832](http://arxiv.org/abs/2506.09832)|null|
