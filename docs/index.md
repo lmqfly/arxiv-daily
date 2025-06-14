@@ -1684,12 +1684,12 @@ layout: default
 |**2025-06-11**|**Improving the performance of optical inverse design of multilayer thin films using CNN-LSTM tandem neural networks**|Uijun Jung et.al.|[2506.10044](http://arxiv.org/abs/2506.10044)|null|
 |**2025-06-10**|**scSSL-Bench: Benchmarking Self-Supervised Learning for Single-Cell Data**|Olga Ovcharenko et.al.|[2506.10031](http://arxiv.org/abs/2506.10031)|null|
 |**2025-06-11**|**Advancing Exchange Rate Forecasting: Leveraging Machine Learning and AI for Enhanced Accuracy in Global Financial Markets**|Md. Yeasin Rahat et.al.|[2506.09851](http://arxiv.org/abs/2506.09851)|null|
-|**2025-06-11**|**IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments**|Florian Bordes et.al.|[2506.09849](http://arxiv.org/abs/2506.09849)|null|
+|**2025-06-11**|**IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments**|Florian Bordes et.al.|[2506.09849](http://arxiv.org/abs/2506.09849)|**[link](https://github.com/facebookresearch/intphys2)**|
 |**2025-06-11**|**A Deep Generative Model for the Simulation of Discrete Karst Networks**|Dany Lauzon et.al.|[2506.09832](http://arxiv.org/abs/2506.09832)|null|
-|**2025-06-11**|**QMCTorch: Molecular Wavefunctions with Neural Components for Energy and Force Calculations**|Nicolas Renaud et.al.|[2506.09743](http://arxiv.org/abs/2506.09743)|null|
+|**2025-06-11**|**QMCTorch: Molecular Wavefunctions with Neural Components for Energy and Force Calculations**|Nicolas Renaud et.al.|[2506.09743](http://arxiv.org/abs/2506.09743)|**[link](https://github.com/qmctorch/qmctorch)**|
 |**2025-06-11**|**Optimization and validation of charge transport simulation for hybrid pixel detectors incorporating the repulsion effect**|X. Xie et.al.|[2506.09712](http://arxiv.org/abs/2506.09712)|null|
-|**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695](http://arxiv.org/abs/2506.09695)|null|
-|**2025-06-11**|**CINeMA: Conditional Implicit Neural Multi-Modal Atlas for a Spatio-Temporal Representation of the Perinatal Brain**|Maik Dannecker et.al.|[2506.09668](http://arxiv.org/abs/2506.09668)|null|
+|**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695](http://arxiv.org/abs/2506.09695)|**[link](https://github.com/wuchangw/fastersnn)**|
+|**2025-06-11**|**CINeMA: Conditional Implicit Neural Multi-Modal Atlas for a Spatio-Temporal Representation of the Perinatal Brain**|Maik Dannecker et.al.|[2506.09668](http://arxiv.org/abs/2506.09668)|**[link](https://github.com/m-dannecker/cinema)**|
 |**2025-06-11**|**Empirical Quantification of Spurious Correlations in Malware Detection**|Bianca Perasso et.al.|[2506.09662](http://arxiv.org/abs/2506.09662)|null|
 |**2025-06-11**|**Scaling Laws for Uncertainty in Deep Learning**|Mattia Rosso et.al.|[2506.09648](http://arxiv.org/abs/2506.09648)|null|
 |**2025-06-11**|**GLD-Road:A global-local decoding road network extraction model for remote sensing images**|Ligao Deng et.al.|[2506.09553](http://arxiv.org/abs/2506.09553)|null|
@@ -1733,7 +1733,7 @@ layout: default
 |**2025-06-10**|**MD-ViSCo: A Unified Model for Multi-Directional Vital Sign Waveform Conversion**|Franck Meyer et.al.|[2506.08357](http://arxiv.org/abs/2506.08357)|null|
 |**2025-06-11**|**Learnable Spatial-Temporal Positional Encoding for Link Prediction**|Katherine Tieu et.al.|[2506.08309](http://arxiv.org/abs/2506.08309)|null|
 |**2025-06-09**|**TensorTouch: Calibration of Tactile Sensors for High Resolution Stress Tensor and Deformation for Dexterous Manipulation**|Won Kyung Do et.al.|[2506.08291](http://arxiv.org/abs/2506.08291)|null|
-|**2025-06-09**|**Snap-and-tune: combining deep learning and test-time optimization for high-fidelity cardiovascular volumetric meshing**|Daniel H. Pak et.al.|[2506.08280](http://arxiv.org/abs/2506.08280)|null|
+|**2025-06-09**|**Snap-and-tune: combining deep learning and test-time optimization for high-fidelity cardiovascular volumetric meshing**|Daniel H. Pak et.al.|[2506.08280](http://arxiv.org/abs/2506.08280)|**[link](https://github.com/danpak94/deep-cardiac-volumetric-mesh)**|
 |**2025-06-09**|**Sparse Interpretable Deep Learning with LIES Networks for Symbolic Regression**|Mansooreh Montazerin et.al.|[2506.08267](http://arxiv.org/abs/2506.08267)|null|
 |**2025-06-09**|**Defect complexes in CrSBr revealed through electron microscopy and deep learning**|Mads Weile et.al.|[2506.08100](http://arxiv.org/abs/2506.08100)|null|
 |**2025-06-09**|**CaliciBoost: Performance-Driven Evaluation of Molecular Representations for Caco-2 Permeability Prediction**|Huong Van Le et.al.|[2506.08059](http://arxiv.org/abs/2506.08059)|null|
@@ -1744,10 +1744,10 @@ layout: default
 |**2025-06-09**|**Phase-Only Positioning: Overcoming Integer Ambiguity Challenge through Deep Learning**|Fatih Ayten et.al.|[2506.07890](http://arxiv.org/abs/2506.07890)|null|
 |**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885](http://arxiv.org/abs/2506.07885)|null|
 |**2025-06-09**|**Evaluating explainable AI for deep learning-based network intrusion detection system alert classification**|Rajesh Kalakoti et.al.|[2506.07882](http://arxiv.org/abs/2506.07882)|null|
-|**2025-06-09**|**Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow**|Muhammad Ahmed Humais et.al.|[2506.07878](http://arxiv.org/abs/2506.07878)|null|
+|**2025-06-09**|**Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow**|Muhammad Ahmed Humais et.al.|[2506.07878](http://arxiv.org/abs/2506.07878)|**[link](https://github.com/ahmedhumais/e-stmflow)**|
 |**2025-06-09**|**Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?**|Sigma Jahan et.al.|[2506.07871](http://arxiv.org/abs/2506.07871)|null|
 |**2025-06-09**|**Dense Associative Memory in a Nonlinear Optical Hopfield Neural Network**|Khalid Musa et.al.|[2506.07849](http://arxiv.org/abs/2506.07849)|null|
-|**2025-06-09**|**Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**|Jie Bao et.al.|[2506.07804](http://arxiv.org/abs/2506.07804)|null|
+|**2025-06-09**|**Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**|Jie Bao et.al.|[2506.07804](http://arxiv.org/abs/2506.07804)|**[link](https://github.com/bjbbbb/enhancing-adversarial-robustness-with-conformal-prediction)**|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
 |**2025-06-10**|**ArchiLense: A Framework for Quantitative Analysis of Architectural Styles Based on Vision Large Language Models**|Jing Zhong et.al.|[2506.07739](http://arxiv.org/abs/2506.07739)|null|
 |**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735](http://arxiv.org/abs/2506.07735)|null|
