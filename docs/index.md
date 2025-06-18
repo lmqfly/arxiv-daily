@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1747,7 +1747,7 @@ layout: default
 |**2025-06-13**|**Taming Stable Diffusion for Computed Tomography Blind Super-Resolution**|Chunlei Li et.al.|[2506.11496](http://arxiv.org/abs/2506.11496)|null|
 |**2025-06-16**|**SemanticST: Spatially Informed Semantic Graph Learning for Clustering, Integration, and Scalable Analysis of Spatial Transcriptomics**|Roxana Zahedi et.al.|[2506.11491](http://arxiv.org/abs/2506.11491)|null|
 |**2025-06-13**|**FAD-Net: Frequency-Domain Attention-Guided Diffusion Network for Coronary Artery Segmentation using Invasive Coronary Angiography**|Nan Mu et.al.|[2506.11454](http://arxiv.org/abs/2506.11454)|null|
-|**2025-06-13**|**Deep Learning Model Acceleration and Optimization Strategies for Real-Time Recommendation Systems**|Junli Shao et.al.|[2506.11421](http://arxiv.org/abs/2506.11421)|null|
+|**2025-06-17**|**Deep Learning Model Acceleration and Optimization Strategies for Real-Time Recommendation Systems**|Junli Shao et.al.|[2506.11421](http://arxiv.org/abs/2506.11421)|null|
 |**2025-06-13**|**FIGNN: Feature-Specific Interpretability for Graph Neural Network Surrogate Models**|Riddhiman Raut et.al.|[2506.11398](http://arxiv.org/abs/2506.11398)|null|
 |**2025-06-12**|**GynSurg: A Comprehensive Gynecology Laparoscopic Surgery Dataset**|Sahar Nasirihaghighi et.al.|[2506.11356](http://arxiv.org/abs/2506.11356)|null|
 |**2025-06-12**|**Score-based Generative Diffusion Models to Synthesize Full-dose FDG Brain PET from MRI in Epilepsy Patients**|Jiaqi Wu et.al.|[2506.11297](http://arxiv.org/abs/2506.11297)|null|
