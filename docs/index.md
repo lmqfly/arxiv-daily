@@ -817,6 +817,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Operator Forces For Coarse-Grained Molecular Dynamics**|Leon Klein et.al.|[2506.19628](http://arxiv.org/abs/2506.19628)|null|
 |**2025-06-23**|**Challenges and opportunities in piezoelectric polymers: Effect of oriented amorphous fraction in ferroelectric semicrystalline polymers**|Guanchun Rui et.al.|[2506.18722](http://arxiv.org/abs/2506.18722)|null|
 |**2025-06-23**|**Doping-induced Polyamorphic Transitions in Fluorite Oxides**|Hao Yang et.al.|[2506.18333](http://arxiv.org/abs/2506.18333)|null|
 |**2025-06-22**|**Computational Discovery of Metastable NaMnO $_2$ Polymorphs as High-Performance Cathodes with Ultralow Na$^+$ Migration Barriers**|Fukuan Wang et.al.|[2506.17866](http://arxiv.org/abs/2506.17866)|null|
@@ -1681,6 +1682,40 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**A Comparative Study of NAFNet Baselines for Image Restoration**|Vladislav Esaulov et.al.|[2506.19845](http://arxiv.org/abs/2506.19845)|null|
+|**2025-06-24**|**Convolution-weighting method for the physics-informed neural network: A Primal-Dual Optimization Perspective**|Chenhao Si et.al.|[2506.19805](http://arxiv.org/abs/2506.19805)|null|
+|**2025-06-24**|**Systematic Review of Pituitary Gland and Pituitary Adenoma Automatic Segmentation Techniques in Magnetic Resonance Imaging**|Mubaraq Yakubu et.al.|[2506.19797](http://arxiv.org/abs/2506.19797)|null|
+|**2025-06-24**|**DRIFT: Data Reduction via Informative Feature Transformation- Generalization Begins Before Deep Learning starts**|Ben Keslaki et.al.|[2506.19734](http://arxiv.org/abs/2506.19734)|null|
+|**2025-06-24**|**Who Does What in Deep Learning? Multidimensional Game-Theoretic Attribution of Function of Neural Units**|Shrey Dixit et.al.|[2506.19732](http://arxiv.org/abs/2506.19732)|null|
+|**2025-06-24**|**Geometric-Aware Variational Inference: Robust and Adaptive Regularization with Directional Weight Uncertainty**|Carlos Stein Brito et.al.|[2506.19726](http://arxiv.org/abs/2506.19726)|null|
+|**2025-06-24**|**ReBoot: Encrypted Training of Deep Neural Networks with CKKS Bootstrapping**|Alberto Pirillo et.al.|[2506.19693](http://arxiv.org/abs/2506.19693)|null|
+|**2025-06-24**|**ReCoGNet: Recurrent Context-Guided Network for 3D MRI Prostate Segmentation**|Ahmad Mustafa et.al.|[2506.19687](http://arxiv.org/abs/2506.19687)|null|
+|**2025-06-24**|**Genome-Anchored Foundation Model Embeddings Improve Molecular Prediction from Histology Images**|Cheng Jin et.al.|[2506.19681](http://arxiv.org/abs/2506.19681)|null|
+|**2025-06-24**|**Extreme Learning Machines for Exoplanet Simulations: A Faster, Lightweight Alternative to Deep Learning**|Tara P. A. Tahseen et.al.|[2506.19679](http://arxiv.org/abs/2506.19679)|null|
+|**2025-06-24**|**Video Compression for Spatiotemporal Earth System Data**|Oscar J. Pellicer-Valero et.al.|[2506.19656](http://arxiv.org/abs/2506.19656)|null|
+|**2025-06-24**|**Filling of incomplete sinograms from sparse PET detector configurations using a residual U-Net**|Klara Leffler et.al.|[2506.19600](http://arxiv.org/abs/2506.19600)|null|
+|**2025-06-24**|**SMARTIES: Spectrum-Aware Multi-Sensor Auto-Encoder for Remote Sensing Images**|Gencer Sumbul et.al.|[2506.19585](http://arxiv.org/abs/2506.19585)|null|
+|**2025-06-24**|**MambaOutRS: A Hybrid CNN-Fourier Architecture for Remote Sensing Image Classification**|Minjong Cheon et.al.|[2506.19561](http://arxiv.org/abs/2506.19561)|null|
+|**2025-06-24**|**ReMAR-DS: Recalibrated Feature Learning for Metal Artifact Reduction and CT Domain Transformation**|Mubashara Rehman et.al.|[2506.19531](http://arxiv.org/abs/2506.19531)|null|
+|**2025-06-24**|**Physics-Informed Neural Networks for Industrial Gas Turbines: Recent Trends, Advancements and Challenges**|Afila Ajithkumar Sophiya et.al.|[2506.19503](http://arxiv.org/abs/2506.19503)|null|
+|**2025-06-24**|**COLUR: Confidence-Oriented Learning, Unlearning and Relearning with Noisy-Label Data for Model Restoration and Refinement**|Zhihao Sui et.al.|[2506.19496](http://arxiv.org/abs/2506.19496)|null|
+|**2025-06-24**|**Stylized Structural Patterns for Improved Neural Network Pre-training**|Farnood Salehi et.al.|[2506.19465](http://arxiv.org/abs/2506.19465)|null|
+|**2025-06-24**|**Assessing Risk of Stealing Proprietary Models for Medical Imaging Tasks**|Ankita Raj et.al.|[2506.19464](http://arxiv.org/abs/2506.19464)|null|
+|**2025-06-24**|**Loss functions incorporating auditory spatial perception in deep learning -- a review**|Boaz Rafaely et.al.|[2506.19404](http://arxiv.org/abs/2506.19404)|null|
+|**2025-06-24**|**Reconsidering Explicit Longitudinal Mammography Alignment for Enhanced Breast Cancer Risk Prediction**|Solveig Thrun et.al.|[2506.19363](http://arxiv.org/abs/2506.19363)|null|
+|**2025-06-24**|**Adversarial Attacks on Deep Learning-Based False Data Injection Detection in Differential Relays**|Ahmad Mohammad Saber et.al.|[2506.19302](http://arxiv.org/abs/2506.19302)|null|
+|**2025-06-24**|**Efficient Extreme Operating Condition Search for Online Relay Setting Calculation in Renewable Power Systems Based on Parallel Graph Neural Network**|Yan Li et.al.|[2506.19289](http://arxiv.org/abs/2506.19289)|null|
+|**2025-06-24**|**Automated Image Recognition Framework**|Quang-Binh Nguyen et.al.|[2506.19261](http://arxiv.org/abs/2506.19261)|null|
+|**2025-06-24**|**Ancient Script Image Recognition and Processing: A Review**|Xiaolei Diao et.al.|[2506.19208](http://arxiv.org/abs/2506.19208)|null|
+|**2025-06-23**|**PRISM: Perceptual Recognition for Identifying Standout Moments in Human-Centric Keyframe Extraction**|Mert Can Cakmak et.al.|[2506.19168](http://arxiv.org/abs/2506.19168)|null|
+|**2025-06-23**|**A Deep Learning Based Method for Fast Registration of Cardiac Magnetic Resonance Images**|Benjamin Graham et.al.|[2506.19167](http://arxiv.org/abs/2506.19167)|null|
+|**2025-06-23**|**A Fourier Explanation of AI-music Artifacts**|Darius Afchar et.al.|[2506.19108](http://arxiv.org/abs/2506.19108)|null|
+|**2025-06-23**|**Staining normalization in histopathology: Method benchmarking using multicenter dataset**|Umair Khan et.al.|[2506.19106](http://arxiv.org/abs/2506.19106)|null|
+|**2025-06-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Christoph Willibald et.al.|[2506.19077](http://arxiv.org/abs/2506.19077)|null|
+|**2025-06-23**|**Which Company Adjustment Matter? Insights from Uplift Modeling on Financial Health**|Xinlin Wang et.al.|[2506.19049](http://arxiv.org/abs/2506.19049)|null|
+|**2025-06-23**|**Failure Modes of Time Series Interpretability Algorithms for Critical Care Applications and Potential Solutions**|Shashank Yadav et.al.|[2506.19035](http://arxiv.org/abs/2506.19035)|null|
+|**2025-06-23**|**Automating Traffic Monitoring with SHM Sensor Networks via Vision-Supervised Deep Learning**|Hanshuo Wu et.al.|[2506.19023](http://arxiv.org/abs/2506.19023)|null|
+|**2025-06-21**|**From Tiny Machine Learning to Tiny Deep Learning: A Survey**|Shriyank Somvanshi et.al.|[2506.18927](http://arxiv.org/abs/2506.18927)|null|
 |**2025-06-23**|**Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures**|Aristotelis Papatheodorou et.al.|[2506.18812](http://arxiv.org/abs/2506.18812)|null|
 |**2025-06-23**|**Frequency-Weighted Training Losses for Phoneme-Level DNN-based Speech Enhancement**|Nasser-Eddine Monir et.al.|[2506.18714](http://arxiv.org/abs/2506.18714)|null|
 |**2025-06-23**|**Partitioning the electronic wave function using deep variational Monte Carlo**|Matěj Mezera et.al.|[2506.18574](http://arxiv.org/abs/2506.18574)|null|
