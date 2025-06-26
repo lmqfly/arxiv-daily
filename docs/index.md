@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -909,7 +909,7 @@ layout: default
 |**2025-05-04**|**Impurity dynamics in a zero-temperature gas**|Umesh Kumar et.al.|[2505.02225](http://arxiv.org/abs/2505.02225)|null|
 |**2025-05-03**|**Performing all-atom molecular dynamics simulations of intrinsically disordered proteins with replica exchange solute tempering**|Jaya Krishna Koneru et.al.|[2505.01860](http://arxiv.org/abs/2505.01860)|**[link](https://github.com/paulrobustelli/idp_rest_tutorial)**|
 |**2025-05-02**|**Elucidating the role of ribosomal A1493 in stabilization and rigid support for the codon-anticodon helix from molecular dynamics simulations**|Shuhao Zhang et.al.|[2505.01327](http://arxiv.org/abs/2505.01327)|null|
-|**2025-05-02**|**Characterizing the embedded states of a fluorescent probe within a lipid bilayer using molecular dynamics simulations**|Ryo Okabe et.al.|[2505.00403](http://arxiv.org/abs/2505.00403)|null|
+|**2025-06-25**|**Characterizing the embedded states of a fluorescent probe within a lipid bilayer using molecular dynamics simulations**|Ryo Okabe et.al.|[2505.00403](http://arxiv.org/abs/2505.00403)|null|
 |**2025-05-01**|**Size-Dependent Tensile Behavior and Dislocation Dynamics in Cu and Ag Nanowires: A Molecular Dynamics Study**|Xiaorui Hu et.al.|[2505.00401](http://arxiv.org/abs/2505.00401)|null|
 |**2025-05-01**|**Site-Percolation-Driven Ionic Conductivity in Random Substitutional Crystal**|Rikuya Ishikawa et.al.|[2505.00362](http://arxiv.org/abs/2505.00362)|null|
 |**2025-05-01**|**PYSED: A tool for extracting kinetic-energy-weighted phonon dispersion and lifetime from molecular dynamics simulations**|Ting Liang et.al.|[2505.00353](http://arxiv.org/abs/2505.00353)|null|
@@ -1757,7 +1757,7 @@ layout: default
 |**2025-06-21**|**Enhancing Stress-Strain Predictions with Seq2Seq and Cross-Attention based on Small Punch Test**|Zhengni Yang et.al.|[2506.17680](http://arxiv.org/abs/2506.17680)|null|
 |**2025-06-21**|**May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs**|Shaoyu Yang et.al.|[2506.17642](http://arxiv.org/abs/2506.17642)|null|
 |**2025-06-21**|**Deep Learning Framework Testing via Model Mutation: How Far Are We?**|Yanzhou Mu et.al.|[2506.17638](http://arxiv.org/abs/2506.17638)|null|
-|**2025-06-21**|**Scalable Machine Learning Algorithms using Path Signatures**|Csaba Tóth et.al.|[2506.17634](http://arxiv.org/abs/2506.17634)|null|
+|**2025-06-24**|**Scalable Machine Learning Algorithms using Path Signatures**|Csaba Tóth et.al.|[2506.17634](http://arxiv.org/abs/2506.17634)|null|
 |**2025-06-21**|**LLM-Prompt: Integrated Heterogeneous Prompts for Unlocking LLMs in Time Series Forecasting**|Zesen Wang et.al.|[2506.17631](http://arxiv.org/abs/2506.17631)|null|
 |**2025-06-21**|**Exploiting Efficiency Vulnerabilities in Dynamic Deep Learning Systems**|Ravishka Rathnasuriya et.al.|[2506.17621](http://arxiv.org/abs/2506.17621)|null|
 |**2025-06-21**|**Trustworthy Chronic Disease Risk Prediction For Self-Directed Preventive Care via Medical Literature Validation**|Minh Le et.al.|[2506.17620](http://arxiv.org/abs/2506.17620)|null|
@@ -1778,7 +1778,7 @@ layout: default
 |**2025-06-20**|**A Neural Operator based Hybrid Microscale Model for Multiscale Simulation of Rate-Dependent Materials**|Dhananjeyan Jeyaraj et.al.|[2506.16918](http://arxiv.org/abs/2506.16918)|**[link](https://github.com/dhananjeyan-github/hybrid-ai-model-for-rate-dependent-simulations)**|
 |**2025-06-20**|**RCNet: $ΔΣ$ IADCs as Recurrent AutoEncoders**|Arnaud Verdant et.al.|[2506.16903](http://arxiv.org/abs/2506.16903)|null|
 |**2025-06-24**|**RS-Coded Adaptive Dynamic Network for Reliable Long-Term Information Transmission in Disturbed Multimode Fiber**|Yang Hu et.al.|[2506.16859](http://arxiv.org/abs/2506.16859)|null|
-|**2025-06-20**|**TabArena: A Living Benchmark for Machine Learning on Tabular Data**|Nick Erickson et.al.|[2506.16791](http://arxiv.org/abs/2506.16791)|null|
+|**2025-06-25**|**TabArena: A Living Benchmark for Machine Learning on Tabular Data**|Nick Erickson et.al.|[2506.16791](http://arxiv.org/abs/2506.16791)|null|
 |**2025-06-23**|**TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration**|Xiaoyu Shi et.al.|[2506.16784](http://arxiv.org/abs/2506.16784)|**[link](https://github.com/jupitern52/textbrats)**|
 |**2025-06-20**|**Mesh-Informed Neural Operator : A Transformer Generative Approach**|Yaozhong Shi et.al.|[2506.16656](http://arxiv.org/abs/2506.16656)|**[link](https://github.com/yzshi5/mino)**|
 |**2025-06-19**|**Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures**|Vijay Prakash Dwivedi et.al.|[2506.16654](http://arxiv.org/abs/2506.16654)|null|
@@ -13741,7 +13741,7 @@ layout: default
 |**2024-12-12**|**Geometric Deep Learning for Realized Covariance Matrix Forecasting**|Andrea Bucci et.al.|[2412.09517](http://arxiv.org/abs/2412.09517)|**[link](https://github.com/C4ntor/GeoHAR-SPDNet)**|
 |**2024-12-10**|**Non-Progressive Influence Maximization in Dynamic Social Networks**|Yunming Hui et.al.|[2412.07402](http://arxiv.org/abs/2412.07402)|null|
 |**2024-12-06**|**Rethink Deep Learning with Invariance in Data Representation**|Shuren Qi et.al.|[2412.04858](http://arxiv.org/abs/2412.04858)|null|
-|**2024-11-19**|**E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting**|Madhurima Panja et.al.|[2411.12258](http://arxiv.org/abs/2411.12258)|null|
+|**2025-06-25**|**E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting**|Madhurima Panja et.al.|[2411.12258](http://arxiv.org/abs/2411.12258)|null|
 |**2024-11-28**|**SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG**|Shanglin Li et.al.|[2411.07249](http://arxiv.org/abs/2411.07249)|null|
 |**2024-11-18**|**A Multimodal Adaptive Graph-based Intelligent Classification Model for Fake News**|Jun-hao et.al.|[2411.06097](http://arxiv.org/abs/2411.06097)|null|
 |**2024-11-07**|**Equivariant Graph Attention Networks with Structural Motifs for Predicting Cell Line-Specific Synergistic Drug Combinations**|Zachary Schwehr et.al.|[2411.04747](http://arxiv.org/abs/2411.04747)|**[link](https://github.com/wetothemoon/egat_drugsynergy)**|
