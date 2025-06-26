@@ -380,6 +380,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Scalable and Cost-Efficient de Novo Template-Based Molecular Generation**|Piotr Gaiński et.al.|[2506.19865](http://arxiv.org/abs/2506.19865)|null|
 |**2025-06-23**|**Controlled Generation with Equivariant Variational Flow Matching**|Floor Eijkelboom et.al.|[2506.18340](http://arxiv.org/abs/2506.18340)|null|
 |**2025-06-19**|**Revisiting Sampling Strategies for Molecular Generation**|Yuyan Ni et.al.|[2506.17340](http://arxiv.org/abs/2506.17340)|null|
 |**2025-06-06**|**Graph Diffusion that can Insert and Delete**|Matteo Ninniri et.al.|[2506.15725](http://arxiv.org/abs/2506.15725)|null|
@@ -817,6 +818,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**STable AutoCorrelation Integral Estimator (STACIE): Robust and accurate transport properties from molecular dynamics simulations**|Gözdenur Toraman et.al.|[2506.20438](http://arxiv.org/abs/2506.20438)|null|
+|**2025-06-25**|**Shape-determined kinetic pathways in two-dimensional solid-solid phase transitions**|Ruijian Zhu et.al.|[2506.20423](http://arxiv.org/abs/2506.20423)|null|
+|**2025-06-25**|**Graphene structure modification under tritium exposure: 3H chemisorption dominates over defect formation by \b{eta}-radiation**|Alexandra Becker et.al.|[2506.20304](http://arxiv.org/abs/2506.20304)|null|
+|**2025-06-25**|**Slip-flow theory for thermo-osmosis based on a kinetic model with near-wall potential**|Tetsuro Tsuji et.al.|[2506.20229](http://arxiv.org/abs/2506.20229)|null|
 |**2025-06-24**|**Operator Forces For Coarse-Grained Molecular Dynamics**|Leon Klein et.al.|[2506.19628](http://arxiv.org/abs/2506.19628)|null|
 |**2025-06-23**|**Challenges and opportunities in piezoelectric polymers: Effect of oriented amorphous fraction in ferroelectric semicrystalline polymers**|Guanchun Rui et.al.|[2506.18722](http://arxiv.org/abs/2506.18722)|null|
 |**2025-06-23**|**Doping-induced Polyamorphic Transitions in Fluorite Oxides**|Hao Yang et.al.|[2506.18333](http://arxiv.org/abs/2506.18333)|null|
@@ -1682,6 +1687,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Disentangled representations of microscopy images**|Jacopo Dapueto et.al.|[2506.20649](http://arxiv.org/abs/2506.20649)|null|
+|**2025-06-25**|**Weighted Mean Frequencies: a handcraft Fourier feature for 4D Flow MRI segmentation**|Simon Perrin et.al.|[2506.20614](http://arxiv.org/abs/2506.20614)|null|
+|**2025-06-25**|**Deciphering GunType Hierarchy through Acoustic Analysis of Gunshot Recordings**|Ankit Shah et.al.|[2506.20609](http://arxiv.org/abs/2506.20609)|null|
+|**2025-06-25**|**Learning-Based Distance Estimation for 360° Single-Sensor Setups**|Yitong Quan et.al.|[2506.20586](http://arxiv.org/abs/2506.20586)|null|
+|**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575](http://arxiv.org/abs/2506.20575)|null|
+|**2025-06-25**|**Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks**|Manyi Li et.al.|[2506.20548](http://arxiv.org/abs/2506.20548)|null|
+|**2025-06-25**|**AI-assisted radiographic analysis in detecting alveolar bone-loss severity and patterns**|Chathura Wimalasiri et.al.|[2506.20522](http://arxiv.org/abs/2506.20522)|null|
+|**2025-06-25**|**Fast ground penetrating radar dual-parameter full waveform inversion method accelerated by hybrid compilation of CUDA kernel function and PyTorch**|Lei Liu et.al.|[2506.20513](http://arxiv.org/abs/2506.20513)|null|
+|**2025-06-25**|**BotHash: Efficient and Training-Free Bot Detection Through Approximate Nearest Neighbor**|Edoardo Di Paolo et.al.|[2506.20503](http://arxiv.org/abs/2506.20503)|null|
+|**2025-06-25**|**Multimodal Representation Learning and Fusion**|Qihang Jin et.al.|[2506.20494](http://arxiv.org/abs/2506.20494)|null|
+|**2025-06-25**|**A Deep Learning Approach to Identify Rock Bolts in Complex 3D Point Clouds of Underground Mines Captured Using Mobile Laser Scanners**|Dibyayan Patra et.al.|[2506.20464](http://arxiv.org/abs/2506.20464)|null|
+|**2025-06-25**|**Fusing Radiomic Features with Deep Representations for Gestational Age Estimation in Fetal Ultrasound Images**|Fangyijie Wang et.al.|[2506.20407](http://arxiv.org/abs/2506.20407)|null|
+|**2025-06-25**|**A Novel Large Vision Foundation Model (LVFM)-based Approach for Generating High-Resolution Canopy Height Maps in Plantations for Precision Forestry Management**|Shen Tan et.al.|[2506.20388](http://arxiv.org/abs/2506.20388)|null|
+|**2025-06-25**|**InvZW: Invariant Feature Learning via Noise-Adversarial Training for Robust Image Zero-Watermarking**|Abdullah All Tanvir et.al.|[2506.20370](http://arxiv.org/abs/2506.20370)|null|
+|**2025-06-25**|**On the ability of Deep Neural Networks to Learn Granger Causality in Multi-Variate Time Series Data**|Malik Shahid Sultan et.al.|[2506.20347](http://arxiv.org/abs/2506.20347)|null|
+|**2025-06-25**|**Comparative Analysis of Deep Learning Models for Crop Disease Detection: A Transfer Learning Approach**|Saundarya Subramaniam et.al.|[2506.20323](http://arxiv.org/abs/2506.20323)|null|
+|**2025-06-25**|**Deep random difference method for high dimensional quasilinear parabolic partial differential equations**|Wei Cai et.al.|[2506.20308](http://arxiv.org/abs/2506.20308)|null|
+|**2025-06-25**|**Radiomic fingerprints for knee MR images assessment**|Yaxi Chen et.al.|[2506.20306](http://arxiv.org/abs/2506.20306)|null|
+|**2025-06-25**|**FundaQ-8: A Clinically-Inspired Scoring Framework for Automated Fundus Image Quality Assessment**|Lee Qi Zun et.al.|[2506.20303](http://arxiv.org/abs/2506.20303)|null|
+|**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302](http://arxiv.org/abs/2506.20302)|null|
+|**2025-06-25**|**Opportunistic Osteoporosis Diagnosis via Texture-Preserving Self-Supervision, Mixture of Experts and Multi-Task Integration**|Jiaxing Huang et.al.|[2506.20282](http://arxiv.org/abs/2506.20282)|null|
+|**2025-06-25**|**Forensic Study of Paintings Through the Comparison of Fabrics**|Juan José Murillo-Fuentes et.al.|[2506.20272](http://arxiv.org/abs/2506.20272)|null|
+|**2025-06-25**|**Directed Link Prediction using GNN with Local and Global Feature Fusion**|Yuyang Zhang et.al.|[2506.20235](http://arxiv.org/abs/2506.20235)|null|
+|**2025-06-25**|**Progressive Alignment Degradation Learning for Pansharpening**|Enzhe Zhao et.al.|[2506.20179](http://arxiv.org/abs/2506.20179)|null|
+|**2025-06-25**|**A Survey of Predictive Maintenance Methods: An Analysis of Prognostics via Classification and Regression**|Ainaz Jamshidi et.al.|[2506.20090](http://arxiv.org/abs/2506.20090)|null|
+|**2025-06-25**|**Photon Absorption Remote Sensing (PARS): Comprehensive Absorption Imaging Enabling Label-Free Biomolecule Characterization and Mapping**|Benjamin R. Ecclestone et.al.|[2506.20069](http://arxiv.org/abs/2506.20069)|null|
+|**2025-06-24**|**Supervised Coupled Matrix-Tensor Factorization (SCMTF) for Computational Phenotyping of Patient Reported Outcomes in Ulcerative Colitis**|Cristian Minoccheri et.al.|[2506.20065](http://arxiv.org/abs/2506.20065)|null|
+|**2025-06-24**|**PocketVina Enables Scalable and Highly Accurate Physically Valid Docking through Multi-Pocket Conditioning**|Ahmet Sarigun et.al.|[2506.20043](http://arxiv.org/abs/2506.20043)|null|
+|**2025-06-24**|**Neuromorphic Wireless Split Computing with Resonate-and-Fire Neurons**|Dengyu Wu et.al.|[2506.20015](http://arxiv.org/abs/2506.20015)|null|
+|**2025-06-24**|**Revisiting R: Statistical Envelope Analysis for Lightweight RF Modulation Classification**|Srinivas Rahul Sapireddy et.al.|[2506.19956](http://arxiv.org/abs/2506.19956)|null|
+|**2025-06-24**|**A Comparative Analysis of Reinforcement Learning and Conventional Deep Learning Approaches for Bearing Fault Diagnosis**|Efe Çakır et.al.|[2506.19929](http://arxiv.org/abs/2506.19929)|null|
+|**2025-06-23**|**Physics-Guided Radiotherapy Treatment Planning with Deep Learning**|Stefanos Achlatis et.al.|[2506.19880](http://arxiv.org/abs/2506.19880)|null|
 |**2025-06-24**|**A Comparative Study of NAFNet Baselines for Image Restoration**|Vladislav Esaulov et.al.|[2506.19845](http://arxiv.org/abs/2506.19845)|null|
 |**2025-06-24**|**Convolution-weighting method for the physics-informed neural network: A Primal-Dual Optimization Perspective**|Chenhao Si et.al.|[2506.19805](http://arxiv.org/abs/2506.19805)|null|
 |**2025-06-24**|**Systematic Review of Pituitary Gland and Pituitary Adenoma Automatic Segmentation Techniques in Magnetic Resonance Imaging**|Mubaraq Yakubu et.al.|[2506.19797](http://arxiv.org/abs/2506.19797)|null|
