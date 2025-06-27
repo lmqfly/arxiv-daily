@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Antibody Design and Optimization with Multi-scale Equivariant Graph Diffusion Models for Accurate Complex Antigen Binding**|Jiameng Chen et.al.|[2506.20957](http://arxiv.org/abs/2506.20957)|null|
 |**2025-06-03**|**Graph Neural Networks in Multi-Omics Cancer Research: A Structured Survey**|Payam Zohari et.al.|[2506.17234](http://arxiv.org/abs/2506.17234)|null|
 |**2025-06-19**|**Geometric deep learning assists protein engineering. Opportunities and Challenges**|Julián García-Vinuesa et.al.|[2506.16091](http://arxiv.org/abs/2506.16091)|null|
 |**2025-06-17**|**Beyond Force Metrics: Pre-Training MLFFs for Stable MD Simulations**|Shagun Maheshwari et.al.|[2506.14850](http://arxiv.org/abs/2506.14850)|null|
@@ -380,6 +381,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Diverse Mini-Batch Selection in Reinforcement Learning for Efficient Chemical Exploration in de novo Drug Design**|Hampus Gummesson Svensson et.al.|[2506.21158](http://arxiv.org/abs/2506.21158)|null|
 |**2025-06-10**|**Scalable and Cost-Efficient de Novo Template-Based Molecular Generation**|Piotr Gaiński et.al.|[2506.19865](http://arxiv.org/abs/2506.19865)|null|
 |**2025-06-23**|**Controlled Generation with Equivariant Variational Flow Matching**|Floor Eijkelboom et.al.|[2506.18340](http://arxiv.org/abs/2506.18340)|null|
 |**2025-06-19**|**Revisiting Sampling Strategies for Molecular Generation**|Yuyan Ni et.al.|[2506.17340](http://arxiv.org/abs/2506.17340)|null|
@@ -603,6 +605,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**TRIDENT: Tri-Modal Molecular Representation Learning with Taxonomic Annotations and Local Correspondence**|Feng Jiang et.al.|[2506.21028](http://arxiv.org/abs/2506.21028)|null|
 |**2025-06-18**|**Descriptor-based Foundation Models for Molecular Property Prediction**|Jackson Burns et.al.|[2506.15792](http://arxiv.org/abs/2506.15792)|null|
 |**2025-06-13**|**Robust Molecular Property Prediction via Densifying Scarce Labeled Data**|Jina Kim et.al.|[2506.11877](http://arxiv.org/abs/2506.11877)|null|
 |**2025-06-10**|**BioLangFusion: Multimodal Fusion of DNA, mRNA, and Protein Language Models**|Amina Mollaysa et.al.|[2506.08936](http://arxiv.org/abs/2506.08936)|null|
@@ -818,6 +821,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Bridging Classical Molecular Dynamics and Quantum Foundations for Comprehensive Protein Structural Analysis**|Don Roosan et.al.|[2506.20830](http://arxiv.org/abs/2506.20830)|null|
 |**2025-06-25**|**STable AutoCorrelation Integral Estimator (STACIE): Robust and accurate transport properties from molecular dynamics simulations**|Gözdenur Toraman et.al.|[2506.20438](http://arxiv.org/abs/2506.20438)|null|
 |**2025-06-25**|**Shape-determined kinetic pathways in two-dimensional solid-solid phase transitions**|Ruijian Zhu et.al.|[2506.20423](http://arxiv.org/abs/2506.20423)|null|
 |**2025-06-25**|**Graphene structure modification under tritium exposure: 3H chemisorption dominates over defect formation by \b{eta}-radiation**|Alexandra Becker et.al.|[2506.20304](http://arxiv.org/abs/2506.20304)|null|
@@ -1687,6 +1691,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Lightweight Physics-Informed Zero-Shot Ultrasound Plane Wave Denoising**|Hojat Asgariandehkordi et.al.|[2506.21499](http://arxiv.org/abs/2506.21499)|null|
+|**2025-06-26**|**A Comprehensive Dataset for Underground Miner Detection in Diverse Scenario**|Cyrus Addy et.al.|[2506.21451](http://arxiv.org/abs/2506.21451)|null|
+|**2025-06-26**|**Benchmarking Deep Learning and Vision Foundation Models for Atypical vs. Normal Mitosis Classification with Cross-Dataset Evaluation**|Sweta Banerjee et.al.|[2506.21444](http://arxiv.org/abs/2506.21444)|null|
+|**2025-06-26**|**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**|Colin Samplawski et.al.|[2506.21408](http://arxiv.org/abs/2506.21408)|null|
+|**2025-06-26**|**Hybrid Deep Learning and Signal Processing for Arabic Dialect Recognition in Low-Resource Settings**|Ghazal Al-Shwayyat et.al.|[2506.21386](http://arxiv.org/abs/2506.21386)|null|
+|**2025-06-26**|**High-quality metalens enables minimally invasive CFB endoscopy**|Ruixiang Song et.al.|[2506.21379](http://arxiv.org/abs/2506.21379)|null|
+|**2025-06-26**|**A Hierarchical Deep Learning Approach for Minority Instrument Detection**|Dylan Sechet et.al.|[2506.21167](http://arxiv.org/abs/2506.21167)|null|
+|**2025-06-26**|**Mapping intratumoral heterogeneity through PET-derived washout and deep learning after proton therapy**|Pablo Cabrales et.al.|[2506.21153](http://arxiv.org/abs/2506.21153)|null|
+|**2025-06-26**|**Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels**|Aida Moafi et.al.|[2506.21151](http://arxiv.org/abs/2506.21151)|null|
+|**2025-06-26**|**Pushing Trade-Off Boundaries: Compact yet Effective Remote Sensing Change Detection**|Luosheng Xu et.al.|[2506.21109](http://arxiv.org/abs/2506.21109)|null|
+|**2025-06-26**|**Interpretable Hierarchical Concept Reasoning through Attention-Guided Graph Learning**|David Debot et.al.|[2506.21102](http://arxiv.org/abs/2506.21102)|null|
+|**2025-06-26**|**ESMStereo: Enhanced ShuffleMixer Disparity Upsampling for Real-Time and Accurate Stereo Matching**|Mahmoud Tahmasebi et.al.|[2506.21091](http://arxiv.org/abs/2506.21091)|null|
+|**2025-06-26**|**PeakNetFP: Peak-based Neural Audio Fingerprinting Robust to Extreme Time Stretching**|Guillem Cortès-Sebastià et.al.|[2506.21086](http://arxiv.org/abs/2506.21086)|null|
+|**2025-06-26**|**CovDocker: Benchmarking Covalent Drug Design with Tasks, Datasets, and Solutions**|Yangzhe Peng et.al.|[2506.21085](http://arxiv.org/abs/2506.21085)|null|
+|**2025-06-26**|**Boosting Vulnerability Detection with Inter-function Multilateral Association Insights**|Shaojian Qiu et.al.|[2506.21014](http://arxiv.org/abs/2506.21014)|null|
+|**2025-06-26**|**Detection of Breast Cancer Lumpectomy Margin with SAM-incorporated Forward-Forward Contrastive Learning**|Tyler Ward et.al.|[2506.21006](http://arxiv.org/abs/2506.21006)|null|
+|**2025-06-26**|**Evidence-based diagnostic reasoning with multi-agent copilot for human pathology**|Chengkuan Chen et.al.|[2506.20964](http://arxiv.org/abs/2506.20964)|null|
+|**2025-06-26**|**Antibody Design and Optimization with Multi-scale Equivariant Graph Diffusion Models for Accurate Complex Antigen Binding**|Jiameng Chen et.al.|[2506.20957](http://arxiv.org/abs/2506.20957)|null|
+|**2025-06-26**|**Forecasting Geopolitical Events with a Sparse Temporal Fusion Transformer and Gaussian Process Hybrid: A Case Study in Middle Eastern and U.S. Conflict Dynamics**|Hsin-Hsiung Huang et.al.|[2506.20935](http://arxiv.org/abs/2506.20935)|null|
+|**2025-06-26**|**M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization**|Ju-Hyeon Nam et.al.|[2506.20922](http://arxiv.org/abs/2506.20922)|null|
+|**2025-06-26**|**Explainable AI for Radar Resource Management: Modified LIME in Deep Reinforcement Learning**|Ziyang Lu et.al.|[2506.20916](http://arxiv.org/abs/2506.20916)|null|
+|**2025-06-26**|**The Role of Cyclopean-Eye in Stereo Vision**|Sherlon Almeida da Silva et.al.|[2506.20900](http://arxiv.org/abs/2506.20900)|null|
+|**2025-06-26**|**Development of MR spectral analysis method robust against static magnetic field inhomogeneity**|Shuki Maruyama et.al.|[2506.20897](http://arxiv.org/abs/2506.20897)|null|
+|**2025-06-25**|**How do Foundation Models Compare to Skeleton-Based Approaches for Gesture Recognition in Human-Robot Interaction?**|Stephanie Käs et.al.|[2506.20795](http://arxiv.org/abs/2506.20795)|null|
+|**2025-06-25**|**Development and in silico imaging trial evaluation of a deep-learning-based transmission-less attenuation compensation method for DaT SPECT**|Zitong Yu et.al.|[2506.20781](http://arxiv.org/abs/2506.20781)|null|
+|**2025-06-25**|**inMOTIFin: a lightweight end-to-end simulation software for regulatory sequences**|Katalin Ferenc et.al.|[2506.20769](http://arxiv.org/abs/2506.20769)|null|
+|**2025-06-25**|**E-ABIN: an Explainable module for Anomaly detection in BIological Networks**|Ugo Lomoio et.al.|[2506.20693](http://arxiv.org/abs/2506.20693)|null|
+|**2025-06-25**|**U-R-VEDA: Integrating UNET, Residual Links, Edge and Dual Attention, and Vision Transformer for Accurate Semantic Segmentation of CMRs**|Racheal Mukisa et.al.|[2506.20689](http://arxiv.org/abs/2506.20689)|null|
 |**2025-06-25**|**Disentangled representations of microscopy images**|Jacopo Dapueto et.al.|[2506.20649](http://arxiv.org/abs/2506.20649)|null|
 |**2025-06-25**|**Weighted Mean Frequencies: a handcraft Fourier feature for 4D Flow MRI segmentation**|Simon Perrin et.al.|[2506.20614](http://arxiv.org/abs/2506.20614)|null|
 |**2025-06-25**|**Deciphering GunType Hierarchy through Acoustic Analysis of Gunshot Recordings**|Ankit Shah et.al.|[2506.20609](http://arxiv.org/abs/2506.20609)|null|
@@ -13744,6 +13776,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Antibody Design and Optimization with Multi-scale Equivariant Graph Diffusion Models for Accurate Complex Antigen Binding**|Jiameng Chen et.al.|[2506.20957](http://arxiv.org/abs/2506.20957)|null|
 |**2025-06-09**|**AI to Identify Strain-sensitive Regions of the Optic Nerve Head Linked to Functional Loss in Glaucoma**|Thanadet Chuangsuwanich et.al.|[2506.17262](http://arxiv.org/abs/2506.17262)|null|
 |**2025-06-19**|**Geometric deep learning assists protein engineering. Opportunities and Challenges**|Julián García-Vinuesa et.al.|[2506.16091](http://arxiv.org/abs/2506.16091)|null|
 |**2025-06-10**|**Rapid cardiac activation prediction for cardiac resynchronization therapy planning using geometric deep learning**|Ehsan Naghavi et.al.|[2506.08987](http://arxiv.org/abs/2506.08987)|**[link](https://github.com/ehsanngh/DeepCardioSim)**|
