@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1774,7 +1774,7 @@ layout: default
 |**2025-06-23**|**ThermalLoc: A Vision Transformer-Based Approach for Robust Thermal Camera Relocalization in Large-Scale Environments**|Yu Liu et.al.|[2506.18268](http://arxiv.org/abs/2506.18268)|null|
 |**2025-06-23**|**Learning Approach to Efficient Vision-based Active Tracking of a Flying Target by an Unmanned Aerial Vehicle**|Jagadeswara PKV Pothuri et.al.|[2506.18264](http://arxiv.org/abs/2506.18264)|null|
 |**2025-06-23**|**Metasurface-empowered freely-arrangeable multi-task diffractive neural networks with weighted training**|Yudong Tian et.al.|[2506.18242](http://arxiv.org/abs/2506.18242)|null|
-|**2025-06-23**|**These are Not All the Features You are Looking For: A Fundamental Bottleneck In Supervised Pretraining**|Xingyu Alice Yang et.al.|[2506.18221](http://arxiv.org/abs/2506.18221)|null|
+|**2025-06-26**|**These Are Not All the Features You Are Looking For: A Fundamental Bottleneck in Supervised Pretraining**|Xingyu Alice Yang et.al.|[2506.18221](http://arxiv.org/abs/2506.18221)|null|
 |**2025-06-22**|**Deep Learning-based Alignment Measurement in Knee Radiographs**|Zhisen Hu et.al.|[2506.18209](http://arxiv.org/abs/2506.18209)|null|
 |**2025-06-22**|**DExNet: Combining Observations of Domain Adapted Critics for Leaf Disease Classification with Limited Data**|Sabbir Ahmed et.al.|[2506.18173](http://arxiv.org/abs/2506.18173)|null|
 |**2025-06-22**|**STACT-Time: Spatio-Temporal Cross Attention for Cine Thyroid Ultrasound Time Series Classification**|Irsyad Adam et.al.|[2506.18172](http://arxiv.org/abs/2506.18172)|null|
