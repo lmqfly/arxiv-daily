@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -62,7 +62,7 @@ layout: default
 |**2025-02-09**|**LLMs for Drug-Drug Interaction Prediction: A Comprehensive Comparison**|Gabriele De Vito et.al.|[2502.06890](http://arxiv.org/abs/2502.06890)|null|
 |**2025-02-03**|**Docking-Aware Attention: Dynamic Protein Representations through Molecular Context Integration**|Amitay Sicherman et.al.|[2502.01461](http://arxiv.org/abs/2502.01461)|null|
 |**2025-02-02**|**Emamectin benzoate sensing using vivianenes (2D vivianites)**|Surbhi Slathia et.al.|[2502.00813](http://arxiv.org/abs/2502.00813)|null|
-|**2025-01-31**|**Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration**|Paul Fuchs et.al.|[2501.19179](http://arxiv.org/abs/2501.19179)|null|
+|**2025-06-27**|**Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration**|Paul Fuchs et.al.|[2501.19179](http://arxiv.org/abs/2501.19179)|null|
 |**2025-02-06**|**ReactEmbed: A Cross-Domain Framework for Protein-Molecule Representation Learning via Biochemical Reaction Networks**|Amitay Sicherman et.al.|[2501.18278](http://arxiv.org/abs/2501.18278)|**[link](https://github.com/amitaysicherman/reactembed)**|
 |**2025-01-28**|**Bridging spatial and temporal scales of developmental gene regulation**|Andrés H. Cardona et.al.|[2501.16799](http://arxiv.org/abs/2501.16799)|null|
 |**2025-03-27**|**Inductive-Associative Meta-learning Pipeline with Human Cognitive Patterns for Unseen Drug-Target Interaction Prediction**|Xiaoqing Lian et.al.|[2501.16391](http://arxiv.org/abs/2501.16391)|**[link](https://github.com/lian-xiao/biobridge)**|
@@ -890,7 +890,7 @@ layout: default
 |**2025-05-21**|**Entropy exchange in an inter-correlating binary quasi-classical system: Concept of entropy-bath accelerated molecular dynamics**|Projesh Kumar Roy et.al.|[2505.15474](http://arxiv.org/abs/2505.15474)|null|
 |**2025-05-21**|**Bonding relay for room-temperature oxide plasticity like metals**|Xiangkai Chen et.al.|[2505.15266](http://arxiv.org/abs/2505.15266)|null|
 |**2025-05-20**|**Structural States of Filamentary Microgravity Dusty Plasma**|Emerson Gehr et.al.|[2505.14576](http://arxiv.org/abs/2505.14576)|null|
-|**2025-05-20**|**Pressure Waves During Granular Flows in Varying Gravity Environments**|Abigail Tadlock et.al.|[2505.14525](http://arxiv.org/abs/2505.14525)|null|
+|**2025-06-27**|**Pressure Waves During Granular Flows in Varying Gravity Environments**|Abigail Tadlock et.al.|[2505.14525](http://arxiv.org/abs/2505.14525)|null|
 |**2025-05-20**|**Influence of active breathing on rheology and jamming of amorphous solids: insights from microscopic and mesoscale analysis**|Sayantan Ghosh et.al.|[2505.14520](http://arxiv.org/abs/2505.14520)|null|
 |**2025-05-19**|**Early Stages of Self-Healing at Tungsten Grain Boundaries from Ab Initio Machine Learning Simulations**|Jorge Suárez-Recio et.al.|[2505.13744](http://arxiv.org/abs/2505.13744)|null|
 |**2025-05-19**|**Lattice thermal conductivity of 16 elemental metals from molecular dynamics simulations with a unified neuroevolution potential**|Shuo Cao et.al.|[2505.13179](http://arxiv.org/abs/2505.13179)|null|
