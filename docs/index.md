@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning**|Mingcheng Qu et.al.|[2506.23827](http://arxiv.org/abs/2506.23827)|null|
 |**2025-06-26**|**Antibody Design and Optimization with Multi-scale Equivariant Graph Diffusion Models for Accurate Complex Antigen Binding**|Jiameng Chen et.al.|[2506.20957](http://arxiv.org/abs/2506.20957)|null|
 |**2025-06-03**|**Graph Neural Networks in Multi-Omics Cancer Research: A Structured Survey**|Payam Zohari et.al.|[2506.17234](http://arxiv.org/abs/2506.17234)|null|
 |**2025-06-19**|**Geometric deep learning assists protein engineering. Opportunities and Challenges**|Julián García-Vinuesa et.al.|[2506.16091](http://arxiv.org/abs/2506.16091)|null|
@@ -821,6 +822,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Deconstructing the Origins of Interfacial Catalysis: Why Electric Fields are Inseparable from Solvation**|Solana Di Pino et.al.|[2506.23988](http://arxiv.org/abs/2506.23988)|null|
+|**2025-06-30**|**Development and validation of an electron temperature-dependent interaction potential for silicon and copper for the use in atomistic simulations of laser ablation**|Simon Kümmel et.al.|[2506.23699](http://arxiv.org/abs/2506.23699)|null|
+|**2025-06-29**|**Band-Gap Tunability in Anharmonic Perovskite-like Semiconductors Driven by Polar Electron-Phonon Coupling**|Pol Benítez et.al.|[2506.23167](http://arxiv.org/abs/2506.23167)|null|
+|**2025-06-28**|**Size-Dependent Tensile Behavior of Nanocrystalline HfNbTaTiZr High-Entropy Alloy: Roles of Solid-Solution and Short-Range Order**|Yihan Wu et.al.|[2506.22822](http://arxiv.org/abs/2506.22822)|null|
 |**2025-06-26**|**Predicting Thermodynamics of Liquid Water from Time Series Analysis**|Małgorzata J. Zimoń et.al.|[2506.21821](http://arxiv.org/abs/2506.21821)|null|
 |**2025-06-24**|**Pressure dependence of liquid iron viscosity from machine-learning molecular dynamics**|Kai Luo et.al.|[2506.21626](http://arxiv.org/abs/2506.21626)|null|
 |**2025-06-25**|**Bridging Classical Molecular Dynamics and Quantum Foundations for Comprehensive Protein Structural Analysis**|Don Roosan et.al.|[2506.20830](http://arxiv.org/abs/2506.20830)|null|
@@ -1693,6 +1698,59 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Scout-Dose-TCM: Direct and Prospective Scout-Based Estimation of Personalized Organ Doses from Tube Current Modulated CT Exams**|Maria Jose Medrano et.al.|[2506.24062](http://arxiv.org/abs/2506.24062)|null|
+|**2025-06-30**|**Supervised Diffusion-Model-Based PET Image Reconstruction**|George Webber et.al.|[2506.24034](http://arxiv.org/abs/2506.24034)|null|
+|**2025-06-30**|**Lock Prediction for Zero-Downtime Database Encryption**|Mohamed Sami Rakha et.al.|[2506.23985](http://arxiv.org/abs/2506.23985)|null|
+|**2025-06-30**|**Toward Simple and Robust Contrastive Explanations for Image Classification by Leveraging Instance Similarity and Concept Relevance**|Yuliia Kaidashova et.al.|[2506.23975](http://arxiv.org/abs/2506.23975)|null|
+|**2025-06-30**|**Leveraging the Potential of Prompt Engineering for Hate Speech Detection in Low-Resource Languages**|Ruhina Tabasshum Prome et.al.|[2506.23930](http://arxiv.org/abs/2506.23930)|null|
+|**2025-06-30**|**Industrial brain: a human-like autonomous neuro-symbolic cognitive decision-making system**|Junping Wang et.al.|[2506.23926](http://arxiv.org/abs/2506.23926)|null|
+|**2025-06-30**|**Three-dimensional end-to-end deep learning for brain MRI analysis**|Radhika Juglan et.al.|[2506.23916](http://arxiv.org/abs/2506.23916)|null|
+|**2025-06-30**|**Accurate Mediterranean Sea forecasting via graph-based deep learning**|Daniel Holmberg et.al.|[2506.23900](http://arxiv.org/abs/2506.23900)|null|
+|**2025-06-30**|**Low-latency vision transformers via large-scale multi-head attention**|Ronit D. Gross et.al.|[2506.23832](http://arxiv.org/abs/2506.23832)|null|
+|**2025-06-30**|**Deep Learning-Based Semantic Segmentation for Real-Time Kidney Imaging and Measurements with Augmented Reality-Assisted Ultrasound**|Gijs Luijten et.al.|[2506.23721](http://arxiv.org/abs/2506.23721)|null|
+|**2025-06-30**|**MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation**|Peiting Tian et.al.|[2506.23700](http://arxiv.org/abs/2506.23700)|null|
+|**2025-06-30**|**GUSL: A Novel and Efficient Machine Learning Model for Prostate Segmentation on MRI**|Jiaxin Yang et.al.|[2506.23688](http://arxiv.org/abs/2506.23688)|null|
+|**2025-06-30**|**Diffusion Model-based Data Augmentation Method for Fetal Head Ultrasound Segmentation**|Fangyijie Wang et.al.|[2506.23664](http://arxiv.org/abs/2506.23664)|null|
+|**2025-06-30**|**Brain Tumor Detection through Thermal Imaging and MobileNET**|Roham Maiti et.al.|[2506.23627](http://arxiv.org/abs/2506.23627)|null|
+|**2025-06-30**|**Wireless Propagation Parameter Estimation with Convolutional Neural Networks**|Steffen Schieler et.al.|[2506.23621](http://arxiv.org/abs/2506.23621)|null|
+|**2025-06-30**|**SG-LDM: Semantic-Guided LiDAR Generation via Latent-Aligned Diffusion**|Zhengkang Xiang et.al.|[2506.23606](http://arxiv.org/abs/2506.23606)|null|
+|**2025-06-30**|**When Test-Time Adaptation Meets Self-Supervised Models**|Jisu Han et.al.|[2506.23529](http://arxiv.org/abs/2506.23529)|null|
+|**2025-06-30**|**Mutli-Level Autoencoder: Deep Learning Based Channel Coding and Modulation**|Ahmad Abdel-Qader et.al.|[2506.23511](http://arxiv.org/abs/2506.23511)|null|
+|**2025-06-30**|**Sample Margin-Aware Recalibration of Temperature Scaling**|Haolan Guo et.al.|[2506.23492](http://arxiv.org/abs/2506.23492)|null|
+|**2025-06-29**|**Data-Driven Multiscale Topology Optimization of Spinodoid Architected Materials with Controllable Anisotropy**|Shiguang Deng et.al.|[2506.23420](http://arxiv.org/abs/2506.23420)|null|
+|**2025-06-29**|**Federated Breast Cancer Detection Enhanced by Synthetic Ultrasound Image Augmentation**|Hongyi Pan et.al.|[2506.23334](http://arxiv.org/abs/2506.23334)|null|
+|**2025-06-29**|**Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction**|Perla Mayo et.al.|[2506.23311](http://arxiv.org/abs/2506.23311)|null|
+|**2025-06-29**|**Not All Explanations for Deep Learning Phenomena Are Equally Valuable**|Alan Jeffares et.al.|[2506.23286](http://arxiv.org/abs/2506.23286)|null|
+|**2025-06-29**|**BAPE: Learning an Explicit Bayes Classifier for Long-tailed Visual Recognition**|Chaoqun Du et.al.|[2506.23280](http://arxiv.org/abs/2506.23280)|null|
+|**2025-06-29**|**Improving Myocardial Infarction Detection via Synthetic ECG Pretraining**|Lachin Naghashyar et.al.|[2506.23259](http://arxiv.org/abs/2506.23259)|null|
+|**2025-06-29**|**Aggregating Local Saliency Maps for Semi-Global Explainable Image Classification**|James Hinns et.al.|[2506.23247](http://arxiv.org/abs/2506.23247)|null|
+|**2025-06-29**|**A Hierarchical Slice Attention Network for Appendicitis Classification in 3D CT Scans**|Chia-Wen Huang et.al.|[2506.23209](http://arxiv.org/abs/2506.23209)|null|
+|**2025-06-29**|**External Data-Enhanced Meta-Representation for Adaptive Probabilistic Load Forecasting**|Haoran Li et.al.|[2506.23201](http://arxiv.org/abs/2506.23201)|null|
+|**2025-06-29**|**Deep Learning for Optical Misalignment Diagnostics in Multi-Lens Imaging Systems**|Tomer Slor et.al.|[2506.23173](http://arxiv.org/abs/2506.23173)|null|
+|**2025-06-29**|**Hierarchical Corpus-View-Category Refinement for Carotid Plaque Risk Grading in Ultrasound**|Zhiyuan Zhu et.al.|[2506.23108](http://arxiv.org/abs/2506.23108)|null|
+|**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
+|**2025-06-28**|**VisionScores -- A system-segmented image score dataset for deep learning tasks**|Alejandro Romero Amezcua et.al.|[2506.23030](http://arxiv.org/abs/2506.23030)|null|
+|**2025-06-28**|**Deep Learning in Mild Cognitive Impairment Diagnosis using Eye Movements and Image Content in Visual Memory Tasks**|Tomás Silva Santos Rocha et.al.|[2506.23016](http://arxiv.org/abs/2506.23016)|null|
+|**2025-06-28**|**Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**|Ghufran A. Omran et.al.|[2506.22939](http://arxiv.org/abs/2506.22939)|null|
+|**2025-06-28**|**Differentiable Radar Ambiguity Functions: Mathematical Formulation and Computational Implementation**|Marc Bara Iniesta et.al.|[2506.22935](http://arxiv.org/abs/2506.22935)|null|
+|**2025-06-28**|**Mathematical Computation on High-dimensional Data via Array Programming and Parallel Acceleration**|Chen Zhang et.al.|[2506.22929](http://arxiv.org/abs/2506.22929)|null|
+|**2025-06-28**|**DMD-Net: Deep Mesh Denoising Network**|Aalok Gangopadhyay et.al.|[2506.22850](http://arxiv.org/abs/2506.22850)|null|
+|**2025-06-28**|**Deep learning 40 years of human migration**|Thomas Gaskin et.al.|[2506.22821](http://arxiv.org/abs/2506.22821)|null|
+|**2025-06-28**|**Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding**|Nuoye Xiong et.al.|[2506.22803](http://arxiv.org/abs/2506.22803)|null|
+|**2025-06-28**|**Can We Reliably Predict the Fed's Next Move? A Multi-Modal Approach to U.S. Monetary Policy Forecasting**|Fiona Xiao Jingyi et.al.|[2506.22763](http://arxiv.org/abs/2506.22763)|null|
+|**2025-06-28**|**Detecting secondary-phase in bainite microstructure through deep-learning based single-shot approach**|Vinod Kumar et.al.|[2506.22757](http://arxiv.org/abs/2506.22757)|null|
+|**2025-06-28**|**Deep Learning based Joint Geometry and Attribute Up-sampling for Large-Scale Colored Point Clouds**|Yun Zhang et.al.|[2506.22749](http://arxiv.org/abs/2506.22749)|null|
+|**2025-06-28**|**Persistence Paradox in Dynamic Science**|Honglin Bao et.al.|[2506.22729](http://arxiv.org/abs/2506.22729)|null|
+|**2025-06-28**|**XTransfer: Cross-Modality Model Transfer for Human Sensing with Few Data at the Edge**|Yu Zhang et.al.|[2506.22726](http://arxiv.org/abs/2506.22726)|null|
+|**2025-06-28**|**Libra: Synergizing CUDA and Tensor Cores for High-Performance Sparse Matrix Multiplication**|Jinliang Shi et.al.|[2506.22714](http://arxiv.org/abs/2506.22714)|null|
+|**2025-06-28**|**Generalized Linear Mode Connectivity for Transformers**|Alexander Theus et.al.|[2506.22712](http://arxiv.org/abs/2506.22712)|null|
+|**2025-06-28**|**Investigation of the performance of a GNN-based b-jet tagging method in heavy-ion collisions**|Changhwan Choi et.al.|[2506.22691](http://arxiv.org/abs/2506.22691)|null|
+|**2025-06-27**|**3D Shape Generation: A Survey**|Nicolas Caytuiro et.al.|[2506.22678](http://arxiv.org/abs/2506.22678)|null|
+|**2025-06-27**|**Prediction of Protein Three-dimensional Structures via a Hardware-Executable Quantum Computing Framework**|Yuqi Zhang et.al.|[2506.22677](http://arxiv.org/abs/2506.22677)|null|
+|**2025-06-27**|**Ludax: A GPU-Accelerated Domain Specific Language for Board Games**|Graham Todd et.al.|[2506.22609](http://arxiv.org/abs/2506.22609)|null|
+|**2025-06-27**|**BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data**|Arunkumar Kannan et.al.|[2506.22591](http://arxiv.org/abs/2506.22591)|null|
+|**2025-06-27**|**High Resolution Isotropic 3D Cine imaging with Automated Segmentation using Concatenated 2D Real-time Imaging and Deep Learning**|Mark Wrobel et.al.|[2506.22532](http://arxiv.org/abs/2506.22532)|null|
+|**2025-06-27**|**Task-Agnostic Contrastive Pretraining for Relational Deep Learning**|Jakub Peleška et.al.|[2506.22530](http://arxiv.org/abs/2506.22530)|null|
 |**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429](http://arxiv.org/abs/2506.22429)|null|
 |**2025-06-27**|**Robotic Multimodal Data Acquisition for In-Field Deep Learning Estimation of Cover Crop Biomass**|Joe Johnson et.al.|[2506.22364](http://arxiv.org/abs/2506.22364)|null|
 |**2025-06-27**|**From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**|Nouf Almesafri et.al.|[2506.22360](http://arxiv.org/abs/2506.22360)|null|
