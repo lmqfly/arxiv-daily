@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1740,7 +1740,7 @@ layout: default
 |**2025-06-28**|**Can We Reliably Predict the Fed's Next Move? A Multi-Modal Approach to U.S. Monetary Policy Forecasting**|Fiona Xiao Jingyi et.al.|[2506.22763](http://arxiv.org/abs/2506.22763)|null|
 |**2025-06-28**|**Detecting secondary-phase in bainite microstructure through deep-learning based single-shot approach**|Vinod Kumar et.al.|[2506.22757](http://arxiv.org/abs/2506.22757)|null|
 |**2025-06-28**|**Deep Learning based Joint Geometry and Attribute Up-sampling for Large-Scale Colored Point Clouds**|Yun Zhang et.al.|[2506.22749](http://arxiv.org/abs/2506.22749)|null|
-|**2025-06-28**|**Persistence Paradox in Dynamic Science**|Honglin Bao et.al.|[2506.22729](http://arxiv.org/abs/2506.22729)|null|
+|**2025-07-01**|**Persistence Paradox in Dynamic Science**|Honglin Bao et.al.|[2506.22729](http://arxiv.org/abs/2506.22729)|null|
 |**2025-06-28**|**XTransfer: Cross-Modality Model Transfer for Human Sensing with Few Data at the Edge**|Yu Zhang et.al.|[2506.22726](http://arxiv.org/abs/2506.22726)|null|
 |**2025-06-28**|**Libra: Synergizing CUDA and Tensor Cores for High-Performance Sparse Matrix Multiplication**|Jinliang Shi et.al.|[2506.22714](http://arxiv.org/abs/2506.22714)|null|
 |**2025-06-28**|**Generalized Linear Mode Connectivity for Transformers**|Alexander Theus et.al.|[2506.22712](http://arxiv.org/abs/2506.22712)|null|
