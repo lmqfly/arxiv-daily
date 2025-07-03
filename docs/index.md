@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1780,7 +1780,7 @@ layout: default
 |**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[2506.21885](http://arxiv.org/abs/2506.21885)|null|
 |**2025-06-27**|**Physical Degradation Model-Guided Interferometric Hyperspectral Reconstruction with Unfolding Transformer**|Yuansheng Li et.al.|[2506.21880](http://arxiv.org/abs/2506.21880)|null|
 |**2025-06-27**|**SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space**|Ekaterina Redekop et.al.|[2506.21857](http://arxiv.org/abs/2506.21857)|null|
-|**2025-06-27**|**LinguaSynth: Heterogeneous Linguistic Signals for News Classification**|Duo Zhang et.al.|[2506.21848](http://arxiv.org/abs/2506.21848)|null|
+|**2025-07-02**|**LinguaSynth: Heterogeneous Linguistic Signals for News Classification**|Duo Zhang et.al.|[2506.21848](http://arxiv.org/abs/2506.21848)|null|
 |**2025-06-27**|**Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification**|Weitao Tang et.al.|[2506.21828](http://arxiv.org/abs/2506.21828)|null|
 |**2025-06-26**|**Offensive Language Detection on Social Media Using XLNet**|Reem Alothman et.al.|[2506.21795](http://arxiv.org/abs/2506.21795)|null|
 |**2025-06-26**|**Early Glaucoma Detection using Deep Learning with Multiple Datasets of Fundus Images**|Rishiraj Paul Chowdhury et.al.|[2506.21770](http://arxiv.org/abs/2506.21770)|null|
