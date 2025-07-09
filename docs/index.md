@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -34,7 +34,7 @@ layout: default
 |**2025-05-13**|**Measurements of molecular size and shape on a chip**|Xin Zhu et.al.|[2505.08452](http://arxiv.org/abs/2505.08452)|null|
 |**2025-05-11**|**Observation of modulation-induced Feshbach resonance**|Tongkang Wang et.al.|[2505.06871](http://arxiv.org/abs/2505.06871)|null|
 |**2025-05-08**|**EquiHGNN: Scalable Rotationally Equivariant Hypergraph Neural Networks**|Tien Dang et.al.|[2505.05650](http://arxiv.org/abs/2505.05650)|**[link](https://github.com/hysonlab/equihgnn)**|
-|**2025-05-06**|**Quantum QSAR for drug discovery**|Alejandro Giraldo et.al.|[2505.04648](http://arxiv.org/abs/2505.04648)|null|
+|**2025-07-08**|**Quantum QSAR for drug discovery**|Alejandro Giraldo et.al.|[2505.04648](http://arxiv.org/abs/2505.04648)|null|
 |**2025-04-27**|**Heterogeneous network drug-target interaction prediction model based on graph wavelet transform and multi-level contrastive learning**|Wenfeng Dai et.al.|[2504.20103](http://arxiv.org/abs/2504.20103)|**[link](https://github.com/chromaprim/SHGCL_DTI_GWT)**|
 |**2025-04-25**|**Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics**|Maodong Li et.al.|[2504.18367](http://arxiv.org/abs/2504.18367)|null|
 |**2025-05-25**|**Heterogeneous networks in drug-target interaction prediction**|Mohammad Molaee et.al.|[2504.16152](http://arxiv.org/abs/2504.16152)|**[link](https://github.com/wyx2012/bg-dti)**|
@@ -1721,7 +1721,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-07**|**Multi-Disease Deep Learning Framework for GWAS: Beyond Feature Selection Constraints**|Iqra Farooq et.al.|[2507.05247](http://arxiv.org/abs/2507.05247)|null|
-|**2025-07-07**|**CTA: Cross-Task Alignment for Better Test Time Training**|Samuel Barbeau et.al.|[2507.05221](http://arxiv.org/abs/2507.05221)|null|
+|**2025-07-08**|**CTA: Cross-Task Alignment for Better Test Time Training**|Samuel Barbeau et.al.|[2507.05221](http://arxiv.org/abs/2507.05221)|null|
 |**2025-07-07**|**$\varphi$ -Adapt: A Physics-Informed Adaptation Learning Approach to 2D Quantum Material Discovery**|Hoang-Quan Nguyen et.al.|[2507.05184](http://arxiv.org/abs/2507.05184)|null|
 |**2025-07-07**|**Hardware-efficient tractable probabilistic inference for TinyML Neurosymbolic AI applications**|Jelin Leslin et.al.|[2507.05141](http://arxiv.org/abs/2507.05141)|null|
 |**2025-07-07**|**Deep Learning to Automate Parameter Extraction and Model Fitting of Two-Dimensional Transistors**|Robert K. A. Bennett et.al.|[2507.05134](http://arxiv.org/abs/2507.05134)|null|
@@ -1729,7 +1729,7 @@ layout: default
 |**2025-07-07**|**Deep Learning Based Antenna Selection Technique for RIS-Empowered RQSM System**|Burak Ahmet Ozden et.al.|[2507.05071](http://arxiv.org/abs/2507.05071)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
 |**2025-07-07**|**AI for the Routine, Humans for the Complex: Accuracy-Driven Data Labelling with Mixed Integer Linear Programming**|Mohammad Hossein Amini et.al.|[2507.04990](http://arxiv.org/abs/2507.04990)|null|
-|**2025-07-07**|**Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning**|Ruihao Zhang et.al.|[2507.04981](http://arxiv.org/abs/2507.04981)|null|
+|**2025-07-08**|**Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning**|Ruihao Zhang et.al.|[2507.04981](http://arxiv.org/abs/2507.04981)|null|
 |**2025-07-07**|**Can Video LLMs Refuse to Answer? Alignment for Answerability in Video Large Language Models**|Eunseop Yoon et.al.|[2507.04976](http://arxiv.org/abs/2507.04976)|null|
 |**2025-07-07**|**RainShift: A Benchmark for Precipitation Downscaling Across Geographies**|Paula Harder et.al.|[2507.04930](http://arxiv.org/abs/2507.04930)|null|
 |**2025-07-07**|**Uncovering Neuroimaging Biomarkers of Brain Tumor Surgery with AI-Driven Methods**|Carmen Jimenez-Mesa et.al.|[2507.04881](http://arxiv.org/abs/2507.04881)|null|
@@ -1799,7 +1799,7 @@ layout: default
 |**2025-07-03**|**PiCME: Pipeline for Contrastive Modality Evaluation and Encoding in the MIMIC Dataset**|Michal Golovanevsky et.al.|[2507.03165](http://arxiv.org/abs/2507.03165)|null|
 |**2025-07-03**|**A PINNs approach for the computation of eigenvalues in elliptic problems**|Julian Fernandez Bonder et.al.|[2507.03126](http://arxiv.org/abs/2507.03126)|null|
 |**2025-07-03**|**Characterizing Compute-Communication Overlap in GPU-Accelerated Distributed Deep Learning: Performance and Power Implications**|Seonho Lee et.al.|[2507.03114](http://arxiv.org/abs/2507.03114)|null|
-|**2025-07-03**|**Towards a unified scheme of blazar evolution**|E. Oukacha et.al.|[2507.03088](http://arxiv.org/abs/2507.03088)|null|
+|**2025-07-08**|**Towards a unified scheme of blazar evolution**|E. Oukacha et.al.|[2507.03088](http://arxiv.org/abs/2507.03088)|null|
 |**2025-07-03**|**Identification of Potentially Misclassified Crash Narratives using Machine Learning (ML) and Deep Learning (DL)**|Sudesh Bhagat et.al.|[2507.03066](http://arxiv.org/abs/2507.03066)|null|
 |**2025-07-03**|**Outcome prediction and individualized treatment effect estimation in patients with large vessel occlusion stroke**|Lisa Herzog et.al.|[2507.03046](http://arxiv.org/abs/2507.03046)|null|
 |**2025-07-03**|**Detection of Rail Line Track and Human Beings Near the Track to Avoid Accidents**|Mehrab Hosain et.al.|[2507.03040](http://arxiv.org/abs/2507.03040)|null|
