@@ -833,6 +833,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Long-Lived Isomers of C $_{11}$H$_9^+$ : New Experimental Insights from the PIRENEA Setup**|Ana Isabel Lozano et.al.|[2507.06667](http://arxiv.org/abs/2507.06667)|null|
 |**2025-07-08**|**On void formation during the simulated tensile testing of polymer-filler particle composites**|John J. Karnes et.al.|[2507.05547](http://arxiv.org/abs/2507.05547)|null|
 |**2025-06-30**|**Atomistic study of dislocation formation during Ge epitaxy on Si**|Luis Martín-Encinar et.al.|[2507.05082](http://arxiv.org/abs/2507.05082)|null|
 |**2025-07-07**|**Computing dielectric spectra in molecular dynamics simulations: using a cavity to disentangle self and cross correlations**|Marceau Hénot et.al.|[2507.04908](http://arxiv.org/abs/2507.04908)|null|
@@ -1722,6 +1723,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
+|**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073](http://arxiv.org/abs/2507.07073)|null|
+|**2025-07-08**|**Latent Acoustic Mapping for Direction of Arrival Estimation: A Self-Supervised Approach**|Adrian S. Roman et.al.|[2507.07066](http://arxiv.org/abs/2507.07066)|null|
+|**2025-07-09**|**A Novel Hybrid Deep Learning Technique for Speech Emotion Detection using Feature Engineering**|Shahana Yasmin Chowdhury et.al.|[2507.07046](http://arxiv.org/abs/2507.07046)|null|
+|**2025-07-09**|**Integrating Pathology Foundation Models and Spatial Transcriptomics for Cellular Decomposition from Histology Images**|Yutong Sun et.al.|[2507.07013](http://arxiv.org/abs/2507.07013)|null|
+|**2025-07-09**|**Deep Brain Net: An Optimized Deep Learning Model for Brain tumor Detection in MRI Images Using EfficientNetB0 and ResNet50 with Transfer Learning**|Daniel Onah et.al.|[2507.07011](http://arxiv.org/abs/2507.07011)|null|
+|**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[2507.06978](http://arxiv.org/abs/2507.06978)|null|
+|**2025-07-09**|**Segmentation Regularized Training for Multi-Domain Deep Learning Registration applied to MR-Guided Prostate Cancer Radiotherapy**|Sudharsan Madhavan et.al.|[2507.06966](http://arxiv.org/abs/2507.06966)|null|
+|**2025-07-09**|**SimCortex: Collision-free Simultaneous Cortical Surfaces Reconstruction**|Kaveh Moradkhani et.al.|[2507.06955](http://arxiv.org/abs/2507.06955)|null|
+|**2025-07-09**|**Pre-Columbian Settlements Shaped Palm Clusters in the Sierra Nevada de Santa Marta, Colombia**|Sebastian Fajardo et.al.|[2507.06949](http://arxiv.org/abs/2507.06949)|null|
+|**2025-07-09**|**Enhancing Environment Generalizability for Deep Learning-Based CSI Feedback**|Haoyu Wang et.al.|[2507.06833](http://arxiv.org/abs/2507.06833)|null|
+|**2025-07-09**|**Unlocking Thermal Aerial Imaging: Synthetic Enhancement of UAV Datasets**|Antonella Barisic Kulas et.al.|[2507.06797](http://arxiv.org/abs/2507.06797)|null|
+|**2025-07-09**|**Tailoring deep learning for real-time brain-computer interfaces: From offline models to calibration-free online decoding**|Martin Wimpff et.al.|[2507.06779](http://arxiv.org/abs/2507.06779)|null|
+|**2025-07-09**|**Deep Learning-based Human Gesture Channel Modeling for Integrated Sensing and Communication Scenarios**|Zhengyu Zhang et.al.|[2507.06588](http://arxiv.org/abs/2507.06588)|null|
+|**2025-07-09**|**Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs**|Shan Shen et.al.|[2507.06549](http://arxiv.org/abs/2507.06549)|null|
+|**2025-07-09**|**Few-shot Learning on AMS Circuits and Its Application to Parasitic Capacitance Prediction**|Shan Shen et.al.|[2507.06538](http://arxiv.org/abs/2507.06538)|null|
+|**2025-07-09**|**Circulating tumor cell detection in cancer patients using in-flow deep learning holography**|Kevin Mallery et.al.|[2507.06536](http://arxiv.org/abs/2507.06536)|null|
+|**2025-07-09**|**From large-eddy simulations to deep learning: A U-net model for fast urban canopy flow predictions**|Themistoklis Vargiemezis et.al.|[2507.06533](http://arxiv.org/abs/2507.06533)|null|
+|**2025-07-09**|**Generative Lagrangian data assimilation for ocean dynamics under extreme sparsity**|Niloofar Asefi et.al.|[2507.06479](http://arxiv.org/abs/2507.06479)|null|
+|**2025-07-08**|**Bridging Data Gaps of Rare Conditions in ICU: A Multi-Disease Adaptation Approach for Clinical Prediction**|Mingcheng Zhu et.al.|[2507.06432](http://arxiv.org/abs/2507.06432)|null|
+|**2025-07-08**|**Attention-Enhanced Deep Learning Ensemble for Breast Density Classification in Mammography**|Peyman Sharifian et.al.|[2507.06410](http://arxiv.org/abs/2507.06410)|null|
+|**2025-07-08**|**Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction**|Matteo Tiezzi et.al.|[2507.06404](http://arxiv.org/abs/2507.06404)|null|
+|**2025-07-08**|**Secure and Storage-Efficient Deep Learning Models for Edge AI Using Automatic Weight Generation**|Habibur Rahaman et.al.|[2507.06380](http://arxiv.org/abs/2507.06380)|null|
+|**2025-07-08**|**Deep learning-based species-area models reveal multi-scale patterns of species richness and turnover**|Victor Boussange et.al.|[2507.06358](http://arxiv.org/abs/2507.06358)|null|
+|**2025-07-08**|**SymFlux: deep symbolic regression of Hamiltonian vector fields**|M. A. Evangelista-Alvarado et.al.|[2507.06342](http://arxiv.org/abs/2507.06342)|null|
+|**2025-07-08**|**Centralized Copy-Paste: Enhanced Data Augmentation Strategy for Wildland Fire Semantic Segmentation**|Joon Tai Kim et.al.|[2507.06321](http://arxiv.org/abs/2507.06321)|null|
+|**2025-07-08**|**Deep Learning Improves Photometric Redshifts in All Regions of Color Space**|Emma R. Moran et.al.|[2507.06299](http://arxiv.org/abs/2507.06299)|null|
+|**2025-07-08**|**Advancing Offline Handwritten Text Recognition: A Systematic Review of Data Augmentation and Generation Techniques**|Yassin Hussein Rassul et.al.|[2507.06275](http://arxiv.org/abs/2507.06275)|null|
 |**2025-07-08**|**Deep Learning Optimization of Two-State Pinching Antennas Systems**|Odysseas G. Karagiannidis et.al.|[2507.06222](http://arxiv.org/abs/2507.06222)|null|
 |**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
 |**2025-07-08**|**Learning-Enhanced Variational Regularization for Electrical Impedance Tomography via \Calderon's Method**|Kai Li et.al.|[2507.06114](http://arxiv.org/abs/2507.06114)|null|
@@ -13847,6 +13876,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction**|Yupu Zhang et.al.|[2507.06366](http://arxiv.org/abs/2507.06366)|null|
 |**2025-06-26**|**Large Language Model Agent for Modular Task Execution in Drug Discovery**|Janghoon Ock et.al.|[2507.02925](http://arxiv.org/abs/2507.02925)|null|
 |**2025-07-04**|**IntFold: A Controllable Foundation Model for General and Specialized Biomolecular Structure Prediction**|The IntFold Team et.al.|[2507.02025](http://arxiv.org/abs/2507.02025)|null|
 |**2025-06-21**|**AbRank: A Benchmark Dataset and Metric-Learning Framework for Antibody-Antigen Affinity Ranking**|Chunan Liu et.al.|[2506.17857](http://arxiv.org/abs/2506.17857)|null|
@@ -14105,6 +14135,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073](http://arxiv.org/abs/2507.07073)|null|
 |**2025-07-05**|**Relational inductive biases on attention mechanisms**|Víctor Mijangos et.al.|[2507.04117](http://arxiv.org/abs/2507.04117)|null|
 |**2025-07-04**|**CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning**|Ningyuan Huang et.al.|[2507.03707](http://arxiv.org/abs/2507.03707)|null|
 |**2025-06-30**|**Reinforcement Learning for Automated Cybersecurity Penetration Testing**|Daniel López-Montero et.al.|[2507.02969](http://arxiv.org/abs/2507.02969)|null|
