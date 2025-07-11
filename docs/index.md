@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -103,7 +103,7 @@ layout: default
 |**2025-04-06**|**DeepProtein: Deep Learning Library and Benchmark for Protein Sequence Learning**|Jiaqing Xie et.al.|[2410.02023](http://arxiv.org/abs/2410.02023)|**[link](https://github.com/jiaqingxie/deepprotein)**|
 |**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948](http://arxiv.org/abs/2410.00948)|null|
 |**2024-09-27**|**Electro-Mechanical Contact Interactions Between Human Finger and Touchscreen Under Electroadhesion**|Easa AliAbbasi et.al.|[2409.18725](http://arxiv.org/abs/2409.18725)|null|
-|**2025-01-26**|**Batch Predictive Inference**|Yonghoon Lee et.al.|[2409.13990](http://arxiv.org/abs/2409.13990)|**[link](https://github.com/yhoon31/batch-pi)**|
+|**2025-07-09**|**Batch Predictive Inference**|Yonghoon Lee et.al.|[2409.13990](http://arxiv.org/abs/2409.13990)|**[link](https://github.com/yhoon31/batch-pi)**|
 |**2024-12-12**|**Efficient polarizable QM/MM using the direct reaction field Hamiltonian with electrostatic potential fitted multipole operators**|Thomas P. Fay et.al.|[2409.10483](http://arxiv.org/abs/2409.10483)|**[link](https://github.com/tomfay/pyespf)**|
 |**2024-09-12**|**Measuring the limit of perception of bond stiffness of interactive molecules in VR via a gamified psychophysics experiment**|Rhoslyn Roebuck Williams et.al.|[2409.07836](http://arxiv.org/abs/2409.07836)|null|
 |**2024-09-05**|**A Molecular Communication Perspective of Alzheimer's Disease: Impact of Amyloid Beta Oligomers on Glutamate Diffusion in the Synaptic Cleft**|Nayereh FallahBagheri et.al.|[2409.03396](http://arxiv.org/abs/2409.03396)|null|
@@ -1743,7 +1743,7 @@ layout: default
 |**2025-07-09**|**From large-eddy simulations to deep learning: A U-net model for fast urban canopy flow predictions**|Themistoklis Vargiemezis et.al.|[2507.06533](http://arxiv.org/abs/2507.06533)|null|
 |**2025-07-09**|**Generative Lagrangian data assimilation for ocean dynamics under extreme sparsity**|Niloofar Asefi et.al.|[2507.06479](http://arxiv.org/abs/2507.06479)|null|
 |**2025-07-08**|**Bridging Data Gaps of Rare Conditions in ICU: A Multi-Disease Adaptation Approach for Clinical Prediction**|Mingcheng Zhu et.al.|[2507.06432](http://arxiv.org/abs/2507.06432)|null|
-|**2025-07-08**|**Attention-Enhanced Deep Learning Ensemble for Breast Density Classification in Mammography**|Peyman Sharifian et.al.|[2507.06410](http://arxiv.org/abs/2507.06410)|null|
+|**2025-07-10**|**Attention-Enhanced Deep Learning Ensemble for Breast Density Classification in Mammography**|Peyman Sharifian et.al.|[2507.06410](http://arxiv.org/abs/2507.06410)|null|
 |**2025-07-08**|**Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction**|Matteo Tiezzi et.al.|[2507.06404](http://arxiv.org/abs/2507.06404)|null|
 |**2025-07-08**|**Secure and Storage-Efficient Deep Learning Models for Edge AI Using Automatic Weight Generation**|Habibur Rahaman et.al.|[2507.06380](http://arxiv.org/abs/2507.06380)|null|
 |**2025-07-08**|**Deep learning-based species-area models reveal multi-scale patterns of species richness and turnover**|Victor Boussange et.al.|[2507.06358](http://arxiv.org/abs/2507.06358)|null|
@@ -1780,7 +1780,7 @@ layout: default
 |**2025-07-07**|**Self-supervised Deep Learning for Denoising in Ultrasound Microvascular Imaging**|Lijie Huang et.al.|[2507.05451](http://arxiv.org/abs/2507.05451)|null|
 |**2025-07-07**|**Robotic System with AI for Real Time Weed Detection, Canopy Aware Spraying, and Droplet Pattern Evaluation**|Inayat Rasool et.al.|[2507.05432](http://arxiv.org/abs/2507.05432)|null|
 |**2025-07-07**|**EmissionNet: Air Quality Pollution Forecasting for Agriculture**|Prady Saligram et.al.|[2507.05416](http://arxiv.org/abs/2507.05416)|null|
-|**2025-07-07**|**AXLearn: Modular Large Model Training on Heterogeneous Infrastructure**|Mark Lee et.al.|[2507.05411](http://arxiv.org/abs/2507.05411)|null|
+|**2025-07-09**|**AXLearn: Modular Large Model Training on Heterogeneous Infrastructure**|Mark Lee et.al.|[2507.05411](http://arxiv.org/abs/2507.05411)|null|
 |**2025-07-07**|**Enhancing Underwater Images Using Deep Learning with Subjective Image Quality Integration**|Jose M. Montero et.al.|[2507.05393](http://arxiv.org/abs/2507.05393)|null|
 |**2025-07-07**|**YOLO-APD: Enhancing YOLOv8 for Robust Pedestrian Detection on Complex Road Geometries**|Aquino Joctum et.al.|[2507.05376](http://arxiv.org/abs/2507.05376)|null|
 |**2025-07-07**|**Introducing Image-Space Preconditioning in the Variational Formulation of MRI Reconstructions**|Bastien Milani et.al.|[2507.05312](http://arxiv.org/abs/2507.05312)|null|
@@ -1803,7 +1803,7 @@ layout: default
 |**2025-07-07**|**Kalman Filter Aided Federated Koopman Learning**|Yutao Chen et.al.|[2507.04808](http://arxiv.org/abs/2507.04808)|null|
 |**2025-07-07**|**A Survey of Pun Generation: Datasets, Evaluations and Methodologies**|Yuchen Su et.al.|[2507.04793](http://arxiv.org/abs/2507.04793)|null|
 |**2025-07-07**|**Large Language Models for Network Intrusion Detection Systems: Foundations, Implementations, and Future Directions**|Shuo Yang et.al.|[2507.04752](http://arxiv.org/abs/2507.04752)|null|
-|**2025-07-07**|**MCFormer: A Multi-Cost-Volume Network and Comprehensive Benchmark for Particle Image Velocimetry**|Zicheng Lin et.al.|[2507.04750](http://arxiv.org/abs/2507.04750)|null|
+|**2025-07-10**|**MCFormer: A Multi-Cost-Volume Network and Comprehensive Benchmark for Particle Image Velocimetry**|Zicheng Lin et.al.|[2507.04750](http://arxiv.org/abs/2507.04750)|null|
 |**2025-07-07**|**Geometric-Guided Few-Shot Dental Landmark Detection with Human-Centric Foundation Model**|Anbang Wang et.al.|[2507.04710](http://arxiv.org/abs/2507.04710)|null|
 |**2025-07-07**|**Hybrid Adversarial Spectral Loss Conditional Generative Adversarial Networks for Signal Data Augmentation in Ultra-precision Machining Surface Roughness Prediction**|Suiyan Shang et.al.|[2507.04665](http://arxiv.org/abs/2507.04665)|null|
 |**2025-07-07**|**CP-Dilatation: A Copy-and-Paste Augmentation Method for Preserving the Boundary Context Information of Histopathology Images**|Sungrae Hong et.al.|[2507.04660](http://arxiv.org/abs/2507.04660)|null|
@@ -1822,7 +1822,7 @@ layout: default
 |**2025-07-06**|**Growth and prediction of plastic strain in metallic glasses**|Tero Mäkinen et.al.|[2507.04271](http://arxiv.org/abs/2507.04271)|null|
 |**2025-07-06**|**Efficient Training of Deep Networks using Guided Spectral Data Selection: A Step Toward Learning What You Need**|Mohammadreza Sharifi et.al.|[2507.04269](http://arxiv.org/abs/2507.04269)|null|
 |**2025-07-06**|**Deep-Learning-Assisted Highly-Accurate COVID-19 Diagnosis on Lung Computed Tomography Images**|Yinuo Wang et.al.|[2507.04252](http://arxiv.org/abs/2507.04252)|null|
-|**2025-07-06**|**Structural Classification of Locally Stationary Time Series Based on Second-order Characteristics**|Chen Qian et.al.|[2507.04237](http://arxiv.org/abs/2507.04237)|null|
+|**2025-07-10**|**Structural Classification of Locally Stationary Time Series Based on Second-order Characteristics**|Chen Qian et.al.|[2507.04237](http://arxiv.org/abs/2507.04237)|null|
 |**2025-07-06**|**VaxPulse: Active Global Vaccine Infodemic Risk Assessment**|Gerardo Luis Dimaguila et.al.|[2507.04222](http://arxiv.org/abs/2507.04222)|null|
 |**2025-07-06**|**Siberian radioheliograph image classification using ensemble of CLIP, EfficientNet and CatBoost models**|Yaroslav Egorov et.al.|[2507.04211](http://arxiv.org/abs/2507.04211)|null|
 |**2025-07-06**|**JAX-MPM: A Learning-Augmented Differentiable Meshfree Framework for GPU-Accelerated Lagrangian Simulation and Geophysical Inverse Modeling**|Honghui Du et.al.|[2507.04192](http://arxiv.org/abs/2507.04192)|null|
