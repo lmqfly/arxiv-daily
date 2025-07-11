@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Atherosclerosis through Hierarchical Explainable Neural Network Analysis**|Irsyad Adam et.al.|[2507.07373](http://arxiv.org/abs/2507.07373)|null|
 |**2025-07-06**|**Reconstructing Biological Pathways by Applying Selective Incremental Learning to (Very) Small Language Models**|Pranta Saha et.al.|[2507.04432](http://arxiv.org/abs/2507.04432)|null|
 |**2025-07-02**|**Mass Transfer Through Vapor-Liquid Interfaces From Hydrodynamic Density Functional Theory**|B. Bursik et.al.|[2507.03017](http://arxiv.org/abs/2507.03017)|null|
 |**2025-06-30**|**Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning**|Mingcheng Qu et.al.|[2506.23827](http://arxiv.org/abs/2506.23827)|null|
@@ -384,6 +385,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Predicting and generating antibiotics against future pathogens with ApexOracle**|Tianang Leng et.al.|[2507.07862](http://arxiv.org/abs/2507.07862)|null|
+|**2025-07-09**|**MODA: A Unified 3D Diffusion Framework for Multi-Task Target-Aware Molecular Generation**|Dong Xu et.al.|[2507.07201](http://arxiv.org/abs/2507.07201)|null|
 |**2025-07-07**|**Navigating Sparse Molecular Data with Stein Diffusion Guidance**|Van Khoa Nguyen et.al.|[2507.05482](http://arxiv.org/abs/2507.05482)|null|
 |**2025-06-26**|**Large Language Model Agent for Modular Task Execution in Drug Discovery**|Janghoon Ock et.al.|[2507.02925](http://arxiv.org/abs/2507.02925)|null|
 |**2025-07-01**|**TABASCO: A Fast, Simplified Model for Molecular Generation with Improved Physical Quality**|Carlos Vonessen et.al.|[2507.00899](http://arxiv.org/abs/2507.00899)|null|
@@ -833,6 +836,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Automating MD simulations for Proteins using Large language Models: NAMD-Agent**|Achuth Chandrasekhar et.al.|[2507.07887](http://arxiv.org/abs/2507.07887)|null|
+|**2025-07-10**|**Mass-transport-limited reaction rates and molecular diffusion in the van der Waals gap beneath graphene**|Hossein Mirdamadi et.al.|[2507.07479](http://arxiv.org/abs/2507.07479)|null|
+|**2025-07-10**|**Learning Collective Variables from Time-lagged Generation**|Seonghyun Park et.al.|[2507.07390](http://arxiv.org/abs/2507.07390)|null|
+|**2025-07-10**|**High thermal conductivity dominated by thermal phonons with mean free paths exceeding hundred nanometer in three-dimensional covalent organic framework derivatives: a molecular dynamics study**|Sungjae Kim et.al.|[2507.07386](http://arxiv.org/abs/2507.07386)|null|
+|**2025-07-09**|**Superheating and melting phenomena of a vibrated granular layer of cubic particles**|Francisco López-González et.al.|[2507.07305](http://arxiv.org/abs/2507.07305)|null|
 |**2025-07-09**|**Long-Lived Isomers of C $_{11}$H$_9^+$ : New Experimental Insights from the PIRENEA Setup**|Ana Isabel Lozano et.al.|[2507.06667](http://arxiv.org/abs/2507.06667)|null|
 |**2025-07-08**|**On void formation during the simulated tensile testing of polymer-filler particle composites**|John J. Karnes et.al.|[2507.05547](http://arxiv.org/abs/2507.05547)|null|
 |**2025-06-30**|**Atomistic study of dislocation formation during Ge epitaxy on Si**|Luis Martín-Encinar et.al.|[2507.05082](http://arxiv.org/abs/2507.05082)|null|
@@ -1723,6 +1731,41 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**TinierHAR: Towards Ultra-Lightweight Deep Learning Models for Efficient Human Activity Recognition on Edge Devices**|Sizhen Bian et.al.|[2507.07949](http://arxiv.org/abs/2507.07949)|null|
+|**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
+|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879](http://arxiv.org/abs/2507.07879)|null|
+|**2025-07-10**|**MeD-3D: A Multimodal Deep Learning Framework for Precise Recurrence Prediction in Clear Cell Renal Cell Carcinoma (ccRCC)**|Hasaan Maqsood et.al.|[2507.07839](http://arxiv.org/abs/2507.07839)|null|
+|**2025-07-10**|**Benchmarking Content-Based Puzzle Solvers on Corrupted Jigsaw Puzzles**|Richard Dirauf et.al.|[2507.07828](http://arxiv.org/abs/2507.07828)|null|
+|**2025-07-10**|**Patient-specific vs Multi-Patient Vision Transformer for Markerless Tumor Motion Forecasting**|Gauthier Rotsart de Hertaing et.al.|[2507.07811](http://arxiv.org/abs/2507.07811)|null|
+|**2025-07-10**|**Deep Survival Analysis in Multimodal Medical Data: A Parametric and Probabilistic Approach with Competing Risks**|Alba Garrido et.al.|[2507.07804](http://arxiv.org/abs/2507.07804)|null|
+|**2025-07-10**|**Adaptive Attention Residual U-Net for curvilinear structure segmentation in fluorescence microscopy and biomedical images**|Achraf Ait Laydi et.al.|[2507.07800](http://arxiv.org/abs/2507.07800)|null|
+|**2025-07-10**|**Robust and Generalizable Heart Rate Estimation via Deep Learning for Remote Photoplethysmography in Complex Scenarios**|Kang Cen et.al.|[2507.07795](http://arxiv.org/abs/2507.07795)|null|
+|**2025-07-10**|**Assessing the Alignment of Audio Representations with Timbre Similarity Ratings**|Haokun Tian et.al.|[2507.07764](http://arxiv.org/abs/2507.07764)|null|
+|**2025-07-10**|**Deep Learning based 3D Volume Correlation for Additive Manufacturing Using High-Resolution Industrial X-ray Computed Tomography**|Keerthana Chand et.al.|[2507.07757](http://arxiv.org/abs/2507.07757)|null|
+|**2025-07-10**|**Breast Ultrasound Tumor Generation via Mask Generator and Text-Guided Network:A Clinically Controllable Framework with Downstream Evaluation**|Haoyu Pan et.al.|[2507.07721](http://arxiv.org/abs/2507.07721)|null|
+|**2025-07-10**|**D-CNN and VQ-VAE Autoencoders for Compression and Denoising of Industrial X-ray Computed Tomography Images**|Bardia Hejazi et.al.|[2507.07704](http://arxiv.org/abs/2507.07704)|null|
+|**2025-07-10**|**Tree-Mamba: A Tree-Aware Mamba for Underwater Monocular Depth Estimation**|Peixian Zhuang et.al.|[2507.07687](http://arxiv.org/abs/2507.07687)|null|
+|**2025-07-10**|**Action Unit Enhance Dynamic Facial Expression Recognition**|Feng Liu et.al.|[2507.07678](http://arxiv.org/abs/2507.07678)|null|
+|**2025-07-10**|**Attend-and-Refine: Interactive keypoint estimation and quantitative cervical vertebrae analysis for bone age assessment**|Jinhee Kim et.al.|[2507.07670](http://arxiv.org/abs/2507.07670)|null|
+|**2025-07-10**|**MolCLIP: A Molecular-Auxiliary CLIP Framework for Identifying Drug Mechanism of Action Based on Time-Lapsed Mitochondrial Images**|Fengqian Pang et.al.|[2507.07663](http://arxiv.org/abs/2507.07663)|null|
+|**2025-07-10**|**Bridging the gap in FER: addressing age bias in deep learning**|F. Xavier Gaya-Morey et.al.|[2507.07638](http://arxiv.org/abs/2507.07638)|null|
+|**2025-07-10**|**TransformEEG: Towards Improving Model Generalizability in Deep Learning-based EEG Parkinson's Disease Detection**|Federico Del Pup et.al.|[2507.07622](http://arxiv.org/abs/2507.07622)|null|
+|**2025-07-10**|**Detecting Galactic Rings in the DESI Legacy Imaging Surveys with Semi-Supervised Deep Learning**|Jianzhen Chen et.al.|[2507.07552](http://arxiv.org/abs/2507.07552)|null|
+|**2025-07-10**|**Uncertainty Quantification for Motor Imagery BCI -- Machine Learning vs. Deep Learning**|Joris Suurmeijer et.al.|[2507.07511](http://arxiv.org/abs/2507.07511)|null|
+|**2025-07-10**|**Semi-supervised learning and integration of multi-sequence MR-images for carotid vessel wall and plaque segmentation**|Marie-Christine Pali et.al.|[2507.07496](http://arxiv.org/abs/2507.07496)|null|
+|**2025-07-10**|**Mix-Geneformer: Unified Representation Learning for Human and Mouse scRNA-seq Data**|Yuki Nishio et.al.|[2507.07454](http://arxiv.org/abs/2507.07454)|null|
+|**2025-07-10**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
+|**2025-07-10**|**Computation-resource-efficient Task-oriented Communications**|Jingwen Fu et.al.|[2507.07422](http://arxiv.org/abs/2507.07422)|null|
+|**2025-07-10**|**GNN-CNN: An Efficient Hybrid Model of Convolutional and Graph Neural Networks for Text Representation**|Fardin Rastakhiz et.al.|[2507.07414](http://arxiv.org/abs/2507.07414)|null|
+|**2025-07-10**|**Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models**|Jikesh Thapa et.al.|[2507.07406](http://arxiv.org/abs/2507.07406)|null|
+|**2025-07-10**|**Shuffling for Semantic Secrecy**|Fupei Chen et.al.|[2507.07401](http://arxiv.org/abs/2507.07401)|null|
+|**2025-07-09**|**Exploiting Edge Features for Transferable Adversarial Attacks in Distributed Machine Learning**|Giulio Rossolini et.al.|[2507.07259](http://arxiv.org/abs/2507.07259)|null|
+|**2025-07-09**|**Label-Efficient Chest X-ray Diagnosis via Partial CLIP Adaptation**|Heet Nitinkumar Dalsania et.al.|[2507.07254](http://arxiv.org/abs/2507.07254)|null|
+|**2025-07-09**|**Disa: Accurate Learning-based Static Disassembly with Attentions**|Peicheng Wang et.al.|[2507.07246](http://arxiv.org/abs/2507.07246)|null|
+|**2025-07-09**|**Efficient Parametric SVD of Koopman Operator for Stochastic Dynamical Systems**|Minchan Jeong et.al.|[2507.07222](http://arxiv.org/abs/2507.07222)|null|
+|**2025-07-09**|**CL-Polyp: A Contrastive Learning-Enhanced Network for Accurate Polyp Segmentation**|Desheng Li et.al.|[2507.07154](http://arxiv.org/abs/2507.07154)|null|
+|**2025-07-09**|**DAF: An Efficient End-to-End Dynamic Activation Framework for on-Device DNN Training**|Renyuan Liu et.al.|[2507.07149](http://arxiv.org/abs/2507.07149)|null|
+|**2025-07-08**|**Wrist bone segmentation in X-ray images using CT-based simulations**|Youssef ElTantawy et.al.|[2507.07131](http://arxiv.org/abs/2507.07131)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073](http://arxiv.org/abs/2507.07073)|null|
 |**2025-07-08**|**Latent Acoustic Mapping for Direction of Arrival Estimation: A Self-Supervised Approach**|Adrian S. Roman et.al.|[2507.07066](http://arxiv.org/abs/2507.07066)|null|
@@ -13876,6 +13919,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Can AI-predicted complexes teach machine learning to compute drug binding affinity?**|Wei-Tse Hsu et.al.|[2507.07882](http://arxiv.org/abs/2507.07882)|null|
+|**2025-07-09**|**MODA: A Unified 3D Diffusion Framework for Multi-Task Target-Aware Molecular Generation**|Dong Xu et.al.|[2507.07201](http://arxiv.org/abs/2507.07201)|null|
 |**2025-07-08**|**DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction**|Yupu Zhang et.al.|[2507.06366](http://arxiv.org/abs/2507.06366)|null|
 |**2025-06-26**|**Large Language Model Agent for Modular Task Execution in Drug Discovery**|Janghoon Ock et.al.|[2507.02925](http://arxiv.org/abs/2507.02925)|null|
 |**2025-07-04**|**IntFold: A Controllable Foundation Model for General and Specialized Biomolecular Structure Prediction**|The IntFold Team et.al.|[2507.02025](http://arxiv.org/abs/2507.02025)|null|
