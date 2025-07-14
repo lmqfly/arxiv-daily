@@ -385,6 +385,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Unraveling the Potential of Diffusion Models in Small Molecule Generation**|Peining Zhang et.al.|[2507.08005](http://arxiv.org/abs/2507.08005)|null|
 |**2025-07-10**|**Predicting and generating antibiotics against future pathogens with ApexOracle**|Tianang Leng et.al.|[2507.07862](http://arxiv.org/abs/2507.07862)|null|
 |**2025-07-09**|**MODA: A Unified 3D Diffusion Framework for Multi-Task Target-Aware Molecular Generation**|Dong Xu et.al.|[2507.07201](http://arxiv.org/abs/2507.07201)|null|
 |**2025-07-07**|**Navigating Sparse Molecular Data with Stein Diffusion Guidance**|Van Khoa Nguyen et.al.|[2507.05482](http://arxiv.org/abs/2507.05482)|null|
@@ -836,6 +837,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**RNA Dynamics and Interactions Revealed through Atomistic Simulations**|Olivier Languin-Cattoën et.al.|[2507.08474](http://arxiv.org/abs/2507.08474)|null|
+|**2025-07-11**|**Thermoelectric optimization and quantum-to-classical crossover in gate-controlled two-dimensional semiconducting nanojunctions**|Yu-Chang Chen et.al.|[2507.08231](http://arxiv.org/abs/2507.08231)|null|
+|**2025-07-10**|**Corner-Sharing PS $_4$-BS$_4$ Modes Facilitate Fast Ion Conduction in Lithium Thioborophosphate Iodide Glassy Solid Electrolytes**|Yun An et.al.|[2507.08215](http://arxiv.org/abs/2507.08215)|null|
 |**2025-07-10**|**Automating MD simulations for Proteins using Large language Models: NAMD-Agent**|Achuth Chandrasekhar et.al.|[2507.07887](http://arxiv.org/abs/2507.07887)|null|
 |**2025-07-10**|**Mass-transport-limited reaction rates and molecular diffusion in the van der Waals gap beneath graphene**|Hossein Mirdamadi et.al.|[2507.07479](http://arxiv.org/abs/2507.07479)|null|
 |**2025-07-10**|**Learning Collective Variables from Time-lagged Generation**|Seonghyun Park et.al.|[2507.07390](http://arxiv.org/abs/2507.07390)|null|
@@ -1731,6 +1735,41 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**HieraRS: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multi-Granularity Interpretation and Cross-Domain Transfer**|Tianlong Ai et.al.|[2507.08741](http://arxiv.org/abs/2507.08741)|null|
+|**2025-07-11**|**Catastrophic Forgetting Mitigation Through Plateau Phase Activity Profiling**|Idan Mashiach et.al.|[2507.08736](http://arxiv.org/abs/2507.08736)|null|
+|**2025-07-11**|**Ensemble of Weak Spectral Total Variation Learners: a PET-CT Case Study**|Anna Rosenberg et.al.|[2507.08735](http://arxiv.org/abs/2507.08735)|null|
+|**2025-07-11**|**Rapid MRI-Based Synthetic CT Simulations for Precise tFUS Targeting**|Hengyu Gao et.al.|[2507.08688](http://arxiv.org/abs/2507.08688)|null|
+|**2025-07-11**|**A comprehensive study of LLM-based argument classification: from LLAMA through GPT-4o to Deepseek-R1**|Marcin Pietroń et.al.|[2507.08621](http://arxiv.org/abs/2507.08621)|null|
+|**2025-07-11**|**A composition-informed search for large-scale anisotropy with the Pierre Auger Observatory**|G. Golup et.al.|[2507.08564](http://arxiv.org/abs/2507.08564)|null|
+|**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546](http://arxiv.org/abs/2507.08546)|null|
+|**2025-07-11**|**CircFormerMoE: An End-to-End Deep Learning Framework for Circular RNA Splice Site Detection and Pairing in Plant Genomes**|Tianyou Jiang et.al.|[2507.08542](http://arxiv.org/abs/2507.08542)|null|
+|**2025-07-11**|**Critical dynamics governs deep learning**|Simon Vock et.al.|[2507.08527](http://arxiv.org/abs/2507.08527)|null|
+|**2025-07-11**|**Dual Dimensions Geometric Representation Learning Based Document Dewarping**|Heng Li et.al.|[2507.08492](http://arxiv.org/abs/2507.08492)|null|
+|**2025-07-11**|**F3-Net: Foundation Model for Full Abnormality Segmentation of Medical Images with Flexible Input Modality Requirement**|Seyedeh Sahar Taheri Otaghsara et.al.|[2507.08460](http://arxiv.org/abs/2507.08460)|null|
+|**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
+|**2025-07-11**|**Generative artificial intelligence and hybrid models to accelerate LES in reactive flows: Application to hydrogen/methane combustion**|Xiangrui Zou et.al.|[2507.08426](http://arxiv.org/abs/2507.08426)|null|
+|**2025-07-11**|**Unsupervised Methods for Video Quality Improvement: A Survey of Restoration and Enhancement Techniques**|Alexandra Malyugina et.al.|[2507.08375](http://arxiv.org/abs/2507.08375)|null|
+|**2025-07-11**|**scE $^2$ TM: Toward Interpretable Single-Cell Embedding via Topic Modeling**|Hegang Chen et.al.|[2507.08355](http://arxiv.org/abs/2507.08355)|null|
+|**2025-07-11**|**Towards Imperceptible JPEG Image Hiding: Multi-range Representations-driven Adversarial Stego Generation**|Junxue Yang et.al.|[2507.08343](http://arxiv.org/abs/2507.08343)|null|
+|**2025-07-11**|**Single-Domain Generalization for Multimodal Cross-Cancer Prognosis via Dirac Rebalancer and Distribution Entanglement**|Jia-Xuan Jiang et.al.|[2507.08340](http://arxiv.org/abs/2507.08340)|null|
+|**2025-07-11**|**Interpretability-Aware Pruning for Efficient Medical Image Analysis**|Nikita Malik et.al.|[2507.08330](http://arxiv.org/abs/2507.08330)|null|
+|**2025-07-11**|**Cross-Domain Identity Representation for Skull to Face Matching with Benchmark DataSet**|Ravi Shankar Prasad et.al.|[2507.08329](http://arxiv.org/abs/2507.08329)|null|
+|**2025-07-11**|**A Comprehensively Adaptive Architectural Optimization-Ingrained Quantum Neural Network Model for Cloud Workloads Prediction**|Jitendra Kumar et.al.|[2507.08317](http://arxiv.org/abs/2507.08317)|null|
+|**2025-07-11**|**MIRRAMS: Towards Training Models Robust to Missingness Distribution Shifts**|Jihye Lee et.al.|[2507.08280](http://arxiv.org/abs/2507.08280)|null|
+|**2025-07-11**|**Deep learning for chemical kinetic modeling in ammonia-methane combustion with a posteriori validation**|Ke Xiao et.al.|[2507.08277](http://arxiv.org/abs/2507.08277)|null|
+|**2025-07-11**|**Raptor: Scalable Train-Free Embeddings for 3D Medical Volumes Leveraging Pretrained 2D Foundation Models**|Ulzee An et.al.|[2507.08254](http://arxiv.org/abs/2507.08254)|null|
+|**2025-07-11**|**Self-Supervised Learning-Based Multimodal Prediction on Prosocial Behavior Intentions**|Abinay Reddy Naini et.al.|[2507.08238](http://arxiv.org/abs/2507.08238)|null|
+|**2025-07-11**|**Distilling Spectrograms into Tokens: Fast and Lightweight Bioacoustic Classification for BirdCLEF+ 2025**|Anthony Miyaguchi et.al.|[2507.08236](http://arxiv.org/abs/2507.08236)|null|
+|**2025-07-10**|**Deep Reinforcement Learning in Applied Control: Challenges, Analysis, and Insights**|Klinsmann Agyei et.al.|[2507.08196](http://arxiv.org/abs/2507.08196)|null|
+|**2025-07-10**|**Overview of the TREC 2021 deep learning track**|Nick Craswell et.al.|[2507.08191](http://arxiv.org/abs/2507.08191)|null|
+|**2025-07-10**|**Rethinking Spatio-Temporal Anomaly Detection: A Vision for Causality-Driven Cybersecurity**|Arun Vignesh Malarkkan et.al.|[2507.08177](http://arxiv.org/abs/2507.08177)|null|
+|**2025-07-10**|**AmpLyze: A Deep Learning Model for Predicting the Hemolytic Concentration**|Peng Qiu et.al.|[2507.08162](http://arxiv.org/abs/2507.08162)|null|
+|**2025-07-10**|**AI-Augmented Visible Light Communication: A Framework for Noise Mitigation and Secure Data Transmission**|A. A. Nutfaji et.al.|[2507.08145](http://arxiv.org/abs/2507.08145)|null|
+|**2025-07-10**|**DARAS: Dynamic Audio-Room Acoustic Synthesis for Blind Room Impulse Response Estimation**|Chunxi Wang et.al.|[2507.08135](http://arxiv.org/abs/2507.08135)|null|
+|**2025-07-10**|**An Object-Based Deep Learning Approach for Building Height Estimation from Single SAR Images**|Babak Memar et.al.|[2507.08096](http://arxiv.org/abs/2507.08096)|null|
+|**2025-07-10**|**Tree-Structured Parzen Estimator Can Solve Black-Box Combinatorial Optimization More Efficiently**|Kenshin Abe et.al.|[2507.08053](http://arxiv.org/abs/2507.08053)|null|
+|**2025-07-08**|**SSSUMO: Real-Time Semi-Supervised Submovement Decomposition**|Evgenii Rudakov et.al.|[2507.08028](http://arxiv.org/abs/2507.08028)|null|
+|**2025-07-08**|**3D forest semantic segmentation using multispectral LiDAR and 3D deep learning**|Narges Takhtkeshha et.al.|[2507.08025](http://arxiv.org/abs/2507.08025)|null|
 |**2025-07-10**|**TinierHAR: Towards Ultra-Lightweight Deep Learning Models for Efficient Human Activity Recognition on Edge Devices**|Sizhen Bian et.al.|[2507.07949](http://arxiv.org/abs/2507.07949)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
 |**2025-07-11**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879](http://arxiv.org/abs/2507.07879)|null|
@@ -13919,6 +13958,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Topological Sequence Analysis of Genomes: Category Approaches**|Jian Liu et.al.|[2507.08043](http://arxiv.org/abs/2507.08043)|null|
 |**2025-07-10**|**Can AI-predicted complexes teach machine learning to compute drug binding affinity?**|Wei-Tse Hsu et.al.|[2507.07882](http://arxiv.org/abs/2507.07882)|null|
 |**2025-07-09**|**MODA: A Unified 3D Diffusion Framework for Multi-Task Target-Aware Molecular Generation**|Dong Xu et.al.|[2507.07201](http://arxiv.org/abs/2507.07201)|null|
 |**2025-07-08**|**DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction**|Yupu Zhang et.al.|[2507.06366](http://arxiv.org/abs/2507.06366)|null|
