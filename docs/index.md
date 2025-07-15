@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -407,7 +407,7 @@ layout: default
 |**2025-06-16**|**Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations**|Hao Li et.al.|[2505.21318](http://arxiv.org/abs/2505.21318)|null|
 |**2025-05-27**|**MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization**|Hyomin Kim et.al.|[2505.20820](http://arxiv.org/abs/2505.20820)|null|
 |**2025-05-23**|**Applications of Modular Co-Design for De Novo 3D Molecule Generation**|Danny Reidenbach et.al.|[2505.18392](http://arxiv.org/abs/2505.18392)|null|
-|**2025-05-25**|**Learning Flexible Forward Trajectories for Masked Molecular Diffusion**|Hyunjin Seo et.al.|[2505.16790](http://arxiv.org/abs/2505.16790)|null|
+|**2025-07-13**|**Learning Flexible Forward Trajectories for Masked Molecular Diffusion**|Hyunjin Seo et.al.|[2505.16790](http://arxiv.org/abs/2505.16790)|null|
 |**2025-05-19**|**A Comprehensive Benchmarking Platform for Deep Generative Models in Molecular Design**|Adarsh Singh et.al.|[2505.12848](http://arxiv.org/abs/2505.12848)|null|
 |**2025-05-19**|**Evolutionary training-free guidance in diffusion model for 3D multi-objective molecular generation**|Ruiqing Sun et.al.|[2505.11037](http://arxiv.org/abs/2505.11037)|null|
 |**2025-05-15**|**Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design**|Amira Alakhdar et.al.|[2505.10545](http://arxiv.org/abs/2505.10545)|null|
@@ -1793,7 +1793,7 @@ layout: default
 |**2025-07-10**|**Uncertainty Quantification for Motor Imagery BCI -- Machine Learning vs. Deep Learning**|Joris Suurmeijer et.al.|[2507.07511](http://arxiv.org/abs/2507.07511)|null|
 |**2025-07-10**|**Semi-supervised learning and integration of multi-sequence MR-images for carotid vessel wall and plaque segmentation**|Marie-Christine Pali et.al.|[2507.07496](http://arxiv.org/abs/2507.07496)|null|
 |**2025-07-10**|**Mix-Geneformer: Unified Representation Learning for Human and Mouse scRNA-seq Data**|Yuki Nishio et.al.|[2507.07454](http://arxiv.org/abs/2507.07454)|null|
-|**2025-07-10**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
+|**2025-07-12**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
 |**2025-07-10**|**Computation-resource-efficient Task-oriented Communications**|Jingwen Fu et.al.|[2507.07422](http://arxiv.org/abs/2507.07422)|null|
 |**2025-07-10**|**GNN-CNN: An Efficient Hybrid Model of Convolutional and Graph Neural Networks for Text Representation**|Fardin Rastakhiz et.al.|[2507.07414](http://arxiv.org/abs/2507.07414)|null|
 |**2025-07-10**|**Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models**|Jikesh Thapa et.al.|[2507.07406](http://arxiv.org/abs/2507.07406)|null|
