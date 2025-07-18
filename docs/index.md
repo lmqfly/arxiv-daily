@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -847,7 +847,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-16**|**Revealing the impact of chemical short-range order on radiation damage in MoNbTaVW high-entropy alloys using a machine-learning potential**|Jiahui Liu et.al.|[2507.12388](http://arxiv.org/abs/2507.12388)|null|
-|**2025-07-16**|**When $B_2$ is Not Enough: Evaluating Simple Metrics for Predicting Phase Separation of Intrinsically Disordered Proteins**|Wesley W. Oliver et.al.|[2507.12312](http://arxiv.org/abs/2507.12312)|null|
+|**2025-07-17**|**When $B_2$ is Not Enough: Evaluating Simple Metrics for Predicting Phase Separation of Intrinsically Disordered Proteins**|Wesley W. Oliver et.al.|[2507.12312](http://arxiv.org/abs/2507.12312)|null|
 |**2025-07-15**|**Effects of Epoxy Composition on the Thermal and Network Properties of Crosslinked Thermosets: A Molecular-Dynamics Study**|Venkata Rama Manoj Pola et.al.|[2507.11453](http://arxiv.org/abs/2507.11453)|null|
 |**2025-07-15**|**Diverse polymorphism in Ruddlesden-Popper chalcogenides**|Prakriti Kayastha et.al.|[2507.11300](http://arxiv.org/abs/2507.11300)|null|
 |**2025-07-15**|**Cyclic Data Streaming on GPUs for Short Range Stencils Applied to Molecular Dynamics**|Martin Rose et.al.|[2507.11289](http://arxiv.org/abs/2507.11289)|null|
@@ -1757,13 +1757,13 @@ layout: default
 |**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461](http://arxiv.org/abs/2507.12461)|null|
 |**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444](http://arxiv.org/abs/2507.12444)|null|
 |**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380](http://arxiv.org/abs/2507.12380)|null|
-|**2025-07-16**|**Catching Bid-rigging Cartels with Graph Attention Neural Networks**|David Imhof et.al.|[2507.12369](http://arxiv.org/abs/2507.12369)|null|
+|**2025-07-17**|**Catching Bid-rigging Cartels with Graph Attention Neural Networks**|David Imhof et.al.|[2507.12369](http://arxiv.org/abs/2507.12369)|null|
 |**2025-07-16**|**Using deep learning to characterize single-exposure double-line spectroscopic binaries**|Avraham Binnenfeld et.al.|[2507.12363](http://arxiv.org/abs/2507.12363)|null|
 |**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344](http://arxiv.org/abs/2507.12344)|null|
 |**2025-07-16**|**Leveraging Bi-Directional Channel Reciprocity for Robust Ultra-Low-Rate Implicit CSI Feedback with Deep Learning**|Zhenyu Liu et.al.|[2507.12301](http://arxiv.org/abs/2507.12301)|null|
 |**2025-07-16**|**Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding**|Feng Xiao et.al.|[2507.12295](http://arxiv.org/abs/2507.12295)|null|
 |**2025-07-16**|**Forecasting Climate Policy Uncertainty: Evidence from the United States**|Donia Besher et.al.|[2507.12276](http://arxiv.org/abs/2507.12276)|null|
-|**2025-07-16**|**Site-Level Fine-Tuning with Progressive Layer Freezing: Towards Robust Prediction of Bronchopulmonary Dysplasia from Day-1 Chest Radiographs in Extremely Preterm Infants**|Sybelle Goedicke-Fritz et.al.|[2507.12269](http://arxiv.org/abs/2507.12269)|null|
+|**2025-07-17**|**Site-Level Fine-Tuning with Progressive Layer Freezing: Towards Robust Prediction of Bronchopulmonary Dysplasia from Day-1 Chest Radiographs in Extremely Preterm Infants**|Sybelle Goedicke-Fritz et.al.|[2507.12269](http://arxiv.org/abs/2507.12269)|null|
 |**2025-07-16**|**Comparative Analysis of CNN Performance in Keras, PyTorch and JAX on PathMNIST**|Anida Nezović et.al.|[2507.12248](http://arxiv.org/abs/2507.12248)|null|
 |**2025-07-16**|**Universal Fourier Neural Operators for Micromechanics**|Binh Huy Nguyen et.al.|[2507.12233](http://arxiv.org/abs/2507.12233)|null|
 |**2025-07-16**|**Optimizers Qualitatively Alter Solutions And We Should Leverage This**|Razvan Pascanu et.al.|[2507.12224](http://arxiv.org/abs/2507.12224)|null|
@@ -1842,7 +1842,7 @@ layout: default
 |**2025-07-14**|**Lightweight Model for Poultry Disease Detection from Fecal Images Using Multi-Color Space Feature Optimization and Machine Learning**|A. K. M. Shoriful Islam et.al.|[2507.10056](http://arxiv.org/abs/2507.10056)|null|
 |**2025-07-14**|**Hand Gesture Recognition for Collaborative Robots Using Lightweight Deep Learning in Real-Time Robotic Systems**|Muhtadin et.al.|[2507.10055](http://arxiv.org/abs/2507.10055)|null|
 |**2025-07-14**|**Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI**|Quentin Dessain et.al.|[2507.09996](http://arxiv.org/abs/2507.09996)|null|
-|**2025-07-14**|**A Brain Tumor Segmentation Method Based on CLIP and 3D U-Net with Cross-Modal Semantic Guidance and Multi-Level Feature Fusion**|Mingda Zhang et.al.|[2507.09966](http://arxiv.org/abs/2507.09966)|null|
+|**2025-07-17**|**A Brain Tumor Segmentation Method Based on CLIP and 3D U-Net with Cross-Modal Semantic Guidance and Multi-Level Feature Fusion**|Mingda Zhang et.al.|[2507.09966](http://arxiv.org/abs/2507.09966)|null|
 |**2025-07-14**|**Text-Driven Causal Representation Learning for Source-Free Domain Generalization**|Lihua Zhou et.al.|[2507.09961](http://arxiv.org/abs/2507.09961)|null|
 |**2025-07-14**|**Iceberg: Enhancing HLS Modeling with Synthetic Data**|Zijian Ding et.al.|[2507.09948](http://arxiv.org/abs/2507.09948)|null|
 |**2025-07-14**|**Long-Tailed Data Classification by Increasing and Decreasing Neurons During Training**|Taigo Sakai et.al.|[2507.09940](http://arxiv.org/abs/2507.09940)|null|

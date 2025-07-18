@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -263,7 +263,7 @@
 |**2022-03-01**|**Quantum simulations of neutral water clusters and singly-charged water cluster anions**|Alfonso Gijón et.al.|[2203.00375](http://arxiv.org/abs/2203.00375)|null|
 |**2022-03-01**|**Understanding Brownian yet non-Gaussian diffusion via long-range molecular interactions**|Francisco E. Alban Chacón et.al.|[2203.00149](http://arxiv.org/abs/2203.00149)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## DDI
 
@@ -397,7 +397,7 @@
 |**2016-01-14**|**Monitoring Potential Drug Interactions and Reactions via Network Analysis of Instagram User Timelines**|Rion Brattig Correia et.al.|[1510.01006](http://arxiv.org/abs/1510.01006)|null|
 |**2015-07-20**|**Provenance-Centered Dataset of Drug-Drug Interactions**|Juan M. Banda et.al.|[1507.05408](http://arxiv.org/abs/1507.05408)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## MG
 
@@ -633,7 +633,7 @@
 |**2020-07-06**|**PaccMann $^{RL}$ on SARS-CoV-2: Designing antiviral candidates with conditional generative models**|Jannis Born et.al.|[2005.13285](http://arxiv.org/abs/2005.13285)|**[link](https://github.com/PaccMann/paccmann_sarscov2)**|
 |**2020-03-04**|**Deterministic Decoding for Discrete Data in Variational Autoencoders**|Daniil Polykovskiy et.al.|[2003.02174](http://arxiv.org/abs/2003.02174)|**[link](https://github.com/insilicomedicine/DD-VAE)**|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## MPP
 
@@ -858,14 +858,14 @@
 |**2022-12-27**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745](http://arxiv.org/abs/2210.03745)|**[link](https://github.com/gmum/progrest)**|
 |**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101](http://arxiv.org/abs/2209.15101)|**[link](https://github.com/Data-reindeer/MOCO)**|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## MD
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-16**|**Revealing the impact of chemical short-range order on radiation damage in MoNbTaVW high-entropy alloys using a machine-learning potential**|Jiahui Liu et.al.|[2507.12388](http://arxiv.org/abs/2507.12388)|null|
-|**2025-07-16**|**When $B_2$ is Not Enough: Evaluating Simple Metrics for Predicting Phase Separation of Intrinsically Disordered Proteins**|Wesley W. Oliver et.al.|[2507.12312](http://arxiv.org/abs/2507.12312)|null|
+|**2025-07-17**|**When $B_2$ is Not Enough: Evaluating Simple Metrics for Predicting Phase Separation of Intrinsically Disordered Proteins**|Wesley W. Oliver et.al.|[2507.12312](http://arxiv.org/abs/2507.12312)|null|
 |**2025-07-15**|**Effects of Epoxy Composition on the Thermal and Network Properties of Crosslinked Thermosets: A Molecular-Dynamics Study**|Venkata Rama Manoj Pola et.al.|[2507.11453](http://arxiv.org/abs/2507.11453)|null|
 |**2025-07-15**|**Diverse polymorphism in Ruddlesden-Popper chalcogenides**|Prakriti Kayastha et.al.|[2507.11300](http://arxiv.org/abs/2507.11300)|null|
 |**2025-07-15**|**Cyclic Data Streaming on GPUs for Short Range Stencils Applied to Molecular Dynamics**|Martin Rose et.al.|[2507.11289](http://arxiv.org/abs/2507.11289)|null|
@@ -1768,7 +1768,7 @@
 |**2024-01-25**|**Solvation effects on halides core spectra with Multilevel Real-Time quantum embedding**|Jessica A. Martinez B. et.al.|[2401.14548](http://arxiv.org/abs/2401.14548)|null|
 |**2024-02-29**|**Threshold displacement energy map of Frenkel pair generation in $\rm Ga_2O_3$ from machine-learning-driven molecular dynamics simulations**|Huan He et.al.|[2401.14039](http://arxiv.org/abs/2401.14039)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## Transformer
 
@@ -1777,13 +1777,13 @@
 |**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461](http://arxiv.org/abs/2507.12461)|null|
 |**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444](http://arxiv.org/abs/2507.12444)|null|
 |**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380](http://arxiv.org/abs/2507.12380)|null|
-|**2025-07-16**|**Catching Bid-rigging Cartels with Graph Attention Neural Networks**|David Imhof et.al.|[2507.12369](http://arxiv.org/abs/2507.12369)|null|
+|**2025-07-17**|**Catching Bid-rigging Cartels with Graph Attention Neural Networks**|David Imhof et.al.|[2507.12369](http://arxiv.org/abs/2507.12369)|null|
 |**2025-07-16**|**Using deep learning to characterize single-exposure double-line spectroscopic binaries**|Avraham Binnenfeld et.al.|[2507.12363](http://arxiv.org/abs/2507.12363)|null|
 |**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344](http://arxiv.org/abs/2507.12344)|null|
 |**2025-07-16**|**Leveraging Bi-Directional Channel Reciprocity for Robust Ultra-Low-Rate Implicit CSI Feedback with Deep Learning**|Zhenyu Liu et.al.|[2507.12301](http://arxiv.org/abs/2507.12301)|null|
 |**2025-07-16**|**Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding**|Feng Xiao et.al.|[2507.12295](http://arxiv.org/abs/2507.12295)|null|
 |**2025-07-16**|**Forecasting Climate Policy Uncertainty: Evidence from the United States**|Donia Besher et.al.|[2507.12276](http://arxiv.org/abs/2507.12276)|null|
-|**2025-07-16**|**Site-Level Fine-Tuning with Progressive Layer Freezing: Towards Robust Prediction of Bronchopulmonary Dysplasia from Day-1 Chest Radiographs in Extremely Preterm Infants**|Sybelle Goedicke-Fritz et.al.|[2507.12269](http://arxiv.org/abs/2507.12269)|null|
+|**2025-07-17**|**Site-Level Fine-Tuning with Progressive Layer Freezing: Towards Robust Prediction of Bronchopulmonary Dysplasia from Day-1 Chest Radiographs in Extremely Preterm Infants**|Sybelle Goedicke-Fritz et.al.|[2507.12269](http://arxiv.org/abs/2507.12269)|null|
 |**2025-07-16**|**Comparative Analysis of CNN Performance in Keras, PyTorch and JAX on PathMNIST**|Anida Nezović et.al.|[2507.12248](http://arxiv.org/abs/2507.12248)|null|
 |**2025-07-16**|**Universal Fourier Neural Operators for Micromechanics**|Binh Huy Nguyen et.al.|[2507.12233](http://arxiv.org/abs/2507.12233)|null|
 |**2025-07-16**|**Optimizers Qualitatively Alter Solutions And We Should Leverage This**|Razvan Pascanu et.al.|[2507.12224](http://arxiv.org/abs/2507.12224)|null|
@@ -1862,7 +1862,7 @@
 |**2025-07-14**|**Lightweight Model for Poultry Disease Detection from Fecal Images Using Multi-Color Space Feature Optimization and Machine Learning**|A. K. M. Shoriful Islam et.al.|[2507.10056](http://arxiv.org/abs/2507.10056)|null|
 |**2025-07-14**|**Hand Gesture Recognition for Collaborative Robots Using Lightweight Deep Learning in Real-Time Robotic Systems**|Muhtadin et.al.|[2507.10055](http://arxiv.org/abs/2507.10055)|null|
 |**2025-07-14**|**Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI**|Quentin Dessain et.al.|[2507.09996](http://arxiv.org/abs/2507.09996)|null|
-|**2025-07-14**|**A Brain Tumor Segmentation Method Based on CLIP and 3D U-Net with Cross-Modal Semantic Guidance and Multi-Level Feature Fusion**|Mingda Zhang et.al.|[2507.09966](http://arxiv.org/abs/2507.09966)|null|
+|**2025-07-17**|**A Brain Tumor Segmentation Method Based on CLIP and 3D U-Net with Cross-Modal Semantic Guidance and Multi-Level Feature Fusion**|Mingda Zhang et.al.|[2507.09966](http://arxiv.org/abs/2507.09966)|null|
 |**2025-07-14**|**Text-Driven Causal Representation Learning for Source-Free Domain Generalization**|Lihua Zhou et.al.|[2507.09961](http://arxiv.org/abs/2507.09961)|null|
 |**2025-07-14**|**Iceberg: Enhancing HLS Modeling with Synthetic Data**|Zijian Ding et.al.|[2507.09948](http://arxiv.org/abs/2507.09948)|null|
 |**2025-07-14**|**Long-Tailed Data Classification by Increasing and Decreasing Neurons During Training**|Taigo Sakai et.al.|[2507.09940](http://arxiv.org/abs/2507.09940)|null|
@@ -14121,7 +14121,7 @@
 |**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894](http://arxiv.org/abs/2403.11894)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870](http://arxiv.org/abs/2403.11870)|**[link](https://github.com/songyxing/idf-cr)**|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## Binding
 
@@ -14387,7 +14387,7 @@
 |**2022-12-03**|**Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery**|Chao Pang et.al.|[2212.01575](http://arxiv.org/abs/2212.01575)|null|
 |**2022-12-01**|**Carica papaya Leaf Extract Inhibits SARS-CoV-2 Main Proteases but not Human TMPRSS2: An In-vitro and In-silico Study**|Maywan Hariono et.al.|[2212.00273](http://arxiv.org/abs/2212.00273)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## Geometric deep learning
 
@@ -14572,7 +14572,7 @@
 |**2022-07-06**|**White Matter Tracts are Point Clouds: Neuropsychological Score Prediction and Critical Region Localization via Geometric Deep Learning**|Yuqian Chen et.al.|[2207.02402](http://arxiv.org/abs/2207.02402)|null|
 |**2022-09-25**|**Generalized Permutants and Graph GENEOs**|Faraz Ahmad et.al.|[2206.14798](http://arxiv.org/abs/2206.14798)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
