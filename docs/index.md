@@ -846,6 +846,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Phase transitions of eutectic high entropy alloy AlCoCrFeNi2.1 under shock compression**|Sophie Parsons et.al.|[2507.13218](http://arxiv.org/abs/2507.13218)|null|
 |**2025-07-16**|**Revealing the impact of chemical short-range order on radiation damage in MoNbTaVW high-entropy alloys using a machine-learning potential**|Jiahui Liu et.al.|[2507.12388](http://arxiv.org/abs/2507.12388)|null|
 |**2025-07-17**|**When $B_2$ is Not Enough: Evaluating Simple Metrics for Predicting Phase Separation of Intrinsically Disordered Proteins**|Wesley W. Oliver et.al.|[2507.12312](http://arxiv.org/abs/2507.12312)|null|
 |**2025-07-15**|**Effects of Epoxy Composition on the Thermal and Network Properties of Crosslinked Thermosets: A Molecular-Dynamics Study**|Venkata Rama Manoj Pola et.al.|[2507.11453](http://arxiv.org/abs/2507.11453)|null|
@@ -1754,6 +1755,40 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Stochastic Weakly Convex Optimization Under Heavy-Tailed Noises**|Tianxi Zhu et.al.|[2507.13283](http://arxiv.org/abs/2507.13283)|null|
+|**2025-07-17**|**Transient-Stability-Aware Frequency Provision in IBR-Rich Grids via Information Gap Decision Theory and Deep Learning**|Amin Masoumi et.al.|[2507.13265](http://arxiv.org/abs/2507.13265)|null|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
+|**2025-07-17**|**Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**|Zhennan Xiao et.al.|[2507.13106](http://arxiv.org/abs/2507.13106)|null|
+|**2025-07-17**|**DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**|Han Zhang et.al.|[2507.13087](http://arxiv.org/abs/2507.13087)|null|
+|**2025-07-17**|**DASViT: Differentiable Architecture Search for Vision Transformer**|Pengjin Wu et.al.|[2507.13079](http://arxiv.org/abs/2507.13079)|null|
+|**2025-07-17**|**Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization**|Songlin Li et.al.|[2507.13018](http://arxiv.org/abs/2507.13018)|null|
+|**2025-07-17**|**WaveletInception Networks for Drive-by Vibration-Based Infrastructure Health Monitoring**|Reza Riahi Samani et.al.|[2507.12969](http://arxiv.org/abs/2507.12969)|null|
+|**2025-07-17**|**Adaptive feature capture method for solving partial differential equations with low regularity solutions**|Yangtao Deng et.al.|[2507.12941](http://arxiv.org/abs/2507.12941)|null|
+|**2025-07-17**|**A Deep-Learning Framework for Land-Sliding Classification from Remote Sensing Image**|Hieu Tang et.al.|[2507.12939](http://arxiv.org/abs/2507.12939)|null|
+|**2025-07-17**|**Trace Reconstruction with Language Models**|Franziska Weindel et.al.|[2507.12927](http://arxiv.org/abs/2507.12927)|null|
+|**2025-07-17**|**Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense**|Victoria Childress et.al.|[2507.12919](http://arxiv.org/abs/2507.12919)|null|
+|**2025-07-17**|**Robust Explanations Through Uncertainty Decomposition: A Path to Trustworthier AI**|Chenrui Zhu et.al.|[2507.12913](http://arxiv.org/abs/2507.12913)|null|
+|**2025-07-17**|**An ultra-low-power CGRA for accelerating Transformers at the edge**|Rohit Prasad et.al.|[2507.12904](http://arxiv.org/abs/2507.12904)|null|
+|**2025-07-17**|**From Neck to Head: Bio-Impedance Sensing for Head Pose Estimation**|Mengxi Liu et.al.|[2507.12884](http://arxiv.org/abs/2507.12884)|null|
+|**2025-07-17**|**Understanding the Evolution of the Neural Tangent Kernel at the Edge of Stability**|Kaiqi Jiang et.al.|[2507.12837](http://arxiv.org/abs/2507.12837)|null|
+|**2025-07-17**|**Early Prediction of Current Quench Events in the ADITYA Tokamak using Transformer based Data Driven Models**|Jyoti Agarwal et.al.|[2507.12797](http://arxiv.org/abs/2507.12797)|null|
+|**2025-07-17**|**Early Detection of Furniture-Infesting Wood-Boring Beetles Using CNN-LSTM Networks and MFCC-Based Acoustic Features**|J. M. Chan Sri Manukalpa et.al.|[2507.12793](http://arxiv.org/abs/2507.12793)|null|
+|**2025-07-17**|**Multi-Channel Graph Neural Network for Financial Risk Prediction of NEEQ Enterprises**|Jianyu Zhu et.al.|[2507.12787](http://arxiv.org/abs/2507.12787)|null|
+|**2025-07-17**|**Compact Vision Transformer by Reduction of Kernel Complexity**|Yancheng Wang et.al.|[2507.12780](http://arxiv.org/abs/2507.12780)|null|
+|**2025-07-17**|**A Comprehensive Survey of Electronic Health Record Modeling: From Deep Learning Approaches to Large Language Models**|Weijieying Ren et.al.|[2507.12774](http://arxiv.org/abs/2507.12774)|null|
+|**2025-07-17**|**Layer Separation Deep Learning Model with Auxiliary Variables for Partial Differential Equations**|Yaru Liu et.al.|[2507.12766](http://arxiv.org/abs/2507.12766)|null|
+|**2025-07-17**|**From SGD to Spectra: A Theory of Neural Network Weight Dynamics**|Brian Richard Olsen et.al.|[2507.12709](http://arxiv.org/abs/2507.12709)|null|
+|**2025-07-16**|**TRIQA: Image Quality Assessment by Contrastive Pretraining on Ordered Distortion Triplets**|Rajesh Sureddi et.al.|[2507.12687](http://arxiv.org/abs/2507.12687)|null|
+|**2025-07-16**|**Integrated Oculomics and Lipidomics Reveal Microvascular Metabolic Signatures Associated with Cardiovascular Health in a Healthy Cohort**|Inamullah et.al.|[2507.12663](http://arxiv.org/abs/2507.12663)|null|
+|**2025-07-16**|**Improving physics-informed neural network extrapolation via transfer learning and adaptive activation functions**|Athanasios Papastathopoulos-Katsaros et.al.|[2507.12659](http://arxiv.org/abs/2507.12659)|null|
+|**2025-07-16**|**A Novel Data Augmentation Strategy for Robust Deep Learning Classification of Biomedical Time-Series Data: Application to ECG and EEG Analysis**|Mohammed Guhdar et.al.|[2507.12645](http://arxiv.org/abs/2507.12645)|null|
+|**2025-07-16**|**Mapping Emotions in the Brain: A Bi-Hemispheric Neural Model with Explainable Deep Learning**|David Freire-Obregón et.al.|[2507.12625](http://arxiv.org/abs/2507.12625)|null|
+|**2025-07-16**|**Pathology-Guided Virtual Staining Metric for Evaluation and Training**|Qiankai Wang et.al.|[2507.12624](http://arxiv.org/abs/2507.12624)|null|
+|**2025-07-16**|**Predicting Soccer Penalty Kick Direction Using Human Action Recognition**|David Freire-Obregón et.al.|[2507.12617](http://arxiv.org/abs/2507.12617)|null|
+|**2025-07-16**|**CT-ScanGaze: A Dataset and Baselines for 3D Volumetric Scanpath Modeling**|Trong-Thang Pham et.al.|[2507.12591](http://arxiv.org/abs/2507.12591)|null|
+|**2025-07-16**|**Safeguarding Federated Learning-based Road Condition Classification**|Sheng Liu et.al.|[2507.12568](http://arxiv.org/abs/2507.12568)|null|
+|**2025-07-16**|**Rel-HNN: Split Parallel Hypergraph Neural Network for Learning on Relational Databases**|Md. Tanvir Alam et.al.|[2507.12562](http://arxiv.org/abs/2507.12562)|null|
+|**2025-07-14**|**Quantum Transfer Learning to Boost Dementia Detection**|Sounak Bhowmik et.al.|[2507.12485](http://arxiv.org/abs/2507.12485)|null|
 |**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461](http://arxiv.org/abs/2507.12461)|null|
 |**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444](http://arxiv.org/abs/2507.12444)|null|
 |**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380](http://arxiv.org/abs/2507.12380)|null|
@@ -14105,6 +14140,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Continued domain-specific pre-training of protein language models for pMHC-I binding prediction**|Sergio E. Mares et.al.|[2507.13077](http://arxiv.org/abs/2507.13077)|null|
 |**2025-07-15**|**Torsional-GFN: a conditional conformation generator for small molecules**|Alexandra Volokhova et.al.|[2507.11759](http://arxiv.org/abs/2507.11759)|null|
 |**2025-07-11**|**ToxBench: A Binding Affinity Prediction Benchmark with AB-FEP-Calculated Labels for Human Estrogen Receptor Alpha**|Meng Liu et.al.|[2507.08966](http://arxiv.org/abs/2507.08966)|null|
 |**2025-07-09**|**Topological Sequence Analysis of Genomes: Category Approaches**|Jian Liu et.al.|[2507.08043](http://arxiv.org/abs/2507.08043)|null|
