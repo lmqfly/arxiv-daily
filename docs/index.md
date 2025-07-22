@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -29,7 +29,7 @@ layout: default
 |**2025-06-13**|**Chirality across scales in tissue dynamics**|Sihan Chen et.al.|[2506.12276](http://arxiv.org/abs/2506.12276)|null|
 |**2025-06-06**|**BioMol-MQA: A Multi-Modal Question Answering Dataset For LLM Reasoning Over Bio-Molecular Interactions**|Saptarshi Sengupta et.al.|[2506.05766](http://arxiv.org/abs/2506.05766)|null|
 |**2025-06-05**|**Chirality Amplification and Deracemization in Liquid Crystals**|Matthew J. Deutsch et.al.|[2506.05053](http://arxiv.org/abs/2506.05053)|null|
-|**2025-06-02**|**SOC-DGL: Social Interaction Behavior Inspired Dual Graph Learning Framework for Drug-Target Interaction Identification**|Xiang Zhao et.al.|[2506.01405](http://arxiv.org/abs/2506.01405)|**[link](https://github.com/Zhaoxiang0422/SOC-DGL)**|
+|**2025-07-20**|**SOC-DGL: Social Interaction Behavior Inspired Dual Graph Learning Framework for Drug-Target Interaction Identification**|Xiang Zhao et.al.|[2506.01405](http://arxiv.org/abs/2506.01405)|**[link](https://github.com/Zhaoxiang0422/SOC-DGL)**|
 |**2025-06-01**|**Uncertainty-Aware Metabolic Stability Prediction with Dual-View Contrastive Learning**|Peijin Guo et.al.|[2506.00936](http://arxiv.org/abs/2506.00936)|null|
 |**2025-05-29**|**FDTD with Auxiliary Bath Fields for Condensed-Phase Polaritonics: Fundamentals and Implementation**|Tao E. Li et.al.|[2505.23963](http://arxiv.org/abs/2505.23963)|null|
 |**2025-05-24**|**Conformal Prediction for Uncertainty Estimation in Drug-Target Interaction Prediction**|Morteza Rakhshaninejad et.al.|[2505.18890](http://arxiv.org/abs/2505.18890)|null|
@@ -390,7 +390,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-18**|**MolPIF: A Parameter Interpolation Flow Model for Molecule Generation**|Yaowei Jin et.al.|[2507.13762](http://arxiv.org/abs/2507.13762)|null|
-|**2025-07-18**|**Bayesian Optimization for Molecules Should Be Pareto-Aware**|Anabel Yong et.al.|[2507.13704](http://arxiv.org/abs/2507.13704)|null|
+|**2025-07-21**|**Bayesian Optimization for Molecules Should Be Pareto-Aware**|Anabel Yong et.al.|[2507.13704](http://arxiv.org/abs/2507.13704)|null|
 |**2025-07-16**|**SynCoGen: Synthesizable 3D Molecule Generation via Joint Reaction and Coordinate Modeling**|Andrei Rekesh et.al.|[2507.11818](http://arxiv.org/abs/2507.11818)|null|
 |**2025-07-15**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
 |**2025-07-14**|**TextOmics-Guided Diffusion for Hit-like Molecular Generation**|Hang Yuan et.al.|[2507.09982](http://arxiv.org/abs/2507.09982)|null|
@@ -449,7 +449,7 @@ layout: default
 |**2025-02-13**|**Diffusion Models for Molecules: A Survey of Methods and Tasks**|Liang Wang et.al.|[2502.09511](http://arxiv.org/abs/2502.09511)|**[link](https://github.com/azureleon1/awesome-molecular-diffusion-models)**|
 |**2025-05-19**|**Greed is Good: A Unifying Perspective on Guided Generation**|Zander W. Blasingame et.al.|[2502.08006](http://arxiv.org/abs/2502.08006)|null|
 |**2025-03-29**|**Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation**|Kim Yong Tan et.al.|[2502.01692](http://arxiv.org/abs/2502.01692)|**[link](https://github.com/kimyong95/guide-stable-diffusion)**|
-|**2025-01-30**|**BARNN: A Bayesian Autoregressive and Recurrent Neural Network**|Dario Coscia et.al.|[2501.18665](http://arxiv.org/abs/2501.18665)|null|
+|**2025-07-18**|**BARNN: A Bayesian Autoregressive and Recurrent Neural Network**|Dario Coscia et.al.|[2501.18665](http://arxiv.org/abs/2501.18665)|null|
 |**2025-01-21**|**Federated Discrete Denoising Diffusion Model for Molecular Generation with OpenFL**|Kevin Ta et.al.|[2501.12523](http://arxiv.org/abs/2501.12523)|**[link](https://github.com/securefederatedai/openfl)**|
 |**2025-05-26**|**GenMol: A Drug Discovery Generalist with Discrete Diffusion**|Seul Lee et.al.|[2501.06158](http://arxiv.org/abs/2501.06158)|null|
 |**2025-01-05**|**Unified Guidance for Geometry-Conditioned Molecular Generation**|Sirine Ayadi et.al.|[2501.02526](http://arxiv.org/abs/2501.02526)|null|
