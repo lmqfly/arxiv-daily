@@ -625,6 +625,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Aligned Manifold Property and Topology Point Clouds for Learning Molecular Properties**|Alexander Mihalcea et.al.|[2507.16223](http://arxiv.org/abs/2507.16223)|null|
 |**2025-07-15**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
 |**2025-07-05**|**Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model**|Jianshen Zhu et.al.|[2507.03920](http://arxiv.org/abs/2507.03920)|null|
 |**2025-07-04**|**Multi-Level Fusion Graph Neural Network for Molecule Property Prediction**|XiaYu Liu et.al.|[2507.03430](http://arxiv.org/abs/2507.03430)|null|
@@ -848,6 +849,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**A charge-density machine-learning workflow for computing the infrared spectrum of molecules**|Suman Hazra et.al.|[2507.16565](http://arxiv.org/abs/2507.16565)|null|
 |**2025-07-21**|**Relationship between Structure and Dynamics of an Icosahedral Quasicrystal using Unsupervised Machine Learning**|Edwin A. Bedolla-Montiel et.al.|[2507.15731](http://arxiv.org/abs/2507.15731)|null|
 |**2025-07-21**|**Giant Reversible Piezoelectricity from Symmetry-Governed Stochastic Dipole Hopping**|Denan Li et.al.|[2507.15687](http://arxiv.org/abs/2507.15687)|null|
 |**2025-07-21**|**Data-driven Discovery of Novel High-performance Quaternary Chalcogenide Photovoltaics**|Nikhil Singh et.al.|[2507.15430](http://arxiv.org/abs/2507.15430)|null|
@@ -1768,6 +1770,37 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**|Yushuo Niu et.al.|[2507.16803](http://arxiv.org/abs/2507.16803)|null|
+|**2025-07-22**|**Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models**|Yuxi Lin et.al.|[2507.16801](http://arxiv.org/abs/2507.16801)|null|
+|**2025-07-22**|**A Tutorial on MRI Reconstruction: From Modern Methods to Clinical Implications**|Tolga Çukur et.al.|[2507.16715](http://arxiv.org/abs/2507.16715)|null|
+|**2025-07-22**|**Pixel-Resolved Long-Context Learning for Turbulence at Exascale: Resolving Small-scale Eddies Toward the Viscous Limit**|Junqi Yin et.al.|[2507.16697](http://arxiv.org/abs/2507.16697)|null|
+|**2025-07-22**|**Deep Unfolding Network for Nonlinear Multi-Frequency Electrical Impedance Tomography**|Giovanni S. Alberti et.al.|[2507.16678](http://arxiv.org/abs/2507.16678)|null|
+|**2025-07-22**|**Synthetic Data Matters: Re-training with Geo-typical Synthetic Labels for Building Detection**|Shuang Song et.al.|[2507.16657](http://arxiv.org/abs/2507.16657)|null|
+|**2025-07-22**|**Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation**|Xueming Fu et.al.|[2507.16608](http://arxiv.org/abs/2507.16608)|null|
+|**2025-07-22**|**A Robust 5G Terrestrial Positioning System with Sensor Fusion in GNSS-denied Scenarios**|Hamed Talebian et.al.|[2507.16600](http://arxiv.org/abs/2507.16600)|null|
+|**2025-07-22**|**An Experimental Study of Split-Learning TinyML on Ultra-Low-Power Edge/IoT Nodes**|Zied Jenhani et.al.|[2507.16594](http://arxiv.org/abs/2507.16594)|null|
+|**2025-07-22**|**LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models**|Ahmed Lekssays et.al.|[2507.16585](http://arxiv.org/abs/2507.16585)|null|
+|**2025-07-22**|**PlantSAM: An Object Detection-Driven Segmentation Pipeline for Herbarium Specimens**|Youcef Sklab et.al.|[2507.16506](http://arxiv.org/abs/2507.16506)|null|
+|**2025-07-22**|**Are Foundation Models All You Need for Zero-shot Face Presentation Attack Detection?**|Lazaro Janier Gonzalez-Sole et.al.|[2507.16393](http://arxiv.org/abs/2507.16393)|null|
+|**2025-07-22**|**A High Magnifications Histopathology Image Dataset for Oral Squamous Cell Carcinoma Diagnosis and Prognosis**|Jinquan Guan et.al.|[2507.16360](http://arxiv.org/abs/2507.16360)|null|
+|**2025-07-22**|**Physics-Driven Neural Network for Solving Electromagnetic Inverse Scattering Problems**|Yutong Du et.al.|[2507.16321](http://arxiv.org/abs/2507.16321)|null|
+|**2025-07-22**|**Cross-Modal Distillation For Widely Differing Modalities**|Cairong Zhao et.al.|[2507.16296](http://arxiv.org/abs/2507.16296)|null|
+|**2025-07-22**|**MAN++: Scaling Momentum Auxiliary Network for Supervised Local Learning in Vision Tasks**|Junhao Su et.al.|[2507.16279](http://arxiv.org/abs/2507.16279)|null|
+|**2025-07-22**|**Understanding Generalization, Robustness, and Interpretability in Low-Capacity Neural Networks**|Yash Kumar et.al.|[2507.16278](http://arxiv.org/abs/2507.16278)|null|
+|**2025-07-22**|**Reducing GPU Memory Fragmentation via Spatio-Temporal Planning for Efficient Large-Scale Model Training**|Zixiao Huang et.al.|[2507.16274](http://arxiv.org/abs/2507.16274)|null|
+|**2025-07-22**|**SFNet: A Spatio-Frequency Domain Deep Learning Network for Efficient Alzheimer's Disease Diagnosis**|Xinyue Yang et.al.|[2507.16267](http://arxiv.org/abs/2507.16267)|null|
+|**2025-07-22**|**MONITRS: Multimodal Observations of Natural Incidents Through Remote Sensing**|Shreelekha Revankar et.al.|[2507.16228](http://arxiv.org/abs/2507.16228)|null|
+|**2025-07-22**|**Predictive Hydrodynamic Simulations for Laser Direct-drive Implosion Experiments via Artificial Intelligence**|Zixu Wang et.al.|[2507.16227](http://arxiv.org/abs/2507.16227)|null|
+|**2025-07-22**|**Bayesian Deep Learning for Convective Initiation Nowcasting Uncertainty Estimation**|Da Fan et.al.|[2507.16219](http://arxiv.org/abs/2507.16219)|null|
+|**2025-07-22**|**An AI super-resolution field emulator for cosmological hydrodynamics: the Lyman-α forest**|Fatemeh Hafezianzadeh et.al.|[2507.16189](http://arxiv.org/abs/2507.16189)|null|
+|**2025-07-22**|**Attacking interpretable NLP systems**|Eldor Abdukhamidov et.al.|[2507.16164](http://arxiv.org/abs/2507.16164)|null|
+|**2025-07-21**|**A Lower Bound for the Number of Linear Regions of Ternary ReLU Regression Neural Networks**|Yuta Nakahara et.al.|[2507.16079](http://arxiv.org/abs/2507.16079)|null|
+|**2025-07-21**|**Handcrafted vs. Deep Radiomics vs. Fusion vs. Deep Learning: A Comprehensive Review of Machine Learning -Based Cancer Outcome Prediction in PET and SPECT Imaging**|Mohammad R. Salmanpour et.al.|[2507.16065](http://arxiv.org/abs/2507.16065)|null|
+|**2025-07-21**|**Reactivation: Empirical NTK Dynamics Under Task Shifts**|Yuzhi Liu et.al.|[2507.16039](http://arxiv.org/abs/2507.16039)|null|
+|**2025-07-21**|**Scaling Recommender Transformers to One Billion Parameters**|Kirill Khrylchenko et.al.|[2507.15994](http://arxiv.org/abs/2507.15994)|null|
+|**2025-07-21**|**An empirical study for the early detection of Mpox from skin lesion images using pretrained CNN models leveraging XAI technique**|Mohammad Asifur Rahim et.al.|[2507.15915](http://arxiv.org/abs/2507.15915)|null|
+|**2025-07-21**|**Physical parameter regression from black hole images via a multiscale adaptive neural network**|Jialei Wei et.al.|[2507.15910](http://arxiv.org/abs/2507.15910)|null|
+|**2025-07-21**|**Foundation Models and Transformers for Anomaly Detection: A Survey**|Mouïn Ben Ammar et.al.|[2507.15905](http://arxiv.org/abs/2507.15905)|null|
 |**2025-07-21**|**Optimizing Canaries for Privacy Auditing with Metagradient Descent**|Matteo Boglioni et.al.|[2507.15836](http://arxiv.org/abs/2507.15836)|null|
 |**2025-07-21**|**Deep-Learning Investigation of Vibrational Raman Spectra for Plant-Stress Analysis**|Anoop C. Patil et.al.|[2507.15772](http://arxiv.org/abs/2507.15772)|null|
 |**2025-07-21**|**Multi-Modal Sensor Fusion for Proactive Blockage Prediction in mmWave Vehicular Networks**|Ahmad M. Nazar et.al.|[2507.15769](http://arxiv.org/abs/2507.15769)|null|
