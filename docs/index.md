@@ -849,6 +849,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Atomistic modeling of uranium monocarbide with a machine learning interatomic potential**|Lorena Alzate-Vargas et.al.|[2507.17576](http://arxiv.org/abs/2507.17576)|null|
+|**2025-07-22**|**Thermophysical and Mechanical Properties Prediction of Rear-earth High-entropy Pyrochlore Based on Deep-learning Potential**|Yuxuan Wang et.al.|[2507.17032](http://arxiv.org/abs/2507.17032)|null|
 |**2025-07-22**|**A charge-density machine-learning workflow for computing the infrared spectrum of molecules**|Suman Hazra et.al.|[2507.16565](http://arxiv.org/abs/2507.16565)|null|
 |**2025-07-21**|**Relationship between Structure and Dynamics of an Icosahedral Quasicrystal using Unsupervised Machine Learning**|Edwin A. Bedolla-Montiel et.al.|[2507.15731](http://arxiv.org/abs/2507.15731)|null|
 |**2025-07-21**|**Giant Reversible Piezoelectricity from Symmetry-Governed Stochastic Dipole Hopping**|Denan Li et.al.|[2507.15687](http://arxiv.org/abs/2507.15687)|null|
@@ -1770,6 +1772,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation**|Robel Mamo et.al.|[2507.17727](http://arxiv.org/abs/2507.17727)|null|
+|**2025-07-23**|**Deep Generative Learning of Magnetic Frustration in Artificial Spin Ice from Magnetic Force Microscopy Images**|Arnab Neogi et.al.|[2507.17726](http://arxiv.org/abs/2507.17726)|null|
+|**2025-07-23**|**Audio-Vision Contrastive Learning for Phonological Class Recognition**|Daiqi Liu et.al.|[2507.17682](http://arxiv.org/abs/2507.17682)|null|
+|**2025-07-23**|**Graph Neural Network Approach to Predicting Magnetization in Quasi-One-Dimensional Ising Systems**|V. Slavin et.al.|[2507.17509](http://arxiv.org/abs/2507.17509)|null|
+|**2025-07-23**|**Illicit object detection in X-ray imaging using deep learning techniques: A comparative evaluation**|Jorgen Cani et.al.|[2507.17508](http://arxiv.org/abs/2507.17508)|null|
+|**2025-07-23**|**DNT: a Deeply Normalized Transformer that can be trained by Momentum SGD**|Xianbiao Qi et.al.|[2507.17501](http://arxiv.org/abs/2507.17501)|null|
+|**2025-07-23**|**Optimizing quantum sensing networks via genetic algorithms and deep learning**|Asghar Ullah et.al.|[2507.17460](http://arxiv.org/abs/2507.17460)|null|
+|**2025-07-23**|**CAPRI-CT: Causal Analysis and Predictive Reasoning for Image Quality Optimization in Computed Tomography**|Sneha George Gnanakalavathy et.al.|[2507.17420](http://arxiv.org/abs/2507.17420)|null|
+|**2025-07-23**|**Exploring Active Learning for Semiconductor Defect Segmentation**|Lile Cai et.al.|[2507.17359](http://arxiv.org/abs/2507.17359)|null|
+|**2025-07-23**|**EndoFinder: Online Lesion Retrieval for Explainable Colorectal Polyp Diagnosis Leveraging Latent Scene Representations**|Ruijie Yang et.al.|[2507.17323](http://arxiv.org/abs/2507.17323)|null|
+|**2025-07-23**|**Efficient Column-Wise N:M Pruning on RISC-V CPU**|Chi-Wei Chu et.al.|[2507.17301](http://arxiv.org/abs/2507.17301)|null|
+|**2025-07-23**|**Multi-modal encoder-decoder neural network for forecasting solar wind speed at L1**|Dattaraj B. Dhuri et.al.|[2507.17298](http://arxiv.org/abs/2507.17298)|null|
+|**2025-07-23**|**State Estimation with 1-Bit Observations and Imperfect Models: Bussgang Meets Kalman in Neural Networks**|Chaehyun Jung et.al.|[2507.17284](http://arxiv.org/abs/2507.17284)|null|
+|**2025-07-23**|**DistrAttention: An Efficient and Flexible Self-Attention Mechanism on Modern GPUs**|Haolin Jin et.al.|[2507.17245](http://arxiv.org/abs/2507.17245)|null|
+|**2025-07-23**|**HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery**|Haoran Jiang et.al.|[2507.17209](http://arxiv.org/abs/2507.17209)|null|
+|**2025-07-23**|**Met $^2$ Net: A Decoupled Two-Stage Spatio-Temporal Forecasting Model for Complex Meteorological Systems**|Shaohan Li et.al.|[2507.17189](http://arxiv.org/abs/2507.17189)|null|
+|**2025-07-23**|**Tabular Diffusion based Actionable Counterfactual Explanations for Network Intrusion Detection**|Vinura Galwaduge et.al.|[2507.17161](http://arxiv.org/abs/2507.17161)|null|
+|**2025-07-23**|**Robust Five-Class and binary Diabetic Retinopathy Classification Using Transfer Learning and Data Augmentation**|Faisal Ahmed et.al.|[2507.17121](http://arxiv.org/abs/2507.17121)|null|
+|**2025-07-23**|**Weather-Aware AI Systems versus Route-Optimization AI: A Comprehensive Analysis of AI Applications in Transportation Productivity**|Tatsuru Kikuchi et.al.|[2507.17099](http://arxiv.org/abs/2507.17099)|null|
+|**2025-07-22**|**A Novel Discovery of Negative Thermal Expansion in Rare-earth Pyrochlore through Anion Order-Disorder Transition**|Yuxuan Wang et.al.|[2507.17040](http://arxiv.org/abs/2507.17040)|null|
+|**2025-07-22**|**Transformer Based Building Boundary Reconstruction using Attraction Field Maps**|Muhammad Kamran et.al.|[2507.17038](http://arxiv.org/abs/2507.17038)|null|
+|**2025-07-22**|**Thermophysical and Mechanical Properties Prediction of Rear-earth High-entropy Pyrochlore Based on Deep-learning Potential**|Yuxuan Wang et.al.|[2507.17032](http://arxiv.org/abs/2507.17032)|null|
+|**2025-07-22**|**laplax -- Laplace Approximations with JAX**|Tobias Weber et.al.|[2507.17013](http://arxiv.org/abs/2507.17013)|null|
+|**2025-07-22**|**Divisive Decisions: Improving Salience-Based Training for Generalization in Binary Classification Tasks**|Jacob Piland et.al.|[2507.17000](http://arxiv.org/abs/2507.17000)|null|
+|**2025-07-22**|**PyG 2.0: Scalable Learning on Real World Graphs**|Matthias Fey et.al.|[2507.16991](http://arxiv.org/abs/2507.16991)|null|
+|**2025-07-22**|**Harmonization in Magnetic Resonance Imaging: A Survey of Acquisition, Image-level, and Feature-level Methods**|Qinqin Yang et.al.|[2507.16962](http://arxiv.org/abs/2507.16962)|null|
+|**2025-07-22**|**A Hybrid CNN-VSSM model for Multi-View, Multi-Task Mammography Analysis: Robust Diagnosis with Attention-Based Fusion**|Yalda Zafari et.al.|[2507.16955](http://arxiv.org/abs/2507.16955)|null|
+|**2025-07-22**|**Evaluating Ensemble and Deep Learning Models for Static Malware Detection with Dimensionality Reduction Using the EMBER Dataset**|Md Min-Ha-Zul Abedin et.al.|[2507.16952](http://arxiv.org/abs/2507.16952)|null|
+|**2025-07-22**|**Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review**|Charlotte Jennings et.al.|[2507.16876](http://arxiv.org/abs/2507.16876)|null|
+|**2025-07-22**|**CompLeak: Deep Learning Model Compression Exacerbates Privacy Leakage**|Na Li et.al.|[2507.16872](http://arxiv.org/abs/2507.16872)|null|
+|**2025-07-21**|**Coarse-to-fine crack cue for robust crack detection**|Zelong Liu et.al.|[2507.16851](http://arxiv.org/abs/2507.16851)|null|
+|**2025-07-21**|**Post-Disaster Affected Area Segmentation with a Vision Transformer (ViT)-based EVAP Model using Sentinel-2 and Formosat-5 Imagery**|Yi-Shan Chu et.al.|[2507.16849](http://arxiv.org/abs/2507.16849)|null|
 |**2025-07-22**|**MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**|Yushuo Niu et.al.|[2507.16803](http://arxiv.org/abs/2507.16803)|null|
 |**2025-07-22**|**Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models**|Yuxi Lin et.al.|[2507.16801](http://arxiv.org/abs/2507.16801)|null|
 |**2025-07-22**|**A Tutorial on MRI Reconstruction: From Modern Methods to Clinical Implications**|Tolga Çukur et.al.|[2507.16715](http://arxiv.org/abs/2507.16715)|null|
