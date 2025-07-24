@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -451,7 +451,7 @@ layout: default
 |**2025-03-29**|**Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation**|Kim Yong Tan et.al.|[2502.01692](http://arxiv.org/abs/2502.01692)|**[link](https://github.com/kimyong95/guide-stable-diffusion)**|
 |**2025-07-18**|**BARNN: A Bayesian Autoregressive and Recurrent Neural Network**|Dario Coscia et.al.|[2501.18665](http://arxiv.org/abs/2501.18665)|null|
 |**2025-01-21**|**Federated Discrete Denoising Diffusion Model for Molecular Generation with OpenFL**|Kevin Ta et.al.|[2501.12523](http://arxiv.org/abs/2501.12523)|**[link](https://github.com/securefederatedai/openfl)**|
-|**2025-05-26**|**GenMol: A Drug Discovery Generalist with Discrete Diffusion**|Seul Lee et.al.|[2501.06158](http://arxiv.org/abs/2501.06158)|null|
+|**2025-07-22**|**GenMol: A Drug Discovery Generalist with Discrete Diffusion**|Seul Lee et.al.|[2501.06158](http://arxiv.org/abs/2501.06158)|null|
 |**2025-01-05**|**Unified Guidance for Geometry-Conditioned Molecular Generation**|Sirine Ayadi et.al.|[2501.02526](http://arxiv.org/abs/2501.02526)|null|
 |**2025-01-03**|**Active Learning Enables Extrapolation in Molecular Generative Models**|Evan R. Antoniuk et.al.|[2501.02059](http://arxiv.org/abs/2501.02059)|null|
 |**2025-04-29**|**MADGEN: Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|**[link](https://github.com/HassounLab/MADGEN)**|
@@ -1788,7 +1788,7 @@ layout: default
 |**2025-07-22**|**MAN++: Scaling Momentum Auxiliary Network for Supervised Local Learning in Vision Tasks**|Junhao Su et.al.|[2507.16279](http://arxiv.org/abs/2507.16279)|null|
 |**2025-07-22**|**Understanding Generalization, Robustness, and Interpretability in Low-Capacity Neural Networks**|Yash Kumar et.al.|[2507.16278](http://arxiv.org/abs/2507.16278)|null|
 |**2025-07-22**|**Reducing GPU Memory Fragmentation via Spatio-Temporal Planning for Efficient Large-Scale Model Training**|Zixiao Huang et.al.|[2507.16274](http://arxiv.org/abs/2507.16274)|null|
-|**2025-07-22**|**SFNet: A Spatio-Frequency Domain Deep Learning Network for Efficient Alzheimer's Disease Diagnosis**|Xinyue Yang et.al.|[2507.16267](http://arxiv.org/abs/2507.16267)|null|
+|**2025-07-23**|**SFNet: A Spatial-Frequency Domain Deep Learning Network for Efficient Alzheimer's Disease Diagnosis**|Xinyue Yang et.al.|[2507.16267](http://arxiv.org/abs/2507.16267)|null|
 |**2025-07-22**|**MONITRS: Multimodal Observations of Natural Incidents Through Remote Sensing**|Shreelekha Revankar et.al.|[2507.16228](http://arxiv.org/abs/2507.16228)|null|
 |**2025-07-22**|**Predictive Hydrodynamic Simulations for Laser Direct-drive Implosion Experiments via Artificial Intelligence**|Zixu Wang et.al.|[2507.16227](http://arxiv.org/abs/2507.16227)|null|
 |**2025-07-22**|**Bayesian Deep Learning for Convective Initiation Nowcasting Uncertainty Estimation**|Da Fan et.al.|[2507.16219](http://arxiv.org/abs/2507.16219)|null|
@@ -1852,7 +1852,7 @@ layout: default
 |**2025-07-19**|**The Origin of Self-Attention: From Pairwise Affinity Matrices to Transformers**|Giorgio Roffo et.al.|[2507.14560](http://arxiv.org/abs/2507.14560)|null|
 |**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
 |**2025-07-19**|**OptiCorNet: Optimizing Sequence-Based Context Correlation for Visual Place Recognition**|Zhenyu Li et.al.|[2507.14477](http://arxiv.org/abs/2507.14477)|null|
-|**2025-07-19**|**Deep RL Dual Sourcing Inventory Management with Supply and Capacity Risk Awareness**|Feng Liu et.al.|[2507.14446](http://arxiv.org/abs/2507.14446)|null|
+|**2025-07-22**|**Deep RL Dual Sourcing Inventory Management with Supply and Capacity Risk Awareness**|Defeng Liu et.al.|[2507.14446](http://arxiv.org/abs/2507.14446)|null|
 |**2025-07-18**|**DUSTrack: Semi-automated point tracking in ultrasound videos**|Praneeth Namburi et.al.|[2507.14368](http://arxiv.org/abs/2507.14368)|null|
 |**2025-07-18**|**Semantic Segmentation based Scene Understanding in Autonomous Vehicles**|Ehsan Rassekh et.al.|[2507.14303](http://arxiv.org/abs/2507.14303)|null|
 |**2025-07-18**|**MP-GCAN: a highly accurate classifier for $α$-helical membrane proteins and $β$ -barrel proteins**|Kunyang Li et.al.|[2507.14269](http://arxiv.org/abs/2507.14269)|null|
